@@ -1,0 +1,57 @@
+[
+  {
+    "word": "quake",
+    "lemma": "quake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kweɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quakes",
+          "PT": "quaked",
+          "PAP": "quaked",
+          "PRP": "quaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To tremble or shake .",
+        "examples": [
+          "I felt the ground quaking beneath my feet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be in a state of fear, shock, amazement, etc., such as might cause one to tremble.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative"
+        ],
+        "label_groups": "intransitive , figurative"
+      }
+    ],
+    "main_definition": "( intransitive ) To tremble or shake .",
+    "secondary_definitions": [
+      "( intransitive , figurative ) To be in a state of fear, shock, amazement, etc., such as might cause one to tremble."
+    ]
+  }
+]

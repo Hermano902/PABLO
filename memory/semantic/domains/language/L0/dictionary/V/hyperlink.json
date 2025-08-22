@@ -1,0 +1,59 @@
+[
+  {
+    "word": "hyperlink",
+    "lemma": "hyperlink",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhaɪpə(ɹ)ˌlɪŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hyperlinks",
+          "PT": "hyperlinked",
+          "PAP": "hyperlinked",
+          "PRP": "hyperlinking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To point to another document by a hyperlink.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a hypertext document"
+        ],
+        "label_groups": "of a hypertext document"
+      },
+      {
+        "definition": "To add a hyperlink to a document.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To use a hyperlink to jump to a document.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( of a hypertext document ) To point to another document by a hyperlink.",
+    "secondary_definitions": [
+      "To add a hyperlink to a document.",
+      "To use a hyperlink to jump to a document."
+    ]
+  }
+]

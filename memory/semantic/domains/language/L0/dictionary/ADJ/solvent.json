@@ -1,0 +1,50 @@
+[
+  {
+    "word": "solvent",
+    "lemma": "solvent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒlvənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to pay all debts as they become due, and having no more liabilities than assets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "insolvent",
+          "in the red"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "Having the power of dissolving ; causing solution .",
+        "examples": [],
+        "synonyms": [
+          "dissolvent"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( finance ) Able to pay all debts as they become due, and having no more liabilities than assets .",
+    "secondary_definitions": [
+      "Having the power of dissolving ; causing solution ."
+    ]
+  }
+]

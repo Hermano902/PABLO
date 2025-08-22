@@ -1,0 +1,41 @@
+[
+  {
+    "word": "inline",
+    "lemma": "inline",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inlines",
+          "PT": "inlined",
+          "PAP": "inlined",
+          "PRP": "inlining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To optimize using in-line expansion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software compilation"
+        ],
+        "label_groups": "transitive , software compilation"
+      }
+    ],
+    "main_definition": "( transitive , software compilation ) To optimize using in-line expansion .",
+    "secondary_definitions": []
+  }
+]

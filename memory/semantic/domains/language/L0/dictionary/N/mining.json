@@ -1,0 +1,75 @@
+[
+  {
+    "word": "mining",
+    "lemma": "mining",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmaɪnɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "minings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The activity of removing solid valuables from the earth.",
+        "examples": [
+          "gold mining"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any activity that extracts or undermines.",
+        "examples": [
+          "His extensive mining for apparently statistically significant results made any of his results questionable."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "The activity of placing mines (the explosive devices).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      },
+      {
+        "definition": "Creation of new units of cryptocurrency by validating transactions and demonstrating proof of work .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptocurrencies"
+        ],
+        "label_groups": "cryptocurrencies"
+      }
+    ],
+    "main_definition": "The activity of removing solid valuables from the earth.",
+    "secondary_definitions": [
+      "( figuratively ) Any activity that extracts or undermines.",
+      "( military ) The activity of placing mines (the explosive devices).",
+      "( cryptocurrencies ) Creation of new units of cryptocurrency by validating transactions and demonstrating proof of work ."
+    ]
+  }
+]

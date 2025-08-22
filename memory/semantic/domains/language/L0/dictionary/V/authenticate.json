@@ -1,0 +1,57 @@
+[
+  {
+    "word": "authenticate",
+    "lemma": "authenticate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɒˈθɛn.tɪ.keɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "authenticates",
+          "PT": "authenticated",
+          "PAP": "authenticated",
+          "PRP": "authenticating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To render authentic ; to give authority to, by the proof , attestation , or formalities required by law , or sufficient to entitle to credit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To prove authentic; to determine as real and true .",
+        "examples": [
+          "He didn’t manage to authenticate the portrait: it’s probably a fake.",
+          "The server could not authenticate the request."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To render authentic ; to give authority to, by the proof , attestation , or formalities required by law , or sufficient to entitle to credit .",
+    "secondary_definitions": [
+      "( transitive ) To prove authentic; to determine as real and true ."
+    ]
+  }
+]

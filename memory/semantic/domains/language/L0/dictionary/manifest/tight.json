@@ -1,0 +1,37 @@
+{
+  "word": "tight",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 25,
+      "examples": 15,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\tight.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\tight.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tight.json"
+  },
+  "timestamp": "2025-08-19T19:11:59.382524Z"
+}

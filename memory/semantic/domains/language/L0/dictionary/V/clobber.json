@@ -1,0 +1,57 @@
+[
+  {
+    "word": "clobber",
+    "lemma": "clobber",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈklɒb.ə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "clobbers",
+          "PT": "clobbered",
+          "PAP": "clobbered",
+          "PRP": "clobbering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hit or bash severely ; to seriously harm or damage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To overwrite ( data ) or override (an assignment of a value ), often unintentionally or unexpectedly .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "slang"
+        ],
+        "label_groups": "transitive , computing , slang"
+      }
+    ],
+    "main_definition": "( transitive , slang ) To hit or bash severely ; to seriously harm or damage .",
+    "secondary_definitions": [
+      "( transitive , computing , slang ) To overwrite ( data ) or override (an assignment of a value ), often unintentionally or unexpectedly ."
+    ]
+  }
+]

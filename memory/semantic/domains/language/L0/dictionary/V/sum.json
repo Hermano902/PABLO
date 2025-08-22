@@ -1,0 +1,57 @@
+[
+  {
+    "word": "sum",
+    "lemma": "sum",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sʌm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sums",
+          "PT": "summed",
+          "PAP": "summed",
+          "PRP": "summing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To add together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give a summary of.",
+        "examples": [],
+        "synonyms": [
+          "sum up",
+          "summarize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To add together.",
+    "secondary_definitions": [
+      "( transitive ) To give a summary of."
+    ]
+  }
+]

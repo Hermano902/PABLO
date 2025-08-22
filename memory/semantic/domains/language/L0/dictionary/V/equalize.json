@@ -1,0 +1,110 @@
+[
+  {
+    "word": "equalize",
+    "lemma": "equalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːkwəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "equalizes",
+          "PT": "equalized",
+          "PAP": "equalized",
+          "PRP": "equalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make equal; to cause to correspond in amount or degree.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be equal to; to equal , to rival .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive",
+        "dating_raw": "16th–19th c."
+      },
+      {
+        "definition": "To make the scoreline equal by scoring points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "sports"
+        ],
+        "label_groups": "intransitive , sports",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "To clear the ears to balance the pressure in the middle ear with the outside pressure by letting air enter along the Eustachian tubes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "underwater diving"
+        ],
+        "label_groups": "underwater diving"
+      },
+      {
+        "definition": "Said of a morphism : to pre-compose with each of a parallel pair of morphisms so as to yield the same composite morphism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "To adjust the balance between frequency components within an electronic signal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing"
+        ],
+        "label_groups": "signal processing"
+      }
+    ],
+    "main_definition": "( transitive ) To make equal; to cause to correspond in amount or degree.",
+    "secondary_definitions": [
+      "( obsolete , transitive ) To be equal to; to equal , to rival . [16th–19th c.]",
+      "( intransitive , sports ) To make the scoreline equal by scoring points. [from 20th c.]",
+      "( underwater diving ) To clear the ears to balance the pressure in the middle ear with the outside pressure by letting air enter along the Eustachian tubes.",
+      "( category theory ) Said of a morphism : to pre-compose with each of a parallel pair of morphisms so as to yield the same composite morphism.",
+      "( signal processing ) To adjust the balance between frequency components within an electronic signal."
+    ]
+  }
+]

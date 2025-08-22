@@ -1,0 +1,41 @@
+[
+  {
+    "word": "quicksort",
+    "lemma": "quicksort",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɪkˌsɔɹt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quicksorts",
+          "PT": "quicksorted",
+          "PAP": "quicksorted",
+          "PRP": "quicksorting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sort with such an algorithm.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To sort with such an algorithm.",
+    "secondary_definitions": []
+  }
+]

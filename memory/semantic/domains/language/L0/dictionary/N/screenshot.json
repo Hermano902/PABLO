@@ -1,0 +1,44 @@
+[
+  {
+    "word": "screenshot",
+    "lemma": "screenshot",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈskriːn.ʃɒt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "screenshots"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An image of computer or smartphone screen output at a given moment in time .",
+        "examples": [
+          "I grabbed a screenshot of my desktop."
+        ],
+        "synonyms": [
+          "screencast",
+          "screen capture",
+          "screen dump",
+          "screengrab",
+          "screenie",
+          "screencap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) An image of computer or smartphone screen output at a given moment in time .",
+    "secondary_definitions": []
+  }
+]

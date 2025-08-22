@@ -1,0 +1,64 @@
+[
+  {
+    "word": "duration",
+    "lemma": "duration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dʒʊˈɹeɪʃn̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "durations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An amount of time or a particular time interval .",
+        "examples": [
+          "The duration of the flight will be about 2 hours 45 minutes.",
+          "She was moaning for the entire duration of the advert break."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The time taken for the current situation to end, especially the current war .",
+        "examples": [
+          "Rationing will last at least for the duration ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in the singular",
+          "not followed by \"of\""
+        ],
+        "label_groups": "in the singular, not followed by \"of\""
+      },
+      {
+        "definition": "A measure of the sensitivity of the price of a financial asset to changes in interest rates, computed for a simple bond as a weighted average of the maturities of the interest and principal payments associated with it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "An amount of time or a particular time interval .",
+    "secondary_definitions": [
+      "( in the singular, not followed by \"of\" ) The time taken for the current situation to end, especially the current war .",
+      "( finance ) A measure of the sensitivity of the price of a financial asset to changes in interest rates, computed for a simple bond as a weighted average of the maturities of the interest and principal payments associated with it."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "morsel",
+    "lemma": "morsel",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɔːsəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "morsels",
+          "PT": "morseled",
+          "PAP": "morseled",
+          "PRP": "morseling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To divide into small pieces.",
+        "examples": [],
+        "synonyms": [
+          "morselize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To feed with small pieces of food.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "transitive , obsolete , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To divide into small pieces.",
+    "secondary_definitions": [
+      "( transitive , obsolete , rare ) To feed with small pieces of food."
+    ]
+  }
+]

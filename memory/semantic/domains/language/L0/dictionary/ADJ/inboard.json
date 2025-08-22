@@ -1,0 +1,56 @@
+[
+  {
+    "word": "inboard",
+    "lemma": "inboard",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈbɔːɹd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Situated within the hull of a vessel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "outboard"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "Positioned nearer to the centre line of a vessel .",
+        "examples": [
+          "The Airbus A380 only has thrust reversers on its inboard engines."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "outboard"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "aviation"
+        ],
+        "label_groups": "nautical , aviation"
+      }
+    ],
+    "main_definition": "( nautical ) Situated within the hull of a vessel .",
+    "secondary_definitions": [
+      "( nautical , aviation ) Positioned nearer to the centre line of a vessel ."
+    ]
+  }
+]

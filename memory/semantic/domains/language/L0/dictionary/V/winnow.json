@@ -1,0 +1,94 @@
+[
+  {
+    "word": "winnow",
+    "lemma": "winnow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɪnoʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "winnows",
+          "PT": "winnowed",
+          "PAP": "winnowed",
+          "PRP": "winnowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To subject ( granular material , especially food grain ) to a current of air separating heavier and lighter components , as grain from chaff .",
+        "examples": [],
+        "synonyms": [
+          "wind"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "agriculture",
+          "literal"
+        ],
+        "label_groups": "transitive , agriculture , literal"
+      },
+      {
+        "definition": "To separate , sift , analyse , or test by separating items having different values.",
+        "examples": [
+          "They winnowed the field to twelve.",
+          "They winnowed the winners from the losers.",
+          "They winnowed the losers from the winners."
+        ],
+        "synonyms": [
+          "comb out"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To blow upon or toss about by blowing; to set in motion as with a fan or wings .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "literary"
+        ],
+        "label_groups": "transitive , literary"
+      },
+      {
+        "definition": "To move about with a flapping motion, as of wings ; to flutter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "literary",
+          "dated"
+        ],
+        "label_groups": "intransitive , literary , dated"
+      }
+    ],
+    "main_definition": "( transitive , agriculture , literal ) To subject ( granular material , especially food grain ) to a current of air separating heavier and lighter components , as grain from chaff .",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To separate , sift , analyse , or test by separating items having different values.",
+      "( transitive , literary ) To blow upon or toss about by blowing; to set in motion as with a fan or wings .",
+      "( intransitive , literary , dated ) To move about with a flapping motion, as of wings ; to flutter ."
+    ]
+  }
+]

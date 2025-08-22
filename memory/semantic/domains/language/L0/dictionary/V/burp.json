@@ -1,0 +1,85 @@
+[
+  {
+    "word": "burp",
+    "lemma": "burp",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɜːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "burps",
+          "PT": "burped",
+          "PAP": "burped",
+          "PRP": "burping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To emit a burp.",
+        "examples": [
+          "Burping is considered impolite in most western cultures.",
+          "My dad used to burp to hide the fact he was farting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To utter by burping",
+        "examples": [
+          "Stevie intends to burp the alphabet at the school talent show."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause someone (such as a baby ) to burp.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To open (a container of fermenting substance) to allow the release of accumulated gas.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To emit a burp.",
+    "secondary_definitions": [
+      "( transitive ) To utter by burping",
+      "( transitive ) To cause someone (such as a baby ) to burp.",
+      "( transitive ) To open (a container of fermenting substance) to allow the release of accumulated gas."
+    ]
+  }
+]

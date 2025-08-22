@@ -1,0 +1,45 @@
+[
+  {
+    "word": "conductivity",
+    "lemma": "conductivity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "conductivities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The ability of a material to conduct electricity , heat , fluid or sound",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The reciprocal of resistivity",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "The ability of a material to conduct electricity , heat , fluid or sound",
+    "secondary_definitions": [
+      "( physics ) The reciprocal of resistivity"
+    ]
+  }
+]

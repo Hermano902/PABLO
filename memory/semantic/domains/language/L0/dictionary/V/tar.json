@@ -1,0 +1,87 @@
+[
+  {
+    "word": "tar",
+    "lemma": "tar",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɑː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tars",
+          "PT": "tarred",
+          "PAP": "tarred",
+          "PRP": "tarring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To coat with tar.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To besmirch .",
+        "examples": [
+          "The allegations tarred his name, even though he was found innocent."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To coat with tar.",
+    "secondary_definitions": [
+      "( transitive ) To besmirch ."
+    ]
+  },
+  {
+    "word": "tar",
+    "lemma": "tar",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/tɑː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tars",
+          "PT": "tarred",
+          "PAP": "tarred",
+          "PRP": "tarring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a tar archive.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To create a tar archive.",
+    "secondary_definitions": []
+  }
+]

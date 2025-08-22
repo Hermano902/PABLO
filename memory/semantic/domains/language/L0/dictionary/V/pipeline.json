@@ -1,0 +1,68 @@
+[
+  {
+    "word": "pipeline",
+    "lemma": "pipeline",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpaɪpˌlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pipelines",
+          "PT": "pipelined",
+          "PAP": "pipelined",
+          "PRP": "pipelining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To design (a microchip etc.) so that processing takes place in efficient stages, the output of each stage being fed as input to the next.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To convey by a system of pipes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lay a system of pipes through.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To design (a microchip etc.) so that processing takes place in efficient stages, the output of each stage being fed as input to the next.",
+    "secondary_definitions": [
+      "( transitive ) To convey by a system of pipes.",
+      "( transitive ) To lay a system of pipes through."
+    ]
+  }
+]

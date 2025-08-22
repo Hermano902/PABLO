@@ -1,0 +1,54 @@
+[
+  {
+    "word": "dummy",
+    "lemma": "dummy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʌmi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dummies",
+          "PT": "dummied",
+          "PAP": "dummied",
+          "PRP": "dummying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a mock-up or prototype version of something, without some or all off its intended functionality .",
+        "examples": [
+          "The carpenters dummied some props for the rehearsals."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To feint .",
+        "examples": [],
+        "synonyms": [
+          "juke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      }
+    ],
+    "main_definition": "To make a mock-up or prototype version of something, without some or all off its intended functionality .",
+    "secondary_definitions": [
+      "( sports ) To feint ."
+    ]
+  }
+]

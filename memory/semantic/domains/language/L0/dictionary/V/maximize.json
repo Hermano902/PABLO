@@ -1,0 +1,60 @@
+[
+  {
+    "word": "maximize",
+    "lemma": "maximize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæksəmaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "maximizes",
+          "PT": "maximized",
+          "PAP": "maximized",
+          "PRP": "maximizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make as large as possible.",
+        "examples": [
+          "I need to maximize performance.",
+          "Strive to maximize your potential."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To expand (a window ) to fill the main display area.",
+        "examples": [
+          "Since I only have one window open, I maximized the window so that the desktop is not visible."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graphical user interface"
+        ],
+        "label_groups": "computing , graphical user interface"
+      }
+    ],
+    "main_definition": "( transitive ) To make as large as possible.",
+    "secondary_definitions": [
+      "( computing , graphical user interface ) To expand (a window ) to fill the main display area."
+    ]
+  }
+]

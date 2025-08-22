@@ -1,0 +1,91 @@
+[
+  {
+    "word": "digraph",
+    "lemma": "digraph",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaɪɡɹɑːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "digraphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( graph theory ) A directed graph .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( graph theory ) A directed graph .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "digraph",
+    "lemma": "digraph",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈdaɪɡɹɑːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "digraphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A two-character sequence used to enter a single conceptual character.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A pair of letters , especially a pair representing a single phoneme .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "a sequence of two lines, each of which may be unbroken, broken once, or broken twice.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "divination of the Taixuanjing"
+        ],
+        "label_groups": "divination of the Taixuanjing"
+      }
+    ],
+    "main_definition": "( computing ) A two-character sequence used to enter a single conceptual character.",
+    "secondary_definitions": [
+      "( linguistics ) A pair of letters , especially a pair representing a single phoneme .",
+      "( divination of the Taixuanjing ) a sequence of two lines, each of which may be unbroken, broken once, or broken twice."
+    ]
+  }
+]

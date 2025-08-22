@@ -1,0 +1,59 @@
+[
+  {
+    "word": "calorie",
+    "lemma": "calorie",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæləɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "calories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A non- SI unit of energy , equivalent to 4.184 kilojoules , that can raise the temperature of a kilogram of water by one degree Celsius . This is the unit normally used in food labeling.",
+        "examples": [],
+        "synonyms": [
+          "large calorie",
+          "kilocalorie",
+          "Calorie",
+          "kilogram calorie"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nutrition"
+        ],
+        "label_groups": "nutrition"
+      },
+      {
+        "definition": "A non- SI unit of energy , equivalent to 4.184 joules , that can raise the temperature of a gram of water by one degree Celsius . This unit was formerly widely used in chemistry and physics .",
+        "examples": [],
+        "synonyms": [
+          "small calorie",
+          "gram calorie",
+          "thermochemical calorie"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physical chemistry",
+          "physics"
+        ],
+        "label_groups": "physical chemistry , physics"
+      }
+    ],
+    "main_definition": "( nutrition ) A non- SI unit of energy , equivalent to 4.184 kilojoules , that can raise the temperature of a kilogram of water by one degree Celsius . This is the unit normally used in food labeling.",
+    "secondary_definitions": [
+      "( physical chemistry , physics ) A non- SI unit of energy , equivalent to 4.184 joules , that can raise the temperature of a gram of water by one degree Celsius . This unit was formerly widely used in chemistry and physics ."
+    ]
+  }
+]

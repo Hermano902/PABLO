@@ -1,0 +1,85 @@
+[
+  {
+    "word": "predict",
+    "lemma": "predict",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈdɪkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "predicts",
+          "PT": "predicted",
+          "PAP": "predicted",
+          "PRP": "predicting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a prediction : to forecast , foretell , or estimate a future event on the basis of knowledge and reasoning ; to prophesy a future event on the basis of mystical knowledge or power .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To imply .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of theories",
+          "laws",
+          "etc."
+        ],
+        "label_groups": "transitive , of theories, laws, etc."
+      },
+      {
+        "definition": "To make predictions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To direct a ranged weapon against a target by means of a predictor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military",
+          "rare"
+        ],
+        "label_groups": "transitive , military , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To make a prediction : to forecast , foretell , or estimate a future event on the basis of knowledge and reasoning ; to prophesy a future event on the basis of mystical knowledge or power .",
+    "secondary_definitions": [
+      "( transitive , of theories, laws, etc. ) To imply .",
+      "( intransitive ) To make predictions .",
+      "( transitive , military , rare ) To direct a ranged weapon against a target by means of a predictor ."
+    ]
+  }
+]

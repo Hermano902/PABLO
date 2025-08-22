@@ -1,0 +1,75 @@
+[
+  {
+    "word": "evaluate",
+    "lemma": "evaluate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɨˈvaljʊeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "evaluates",
+          "PT": "evaluated",
+          "PAP": "evaluated",
+          "PRP": "evaluating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw conclusions from examining ; to assess ; to appraise.",
+        "examples": [
+          "It will take several years to evaluate the material gathered in the survey."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To compute or determine the value of (an expression).",
+        "examples": [
+          "Evaluate this integral."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics",
+          "computing"
+        ],
+        "label_groups": "transitive , mathematics , computing"
+      },
+      {
+        "definition": "To return or have a specific value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "mathematics"
+        ],
+        "label_groups": "intransitive , computing , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To draw conclusions from examining ; to assess ; to appraise.",
+    "secondary_definitions": [
+      "( transitive , mathematics , computing ) To compute or determine the value of (an expression).",
+      "( intransitive , computing , mathematics ) To return or have a specific value ."
+    ]
+  }
+]

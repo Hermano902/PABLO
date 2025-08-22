@@ -1,0 +1,41 @@
+[
+  {
+    "word": "timestamp",
+    "lemma": "timestamp",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪmˌstæmp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "timestamps",
+          "PT": "timestamped",
+          "PAP": "timestamped",
+          "PRP": "timestamping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To record the date and time of (an event, etc).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "especially computing"
+        ],
+        "label_groups": "transitive , especially computing"
+      }
+    ],
+    "main_definition": "( transitive , especially computing ) To record the date and time of (an event, etc).",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "word": "dob",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dob.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dob.json"
+  },
+  "timestamp": "2025-08-19T02:13:44.858127Z"
+}

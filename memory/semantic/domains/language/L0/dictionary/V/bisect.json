@@ -1,0 +1,66 @@
+[
+  {
+    "word": "bisect",
+    "lemma": "bisect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/baɪˈsɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bisects",
+          "PT": "bisected",
+          "PAP": "bisected",
+          "PRP": "bisecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut or divide into two parts.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To divide an angle , line segment , or other figure into two equal parts.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "geometry"
+            ],
+            "label_groups": "transitive , geometry"
+          },
+          {
+            "definition": "To perform a binary search on files in source control in order to identify the specific change that introduced a bug etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cut or divide into two parts.",
+    "secondary_definitions": []
+  }
+]

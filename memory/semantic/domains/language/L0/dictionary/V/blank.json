@@ -1,0 +1,126 @@
+[
+  {
+    "word": "blank",
+    "lemma": "blank",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/blæŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "blanks",
+          "PT": "blanked",
+          "PAP": "blanked",
+          "PRP": "blanking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make void ; to erase .",
+        "examples": [
+          "I blanked out my previous entry."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ignore (a person) deliberately.",
+        "examples": [
+          "She blanked me for no reason."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To render ineffective by blanketing with turbulent airflow , such as from aircraft wake or reverse thrust .",
+        "examples": [
+          "At high angles of attack, the shuttle’s rudder is blanked by the fuselage and wings, forcing it to use its RCS thrusters for yaw control."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "aviation",
+          "of a control surface"
+        ],
+        "label_groups": "transitive , aviation , of a control surface"
+      },
+      {
+        "definition": "To prevent from scoring ; for example, in a sporting event.",
+        "examples": [
+          "The team was blanked .",
+          "England blanks Wales to advance to the final."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become blank .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To experience a temporary lapse of memory; to be temporarily unable to remember a particular fact. ( Commonly used in the first person , present progressive tense, and commonly followed by on to create a transitive phrasal verb . )",
+        "examples": [
+          "I’m blanking on her name right now.",
+          "She asked him a simple question during the interview, and he blanked ."
+        ],
+        "synonyms": [
+          "draw a blank",
+          "freeze",
+          "freeze up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "informal"
+        ],
+        "label_groups": "intransitive , informal"
+      }
+    ],
+    "main_definition": "( transitive ) To make void ; to erase .",
+    "secondary_definitions": [
+      "( transitive , slang ) To ignore (a person) deliberately.",
+      "( transitive , aviation , of a control surface ) To render ineffective by blanketing with turbulent airflow , such as from aircraft wake or reverse thrust .",
+      "( transitive ) To prevent from scoring ; for example, in a sporting event.",
+      "( intransitive ) To become blank .",
+      "( intransitive , informal ) To experience a temporary lapse of memory; to be temporarily unable to remember a particular fact. ( Commonly used in the first person , present progressive tense, and commonly followed by on to create a transitive phrasal verb . )"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "off",
+    "lemma": "off",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɒf/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "offs",
+          "PT": "offed",
+          "PAP": "offed",
+          "PRP": "offing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To kill .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To switch off .",
+        "examples": [
+          "Can you off the light?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Singapore",
+          "Philippines",
+          "Nigeria"
+        ],
+        "label_groups": "transitive , Singapore , Philippines , Nigeria"
+      }
+    ],
+    "main_definition": "( transitive , slang ) To kill .",
+    "secondary_definitions": [
+      "( transitive , Singapore , Philippines , Nigeria ) To switch off ."
+    ]
+  }
+]

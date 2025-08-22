@@ -1,0 +1,112 @@
+[
+  {
+    "word": "lawn",
+    "lemma": "lawn",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/lɔːn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lawns"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Ground (generally in front of or around a house) covered with grass kept closely mown .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( England , historical or regional ) An open space between woods .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( biology ) An overgrown agar culture , such that no separation between single colonies exists.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Ground (generally in front of or around a house) covered with grass kept closely mown .",
+    "secondary_definitions": [
+      "( England , historical or regional ) An open space between woods .",
+      "( biology ) An overgrown agar culture , such that no separation between single colonies exists."
+    ]
+  },
+  {
+    "word": "lawn",
+    "lemma": "lawn",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/lɔːn/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lawns"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "A type of thin linen or cotton .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Pieces of this fabric, especially as used for the sleeves of a bishop .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in the plural"
+        ],
+        "label_groups": "in the plural"
+      },
+      {
+        "definition": "A piece of clothing made from lawn.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "obsolete"
+        ],
+        "label_groups": "countable , obsolete"
+      }
+    ],
+    "main_definition": "( uncountable ) A type of thin linen or cotton .",
+    "secondary_definitions": [
+      "( in the plural ) Pieces of this fabric, especially as used for the sleeves of a bishop .",
+      "( countable , obsolete ) A piece of clothing made from lawn."
+    ]
+  }
+]

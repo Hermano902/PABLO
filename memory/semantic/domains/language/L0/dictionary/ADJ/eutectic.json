@@ -1,0 +1,47 @@
+[
+  {
+    "word": "eutectic",
+    "lemma": "eutectic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/juˈtɛk.tɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Describing the chemical composition or temperature of a mixture of substances that gives the lowest temperature at which the mixture becomes fully molten . A further requirement is that that temperature is lower than the melting point of any of the pure component substances.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Describing the thermodynamic equilibrium conditions where a liquid coexists with two solid phases .",
+        "examples": [
+          "For a mixture with two components at a fixed pressure, the eutectic reaction can only happen at a fixed chemical composition and temperature , called the eutectic point."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "Describing the chemical composition or temperature of a mixture of substances that gives the lowest temperature at which the mixture becomes fully molten . A further requirement is that that temperature is lower than the melting point of any of the pure component substances.",
+    "secondary_definitions": [
+      "( chemistry ) Describing the thermodynamic equilibrium conditions where a liquid coexists with two solid phases ."
+    ]
+  }
+]

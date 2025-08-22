@@ -1,0 +1,35 @@
+[
+  {
+    "word": "include",
+    "lemma": "include",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkluːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "includes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+    "secondary_definitions": []
+  }
+]

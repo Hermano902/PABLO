@@ -1,0 +1,161 @@
+[
+  {
+    "word": "container",
+    "lemma": "container",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈteɪnə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "containers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who contains ; something that contains.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An item in which objects, materials or data can be stored or transported .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A very large, typically metal, box used for transporting goods.",
+        "examples": [],
+        "synonyms": [
+          "cargo container",
+          "shipping container"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transport"
+        ],
+        "label_groups": "transport"
+      },
+      {
+        "definition": "Someone who holds people in their seats or in a (reasonably) calm state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A file format that can hold various types of data.",
+            "examples": [],
+            "synonyms": [
+              "container format"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "file format"
+            ],
+            "label_groups": "file format"
+          },
+          {
+            "definition": "An abstract data type whose instances are collections of other objects.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "object-oriented programming"
+            ],
+            "label_groups": "object-oriented programming"
+          },
+          {
+            "definition": "Any user interface component that can hold further ( child ) components.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "graphical user interface"
+            ],
+            "label_groups": "graphical user interface"
+          },
+          {
+            "definition": "A web container .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Java programming language"
+            ],
+            "label_groups": "Java programming language"
+          },
+          {
+            "definition": "A bundle consisting of operating system , application code and dependencies to be run sandboxed inside a virtualized environment ; ( by extension ) the environment itself.",
+            "examples": [],
+            "synonyms": [
+              "software container"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cloud computing"
+            ],
+            "label_groups": "cloud computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A type of cryptic device where one word is inserted into another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crosswording"
+        ],
+        "label_groups": "crosswording"
+      }
+    ],
+    "main_definition": "Someone who contains ; something that contains.",
+    "secondary_definitions": [
+      "An item in which objects, materials or data can be stored or transported .",
+      "( transport ) A very large, typically metal, box used for transporting goods.",
+      "( by extension ) Someone who holds people in their seats or in a (reasonably) calm state.",
+      "( computing )",
+      "( crosswording ) A type of cryptic device where one word is inserted into another."
+    ]
+  }
+]

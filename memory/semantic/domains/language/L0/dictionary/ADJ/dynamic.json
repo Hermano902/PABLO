@@ -1,0 +1,120 @@
+[
+  {
+    "word": "dynamic",
+    "lemma": "dynamic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈnæm.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more dynamic",
+          "SUP": "most dynamic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Changing; active ; in motion .",
+        "examples": [
+          "The environment is dynamic , changing with the years and the seasons.",
+          "dynamic economy"
+        ],
+        "synonyms": [
+          "active",
+          "fluid",
+          "moving"
+        ],
+        "antonyms": [
+          "static"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Powerful ; energetic .",
+        "examples": [
+          "He was a dynamic and engaging speaker."
+        ],
+        "synonyms": [
+          "energetic",
+          "powerful"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to change and adapt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having to do with the volume of sound .",
+        "examples": [
+          "The dynamic marking in bar 40 is forte."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Happening at runtime instead of being predetermined at compile time .",
+        "examples": [
+          "dynamic allocation",
+          "dynamic IP addresses",
+          "the dynamic resizing of an array"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "static"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Pertaining to dynamics , the branch of mechanics concerned with the effects of forces on the motion of objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a verb : not stative , but fientive ; indicating continued or progressive action on the part of the subject .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "Changing; active ; in motion .",
+    "secondary_definitions": [
+      "Powerful ; energetic .",
+      "Able to change and adapt .",
+      "( music ) Having to do with the volume of sound .",
+      "( computing ) Happening at runtime instead of being predetermined at compile time .",
+      "Pertaining to dynamics , the branch of mechanics concerned with the effects of forces on the motion of objects.",
+      "( grammar ) Of a verb : not stative , but fientive ; indicating continued or progressive action on the part of the subject ."
+    ]
+  }
+]

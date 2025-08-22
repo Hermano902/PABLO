@@ -1,0 +1,55 @@
+[
+  {
+    "word": "unbutton",
+    "lemma": "unbutton",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈbʌtən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unbuttons",
+          "PT": "unbuttoned",
+          "PAP": "unbuttoned",
+          "PRP": "unbuttoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To open (something) by undoing its buttons.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To come open by having its buttons unfastened.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "ergative"
+        ],
+        "label_groups": "intransitive , ergative"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To open (something) by undoing its buttons.",
+    "secondary_definitions": [
+      "( intransitive , ergative ) To come open by having its buttons unfastened."
+    ]
+  }
+]

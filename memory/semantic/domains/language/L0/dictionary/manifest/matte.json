@@ -1,0 +1,37 @@
+{
+  "word": "matte",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 2,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\matte.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\matte.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\matte.json"
+  },
+  "timestamp": "2025-08-19T08:43:08.353274Z"
+}

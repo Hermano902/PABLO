@@ -1,0 +1,58 @@
+{
+  "word": "down",
+  "pos_order": [
+    "ADV",
+    "PREP",
+    "ADJ",
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2"
+  ],
+  "pos": {
+    "ADV": {
+      "definitions": 23,
+      "examples": 33,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PREP": {
+      "definitions": 5,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 20,
+      "examples": 27,
+      "synonyms": 3,
+      "antonyms": 5,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 16,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\down.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\down.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\down.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\down.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\down.json"
+  },
+  "timestamp": "2025-08-19T02:20:48.059232Z"
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "flux",
+    "lemma": "flux",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/flʌks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fluxes",
+          "PT": "fluxed",
+          "PAP": "fluxed",
+          "PRP": "fluxing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use flux on.",
+        "examples": [
+          "You have to flux the joint before soldering."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To melt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To flow as a liquid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To use flux on.",
+    "secondary_definitions": [
+      "( transitive ) To melt .",
+      "( intransitive ) To flow as a liquid ."
+    ]
+  }
+]

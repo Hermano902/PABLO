@@ -1,0 +1,71 @@
+[
+  {
+    "word": "slow",
+    "lemma": "slow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sləʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "slows",
+          "PT": "slowed",
+          "PAP": "slowed",
+          "PRP": "slowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make (something) run , move , etc. less quickly ; to reduce the speed of.",
+        "examples": [
+          "slow the process"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To keep from going quickly; to hinder the progress of.",
+        "examples": [
+          "slow the traffic"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become slow; to slacken in speed ; to decelerate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make (something) run , move , etc. less quickly ; to reduce the speed of.",
+    "secondary_definitions": [
+      "( transitive ) To keep from going quickly; to hinder the progress of.",
+      "( intransitive ) To become slow; to slacken in speed ; to decelerate ."
+    ]
+  }
+]

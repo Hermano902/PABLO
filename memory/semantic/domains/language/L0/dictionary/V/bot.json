@@ -1,0 +1,91 @@
+[
+  {
+    "word": "bot",
+    "lemma": "bot",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɒt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bots",
+          "PT": "botted",
+          "PAP": "botted",
+          "PRP": "botting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( British , slang ) To bugger .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Australia , informal ) To ask for and be given something with the direct intention of exploiting the thing’s usefulness, almost exclusively with cigarettes.",
+        "examples": [
+          "Can I bot a smoke?",
+          "Jonny always bots off me. I just wish he’d get his own pack."
+        ],
+        "synonyms": [
+          "bum"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( British , slang ) To bugger .",
+    "secondary_definitions": [
+      "( Australia , informal ) To ask for and be given something with the direct intention of exploiting the thing’s usefulness, almost exclusively with cigarettes."
+    ]
+  },
+  {
+    "word": "bot",
+    "lemma": "bot",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɒt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bots",
+          "PT": "botted",
+          "PAP": "botted",
+          "PRP": "botting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use a bot , or automated program.",
+        "examples": [
+          "Players caught botting will be banned from the server."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( video games ) To use a bot , or automated program.",
+    "secondary_definitions": []
+  }
+]

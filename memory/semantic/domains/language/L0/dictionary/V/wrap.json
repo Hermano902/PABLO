@@ -1,0 +1,137 @@
+[
+  {
+    "word": "wrap",
+    "lemma": "wrap",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wraps",
+          "PT": "wrapped",
+          "PAP": "wrapped",
+          "PRP": "wrapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enclose (an object) completely in any flexible, thin material such as fabric or paper .",
+        "examples": [
+          "Christmas gifts are commonly known to be wrapped in paper."
+        ],
+        "synonyms": [
+          "bind",
+          "wind"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enclose or coil around an object or organism, as a form of grasping .",
+        "examples": [
+          "A snake wraps itself around its prey."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To conceal by enveloping or enfolding; to hide.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To finish shooting (filming) a video, television show, or movie.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive or intransitive",
+          "video production"
+        ],
+        "label_groups": "transitive or intransitive , video production"
+      },
+      {
+        "definition": "To break a continuous line (of text) onto the next line",
+        "examples": [
+          "I wrapped the text so that I wouldn't need to scroll to the right to read it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "lines",
+          "words",
+          "text",
+          "etc."
+        ],
+        "label_groups": "transitive , lines, words, text, etc."
+      },
+      {
+        "definition": "To make functionality available through a software wrapper .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To (cause to) reset to an original value after passing a maximum.",
+        "examples": [
+          "The row counter wraps back to zero when no more rows can be inserted."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive or intransitive"
+        ],
+        "label_groups": "transitive or intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To enclose (an object) completely in any flexible, thin material such as fabric or paper .",
+    "secondary_definitions": [
+      "( transitive ) To enclose or coil around an object or organism, as a form of grasping .",
+      "( transitive , figurative ) To conceal by enveloping or enfolding; to hide.",
+      "( transitive or intransitive , video production ) To finish shooting (filming) a video, television show, or movie.",
+      "( transitive , lines, words, text, etc. ) To break a continuous line (of text) onto the next line",
+      "( computing , transitive ) To make functionality available through a software wrapper .",
+      "( transitive or intransitive ) To (cause to) reset to an original value after passing a maximum."
+    ]
+  }
+]

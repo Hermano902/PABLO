@@ -1,0 +1,45 @@
+[
+  {
+    "word": "keyring",
+    "lemma": "keyring",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkiːɹɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "keyrings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A ring, normally of metal or plastic , for holding keys together .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of data holding linked encryption keys .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "A ring, normally of metal or plastic , for holding keys together .",
+    "secondary_definitions": [
+      "( cryptography ) A set of data holding linked encryption keys ."
+    ]
+  }
+]

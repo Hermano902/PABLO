@@ -1,0 +1,64 @@
+[
+  {
+    "word": "rebuild",
+    "lemma": "rebuild",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈbɪld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rebuilds",
+          "PT": "rebuilt",
+          "PAP": "rebuilt",
+          "PRP": "rebuilding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To build again or anew .",
+        "examples": [],
+        "synonyms": [
+          "reassemble",
+          "reconstruct",
+          "remanufacture"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To attempt to improve one's performance during a period of struggling.",
+        "examples": [
+          "After missing the playoffs for the seventh straight season in a row, the Detroit Red Wings are trying to rebuild ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "said of sports teams"
+        ],
+        "label_groups": [
+          "figurative",
+          "said of sports teams"
+        ]
+      }
+    ],
+    "main_definition": "( ambitransitive ) To build again or anew .",
+    "secondary_definitions": [
+      "( figurative ) (said of sports teams) To attempt to improve one's performance during a period of struggling."
+    ]
+  }
+]

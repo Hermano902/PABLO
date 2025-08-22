@@ -1,0 +1,272 @@
+[
+  {
+    "word": "space",
+    "lemma": "space",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/speɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spaces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unlimited or generalized extent, physical or otherwise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The Distance between objects .",
+            "examples": [],
+            "synonyms": [
+              "break",
+              "gap"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "A physical extent across two or three dimensions (sometimes for or to do something).",
+            "examples": [],
+            "synonyms": [
+              "area",
+              "volume"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "A physical extent in all directions, seen as an attribute of the universe (now usually considered as a part of space-time ), or a mathematical model of this.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "The near- vacuum in which planets , stars and other celestial objects are situated; the universe beyond the earth's atmosphere.",
+            "examples": [
+              "the first man in space"
+            ],
+            "synonyms": [
+              "outer space"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "The physical and psychological area one needs within which to live or operate; personal freedom .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 20 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "Of time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Free time ; leisure , opportunity .",
+            "examples": [],
+            "synonyms": [
+              "leisure time",
+              "spare time"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now rare",
+              "archaic"
+            ],
+            "label_groups": "now rare , archaic",
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "A specific (specified) period of time .",
+            "examples": [],
+            "synonyms": [
+              "duration",
+              "span"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "An undefined period of time (without qualifier, especially a short period); a while .",
+            "examples": [],
+            "synonyms": [
+              "spell",
+              "while"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 15 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "A bounded or specific extent, physical or otherwise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A (chiefly empty) area or volume with set limits or boundaries .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "A position on the staff or stave bounded by lines.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music",
+            "dating_raw": "from 15 c."
+          },
+          {
+            "definition": "A gap in text between words , lines etc., or a digital character used to create such a gap.",
+            "examples": [],
+            "synonyms": [
+              "blank",
+              "gap",
+              "whitespace"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "A piece of metal type used to separate words , cast lower than other type so as not to take ink, especially one that is narrower than one en (compare quad ).",
+            "examples": [],
+            "synonyms": [
+              "quad",
+              "quadrat"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "letterpress typography"
+            ],
+            "label_groups": "letterpress typography",
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "A gap ; an empty place.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "A set of points , each of which is uniquely specified by a number (the dimensionality ) of coordinates .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          },
+          {
+            "definition": "A generalized construct or set whose members have some property in common; typically there will be a geometric metaphor allowing these members to be viewed as \"points\". Often used with a restricting modifier describing the members (e.g. vector space ), or indicating the inventor of the construct (e.g. Hilbert space ).",
+            "examples": [
+              "Functional analysis is best approached through a sound knowledge of Hilbert space theory."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "countable",
+              "mathematics"
+            ],
+            "label_groups": "countable , mathematics",
+            "dating_raw": "from 20 c."
+          },
+          {
+            "definition": "A field , area , or sphere of activity or endeavour.",
+            "examples": [
+              "innovation in the browser space"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "countable",
+              "figuratively"
+            ],
+            "label_groups": "countable , figuratively"
+          },
+          {
+            "definition": "Anything analogous to a physical space in which one can interact, such as an online chat room .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      }
+    ],
+    "main_definition": "( heading ) Unlimited or generalized extent, physical or otherwise.",
+    "secondary_definitions": [
+      "( heading ) Of time.",
+      "( heading ) A bounded or specific extent, physical or otherwise."
+    ]
+  }
+]

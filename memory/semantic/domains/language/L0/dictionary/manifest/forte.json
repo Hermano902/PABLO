@@ -1,0 +1,38 @@
+{
+  "word": "forte",
+  "pos_order": [
+    "N",
+    "ADV",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\forte.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\forte.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\forte.json"
+  },
+  "timestamp": "2025-08-19T04:01:12.533451Z"
+}

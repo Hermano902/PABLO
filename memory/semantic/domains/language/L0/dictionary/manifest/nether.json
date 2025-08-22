@@ -1,0 +1,46 @@
+{
+  "word": "nether",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\nether.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\nether.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nether.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nether.json"
+  },
+  "timestamp": "2025-08-19T10:01:39.330053Z"
+}

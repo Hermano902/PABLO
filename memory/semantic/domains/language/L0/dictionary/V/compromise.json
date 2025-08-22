@@ -1,0 +1,102 @@
+[
+  {
+    "word": "compromise",
+    "lemma": "compromise",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒmpɹəˌmaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "compromises",
+          "PT": "compromised",
+          "PAP": "compromised",
+          "PRP": "compromising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bind by mutual agreement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To adjust and settle by mutual concessions ; to compound .",
+        "examples": [],
+        "synonyms": [
+          "split the difference"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To find a way between extremes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To pledge by some act or declaration; to endanger the life, reputation, etc., of, by some act which can not be recalled; to expose to suspicion.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To cause impairment of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To breach (a security system).",
+        "examples": [
+          "They tried to compromise the security in the computer by guessing the password."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To bind by mutual agreement .",
+    "secondary_definitions": [
+      "To adjust and settle by mutual concessions ; to compound .",
+      "( intransitive ) To find a way between extremes.",
+      "To pledge by some act or declaration; to endanger the life, reputation, etc., of, by some act which can not be recalled; to expose to suspicion.",
+      "( transitive ) To cause impairment of.",
+      "( transitive ) To breach (a security system)."
+    ]
+  }
+]

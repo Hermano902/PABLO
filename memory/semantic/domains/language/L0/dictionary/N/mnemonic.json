@@ -1,0 +1,61 @@
+[
+  {
+    "word": "mnemonic",
+    "lemma": "mnemonic",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nɪˈmɒnɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mnemonics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something (especially a series of ideas , letters , words , etc.) used to help in remembering a thing ; a memory aid .",
+        "examples": [],
+        "synonyms": [
+          "aide-mémoire",
+          "mnemonicon"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The human-readable , textual form of an assembly language instruction , not including operands .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Synonym of mnemonics ( “ the study of techniques for remembering anything more easily ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Something (especially a series of ideas , letters , words , etc.) used to help in remembering a thing ; a memory aid .",
+    "secondary_definitions": [
+      "( computing ) The human-readable , textual form of an assembly language instruction , not including operands .",
+      "( obsolete ) Synonym of mnemonics ( “ the study of techniques for remembering anything more easily ” ) ."
+    ]
+  }
+]

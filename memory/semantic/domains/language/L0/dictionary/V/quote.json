@@ -1,0 +1,98 @@
+[
+  {
+    "word": "quote",
+    "lemma": "quote",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kwəʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quotes",
+          "PT": "quoted",
+          "PAP": "quoted",
+          "PRP": "quoting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To repeat (the exact words of a person).",
+        "examples": [
+          "The writer quoted the president's speech."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To prepare a summary of work to be done and set a price ; to estimate .",
+        "examples": [
+          "Can you believe they quoted me $5,000?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To name the current price, notably of a financial security.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commerce",
+          "transitive"
+        ],
+        "label_groups": "commerce , transitive"
+      },
+      {
+        "definition": "To indicate verbally or by equivalent means the start of a quotation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To observe, to take account of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To repeat (the exact words of a person).",
+    "secondary_definitions": [
+      "( transitive ) To prepare a summary of work to be done and set a price ; to estimate .",
+      "( commerce , transitive ) To name the current price, notably of a financial security.",
+      "( intransitive ) To indicate verbally or by equivalent means the start of a quotation .",
+      "( archaic ) To observe, to take account of."
+    ]
+  }
+]

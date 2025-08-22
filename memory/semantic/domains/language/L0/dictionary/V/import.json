@@ -1,0 +1,159 @@
+[
+  {
+    "word": "import",
+    "lemma": "import",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪm.pɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "imports",
+          "PT": "imported",
+          "PAP": "imported",
+          "PRP": "importing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To bring (something) in from a foreign country, especially for sale or trade.",
+        "examples": [
+          "Nauru imports foods from Australia because phosphate mining destroyed land for farming."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "export"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , computing ) To load a file into a software application from another version or system.",
+        "examples": [
+          "How can I import files from older versions of this application?"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "export"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To bring (something) in from a foreign country, especially for sale or trade.",
+    "secondary_definitions": [
+      "( transitive , computing ) To load a file into a software application from another version or system."
+    ]
+  },
+  {
+    "word": "import",
+    "lemma": "import",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈɪm.pɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "imports",
+          "PT": "imported",
+          "PAP": "imported",
+          "PRP": "importing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be important; to be significant; to be of consequence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be of importance to (someone or something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be incumbent on (someone to do something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be important or crucial to (that something happen).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mean, signify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To express , to imply.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( intransitive ) To be important; to be significant; to be of consequence.",
+    "secondary_definitions": [
+      "( transitive ) To be of importance to (someone or something).",
+      "( transitive ) To be incumbent on (someone to do something).",
+      "( transitive ) To be important or crucial to (that something happen).",
+      "( transitive ) To mean, signify .",
+      "( transitive , archaic ) To express , to imply."
+    ]
+  }
+]

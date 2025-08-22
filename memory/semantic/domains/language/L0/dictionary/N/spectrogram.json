@@ -1,0 +1,45 @@
+[
+  {
+    "word": "spectrogram",
+    "lemma": "spectrogram",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈspɛktɹəˌɡɹæm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spectrograms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A visual representation of the spectrum of a sound changing through time .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A visual representation of the spectrum of a celestial body's radiation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "A visual representation of the spectrum of a sound changing through time .",
+    "secondary_definitions": [
+      "( astronomy ) A visual representation of the spectrum of a celestial body's radiation ."
+    ]
+  }
+]

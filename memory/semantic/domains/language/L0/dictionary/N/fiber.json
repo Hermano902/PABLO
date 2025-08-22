@@ -1,0 +1,148 @@
+[
+  {
+    "word": "fiber",
+    "lemma": "fiber",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪ.bɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fibers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single elongated piece of a given material, roughly round in cross-section, often twisted with other fibers to form thread .",
+        "examples": [
+          "The microscope showed a single blue fiber stuck to the sole of the shoe."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A material in the form of fibers.",
+        "examples": [
+          "The cloth is made from strange, somewhat rough fiber ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A material whose length is at least 1000 times its width .",
+        "examples": [
+          "Please use polyester fiber for this shirt."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "textiles"
+        ],
+        "label_groups": "textiles"
+      },
+      {
+        "definition": "Dietary fiber .",
+        "examples": [
+          "Fresh vegetables are a good source of fiber ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Moral strength and resolve .",
+        "examples": [
+          "The ordeal was a test of everyone's fiber ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "The preimage of a given point in the range of a map.",
+        "examples": [
+          "Under this map, any two values in the fiber of a given point on the circle differ by 2π."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The pullback of a morphism along a global element (called the fiber of the morphism over the global element).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A kind of lightweight thread of execution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A long tubular cell found in bodily tissue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cytology"
+        ],
+        "label_groups": "cytology"
+      }
+    ],
+    "main_definition": "( countable ) A single elongated piece of a given material, roughly round in cross-section, often twisted with other fibers to form thread .",
+    "secondary_definitions": [
+      "( uncountable ) A material in the form of fibers.",
+      "( textiles ) A material whose length is at least 1000 times its width .",
+      "Dietary fiber .",
+      "( figuratively ) Moral strength and resolve .",
+      "( mathematics ) The preimage of a given point in the range of a map.",
+      "( category theory ) The pullback of a morphism along a global element (called the fiber of the morphism over the global element).",
+      "( computing ) A kind of lightweight thread of execution .",
+      "( cytology ) A long tubular cell found in bodily tissue."
+    ]
+  }
+]

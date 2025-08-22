@@ -1,0 +1,66 @@
+[
+  {
+    "word": "affordance",
+    "lemma": "affordance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "CT",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "affordances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Anything that is provided or furnished by an environment to an organism dwelling within it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology",
+          "philosophy",
+          "robotics"
+        ],
+        "label_groups": "psychology , philosophy , robotics"
+      },
+      {
+        "definition": "A potential transaction or operation that is made possible by a given object or environment ; especially , one that is made easily discoverable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "human-machine interaction"
+        ],
+        "label_groups": "human-machine interaction"
+      },
+      {
+        "definition": "Any interactive control or component serving as a cue to the user to take some action.",
+        "examples": [
+          "The grab handles on the edges of this image are affordances that the user can exploit to change the size of the image."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      }
+    ],
+    "main_definition": "( psychology , philosophy , robotics ) Anything that is provided or furnished by an environment to an organism dwelling within it.",
+    "secondary_definitions": [
+      "( human-machine interaction ) A potential transaction or operation that is made possible by a given object or environment ; especially , one that is made easily discoverable.",
+      "( graphical user interface ) Any interactive control or component serving as a cue to the user to take some action."
+    ]
+  }
+]

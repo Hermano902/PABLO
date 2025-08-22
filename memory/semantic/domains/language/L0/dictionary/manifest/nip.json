@@ -1,0 +1,33 @@
+{
+  "word": "nip",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2",
+    "V:3",
+    "N:4"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 11,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "N": {
+      "definitions": 14,
+      "examples": 6,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nip.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nip.json"
+  },
+  "timestamp": "2025-08-19T10:08:21.666201Z"
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "word": "graph",
+    "lemma": "graph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡɹɑːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "graphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A data chart (graphical representation of data) intended to illustrate the relationship between a set (or sets) of numbers ( quantities , measurements or indicative numbers) and a reference set, whose elements are indexed to those of the former set(s) and may or may not be numbers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "applied mathematics",
+          "statistics"
+        ],
+        "label_groups": "applied mathematics , statistics"
+      },
+      {
+        "definition": "A set of points constituting a graphical representation of a real function ; ( formally ) a set of tuples ( x 1 , x 2 , … , x m , y ) ∈ R m + 1 {\\displaystyle (x_{1},x_{2},\\ldots ,x_{m},y)\\in \\mathbb {R} ^{m+1}} , where y = f ( x 1 , x 2 , … , x m ) {\\displaystyle y=f(x_{1},x_{2},\\ldots ,x_{m})} for a given function f : R m → R {\\displaystyle f:\\mathbb {R} ^{m}\\rightarrow \\mathbb {R} } . See also Graph of a function on  Wikipedia. Wikipedia",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A set of vertices (or nodes ) connected together by edges ; ( formally ) an ordered pair of sets ( V , E ) {\\displaystyle (V,E)} , where the elements of V {\\displaystyle V} are called vertices or nodes and E {\\displaystyle E} is a set of pairs (called edges ) of elements of V {\\displaystyle V} . See also Graph (discrete mathematics) on  Wikipedia. Wikipedia",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "A topological space which represents some graph (ordered pair of sets) and which is constructed by representing the vertices as points and the edges as copies of the real interval [0,1] (where, for any given edge, 0 and 1 are identified with the points representing the two vertices) and equipping the result with a particular topology called the graph topology .",
+        "examples": [],
+        "synonyms": [
+          "topological graph"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "A morphism Γ f {\\displaystyle \\Gamma _{f}} from the domain of f {\\displaystyle f} to the product of the domain and codomain of f {\\displaystyle f} , such that the first projection applied to Γ f {\\displaystyle \\Gamma _{f}} equals the identity of the domain, and the second projection applied to Γ f {\\displaystyle \\Gamma _{f}} is equal to f {\\displaystyle f} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "of a morphism f"
+        ],
+        "label_groups": "category theory , of a morphism f"
+      },
+      {
+        "definition": "A graphical unit on the token-level , the abstracted fundamental shape of a character or letter as distinct from its ductus (realization in a particular typeface or handwriting on the instance-level ) and as distinct by a grapheme on the type-level by not fundamentally distinguishing meaning .",
+        "examples": [],
+        "synonyms": [
+          "glyph"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "typography"
+        ],
+        "label_groups": "linguistics , typography"
+      }
+    ],
+    "main_definition": "( applied mathematics , statistics ) A data chart (graphical representation of data) intended to illustrate the relationship between a set (or sets) of numbers ( quantities , measurements or indicative numbers) and a reference set, whose elements are indexed to those of the former set(s) and may or may not be numbers.",
+    "secondary_definitions": [
+      "( mathematics ) A set of points constituting a graphical representation of a real function ; ( formally ) a set of tuples ( x 1 , x 2 , … , x m , y ) ∈ R m + 1 {\\displaystyle (x_{1},x_{2},\\ldots ,x_{m},y)\\in \\mathbb {R} ^{m+1}} , where y = f ( x 1 , x 2 , … , x m ) {\\displaystyle y=f(x_{1},x_{2},\\ldots ,x_{m})} for a given function f : R m → R {\\displaystyle f:\\mathbb {R} ^{m}\\rightarrow \\mathbb {R} } . See also Graph of a function on  Wikipedia. Wikipedia",
+      "( graph theory ) A set of vertices (or nodes ) connected together by edges ; ( formally ) an ordered pair of sets ( V , E ) {\\displaystyle (V,E)} , where the elements of V {\\displaystyle V} are called vertices or nodes and E {\\displaystyle E} is a set of pairs (called edges ) of elements of V {\\displaystyle V} . See also Graph (discrete mathematics) on  Wikipedia. Wikipedia",
+      "( topology ) A topological space which represents some graph (ordered pair of sets) and which is constructed by representing the vertices as points and the edges as copies of the real interval [0,1] (where, for any given edge, 0 and 1 are identified with the points representing the two vertices) and equipping the result with a particular topology called the graph topology .",
+      "( category theory , of a morphism f ) A morphism Γ f {\\displaystyle \\Gamma _{f}} from the domain of f {\\displaystyle f} to the product of the domain and codomain of f {\\displaystyle f} , such that the first projection applied to Γ f {\\displaystyle \\Gamma _{f}} equals the identity of the domain, and the second projection applied to Γ f {\\displaystyle \\Gamma _{f}} is equal to f {\\displaystyle f} .",
+      "( linguistics , typography ) A graphical unit on the token-level , the abstracted fundamental shape of a character or letter as distinct from its ductus (realization in a particular typeface or handwriting on the instance-level ) and as distinct by a grapheme on the type-level by not fundamentally distinguishing meaning ."
+    ]
+  }
+]

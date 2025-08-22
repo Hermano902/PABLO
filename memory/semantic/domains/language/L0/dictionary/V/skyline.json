@@ -1,0 +1,55 @@
+[
+  {
+    "word": "skyline",
+    "lemma": "skyline",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈskaɪˌlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "skylines",
+          "PT": "skylined",
+          "PAP": "skylined",
+          "PRP": "skylining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To outline something against the sky.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To filter by means of the skyline operator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases",
+          "transitive"
+        ],
+        "label_groups": "databases , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To outline something against the sky.",
+    "secondary_definitions": [
+      "( databases , transitive ) To filter by means of the skyline operator ."
+    ]
+  }
+]

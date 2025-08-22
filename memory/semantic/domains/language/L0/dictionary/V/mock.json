@@ -1,0 +1,82 @@
+[
+  {
+    "word": "mock",
+    "lemma": "mock",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɒk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mocks",
+          "PT": "mocked",
+          "PAP": "mocked",
+          "PRP": "mocking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mimic , to simulate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To create an artistic representation of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      },
+      {
+        "definition": "To make fun of , especially by mimicking; to taunt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To tantalise , and disappoint the hopes of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To create a mockup or prototype of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering",
+          "transitive"
+        ],
+        "label_groups": "software engineering , transitive"
+      }
+    ],
+    "main_definition": "To mimic , to simulate .",
+    "secondary_definitions": [
+      "( rare ) To create an artistic representation of.",
+      "To make fun of , especially by mimicking; to taunt .",
+      "To tantalise , and disappoint the hopes of.",
+      "( software engineering , transitive ) To create a mockup or prototype of."
+    ]
+  }
+]

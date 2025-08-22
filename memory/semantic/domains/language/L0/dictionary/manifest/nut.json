@@ -1,0 +1,38 @@
+{
+  "word": "nut",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "INTJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 23,
+      "examples": 8,
+      "synonyms": 13,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nut.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nut.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\nut.json"
+  },
+  "timestamp": "2025-08-19T10:22:56.950305Z"
+}

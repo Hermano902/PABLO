@@ -1,0 +1,56 @@
+[
+  {
+    "word": "squad",
+    "lemma": "squad",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈskwɒd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "squads",
+          "PT": "squadded",
+          "PAP": "squadded",
+          "PRP": "squadding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act as part of, or on behalf of, a squad.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transport by ambulance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "medical slang"
+        ],
+        "label_groups": "transitive , US , medical slang"
+      }
+    ],
+    "main_definition": "( intransitive ) To act as part of, or on behalf of, a squad.",
+    "secondary_definitions": [
+      "( transitive , US , medical slang ) To transport by ambulance."
+    ]
+  }
+]

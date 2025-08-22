@@ -1,0 +1,74 @@
+[
+  {
+    "word": "detach",
+    "lemma": "detach",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈtæt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "detaches",
+          "PT": "detached",
+          "PAP": "detached",
+          "PRP": "detaching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take apart from; to take off .",
+        "examples": [
+          "to detach the tag from a newly purchased garment"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To separate for a special object or use.",
+        "examples": [
+          "to detach a ship from a fleet, or a company from a regiment"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To come off something.",
+        "examples": [
+          "Now that the zipper has detached , my winter coat won't keep me very warm."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To take apart from; to take off .",
+    "secondary_definitions": [
+      "( transitive , military ) To separate for a special object or use.",
+      "( intransitive ) To come off something."
+    ]
+  }
+]

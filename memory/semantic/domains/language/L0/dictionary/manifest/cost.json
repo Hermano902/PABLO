@@ -1,0 +1,30 @@
+{
+  "word": "cost",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cost.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cost.json"
+  },
+  "timestamp": "2025-08-19T00:51:16.288314Z"
+}

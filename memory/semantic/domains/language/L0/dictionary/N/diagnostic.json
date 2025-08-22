@@ -1,0 +1,54 @@
+[
+  {
+    "word": "diagnostic",
+    "lemma": "diagnostic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪ.əɡˈnɒs.tɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diagnostics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any technique used in medical diagnosis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any tool or technique used to find the root of a problem .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "That by which anything is known; a symptom .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Any technique used in medical diagnosis .",
+    "secondary_definitions": [
+      "( computing ) Any tool or technique used to find the root of a problem .",
+      "That by which anything is known; a symptom ."
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "word": "egg",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 6,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 4,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\egg.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\egg.json"
+  },
+  "timestamp": "2025-08-19T02:39:36.915369Z"
+}

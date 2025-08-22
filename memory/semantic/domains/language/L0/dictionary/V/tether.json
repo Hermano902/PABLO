@@ -1,0 +1,70 @@
+[
+  {
+    "word": "tether",
+    "lemma": "tether",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛðə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tethers",
+          "PT": "tethered",
+          "PAP": "tethered",
+          "PRP": "tethering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restrict with, or as if with, a tether .",
+        "examples": [
+          "The cowboy tethered his horse outside the saloon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To connect to something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To connect (a smartphone ) to a personal computer in order to give the computer access to the phone's Internet connection.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Internet",
+              "transitive"
+            ],
+            "label_groups": "Internet , transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To restrict with, or as if with, a tether .",
+    "secondary_definitions": [
+      "( transitive ) To connect to something else."
+    ]
+  }
+]

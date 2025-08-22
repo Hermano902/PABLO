@@ -1,0 +1,58 @@
+[
+  {
+    "word": "administrator",
+    "lemma": "administrator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ədˈmɪnɪstɹeɪtə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "administrators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who administers affairs; one who directs, manages, executes, or dispenses, whether in civil, judicial, political, or ecclesiastical affairs; a manager .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who manages or settles the estate of an intestate , or of a testator when there is no competent executor ; one to whom the right of administration has been committed by competent authority",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "One who is responsible for software installation, management, information and maintenance of a computer or network",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "One who administers affairs; one who directs, manages, executes, or dispenses, whether in civil, judicial, political, or ecclesiastical affairs; a manager .",
+    "secondary_definitions": [
+      "( law ) A person who manages or settles the estate of an intestate , or of a testator when there is no competent executor ; one to whom the right of administration has been committed by competent authority",
+      "( computing ) One who is responsible for software installation, management, information and maintenance of a computer or network"
+    ]
+  }
+]

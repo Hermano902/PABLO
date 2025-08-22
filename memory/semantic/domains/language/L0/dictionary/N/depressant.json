@@ -1,0 +1,51 @@
+[
+  {
+    "word": "depressant",
+    "lemma": "depressant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈpɹɛsənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "depressants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A pharmacological substance which decreases neuronal or physiological activity .",
+        "examples": [
+          "Alcohol acts first as a stimulant and then as a depressant ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pharmacology"
+        ],
+        "label_groups": "pharmacology"
+      },
+      {
+        "definition": "An agent that inhibits the flotation of a mineral or minerals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      }
+    ],
+    "main_definition": "( pharmacology ) A pharmacological substance which decreases neuronal or physiological activity .",
+    "secondary_definitions": [
+      "( mining ) An agent that inhibits the flotation of a mineral or minerals."
+    ]
+  }
+]

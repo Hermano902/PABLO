@@ -1,0 +1,76 @@
+[
+  {
+    "word": "vaccine",
+    "lemma": "vaccine",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈvæksiːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of, pertaining to, caused by, or characteristic of cowpox .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine"
+            ],
+            "label_groups": "medicine"
+          },
+          {
+            "definition": "Of or pertaining to cowpox as a source of material for vaccination against smallpox ; also, of or pertaining to such material used for vaccination.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "immunology"
+            ],
+            "label_groups": "immunology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "Of, pertaining to, or derived from cattle .",
+        "examples": [],
+        "synonyms": [
+          "bovine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( historical )",
+    "secondary_definitions": [
+      "( archaic ) Of, pertaining to, or derived from cattle ."
+    ]
+  }
+]

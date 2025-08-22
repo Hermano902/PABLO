@@ -1,0 +1,55 @@
+[
+  {
+    "word": "parole",
+    "lemma": "parole",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pəˈɹoʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "paroles",
+          "PT": "paroled",
+          "PAP": "paroled",
+          "PRP": "paroling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To release (a prisoner) on the understanding that s/he checks in regularly and obeys the law.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To be released on parole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , law ) To release (a prisoner) on the understanding that s/he checks in regularly and obeys the law.",
+    "secondary_definitions": [
+      "( intransitive ) To be released on parole."
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "word": "prefix",
+    "lemma": "prefix",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹiːfɪks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "prefixes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something placed before another",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A morpheme added to the beginning of a word to modify its meaning, for example as, pre- in prefix , con- in conjure , re- in reheat , etc.",
+            "examples": [],
+            "synonyms": [
+              "foresyllable",
+              "prefixum"
+            ],
+            "antonyms": [
+              "suffix"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "grammar",
+              "linguistic morphology"
+            ],
+            "label_groups": "grammar , linguistic morphology"
+          },
+          {
+            "definition": "A set of digits placed before a telephone number, to indicate where the number is based, what type of phone number it is ( landline , mobile , toll-free , premium rate etc.)",
+            "examples": [
+              "in the UK, a number with an 0800 prefix is a toll-free number.",
+              "Add the prefix +34 to dial a Spanish number from abroad"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "telecommunications"
+            ],
+            "label_groups": "telecommunications"
+          },
+          {
+            "definition": "A title added to a person's name, such as Mr. or Dr.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An initial segment of a string of characters.",
+            "examples": [
+              "The string \"abra\" is both a prefix and a suffix of the string \"abracadabra\"."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Something placed before another",
+    "secondary_definitions": []
+  }
+]

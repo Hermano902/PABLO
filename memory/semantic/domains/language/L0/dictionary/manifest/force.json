@@ -1,0 +1,30 @@
+{
+  "word": "force",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 20,
+      "examples": 20,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 15,
+      "examples": 3,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\force.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\force.json"
+  },
+  "timestamp": "2025-08-19T03:57:23.755948Z"
+}

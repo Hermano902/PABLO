@@ -1,0 +1,37 @@
+{
+  "word": "stable",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stable.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stable.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\stable.json"
+  },
+  "timestamp": "2025-08-19T17:50:38.128540Z"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "word": "deploy",
+    "lemma": "deploy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈplɔɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deploys",
+          "PT": "deployed",
+          "PAP": "deployed",
+          "PRP": "deploying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To prepare and arrange (usually military unit or units) for use.",
+        "examples": [
+          "\" Deploy two units of infantry along the enemy's flank,\" the general ordered.",
+          "deploy some lifeguards on the beach",
+          "Teachers can deploy a wide range of resources in their classrooms."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ergative"
+        ],
+        "label_groups": "transitive , ergative"
+      },
+      {
+        "definition": "To unfold, open, or otherwise become ready for use.",
+        "examples": [
+          "He waited tensely for his parachute to deploy .",
+          "deploy the airbag",
+          "the airbag will deploy on collision"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To install , test and implement a computer system or application.",
+        "examples": [
+          "The process for the deployment scenario includes: building a master installation of the operating system, creating its image and deploying the image onto a destination computer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive , ergative ) To prepare and arrange (usually military unit or units) for use.",
+    "secondary_definitions": [
+      "( transitive , intransitive ) To unfold, open, or otherwise become ready for use.",
+      "( computing ) To install , test and implement a computer system or application."
+    ]
+  }
+]

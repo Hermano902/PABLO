@@ -1,0 +1,73 @@
+[
+  {
+    "word": "error",
+    "lemma": "error",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛɹ.ə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "errors",
+          "PT": "errored",
+          "PAP": "errored",
+          "PRP": "erroring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To function improperly due to an error, especially accompanied by error message.",
+        "examples": [
+          "The web-page took a long time to load and errored out.",
+          "Remove that line of code and the script should stop erroring there.",
+          "This directory errors with a \"Permission denied\" message."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To show or contain an error or fault.",
+        "examples": [
+          "The block transmission errored near the start and could not be received."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "To err .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nonstandard"
+        ],
+        "label_groups": "nonstandard"
+      }
+    ],
+    "main_definition": "( computing ) To function improperly due to an error, especially accompanied by error message.",
+    "secondary_definitions": [
+      "( telecommunications ) To show or contain an error or fault.",
+      "( nonstandard ) To err ."
+    ]
+  }
+]

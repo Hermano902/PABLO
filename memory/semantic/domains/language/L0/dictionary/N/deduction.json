@@ -1,0 +1,92 @@
+[
+  {
+    "word": "deduction",
+    "lemma": "deduction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈdʌkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deductions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is deducted ; that which is subtracted or removed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A sum that can be removed from tax calculations ; something that is written off .",
+            "examples": [
+              "You might want to donate the old junk and just take the deduction ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A sum withheld from an employee 's pay for the purpose of paying tax .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "law",
+              "finance"
+            ],
+            "label_groups": "law , finance"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A process of reasoning that moves from the general to the specific , in which a conclusion follows necessarily from the premises presented, so that the conclusion cannot be false if the premises are true.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "induction"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "A conclusion ; that which is deduced , concluded or figured out",
+            "examples": [
+              "He arrived at the deduction that the butler didn't do it."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The ability or skill to deduce or figure out; the power of reason",
+            "examples": [
+              "Through his powers of deduction , he realized that the plan would never work."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "That which is deducted ; that which is subtracted or removed .",
+    "secondary_definitions": [
+      "( logic ) A process of reasoning that moves from the general to the specific , in which a conclusion follows necessarily from the premises presented, so that the conclusion cannot be false if the premises are true."
+    ]
+  }
+]

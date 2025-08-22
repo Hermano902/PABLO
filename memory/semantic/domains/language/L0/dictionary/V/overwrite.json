@@ -1,0 +1,83 @@
+[
+  {
+    "word": "overwrite",
+    "lemma": "overwrite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əʊ.vəˈɹaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overwrites",
+          "PT": "overwrote",
+          "PAP": "overwritten",
+          "PRP": "overwriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To destroy (older) data by recording new data over it.",
+        "examples": [
+          "I accidentally saved my unwanted changes and overwrote the version of the document I wanted to keep."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To cover in writing ; to write over the top of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To write too much.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To write in an unnecessarily complicated or florid way; to produce purple prose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To destroy (older) data by recording new data over it.",
+    "secondary_definitions": [
+      "( transitive ) To cover in writing ; to write over the top of.",
+      "( ambitransitive ) To write too much.",
+      "( ambitransitive ) To write in an unnecessarily complicated or florid way; to produce purple prose ."
+    ]
+  }
+]

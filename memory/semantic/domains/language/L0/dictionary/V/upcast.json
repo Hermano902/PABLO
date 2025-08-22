@@ -1,0 +1,81 @@
+[
+  {
+    "word": "upcast",
+    "lemma": "upcast",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʌpkæst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "upcasts",
+          "PT": "upcast",
+          "PAP": "upcast",
+          "PRP": "upcasting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cast or throw up; to turn upward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To taunt; to reproach; to upbraid.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Scotland"
+        ],
+        "label_groups": "transitive , Scotland"
+      },
+      {
+        "definition": "To cast from subtype to supertype .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "downcast"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To broadcast a message or data to aircraft or satellites , especially via radio waves ; as opposed to uplinking to a specific satellite or aircraft",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , obsolete ) To cast or throw up; to turn upward.",
+    "secondary_definitions": [
+      "( transitive , Scotland ) To taunt; to reproach; to upbraid.",
+      "( transitive , computing ) To cast from subtype to supertype .",
+      "To broadcast a message or data to aircraft or satellites , especially via radio waves ; as opposed to uplinking to a specific satellite or aircraft"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "multiplication",
+    "lemma": "multiplication",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌmʌltɪplɪˈkeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "multiplications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of computing the sum of an addition with one and the same number a specified number of times (i.e. 4 times 5 = [0 +] 5 + 5 + 5 + 5 = 20) or any other analogous binary operation that combines other mathematical objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "arithmetic"
+        ],
+        "label_groups": "uncountable , arithmetic"
+      },
+      {
+        "definition": "A calculation involving multiplication.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "arithmetic"
+        ],
+        "label_groups": "countable , arithmetic"
+      },
+      {
+        "definition": "The process of multiplying or increasing in number; increase .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable , arithmetic ) The process of computing the sum of an addition with one and the same number a specified number of times (i.e. 4 times 5 = [0 +] 5 + 5 + 5 + 5 = 20) or any other analogous binary operation that combines other mathematical objects.",
+    "secondary_definitions": [
+      "( countable , arithmetic ) A calculation involving multiplication.",
+      "The process of multiplying or increasing in number; increase ."
+    ]
+  }
+]

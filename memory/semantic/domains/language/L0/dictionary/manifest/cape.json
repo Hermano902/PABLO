@@ -1,0 +1,29 @@
+{
+  "word": "cape",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cape.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cape.json"
+  },
+  "timestamp": "2025-08-18T23:09:13.217638Z"
+}

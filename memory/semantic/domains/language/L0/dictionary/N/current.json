@@ -1,0 +1,72 @@
+[
+  {
+    "word": "current",
+    "lemma": "current",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ka.rĕɳʈ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "currents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The generally unidirectional movement of a gas or fluid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The part of a fluid that moves continuously in a certain direction, especially ( oceanography ) ellipsis of ocean current .",
+        "examples": [],
+        "synonyms": [
+          "flow",
+          "stream"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The amount of electric charge flowing in each unit of time.",
+        "examples": [],
+        "synonyms": [
+          "electric current"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electricity"
+        ],
+        "label_groups": "electricity"
+      },
+      {
+        "definition": "A tendency or a course of events .",
+        "examples": [],
+        "synonyms": [
+          "flow",
+          "stream",
+          "tendency"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The generally unidirectional movement of a gas or fluid .",
+    "secondary_definitions": [
+      "The part of a fluid that moves continuously in a certain direction, especially ( oceanography ) ellipsis of ocean current .",
+      "( electricity ) The amount of electric charge flowing in each unit of time.",
+      "A tendency or a course of events ."
+    ]
+  }
+]

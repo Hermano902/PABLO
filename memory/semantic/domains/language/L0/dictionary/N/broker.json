@@ -1,0 +1,63 @@
+[
+  {
+    "word": "broker",
+    "lemma": "broker",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹəʊkə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "brokers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A mediator between a buyer and seller .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A stockbroker .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mediator in general, one who liaises between two or more parties to attempt to achieve an outcome of some kind.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An agent involved in the exchange of messages or transactions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A mediator between a buyer and seller .",
+    "secondary_definitions": [
+      "A stockbroker .",
+      "A mediator in general, one who liaises between two or more parties to attempt to achieve an outcome of some kind.",
+      "( computing ) An agent involved in the exchange of messages or transactions."
+    ]
+  }
+]

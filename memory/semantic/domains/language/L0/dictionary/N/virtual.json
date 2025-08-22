@@ -1,0 +1,64 @@
+[
+  {
+    "word": "virtual",
+    "lemma": "virtual",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɜːt͡ʃʊəl/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "virtuals"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Preceded by the : that which is imitated or simulated rather than existing in fact or reality ; ( countable ) an instance of this.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "That which is simulated in a computer and/or online ; virtual reality ; ( countable ) an instance of this; specifically ( gambling ) , a computer simulation of a real-world sport such as horse racing .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable"
+            ],
+            "label_groups": "uncountable"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A virtual (adjective sense 3.3 ) member function of a class .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "programming"
+        ],
+        "label_groups": "countable , programming"
+      }
+    ],
+    "main_definition": "( uncountable ) Preceded by the : that which is imitated or simulated rather than existing in fact or reality ; ( countable ) an instance of this.",
+    "secondary_definitions": [
+      "( countable , programming ) A virtual (adjective sense 3.3 ) member function of a class ."
+    ]
+  }
+]

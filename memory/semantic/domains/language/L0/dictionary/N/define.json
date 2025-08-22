@@ -1,0 +1,35 @@
+[
+  {
+    "word": "define",
+    "lemma": "define",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfaɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "defines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A kind of macro in source code that replaces one text string with another wherever it occurs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A kind of macro in source code that replaces one text string with another wherever it occurs.",
+    "secondary_definitions": []
+  }
+]

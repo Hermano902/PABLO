@@ -1,0 +1,39 @@
+[
+  {
+    "word": "supremum",
+    "lemma": "supremum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "supremums"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": ": Given a subset X of R , the smallest real number that is ≥ every element of X ; ( order theory ) : given a subset X of a partially ordered set P (with partial order ≤), the least element y of P such that every element of X is ≤ y .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "real analysis"
+        ],
+        "label_groups": [
+          "set theory",
+          "real analysis"
+        ]
+      }
+    ],
+    "main_definition": "( set theory ) ( real analysis ) : Given a subset X of R , the smallest real number that is ≥ every element of X ; ( order theory ) : given a subset X of a partially ordered set P (with partial order ≤), the least element y of P such that every element of X is ≤ y .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "lenite",
+    "lemma": "lenite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈliːnaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lenites",
+          "PT": "lenited",
+          "PAP": "lenited",
+          "PRP": "leniting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause (a consonant ) to undergo lenition .",
+        "examples": [
+          "This environment lenites \"m\" to \"mh\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "phonology",
+          "transitive"
+        ],
+        "label_groups": "phonetics , phonology , transitive"
+      },
+      {
+        "definition": "To undergo lenition .",
+        "examples": [
+          "\"M\" lenites to \"mh\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "phonology",
+          "intransitive"
+        ],
+        "label_groups": "phonetics , phonology , intransitive"
+      }
+    ],
+    "main_definition": "( phonetics , phonology , transitive ) To cause (a consonant ) to undergo lenition .",
+    "secondary_definitions": [
+      "( phonetics , phonology , intransitive ) To undergo lenition ."
+    ]
+  }
+]

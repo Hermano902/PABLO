@@ -1,0 +1,63 @@
+[
+  {
+    "word": "patient",
+    "lemma": "patient",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpeɪʃənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "patients"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or animal that receives health care from a doctor , nurse , dentist , allied health practitioner, or other person educated in health care.",
+        "examples": [
+          "Hello, is your practice currently accepting new patients ? I'd like to become a patient there if so.",
+          "At the veterinary clinic, caring for the patients successfully and dealing with the patients’ owners successfully are both necessary skills."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The noun or noun phrase that is semantically on the receiving end of a verb's action.",
+        "examples": [
+          "The subject of a passive verb is usually a patient ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "agent",
+          "doer"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "grammar"
+        ],
+        "label_groups": "linguistics , grammar"
+      },
+      {
+        "definition": "One who, or that which, is passively affected; a passive recipient.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A person or animal that receives health care from a doctor , nurse , dentist , allied health practitioner, or other person educated in health care.",
+    "secondary_definitions": [
+      "( linguistics , grammar ) The noun or noun phrase that is semantically on the receiving end of a verb's action.",
+      "One who, or that which, is passively affected; a passive recipient."
+    ]
+  }
+]

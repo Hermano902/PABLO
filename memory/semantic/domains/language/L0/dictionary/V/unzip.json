@@ -1,0 +1,68 @@
+[
+  {
+    "word": "unzip",
+    "lemma": "unzip",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɪp",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unzips",
+          "PT": "unzipped",
+          "PAP": "unzipped",
+          "PRP": "unzipping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To open something using a zipper .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come open by means of a zipper .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To restore ( compressed data ) to its original form, from a zip file .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To open something using a zipper .",
+    "secondary_definitions": [
+      "( intransitive ) To come open by means of a zipper .",
+      "( computing , transitive ) To restore ( compressed data ) to its original form, from a zip file ."
+    ]
+  }
+]

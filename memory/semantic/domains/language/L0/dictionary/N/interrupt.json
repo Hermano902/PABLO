@@ -1,0 +1,38 @@
+[
+  {
+    "word": "interrupt",
+    "lemma": "interrupt",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪntəˈɹʌpt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "interrupts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An event that causes a computer or other device to temporarily cease what it was doing and attend to a condition.",
+        "examples": [
+          "The interrupt caused the packet handler routine to run."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "electronics"
+        ],
+        "label_groups": "computing , electronics"
+      }
+    ],
+    "main_definition": "( computing , electronics ) An event that causes a computer or other device to temporarily cease what it was doing and attend to a condition.",
+    "secondary_definitions": []
+  }
+]

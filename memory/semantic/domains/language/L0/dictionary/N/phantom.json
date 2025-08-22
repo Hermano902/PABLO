@@ -1,0 +1,81 @@
+[
+  {
+    "word": "phantom",
+    "lemma": "phantom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfæntəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "phantoms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A ghost or apparition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something apparently seen , heard , or sensed , but having no physical reality ; an image that appears only in the mind ; an illusion or delusion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A placeholder for a pair of players when there are an odd number of pairs playing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bridge"
+        ],
+        "label_groups": "bridge"
+      },
+      {
+        "definition": "A test object that reproduces the characteristics of human tissue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medical imaging"
+        ],
+        "label_groups": "medical imaging"
+      },
+      {
+        "definition": "Short for phantom power",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "uncountable"
+        ],
+        "label_groups": "colloquial , uncountable"
+      }
+    ],
+    "main_definition": "A ghost or apparition .",
+    "secondary_definitions": [
+      "Something apparently seen , heard , or sensed , but having no physical reality ; an image that appears only in the mind ; an illusion or delusion .",
+      "( bridge ) A placeholder for a pair of players when there are an odd number of pairs playing.",
+      "( medical imaging ) A test object that reproduces the characteristics of human tissue .",
+      "( colloquial , uncountable ) Short for phantom power"
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "sight",
+    "lemma": "sight",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/saɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sights",
+          "PT": "sighted",
+          "PAP": "sighted",
+          "PRP": "sighting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To see; to get sight of (something); to register visually.",
+        "examples": [
+          "to sight land from a ship"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To observe through, or as if through, a sight , to check the elevation, direction, levelness, or other characteristics of, especially when surveying or navigating.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply sights to; to adjust the sights of.",
+        "examples": [
+          "to sight a rifle or a cannon"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To observe or aim (at something) using a (gun) sight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To see; to get sight of (something); to register visually.",
+    "secondary_definitions": [
+      "( transitive ) To apply sights to; to adjust the sights of.",
+      "( transitive , intransitive ) To observe or aim (at something) using a (gun) sight ."
+    ]
+  }
+]

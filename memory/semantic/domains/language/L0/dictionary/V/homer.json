@@ -1,0 +1,43 @@
+[
+  {
+    "word": "homer",
+    "lemma": "homer",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhəʊmə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "homers",
+          "PT": "homered",
+          "PAP": "homered",
+          "PRP": "homering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hit a homer ; to hit a home run .",
+        "examples": [
+          "The Sultan of Swat homered 714 times."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "baseball"
+        ],
+        "label_groups": "US , baseball"
+      }
+    ],
+    "main_definition": "( US , baseball ) To hit a homer ; to hit a home run .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "modulus",
+    "lemma": "modulus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒdjʊləs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "moduli"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The base with respect to which a congruence is computed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The absolute value of a complex number .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A coefficient that expresses how much of a certain property is possessed by a certain substance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A scalar field controlling the shape and size of extra dimensions in a compactification .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "An operator placed between two numbers, to get the remainder of the division of those numbers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      }
+    ],
+    "main_definition": "( mathematics ) The base with respect to which a congruence is computed .",
+    "secondary_definitions": [
+      "( mathematics ) The absolute value of a complex number .",
+      "( physics ) A coefficient that expresses how much of a certain property is possessed by a certain substance .",
+      "( physics ) A scalar field controlling the shape and size of extra dimensions in a compactification .",
+      "( computing , programming ) An operator placed between two numbers, to get the remainder of the division of those numbers."
+    ]
+  }
+]

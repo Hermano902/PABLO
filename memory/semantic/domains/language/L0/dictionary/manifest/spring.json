@@ -1,0 +1,29 @@
+{
+  "word": "spring",
+  "pos_order": [
+    "V",
+    "N",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 38,
+      "examples": 11,
+      "synonyms": 11,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 27,
+      "examples": 11,
+      "synonyms": 10,
+      "antonyms": 1,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\spring.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\spring.json"
+  },
+  "timestamp": "2025-08-19T17:47:44.852880Z"
+}

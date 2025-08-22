@@ -1,0 +1,80 @@
+[
+  {
+    "word": "prescribe",
+    "lemma": "prescribe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈskɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prescribes",
+          "PT": "prescribed",
+          "PAP": "prescribed",
+          "PRP": "prescribing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To order (a drug or medical device ) for use by a particular patient (under licensed authority ).",
+        "examples": [
+          "The doctor prescribed aspirin."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "To specify by writing as a required procedure or ritual ; to lay down authoritatively as a guide, direction, or rule of action.",
+        "examples": [
+          "The property meets the criteria prescribed by the regulations."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To develop or assert a right ; to make a claim (by prescription ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "To become invalidated or unenforceable by prescription , to lapse",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "( medicine ) To order (a drug or medical device ) for use by a particular patient (under licensed authority ).",
+    "secondary_definitions": [
+      "To specify by writing as a required procedure or ritual ; to lay down authoritatively as a guide, direction, or rule of action.",
+      "( law ) To develop or assert a right ; to make a claim (by prescription ).",
+      "( law ) To become invalidated or unenforceable by prescription , to lapse"
+    ]
+  }
+]

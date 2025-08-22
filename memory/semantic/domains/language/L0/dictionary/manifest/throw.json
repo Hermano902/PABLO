@@ -1,0 +1,31 @@
+{
+  "word": "throw",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 28,
+      "examples": 10,
+      "synonyms": 9,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 13,
+      "examples": 6,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\throw.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\throw.json"
+  },
+  "timestamp": "2025-08-19T19:09:40.123683Z"
+}

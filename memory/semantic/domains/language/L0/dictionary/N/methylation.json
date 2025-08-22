@@ -1,0 +1,49 @@
+[
+  {
+    "word": "methylation",
+    "lemma": "methylation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌmɛθɪˈleɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "methylations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The addition of a methyl group to a molecule .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "The addition of a methyl group to cytosine and adenine residues in DNA that leads to the epigenetic modification of DNA and the reduction of gene expression and protein production .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "( chemistry ) The addition of a methyl group to a molecule .",
+    "secondary_definitions": [
+      "( genetics ) The addition of a methyl group to cytosine and adenine residues in DNA that leads to the epigenetic modification of DNA and the reduction of gene expression and protein production ."
+    ]
+  }
+]

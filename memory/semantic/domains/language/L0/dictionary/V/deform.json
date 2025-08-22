@@ -1,0 +1,97 @@
+[
+  {
+    "word": "deform",
+    "lemma": "deform",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɔːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deforms",
+          "PT": "deformed",
+          "PAP": "deformed",
+          "PRP": "deforming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To change the form of (something), usually thus making it disordered or irregular ; to give (something) an abnormal or unusual shape . ( engineering , physics ) To alter the shape of (something) by applying a force or stress .",
+            "examples": [],
+            "synonyms": [
+              "contort",
+              "distort"
+            ],
+            "antonyms": [
+              "undeform"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To change the look of (something), usually thus making it imperfect or unattractive ; to give (something) an abnormal or unusual appearance .",
+            "examples": [
+              "a face deformed by bitterness"
+            ],
+            "synonyms": [
+              "deface",
+              "disfigure",
+              "distort",
+              "mar"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "also figuratively"
+            ],
+            "label_groups": "also figuratively"
+          },
+          {
+            "definition": "To mar the character or quality of (something).",
+            "examples": [
+              "a marriage deformed by jealousy"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become changed in shape or misshapen .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive )",
+    "secondary_definitions": [
+      "( intransitive ) To become changed in shape or misshapen ."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "broker",
+    "lemma": "broker",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹəʊkə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "brokers",
+          "PT": "brokered",
+          "PAP": "brokered",
+          "PRP": "brokering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act as a broker; to mediate in a sale or transaction .",
+        "examples": [],
+        "synonyms": [
+          "broke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To act as a broker in; to arrange or negotiate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To act as a broker; to mediate in a sale or transaction .",
+    "secondary_definitions": [
+      "( transitive ) To act as a broker in; to arrange or negotiate ."
+    ]
+  }
+]

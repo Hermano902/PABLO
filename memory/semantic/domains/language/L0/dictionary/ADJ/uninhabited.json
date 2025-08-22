@@ -1,0 +1,54 @@
+[
+  {
+    "word": "uninhabited",
+    "lemma": "uninhabited",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌʌn.ɪnˈhæb.ɪ.tɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not inhabited ; having no inhabitants .",
+        "examples": [],
+        "synonyms": [
+          "inhabitantless",
+          "peopleless",
+          "uninhabitated"
+        ],
+        "antonyms": [
+          "inhabited"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not having a term .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "inhabited"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "type theory",
+          "of a type"
+        ],
+        "label_groups": "type theory , of a type"
+      }
+    ],
+    "main_definition": "Not inhabited ; having no inhabitants .",
+    "secondary_definitions": [
+      "( type theory , of a type ) Not having a term ."
+    ]
+  }
+]

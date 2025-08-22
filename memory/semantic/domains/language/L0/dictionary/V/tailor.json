@@ -1,0 +1,73 @@
+[
+  {
+    "word": "tailor",
+    "lemma": "tailor",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈteɪlɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tailors",
+          "PT": "tailored",
+          "PAP": "tailored",
+          "PRP": "tailoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make , repair , or alter clothes .",
+        "examples": [
+          "We can tailor that jacket for you if you like."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make or adapt (something) for a specific need .",
+        "examples": [
+          "The website was tailored to the client's needs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To restrict (something) in order to meet a particular need.",
+        "examples": [
+          "a narrowly tailored law"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To make , repair , or alter clothes .",
+    "secondary_definitions": [
+      "( transitive ) To make or adapt (something) for a specific need .",
+      "( transitive ) To restrict (something) in order to meet a particular need."
+    ]
+  }
+]

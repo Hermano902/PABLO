@@ -1,0 +1,56 @@
+[
+  {
+    "word": "deliberate",
+    "lemma": "deliberate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈlɪbəɹət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deliberates",
+          "PT": "deliberated",
+          "PAP": "deliberated",
+          "PRP": "deliberating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To consider carefully; to weigh well in the mind.",
+        "examples": [
+          "It is now time for the jury to deliberate the guilt of the defendant."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To consider the reasons for and against anything; to reflect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To consider carefully; to weigh well in the mind.",
+    "secondary_definitions": [
+      "( intransitive ) To consider the reasons for and against anything; to reflect ."
+    ]
+  }
+]

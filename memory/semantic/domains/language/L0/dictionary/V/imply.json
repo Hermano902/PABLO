@@ -1,0 +1,89 @@
+[
+  {
+    "word": "imply",
+    "lemma": "imply",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈplaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "implies",
+          "PT": "implied",
+          "PAP": "implied",
+          "PRP": "implying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to have as a necessary consequence ; to lead to (something) as a consequence",
+        "examples": [
+          "The proposition that \"all dogs are mammals\" implies that my dog is a mammal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a proposition"
+        ],
+        "label_groups": "transitive , of a proposition"
+      },
+      {
+        "definition": "to suggest by logical inference",
+        "examples": [
+          "When I state that your dog is brown, I am not implying that all dogs are brown."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a person"
+        ],
+        "label_groups": "transitive , of a person"
+      },
+      {
+        "definition": "to hint ; to insinuate ; to suggest tacitly and avoid a direct statement",
+        "examples": [
+          "What do you mean \"we need to be more careful with hygiene\"? Are you implying that I don't wash my hands?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a person or proposition"
+        ],
+        "label_groups": "transitive , of a person or proposition"
+      },
+      {
+        "definition": "to enfold , entangle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( transitive , of a proposition ) to have as a necessary consequence ; to lead to (something) as a consequence",
+    "secondary_definitions": [
+      "( transitive , of a person ) to suggest by logical inference",
+      "( transitive , of a person or proposition ) to hint ; to insinuate ; to suggest tacitly and avoid a direct statement",
+      "( archaic ) to enfold , entangle ."
+    ]
+  }
+]

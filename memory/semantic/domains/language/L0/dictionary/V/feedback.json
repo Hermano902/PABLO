@@ -1,0 +1,73 @@
+[
+  {
+    "word": "feedback",
+    "lemma": "feedback",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfiːdˌbæk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "feedbacks",
+          "PT": "feedbacked",
+          "PAP": "feedbacked",
+          "PRP": "feedbacking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To generate the high-frequency sound by allowing a speaker to cause vibration of the sound generator of a musical instrument connected by an amplifier to the speaker.",
+        "examples": [
+          "The show ended with a riot of feedbacking guitars."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To provide informational feedback to.",
+        "examples": [
+          "His employees feedbacked him a lot more than he wanted."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To convey by means of specialized communications channel.",
+        "examples": [
+          "Customers feedbacked their complaints and some praise."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( music ) To generate the high-frequency sound by allowing a speaker to cause vibration of the sound generator of a musical instrument connected by an amplifier to the speaker.",
+    "secondary_definitions": [
+      "( transitive ) To provide informational feedback to.",
+      "( transitive ) To convey by means of specialized communications channel."
+    ]
+  }
+]

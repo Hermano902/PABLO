@@ -1,0 +1,30 @@
+{
+  "word": "tear",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 10,
+      "examples": 14,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tear.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tear.json"
+  },
+  "timestamp": "2025-08-19T18:52:33.279305Z"
+}

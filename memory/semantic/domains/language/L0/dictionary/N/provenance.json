@@ -1,0 +1,105 @@
+[
+  {
+    "word": "provenance",
+    "lemma": "provenance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɒ.və.nəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "provenances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Place or source of origin.",
+        "examples": [
+          "Many supermarkets display the provenance of their food products."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The place and time of origin of some artifact or other object. See Usage notes below.",
+        "examples": [
+          "This spear is of Viking provenance ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaeology"
+        ],
+        "label_groups": "archaeology"
+      },
+      {
+        "definition": "The history of ownership of a work of art.",
+        "examples": [
+          "The picture is of royal provenance ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art"
+        ],
+        "label_groups": "art"
+      },
+      {
+        "definition": "The copy history of a piece of data, or the intermediate pieces of data used to compute a final data element, as in a database record or web site (data provenance).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The execution history of computer processes which were used to compute a final piece of data (process provenance).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Background; history; place of origin.",
+        "examples": [],
+        "synonyms": [
+          "ancestry"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a person"
+        ],
+        "label_groups": "of a person"
+      }
+    ],
+    "main_definition": "Place or source of origin.",
+    "secondary_definitions": [
+      "( archaeology ) The place and time of origin of some artifact or other object. See Usage notes below.",
+      "( art ) The history of ownership of a work of art.",
+      "( computing ) The copy history of a piece of data, or the intermediate pieces of data used to compute a final data element, as in a database record or web site (data provenance).",
+      "( computing ) The execution history of computer processes which were used to compute a final piece of data (process provenance).",
+      "( of a person ) Background; history; place of origin."
+    ]
+  }
+]

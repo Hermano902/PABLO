@@ -1,0 +1,35 @@
+[
+  {
+    "word": "erase",
+    "lemma": "erase",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈɹeɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "erases"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The operation of deleting data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The operation of deleting data.",
+    "secondary_definitions": []
+  }
+]

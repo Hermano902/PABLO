@@ -1,0 +1,39 @@
+{
+  "word": "hallow",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\hallow.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\hallow.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\hallow.json"
+  },
+  "timestamp": "2025-08-19T04:58:31.186768Z"
+}

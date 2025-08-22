@@ -1,0 +1,52 @@
+[
+  {
+    "word": "scarcity",
+    "lemma": "scarcity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈskɛɹsɪti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scarcities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The condition of something being scarce or deficient .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An inadequate amount of something; a shortage .",
+        "examples": [
+          "a scarcity of grain"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The condition of something being scarce or deficient .",
+    "secondary_definitions": [
+      "( countable ) An inadequate amount of something; a shortage ."
+    ]
+  }
+]

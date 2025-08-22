@@ -1,0 +1,81 @@
+[
+  {
+    "word": "dialogue",
+    "lemma": "dialogue",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaɪəlɒɡ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dialogues"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A conversation or other form of discourse between two or more individuals.",
+        "examples": [
+          "Melinda and Bill maintained a dialogue via email over the course of their long-distance relationship.",
+          "Start up a dialogue"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In a dramatic or literary presentation, the verbal parts of the script or text; the verbalizations of the actors or characters.",
+        "examples": [
+          "The movie had great special effects, but the dialogue was lackluster."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "authorship"
+        ],
+        "label_groups": "authorship"
+      },
+      {
+        "definition": "A literary form, where the presentation resembles a conversation.",
+        "examples": [
+          "A literary historian, she specialized in the dialogues of ancient Greek philosophers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "Nonstandard form of dialog .",
+        "examples": [
+          "Once the My Computer dialogue opens, select Local Disk (C:), then right click and scroll down."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "nonstandard"
+        ],
+        "label_groups": "computing , nonstandard"
+      }
+    ],
+    "main_definition": "A conversation or other form of discourse between two or more individuals.",
+    "secondary_definitions": [
+      "( authorship ) In a dramatic or literary presentation, the verbal parts of the script or text; the verbalizations of the actors or characters.",
+      "( philosophy ) A literary form, where the presentation resembles a conversation.",
+      "( computing , nonstandard ) Nonstandard form of dialog ."
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "powerful",
+    "lemma": "powerful",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpaʊəfl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more powerful",
+          "SUP": "most powerful"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having, or capable of exerting , power or influence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Leading to many or important deductions.",
+        "examples": [
+          "a powerful set of postulates",
+          "a powerful theorem"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Large ; capacious ; said of veins of ore .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "Being a powerful number .",
+        "examples": [],
+        "synonyms": [
+          "squareful"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable"
+        ],
+        "label_groups": "mathematics , not comparable"
+      }
+    ],
+    "main_definition": "Having, or capable of exerting , power or influence .",
+    "secondary_definitions": [
+      "Leading to many or important deductions.",
+      "( mining ) Large ; capacious ; said of veins of ore .",
+      "( mathematics , not comparable ) Being a powerful number ."
+    ]
+  }
+]

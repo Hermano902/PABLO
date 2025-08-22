@@ -1,0 +1,62 @@
+[
+  {
+    "word": "expressive",
+    "lemma": "expressive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈspɹɛsɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more expressive",
+          "SUP": "most expressive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Effectively conveying thought or feeling .",
+        "examples": [
+          "expressive dancing"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Conveying the speaker's emotions and/or attitudes , in addition to the denotative or literal meaning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "Able to represent a number of ideas or concepts.",
+        "examples": [
+          "A programming language that is Turing complete is more expressive than one that is not."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Effectively conveying thought or feeling .",
+    "secondary_definitions": [
+      "( linguistics ) Conveying the speaker's emotions and/or attitudes , in addition to the denotative or literal meaning.",
+      "( programming ) Able to represent a number of ideas or concepts."
+    ]
+  }
+]

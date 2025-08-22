@@ -1,0 +1,49 @@
+[
+  {
+    "word": "azide",
+    "lemma": "azide",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈeɪzaɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "azides"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "the univalent N 3 radical or functional group or any ester containing this group",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry"
+        ],
+        "label_groups": "organic chemistry"
+      },
+      {
+        "definition": "the N 3 anion or any salt containing this anion ( N − = N + = N − {\\displaystyle {\\ce {^{-}N={\\overset {+}{N}}=N^{-}}}} )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "inorganic chemistry"
+        ],
+        "label_groups": "inorganic chemistry"
+      }
+    ],
+    "main_definition": "( organic chemistry ) the univalent N 3 radical or functional group or any ester containing this group",
+    "secondary_definitions": [
+      "( inorganic chemistry ) the N 3 anion or any salt containing this anion ( N − = N + = N − {\\displaystyle {\\ce {^{-}N={\\overset {+}{N}}=N^{-}}}} )"
+    ]
+  }
+]

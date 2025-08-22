@@ -1,0 +1,59 @@
+[
+  {
+    "word": "protect",
+    "lemma": "protect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈtɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "protects",
+          "PT": "protected",
+          "PAP": "protected",
+          "PRP": "protecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To keep safe ; to defend ; to guard ; to prevent harm coming to.",
+        "examples": [
+          "to protect a child from danger",
+          "This antivirus package will protect your computer from hackers.",
+          "Condoms are designed to protect against sexually-transmitted diseases."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To book a passenger on a later flight if there is a chance they will not be able to board their earlier reserved flight.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "travel",
+          "aviation"
+        ],
+        "label_groups": "travel , aviation"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To keep safe ; to defend ; to guard ; to prevent harm coming to.",
+    "secondary_definitions": [
+      "( travel , aviation ) To book a passenger on a later flight if there is a chance they will not be able to board their earlier reserved flight."
+    ]
+  }
+]

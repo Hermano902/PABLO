@@ -1,0 +1,45 @@
+[
+  {
+    "word": "thermostat",
+    "lemma": "thermostat",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈθɝməstæt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "thermostats"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device that automatically responds to changes in temperature by activating a heating or cooling system to maintain the temperature at a desired setting .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An algorithm used to maintain a simulated system at a set temperature by absorbing or releasing heat",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "A device that automatically responds to changes in temperature by activating a heating or cooling system to maintain the temperature at a desired setting .",
+    "secondary_definitions": [
+      "( physics ) An algorithm used to maintain a simulated system at a set temperature by absorbing or releasing heat"
+    ]
+  }
+]

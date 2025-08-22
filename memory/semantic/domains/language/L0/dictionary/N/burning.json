@@ -1,0 +1,65 @@
+[
+  {
+    "word": "burning",
+    "lemma": "burning",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɝnɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "burnings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act by which something burns or is burned.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fire .",
+        "examples": [
+          "The burnings continued all day."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "purposefully remove certain number of coins in circulation, by sending it to a public address where the private keys cannot be obtained (called burn address, eater address or black hole), usually should be available on the blockchain for anyone to review such a transaction. It’s a one-way address with no ability to reverse the transaction or withdraw the coins. For all practical purposes, the asset no longer exists (it has been “burned”). The act of burning effectively removes tokens from the available supply.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptocurrencies"
+        ],
+        "label_groups": "cryptocurrencies"
+      },
+      {
+        "definition": "A fiery pain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The act by which something burns or is burned.",
+    "secondary_definitions": [
+      "A fire .",
+      "( cryptocurrencies ) purposefully remove certain number of coins in circulation, by sending it to a public address where the private keys cannot be obtained (called burn address, eater address or black hole), usually should be available on the blockchain for anyone to review such a transaction. It’s a one-way address with no ability to reverse the transaction or withdraw the coins. For all practical purposes, the asset no longer exists (it has been “burned”). The act of burning effectively removes tokens from the available supply.",
+      "A fiery pain."
+    ]
+  }
+]

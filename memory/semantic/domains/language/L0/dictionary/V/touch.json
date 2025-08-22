@@ -1,0 +1,535 @@
+[
+  {
+    "word": "touch",
+    "lemma": "touch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tʌt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "touches",
+          "PT": "touched",
+          "PAP": "touched",
+          "PRP": "touching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Primarily physical senses.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To make physical contact with; to bring the hand, finger or other part of the body into contact with.",
+            "examples": [
+              "I touched his face softly."
+            ],
+            "synonyms": [
+              "contact"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To come into (involuntary) contact with; to meet or intersect .",
+            "examples": [
+              "Sitting on the bench , the hem of her skirt touched the ground."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To come into physical contact, or to be in physical contact.",
+            "examples": [
+              "They stood next to each other, their shoulders touching ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To make physical contact with a thing.",
+            "examples": [
+              "Please can I have a look , if I promise not to touch ?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To physically disturb ; to interfere with, molest, or attempt to harm through contact.",
+            "examples": [
+              "If you touch her, I'll kill you."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To make intimate physical contact with a person.",
+            "examples": [
+              "The man was arrested for touching a girl without her consent."
+            ],
+            "synonyms": [
+              "caress",
+              "fondle",
+              "grope"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To sexually excite with the fingers; to finger or masturbate .",
+            "examples": [
+              "Her parents had caught her touching herself when she was fifteen."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive or reflexive"
+            ],
+            "label_groups": "transitive or reflexive",
+            "dating_raw": "from 20th c."
+          },
+          {
+            "definition": "To have sexual intercourse with",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To cause to be briefly in contact with something.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To physically affect in specific ways implied by context.",
+            "examples": [
+              "Frankly, this wood 's so strong that sandpaper won't touch it."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "To begin to consume , or otherwise use.",
+            "examples": [
+              "Are you all right ? You've hardly touched your lunch."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "Of a ship or its passengers: to land , to make a short stop (at).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive",
+            "dating_raw": "from 16th c."
+          },
+          {
+            "definition": "To lay hands on (someone suffering from scrofula ) as a form of cure , as formerly practised by English and French monarchs.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "now historical"
+            ],
+            "label_groups": "transitive , now historical",
+            "dating_raw": "from 17th c."
+          },
+          {
+            "definition": "To fasten ; to take effect; to make impression .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "obsolete"
+            ],
+            "label_groups": "intransitive , obsolete"
+          },
+          {
+            "definition": "To bring (a sail) so close to the wind that its weather leech shakes.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          },
+          {
+            "definition": "To be brought, as a sail , so close to the wind that its weather leech shakes.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "nautical"
+            ],
+            "label_groups": "intransitive , nautical"
+          },
+          {
+            "definition": "To keep the ship as near (the wind) as possible.",
+            "examples": [
+              "to touch the wind"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Primarily non-physical senses.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To imbue or endow with a specific quality.",
+            "examples": [
+              "My grandfather, as many people know, was touched with greatness."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To deal with in speech or writing; to mention briefly, to allude to.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "archaic"
+            ],
+            "label_groups": "transitive , archaic",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To deal with in speech or writing; briefly to speak or write ( on or upon something).",
+            "examples": [],
+            "synonyms": [
+              "refer"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To concern , to have to do with.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "14th–19th c."
+          },
+          {
+            "definition": "To affect emotionally; to bring about tender or painful feelings in.",
+            "examples": [
+              "Stefan was touched by the song's message of hope."
+            ],
+            "synonyms": [
+              "affect",
+              "move",
+              "stir"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To affect in a negative way, especially only slightly.",
+            "examples": [
+              "He had been drinking over lunch, and was clearly touched ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "dated"
+            ],
+            "label_groups": "transitive , dated",
+            "dating_raw": "from 16th c."
+          },
+          {
+            "definition": "To give royal assent to by touching it with the sceptre .",
+            "examples": [
+              "The bill was finally touched after many hours of deliberation."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "Scottish history"
+            ],
+            "label_groups": "transitive , Scottish history",
+            "dating_raw": "from 17th c."
+          },
+          {
+            "definition": "To obtain money from, usually by borrowing (from a friend).",
+            "examples": [
+              "I was running short, so I touched old Bertie for a fiver."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "slang"
+            ],
+            "label_groups": "transitive , slang",
+            "dating_raw": "from 18th c."
+          },
+          {
+            "definition": "To disturb the mental functions of; to make somewhat insane ; often followed with \"in the head\".",
+            "examples": [
+              "You must be touched if you think I'm taking your advice."
+            ],
+            "synonyms": [
+              "dement"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "always passive"
+            ],
+            "label_groups": "transitive , always passive",
+            "dating_raw": "from 18th c."
+          },
+          {
+            "definition": "To be on the level of; to approach in excellence or quality.",
+            "examples": [],
+            "synonyms": [
+              "match",
+              "rival"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "in negative constructions"
+            ],
+            "label_groups": "transitive , in negative constructions",
+            "dating_raw": "from 19th c."
+          },
+          {
+            "definition": "To come close to; to approach .",
+            "examples": [],
+            "synonyms": [
+              "near"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To mark (a file or document) as having been modified.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "computing"
+            ],
+            "label_groups": "transitive , computing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To try ; to prove , as with a touchstone .",
+        "examples": [],
+        "synonyms": [
+          "test"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To mark or delineate with touches; to add a slight stroke to with the pencil or brush.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To infect ; to affect slightly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To strike ; to manipulate ; to play on.",
+        "examples": [
+          "to touch an instrument of music"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To perform , as a tune; to play .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To influence by impulse ; to impel forcibly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Primarily physical senses.",
+    "secondary_definitions": [
+      "Primarily non-physical senses.",
+      "To try ; to prove , as with a touchstone .",
+      "To mark or delineate with touches; to add a slight stroke to with the pencil or brush.",
+      "( obsolete ) To infect ; to affect slightly.",
+      "To strike ; to manipulate ; to play on.",
+      "To perform , as a tune; to play .",
+      "To influence by impulse ; to impel forcibly."
+    ]
+  }
+]

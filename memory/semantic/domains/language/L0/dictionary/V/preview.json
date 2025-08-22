@@ -1,0 +1,55 @@
+[
+  {
+    "word": "preview",
+    "lemma": "preview",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹiːvjuː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "previews",
+          "PT": "previewed",
+          "PAP": "previewed",
+          "PRP": "previewing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To show or watch something, or part of it, before it is complete.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To show something in advance, a facility for viewing and checking a document or photo, or changes to it, before saving or printing it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To show or watch something, or part of it, before it is complete.",
+    "secondary_definitions": [
+      "( computing , transitive ) To show something in advance, a facility for viewing and checking a document or photo, or changes to it, before saving or printing it."
+    ]
+  }
+]

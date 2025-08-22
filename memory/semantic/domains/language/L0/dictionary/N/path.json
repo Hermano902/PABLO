@@ -1,0 +1,137 @@
+[
+  {
+    "word": "path",
+    "lemma": "path",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɑːθ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "paths"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A trail for the use of, or worn by, pedestrians .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A course taken.",
+        "examples": [
+          "the path of a meteor, of a caravan, or of a storm"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A metaphorical course or route; progress .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A method or direction of proceeding.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( paganism ) A Pagan tradition, for example witchcraft , Wicca , druidism , Heathenry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) A human-readable specification for a location within a hierarchical or tree -like structure, such as a file system or as part of a URL .",
+        "examples": [
+          "Use the network path \\\\Marketing\\Files to find the documents you need."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( graph theory ) A sequence of vertices from one vertex to another using the arcs ( edges ). A path does not visit the same vertex more than once (unless it is a closed path , where only the first and the last vertex are the same).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( topology ) A continuous map f {\\displaystyle f} from the unit interval I = [ 0 , 1 ] {\\displaystyle I=[0,1]} to a topological space X {\\displaystyle X} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( rail transport ) A slot available for allocation to a railway train over a given route in between other trains.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A trail for the use of, or worn by, pedestrians .",
+    "secondary_definitions": [
+      "A course taken.",
+      "A metaphorical course or route; progress .",
+      "A method or direction of proceeding.",
+      "( paganism ) A Pagan tradition, for example witchcraft , Wicca , druidism , Heathenry .",
+      "( computing ) A human-readable specification for a location within a hierarchical or tree -like structure, such as a file system or as part of a URL .",
+      "( graph theory ) A sequence of vertices from one vertex to another using the arcs ( edges ). A path does not visit the same vertex more than once (unless it is a closed path , where only the first and the last vertex are the same).",
+      "( topology ) A continuous map f {\\displaystyle f} from the unit interval I = [ 0 , 1 ] {\\displaystyle I=[0,1]} to a topological space X {\\displaystyle X} .",
+      "( rail transport ) A slot available for allocation to a railway train over a given route in between other trains."
+    ]
+  },
+  {
+    "word": "path",
+    "lemma": "path",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/pɑːθ/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Pathology .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "abbreviation"
+        ],
+        "label_groups": "medicine , abbreviation"
+      }
+    ],
+    "main_definition": "( medicine , abbreviation ) Pathology .",
+    "secondary_definitions": []
+  }
+]

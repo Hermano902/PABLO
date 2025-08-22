@@ -1,0 +1,41 @@
+[
+  {
+    "word": "backslash",
+    "lemma": "backslash",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbækˌslæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "backslashes",
+          "PT": "backslashed",
+          "PAP": "backslashed",
+          "PRP": "backslashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To escape (a metacharacter ) by prepending a backslash that serves as an escape character , thereby forming an escape sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To escape (a metacharacter ) by prepending a backslash that serves as an escape character , thereby forming an escape sequence .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "coequalizer",
+    "lemma": "coequalizer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "coequalizers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An arrow whose domain is the codomain of a parallel pair of arrows and which forms part of the colimit of that parallel pair.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "( category theory ) An arrow whose domain is the codomain of a parallel pair of arrows and which forms part of the colimit of that parallel pair.",
+    "secondary_definitions": []
+  }
+]

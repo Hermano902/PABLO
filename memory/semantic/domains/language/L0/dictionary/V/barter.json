@@ -1,0 +1,43 @@
+[
+  {
+    "word": "barter",
+    "lemma": "barter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɑː(ɹ)tə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "barters",
+          "PT": "bartered",
+          "PAP": "bartered",
+          "PRP": "bartering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To exchange goods or services without involving money .",
+        "examples": [
+          "She bartered a bonsai for one of the rare books in my library.",
+          "You may be able to barter for some of the items you need at the local market."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To exchange goods or services without involving money .",
+    "secondary_definitions": []
+  }
+]

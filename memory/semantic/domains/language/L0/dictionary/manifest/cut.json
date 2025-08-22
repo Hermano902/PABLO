@@ -1,0 +1,46 @@
+{
+  "word": "cut",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N",
+    "INTJ"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 36,
+      "examples": 20,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 37,
+      "examples": 18,
+      "synonyms": 2,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cut.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\cut.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cut.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\cut.json"
+  },
+  "timestamp": "2025-08-19T01:14:51.101144Z"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "nonassociative",
+    "lemma": "nonassociative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not associative .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Whose multiplication operation is not assumed to be associative for all elements .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of an algebraic structure"
+        ],
+        "label_groups": "algebra , of an algebraic structure"
+      }
+    ],
+    "main_definition": "Not associative .",
+    "secondary_definitions": [
+      "( algebra , of an algebraic structure ) Whose multiplication operation is not assumed to be associative for all elements ."
+    ]
+  }
+]

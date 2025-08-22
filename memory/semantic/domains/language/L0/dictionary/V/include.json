@@ -1,0 +1,95 @@
+[
+  {
+    "word": "include",
+    "lemma": "include",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkluːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "includes",
+          "PT": "included",
+          "PAP": "included",
+          "PRP": "including",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring into a group, class, set, or total as a (new) part or member.",
+        "examples": [
+          "I will purchase the vacation package if you will include car rental."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To consider as part of something; to comprehend .",
+        "examples": [
+          "The vacation package includes car rental.",
+          "Does this volume of Shakespeare include his sonnets?",
+          "I was included in the invitation to the family gathering.",
+          "up to and including page twenty-five"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To enclose , confine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "from early 15th c."
+      },
+      {
+        "definition": "To conclude ; to terminate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To use a directive that allows the use of source code from another file.",
+        "examples": [
+          "You have to include the strings library to use this function."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "To bring into a group, class, set, or total as a (new) part or member.",
+    "secondary_definitions": [
+      "To consider as part of something; to comprehend .",
+      "( obsolete ) To enclose , confine . [from early 15th c.]",
+      "( obsolete ) To conclude ; to terminate .",
+      "( programming ) To use a directive that allows the use of source code from another file."
+    ]
+  }
+]

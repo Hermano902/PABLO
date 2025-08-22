@@ -1,0 +1,115 @@
+[
+  {
+    "word": "configuration",
+    "lemma": "configuration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˌfɪɡ.əˈɹeɪ̯.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "configurations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The form of a thing, as depending on the relative placement of the parts of a thing's shape .",
+        "examples": [],
+        "synonyms": [
+          "constitution",
+          "figure",
+          "form factor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The relative positions of a set of things; the way things are arranged or put together ;",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The aspect of the planets ; the face of the horoscope , according to the relative positions of the planets at any time.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "astrology"
+            ],
+            "label_groups": "astrology"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The arrangement of electrons in an atom , molecule , or other physical structure like a crystal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "physics",
+          "chemistry"
+        ],
+        "label_groups": "countable , physics , chemistry"
+      },
+      {
+        "definition": "A finite set of points and lines (and sometimes planes), generally with equal numbers of points per line and equal numbers of lines per point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "algebra"
+        ],
+        "label_groups": "countable , algebra"
+      },
+      {
+        "definition": "The way a computing environment ( physical or software ) is set up or customized to the needs of its users.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing"
+        ],
+        "label_groups": "countable , computing"
+      },
+      {
+        "definition": "The process of customizing a computing environment in this way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "computing"
+        ],
+        "label_groups": "uncountable , computing"
+      }
+    ],
+    "main_definition": "The form of a thing, as depending on the relative placement of the parts of a thing's shape .",
+    "secondary_definitions": [
+      "The relative positions of a set of things; the way things are arranged or put together ;",
+      "( countable , physics , chemistry ) The arrangement of electrons in an atom , molecule , or other physical structure like a crystal.",
+      "( countable , algebra ) A finite set of points and lines (and sometimes planes), generally with equal numbers of points per line and equal numbers of lines per point.",
+      "( countable , computing ) The way a computing environment ( physical or software ) is set up or customized to the needs of its users.",
+      "( uncountable , computing ) The process of customizing a computing environment in this way."
+    ]
+  }
+]

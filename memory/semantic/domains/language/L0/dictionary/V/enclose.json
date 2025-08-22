@@ -1,0 +1,58 @@
+[
+  {
+    "word": "enclose",
+    "lemma": "enclose",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ənˈkloʊz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "encloses",
+          "PT": "enclosed",
+          "PAP": "enclosed",
+          "PRP": "enclosing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To surround with a wall , fence , etc.",
+        "examples": [
+          "to enclose lands"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To insert into a container , usually an envelope or package .",
+        "examples": [
+          "Please enclose a stamped self-addressed envelope if you require a reply."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To surround with a wall , fence , etc.",
+    "secondary_definitions": [
+      "( transitive ) To insert into a container , usually an envelope or package ."
+    ]
+  }
+]

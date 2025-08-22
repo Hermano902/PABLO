@@ -1,0 +1,172 @@
+[
+  {
+    "word": "selection",
+    "lemma": "selection",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səˈlɛkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "selections"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process or act of selecting .",
+        "examples": [
+          "The large number of good candidates made selection difficult."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something selected.",
+        "examples": [
+          "My final selection was a 1934 Chateau Lafite ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A variety of items taken from a larger collection.",
+        "examples": [
+          "I've brought a selection of fine cheeses to go with your wine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A musical piece.",
+        "examples": [
+          "For my next selection , I'll play Happy Birthday in F-sharp minor.",
+          "Happy Birthday"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of data obtained from a database using a query .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      },
+      {
+        "definition": "The ability of predicates to determine the semantic content of their arguments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "A list of items on which user operations will take place.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A unary operation that denotes a subset of a relation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "The free selection before survey of crown land in some Australian colonies under land legislation introduced in the 1860s.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A plot of land, or farm, thus selected.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Australia"
+            ],
+            "label_groups": "Australia"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "The stage of a genetic algorithm in which individual genomes are chosen from a population for later breeding .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "Ellipsis of natural selection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "The process or act of selecting .",
+    "secondary_definitions": [
+      "Something selected.",
+      "A variety of items taken from a larger collection.",
+      "A musical piece.",
+      "( databases ) A set of data obtained from a database using a query .",
+      "( linguistics ) The ability of predicates to determine the semantic content of their arguments .",
+      "( programming ) A list of items on which user operations will take place.",
+      "( algebra ) A unary operation that denotes a subset of a relation .",
+      "( historical ) The free selection before survey of crown land in some Australian colonies under land legislation introduced in the 1860s.",
+      "( biology ) The stage of a genetic algorithm in which individual genomes are chosen from a population for later breeding .",
+      "( biology ) Ellipsis of natural selection ."
+    ]
+  }
+]

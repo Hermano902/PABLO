@@ -1,0 +1,115 @@
+[
+  {
+    "word": "divisor",
+    "lemma": "divisor",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈvaɪ.zə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "divisors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In an expression involving division , the number by which another number is being divided .",
+        "examples": [
+          "In \"42 ÷ 3\" the divisor is the 3."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      },
+      {
+        "definition": "An integer that divides another integer an integral number of times, the former being called a divisor of the latter.",
+        "examples": [
+          "10 is a divisor of 100, but not of 101.",
+          "The positive divisors of 6 are 1, 2, 3 and 6."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A ring element which can be multiplied (by some other ring element) to yield a third ring element, the first being called a divisor of the third. If the ring is noncommutative , then one specifies whether a divisor is left , right , or two-sided .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "more generally"
+            ],
+            "label_groups": "algebra , more generally"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Any of several kinds of formal object associated to an algebraic variety , scheme , etc., which play a role similar to that of homology or cohomology groups in the study of topological spaces .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An element of the free abelian group on the points of the space.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "in the study of Riemann surfaces"
+            ],
+            "label_groups": "in the study of Riemann surfaces"
+          },
+          {
+            "definition": ") A Weil divisor : an element of the free abelian group on the codimension -1 subvarieties (or subschemes).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "on a variety (or integral locally Noetherian scheme"
+            ],
+            "label_groups": "on a variety (or integral locally Noetherian scheme"
+          },
+          {
+            "definition": ") A Cartier divisor ; see Cartier divisors on  Wikipedia. Wikipedia",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "on a variety (or integral Noetherian scheme"
+            ],
+            "label_groups": "on a variety (or integral Noetherian scheme"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "algebraic geometry"
+        ],
+        "label_groups": "mathematics , algebraic geometry"
+      }
+    ],
+    "main_definition": "( arithmetic ) In an expression involving division , the number by which another number is being divided .",
+    "secondary_definitions": [
+      "An integer that divides another integer an integral number of times, the former being called a divisor of the latter.",
+      "( mathematics , algebraic geometry ) Any of several kinds of formal object associated to an algebraic variety , scheme , etc., which play a role similar to that of homology or cohomology groups in the study of topological spaces ."
+    ]
+  }
+]

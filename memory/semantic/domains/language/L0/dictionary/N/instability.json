@@ -1,0 +1,51 @@
+[
+  {
+    "word": "instability",
+    "lemma": "instability",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "instabilities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being unstable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A state that is not in equilibrium , or in which a small change has a large irreversible effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "countable"
+        ],
+        "label_groups": "physics , countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The quality of being unstable .",
+    "secondary_definitions": [
+      "( physics , countable ) A state that is not in equilibrium , or in which a small change has a large irreversible effect."
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "word": "lazy",
+    "lemma": "lazy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪzi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "lazier",
+          "SUP": "laziest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unwilling to do work or make an effort ; disinclined to exertion.",
+        "examples": [
+          "Get out of bed, you lazy lout!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing or characterised by idleness; relaxed or leisurely .",
+        "examples": [
+          "I love staying inside and reading on a lazy Sunday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Showing a lack of effort or care .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Sluggish; slow-moving.",
+        "examples": [
+          "We strolled along beside a lazy stream."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Lax :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Droopy .",
+            "examples": [
+              "a lazy -eared rabbit"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of an eye, squinting because of a weakness of the eye muscles .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "optometry"
+            ],
+            "label_groups": "optometry"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Turned so that (the letter) is horizontal instead of vertical .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a cattle brand"
+        ],
+        "label_groups": "of a cattle brand"
+      },
+      {
+        "definition": "Employing lazy evaluation ; not calculating results until they are immediately required.",
+        "examples": [
+          "a lazy algorithm"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "Wicked ; vicious .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "obsolete or dialect"
+        ],
+        "label_groups": "UK , obsolete or dialect"
+      }
+    ],
+    "main_definition": "Unwilling to do work or make an effort ; disinclined to exertion.",
+    "secondary_definitions": [
+      "Causing or characterised by idleness; relaxed or leisurely .",
+      "Showing a lack of effort or care .",
+      "Sluggish; slow-moving.",
+      "Lax :",
+      "( of a cattle brand ) Turned so that (the letter) is horizontal instead of vertical .",
+      "( computing theory ) Employing lazy evaluation ; not calculating results until they are immediately required.",
+      "( UK , obsolete or dialect ) Wicked ; vicious ."
+    ]
+  }
+]

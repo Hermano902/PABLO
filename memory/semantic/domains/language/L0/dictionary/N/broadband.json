@@ -1,0 +1,49 @@
+[
+  {
+    "word": "broadband",
+    "lemma": "broadband",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹɔːdbænd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "broadbands"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A wideband of electromagnetic frequencies .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "An Internet connection provisioned over an existing service using alternate signal frequencies such as ADSL or a cable modem .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "( telecommunications ) A wideband of electromagnetic frequencies .",
+    "secondary_definitions": [
+      "( Internet ) An Internet connection provisioned over an existing service using alternate signal frequencies such as ADSL or a cable modem ."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "word": "fall",
+  "pos_order": [
+    "V",
+    "N",
+    "INTJ",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 28,
+      "examples": 20,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 17,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fall.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fall.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\fall.json"
+  },
+  "timestamp": "2025-08-19T03:28:01.989295Z"
+}

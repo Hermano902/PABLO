@@ -1,0 +1,47 @@
+[
+  {
+    "word": "randomly",
+    "lemma": "randomly",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹændm̩li/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more randomly",
+          "SUP": "most randomly"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a random manner.",
+        "examples": [
+          "I just randomly remembered this dream from 2 years ago."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "By random access ; at any point at a given time; not sequentially .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "In a random manner.",
+    "secondary_definitions": [
+      "( computing ) By random access ; at any point at a given time; not sequentially ."
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "word": "galvanize",
+    "lemma": "galvanize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡælvənaɪ̯z/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "galvanizes",
+          "PT": "galvanized",
+          "PAP": "galvanized",
+          "PRP": "galvanizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To coat with a layer of metal by electrochemical means.",
+        "examples": [],
+        "synonyms": [
+          "electrogalvanize",
+          "electroplate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To coat with a layer of zinc (for rust resistance) by electrochemical means.",
+            "examples": [
+              "We then galvanize the steel so that the zinc coating will sacrificially take the corrosion for many years."
+            ],
+            "synonyms": [
+              "electrogalvanize",
+              "zinc"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "usually"
+            ],
+            "label_groups": "usually"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "loosely",
+          "dated"
+        ],
+        "label_groups": "loosely , dated"
+      },
+      {
+        "definition": "To shock or stimulate into sudden activity, as if by electric shock .",
+        "examples": [
+          "The girl’s picture helped galvanize public opinion against the administration’s policy.",
+          "Republicans are hoping a proposed gas-tax repeal will galvanize their voters."
+        ],
+        "synonyms": [
+          "animate",
+          "electrify",
+          "startle",
+          "urge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "To electrify , as by galvanism .",
+        "examples": [],
+        "synonyms": [
+          "electricalize",
+          "electricize",
+          "electrize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "To switch sides between Union and Confederate in the American Civil War .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical",
+          "US"
+        ],
+        "label_groups": "historical , US"
+      }
+    ],
+    "main_definition": "( loosely , dated ) To coat with a layer of metal by electrochemical means.",
+    "secondary_definitions": [
+      "( figurative ) To shock or stimulate into sudden activity, as if by electric shock .",
+      "( archaic ) To electrify , as by galvanism .",
+      "( historical , US ) To switch sides between Union and Confederate in the American Civil War ."
+    ]
+  }
+]

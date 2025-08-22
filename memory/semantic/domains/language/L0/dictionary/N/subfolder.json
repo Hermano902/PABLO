@@ -1,0 +1,35 @@
+[
+  {
+    "word": "subfolder",
+    "lemma": "subfolder",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subfolders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A folder within another folder.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A folder within another folder.",
+    "secondary_definitions": []
+  }
+]

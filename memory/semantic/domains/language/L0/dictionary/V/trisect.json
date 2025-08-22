@@ -1,0 +1,55 @@
+[
+  {
+    "word": "trisect",
+    "lemma": "trisect",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛkt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trisects",
+          "PT": "trisected",
+          "PAP": "trisected",
+          "PRP": "trisecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to cut into three pieces",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to divide a quantity , angle etc into three equal parts",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) to cut into three pieces",
+    "secondary_definitions": [
+      "( transitive , mathematics ) to divide a quantity , angle etc into three equal parts"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "covariance",
+    "lemma": "covariance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəʊˈvɛː.ɹi.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "covariances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A statistical measure defined as Cov ⁡ ( X , Y ) = E ⁡ ( ( X − μ ) ( Y − ν ) ) {\\displaystyle \\scriptstyle \\operatorname {Cov} (X,Y)=\\operatorname {E} ((X-\\mu )(Y-\\nu ))} given two real -valued random variables X and Y , with expected values E ( X ) = μ {\\displaystyle \\scriptstyle E(X)\\,=\\,\\mu } and E ( Y ) = ν {\\displaystyle \\scriptstyle E(Y)\\,=\\,\\nu } .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "The conversion of data types from wider to narrower in certain situations.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "( statistics ) A statistical measure defined as Cov ⁡ ( X , Y ) = E ⁡ ( ( X − μ ) ( Y − ν ) ) {\\displaystyle \\scriptstyle \\operatorname {Cov} (X,Y)=\\operatorname {E} ((X-\\mu )(Y-\\nu ))} given two real -valued random variables X and Y , with expected values E ( X ) = μ {\\displaystyle \\scriptstyle E(X)\\,=\\,\\mu } and E ( Y ) = ν {\\displaystyle \\scriptstyle E(Y)\\,=\\,\\nu } .",
+    "secondary_definitions": [
+      "( object-oriented programming ) The conversion of data types from wider to narrower in certain situations."
+    ]
+  }
+]

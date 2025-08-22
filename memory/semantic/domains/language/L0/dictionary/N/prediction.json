@@ -1,0 +1,52 @@
+[
+  {
+    "word": "prediction",
+    "lemma": "prediction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈdɪkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "predictions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A statement of what will happen in the future.",
+        "examples": [],
+        "synonyms": [
+          "forecast",
+          "foretale",
+          "foretelling",
+          "prevision",
+          "prognosis",
+          "prognostication"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A probability estimation based on statistical methods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A statement of what will happen in the future.",
+    "secondary_definitions": [
+      "( statistics ) A probability estimation based on statistical methods."
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "sun",
+    "lemma": "sun",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sʌn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "suns",
+          "PT": "sunned",
+          "PAP": "sunned",
+          "PRP": "sunning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To expose to the heat and radiation of the sun.",
+        "examples": [
+          "Beautiful bodies lying on the beach, sunning their bronzed limbs."
+        ],
+        "synonyms": [
+          "apricate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To warm or dry in the sunshine.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be exposed to the sun.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To expose the eyes to the sun as part of the Bates method .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "alternative medicine"
+        ],
+        "label_groups": "intransitive , alternative medicine"
+      }
+    ],
+    "main_definition": "( transitive ) To expose to the heat and radiation of the sun.",
+    "secondary_definitions": [
+      "( transitive ) To warm or dry in the sunshine.",
+      "( intransitive ) To be exposed to the sun.",
+      "( intransitive , alternative medicine ) To expose the eyes to the sun as part of the Bates method ."
+    ]
+  }
+]

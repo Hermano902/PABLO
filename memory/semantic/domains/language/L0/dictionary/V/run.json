@@ -1,0 +1,765 @@
+[
+  {
+    "word": "run",
+    "lemma": "run",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹʌn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "runs",
+          "PT": "ran",
+          "PAP": "run",
+          "PRP": "running",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move swiftly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( intransitive ) To move forward quickly upon two feet by alternately making a short jump off either foot.",
+            "examples": [
+              "Run , and you might still catch the train!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To go at a fast pace; to move quickly .",
+            "examples": [
+              "I have been running all over the building looking for him.",
+              "Sorry, I've got to run ; my house is on fire!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To cover (a course or a distance) by running.",
+            "examples": [
+              "I can run a mile, but I can't run the cross-country course."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To complete a running course or event in (a given time).",
+            "examples": [
+              "I was hoping to make the team, but I didn't run the qualifying time."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To move briskly or smoothly with a motion of sliding, rolling, sweeping etc.",
+            "examples": [
+              "The shuttle runs back and forth on these rollers.",
+              "As its name suggests, the monorail runs on a single rail.",
+              "I felt her fingers running over my cheek."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To cause to move quickly or lightly .",
+            "examples": [
+              "Every day I run my dog across the field and back.",
+              "I'll just run the vacuum cleaner over the carpet.",
+              "Run your fingers through my hair."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive or intransitive ) To compete in a race .",
+            "examples": [
+              "The horse will run in the Preakness next year.",
+              "I'm not ready to run a marathon.",
+              "The car could not be repaired in time for the race and did not run ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To transport (someone or something), notionally at a brisk pace.",
+            "examples": [
+              "Could you run me over to the store?",
+              "Please run this report upstairs to director's office."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , intransitive ) Of a means of transportation: to travel (a route ).",
+            "examples": [
+              "The bus (train, plane, ferry boat, etc) runs between Newport and Riverside."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To cause (a  vehicle) to  travel a route.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To transit (a length of a river), as in whitewater rafting .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) Of fish, to migrate for spawning .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( American football , transitive or intransitive ) To carry (a football ) down the field, as opposed to passing or kicking.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To flee from a danger or towards help.",
+            "examples": [
+              "Whenever things get tough, she cuts and runs .",
+              "When he's broke, he runs to me for money.",
+              "When the alarm went off, the thief dropped the booty and ran ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( figurative , transitive ) To pass (without stopping ), typically a stop signal , stop sign , or duty to yield the right of way .",
+            "examples": [
+              "The car in front just ran a red light.",
+              "If you have a collision with a vehicle oncoming from the right, after having run priority to the right, you are at fault."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , juggling , colloquial ) To juggle a pattern continuously , as opposed to starting and stopping quickly.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( fluids ) To flow.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( intransitive ) Of a liquid , to flow .",
+            "examples": [
+              "The river runs through the forest into the North Sea.",
+              "There's blood running down your leg."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive , figuratively ) To move or spread quickly.",
+            "examples": [
+              "There's a strange story running around the neighborhood that you had a miscarriage last year.",
+              "The flu is running through my daughter's kindergarten."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) Of an object, to have a liquid flowing from it.",
+            "examples": [
+              "Your nose is running and your forehead is run ning with sweat.",
+              "Why is the hose still running ?",
+              "I got tears run ning down my cheeks because he smoke of cigars makes my eyes run ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To make a liquid flow; to make liquid flow from or into an object.",
+            "examples": [
+              "I can't stop my nose from run ning snot down into my mouth.",
+              "Could you run a bath for me, please? You'll have to run the water a while before it gets hot."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To become liquid ; to melt .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To leak or spread in an undesirable fashion; to bleed (especially used of dye or paint ).",
+            "examples": [
+              "During washing, the red from the rug ran onto the white sheet, staining it pink."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To fuse ; to shape ; to mould ; to cast .",
+            "examples": [
+              "to run bullets"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( nautical , of a vessel ) To sail before the wind, in distinction from reaching or sailing close-hauled .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To control or manage ; to be in charge of.",
+        "examples": [
+          "My uncle ran a corner store for forty years.",
+          "She runs the fundraising.",
+          "My parents think they run my life.",
+          "He is running the candidate's expensive campaign."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To be a candidate in an election .",
+        "examples": [
+          "I have decided to run for governor of California.",
+          "We're trying to find somebody to run against him next year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To make participate in certain kinds of competitions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( transitive ) To make enter a race.",
+            "examples": [
+              "He ran his best horse in the Derby.",
+              "We're running two cars in today's rally."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To make stand in an election.",
+            "examples": [
+              "The Green Party is running twenty candidates in this election."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To exert continuous activity; to proceed.",
+        "examples": [
+          "to run through life; to run in a circle"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To be presented in the media .",
+        "examples": [
+          "The story will run on the 6-o'clock news.",
+          "The latest Robin Williams movie is running at the Silver City theatre.",
+          "Her picture ran on the front page of the newspaper."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To print or broadcast in the media.",
+        "examples": [
+          "run a story; run an ad"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To smuggle ( illegal goods).",
+        "examples": [
+          "They are run ning guns to the rebels."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , agriculture ) To sort through a large volume of produce in quality control .",
+        "examples": [
+          "Looks like we're gonna have to run the tomatoes again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To extend or persist, statically or dynamically, through space or time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( intransitive ) To extend in space or through a range (often with a measure phrase).",
+            "examples": [
+              "The border runs for 3000 miles.",
+              "The leash runs along a wire.",
+              "The grain of the wood runs to the right on this table.",
+              "It ran in quality from excellent to substandard."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) To extend in time , to last , to continue (usually with a measure phrase).",
+            "examples": [
+              "The sale will run for ten days.",
+              "The contract runs through 2008.",
+              "The meeting ran late.",
+              "The book runs 655 pages.",
+              "The speech runs as follows: …"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To make (something) extend in space.",
+            "examples": [
+              "I need to run this wire along the wall."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive ) Of a machine , including computer programs , to be operating or working normally.",
+            "examples": [
+              "My car stopped running .",
+              "That computer runs twenty-four hours a day.",
+              "The buses don't run on Sundays."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive ) To make a machine operate .",
+            "examples": [
+              "It's full. You can run the dishwasher now.",
+              "Don't run the engine so fast."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To execute or carry out a plan , procedure , or program .",
+        "examples": [
+          "They ran twenty blood tests on me and they still don't know what's wrong.",
+          "Our coach had us running plays for the whole practice.",
+          "I will run the sample.",
+          "Don't run that software unless you have permission.",
+          "My computer is too old to run the new OS."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To pass or go quickly in thought or conversation.",
+        "examples": [
+          "to run from one subject to another"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( copulative ) To become different in a way mentioned (usually to become worse ).",
+        "examples": [
+          "Our food supplies are running low because money is run ning short .",
+          "They frequently overspent and soon ran into debt.",
+          "Tap water always run s freezing cold before run ning dry ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To cost an amount of money.",
+        "examples": [
+          "Buying a new laptop will run you a thousand dollars.",
+          "Laptops run about a thousand dollars apiece."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) Of stitches or stitched clothing, to unravel .",
+        "examples": [
+          "My stocking is running ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To cause stitched clothing to unravel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To pursue in thought; to carry in contemplation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To cause to enter; to thrust.",
+        "examples": [
+          "to run a sword into or through the body; to run a nail into one's foot"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To drive or force; to cause, or permit, to be driven.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To cause to be drawn; to mark out; to indicate; to determine.",
+        "examples": [
+          "to run a line"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To encounter or incur (a danger or risk).",
+        "examples": [
+          "to run the risk of losing one's life"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , obsolete ) To put at hazard; to venture; to risk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , obsolete ) To tease with sarcasms and ridicule.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To sew (a seam) by passing the needle through material in a continuous line, generally taking a series of stitches on the needle at the same time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To control or have precedence in a card game.",
+        "examples": [
+          "Every three or four hands he would run the table."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be in form thus, as a combination of words.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( archaic ) To be popularly known; to be generally received.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have growth or development.",
+        "examples": [
+          "Boys and girls run up rapidly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To tend, as to an effect or consequence; to incline.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have a legal course; to be attached; to continue in force, effect, or operation; to follow; to go in company.",
+        "examples": [
+          "Certain covenants run with the land."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To encounter or suffer (a particular, usually bad, fate or misfortune ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( golf ) To strike (the ball) in such a way as to cause it to run along the ground, as when approaching a hole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( video games , rare ) To speedrun .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( sports , especially baseball ) To eject from a game or match.",
+        "examples": [
+          "Jackson got himself run in the top of the sixth for arguing a borderline strike three call."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To press (a bank, etc.) with immediate demands for payment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To move swiftly.",
+    "secondary_definitions": [
+      "( fluids ) To flow.",
+      "( nautical , of a vessel ) To sail before the wind, in distinction from reaching or sailing close-hauled .",
+      "( transitive ) To control or manage ; to be in charge of.",
+      "( intransitive ) To be a candidate in an election .",
+      "To make participate in certain kinds of competitions.",
+      "To exert continuous activity; to proceed.",
+      "( intransitive ) To be presented in the media .",
+      "( transitive ) To print or broadcast in the media.",
+      "( transitive ) To smuggle ( illegal goods).",
+      "( transitive , agriculture ) To sort through a large volume of produce in quality control .",
+      "To extend or persist, statically or dynamically, through space or time.",
+      "( transitive ) To execute or carry out a plan , procedure , or program .",
+      "To pass or go quickly in thought or conversation.",
+      "( copulative ) To become different in a way mentioned (usually to become worse ).",
+      "( transitive ) To cost an amount of money.",
+      "( intransitive ) Of stitches or stitched clothing, to unravel .",
+      "( transitive ) To cause stitched clothing to unravel.",
+      "To pursue in thought; to carry in contemplation.",
+      "To cause to enter; to thrust.",
+      "To drive or force; to cause, or permit, to be driven.",
+      "To cause to be drawn; to mark out; to indicate; to determine.",
+      "( transitive ) To encounter or incur (a danger or risk).",
+      "( transitive , obsolete ) To put at hazard; to venture; to risk.",
+      "( transitive , obsolete ) To tease with sarcasms and ridicule.",
+      "To sew (a seam) by passing the needle through material in a continuous line, generally taking a series of stitches on the needle at the same time.",
+      "To control or have precedence in a card game.",
+      "To be in form thus, as a combination of words.",
+      "( archaic ) To be popularly known; to be generally received.",
+      "To have growth or development.",
+      "To tend, as to an effect or consequence; to incline.",
+      "To have a legal course; to be attached; to continue in force, effect, or operation; to follow; to go in company.",
+      "To encounter or suffer (a particular, usually bad, fate or misfortune ).",
+      "( golf ) To strike (the ball) in such a way as to cause it to run along the ground, as when approaching a hole.",
+      "( video games , rare ) To speedrun .",
+      "( sports , especially baseball ) To eject from a game or match.",
+      "To press (a bank, etc.) with immediate demands for payment."
+    ]
+  },
+  {
+    "word": "run",
+    "lemma": "run",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ɹʌn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "past participle of rin",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "past participle of rin",
+    "secondary_definitions": []
+  }
+]

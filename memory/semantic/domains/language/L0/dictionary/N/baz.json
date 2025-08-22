@@ -1,0 +1,32 @@
+[
+  {
+    "word": "baz",
+    "lemma": "baz",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A metasyntactic variable used to stand for some unspecified entity; typically the third in a series after foo and bar .",
+        "examples": [
+          "Suppose we have three objects, foo, bar and baz ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A metasyntactic variable used to stand for some unspecified entity; typically the third in a series after foo and bar .",
+    "secondary_definitions": []
+  }
+]

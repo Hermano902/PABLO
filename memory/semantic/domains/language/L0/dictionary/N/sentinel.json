@@ -1,0 +1,87 @@
+[
+  {
+    "word": "sentinel",
+    "lemma": "sentinel",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛntɪnəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sentinels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sentry , watch, or guard .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A private soldier .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A unique value recognised by a computer program for processing in a special way, or marking the end of a set of data.",
+        "examples": [
+          "The <xmp> tag is a sentinel that suspends web-page processing and displays the subsequent text literally",
+          "<xmp>"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "A sentinel crab .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sign of a health risk (e.g. a disease, an adverse effect).",
+        "examples": [
+          "sentinel animals can be used to explore endemic diseases."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "attributive",
+          "medicine",
+          "epidemiology"
+        ],
+        "label_groups": "attributive , medicine , epidemiology"
+      }
+    ],
+    "main_definition": "A sentry , watch, or guard .",
+    "secondary_definitions": [
+      "( obsolete ) A private soldier .",
+      "( computer science ) A unique value recognised by a computer program for processing in a special way, or marking the end of a set of data.",
+      "A sentinel crab .",
+      "( attributive , medicine , epidemiology ) A sign of a health risk (e.g. a disease, an adverse effect)."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "renege",
+    "lemma": "renege",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈnɛɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reneges",
+          "PT": "reneged",
+          "PAP": "reneged",
+          "PRP": "reneging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To break a promise or commitment ; to go back on one's word .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "( often ) with on"
+      },
+      {
+        "definition": "To break one's commitment to follow suit when capable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "card games"
+        ],
+        "label_groups": "intransitive , card games"
+      },
+      {
+        "definition": "To deny ; to renounce",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( intransitive ) To break a promise or commitment ; to go back on one's word . [ ( often ) with on ]",
+    "secondary_definitions": [
+      "( intransitive , card games ) To break one's commitment to follow suit when capable.",
+      "( transitive , archaic ) To deny ; to renounce"
+    ]
+  }
+]

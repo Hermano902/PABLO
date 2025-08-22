@@ -1,0 +1,37 @@
+{
+  "word": "than",
+  "pos_order": [
+    "CONJ",
+    "PREP",
+    "ADV"
+  ],
+  "pos": {
+    "CONJ": {
+      "definitions": 2,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PREP": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "CONJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\CONJ\\than.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\than.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\than.json"
+  },
+  "timestamp": "2025-08-19T19:02:28.523136Z"
+}

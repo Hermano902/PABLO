@@ -1,0 +1,226 @@
+[
+  {
+    "word": "type",
+    "lemma": "type",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/taɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "types"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A grouping based on shared characteristics; a class .",
+        "examples": [
+          "This type of plane can handle rough weather more easily than that type of plane."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An individual that represents the ideal for its class; an embodiment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A letter or character used for printing , historically a cast or engraved block .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such types collectively, or a set of type of one font or size .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable"
+            ],
+            "label_groups": "uncountable"
+          },
+          {
+            "definition": "Text printed with such type, or imitating its characteristics.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly uncountable"
+            ],
+            "label_groups": "chiefly uncountable"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "printing",
+          "countable"
+        ],
+        "label_groups": "printing , countable"
+      },
+      {
+        "definition": "Something, often a specimen, selected as an objective anchor to connect a scientific name to a taxon ; this need not be representative or typical.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "Preferred sort of person; sort of person that one is attracted to.",
+        "examples": [
+          "We can't get along: he's just not my type .",
+          "He was exactly her type ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A blood group .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A word that occurs in a text or corpus irrespective of how many times it occurs, as opposed to a token .",
+        "examples": [],
+        "synonyms": [
+          "type-word"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "corpus linguistics"
+        ],
+        "label_groups": "corpus linguistics"
+      },
+      {
+        "definition": "An event or person that prefigures or foreshadows a later event - commonly an Old Testament event linked to Christian times.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "theology"
+        ],
+        "label_groups": "theology"
+      },
+      {
+        "definition": "A tag attached to variables and values used in determining which kinds of value can be used in which situations; a data type .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "The original object, or class of objects, scene, face, or conception, which becomes the subject of a copy; especially, the design on the face of a medal or a coin.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fine arts"
+        ],
+        "label_groups": "fine arts"
+      },
+      {
+        "definition": "A simple compound , used as a mode or pattern to which other compounds are conveniently regarded as being related, and from which they may be actually or theoretically derived .",
+        "examples": [
+          "The fundamental types used to express the simplest and most essential chemical relations are hydrochloric acid, water, ammonia, and methane."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). ( Note : this corresponds to the notion of \"data type\" in computing theory.)",
+        "examples": [
+          "Categorial grammar is like a combination of context-free grammar and types ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A symbol , emblem , or example of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete except in the above special senses"
+        ],
+        "label_groups": "obsolete except in the above special senses"
+      }
+    ],
+    "main_definition": "A grouping based on shared characteristics; a class .",
+    "secondary_definitions": [
+      "An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc.",
+      "An individual that represents the ideal for its class; an embodiment .",
+      "( printing , countable ) A letter or character used for printing , historically a cast or engraved block .",
+      "( taxonomy ) Something, often a specimen, selected as an objective anchor to connect a scientific name to a taxon ; this need not be representative or typical.",
+      "Preferred sort of person; sort of person that one is attracted to.",
+      "( medicine ) A blood group .",
+      "( corpus linguistics ) A word that occurs in a text or corpus irrespective of how many times it occurs, as opposed to a token .",
+      "( theology ) An event or person that prefigures or foreshadows a later event - commonly an Old Testament event linked to Christian times.",
+      "( computing theory ) A tag attached to variables and values used in determining which kinds of value can be used in which situations; a data type .",
+      "( fine arts ) The original object, or class of objects, scene, face, or conception, which becomes the subject of a copy; especially, the design on the face of a medal or a coin.",
+      "( chemistry ) A simple compound , used as a mode or pattern to which other compounds are conveniently regarded as being related, and from which they may be actually or theoretically derived .",
+      "( mathematics ) A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). ( Note : this corresponds to the notion of \"data type\" in computing theory.)",
+      "( obsolete except in the above special senses ) A symbol , emblem , or example of something."
+    ]
+  }
+]

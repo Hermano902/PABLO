@@ -1,0 +1,53 @@
+[
+  {
+    "word": "capacitance",
+    "lemma": "capacitance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "capacitances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of an electric circuit or its element that permits it to store charge , defined as the ratio of stored charge to potential over that element or circuit ( Q/V ); SI unit: farad (F).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "elastance"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "uncountable"
+        ],
+        "label_groups": "physics , uncountable"
+      },
+      {
+        "definition": "An element of an electrical circuit exhibiting capacitance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "countable"
+        ],
+        "label_groups": "physics , countable"
+      }
+    ],
+    "main_definition": "( physics , uncountable ) The property of an electric circuit or its element that permits it to store charge , defined as the ratio of stored charge to potential over that element or circuit ( Q/V ); SI unit: farad (F).",
+    "secondary_definitions": [
+      "( physics , countable ) An element of an electrical circuit exhibiting capacitance."
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "resistive",
+    "lemma": "resistive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more resistive",
+          "SUP": "most resistive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Tending to resist something or someone; resistant .",
+        "examples": [
+          "He had a stubborn, resistive nature."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      },
+      {
+        "definition": "Acting as a resistor ; resisting the passage of electrical current .",
+        "examples": [
+          "This material is highly resistive ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "Of an electronic circuit : consisting only of resistors and power sources ; having no inductance and capacitance .",
+        "examples": [
+          "a pure resistive circuit"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( rare ) Tending to resist something or someone; resistant .",
+    "secondary_definitions": [
+      "( electronics ) Acting as a resistor ; resisting the passage of electrical current .",
+      "( electronics ) Of an electronic circuit : consisting only of resistors and power sources ; having no inductance and capacitance ."
+    ]
+  }
+]

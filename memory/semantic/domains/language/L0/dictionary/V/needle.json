@@ -1,0 +1,70 @@
+[
+  {
+    "word": "needle",
+    "lemma": "needle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈniː.dəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "needles",
+          "PT": "needled",
+          "PAP": "needled",
+          "PRP": "needling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pierce with a needle, especially for sewing or acupuncture .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To tease in order to provoke ; to poke fun at.",
+        "examples": [
+          "Billy needled his sister incessantly about her pimples."
+        ],
+        "synonyms": [
+          "goad",
+          "tease"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form, or be formed, in the shape of a needle.",
+        "examples": [
+          "to needle crystals"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "To pierce with a needle, especially for sewing or acupuncture .",
+    "secondary_definitions": [
+      "( transitive ) To tease in order to provoke ; to poke fun at.",
+      "( ambitransitive ) To form, or be formed, in the shape of a needle."
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "skill.vision",
+  "kind": "skill",
+  "entry": "cognition.skills.vision.main:run",
+  "accepts": [
+    "EYE/*",
+    "EAR/*",
+    "SYS/*",
+    "COG/CONTEXT/*"
+  ],
+  "emits": [
+    "COG/REASON/OPTIONS",
+    "COG/PLAN/PROPOSAL"
+  ],
+  "enable": true
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "bilinear",
+    "lemma": "bilinear",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/baɪˈlɪn.i.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Linear (preserving linear combinations ) in each variable .",
+        "examples": [
+          "The function f ( x , y ) = x y {\\displaystyle f(x,y)=xy} is bilinear , because f ( a x + b u , y ) = a f ( x , y ) + b f ( u , y ) {\\displaystyle f(ax+bu,y)=af(x,y)+bf(u,y)} and f ( x , a y + b v ) = a f ( x , y ) + b f ( x , v ) {\\displaystyle f(x,ay+bv)=af(x,y)+bf(x,v)} for all values."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra",
+          "of a function in two variables"
+        ],
+        "label_groups": "linear algebra , of a function in two variables"
+      },
+      {
+        "definition": "Of or pertaining to a Möbius transformation (type of conformal map representable as the ratio of two linear functions).",
+        "examples": [
+          "bilinear isotropic hardening"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "complex analysis",
+          "physics",
+          "engineering"
+        ],
+        "label_groups": "complex analysis , physics , engineering"
+      }
+    ],
+    "main_definition": "( linear algebra , of a function in two variables ) Linear (preserving linear combinations ) in each variable .",
+    "secondary_definitions": [
+      "( complex analysis , physics , engineering ) Of or pertaining to a Möbius transformation (type of conformal map representable as the ratio of two linear functions)."
+    ]
+  }
+]

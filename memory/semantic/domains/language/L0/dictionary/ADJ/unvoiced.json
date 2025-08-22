@@ -1,0 +1,76 @@
+[
+  {
+    "word": "unvoiced",
+    "lemma": "unvoiced",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌʌnˈvɔɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not spoken or expressed .",
+        "examples": [
+          "I could guess her unvoiced opinon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Spoken without vibration of the vocal chords .",
+        "examples": [],
+        "synonyms": [
+          "voiceless"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "That does not contain voice .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing",
+          "of a signal"
+        ],
+        "label_groups": "signal processing , of a signal"
+      },
+      {
+        "definition": "Of an IRC user: not granted voice privileges.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "Not spoken or expressed .",
+    "secondary_definitions": [
+      "( linguistics ) Spoken without vibration of the vocal chords .",
+      "( signal processing , of a signal ) That does not contain voice .",
+      "( Internet ) Of an IRC user: not granted voice privileges."
+    ]
+  }
+]

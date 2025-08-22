@@ -1,0 +1,37 @@
+{
+  "word": "remote",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 4,
+      "examples": 7,
+      "synonyms": 13,
+      "antonyms": 16,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\remote.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\remote.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\remote.json"
+  },
+  "timestamp": "2025-08-19T13:30:06.028493Z"
+}

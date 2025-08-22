@@ -1,0 +1,58 @@
+[
+  {
+    "word": "occult",
+    "lemma": "occult",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒk.ʌlt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "occults",
+          "PT": "occulted",
+          "PAP": "occulted",
+          "PRP": "occulting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cover or hide from view.",
+        "examples": [
+          "The Earth occults the Moon during a lunar eclipse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "astronomy"
+        ],
+        "label_groups": "transitive , astronomy"
+      },
+      {
+        "definition": "To dissimulate , conceal , or obfuscate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "rare"
+        ],
+        "label_groups": "transitive , rare"
+      }
+    ],
+    "main_definition": "( transitive , astronomy ) To cover or hide from view.",
+    "secondary_definitions": [
+      "( transitive , rare ) To dissimulate , conceal , or obfuscate ."
+    ]
+  }
+]

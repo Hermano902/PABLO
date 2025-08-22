@@ -1,0 +1,46 @@
+[
+  {
+    "word": "crossover",
+    "lemma": "crossover",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/krɔˈsɔ.vɛr/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of an electrical cable, having connector pins at one end wired to different pins at the other; for example, pin 1 to pin 2, pin 2 to pin 4 etc.;  contrasted with straight-through .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Configured so that the transmit signals at one end are connected to the receive signals at the other.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "in particular",
+              "computing",
+              "of an Ethernet cable"
+            ],
+            "label_groups": "in particular , computing , of an Ethernet cable"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Of an electrical cable, having connector pins at one end wired to different pins at the other; for example, pin 1 to pin 2, pin 2 to pin 4 etc.;  contrasted with straight-through .",
+    "secondary_definitions": []
+  }
+]

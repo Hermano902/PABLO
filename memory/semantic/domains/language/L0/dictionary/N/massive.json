@@ -1,0 +1,56 @@
+[
+  {
+    "word": "massive",
+    "lemma": "massive",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæs.ɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "massives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A homogeneous mass of rock , not layered and without an obvious crystal structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mineralogy"
+        ],
+        "label_groups": "mineralogy"
+      },
+      {
+        "definition": "A group of people from a locality, or sharing a collective aim, interest, etc.",
+        "examples": [
+          "Big up to the Croydon massive !"
+        ],
+        "synonyms": [
+          "clique",
+          "gang",
+          "set"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "MLE",
+          "slang"
+        ],
+        "label_groups": "MLE , slang"
+      }
+    ],
+    "main_definition": "( mineralogy ) A homogeneous mass of rock , not layered and without an obvious crystal structure.",
+    "secondary_definitions": [
+      "( MLE , slang ) A group of people from a locality, or sharing a collective aim, interest, etc."
+    ]
+  }
+]

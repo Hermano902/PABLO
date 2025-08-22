@@ -1,0 +1,68 @@
+[
+  {
+    "word": "expunge",
+    "lemma": "expunge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈspʌnd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "expunges",
+          "PT": "expunged",
+          "PAP": "expunged",
+          "PRP": "expunging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To erase or strike out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To eliminate completely ; to annihilate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To delete permanently ( e-mail etc.) that was previously marked for deletion but still stored .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To erase or strike out .",
+    "secondary_definitions": [
+      "( transitive ) To eliminate completely ; to annihilate .",
+      "( transitive , computing ) To delete permanently ( e-mail etc.) that was previously marked for deletion but still stored ."
+    ]
+  }
+]

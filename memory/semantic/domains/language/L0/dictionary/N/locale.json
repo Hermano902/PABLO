@@ -1,0 +1,60 @@
+[
+  {
+    "word": "locale",
+    "lemma": "locale",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ləʊˈkɑːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "locales"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The place where something happens .",
+        "examples": [
+          "Being near running water and good shade, the explorers decided it was a good locale for setting up camp."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The set of settings related to the language and region in which a computer program executes. Examples are language, currency and time formats, character encoding etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A partially ordered set with the following additional axiomatic properties: any finite subset of it has a meet , any arbitrary subset of it has a join , and distributivity , which states that a binary meet distributes with respect to an arbitrary join. (Note: locales are just like frame s except that the category of locales is opposite to the category of frames.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "The place where something happens .",
+    "secondary_definitions": [
+      "( computing ) The set of settings related to the language and region in which a computer program executes. Examples are language, currency and time formats, character encoding etc.",
+      "( mathematics ) A partially ordered set with the following additional axiomatic properties: any finite subset of it has a meet , any arbitrary subset of it has a join , and distributivity , which states that a binary meet distributes with respect to an arbitrary join. (Note: locales are just like frame s except that the category of locales is opposite to the category of frames.)"
+    ]
+  }
+]

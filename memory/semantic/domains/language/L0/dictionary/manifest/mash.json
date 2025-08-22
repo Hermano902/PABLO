@@ -1,0 +1,33 @@
+{
+  "word": "mash",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mash.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mash.json"
+  },
+  "timestamp": "2025-08-19T08:39:29.187375Z"
+}

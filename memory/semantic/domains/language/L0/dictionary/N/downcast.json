@@ -1,0 +1,136 @@
+[
+  {
+    "word": "downcast",
+    "lemma": "downcast",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnkɑːst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "downcasts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( geology , obsolete ) Synonym of downthrow ( “ a depression of the strata on one side of a fault ; also, the degree of downward displacement in such a fault ” ) .",
+        "examples": [
+          "a downcast dyke"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "upcast",
+          "upthrow"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( geology , obsolete ) Synonym of downthrow ( “ a depression of the strata on one side of a fault ; also, the degree of downward displacement in such a fault ” ) .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "downcast",
+    "lemma": "downcast",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈdaʊnkɑːst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "downcasts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of looking downwards , usually as a sign of discouragement , sadness , etc., or sometimes modesty ; hence ( uncountable , archaic ) , dejection , melancholy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An act, or the situation , of being cast or thrown to the ground .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A defeat , an overthrow ; also, an act of destruction or ruin .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative"
+            ],
+            "label_groups": "figurative"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable",
+          "archaic"
+        ],
+        "label_groups": "countable , archaic"
+      },
+      {
+        "definition": "A cast ( “ change of expression of a data type ” ) from supertype to subtype .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "upcast"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing"
+        ],
+        "label_groups": "countable , computing"
+      },
+      {
+        "definition": "A ventilating shaft down which air passes in circulating through a mine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mining",
+          "chiefly attributive"
+        ],
+        "label_groups": "countable , mining , chiefly attributive"
+      }
+    ],
+    "main_definition": "( countable ) An act of looking downwards , usually as a sign of discouragement , sadness , etc., or sometimes modesty ; hence ( uncountable , archaic ) , dejection , melancholy .",
+    "secondary_definitions": [
+      "( countable , archaic )",
+      "( countable , computing ) A cast ( “ change of expression of a data type ” ) from supertype to subtype .",
+      "( countable , mining , chiefly attributive ) A ventilating shaft down which air passes in circulating through a mine ."
+    ]
+  }
+]

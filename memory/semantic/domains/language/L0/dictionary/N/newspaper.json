@@ -1,0 +1,75 @@
+[
+  {
+    "word": "newspaper",
+    "lemma": "newspaper",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈnjuːsˌpeɪpə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "newspapers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A publication , usually published daily or weekly, containing news and other articles . Traditionally a print publication typically printed on cheap, low-quality paper; today usually digital and often also available in print.",
+        "examples": [
+          "Many major newspapers are paywalled because they need the revenue.",
+          "The paper boy delivers her newspaper to her front porch every weekday."
+        ],
+        "synonyms": [
+          "paper",
+          "rag",
+          "masthead"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The news organization that produces such a publication.",
+        "examples": [
+          "Some newspapers are afraid to do hard-hitting investigative journalism. But this newspaper doesn't run from a fight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "metonymic"
+        ],
+        "label_groups": "countable , metonymic"
+      },
+      {
+        "definition": "A quantity of or one of the types of paper on which newspapers are printed.",
+        "examples": [],
+        "synonyms": [
+          "newsprint"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "uncountable , countable"
+      }
+    ],
+    "main_definition": "( countable ) A publication , usually published daily or weekly, containing news and other articles . Traditionally a print publication typically printed on cheap, low-quality paper; today usually digital and often also available in print.",
+    "secondary_definitions": [
+      "( countable , metonymic ) The news organization that produces such a publication.",
+      "( uncountable , countable ) A quantity of or one of the types of paper on which newspapers are printed."
+    ]
+  }
+]

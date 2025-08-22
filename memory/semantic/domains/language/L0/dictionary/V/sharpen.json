@@ -1,0 +1,57 @@
+[
+  {
+    "word": "sharpen",
+    "lemma": "sharpen",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃɑɹpən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sharpens",
+          "PT": "sharpened",
+          "PAP": "sharpened",
+          "PRP": "sharpening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make sharp .",
+        "examples": [
+          "to sharpen a pencil or a knife or a musical note"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sometimes figurative"
+        ],
+        "label_groups": "transitive , sometimes figurative"
+      },
+      {
+        "definition": "To become sharp.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , sometimes figurative ) To make sharp .",
+    "secondary_definitions": [
+      "( intransitive ) To become sharp."
+    ]
+  }
+]

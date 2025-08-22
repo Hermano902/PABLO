@@ -1,0 +1,105 @@
+[
+  {
+    "word": "productive",
+    "lemma": "productive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈdʌk.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more productive",
+          "SUP": "most productive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of producing something, especially in abundance ; fertile .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Yielding good or useful results ; constructive .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of, or relating to the creation of goods or services .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Consistently applicable to any of an open set of words.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "of an affix or word construction rule"
+        ],
+        "label_groups": "linguistics , of an affix or word construction rule"
+      },
+      {
+        "definition": "Of a cough , producing mucus or sputum from the respiratory tract .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Of inflammation , producing new tissue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A type of set of natural numbers , related to mathematical logic ; a set S {\\displaystyle S} is productive if there exists a total recursive function f {\\displaystyle f} such that ∀ x ∈ N , W x ⊆ S ⇒ f ( x ) ∈ A ∖ W x {\\displaystyle \\forall x\\in \\mathbb {N} ,~~W_{x}\\subseteq S\\Rightarrow f(x)\\in A\\setminus W_{x}} , where W x {\\displaystyle W_{x}} is a recursive function whose Gödel number is x {\\displaystyle x} .",
+        "examples": [
+          "a productive set"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      }
+    ],
+    "main_definition": "Capable of producing something, especially in abundance ; fertile .",
+    "secondary_definitions": [
+      "Yielding good or useful results ; constructive .",
+      "Of, or relating to the creation of goods or services .",
+      "( linguistics , of an affix or word construction rule ) Consistently applicable to any of an open set of words.",
+      "( medicine ) Of a cough , producing mucus or sputum from the respiratory tract .",
+      "( medicine ) Of inflammation , producing new tissue .",
+      "( set theory ) A type of set of natural numbers , related to mathematical logic ; a set S {\\displaystyle S} is productive if there exists a total recursive function f {\\displaystyle f} such that ∀ x ∈ N , W x ⊆ S ⇒ f ( x ) ∈ A ∖ W x {\\displaystyle \\forall x\\in \\mathbb {N} ,~~W_{x}\\subseteq S\\Rightarrow f(x)\\in A\\setminus W_{x}} , where W x {\\displaystyle W_{x}} is a recursive function whose Gödel number is x {\\displaystyle x} ."
+    ]
+  }
+]

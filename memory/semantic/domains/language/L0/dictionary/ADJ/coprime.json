@@ -1,0 +1,92 @@
+[
+  {
+    "word": "coprime",
+    "lemma": "coprime",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having no positive integer factors in common , aside from 1 .",
+        "examples": [
+          "24 and 35 are coprime ."
+        ],
+        "synonyms": [
+          "relatively prime"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "number theory",
+          "of two or more positive integers"
+        ],
+        "label_groups": "number theory , of two or more positive integers"
+      },
+      {
+        "definition": "Having no positive integer factors, aside from 1, in common with one or more specified other positive integers.",
+        "examples": [
+          "24 is coprime to 35."
+        ],
+        "synonyms": [
+          "relatively prime"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "number theory",
+          "of a positive integer"
+        ],
+        "label_groups": "number theory , of a positive integer"
+      },
+      {
+        "definition": "Whose greatest common divisor is a nonzero constant (i.e., polynomial of degree 0).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "by extension",
+          "of two or more polynomials"
+        ],
+        "label_groups": "algebra , by extension , of two or more polynomials"
+      },
+      {
+        "definition": "Whose sum is the whole ring; ( of two or more elements of a ring ) generating the whole ring.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ring theory",
+          "by extension",
+          "of two or more ideals of a ring"
+        ],
+        "label_groups": [
+          "ring theory , by extension",
+          "of two or more ideals of a ring"
+        ]
+      }
+    ],
+    "main_definition": "( number theory , of two or more positive integers ) Having no positive integer factors in common , aside from 1 .",
+    "secondary_definitions": [
+      "( number theory , of a positive integer ) Having no positive integer factors, aside from 1, in common with one or more specified other positive integers.",
+      "( algebra , by extension , of two or more polynomials ) Whose greatest common divisor is a nonzero constant (i.e., polynomial of degree 0).",
+      "( ring theory , by extension ) ( of two or more ideals of a ring ) Whose sum is the whole ring; ( of two or more elements of a ring ) generating the whole ring."
+    ]
+  }
+]

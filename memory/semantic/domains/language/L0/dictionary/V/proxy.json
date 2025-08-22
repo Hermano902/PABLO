@@ -1,0 +1,50 @@
+[
+  {
+    "word": "proxy",
+    "lemma": "proxy",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɒk.si/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "proxies",
+          "PT": "proxied",
+          "PAP": "proxied",
+          "PRP": "proxying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To serve as a proxy for.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To function as a server for a client device, but pass on the requests to another server for service.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "To serve as a proxy for.",
+    "secondary_definitions": [
+      "( networking ) To function as a server for a client device, but pass on the requests to another server for service."
+    ]
+  }
+]

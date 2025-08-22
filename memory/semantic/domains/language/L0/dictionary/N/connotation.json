@@ -1,0 +1,54 @@
+[
+  {
+    "word": "connotation",
+    "lemma": "connotation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkɒnəˈteɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "connotations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A meaning of a word or phrase that is suggested or implied , as opposed to a denotation , or literal meaning . A characteristic of words or phrases , or of the contexts that words and phrases are used in.",
+        "examples": [
+          "The word \"advisedly\" has a connotation of \"wisely\", although it denotes merely \"intentionally\" and \"deliberately.\"",
+          "The word \"happy\" has a positive connotation , while \"sad\" has a negative connotation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      },
+      {
+        "definition": "The attribute or aggregate of attributes connoted by a term, contrasted with denotation .",
+        "examples": [
+          "The two expressions \"the morning star\" and \"the evening star\" have different connotations but the same denotation (i.e. the planet Venus)."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( semantics ) A meaning of a word or phrase that is suggested or implied , as opposed to a denotation , or literal meaning . A characteristic of words or phrases , or of the contexts that words and phrases are used in.",
+    "secondary_definitions": [
+      "( logic ) The attribute or aggregate of attributes connoted by a term, contrasted with denotation ."
+    ]
+  }
+]

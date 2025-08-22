@@ -1,0 +1,52 @@
+{
+  "word": "bum",
+  "pos_order": [
+    "N",
+    "V",
+    "INTJ",
+    "N:2",
+    "V:2",
+    "ADJ",
+    "V:3",
+    "N:3",
+    "V:4",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 5,
+      "synonyms": 10,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 16
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bum.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bum.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\bum.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bum.json"
+  },
+  "timestamp": "2025-08-18T22:49:58.247375Z"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "dwell",
+    "lemma": "dwell",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dwɛl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dwells"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A period of time in which a system or component remains in a given state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "A brief pause in the motion of part of a mechanism to allow an operation to be completed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "A planned delay in a timed control program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electrical engineering"
+        ],
+        "label_groups": "electrical engineering"
+      },
+      {
+        "definition": "In a petrol engine, the period of time the ignition points are closed to let current flow through the ignition coil in between each spark. This is measured as an angle in degrees around the camshaft in the distributor which controls the points, for example in a 4-cylinder engine it might be 55° (spark at 90° intervals, points closed for 55° between each).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      }
+    ],
+    "main_definition": "( engineering ) A period of time in which a system or component remains in a given state.",
+    "secondary_definitions": [
+      "( engineering ) A brief pause in the motion of part of a mechanism to allow an operation to be completed.",
+      "( electrical engineering ) A planned delay in a timed control program.",
+      "( automotive ) In a petrol engine, the period of time the ignition points are closed to let current flow through the ignition coil in between each spark. This is measured as an angle in degrees around the camshaft in the distributor which controls the points, for example in a 4-cylinder engine it might be 55° (spark at 90° intervals, points closed for 55° between each)."
+    ]
+  }
+]

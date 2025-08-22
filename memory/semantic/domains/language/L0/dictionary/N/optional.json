@@ -1,0 +1,46 @@
+[
+  {
+    "word": "optional",
+    "lemma": "optional",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒp.ʃə.nəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "optionals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that is not compulsory, especially part of an academic course .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In various programming languages , a kind of variable that is assigned a specific data type but may or may not hold an actual value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "sometimes capitalized"
+        ],
+        "label_groups": "programming , sometimes capitalized"
+      }
+    ],
+    "main_definition": "Something that is not compulsory, especially part of an academic course .",
+    "secondary_definitions": [
+      "( programming , sometimes capitalized ) In various programming languages , a kind of variable that is assigned a specific data type but may or may not hold an actual value ."
+    ]
+  }
+]

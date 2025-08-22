@@ -1,0 +1,75 @@
+[
+  {
+    "word": "spacetime",
+    "lemma": "spacetime",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈspeɪsˌtaɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spacetimes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The four-dimensional continuum of the three spatial dimensions plus time .",
+        "examples": [
+          "An event is a point in spacetime , specified by the coordinates x , y , z , and t .",
+          "x",
+          "y",
+          "z",
+          "t"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "physics"
+        ],
+        "label_groups": "uncountable , physics"
+      },
+      {
+        "definition": "An n -dimensional continuum consisting of dimensions of both space and time . Normally spacetime is considered as having 4 dimensions ( x , y , z , t ), but higher-dimensional spacetimes are often encountered in theoretical physics , e.g. the 5-dimensional spacetime of Kaluza-Klein theory or the 11 dimensions of spacetime in M-theory .",
+        "examples": [
+          "a Minkowski spacetime",
+          "a 5-dimensional spacetime"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A specific region of the universe with mathematically different properties than the surrounding spacetime. Synonymous with \"metric\" within the context of general relativity .",
+        "examples": [
+          "a Schwarzschild spacetime",
+          "a Reissner-Nordström spacetime"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relativity"
+        ],
+        "label_groups": "relativity"
+      }
+    ],
+    "main_definition": "( uncountable , physics ) The four-dimensional continuum of the three spatial dimensions plus time .",
+    "secondary_definitions": [
+      "( physics ) An n -dimensional continuum consisting of dimensions of both space and time . Normally spacetime is considered as having 4 dimensions ( x , y , z , t ), but higher-dimensional spacetimes are often encountered in theoretical physics , e.g. the 5-dimensional spacetime of Kaluza-Klein theory or the 11 dimensions of spacetime in M-theory .",
+      "( relativity ) A specific region of the universe with mathematically different properties than the surrounding spacetime. Synonymous with \"metric\" within the context of general relativity ."
+    ]
+  }
+]

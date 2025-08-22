@@ -1,0 +1,46 @@
+[
+  {
+    "word": "verbose",
+    "lemma": "verbose",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/vəˈbəʊs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more verbose",
+          "SUP": "most verbose"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Containing or using more words than necessary ; long-winded , wordy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "Producing detailed output for diagnostic purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Containing or using more words than necessary ; long-winded , wordy . [from 17th c.]",
+    "secondary_definitions": [
+      "( computing ) Producing detailed output for diagnostic purposes."
+    ]
+  }
+]

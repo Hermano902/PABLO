@@ -1,0 +1,56 @@
+[
+  {
+    "word": "convoy",
+    "lemma": "convoy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.vɔɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "convoys",
+          "PT": "convoyed",
+          "PAP": "convoyed",
+          "PRP": "convoying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To escort a group of vehicles , and provide protection .",
+        "examples": [
+          "A frigate convoys a merchantman."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To travel under convoy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To escort a group of vehicles , and provide protection .",
+    "secondary_definitions": [
+      "( intransitive ) To travel under convoy ."
+    ]
+  }
+]

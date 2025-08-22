@@ -1,0 +1,85 @@
+[
+  {
+    "word": "facade",
+    "lemma": "facade",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fəˈsɑːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "facades"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The face of a building, especially the front view or elevation .",
+        "examples": [],
+        "synonyms": [
+          "face",
+          "front",
+          "frontage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "The face or front (most visible side) of any other thing, such as the prospect of an organ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "A deceptive or insincere outward appearance.",
+        "examples": [],
+        "synonyms": [
+          "appearance",
+          "cover",
+          "front",
+          "guise",
+          "pretence"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "An object serving as a simplified interface to a larger body of code, as in the facade pattern .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( architecture ) The face of a building, especially the front view or elevation .",
+    "secondary_definitions": [
+      "( by extension ) The face or front (most visible side) of any other thing, such as the prospect of an organ .",
+      "( figuratively ) A deceptive or insincere outward appearance.",
+      "( programming ) An object serving as a simplified interface to a larger body of code, as in the facade pattern ."
+    ]
+  }
+]

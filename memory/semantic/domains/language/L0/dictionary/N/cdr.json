@@ -1,0 +1,37 @@
+[
+  {
+    "word": "cdr",
+    "lemma": "cdr",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈku.də/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cdrs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The second part of a cons in Lisp . The remainder of a list when the first element is removed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "car"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) The second part of a cons in Lisp . The remainder of a list when the first element is removed.",
+    "secondary_definitions": []
+  }
+]

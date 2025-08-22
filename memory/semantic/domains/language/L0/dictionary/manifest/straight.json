@@ -1,0 +1,46 @@
+{
+  "word": "straight",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 27,
+      "examples": 10,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\straight.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\straight.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\straight.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\straight.json"
+  },
+  "timestamp": "2025-08-19T18:05:03.868109Z"
+}

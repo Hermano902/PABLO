@@ -1,0 +1,74 @@
+[
+  {
+    "word": "shutter",
+    "lemma": "shutter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃʌt.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shutters",
+          "PT": "shuttered",
+          "PAP": "shuttered",
+          "PRP": "shuttering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To close shutters covering.",
+        "examples": [
+          "Shutter the windows: there's a storm coming!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To close up (a building) for a prolonged period of inoccupancy .",
+        "examples": [
+          "It took all day to shutter the cabin now that the season has ended."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To cancel or terminate .",
+        "examples": [
+          "The US is seeking to get Iran to shutter its nuclear weapons program."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To close shutters covering.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To close up (a building) for a prolonged period of inoccupancy .",
+      "( transitive ) To cancel or terminate ."
+    ]
+  }
+]

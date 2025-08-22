@@ -1,0 +1,56 @@
+[
+  {
+    "word": "shelter",
+    "lemma": "shelter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃɛltə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shelters",
+          "PT": "sheltered",
+          "PAP": "sheltered",
+          "PRP": "sheltering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide cover from damage or harassment; to shield; to protect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take cover .",
+        "examples": [
+          "During the rainstorm, we sheltered under a tree."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To provide cover from damage or harassment; to shield; to protect.",
+    "secondary_definitions": [
+      "( intransitive ) To take cover ."
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "word": "phone",
+    "lemma": "phone",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fəʊ̯n/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "phones"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device for transmitting conversations and other sounds in real time across distances , now often a small portable unit also capable of running software etc.",
+        "examples": [
+          "Daragh's on the phone at the moment. He'll call you when he's finished.",
+          "My phone ran out of battery.",
+          "There's an old-fashioned phone in the doctor's waiting room - it doesn't work anymore, of course."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial ) A person's telephone number (as a means of contact); digits .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A device for transmitting conversations and other sounds in real time across distances , now often a small portable unit also capable of running software etc.",
+    "secondary_definitions": [
+      "( colloquial ) A person's telephone number (as a means of contact); digits ."
+    ]
+  },
+  {
+    "word": "phone",
+    "lemma": "phone",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/fəʊ̯n/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "phones"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A speech segment that possesses distinct physical or perceptual properties, considered as a physical event without regard to its place in the phonology of a language.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics"
+        ],
+        "label_groups": "phonetics"
+      }
+    ],
+    "main_definition": "( phonetics ) A speech segment that possesses distinct physical or perceptual properties, considered as a physical event without regard to its place in the phonology of a language.",
+    "secondary_definitions": []
+  }
+]

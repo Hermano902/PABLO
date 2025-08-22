@@ -1,0 +1,54 @@
+[
+  {
+    "word": "refrigeration",
+    "lemma": "refrigeration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "refrigerations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of transferring heat from an object in order to cool it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of preserving something by cooling.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The cooling of the body for therapeutic purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "The process of transferring heat from an object in order to cool it.",
+    "secondary_definitions": [
+      "The process of preserving something by cooling.",
+      "( medicine ) The cooling of the body for therapeutic purposes."
+    ]
+  }
+]

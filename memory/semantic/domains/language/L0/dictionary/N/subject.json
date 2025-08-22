@@ -1,0 +1,162 @@
+[
+  {
+    "word": "subject",
+    "lemma": "subject",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌb.d͡ʒɛkt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subjects"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The noun, pronoun or noun phrase about whom the statement is made. In active clauses with verbs denoting an action, the subject is the actor. In clauses in the passive voice the subject is the target of the action.",
+        "examples": [
+          "In the active sentence ‘The cat ate the mouse’, ‘the cat’ is the subject and ‘the mouse’ is the object.",
+          "In the passive sentence ‘the mouse was eaten by the cat’, ‘the mouse’ is the subject even though it is the target (patient) of the action, and ‘the cat’ is the agent."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "object",
+          "predicate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "By faulty generalisation from a clause's grammatical subject often being coinstantiated with one: an actor or agent ; one who takes action.",
+        "examples": [
+          "the subjects and objects of power"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The main topic of a paper, work of art , discussion , field of study , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A particular area of study.",
+        "examples": [
+          "Her favorite subject is physics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A citizen in a monarchy .",
+        "examples": [
+          "I am a British subject ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person ruled over by another, especially a monarch or state authority.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The main theme or melody , especially in a fugue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A human, animal , or an inanimate object that is being examined , treated , analysed , etc; especially, one being studied in a scientific experiment , such as a clinical trial .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A being that has subjective experiences, subjective consciousness , or a relationship with another entity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "That of which something is stated.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "The variable in terms of which an expression is defined.",
+        "examples": [
+          "Making x the subject of x − 6 x + 3 y = 0, we have x = 3 ± √(9 − 3 y ).",
+          "x",
+          "x",
+          "x",
+          "y",
+          "x",
+          "y"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( grammar ) The noun, pronoun or noun phrase about whom the statement is made. In active clauses with verbs denoting an action, the subject is the actor. In clauses in the passive voice the subject is the target of the action.",
+    "secondary_definitions": [
+      "By faulty generalisation from a clause's grammatical subject often being coinstantiated with one: an actor or agent ; one who takes action.",
+      "The main topic of a paper, work of art , discussion , field of study , etc.",
+      "A particular area of study.",
+      "A citizen in a monarchy .",
+      "A person ruled over by another, especially a monarch or state authority.",
+      "( music ) The main theme or melody , especially in a fugue .",
+      "A human, animal , or an inanimate object that is being examined , treated , analysed , etc; especially, one being studied in a scientific experiment , such as a clinical trial .",
+      "( philosophy ) A being that has subjective experiences, subjective consciousness , or a relationship with another entity.",
+      "( logic ) That of which something is stated.",
+      "( mathematics ) The variable in terms of which an expression is defined."
+    ]
+  }
+]

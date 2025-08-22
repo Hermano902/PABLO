@@ -1,0 +1,46 @@
+{
+  "word": "sharp",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 24,
+      "examples": 25,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 15,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\sharp.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\sharp.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\sharp.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\sharp.json"
+  },
+  "timestamp": "2025-08-19T15:07:36.047334Z"
+}

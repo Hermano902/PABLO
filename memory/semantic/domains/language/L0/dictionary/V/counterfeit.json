@@ -1,0 +1,88 @@
+[
+  {
+    "word": "counterfeit",
+    "lemma": "counterfeit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkaʊn.tɚˌfɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "counterfeits",
+          "PT": "counterfeited",
+          "PAP": "counterfeited",
+          "PRP": "counterfeiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To falsely produce what appears to be official or valid; to produce a forged copy of.",
+        "examples": [
+          "to counterfeit the signature of another, coins, notes, etc."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To produce a faithful copy of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To feign ; to mimic .",
+        "examples": [
+          "to counterfeit the voice of another person"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "Of a turn or river card, to invalidate a player's hand by making a better hand on the board.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "poker",
+          "usually \"be counterfeited\""
+        ],
+        "label_groups": "transitive , poker , usually \"be counterfeited\""
+      }
+    ],
+    "main_definition": "( transitive ) To falsely produce what appears to be official or valid; to produce a forged copy of.",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To produce a faithful copy of.",
+      "( transitive , obsolete ) To feign ; to mimic .",
+      "( transitive , poker , usually \"be counterfeited\" ) Of a turn or river card, to invalidate a player's hand by making a better hand on the board."
+    ]
+  }
+]

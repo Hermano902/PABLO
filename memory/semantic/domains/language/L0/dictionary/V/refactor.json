@@ -1,0 +1,58 @@
+[
+  {
+    "word": "refactor",
+    "lemma": "refactor",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "refactors",
+          "PT": "refactored",
+          "PAP": "refactored",
+          "PRP": "refactoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To rewrite existing source code in order to improve its readability , reusability or structure without affecting its meaning or behaviour .",
+        "examples": [
+          "The code works, but I must refactor it before it is production quality."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "To rewrite existing text in order to improve its readability , reusability or structure without intentionally affecting its meaning . Similar to, but sometimes involving more extensive restructuring than, copy editing .",
+        "examples": [
+          "Two significant activities which to contribute to community projects, such as Wikipedia, are to refactor complicated articles into simpler ones, and to refactor duplicated content into reusable templates."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "writing"
+        ],
+        "label_groups": "writing"
+      }
+    ],
+    "main_definition": "( programming ) To rewrite existing source code in order to improve its readability , reusability or structure without affecting its meaning or behaviour .",
+    "secondary_definitions": [
+      "( writing ) To rewrite existing text in order to improve its readability , reusability or structure without intentionally affecting its meaning . Similar to, but sometimes involving more extensive restructuring than, copy editing ."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "word": "invert",
+  "pos_order": [
+    "V",
+    "N",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\invert.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\invert.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\invert.json"
+  },
+  "timestamp": "2025-08-19T06:23:57.321871Z"
+}

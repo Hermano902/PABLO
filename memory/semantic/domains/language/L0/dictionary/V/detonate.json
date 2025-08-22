@@ -1,0 +1,90 @@
+[
+  {
+    "word": "detonate",
+    "lemma": "detonate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛtəneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "detonates",
+          "PT": "detonated",
+          "PAP": "detonated",
+          "PRP": "detonating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To explode , blow up",
+        "examples": [],
+        "synonyms": [
+          "blast"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To combust or decompose supersonically via shock compression .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "deflagrate"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "especially"
+            ],
+            "label_groups": "especially"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to explode .",
+        "examples": [
+          "The engineers detonated the dynamite and watched the old building collapse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To express sudden anger .",
+        "examples": [],
+        "synonyms": [
+          "fulminate",
+          "thunder"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative"
+        ],
+        "label_groups": "intransitive , figurative"
+      }
+    ],
+    "main_definition": "( intransitive ) To explode , blow up",
+    "secondary_definitions": [
+      "( transitive ) To cause to explode .",
+      "( intransitive , figurative ) To express sudden anger ."
+    ]
+  }
+]

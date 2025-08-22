@@ -1,0 +1,35 @@
+[
+  {
+    "word": "eigenfunction",
+    "lemma": "eigenfunction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "eigenfunctions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A function ϕ {\\displaystyle \\phi } such that, for a given linear operator D {\\displaystyle D} , D ϕ = λ ϕ {\\displaystyle D\\phi =\\lambda \\phi } for some scalar λ {\\displaystyle \\lambda } (called an eigenvalue ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) A function ϕ {\\displaystyle \\phi } such that, for a given linear operator D {\\displaystyle D} , D ϕ = λ ϕ {\\displaystyle D\\phi =\\lambda \\phi } for some scalar λ {\\displaystyle \\lambda } (called an eigenvalue ).",
+    "secondary_definitions": []
+  }
+]

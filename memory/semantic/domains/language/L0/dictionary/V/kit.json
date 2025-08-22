@@ -1,0 +1,58 @@
+[
+  {
+    "word": "kit",
+    "lemma": "kit",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "kits",
+          "PT": "kitted",
+          "PAP": "kitted",
+          "PRP": "kitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assemble or collect something into kits.",
+        "examples": [
+          "We need to kit the parts for the assembly by Friday, so that manufacturing can build the tool."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To equip (somebody) with something.",
+        "examples": [],
+        "synonyms": [
+          "kit out"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To assemble or collect something into kits.",
+    "secondary_definitions": [
+      "( transitive ) To equip (somebody) with something."
+    ]
+  }
+]

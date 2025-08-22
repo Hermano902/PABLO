@@ -1,0 +1,107 @@
+[
+  {
+    "word": "inflect",
+    "lemma": "inflect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈflɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inflects",
+          "PT": "inflected",
+          "PAP": "inflected",
+          "PRP": "inflecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to curve inwards.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To change the tone or pitch of the voice when speaking or singing.",
+        "examples": [
+          "The actress has a great skill of being able to inflect her voice to any situation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "To vary the form of a word to express tense , gender , number , mood , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      },
+      {
+        "definition": "To be varied in the form to express tense , gender , number , mood , etc.",
+        "examples": [
+          "In Latin, adjectives and nouns inflect a lot, but inflection is minimally found in Modern English."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "grammar",
+          "of a word"
+        ],
+        "label_groups": "intransitive , grammar , of a word"
+      },
+      {
+        "definition": "To influence in style .",
+        "examples": [
+          "No other poet has inflected me in style as much as Milton."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Can we verify this sense?",
+          "transitive"
+        ],
+        "label_groups": [
+          "Can we verify this sense?",
+          "transitive"
+        ]
+      }
+    ],
+    "main_definition": "( transitive ) To cause to curve inwards.",
+    "secondary_definitions": [
+      "( transitive , music ) To change the tone or pitch of the voice when speaking or singing.",
+      "( transitive , grammar ) To vary the form of a word to express tense , gender , number , mood , etc.",
+      "( intransitive , grammar , of a word ) To be varied in the form to express tense , gender , number , mood , etc.",
+      "( Can we verify this sense?) ( transitive ) To influence in style ."
+    ]
+  }
+]

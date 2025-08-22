@@ -1,0 +1,75 @@
+[
+  {
+    "word": "end",
+    "lemma": "end",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɛnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ends",
+          "PT": "ended",
+          "PAP": "ended",
+          "PRP": "ending",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To come to an end.",
+        "examples": [
+          "Is this movie never going to end ?",
+          "The lesson will end when the bell rings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "ergative"
+        ],
+        "label_groups": "intransitive , ergative"
+      },
+      {
+        "definition": "To conclude ; to bring something to an end.",
+        "examples": [
+          "The orchestra ended with a performance of Dvořák."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To finish , terminate .",
+        "examples": [
+          "The referee blew the whistle to end the game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive , ergative ) To come to an end.",
+    "secondary_definitions": [
+      "( intransitive ) To conclude ; to bring something to an end.",
+      "( transitive ) To finish , terminate ."
+    ]
+  }
+]

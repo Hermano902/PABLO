@@ -1,0 +1,94 @@
+[
+  {
+    "word": "populate",
+    "lemma": "populate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɒp.jʊˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "populates",
+          "PT": "populated",
+          "PAP": "populated",
+          "PRP": "populating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To supply with inhabitants ; to people .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To live in; to inhabit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To increase in number; to breed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To fill initially empty items in a collection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To fill initially empty slots or sockets on a circuit board or similar.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( transitive ) To supply with inhabitants ; to people .",
+    "secondary_definitions": [
+      "( transitive ) To live in; to inhabit .",
+      "( intransitive ) To increase in number; to breed .",
+      "( computing , ambitransitive ) To fill initially empty items in a collection .",
+      "( electronics ) To fill initially empty slots or sockets on a circuit board or similar."
+    ]
+  }
+]

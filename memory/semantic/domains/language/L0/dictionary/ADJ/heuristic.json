@@ -1,0 +1,66 @@
+[
+  {
+    "word": "heuristic",
+    "lemma": "heuristic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/hjuˈɹɪstɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more heuristic",
+          "SUP": "most heuristic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That employs a practical method not guaranteed to be optimal or perfect; either not following or derived from any theory, or based on an advisedly oversimplified one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of an approach to problem solving",
+          "learning",
+          "or discovery"
+        ],
+        "label_groups": "of an approach to problem solving, learning, or discovery",
+        "dating_raw": "from 1821"
+      },
+      {
+        "definition": "That provides a useful, but not optimal , solution to a problem. Such algorithms are typically employed either because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a method or algorithm"
+        ],
+        "label_groups": "computing , of a method or algorithm"
+      },
+      {
+        "definition": "That reasons from the value of a method or principle that has been shown by experimental investigation to be a useful aid in learning, discovery and problem-solving.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of an argument"
+        ],
+        "label_groups": "of an argument"
+      }
+    ],
+    "main_definition": "( of an approach to problem solving, learning, or discovery ) That employs a practical method not guaranteed to be optimal or perfect; either not following or derived from any theory, or based on an advisedly oversimplified one. [from 1821]",
+    "secondary_definitions": [
+      "( computing , of a method or algorithm ) That provides a useful, but not optimal , solution to a problem. Such algorithms are typically employed either because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution.",
+      "( of an argument ) That reasons from the value of a method or principle that has been shown by experimental investigation to be a useful aid in learning, discovery and problem-solving."
+    ]
+  }
+]

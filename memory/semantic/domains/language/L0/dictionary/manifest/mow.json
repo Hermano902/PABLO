@@ -1,0 +1,33 @@
+{
+  "word": "mow",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3",
+    "N:4"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mow.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mow.json"
+  },
+  "timestamp": "2025-08-19T09:39:49.221865Z"
+}

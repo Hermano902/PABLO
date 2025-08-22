@@ -1,0 +1,89 @@
+[
+  {
+    "word": "mashup",
+    "lemma": "mashup",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæʃˌʌp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mashups"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something consisting of two or more elements combined together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An artistic work that consists primarily of parts borrowed from other works, or features a mixture of genres .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "art",
+              "slang"
+            ],
+            "label_groups": "art , slang"
+          },
+          {
+            "definition": "A remix created by combining two or more songs from different artists into one piece of music .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music",
+              "slang"
+            ],
+            "label_groups": "music , slang"
+          },
+          {
+            "definition": "A derivative work consisting of two or more pieces of (generally digital ) media joined together, such as a video clip with a different soundtrack applied for humorous effect , or a map overlaid with user - supplied data .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly computing",
+              "slang"
+            ],
+            "label_groups": "chiefly computing , slang"
+          },
+          {
+            "definition": "A Web application that combines data or functionality from more than one source .",
+            "examples": [
+              "This app is a mashup mixing news from the BBC and maps from Google."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Internet"
+            ],
+            "label_groups": "Internet"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      }
+    ],
+    "main_definition": "( informal ) Something consisting of two or more elements combined together.",
+    "secondary_definitions": []
+  }
+]

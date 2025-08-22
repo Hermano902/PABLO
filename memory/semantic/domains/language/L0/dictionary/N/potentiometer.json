@@ -1,0 +1,50 @@
+[
+  {
+    "word": "potentiometer",
+    "lemma": "potentiometer",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "potentiometers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A user-adjustable three-terminal variable resistor that can be used as a voltage divider.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "An instrument that measures a voltage by opposing it with a precise fraction of a known voltage, and without drawing current from the unknown source.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics",
+        "dating_raw": "from late 19th c."
+      }
+    ],
+    "main_definition": "( electronics ) A user-adjustable three-terminal variable resistor that can be used as a voltage divider.",
+    "secondary_definitions": [
+      "( physics ) An instrument that measures a voltage by opposing it with a precise fraction of a known voltage, and without drawing current from the unknown source. [from late 19th c.]"
+    ]
+  }
+]

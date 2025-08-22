@@ -1,0 +1,75 @@
+[
+  {
+    "word": "logical",
+    "lemma": "logical",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɒd͡ʒɪkəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more logical",
+          "SUP": "most logical"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In agreement with the principles of logic ; sequacious.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Reasonable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of or pertaining to logic.",
+        "examples": [
+          "It's not logical , it's God!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Relating to the conceptual model of a system rather than its physical expression",
+        "examples": [
+          "Logical memory appears contiguous to an application program, but may well be stored on several physical devices, including in RAM and on hard-disks, as determined by the operating system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( not comparable ) In agreement with the principles of logic ; sequacious.",
+    "secondary_definitions": [
+      "Reasonable .",
+      "( not comparable ) Of or pertaining to logic.",
+      "( computing ) Relating to the conceptual model of a system rather than its physical expression"
+    ]
+  }
+]

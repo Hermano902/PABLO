@@ -1,0 +1,48 @@
+[
+  {
+    "word": "hypernym",
+    "lemma": "hypernym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhaɪpənɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hypernyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A superordinate word or phrase; a term whose referents form a set which includes as a subset the referents of a subordinate term—as, for example, insect (being a hypernym) for ant .",
+        "examples": [
+          "“Musical instrument” is a hypernym of “guitar” because a guitar is a musical instrument: a guitar belongs to a class or type of musical instruments.",
+          "Hypernyms of “dog” and “cat” include “mammal”, “pet”, “carnivore”, and “quadruped”."
+        ],
+        "synonyms": [
+          "hyperonym",
+          "blanket term",
+          "genus",
+          "superordinate",
+          "umbrella term"
+        ],
+        "antonyms": [
+          "hyponym",
+          "species",
+          "subordinate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      }
+    ],
+    "main_definition": "( semantics ) A superordinate word or phrase; a term whose referents form a set which includes as a subset the referents of a subordinate term—as, for example, insect (being a hypernym) for ant .",
+    "secondary_definitions": []
+  }
+]

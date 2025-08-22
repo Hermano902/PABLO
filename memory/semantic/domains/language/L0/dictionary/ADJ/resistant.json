@@ -1,0 +1,56 @@
+[
+  {
+    "word": "resistant",
+    "lemma": "resistant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹəˈzɪstənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more resistant",
+          "SUP": "most resistant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Which makes resistance or offers opposition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Which is not affected or overcome by a disease, drug, chemical or atmospheric agent, extreme of temperature, etc.",
+        "examples": [
+          "The infection is resistant to antibiotics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not greatly influenced by individual members of a sample.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "Which makes resistance or offers opposition .",
+    "secondary_definitions": [
+      "Which is not affected or overcome by a disease, drug, chemical or atmospheric agent, extreme of temperature, etc.",
+      "( statistics ) Not greatly influenced by individual members of a sample."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "blank",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 9,
+      "examples": 12,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 24,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 7,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\blank.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\blank.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\blank.json"
+  },
+  "timestamp": "2025-08-18T22:19:43.248937Z"
+}

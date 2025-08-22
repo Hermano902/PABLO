@@ -1,0 +1,69 @@
+[
+  {
+    "word": "trunk",
+    "lemma": "trunk",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹʌŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trunks",
+          "PT": "trunked",
+          "PAP": "trunked",
+          "PRP": "trunking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lop off; to curtail ; to truncate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To extract (ores) from the slimes in which they are contained, by means of a trunk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mining"
+        ],
+        "label_groups": "transitive , mining"
+      },
+      {
+        "definition": "To provide simultaneous network access to multiple clients by sharing a set of circuits, carriers, channels, or frequencies.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      }
+    ],
+    "main_definition": "( transitive , obsolete ) To lop off; to curtail ; to truncate .",
+    "secondary_definitions": [
+      "( transitive , mining ) To extract (ores) from the slimes in which they are contained, by means of a trunk .",
+      "( telecommunications ) To provide simultaneous network access to multiple clients by sharing a set of circuits, carriers, channels, or frequencies."
+    ]
+  }
+]

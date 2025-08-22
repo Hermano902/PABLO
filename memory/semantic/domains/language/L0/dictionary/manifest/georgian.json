@@ -1,0 +1,31 @@
+{
+  "word": "georgian",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ",
+    "N:3",
+    "ADJ:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\georgian.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\georgian.json"
+  },
+  "timestamp": "2025-08-19T04:25:47.680226Z"
+}

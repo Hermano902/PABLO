@@ -1,0 +1,122 @@
+[
+  {
+    "word": "dimension",
+    "lemma": "dimension",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈmɛnʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dimensions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single aspect of a given thing.",
+        "examples": [
+          "This film can be enjoyed on many dimensions - the script is great, the acting is realistic, and the special effects will simply take you aback."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of spatial extent in a particular direction, such as height , width or breadth , or depth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A construct whereby objects or individuals can be distinguished.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The number of independent coordinates needed to specify uniquely the location of a point in a space ; also, any of such independent coordinates.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The number of elements of any basis of a vector space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      },
+      {
+        "definition": "One of the physical properties that are regarded as fundamental measures of a physical quantity, such as mass , length and time .",
+        "examples": [
+          "The dimension of velocity is length divided by time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Any of the independent ranges of indices in a multidimensional array .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A universe or plane of existence.",
+        "examples": [
+          "a machine that lets you travel to a parallel dimension ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "science fiction",
+          "fantasy"
+        ],
+        "label_groups": "science fiction , fantasy"
+      }
+    ],
+    "main_definition": "A single aspect of a given thing.",
+    "secondary_definitions": [
+      "A measure of spatial extent in a particular direction, such as height , width or breadth , or depth .",
+      "A construct whereby objects or individuals can be distinguished.",
+      "( geometry ) The number of independent coordinates needed to specify uniquely the location of a point in a space ; also, any of such independent coordinates.",
+      "( linear algebra ) The number of elements of any basis of a vector space .",
+      "( physics ) One of the physical properties that are regarded as fundamental measures of a physical quantity, such as mass , length and time .",
+      "( computing ) Any of the independent ranges of indices in a multidimensional array .",
+      "( science fiction , fantasy ) A universe or plane of existence."
+    ]
+  }
+]

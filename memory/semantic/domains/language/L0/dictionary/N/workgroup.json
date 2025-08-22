@@ -1,0 +1,47 @@
+[
+  {
+    "word": "workgroup",
+    "lemma": "workgroup",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwəːkɡɹuːp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "workgroups"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A group of workers engaged in a series of collaborative tasks who usually work together.",
+        "examples": [],
+        "synonyms": [
+          "working group"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A computer network created for use by such groups.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A group of workers engaged in a series of collaborative tasks who usually work together.",
+    "secondary_definitions": [
+      "( computing ) A computer network created for use by such groups."
+    ]
+  }
+]

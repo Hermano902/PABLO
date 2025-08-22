@@ -1,0 +1,54 @@
+[
+  {
+    "word": "benchmark",
+    "lemma": "benchmark",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɛn(t)ʃmɑːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "benchmarks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A standard by which something is evaluated or measured .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A surveyor 's mark made on some stationary object and shown on a map ; used as a reference point .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A computer program that is executed to assess the performance of the runtime environment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A standard by which something is evaluated or measured .",
+    "secondary_definitions": [
+      "A surveyor 's mark made on some stationary object and shown on a map ; used as a reference point .",
+      "( computing ) A computer program that is executed to assess the performance of the runtime environment."
+    ]
+  }
+]

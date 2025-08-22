@@ -1,0 +1,30 @@
+{
+  "word": "stop",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 14,
+      "examples": 17,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 22,
+      "examples": 6,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stop.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stop.json"
+  },
+  "timestamp": "2025-08-19T18:03:31.362920Z"
+}

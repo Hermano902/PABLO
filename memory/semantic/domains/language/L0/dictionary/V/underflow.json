@@ -1,0 +1,54 @@
+[
+  {
+    "word": "underflow",
+    "lemma": "underflow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "underflows",
+          "PT": "underflowed",
+          "PAP": "underflowed",
+          "PRP": "underflowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To trigger the condition in which the value of a computed quantity is smaller than the smallest non-zero value that can be physically stored.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To trigger the error condition resulting from attempting to retrieve a value from an empty stack.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) To trigger the condition in which the value of a computed quantity is smaller than the smallest non-zero value that can be physically stored.",
+    "secondary_definitions": [
+      "( computing ) To trigger the error condition resulting from attempting to retrieve a value from an empty stack."
+    ]
+  }
+]

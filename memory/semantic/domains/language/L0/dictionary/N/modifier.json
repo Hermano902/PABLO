@@ -1,0 +1,75 @@
+[
+  {
+    "word": "modifier",
+    "lemma": "modifier",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒdɪfaɪə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "modifiers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, modifies .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A word , phrase , or clause that limits or qualifies the sense of another word or phrase. (It may be any of the following: an adjective phrase , an adverb phrase , a prepositional phrase , a noun phrase , or a subordinate clause .)",
+        "examples": [],
+        "synonyms": [
+          "qualifier"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A keyword that qualifies the meaning of other code.",
+        "examples": [
+          "The protected modifier makes a class member visible to subclasses, but not to external code."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Ellipsis of modifier key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "One who, or that which, modifies .",
+    "secondary_definitions": [
+      "( grammar ) A word , phrase , or clause that limits or qualifies the sense of another word or phrase. (It may be any of the following: an adjective phrase , an adverb phrase , a prepositional phrase , a noun phrase , or a subordinate clause .)",
+      "( programming ) A keyword that qualifies the meaning of other code.",
+      "( computing ) Ellipsis of modifier key ."
+    ]
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "word": "sharp",
+    "lemma": "sharp",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʃɑːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "sharper",
+          "SUP": "sharpest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Terminating in a point or edge, especially one that can cut or pierce easily ; not dull , obtuse , or rounded .",
+        "examples": [
+          "I keep my knives sharp so that they don't slip unexpectedly while carving.",
+          "Ernest made the pencil too sharp and accidentally stabbed himself with it.",
+          "A face with sharp features"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Intelligent .",
+        "examples": [
+          "My nephew is a sharp lad; he can count to 100 in six languages, and he's only five years old."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "Raised by one semitone (denoted by the symbol ♯ after the name of the note).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Higher in pitch than required.",
+        "examples": [
+          "The orchestra's third violin several times was sharp about an eighth of a tone."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Having a strong acrid or acidic taste .",
+        "examples": [
+          "Milly couldn't stand sharp cheeses when she was pregnant, because they made her nauseated.",
+          "This grapefruit is especially sharp ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Sudden , abrupt , intense , rapid .",
+        "examples": [
+          "A pregnant woman during labor normally experiences a number of sharp contractions.",
+          "The man turned and made a sharp movement towards the door."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Illegal or dishonest .",
+        "examples": [
+          "Michael had a number of sharp ventures that he kept off the books."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "Keenly or unduly attentive to one's own interests; shrewd , verging on dishonest.",
+        "examples": [
+          "a sharp dealer, a sharp customer, sharp practice"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "Exact , precise , accurate ; keen .",
+        "examples": [
+          "You'll need sharp aim to make that shot."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Offensive , critical , or acrimonious ; stern or harsh .",
+        "examples": [
+          "sharp criticism",
+          "When the two rivals met, first there were sharp words, and then a fight broke out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Stylish , smart or attractive .",
+        "examples": [
+          "You look so sharp in that tuxedo!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "Observant ; alert ; acute .",
+        "examples": [
+          "Keep a sharp watch on the prisoners. I don't want them to escape!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Quick and alert .",
+        "examples": [
+          "Jones, the centre forward, made a sharp start to the game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Strongly distinguishing or differentiating; acute .",
+        "examples": [
+          "a sharp contrast, a sharp distinction"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Forming a small or tight angle ; especially, forming an angle of less than ninety degrees .",
+        "examples": [
+          "Drive down Main for three quarters of a mile, then make a sharp right turn onto Pine.",
+          "a sharp turn or curve"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Steep ; precipitous ; abrupt .",
+        "examples": [
+          "a sharp ascent or descent"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Said of as extreme a value as possible.",
+        "examples": [
+          "Sure, any planar graph can be five-colored. But that result is not sharp : in fact, any planar graph can be four-colored. That is sharp : the same can't be said for any lower number.",
+          "That"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a statement"
+        ],
+        "label_groups": "mathematics , of a statement"
+      },
+      {
+        "definition": "Tactical ; risky .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      },
+      {
+        "definition": "Piercing ; keen ; severe ; painful .",
+        "examples": [
+          "a sharp pain; the sharp and frosty winter air"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Eager or keen in pursuit ; impatient for gratification .",
+        "examples": [
+          "a sharp appetite"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Fierce ; ardent ; fiery ; violent ; impetuous .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Composed of hard, angular grains ; gritty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Uttered in a whisper, or with the breath alone; aspirated ; unvoiced .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "dated"
+        ],
+        "label_groups": "phonetics , dated"
+      },
+      {
+        "definition": "Hungry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Terminating in a point or edge, especially one that can cut or pierce easily ; not dull , obtuse , or rounded .",
+    "secondary_definitions": [
+      "( colloquial ) Intelligent .",
+      "( music ) Raised by one semitone (denoted by the symbol ♯ after the name of the note).",
+      "( music ) Higher in pitch than required.",
+      "Having a strong acrid or acidic taste .",
+      "Sudden , abrupt , intense , rapid .",
+      "( colloquial ) Illegal or dishonest .",
+      "( colloquial ) Keenly or unduly attentive to one's own interests; shrewd , verging on dishonest.",
+      "Exact , precise , accurate ; keen .",
+      "Offensive , critical , or acrimonious ; stern or harsh .",
+      "( colloquial ) Stylish , smart or attractive .",
+      "Observant ; alert ; acute .",
+      "Quick and alert .",
+      "Strongly distinguishing or differentiating; acute .",
+      "Forming a small or tight angle ; especially, forming an angle of less than ninety degrees .",
+      "Steep ; precipitous ; abrupt .",
+      "( mathematics , of a statement ) Said of as extreme a value as possible.",
+      "( chess ) Tactical ; risky .",
+      "Piercing ; keen ; severe ; painful .",
+      "Eager or keen in pursuit ; impatient for gratification .",
+      "( obsolete ) Fierce ; ardent ; fiery ; violent ; impetuous .",
+      "Composed of hard, angular grains ; gritty .",
+      "( phonetics , dated ) Uttered in a whisper, or with the breath alone; aspirated ; unvoiced .",
+      "( obsolete ) Hungry ."
+    ]
+  }
+]

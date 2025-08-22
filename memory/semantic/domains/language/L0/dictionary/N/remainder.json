@@ -1,0 +1,95 @@
+[
+  {
+    "word": "remainder",
+    "lemma": "remainder",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈmeɪndə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "remainders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A part or parts remaining after some has/have been removed or already occurred .",
+        "examples": [
+          "My son ate part of his cake and I ate the remainder .",
+          "You can have the remainder of my clothes.",
+          "He spent the remainder of the war in a prisoner-of-war camp."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The amount left over after subtracting the divisor as many times as possible from the dividend without producing a negative result. If n (dividend) and d (divisor) are integers, then n can always be expressed in the form n = dq + r , where q ( quotient ) and r ( remainder ) are also integers and 0 ≤ r < d .",
+        "examples": [
+          "17 leaves a remainder of 2 when divided by 3.",
+          "11 divided by 2 is 5 remainder 1."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The number left over after a simple subtraction",
+        "examples": [
+          "10 minus 4 leaves a remainder of 6"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Excess stock items left unsold and subject to reduction in price.",
+        "examples": [
+          "I got a really good price on this shirt because it was a remainder ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commerce"
+        ],
+        "label_groups": "commerce"
+      },
+      {
+        "definition": "An estate in expectancy which only comes in its heir 's possession after an estate created by the same instrument has been determined",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "A part or parts remaining after some has/have been removed or already occurred .",
+    "secondary_definitions": [
+      "( mathematics ) The amount left over after subtracting the divisor as many times as possible from the dividend without producing a negative result. If n (dividend) and d (divisor) are integers, then n can always be expressed in the form n = dq + r , where q ( quotient ) and r ( remainder ) are also integers and 0 ≤ r < d .",
+      "( mathematics ) The number left over after a simple subtraction",
+      "( commerce ) Excess stock items left unsold and subject to reduction in price.",
+      "( law ) An estate in expectancy which only comes in its heir 's possession after an estate created by the same instrument has been determined"
+    ]
+  }
+]

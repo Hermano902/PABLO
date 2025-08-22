@@ -1,0 +1,79 @@
+[
+  {
+    "word": "taxi",
+    "lemma": "taxi",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæk.si/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "taxis"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A vehicle that may be hired for single journeys by members of the public, particularly one with an automated meter to calculate the fare .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An aircraft used for practicing ground manoeuvres.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation",
+          "slang",
+          "obsolete"
+        ],
+        "label_groups": "aviation , slang , obsolete"
+      },
+      {
+        "definition": "The movement of an aircraft across an airport 's surface under its own power; a phase of aircraft operation involving this movement.",
+        "examples": [
+          "During taxi , the flaps and slats are extended and the second engine (if not already running) is started.",
+          "Seat belts must be kept fastened during taxi , takeoff, turbulence, and landing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation",
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "aviation , uncountable , countable"
+      },
+      {
+        "definition": "Synonym of shared taxi .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "South Africa",
+          "Iran"
+        ],
+        "label_groups": "South Africa , Iran"
+      }
+    ],
+    "main_definition": "A vehicle that may be hired for single journeys by members of the public, particularly one with an automated meter to calculate the fare .",
+    "secondary_definitions": [
+      "( aviation , slang , obsolete ) An aircraft used for practicing ground manoeuvres.",
+      "( aviation , uncountable , countable ) The movement of an aircraft across an airport 's surface under its own power; a phase of aircraft operation involving this movement.",
+      "( South Africa , Iran ) Synonym of shared taxi ."
+    ]
+  }
+]

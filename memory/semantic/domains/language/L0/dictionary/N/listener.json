@@ -1,0 +1,73 @@
+[
+  {
+    "word": "listener",
+    "lemma": "listener",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪsənə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "listeners"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who listens , especially to a speech or a broadcast .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A function that runs in response to an event ; an event handler .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming",
+          "chiefly Java"
+        ],
+        "label_groups": "computing , programming , chiefly Java"
+      },
+      {
+        "definition": "A person's ear .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "A musical anthology .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "formal"
+        ],
+        "label_groups": "formal"
+      }
+    ],
+    "main_definition": "Someone who listens , especially to a speech or a broadcast .",
+    "secondary_definitions": [
+      "( computing , programming , chiefly Java ) A function that runs in response to an event ; an event handler .",
+      "( slang ) A person's ear .",
+      "( formal ) A musical anthology ."
+    ]
+  }
+]

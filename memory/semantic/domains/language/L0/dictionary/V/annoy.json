@@ -1,0 +1,80 @@
+[
+  {
+    "word": "annoy",
+    "lemma": "annoy",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈnɔɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "annoys",
+          "PT": "annoyed",
+          "PAP": "annoyed",
+          "PRP": "annoying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To disturb or irritate , especially by continued or repeated acts; to bother with unpleasant deeds.",
+        "examples": [
+          "Marc loved his sister, but when she annoyed him he wanted to switch her off."
+        ],
+        "synonyms": [
+          "bother",
+          "irritate"
+        ],
+        "antonyms": [
+          "please"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To do something to upset or anger someone; to be troublesome . ( Can we verify this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To molest ; to harm ; to injure .",
+        "examples": [
+          "to annoy an army by impeding its march, or by a cannonade"
+        ],
+        "synonyms": [
+          "damage",
+          "wound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To disturb or irritate , especially by continued or repeated acts; to bother with unpleasant deeds.",
+    "secondary_definitions": [
+      "( intransitive ) To do something to upset or anger someone; to be troublesome . ( Can we verify this sense?)",
+      "( transitive , archaic ) To molest ; to harm ; to injure ."
+    ]
+  }
+]

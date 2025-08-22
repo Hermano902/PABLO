@@ -1,0 +1,308 @@
+[
+  {
+    "word": "reduce",
+    "lemma": "reduce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈd͡ʒuːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reduces",
+          "PT": "reduced",
+          "PAP": "reduced",
+          "PRP": "reducing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring down the size, quantity, quality, value or intensity of something; to diminish , to lower .",
+        "examples": [
+          "to reduce weight, speed, heat, expenses, price, personnel etc."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lose weight.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To bring to an inferior rank; to degrade , to demote .",
+        "examples": [
+          "to reduce a sergeant to the ranks"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To humble ; to conquer ; to subdue ; to capture .",
+        "examples": [
+          "to reduce a province or a fort"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bring to an inferior state or condition.",
+        "examples": [
+          "to reduce a city to ashes"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be forced by circumstances (into something one considers unworthy ).",
+        "examples": [
+          "reduced to silence"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To decrease the liquid content of food by boiling much of its water off.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "cooking"
+        ],
+        "label_groups": "transitive , cooking"
+      },
+      {
+        "definition": "To add electrons / hydrogen or to remove oxygen .",
+        "examples": [
+          "Formaldehyde can be reduced to form methanol."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To produce metal from ore by removing nonmetallic elements in a smelter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "metallurgy"
+        ],
+        "label_groups": "transitive , metallurgy"
+      },
+      {
+        "definition": "To simplify an equation or formula without changing its value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To express the solution of a problem in terms of another (known) algorithm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer science"
+        ],
+        "label_groups": "transitive , computer science"
+      },
+      {
+        "definition": "To convert a syllogism to a clearer or simpler form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "logic"
+        ],
+        "label_groups": "transitive , logic"
+      },
+      {
+        "definition": "To convert to written form. (Usage note: this verb almost always appears as \"reduce to writing\".)",
+        "examples": [
+          "It is important that all business contracts be reduced to writing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To perform a reduction ; to restore a fracture or dislocation to the correct alignment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      },
+      {
+        "definition": "To reform a line or column from (a square ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To strike off the payroll .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To annul by legal means.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Scots law"
+        ],
+        "label_groups": "transitive , Scots law"
+      },
+      {
+        "definition": "To pronounce (a sound or word ) with less effort .",
+        "examples": [
+          "The first vowel of support is reduced to schwa by most English speakers.",
+          "support"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "phonetics",
+          "phonology"
+        ],
+        "label_groups": "transitive , phonetics , phonology"
+      },
+      {
+        "definition": "To translate (a book, document, etc.).",
+        "examples": [
+          "a book reduced into English"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To bring down the size, quantity, quality, value or intensity of something; to diminish , to lower .",
+    "secondary_definitions": [
+      "( intransitive ) To lose weight.",
+      "( transitive ) To bring to an inferior rank; to degrade , to demote .",
+      "( transitive ) To humble ; to conquer ; to subdue ; to capture .",
+      "( transitive ) To bring to an inferior state or condition.",
+      "( transitive ) To be forced by circumstances (into something one considers unworthy ).",
+      "( transitive , cooking ) To decrease the liquid content of food by boiling much of its water off.",
+      "( transitive , chemistry ) To add electrons / hydrogen or to remove oxygen .",
+      "( transitive , metallurgy ) To produce metal from ore by removing nonmetallic elements in a smelter .",
+      "( transitive , mathematics ) To simplify an equation or formula without changing its value.",
+      "( transitive , computer science ) To express the solution of a problem in terms of another (known) algorithm .",
+      "( transitive , logic ) To convert a syllogism to a clearer or simpler form.",
+      "( transitive , law ) To convert to written form. (Usage note: this verb almost always appears as \"reduce to writing\".)",
+      "( transitive , medicine ) To perform a reduction ; to restore a fracture or dislocation to the correct alignment .",
+      "( transitive , military ) To reform a line or column from (a square ).",
+      "( transitive , military ) To strike off the payroll .",
+      "( transitive , Scots law ) To annul by legal means.",
+      "( transitive , phonetics , phonology ) To pronounce (a sound or word ) with less effort .",
+      "( transitive , obsolete ) To translate (a book, document, etc.)."
+    ]
+  }
+]

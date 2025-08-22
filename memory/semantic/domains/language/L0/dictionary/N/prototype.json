@@ -1,0 +1,85 @@
+[
+  {
+    "word": "prototype",
+    "lemma": "prototype",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹəʊtətaɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "prototypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An original form or object which is a basis for other forms or objects (particularly manufactured items ), or for its generalizations and models .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from late 16th c."
+      },
+      {
+        "definition": "An early sample or model built to test a concept or process .",
+        "examples": [
+          "The prototype had loose wires and rough edges, but it worked."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A declaration of a function that specifies the name , return type , and parameters , but none of the body or actual code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An instance of a category or a concept that combines its most representative attributes .",
+        "examples": [
+          "A robin is a prototype of a bird; a penguin is not."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      },
+      {
+        "definition": "A type of race car , a racing sports car not based on a production car. A 4-wheeled cockpit-seating car built especially for racing on sports car circuits, that does not use the silhouette related to a consumer road car.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "motor racing"
+        ],
+        "label_groups": "motor racing"
+      }
+    ],
+    "main_definition": "An original form or object which is a basis for other forms or objects (particularly manufactured items ), or for its generalizations and models . [from late 16th c.]",
+    "secondary_definitions": [
+      "An early sample or model built to test a concept or process .",
+      "( computing ) A declaration of a function that specifies the name , return type , and parameters , but none of the body or actual code .",
+      "( semantics ) An instance of a category or a concept that combines its most representative attributes .",
+      "( motor racing ) A type of race car , a racing sports car not based on a production car. A 4-wheeled cockpit-seating car built especially for racing on sports car circuits, that does not use the silhouette related to a consumer road car."
+    ]
+  }
+]

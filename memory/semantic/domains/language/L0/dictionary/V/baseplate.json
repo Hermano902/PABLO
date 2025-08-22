@@ -1,0 +1,56 @@
+[
+  {
+    "word": "baseplate",
+    "lemma": "baseplate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "baseplates",
+          "PT": "baseplated",
+          "PAP": "baseplated",
+          "PRP": "baseplating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fit with a baseplate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To provide (the vehicles within a fleet ) with license plates registered as a batch in a particular state .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "logistics"
+        ],
+        "label_groups": "transitive , US , logistics"
+      }
+    ],
+    "main_definition": "( transitive ) To fit with a baseplate.",
+    "secondary_definitions": [
+      "( transitive , US , logistics ) To provide (the vehicles within a fleet ) with license plates registered as a batch in a particular state ."
+    ]
+  }
+]

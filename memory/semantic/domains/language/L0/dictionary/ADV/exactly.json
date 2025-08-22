@@ -1,0 +1,55 @@
+[
+  {
+    "word": "exactly",
+    "lemma": "exactly",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈzæk(t)li/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more exactly",
+          "SUP": "most exactly"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Without approximation ; precisely .",
+        "examples": [
+          "Measure exactly so we can be sure it is right.",
+          "The edge is not exactly straight.",
+          "He divided the coins exactly in half."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manner"
+        ],
+        "label_groups": "manner"
+      },
+      {
+        "definition": "Precisely , used to provide emphasis.",
+        "examples": [
+          "He did it that way exactly to prove the point."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "focus"
+        ],
+        "label_groups": "focus"
+      }
+    ],
+    "main_definition": "( manner ) Without approximation ; precisely .",
+    "secondary_definitions": [
+      "( focus ) Precisely , used to provide emphasis."
+    ]
+  }
+]

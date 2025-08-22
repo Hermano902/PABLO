@@ -1,0 +1,29 @@
+{
+  "word": "telly",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\telly.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\telly.json"
+  },
+  "timestamp": "2025-08-19T18:55:41.695162Z"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "window",
+    "lemma": "window",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɪndəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "windows",
+          "PT": "windowed",
+          "PAP": "windowed",
+          "PRP": "windowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To furnish with windows.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place at or in a window.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply a window function to (a signal).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "signal processing"
+        ],
+        "label_groups": "transitive , signal processing"
+      }
+    ],
+    "main_definition": "( transitive ) To furnish with windows.",
+    "secondary_definitions": [
+      "( transitive ) To place at or in a window.",
+      "( transitive , signal processing ) To apply a window function to (a signal)."
+    ]
+  }
+]

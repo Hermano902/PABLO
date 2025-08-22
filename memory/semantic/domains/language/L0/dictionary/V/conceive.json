@@ -1,0 +1,83 @@
+[
+  {
+    "word": "conceive",
+    "lemma": "conceive",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈsiːv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "conceives",
+          "PT": "conceived",
+          "PAP": "conceived",
+          "PRP": "conceiving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To have a child ; to become pregnant (with).",
+        "examples": [
+          "Assisted procreation can help those trying to conceive."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To develop ; to form in the mind ; to imagine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To imagine (as); to have a conception of; to form a representation of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive with of",
+          "ditransitive"
+        ],
+        "label_groups": "ambitransitive with of , ditransitive"
+      },
+      {
+        "definition": "To understand (someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To have a child ; to become pregnant (with).",
+    "secondary_definitions": [
+      "( transitive ) To develop ; to form in the mind ; to imagine .",
+      "( ambitransitive with of , ditransitive ) To imagine (as); to have a conception of; to form a representation of.",
+      "( transitive ) To understand (someone)."
+    ]
+  }
+]

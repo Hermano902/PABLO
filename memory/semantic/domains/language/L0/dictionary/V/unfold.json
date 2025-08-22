@@ -1,0 +1,123 @@
+[
+  {
+    "word": "unfold",
+    "lemma": "unfold",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈfoʊld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unfolds",
+          "PT": "unfolded",
+          "PAP": "unfolded",
+          "PRP": "unfolding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To undo a folding .",
+        "examples": [
+          "to unfold a map; to unfold a tablecloth; She unpacks the new dress and unfolds it carefully."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To become unfolded .",
+        "examples": [
+          "The curtains unfolded to reveal the stage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To turn out ; to happen ; to develop .",
+        "examples": [
+          "Events unfolded in an unexpected way."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To lay open to view or contemplation; to bring out in all the details, or by successive development; to reveal .",
+        "examples": [
+          "to unfold one's designs;  to unfold the principles of a science"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , computing ) To reassemble a line of text that was split across multiple lines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "fold"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To undo a folding .",
+    "secondary_definitions": [
+      "( intransitive ) To become unfolded .",
+      "( intransitive ) To turn out ; to happen ; to develop .",
+      "( transitive ) To lay open to view or contemplation; to bring out in all the details, or by successive development; to reveal .",
+      "( transitive , computing ) To reassemble a line of text that was split across multiple lines."
+    ]
+  },
+  {
+    "word": "unfold",
+    "lemma": "unfold",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ʌnˈfoʊld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unfolds",
+          "PT": "unfolded",
+          "PAP": "unfolded",
+          "PRP": "unfolding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To release from a fold or pen .",
+        "examples": [
+          "to unfold sheep"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To release from a fold or pen .",
+    "secondary_definitions": []
+  }
+]

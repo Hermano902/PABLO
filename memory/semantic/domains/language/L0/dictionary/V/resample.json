@@ -1,0 +1,53 @@
+[
+  {
+    "word": "resample",
+    "lemma": "resample",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "resamples",
+          "PT": "resampled",
+          "PAP": "resampled",
+          "PRP": "resampling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sample again; to repeat sampling",
+        "examples": [
+          "The initial results were inconclusive, so we resampled the tap water."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To change the sample rate or dimensions of digital imagery or audio",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "media"
+        ],
+        "label_groups": "computing , media"
+      }
+    ],
+    "main_definition": "To sample again; to repeat sampling",
+    "secondary_definitions": [
+      "( computing , media ) To change the sample rate or dimensions of digital imagery or audio"
+    ]
+  }
+]

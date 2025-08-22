@@ -1,0 +1,84 @@
+[
+  {
+    "word": "expensive",
+    "lemma": "expensive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more expensive",
+          "SUP": "most expensive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a high price or cost .",
+        "examples": [],
+        "synonyms": [
+          "costly",
+          "high-priced",
+          "pricey",
+          "dear"
+        ],
+        "antonyms": [
+          "cheap",
+          "inexpensive",
+          "low-priced"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Taking a lot of system time or resources.",
+        "examples": [
+          "an unnecessarily expensive choice of algorithm"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Given to expending a lot of money ; profligate , lavish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Having a high economy rate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "economical"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "Having a high price or cost .",
+    "secondary_definitions": [
+      "( computing ) Taking a lot of system time or resources.",
+      "( obsolete ) Given to expending a lot of money ; profligate , lavish .",
+      "( cricket ) Having a high economy rate ."
+    ]
+  }
+]

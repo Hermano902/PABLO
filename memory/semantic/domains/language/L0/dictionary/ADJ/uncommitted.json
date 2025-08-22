@@ -1,0 +1,57 @@
+[
+  {
+    "word": "uncommitted",
+    "lemma": "uncommitted",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more uncommitted",
+          "SUP": "most uncommitted"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not inclined toward either side in a matter under dispute .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not bound or pledged to a cause , party etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not yet written to disk and logged .",
+        "examples": [
+          "Any uncommitted changes will be lost if you disconnect from the source control system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of an update to a database etc."
+        ],
+        "label_groups": "computing , of an update to a database etc."
+      }
+    ],
+    "main_definition": "Not inclined toward either side in a matter under dispute .",
+    "secondary_definitions": [
+      "Not bound or pledged to a cause , party etc.",
+      "( computing , of an update to a database etc. ) Not yet written to disk and logged ."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "trombone",
+    "lemma": "trombone",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌtɹɒmˈbəʊn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trombones",
+          "PT": "tromboned",
+          "PAP": "tromboned",
+          "PRP": "tromboning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transmit a signal or data back to a central switching point before sending it out to its destination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "To extend and retract (the zoom lens ); to use it too enthusiastically.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "film",
+          "slang",
+          "transitive"
+        ],
+        "label_groups": "film , slang , transitive"
+      }
+    ],
+    "main_definition": "( telecommunications ) To transmit a signal or data back to a central switching point before sending it out to its destination .",
+    "secondary_definitions": [
+      "( film , slang , transitive ) To extend and retract (the zoom lens ); to use it too enthusiastically."
+    ]
+  }
+]

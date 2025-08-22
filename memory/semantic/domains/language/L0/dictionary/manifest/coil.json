@@ -1,0 +1,30 @@
+{
+  "word": "coil",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\coil.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\coil.json"
+  },
+  "timestamp": "2025-08-19T00:12:26.426692Z"
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "stammer",
+    "lemma": "stammer",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈstæmə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stammers",
+          "PT": "stammered",
+          "PAP": "stammered",
+          "PRP": "stammering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To keep repeating a particular sound involuntarily during speech.",
+        "examples": [],
+        "synonyms": [
+          "hacker",
+          "stutter"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To utter with a stammer, or with timid hesitancy.",
+        "examples": [
+          "He blushed, and stammered a few words of apology."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To keep repeating a particular sound involuntarily during speech.",
+    "secondary_definitions": [
+      "( transitive ) To utter with a stammer, or with timid hesitancy."
+    ]
+  }
+]

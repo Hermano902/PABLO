@@ -1,0 +1,270 @@
+[
+  {
+    "word": "floor",
+    "lemma": "floor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/flɔː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "floors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The interior bottom or surface of a house or building; the supporting surface of a room.",
+        "examples": [
+          "The room has a wooden floor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The bottom surface of a natural structure, entity, or space ( e.g. cave, forest, ocean, desert, etc. ) ; the ground ( surface of the Earth ) .",
+        "examples": [
+          "The leaves covering the forest floor provide many hiding-places for small animals.",
+          "Many sunken ships rest on the ocean floor .",
+          "The floor of a cave served the refugees as a home.",
+          "The pit floor showed where a ring of post holes had been."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology",
+          "biology",
+          "chiefly with a modifier"
+        ],
+        "label_groups": "geology , biology , chiefly with a modifier"
+      },
+      {
+        "definition": "The ground .",
+        "examples": [
+          "After stepping off the bus, my wallet fell on the floor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "dialectal",
+          "colloquial"
+        ],
+        "label_groups": "UK , dialectal , colloquial"
+      },
+      {
+        "definition": "A structure formed of beams, girders, etc, with proper covering, which divides a building horizontally into storeys / stories .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "construction",
+          "architecture"
+        ],
+        "label_groups": "construction , architecture"
+      },
+      {
+        "definition": "The supporting surface or platform of a structure such as a bridge.",
+        "examples": [
+          "Wooden planks of the old bridge's floor were nearly rotten."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A storey / story of a building.",
+        "examples": [
+          "For years we lived on the third floor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture",
+          "countable"
+        ],
+        "label_groups": "architecture , countable"
+      },
+      {
+        "definition": "In a parliament , the part of the house assigned to the members, as opposed to the viewing gallery.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The right to speak at a given time during a debate or other public event.",
+        "examples": [
+          "Will the senator from Arizona yield the floor ?",
+          "The mayor often gives a lobbyist the floor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "That part of the bottom of a vessel on each side of the keelson which is most nearly horizontal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "A horizontal, flat ore body; the rock underlying a stratified or nearly horizontal deposit.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "The bottom of a pit, pothole or mine.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "The largest integer less than or equal to a given number.",
+        "examples": [
+          "The floor of 4.5 is 4."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An event performed on a floor-like carpeted surface; floor exercise",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gymnastics"
+        ],
+        "label_groups": "gymnastics"
+      },
+      {
+        "definition": "A floor-like carpeted surface for performing gymnastic movements.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gymnastics"
+        ],
+        "label_groups": "gymnastics"
+      },
+      {
+        "definition": "A lower limit or minimum on a price or rate, a price floor . Opposite of a cap or ceiling .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "A dance floor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The trading floor of a stock exchange , pit ; the area in which business is conducted at a convention or exhibition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The area of a casino where gambling occurs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The area of an establishment where food and drink are served to customers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( countable ) The interior bottom or surface of a house or building; the supporting surface of a room.",
+    "secondary_definitions": [
+      "( geology , biology , chiefly with a modifier ) The bottom surface of a natural structure, entity, or space ( e.g. cave, forest, ocean, desert, etc. ) ; the ground ( surface of the Earth ) .",
+      "( UK , dialectal , colloquial ) The ground .",
+      "( construction , architecture ) A structure formed of beams, girders, etc, with proper covering, which divides a building horizontally into storeys / stories .",
+      "The supporting surface or platform of a structure such as a bridge.",
+      "( architecture , countable ) A storey / story of a building.",
+      "In a parliament , the part of the house assigned to the members, as opposed to the viewing gallery.",
+      "( by extension ) The right to speak at a given time during a debate or other public event.",
+      "( nautical ) That part of the bottom of a vessel on each side of the keelson which is most nearly horizontal.",
+      "( mining ) A horizontal, flat ore body; the rock underlying a stratified or nearly horizontal deposit.",
+      "( mining ) The bottom of a pit, pothole or mine.",
+      "( mathematics ) The largest integer less than or equal to a given number.",
+      "( gymnastics ) An event performed on a floor-like carpeted surface; floor exercise",
+      "( gymnastics ) A floor-like carpeted surface for performing gymnastic movements.",
+      "( finance ) A lower limit or minimum on a price or rate, a price floor . Opposite of a cap or ceiling .",
+      "A dance floor .",
+      "The trading floor of a stock exchange , pit ; the area in which business is conducted at a convention or exhibition .",
+      "The area of a casino where gambling occurs.",
+      "The area of an establishment where food and drink are served to customers."
+    ]
+  }
+]

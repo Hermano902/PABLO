@@ -1,0 +1,49 @@
+[
+  {
+    "word": "decode",
+    "lemma": "decode",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkəʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "decodes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A product of decoding",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "Output from a program or device used to interpret communication protocols",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( cryptography ) A product of decoding",
+    "secondary_definitions": [
+      "( computing ) Output from a program or device used to interpret communication protocols"
+    ]
+  }
+]

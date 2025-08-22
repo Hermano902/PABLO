@@ -1,0 +1,10 @@
+{
+  "id": "eyes.pack",
+  "kind": "pack",
+  "entry": "io.eyes.__pack__:run",
+  "provides": [
+    "EYE/*"
+  ],
+  "enable": true,
+  "notes": "Eyes capability pack; sensors\u2192decoders\u2192recognizers\u2192normalizers."
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "odd",
+    "lemma": "odd",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɒd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "odds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something left over, not forming part of a set.",
+        "examples": [
+          "I’ve got three complete sets of these trading cards for sale, plus a few dozen odds ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "An odd number .",
+        "examples": [
+          "So let’s see. There are two evens here and three odds ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "diminutive"
+        ],
+        "label_groups": "mathematics , diminutive"
+      }
+    ],
+    "main_definition": "( informal ) Something left over, not forming part of a set.",
+    "secondary_definitions": [
+      "( mathematics , diminutive ) An odd number ."
+    ]
+  }
+]

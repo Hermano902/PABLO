@@ -1,0 +1,223 @@
+[
+  {
+    "word": "sink",
+    "lemma": "sink",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/sɪŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sinks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A basin used for holding water for washing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A drain for carrying off wastewater .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sinkhole .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "A depression in land where water collects , with no visible outlet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A heat sink .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place that absorbs resources or energy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A habitat that cannot support a population on its own but receives the excess of individuals from some other source .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ecology"
+        ],
+        "label_groups": "ecology"
+      },
+      {
+        "definition": "Descending motion ; descent .",
+        "examples": [
+          "An excessive sink rate at touchdown can cause the aircraft's landing gear to collapse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The motion of a sinker pitch .",
+            "examples": [
+              "Jones has a two-seamer with heavy sink ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "baseball"
+            ],
+            "label_groups": "baseball"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An object or callback that captures events .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      },
+      {
+        "definition": "A destination vertex in a transportation network .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "A node in directed graph for which all of its edges go into it; one with no outgoing edges.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "An abode of degraded persons ; a wretched place .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A depression in a stereotype plate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A stage trapdoor for shifting scenery .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "theater"
+        ],
+        "label_groups": "theater"
+      },
+      {
+        "definition": "An excavation smaller than a shaft .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "One or several systems that remove currency from the game's economy , thus controlling or preventing inflation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "faucet"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "game development"
+        ],
+        "label_groups": "game development"
+      }
+    ],
+    "main_definition": "A basin used for holding water for washing .",
+    "secondary_definitions": [
+      "A drain for carrying off wastewater .",
+      "( geology ) A sinkhole .",
+      "A depression in land where water collects , with no visible outlet .",
+      "A heat sink .",
+      "A place that absorbs resources or energy .",
+      "( ecology ) A habitat that cannot support a population on its own but receives the excess of individuals from some other source .",
+      "( uncountable ) Descending motion ; descent .",
+      "( computing , programming ) An object or callback that captures events .",
+      "( graph theory ) A destination vertex in a transportation network .",
+      "( graph theory ) A node in directed graph for which all of its edges go into it; one with no outgoing edges.",
+      "An abode of degraded persons ; a wretched place .",
+      "A depression in a stereotype plate .",
+      "( theater ) A stage trapdoor for shifting scenery .",
+      "( mining ) An excavation smaller than a shaft .",
+      "( game development ) One or several systems that remove currency from the game's economy , thus controlling or preventing inflation ."
+    ]
+  }
+]

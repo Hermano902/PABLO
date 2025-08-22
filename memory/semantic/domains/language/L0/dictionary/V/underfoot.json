@@ -1,0 +1,54 @@
+[
+  {
+    "word": "underfoot",
+    "lemma": "underfoot",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌndɚˈfʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "underfoots",
+          "PT": "underfooted",
+          "PAP": "underfooted",
+          "PRP": "underfooting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide a footing beneath; to shore up or underpin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assign a column summary that is less than the sum of all the entries in that column.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting"
+        ],
+        "label_groups": "accounting"
+      }
+    ],
+    "main_definition": "( transitive ) To provide a footing beneath; to shore up or underpin .",
+    "secondary_definitions": [
+      "( accounting ) To assign a column summary that is less than the sum of all the entries in that column."
+    ]
+  }
+]

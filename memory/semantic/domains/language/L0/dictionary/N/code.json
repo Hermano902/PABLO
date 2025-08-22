@@ -1,0 +1,169 @@
+[
+  {
+    "word": "code",
+    "lemma": "code",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "codes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short textual designation, often with little relation to the item it represents.",
+        "examples": [
+          "This flavour of soup has been assigned the code WRT-9."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any system of principles, rules or regulations relating to one subject.",
+        "examples": [
+          "The medical code is a system of rules for the regulation of the professional conduct of physicians.",
+          "The naval code is a system of rules for making communications at sea by means of signals."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of rules for converting information into another form or representation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "By synecdoche : a codeword , code point , an encoded representation of a character , symbol , or other entity.",
+            "examples": [
+              "The ASCII code of \"A\" is 65."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A message represented by rules intended to conceal its meaning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cryptographic system using a codebook that converts words or phrases into codewords .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "Instructions for a computer , written in a programming language ; the input of a translator , an interpreter or a browser , namely: source code , machine code , bytecode .",
+        "examples": [
+          "Object-oriented C++ code is easier to understand for a human than C code .",
+          "I wrote some code to reformat text documents.",
+          "This HTML code may be placed on your web page ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "uncountable"
+        ],
+        "label_groups": "programming , uncountable"
+      },
+      {
+        "definition": "A program .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "scientific programming"
+        ],
+        "label_groups": "scientific programming"
+      },
+      {
+        "definition": "A particular lect or language variety.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "An emergency requiring situation-trained members of the staff.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A set of unwritten rules that bind a social group .",
+        "examples": [
+          "girl code"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      }
+    ],
+    "main_definition": "A short textual designation, often with little relation to the item it represents.",
+    "secondary_definitions": [
+      "A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest.",
+      "Any system of principles, rules or regulations relating to one subject.",
+      "A set of rules for converting information into another form or representation.",
+      "A message represented by rules intended to conceal its meaning.",
+      "( cryptography ) A cryptographic system using a codebook that converts words or phrases into codewords .",
+      "( programming , uncountable ) Instructions for a computer , written in a programming language ; the input of a translator , an interpreter or a browser , namely: source code , machine code , bytecode .",
+      "( scientific programming ) A program .",
+      "( linguistics ) A particular lect or language variety.",
+      "( medicine ) An emergency requiring situation-trained members of the staff.",
+      "( informal ) A set of unwritten rules that bind a social group ."
+    ]
+  }
+]

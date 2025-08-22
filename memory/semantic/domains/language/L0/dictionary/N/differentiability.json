@@ -1,0 +1,48 @@
+[
+  {
+    "word": "differentiability",
+    "lemma": "differentiability",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "differentiabilities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The ability to be differentiated .",
+        "examples": [],
+        "synonyms": [
+          "distinguishability",
+          "discriminability"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The existence of the derivative .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      }
+    ],
+    "main_definition": "The ability to be differentiated .",
+    "secondary_definitions": [
+      "( calculus ) The existence of the derivative ."
+    ]
+  }
+]

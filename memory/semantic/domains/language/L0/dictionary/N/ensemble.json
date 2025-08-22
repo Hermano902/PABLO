@@ -1,0 +1,102 @@
+[
+  {
+    "word": "ensemble",
+    "lemma": "ensemble",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɒ̃nˈsɒ̃m.bl̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ensembles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A group of separate things that contribute to a coordinated whole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A coordinated costume or outfit ; a suit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fashion"
+        ],
+        "label_groups": "fashion"
+      },
+      {
+        "definition": "A group of musicians , dancers , actors, etc who perform together ; e.g. the chorus of a ballet company.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "collective"
+        ],
+        "label_groups": "collective"
+      },
+      {
+        "definition": "A piece for several instrumentalists or vocalists .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Can we add an example for this sense?",
+          "music"
+        ],
+        "label_groups": [
+          "Can we add an example for this sense?",
+          "music"
+        ]
+      },
+      {
+        "definition": "A probability distribution for the state of the system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "physics"
+        ],
+        "label_groups": "mathematics , physics"
+      },
+      {
+        "definition": "A supervised learning algorithm combining multiple hypotheses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "machine learning"
+        ],
+        "label_groups": "machine learning"
+      }
+    ],
+    "main_definition": "A group of separate things that contribute to a coordinated whole.",
+    "secondary_definitions": [
+      "( fashion ) A coordinated costume or outfit ; a suit .",
+      "( collective ) A group of musicians , dancers , actors, etc who perform together ; e.g. the chorus of a ballet company.",
+      "(Can we add an example for this sense?) ( music ) A piece for several instrumentalists or vocalists .",
+      "( mathematics , physics ) A probability distribution for the state of the system.",
+      "( machine learning ) A supervised learning algorithm combining multiple hypotheses ."
+    ]
+  }
+]

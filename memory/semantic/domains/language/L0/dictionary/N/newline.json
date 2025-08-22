@@ -1,0 +1,41 @@
+[
+  {
+    "word": "newline",
+    "lemma": "newline",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "newlines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The character or character sequence that indicates the end of a line of text and transition to the next line; or , a control code or escape sequence used in a programming language to denote this character.",
+        "examples": [],
+        "synonyms": [
+          "line break",
+          "carriage return",
+          "end",
+          "line",
+          "\\n"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The character or character sequence that indicates the end of a line of text and transition to the next line; or , a control code or escape sequence used in a programming language to denote this character.",
+    "secondary_definitions": []
+  }
+]

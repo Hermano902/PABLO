@@ -1,0 +1,65 @@
+[
+  {
+    "word": "resource",
+    "lemma": "resource",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈzɔːs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "resources"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that one uses to achieve an objective, e.g. raw materials or personnel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person's capacity to deal with difficulty.",
+        "examples": [
+          "a man or woman of resource"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something that can be used to help achieve an aim , especially a book, equipment, etc. that provides information for teachers and students.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Hardware or software accessible by a computer, network, or another object connected to a computer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "Something that one uses to achieve an objective, e.g. raw materials or personnel .",
+    "secondary_definitions": [
+      "A person's capacity to deal with difficulty.",
+      "Something that can be used to help achieve an aim , especially a book, equipment, etc. that provides information for teachers and students.",
+      "( networking ) Hardware or software accessible by a computer, network, or another object connected to a computer."
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "word": "nope",
+  "pos_order": [
+    "PART",
+    "N",
+    "N:2",
+    "N:3",
+    "V"
+  ],
+  "pos": {
+    "PART": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\nope.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nope.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nope.json"
+  },
+  "timestamp": "2025-08-19T10:15:46.706650Z"
+}

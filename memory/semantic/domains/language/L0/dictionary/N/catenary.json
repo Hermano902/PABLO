@@ -1,0 +1,75 @@
+[
+  {
+    "word": "catenary",
+    "lemma": "catenary",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəˈtiːnəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "catenaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The curve described by a flexible chain or a rope if it is supported at each end and is acted upon by no other forces than a uniform gravitational force due to its own weight and variations involving additional and non-uniform forces. It is described by the hyperbolic cosine function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Any physical cable, rope, chain, or other weight-supporting structure  taking such geometric shape, as a suspension cable for a bridge or a power-transmission line or an arch for a bridge or roof.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "The curve of an anchor cable from the seabed to the vessel ; it should be horizontal at the anchor so as to bury the flukes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "A cable, the segments of which between supports take a catenary geometric shape, supporting in turn an overhead conductor that provides trains, trams or trolley buses with electricity , or ( metonymic ) the combination of the conductor, the cable , and supports.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transport"
+        ],
+        "label_groups": "transport"
+      }
+    ],
+    "main_definition": "( geometry ) The curve described by a flexible chain or a rope if it is supported at each end and is acted upon by no other forces than a uniform gravitational force due to its own weight and variations involving additional and non-uniform forces. It is described by the hyperbolic cosine function.",
+    "secondary_definitions": [
+      "( engineering ) Any physical cable, rope, chain, or other weight-supporting structure  taking such geometric shape, as a suspension cable for a bridge or a power-transmission line or an arch for a bridge or roof.",
+      "( nautical ) The curve of an anchor cable from the seabed to the vessel ; it should be horizontal at the anchor so as to bury the flukes.",
+      "( transport ) A cable, the segments of which between supports take a catenary geometric shape, supporting in turn an overhead conductor that provides trains, trams or trolley buses with electricity , or ( metonymic ) the combination of the conductor, the cable , and supports."
+    ]
+  }
+]

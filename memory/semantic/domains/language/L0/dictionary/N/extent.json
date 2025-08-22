@@ -1,0 +1,79 @@
+[
+  {
+    "word": "extent",
+    "lemma": "extent",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈstɛnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "extents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A range of values or locations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The space, area, volume, point, or abstract location, to which something extends .",
+        "examples": [
+          "I'm a thoroughgoing pragmatist to the fullest extent of the word.",
+          "The extent of his knowledge of the language is a few scattered words."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A contiguous area of storage in a file system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The valuation of property .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A writ directing the sheriff to seize the property of a debtor , for the recovery of debts of record due to the Crown .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "A range of values or locations .",
+    "secondary_definitions": [
+      "The space, area, volume, point, or abstract location, to which something extends .",
+      "( computing ) A contiguous area of storage in a file system .",
+      "The valuation of property .",
+      "( law ) A writ directing the sheriff to seize the property of a debtor , for the recovery of debts of record due to the Crown ."
+    ]
+  }
+]

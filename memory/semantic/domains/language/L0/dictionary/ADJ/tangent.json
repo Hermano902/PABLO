@@ -1,0 +1,61 @@
+[
+  {
+    "word": "tangent",
+    "lemma": "tangent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæn.d͡ʒənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Touching a curve at a single point but not crossing it at that point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Of a topic, only loosely related to a main topic.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Straight; not horizontally curved.",
+        "examples": [
+          "The collision occurred on a two-mile stretch of tangent track."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "of track"
+        ],
+        "label_groups": "rail transport , of track"
+      }
+    ],
+    "main_definition": "( geometry ) Touching a curve at a single point but not crossing it at that point.",
+    "secondary_definitions": [
+      "Of a topic, only loosely related to a main topic.",
+      "( rail transport , of track ) Straight; not horizontally curved."
+    ]
+  }
+]

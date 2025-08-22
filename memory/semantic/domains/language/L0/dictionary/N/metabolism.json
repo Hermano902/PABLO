@@ -1,0 +1,68 @@
+[
+  {
+    "word": "metabolism",
+    "lemma": "metabolism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mɪˈtab.ə.lɪz.əm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "metabolisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The chemical processes that occur within a living organism in order to maintain life.",
+        "examples": [
+          "The metabolisms of aerobic bacteria require oxygen"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physiology"
+        ],
+        "label_groups": "physiology"
+      },
+      {
+        "definition": "The rate at which these processes occur for a given organism",
+        "examples": [
+          "Small animals have a much higher metabolism than large animals because they lose more body heat"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physiology",
+          "by extension"
+        ],
+        "label_groups": "physiology , by extension"
+      },
+      {
+        "definition": "The processes that maintain any dynamic system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "by extension"
+        ],
+        "label_groups": "figurative , by extension"
+      }
+    ],
+    "main_definition": "( physiology ) The chemical processes that occur within a living organism in order to maintain life.",
+    "secondary_definitions": [
+      "( physiology , by extension ) The rate at which these processes occur for a given organism",
+      "( figurative , by extension ) The processes that maintain any dynamic system."
+    ]
+  }
+]

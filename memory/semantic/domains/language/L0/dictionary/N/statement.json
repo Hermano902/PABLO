@@ -1,0 +1,67 @@
+[
+  {
+    "word": "statement",
+    "lemma": "statement",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsteɪtm(ə)nt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "statements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A declaration or remark .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A presentation of opinion or position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A document that summarizes financial activity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "An instruction in a computer program , especially one that returns no value, as opposed to a function call .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A declaration or remark .",
+    "secondary_definitions": [
+      "A presentation of opinion or position .",
+      "( finance ) A document that summarizes financial activity.",
+      "( computing ) An instruction in a computer program , especially one that returns no value, as opposed to a function call ."
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "word": "image",
+    "lemma": "image",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪmɪd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "images"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An optical or other representation of a real object ; a graphic ; a picture .",
+        "examples": [
+          "The Bible forbids the worship of graven images ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mental picture of something not real or not present.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A statue or idol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A file that contains all information needed to produce a live working copy. (See disk image and image copy .)",
+        "examples": [
+          "Most game console emulators do not come with any ROM images for copyright reasons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A characteristic of a person, group or company etc., style, manner of dress, how one is or wishes to be perceived by others.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The value a function maps some argument to.",
+        "examples": [
+          "The number 6 is the image of 3 under f that is defined as f(x) = 2x."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The subset of the codomain of a function comprising those elements that are the image of some element of its domain .",
+        "examples": [
+          "The image of this step function is the set of integers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A form of interference : a weaker \"copy\" of a strong signal that occurs at a different frequency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radio"
+        ],
+        "label_groups": "radio"
+      },
+      {
+        "definition": "Show; appearance; cast.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "An optical or other representation of a real object ; a graphic ; a picture .",
+    "secondary_definitions": [
+      "A mental picture of something not real or not present.",
+      "A statue or idol .",
+      "( computing ) A file that contains all information needed to produce a live working copy. (See disk image and image copy .)",
+      "A characteristic of a person, group or company etc., style, manner of dress, how one is or wishes to be perceived by others.",
+      "( mathematics ) The value a function maps some argument to.",
+      "( mathematics ) The subset of the codomain of a function comprising those elements that are the image of some element of its domain .",
+      "( radio ) A form of interference : a weaker \"copy\" of a strong signal that occurs at a different frequency .",
+      "( obsolete ) Show; appearance; cast."
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "word": "binary",
+    "lemma": "binary",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪ.nə.ɹɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more binary",
+          "SUP": "most binary"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Being in one of two mutually exclusive states .",
+        "examples": [
+          "Binary states are often represented as 1 and 0 in computer science."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Concerning logic whose subject matter concerns such states.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "Concerning numbers and calculations using the binary number system .",
+        "examples": [],
+        "synonyms": [
+          "base-2"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "computing"
+        ],
+        "label_groups": "arithmetic , computing"
+      },
+      {
+        "definition": "Having two equally important parts; related to something with two parts.",
+        "examples": [
+          "binary star",
+          "Two ingredients are combined in a binary poison.",
+          "A binary statistical distribution has only two categories."
+        ],
+        "synonyms": [
+          "dyadic",
+          "double",
+          "twin"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of an operation , function , procedure , or logic gate , taking exactly two operands , arguments , parameters , or inputs ; having domain of dimension 2.",
+        "examples": [
+          "Division of reals is a binary operation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "programming",
+          "computer engineering"
+        ],
+        "label_groups": "mathematics , programming , computer engineering"
+      },
+      {
+        "definition": "Of data , consisting coded values (e.g. machine code ) not interpretable as plain or ASCII text (e.g. source code ).",
+        "examples": [
+          "He downloaded the binary distribution for Linux, then burned it to DVD."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "plain text"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Focusing on two mutually exclusive conditions.",
+        "examples": [
+          "He has a very binary understanding of gender."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable"
+        ],
+        "label_groups": "comparable"
+      },
+      {
+        "definition": "Having or pertaining to a gender identity represented by the gender binary ; either male or female .",
+        "examples": [],
+        "synonyms": [
+          "gender-binary"
+        ],
+        "antonyms": [
+          "non-binary"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "sociology"
+        ],
+        "label_groups": "biology , sociology"
+      }
+    ],
+    "main_definition": "Being in one of two mutually exclusive states .",
+    "secondary_definitions": [
+      "( logic ) Concerning logic whose subject matter concerns such states.",
+      "( arithmetic , computing ) Concerning numbers and calculations using the binary number system .",
+      "Having two equally important parts; related to something with two parts.",
+      "( mathematics , programming , computer engineering ) Of an operation , function , procedure , or logic gate , taking exactly two operands , arguments , parameters , or inputs ; having domain of dimension 2.",
+      "( computing ) Of data , consisting coded values (e.g. machine code ) not interpretable as plain or ASCII text (e.g. source code ).",
+      "( comparable ) Focusing on two mutually exclusive conditions.",
+      "( biology , sociology ) Having or pertaining to a gender identity represented by the gender binary ; either male or female ."
+    ]
+  }
+]

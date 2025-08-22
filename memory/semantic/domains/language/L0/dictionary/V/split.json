@@ -1,0 +1,238 @@
+[
+  {
+    "word": "split",
+    "lemma": "split",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/splɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "splits",
+          "PT": "split",
+          "PAP": "split",
+          "PRP": "splitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To divide fully or partly along a more or less straight line.",
+        "examples": [
+          "He has split his lip."
+        ],
+        "synonyms": [
+          "cleave"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ergative",
+          "of something solid"
+        ],
+        "label_groups": "transitive , ergative , of something solid"
+      },
+      {
+        "definition": "To break along the grain fully or partly along a more or less straight line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of something solid",
+          "particularly wood"
+        ],
+        "label_groups": "intransitive , of something solid , particularly wood"
+      },
+      {
+        "definition": "To share ; to divide .",
+        "examples": [
+          "We split the money among three people."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To leave .",
+        "examples": [
+          "Let's split this scene and see if we can find a real party."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "slang"
+        ],
+        "label_groups": "transitive , intransitive , slang"
+      },
+      {
+        "definition": "To separate .",
+        "examples": [
+          "Did you hear Dick and Jane split ? They'll probably get a divorce."
+        ],
+        "synonyms": [
+          "break up",
+          "split up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of a couple"
+        ],
+        "label_groups": "intransitive , of a couple"
+      },
+      {
+        "definition": "To (cause to) break up; to throw into discord.",
+        "examples": [
+          "Accusations of bribery split the party just before the election."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To factor into linear factors.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To be expressable as a direct sum of sub - modules , - algebras , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "generally",
+              "of an algebraic structure"
+            ],
+            "label_groups": "generally , of an algebraic structure"
+          },
+          {
+            "definition": "To contain an object which may be so expressed.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of an object which expresses the relationship between algebraic structures",
+              "particularly a short exact sequence"
+            ],
+            "label_groups": "of an object which expresses the relationship between algebraic structures, particularly a short exact sequence"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "transitive",
+          "intransitive",
+          "acts on a polynomial"
+        ],
+        "label_groups": "algebra , transitive and intransitive , acts on a polynomial"
+      },
+      {
+        "definition": "To be broken; to be dashed to pieces.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To burst out laughing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To divulge a secret; to betray confidence; to peach .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang",
+          "dated"
+        ],
+        "label_groups": "intransitive , slang , dated"
+      },
+      {
+        "definition": "For both teams involved in a doubleheader to win one game each and lose another.",
+        "examples": [
+          "Boston split with Philadelphia in a doubleheader, winning the first game 3-1 before losing 2-0 in the nightcap."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "especially baseball"
+        ],
+        "label_groups": "sports , especially baseball"
+      },
+      {
+        "definition": "To vote for candidates of opposite parties .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "politics"
+        ],
+        "label_groups": "intransitive , politics"
+      }
+    ],
+    "main_definition": "( transitive , ergative , of something solid ) To divide fully or partly along a more or less straight line.",
+    "secondary_definitions": [
+      "( intransitive , of something solid , particularly wood ) To break along the grain fully or partly along a more or less straight line.",
+      "( transitive ) To share ; to divide .",
+      "( transitive , intransitive , slang ) To leave .",
+      "( intransitive , of a couple ) To separate .",
+      "( ambitransitive ) To (cause to) break up; to throw into discord.",
+      "( algebra , transitive and intransitive , acts on a polynomial ) To factor into linear factors.",
+      "To be broken; to be dashed to pieces.",
+      "( intransitive ) To burst out laughing.",
+      "( intransitive , slang , dated ) To divulge a secret; to betray confidence; to peach .",
+      "( sports , especially baseball ) For both teams involved in a doubleheader to win one game each and lose another.",
+      "( intransitive , politics ) To vote for candidates of opposite parties ."
+    ]
+  }
+]

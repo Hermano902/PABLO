@@ -1,0 +1,70 @@
+[
+  {
+    "word": "browser",
+    "lemma": "browser",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹaʊzɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "browsers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or animal who browses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who examines goods for sale but purchases nothing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nonbrowser"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ellipsis of web browser .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Any other type of information browser.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "by extension"
+        ],
+        "label_groups": "computing , by extension"
+      }
+    ],
+    "main_definition": "A person or animal who browses .",
+    "secondary_definitions": [
+      "A person who examines goods for sale but purchases nothing.",
+      "( computing ) Ellipsis of web browser .",
+      "( computing , by extension ) Any other type of information browser."
+    ]
+  }
+]

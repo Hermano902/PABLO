@@ -1,0 +1,97 @@
+[
+  {
+    "word": "octavate",
+    "lemma": "octavate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒktəveɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "octavates",
+          "PT": "octavated",
+          "PAP": "octavated",
+          "PRP": "octavating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sound one octave higher or lower.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To resonate or sound one octave higher or lower.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "of an instrument"
+            ],
+            "label_groups": "intransitive , of an instrument"
+          },
+          {
+            "definition": "To span (at least) one octave in playing a musical instrument .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "of a person"
+            ],
+            "label_groups": "intransitive , of a person"
+          },
+          {
+            "definition": "To double the pitch of (a part of itself).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "rare",
+              "of an instrument",
+              "construed with up"
+            ],
+            "label_groups": "transitive , rare , of an instrument , construed with up"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To convert (the expression of a number ) from denary to octal notation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "rare"
+        ],
+        "label_groups": "mathematics , rare"
+      }
+    ],
+    "main_definition": "( music ) To sound one octave higher or lower.",
+    "secondary_definitions": [
+      "( mathematics , rare ) To convert (the expression of a number ) from denary to octal notation ."
+    ]
+  }
+]

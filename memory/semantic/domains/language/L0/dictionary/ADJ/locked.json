@@ -1,0 +1,87 @@
+[
+  {
+    "word": "locked",
+    "lemma": "locked",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/lɒkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having undergone locking ; secured by a lock .",
+        "examples": [
+          "A locked door barred the way."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Protected by a mutex or other token restricting access to a resource.",
+        "examples": [
+          "You can't delete a locked computer file."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Very drunk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Ireland"
+        ],
+        "label_groups": "Ireland"
+      },
+      {
+        "definition": "Bound to a carrier .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unlocked"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mobile telephony",
+          "of a phone"
+        ],
+        "label_groups": "mobile telephony , of a phone"
+      },
+      {
+        "definition": "This term needs a definition. Please help out and add a definition , then remove the text  .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Having undergone locking ; secured by a lock .",
+    "secondary_definitions": [
+      "( computing ) Protected by a mutex or other token restricting access to a resource.",
+      "( Ireland ) Very drunk .",
+      "( mobile telephony , of a phone ) Bound to a carrier .",
+      "This term needs a definition. Please help out and add a definition , then remove the text  ."
+    ]
+  }
+]

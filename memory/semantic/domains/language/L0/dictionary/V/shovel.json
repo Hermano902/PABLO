@@ -1,0 +1,57 @@
+[
+  {
+    "word": "shovel",
+    "lemma": "shovel",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃʌvl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shovels",
+          "PT": "shoveled",
+          "PAP": "shoveled",
+          "PRP": "shoveling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move materials with a shovel.",
+        "examples": [
+          "The workers were shovelling gravel and tarmac into the pothole in the road.",
+          "After the blizzard, we shoveled the driveway for the next two days.",
+          "I don't mind shoveling , but using a pickaxe hurts my back terribly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To move with a shoveling motion.",
+        "examples": [
+          "Already late for work, I shovelled breakfast into my mouth as fast as possible."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "To move materials with a shovel.",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To move with a shoveling motion."
+    ]
+  }
+]

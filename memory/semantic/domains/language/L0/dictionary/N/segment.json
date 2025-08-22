@@ -1,0 +1,210 @@
+[
+  {
+    "word": "segment",
+    "lemma": "segment",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛɡ.mənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "segments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A length of some object.",
+        "examples": [
+          "a segment of rope"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion.",
+        "examples": [
+          "a segment of an orange; a segment of a compound or divided leaf"
+        ],
+        "synonyms": [
+          "cleft",
+          "clove"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A portion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A straight path between two points that is the shortest distance between them; a line segment .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The part of a circle between its circumference and a chord (usually other than the diameter ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          },
+          {
+            "definition": "The part of a sphere cut off by a plane .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          },
+          {
+            "definition": "Any of the pieces that constitute an order tree .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology"
+            ],
+            "label_groups": "topology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A portion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A discrete unit of speech : a consonant or a vowel .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "phonology"
+            ],
+            "label_groups": "phonology"
+          },
+          {
+            "definition": "A portion of an organ whose cells are derived from a single cell within the primordium from which the organ developed.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "botany"
+            ],
+            "label_groups": "botany"
+          },
+          {
+            "definition": "One of several parts of an organism , with similar structure, arranged in a chain ; such as a vertebra, or a third of an insect's thorax .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "zoology"
+            ],
+            "label_groups": "zoology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "A part of a broadcast program , devoted to a topic .",
+        "examples": [
+          "The news showed a segment on global warming."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "broadcasting"
+        ],
+        "label_groups": "broadcasting"
+      },
+      {
+        "definition": "An Ethernet bus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A region of memory or a fragment of an executable file designated to contain a particular part of a program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A portion of an itinerary : it may be a flight or train between two cities, or a car or hotel booked in a particular city.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "travel"
+        ],
+        "label_groups": "travel"
+      }
+    ],
+    "main_definition": "A length of some object.",
+    "secondary_definitions": [
+      "One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion.",
+      "( mathematics ) A portion .",
+      "( sciences ) A portion .",
+      "( broadcasting ) A part of a broadcast program , devoted to a topic .",
+      "( computing ) An Ethernet bus .",
+      "( computing ) A region of memory or a fragment of an executable file designated to contain a particular part of a program.",
+      "( travel ) A portion of an itinerary : it may be a flight or train between two cities, or a car or hotel booked in a particular city."
+    ]
+  }
+]

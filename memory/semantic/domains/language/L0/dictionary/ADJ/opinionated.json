@@ -1,0 +1,58 @@
+[
+  {
+    "word": "opinionated",
+    "lemma": "opinionated",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈpɪn.jə.neɪ.tɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more opinionated",
+          "SUP": "most opinionated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having very strong opinions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unopinionated"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Holding to one's own opinion obstinately and unreasonably .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Enforcing one particular approach instead of offering options and flexibility .",
+        "examples": [
+          "an opinionated framework"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "Having very strong opinions.",
+    "secondary_definitions": [
+      "Holding to one's own opinion obstinately and unreasonably .",
+      "( software engineering ) Enforcing one particular approach instead of offering options and flexibility ."
+    ]
+  }
+]

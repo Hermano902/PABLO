@@ -1,0 +1,28 @@
+{
+  "word": "generic",
+  "pos_order": [
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 10,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 2,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\generic.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\generic.json"
+  },
+  "timestamp": "2025-08-19T04:22:57.290937Z"
+}

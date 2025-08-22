@@ -1,0 +1,95 @@
+[
+  {
+    "word": "silicon",
+    "lemma": "silicon",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪlɪkən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "silicons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( chemistry , uncountable ) A nonmetallic element ( symbol Si) with an atomic number of 14 and atomic weight of 28.0855.",
+        "examples": [],
+        "synonyms": [
+          "silicium",
+          "silicum"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chemistry , countable ) A single atom of this element.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( chemistry , uncountable ) A nonmetallic element ( symbol Si) with an atomic number of 14 and atomic weight of 28.0855.",
+    "secondary_definitions": [
+      "( chemistry , countable ) A single atom of this element."
+    ]
+  },
+  {
+    "word": "silicon",
+    "lemma": "silicon",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈsɪlɪkən/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Computing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "A computer processor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "Abbreviation of silicon chip .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( slang ) Computing .",
+    "secondary_definitions": [
+      "( slang ) A computer processor .",
+      "Abbreviation of silicon chip ."
+    ]
+  }
+]

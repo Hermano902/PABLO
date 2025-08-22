@@ -1,0 +1,72 @@
+[
+  {
+    "word": "unicode",
+    "lemma": "unicode",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈjunɪˌkoʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( international standards , computing ) A series of character encoding standards intended to support the characters used by a large number of the world’s languages.",
+        "examples": [
+          "This character isn't in Unicode ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) The Unicode standards, together with standards for representing character strings as byte strings .",
+        "examples": [
+          "convert to Unicode"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( international standards , computing ) A series of character encoding standards intended to support the characters used by a large number of the world’s languages.",
+    "secondary_definitions": [
+      "( computing ) The Unicode standards, together with standards for representing character strings as byte strings ."
+    ]
+  },
+  {
+    "word": "unicode",
+    "lemma": "unicode",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈjunɪˌkoʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Characters from a contextually different script, often used in a nonstandard fashion. Sometimes used as an antonym to the characters of the Latin alphabet .",
+        "examples": [
+          "Since most users on the site are westerners , we have banned Unicode in all text input boxes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "by extension",
+          "informal"
+        ],
+        "label_groups": "computing , by extension , informal"
+      }
+    ],
+    "main_definition": "( computing , by extension , informal ) Characters from a contextually different script, often used in a nonstandard fashion. Sometimes used as an antonym to the characters of the Latin alphabet .",
+    "secondary_definitions": []
+  }
+]

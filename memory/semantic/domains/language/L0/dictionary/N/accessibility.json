@@ -1,0 +1,50 @@
+[
+  {
+    "word": "accessibility",
+    "lemma": "accessibility",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əkˌsɛs.əˈbɪl.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "accessibilities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being accessible , or of admitting approach ; receptiveness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "inaccessibility"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Features that increase software usability for users with certain impairments .",
+        "examples": [],
+        "synonyms": [
+          "a11y"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "web design"
+        ],
+        "label_groups": "computing , web design"
+      }
+    ],
+    "main_definition": "The quality of being accessible , or of admitting approach ; receptiveness .",
+    "secondary_definitions": [
+      "( computing , web design ) Features that increase software usability for users with certain impairments ."
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "word": "bait",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "V:3",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bait.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bait.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bait.json"
+  },
+  "timestamp": "2025-08-18T21:44:08.556372Z"
+}

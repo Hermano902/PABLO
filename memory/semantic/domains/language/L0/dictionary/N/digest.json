@@ -1,0 +1,69 @@
+[
+  {
+    "word": "digest",
+    "lemma": "digest",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈd͡ʒɛst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "digests"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is digested; especially, that which is worked over, classified, and arranged under proper heads or titles",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A compilation of statutes or decisions analytically arranged; a summary of laws.",
+        "examples": [
+          "Comyn's Digest",
+          "the United States Digest"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any collection of articles, as an Internet mailing list including a week's postings, or a magazine arranging a collection of writings.",
+        "examples": [
+          "Reader's Digest is published monthly.",
+          "The weekly email digest contains all the messages exchanged during the past week."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The result of applying a hash function to a message .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "That which is digested; especially, that which is worked over, classified, and arranged under proper heads or titles",
+    "secondary_definitions": [
+      "A compilation of statutes or decisions analytically arranged; a summary of laws.",
+      "Any collection of articles, as an Internet mailing list including a week's postings, or a magazine arranging a collection of writings.",
+      "( cryptography ) The result of applying a hash function to a message ."
+    ]
+  }
+]

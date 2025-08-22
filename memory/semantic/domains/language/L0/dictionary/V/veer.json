@@ -1,0 +1,133 @@
+[
+  {
+    "word": "veer",
+    "lemma": "veer",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/vɪə̯/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "veers",
+          "PT": "veered",
+          "PAP": "veered",
+          "PRP": "veering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( obsolete , nautical ) To let out (a sail-line), to allow (a sheet) to run out.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( obsolete , nautical ) To let out (a sail-line), to allow (a sheet) to run out.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "veer",
+    "lemma": "veer",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/vɪə̯/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "veers",
+          "PT": "veered",
+          "PAP": "veered",
+          "PRP": "veering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change direction or course suddenly; to swerve .",
+        "examples": [
+          "The car slid on the ice and veered out of control."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To shift in a clockwise direction (if in the Northern Hemisphere , or in a counterclockwise direction if in the Southern Hemisphere ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of the wind"
+        ],
+        "label_groups": "intransitive , of the wind"
+      },
+      {
+        "definition": "To shift aft .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "nautical",
+          "of the wind"
+        ],
+        "label_groups": "intransitive , nautical , of the wind"
+      },
+      {
+        "definition": "To change direction into the wind; to wear ship.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "nautical"
+        ],
+        "label_groups": "intransitive , nautical"
+      },
+      {
+        "definition": "To turn .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To change direction or course suddenly; to swerve .",
+    "secondary_definitions": [
+      "( intransitive , of the wind ) To shift in a clockwise direction (if in the Northern Hemisphere , or in a counterclockwise direction if in the Southern Hemisphere ).",
+      "( intransitive , nautical , of the wind ) To shift aft .",
+      "( intransitive , nautical ) To change direction into the wind; to wear ship.",
+      "( transitive ) To turn ."
+    ]
+  }
+]

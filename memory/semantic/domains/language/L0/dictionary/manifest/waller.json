@@ -1,0 +1,30 @@
+{
+  "word": "waller",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\waller.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\waller.json"
+  },
+  "timestamp": "2025-08-19T20:41:40.177868Z"
+}

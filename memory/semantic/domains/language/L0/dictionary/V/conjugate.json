@@ -1,0 +1,85 @@
+[
+  {
+    "word": "conjugate",
+    "lemma": "conjugate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.d͡ʒə.ɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "conjugates",
+          "PT": "conjugated",
+          "PAP": "conjugated",
+          "PRP": "conjugating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To inflect (a verb) for each person, in order, for one or more tenses; to list or recite its principal parts .",
+        "examples": [
+          "In English, the verb 'to be' is conjugated as follows: 'I am', 'you are', 'he/she/it is', 'we are', 'you are', 'they are'."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "transitive"
+        ],
+        "label_groups": "grammar , transitive"
+      },
+      {
+        "definition": "To multiply on the left by one element and on the right by its inverse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "To join together, to unite ; to juxtapose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      },
+      {
+        "definition": "To temporarily fuse, exchanging or transferring DNA .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "of bacteria",
+          "algae"
+        ],
+        "label_groups": "biology , of bacteria and algae"
+      }
+    ],
+    "main_definition": "( grammar , transitive ) To inflect (a verb) for each person, in order, for one or more tenses; to list or recite its principal parts .",
+    "secondary_definitions": [
+      "( mathematics ) To multiply on the left by one element and on the right by its inverse .",
+      "( rare ) To join together, to unite ; to juxtapose .",
+      "( biology , of bacteria and algae ) To temporarily fuse, exchanging or transferring DNA ."
+    ]
+  }
+]

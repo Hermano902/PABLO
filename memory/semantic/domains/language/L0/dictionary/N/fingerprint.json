@@ -1,0 +1,80 @@
+[
+  {
+    "word": "fingerprint",
+    "lemma": "fingerprint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɪŋɡɚˌpɹɪnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fingerprints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The natural pattern of ridges on the tips of human fingers , unique to each individual.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The patterns left on surfaces where uncovered fingertips have touched, especially as used to identify the person who touched the surface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A unique combination of features that serves as an identification of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "A unique identification for a public key in asymmetric cryptography .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A trace that gives evidence of someone's involvement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "The natural pattern of ridges on the tips of human fingers , unique to each individual.",
+    "secondary_definitions": [
+      "The patterns left on surfaces where uncovered fingertips have touched, especially as used to identify the person who touched the surface.",
+      "( by extension ) A unique combination of features that serves as an identification of something.",
+      "( cryptography ) A unique identification for a public key in asymmetric cryptography .",
+      "( figurative ) A trace that gives evidence of someone's involvement."
+    ]
+  }
+]

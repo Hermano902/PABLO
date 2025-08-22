@@ -1,0 +1,83 @@
+[
+  {
+    "word": "triage",
+    "lemma": "triage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹiː.ɑːʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "triages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Assessment or sorting according to quality , need , etc., especially to determine how resources will be allocated.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of sorting patients so as to determine the order in which they will be treated (for example, by assigning precedence according to the urgency of illness or injury ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "The process of prioritizing bugs to be fixed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "by extension"
+        ],
+        "label_groups": "computing , by extension"
+      },
+      {
+        "definition": "That which is picked out, especially broken coffee beans.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A marshalling yard , classification yard .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "military",
+          "British"
+        ],
+        "label_groups": "rail transport , military , British"
+      }
+    ],
+    "main_definition": "Assessment or sorting according to quality , need , etc., especially to determine how resources will be allocated.",
+    "secondary_definitions": [
+      "( medicine ) The process of sorting patients so as to determine the order in which they will be treated (for example, by assigning precedence according to the urgency of illness or injury ).",
+      "( computing , by extension ) The process of prioritizing bugs to be fixed .",
+      "That which is picked out, especially broken coffee beans.",
+      "( rail transport , military , British ) A marshalling yard , classification yard ."
+    ]
+  }
+]

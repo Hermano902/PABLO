@@ -1,0 +1,37 @@
+{
+  "word": "invisible",
+  "pos_order": [
+    "ADJ",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 5,
+      "antonyms": 2,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\invisible.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\invisible.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\invisible.json"
+  },
+  "timestamp": "2025-08-19T06:24:29.713624Z"
+}

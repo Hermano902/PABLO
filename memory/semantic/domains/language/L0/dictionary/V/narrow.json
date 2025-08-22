@@ -1,0 +1,105 @@
+[
+  {
+    "word": "narrow",
+    "lemma": "narrow",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnæɹəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "narrows",
+          "PT": "narrowed",
+          "PAP": "narrowed",
+          "PRP": "narrowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce in width or extent ; to contract .",
+        "examples": [
+          "We need to narrow the search."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To get narrower.",
+        "examples": [
+          "The road narrows ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To partially lower one's eyelids in a way usually taken to suggest a defensive, aggressive or penetrating look.",
+        "examples": [
+          "He stepped in front of me, narrowing his eyes to slits.",
+          "She wagged her finger in his face, and her eyes narrowed ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a person or eyes"
+        ],
+        "label_groups": "of a person or eyes"
+      },
+      {
+        "definition": "To contract the size of, as a stocking, by taking two stitches into one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "knitting"
+        ],
+        "label_groups": "knitting"
+      },
+      {
+        "definition": "To convert to a data type that cannot hold as many distinct values.",
+        "examples": [
+          "to narrow an int variable to a short variable"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "widen"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      }
+    ],
+    "main_definition": "( transitive ) To reduce in width or extent ; to contract .",
+    "secondary_definitions": [
+      "( intransitive ) To get narrower.",
+      "( of a person or eyes ) To partially lower one's eyelids in a way usually taken to suggest a defensive, aggressive or penetrating look.",
+      "( knitting ) To contract the size of, as a stocking, by taking two stitches into one.",
+      "( transitive , programming ) To convert to a data type that cannot hold as many distinct values."
+    ]
+  }
+]

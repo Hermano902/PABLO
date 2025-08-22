@@ -1,0 +1,79 @@
+[
+  {
+    "word": "elvis",
+    "lemma": "elvis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛlvɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A male given name .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Elvis Presley (1935-1977), a popular American rock-and-roll singer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A male given name .",
+    "secondary_definitions": [
+      "Elvis Presley (1935-1977), a popular American rock-and-roll singer."
+    ]
+  },
+  {
+    "word": "elvis",
+    "lemma": "elvis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈɛlvɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Elvises"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An impersonator of Elvis Presley.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An Elvis operator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "An impersonator of Elvis Presley.",
+    "secondary_definitions": [
+      "( programming ) An Elvis operator ."
+    ]
+  }
+]

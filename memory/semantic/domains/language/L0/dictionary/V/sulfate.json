@@ -1,0 +1,56 @@
+[
+  {
+    "word": "sulfate",
+    "lemma": "sulfate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌlfeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sulfates",
+          "PT": "sulfated",
+          "PAP": "sulfated",
+          "PRP": "sulfating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To treat something with sulfuric acid , a sulfate, or with sulfur dioxide .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American spelling",
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "American spelling , transitive , chemistry"
+      },
+      {
+        "definition": "To accumulate a deposit of lead sulfate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a lead-acid battery"
+        ],
+        "label_groups": "of a lead-acid battery"
+      }
+    ],
+    "main_definition": "( American spelling , transitive , chemistry ) To treat something with sulfuric acid , a sulfate, or with sulfur dioxide .",
+    "secondary_definitions": [
+      "( of a lead-acid battery ) To accumulate a deposit of lead sulfate ."
+    ]
+  }
+]

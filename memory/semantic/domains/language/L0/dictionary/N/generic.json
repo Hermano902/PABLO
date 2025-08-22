@@ -1,0 +1,73 @@
+[
+  {
+    "word": "generic",
+    "lemma": "generic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/d͡ʒɪˈnɛɹɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "generics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A product sold under a generic name.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A wine that is a combination of several wines, or made from a combination of several grape varieties .",
+        "examples": [],
+        "synonyms": [
+          "blend"
+        ],
+        "antonyms": [
+          "varietal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A term that specifies neither male nor female .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "The part of a toponym that identifies the feature's type.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "specific"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "toponymy"
+        ],
+        "label_groups": "toponymy"
+      }
+    ],
+    "main_definition": "A product sold under a generic name.",
+    "secondary_definitions": [
+      "A wine that is a combination of several wines, or made from a combination of several grape varieties .",
+      "( grammar ) A term that specifies neither male nor female .",
+      "( toponymy ) The part of a toponym that identifies the feature's type."
+    ]
+  }
+]

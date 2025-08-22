@@ -1,0 +1,29 @@
+{
+  "word": "bridge",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 33,
+      "examples": 11,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bridge.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bridge.json"
+  },
+  "timestamp": "2025-08-18T22:40:55.181032Z"
+}

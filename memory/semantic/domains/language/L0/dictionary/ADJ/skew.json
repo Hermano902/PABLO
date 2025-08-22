@@ -1,0 +1,66 @@
+[
+  {
+    "word": "skew",
+    "lemma": "skew",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/skjuː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more skew",
+          "SUP": "most skew"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Neither parallel nor perpendicular to a certain line ; askew .",
+        "examples": [
+          "a skew arch"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Of two lines in three-dimensional space : neither intersecting nor parallel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "geometry"
+        ],
+        "label_groups": "not comparable , geometry"
+      },
+      {
+        "definition": "Of a distribution : asymmetrical about its mean .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable",
+          "statistics"
+        ],
+        "label_groups": "comparable , statistics"
+      }
+    ],
+    "main_definition": "( not comparable ) Neither parallel nor perpendicular to a certain line ; askew .",
+    "secondary_definitions": [
+      "( not comparable , geometry ) Of two lines in three-dimensional space : neither intersecting nor parallel.",
+      "( comparable , statistics ) Of a distribution : asymmetrical about its mean ."
+    ]
+  }
+]

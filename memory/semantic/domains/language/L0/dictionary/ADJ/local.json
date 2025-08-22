@@ -1,0 +1,213 @@
+[
+  {
+    "word": "local",
+    "lemma": "local",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈləʊkl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more local",
+          "SUP": "most local"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "From or in a nearby location .",
+        "examples": [
+          "We prefer local produce."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Connected directly to a particular computer , processor , etc.; able to be accessed offline .",
+        "examples": [
+          "local disk drive",
+          "local file",
+          "The panel shows both local and remote sites."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "remote"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a resource"
+        ],
+        "label_groups": "computing , of a resource"
+      },
+      {
+        "definition": "Having limited scope (either lexical or dynamic ); only accessible within a certain portion of a program .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "global"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a variable or identifier"
+        ],
+        "label_groups": "computing , of a variable or identifier"
+      },
+      {
+        "definition": "Applying to or satisfied by substructures understood as \"near points;\" in particular:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Satisfied by at least one open neighborhood of every point.",
+            "examples": [
+              "A Hausdorff space satisfying local compactness need not be (globally) compact!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology"
+            ],
+            "label_groups": "topology"
+          },
+          {
+            "definition": "Satisfied by arbitrarily small open neighborhoods of every point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology"
+            ],
+            "label_groups": "topology"
+          },
+          {
+            "definition": "Satisfied by every finitely generated subgroup.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "group theory",
+              "of a property of an infinite group"
+            ],
+            "label_groups": "group theory , of a property of an infinite group"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable",
+          "of a condition or property"
+        ],
+        "label_groups": "mathematics , not comparable , of a condition or property"
+      },
+      {
+        "definition": "Detectable from the behavior of substructures understood to be \"near points;\" in particular:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": ") Such that the following conditions are equivalent: (1) P {\\displaystyle P} holds for R {\\displaystyle R} ( M {\\displaystyle M} ); (2) P {\\displaystyle P} holds for the localization R p {\\displaystyle R_{\\mathfrak {p}}} ( M p {\\displaystyle M_{\\mathfrak {p}}} ) for all prime ideals p {\\displaystyle {\\mathfrak {p}}} of R {\\displaystyle R} ; (3) P {\\displaystyle P} holds for the localization R m {\\displaystyle R_{\\mathfrak {m}}} ( M m {\\displaystyle M_{\\mathfrak {m}}} ) for all maximal ideals m {\\displaystyle {\\mathfrak {m}}} of R {\\displaystyle R} .",
+            "examples": [
+              "Flatness is a local property."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "algebraic geometry",
+              "of a property P {\\displaystyle P} of a ring R {\\displaystyle R} (or an R {\\displaystyle R} - module M {\\displaystyle M}"
+            ],
+            "label_groups": "algebra , algebraic geometry , of a property P {\\displaystyle P} of a ring R {\\displaystyle R} (or an R {\\displaystyle R} - module M {\\displaystyle M}"
+          },
+          {
+            "definition": "Detectable from the behavior of the normalizers of the nontrivial p-subgroups .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "group theory",
+              "of a property of a finite group"
+            ],
+            "label_groups": "group theory , of a property of a finite group"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable",
+          "of a condition or property"
+        ],
+        "label_groups": "mathematics , not comparable , of a condition or property"
+      },
+      {
+        "definition": "Having a unique maximal (left) ideal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a ring"
+        ],
+        "label_groups": "algebra , of a ring"
+      },
+      {
+        "definition": "Of or pertaining to a restricted part of an organism .",
+        "examples": [
+          "local lesion",
+          "The patient didn't want to be sedated, so we applied only local anesthesia."
+        ],
+        "synonyms": [
+          "topical"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Descended from an indigenous population.",
+        "examples": [
+          "Hawaiian Pidgin is spoken by the local population."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "From or in a nearby location .",
+    "secondary_definitions": [
+      "( computing , of a resource ) Connected directly to a particular computer , processor , etc.; able to be accessed offline .",
+      "( computing , of a variable or identifier ) Having limited scope (either lexical or dynamic ); only accessible within a certain portion of a program .",
+      "( mathematics , not comparable , of a condition or property ) Applying to or satisfied by substructures understood as \"near points;\" in particular:",
+      "( mathematics , not comparable , of a condition or property ) Detectable from the behavior of substructures understood to be \"near points;\" in particular:",
+      "( algebra , of a ring ) Having a unique maximal (left) ideal.",
+      "( medicine ) Of or pertaining to a restricted part of an organism .",
+      "Descended from an indigenous population."
+    ]
+  }
+]

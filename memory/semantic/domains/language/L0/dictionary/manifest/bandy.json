@@ -1,0 +1,38 @@
+{
+  "word": "bandy",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bandy.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bandy.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bandy.json"
+  },
+  "timestamp": "2025-08-18T21:47:22.825747Z"
+}

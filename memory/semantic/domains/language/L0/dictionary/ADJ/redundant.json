@@ -1,0 +1,90 @@
+[
+  {
+    "word": "redundant",
+    "lemma": "redundant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈdʌn.dənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more redundant",
+          "SUP": "most redundant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Superfluous ; exceeding what is necessary , no longer needed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Repetitive or needlessly wordy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of words",
+          "writing",
+          "etc"
+        ],
+        "label_groups": "of words, writing, etc"
+      },
+      {
+        "definition": "Dismissed from employment because no longer needed .",
+        "examples": [
+          "Four employees were made redundant ."
+        ],
+        "synonyms": [
+          "surplus to requirements"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly British",
+          "Ireland",
+          "New Zealand",
+          "Australia"
+        ],
+        "label_groups": "chiefly British , Ireland , New Zealand , Australia"
+      },
+      {
+        "definition": "Duplicating or able to duplicate the function of another component of a system , providing backup in the event the other component fails.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Containing duplicate pathways to send a message.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking",
+          "of topology"
+        ],
+        "label_groups": "networking , of topology"
+      }
+    ],
+    "main_definition": "Superfluous ; exceeding what is necessary , no longer needed .",
+    "secondary_definitions": [
+      "( of words, writing, etc ) Repetitive or needlessly wordy .",
+      "( chiefly British , Ireland , New Zealand , Australia ) Dismissed from employment because no longer needed .",
+      "Duplicating or able to duplicate the function of another component of a system , providing backup in the event the other component fails.",
+      "( networking , of topology ) Containing duplicate pathways to send a message."
+    ]
+  }
+]

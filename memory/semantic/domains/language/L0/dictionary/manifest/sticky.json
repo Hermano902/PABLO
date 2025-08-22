@@ -1,0 +1,37 @@
+{
+  "word": "sticky",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 11,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\sticky.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\sticky.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\sticky.json"
+  },
+  "timestamp": "2025-08-19T18:00:05.387047Z"
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "equate",
+    "lemma": "equate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈkweɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "equates",
+          "PT": "equated",
+          "PAP": "equated",
+          "PRP": "equating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To consider equal or equivalent ( to or with ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To set as equal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To consider equal or equivalent ( to or with ).",
+    "secondary_definitions": [
+      "( transitive , mathematics ) To set as equal ."
+    ]
+  }
+]

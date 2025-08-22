@@ -1,0 +1,59 @@
+[
+  {
+    "word": "overnight",
+    "lemma": "overnight",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əʊvə(ɹ)ˈnaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overnights",
+          "PT": "overnighted",
+          "PAP": "overnighted",
+          "PRP": "overnighting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stay overnight; to spend the night.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "To send something for delivery the next day.",
+        "examples": [
+          "We can overnight you the documents for signature."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US"
+        ],
+        "label_groups": "transitive , US",
+        "dating_raw": "from 20th c."
+      }
+    ],
+    "main_definition": "( intransitive ) To stay overnight; to spend the night. [from 19th c.]",
+    "secondary_definitions": [
+      "( transitive , US ) To send something for delivery the next day. [from 20th c.]"
+    ]
+  }
+]

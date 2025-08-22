@@ -1,0 +1,32 @@
+{
+  "word": "hawk",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 2,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\hawk.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\hawk.json"
+  },
+  "timestamp": "2025-08-19T05:08:13.897042Z"
+}

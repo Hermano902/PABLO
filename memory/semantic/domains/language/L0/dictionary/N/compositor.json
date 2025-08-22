@@ -1,0 +1,56 @@
+[
+  {
+    "word": "compositor",
+    "lemma": "compositor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpɒzɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "compositors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who sets type ; a typesetter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who, or that which, composes or sets in order.",
+        "examples": [
+          "I work as an image compositor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A system that puts images together in a buffer (such as individual windows on a desktop ) to generate a final display image.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      }
+    ],
+    "main_definition": "A person who sets type ; a typesetter .",
+    "secondary_definitions": [
+      "One who, or that which, composes or sets in order.",
+      "( computer graphics ) A system that puts images together in a buffer (such as individual windows on a desktop ) to generate a final display image."
+    ]
+  }
+]

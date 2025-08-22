@@ -1,0 +1,38 @@
+{
+  "word": "orient",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 4,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 1,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 4,
+      "synonyms": 3,
+      "antonyms": 2,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\orient.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\orient.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\orient.json"
+  },
+  "timestamp": "2025-08-19T10:45:18.780733Z"
+}

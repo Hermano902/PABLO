@@ -1,0 +1,65 @@
+[
+  {
+    "word": "noun",
+    "lemma": "noun",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/naʊn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "nouns"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word that functions as the name of a specific object or set of objects, such as person , animal , place , word , thing , phenomenon , substance , quality , or idea : one of the basic parts of speech in many languages, including English .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "strictly"
+        ],
+        "label_groups": "grammar , strictly"
+      },
+      {
+        "definition": "Either a word that can be used to refer to a person , animal , place , thing , phenomenon , substance , quality or idea , or a word that modifies or describes a previous word or its referent; a substantive or adjective , sometimes also including other parts of speech such as numeral or pronoun .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "now rare",
+          "loosely"
+        ],
+        "label_groups": "grammar , now rare , loosely"
+      },
+      {
+        "definition": "An object within a user interface to which a certain action or transformation (i.e., verb ) is applied.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( grammar , strictly ) A word that functions as the name of a specific object or set of objects, such as person , animal , place , word , thing , phenomenon , substance , quality , or idea : one of the basic parts of speech in many languages, including English .",
+    "secondary_definitions": [
+      "( grammar , now rare , loosely ) Either a word that can be used to refer to a person , animal , place , thing , phenomenon , substance , quality or idea , or a word that modifies or describes a previous word or its referent; a substantive or adjective , sometimes also including other parts of speech such as numeral or pronoun .",
+      "( computing ) An object within a user interface to which a certain action or transformation (i.e., verb ) is applied."
+    ]
+  }
+]

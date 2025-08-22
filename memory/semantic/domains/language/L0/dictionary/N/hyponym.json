@@ -1,0 +1,43 @@
+[
+  {
+    "word": "hyponym",
+    "lemma": "hyponym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhaɪpəʊ.nɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hyponyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A more specific term ; a subordinate grouping word or phrase; a term designating a subclass of another more general class described by the given word.",
+        "examples": [
+          "The words “dog”, “cat”, and “horse” are hyponyms of “animal” because dogs, cats, and horses are types of animal."
+        ],
+        "synonyms": [
+          "subordinate"
+        ],
+        "antonyms": [
+          "hypernym",
+          "hyperonym",
+          "superordinate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      }
+    ],
+    "main_definition": "( semantics ) A more specific term ; a subordinate grouping word or phrase; a term designating a subclass of another more general class described by the given word.",
+    "secondary_definitions": []
+  }
+]

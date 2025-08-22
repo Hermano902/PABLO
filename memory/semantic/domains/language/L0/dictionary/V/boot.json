@@ -1,0 +1,203 @@
+[
+  {
+    "word": "boot",
+    "lemma": "boot",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/buːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boots",
+          "PT": "booted",
+          "PAP": "booted",
+          "PRP": "booting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To kick .",
+        "examples": [
+          "I booted the ball toward my teammate.",
+          "You nearly booted me in the face!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To put boots on, especially for riding.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial , Canada , US , usually with it ) To step on the accelerator of a vehicle for faster acceleration than usual or to drive faster than usual.",
+        "examples": [
+          "The storm is coming fast! Boot it!",
+          "We had to boot it all the way there to get to our flight on time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( informal ) To eject ; kick out .",
+        "examples": [
+          "We need to boot those troublemakers as soon as possible.",
+          "The senator was booted from the committee for unethical behavior."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing , informal ) To disconnect forcibly; to eject from an online service , conversation, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( slang ) To vomit .",
+        "examples": [
+          "Sorry, I didn’t mean to boot all over your couch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( MLE , criminal slang ) To shoot , to kill by gunfire .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To kick .",
+    "secondary_definitions": [
+      "To put boots on, especially for riding.",
+      "( colloquial , Canada , US , usually with it ) To step on the accelerator of a vehicle for faster acceleration than usual or to drive faster than usual.",
+      "( informal ) To eject ; kick out .",
+      "( computing , informal ) To disconnect forcibly; to eject from an online service , conversation, etc.",
+      "( slang ) To vomit .",
+      "( MLE , criminal slang ) To shoot , to kill by gunfire ."
+    ]
+  },
+  {
+    "word": "boot",
+    "lemma": "boot",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/buːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boots",
+          "PT": "booted",
+          "PAP": "booted",
+          "PRP": "booting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive or intransitive , impersonal ) To be beneficial , to help .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , impersonal ) To matter ; to be relevant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , rare ) To enrich .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive or intransitive , impersonal ) To be beneficial , to help .",
+    "secondary_definitions": [
+      "( intransitive , impersonal ) To matter ; to be relevant .",
+      "( transitive , rare ) To enrich ."
+    ]
+  },
+  {
+    "word": "boot",
+    "lemma": "boot",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 3,
+    "pronunciation": "/buːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boots",
+          "PT": "booted",
+          "PAP": "booted",
+          "PRP": "booting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bootstrap ; to start a system, e.g. a computer, by invoking its boot process or bootstrap .",
+        "examples": [
+          "When arriving at the office, the first thing I do is boot my machine."
+        ],
+        "synonyms": [
+          "bootstrap",
+          "boot up",
+          "start"
+        ],
+        "antonyms": [
+          "shut down",
+          "stop",
+          "turn off"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) To bootstrap ; to start a system, e.g. a computer, by invoking its boot process or bootstrap .",
+    "secondary_definitions": []
+  }
+]

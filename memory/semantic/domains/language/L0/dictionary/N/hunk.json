@@ -1,0 +1,98 @@
+[
+  {
+    "word": "hunk",
+    "lemma": "hunk",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/hʌŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hunks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large or dense piece of something.",
+        "examples": [
+          "a hunk of metal"
+        ],
+        "synonyms": [
+          "chunk",
+          "lump"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( informal ) An attractive man, especially one who is muscular .",
+        "examples": [],
+        "synonyms": [
+          "beefcake",
+          "stud"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) A record of differences between almost contiguous portions of two files (or other sources of information). Differences that are widely separated by areas which are identical in both files would not be part of a single hunk. Differences that are separated by small regions which are identical in both files may comprise a single hunk. Patches are made up of hunks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( US , slang ) A honyock . (clarification of this definition is needed)",
+        "examples": [],
+        "synonyms": [
+          "hick",
+          "yokel"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A large or dense piece of something.",
+    "secondary_definitions": [
+      "( informal ) An attractive man, especially one who is muscular .",
+      "( computing ) A record of differences between almost contiguous portions of two files (or other sources of information). Differences that are widely separated by areas which are identical in both files would not be part of a single hunk. Differences that are separated by small regions which are identical in both files may comprise a single hunk. Patches are made up of hunks.",
+      "( US , slang ) A honyock . (clarification of this definition is needed)"
+    ]
+  },
+  {
+    "word": "hunk",
+    "lemma": "hunk",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/hʌŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A goal or base in children's games.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      }
+    ],
+    "main_definition": "( US ) A goal or base in children's games.",
+    "secondary_definitions": []
+  }
+]

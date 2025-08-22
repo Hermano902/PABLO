@@ -1,0 +1,38 @@
+{
+  "word": "invalid",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "ADJ:2",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\invalid.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\invalid.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\invalid.json"
+  },
+  "timestamp": "2025-08-19T06:23:10.893494Z"
+}

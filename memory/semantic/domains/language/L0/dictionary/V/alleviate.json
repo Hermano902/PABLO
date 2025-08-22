@@ -1,0 +1,69 @@
+[
+  {
+    "word": "alleviate",
+    "lemma": "alleviate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈli.vi.eɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "alleviates",
+          "PT": "alleviated",
+          "PAP": "alleviated",
+          "PRP": "alleviating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce or lessen the severity of a pain or difficulty .",
+        "examples": [
+          "Alcohol is often a cheap tool to alleviate the stress of a hard day."
+        ],
+        "synonyms": [
+          "address",
+          "allay",
+          "ameliorate",
+          "assuage",
+          "ease",
+          "mitigate",
+          "quell",
+          "relieve"
+        ],
+        "antonyms": [
+          "aggravate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": ", ( finance ) to pay down partially.",
+        "examples": [
+          "There are different ways to alleviate your financial debt."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To reduce or lessen the severity of a pain or difficulty .",
+    "secondary_definitions": [
+      "( transitive ) , ( finance ) to pay down partially."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "minify",
+    "lemma": "minify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "minifies",
+          "PT": "minified",
+          "PAP": "minified",
+          "PRP": "minifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make smaller .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reduce in apparent size, as for example objects viewed through a lens or mirror shaped so as to increase the field of view, such as a convex or aspheric mirror or a Fresnel lens .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To remove white space and unnecessary characters from source code in order to reduce its size.",
+        "examples": [],
+        "synonyms": [
+          "uglify"
+        ],
+        "antonyms": [
+          "pretty-print",
+          "beautify",
+          "prettify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "To make smaller .",
+    "secondary_definitions": [
+      "To reduce in apparent size, as for example objects viewed through a lens or mirror shaped so as to increase the field of view, such as a convex or aspheric mirror or a Fresnel lens .",
+      "( programming ) To remove white space and unnecessary characters from source code in order to reduce its size."
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "word": "loan",
+    "lemma": "loan",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ləʊn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "loans"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( law , banking , finance ) An act or instance of lending , an act or instance of granting something for temporary use.",
+        "examples": [
+          "Because of the loan that John made to me, I was able to pay my tuition for the upcoming semester."
+        ],
+        "synonyms": [
+          "loaning",
+          "lending"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( law , banking , finance ) A sum of money or other property that a natural or legal person borrows from another with the condition that it be returned or repaid over time or at a later date (sometimes with interest ).",
+        "examples": [
+          "All loans from the library, whether books or audio material, must be returned within two weeks.",
+          "He got a loan of five thousand pounds."
+        ],
+        "synonyms": [
+          "principal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The contract and array of legal or ethical obligations surrounding a loan.",
+        "examples": [
+          "He made a payment on his loan ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The permission to borrow any item.",
+        "examples": [
+          "Thank you for the loan of your lawn mower."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( law , banking , finance ) An act or instance of lending , an act or instance of granting something for temporary use.",
+    "secondary_definitions": [
+      "( law , banking , finance ) A sum of money or other property that a natural or legal person borrows from another with the condition that it be returned or repaid over time or at a later date (sometimes with interest ).",
+      "The contract and array of legal or ethical obligations surrounding a loan.",
+      "The permission to borrow any item."
+    ]
+  },
+  {
+    "word": "loan",
+    "lemma": "loan",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ləʊn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "loans"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An area of uncultivated ground near a village or farmhouse.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Scotland",
+          "Northern England"
+        ],
+        "label_groups": "Scotland , Northern England"
+      }
+    ],
+    "main_definition": "( Scotland , Northern England ) An area of uncultivated ground near a village or farmhouse.",
+    "secondary_definitions": []
+  }
+]

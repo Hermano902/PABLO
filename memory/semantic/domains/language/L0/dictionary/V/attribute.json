@@ -1,0 +1,59 @@
+[
+  {
+    "word": "attribute",
+    "lemma": "attribute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæt.ɹɪ.bjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "attributes",
+          "PT": "attributed",
+          "PAP": "attributed",
+          "PRP": "attributing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ascribe (something) to a given cause, reason etc.; to affix .",
+        "examples": [],
+        "synonyms": [
+          "lay",
+          "impute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To associate ownership or authorship of (something) to someone.",
+        "examples": [
+          "This poem is attributed to Browning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To ascribe (something) to a given cause, reason etc.; to affix .",
+    "secondary_definitions": [
+      "( transitive ) To associate ownership or authorship of (something) to someone."
+    ]
+  }
+]

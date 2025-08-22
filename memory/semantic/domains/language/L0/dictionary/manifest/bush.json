@@ -1,0 +1,51 @@
+{
+  "word": "bush",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "ADV",
+    "ADJ",
+    "N:4",
+    "N:5",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bush.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bush.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\bush.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bush.json"
+  },
+  "timestamp": "2025-08-18T22:53:01.260900Z"
+}

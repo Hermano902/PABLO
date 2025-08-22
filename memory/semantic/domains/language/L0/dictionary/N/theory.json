@@ -1,0 +1,134 @@
+[
+  {
+    "word": "theory",
+    "lemma": "theory",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈθɪə.ɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "theories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A description of an event or system that is considered to be accurate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A coherent statement or set of ideas that explains observed facts or phenomena and correctly predicts new facts or phenomena not previously observed, or which sets out the laws and principles of something known or observed; a hypothesis confirmed by observation, experiment etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "The underlying principles or methods of a given technical skill, art etc., as opposed to its practice .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A field of study attempting to exhaustively describe a particular class of constructs .",
+        "examples": [
+          "Knot theory classifies the mappings of a circle into 3-space."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "A set of axioms together with all statements derivable from them; or , a set of statements which are deductively closed . Equivalently, a formal language plus a set of axioms (from which can then be derived theorems ). The statements may be required to all be bound ( i.e. , to have no free variables ).",
+        "examples": [
+          "A theory is consistent if it has a model."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "logic"
+        ],
+        "label_groups": "countable , logic"
+      },
+      {
+        "definition": "The standardization and study of fixed sequences of moves, especially in the opening phase of a game.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess",
+          "similar games"
+        ],
+        "label_groups": "chess and similar games"
+      },
+      {
+        "definition": "Mental conception ; reflection , consideration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "16th–18th c."
+      },
+      {
+        "definition": "A hypothesis or conjecture .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal",
+        "dating_raw": "from 18th c."
+      }
+    ],
+    "main_definition": "A description of an event or system that is considered to be accurate.",
+    "secondary_definitions": [
+      "( sciences ) A coherent statement or set of ideas that explains observed facts or phenomena and correctly predicts new facts or phenomena not previously observed, or which sets out the laws and principles of something known or observed; a hypothesis confirmed by observation, experiment etc. [from 17th c.]",
+      "( uncountable ) The underlying principles or methods of a given technical skill, art etc., as opposed to its practice . [from 17th c.]",
+      "( mathematics ) A field of study attempting to exhaustively describe a particular class of constructs . [from 18th c.]",
+      "( countable , logic ) A set of axioms together with all statements derivable from them; or , a set of statements which are deductively closed . Equivalently, a formal language plus a set of axioms (from which can then be derived theorems ). The statements may be required to all be bound ( i.e. , to have no free variables ).",
+      "( chess and similar games ) The standardization and study of fixed sequences of moves, especially in the opening phase of a game.",
+      "( obsolete ) Mental conception ; reflection , consideration . [16th–18th c.]",
+      "(informal) A hypothesis or conjecture . [from 18th c.]"
+    ]
+  }
+]

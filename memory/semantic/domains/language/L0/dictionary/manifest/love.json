@@ -1,0 +1,30 @@
+{
+  "word": "love",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 18,
+      "examples": 7,
+      "synonyms": 16,
+      "antonyms": 4,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\love.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\love.json"
+  },
+  "timestamp": "2025-08-19T08:07:45.563176Z"
+}

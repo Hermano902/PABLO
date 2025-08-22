@@ -1,0 +1,29 @@
+{
+  "word": "diff",
+  "lemma": "diff",
+  "pos": "N",
+  "variants": [
+    {
+      "etymology": null,
+      "pos_index": 2,
+      "forms": {
+        "N.TYPE": "PROPER"
+      },
+      "pronunciation": "/dɪf/",
+      "definitions": [
+        {
+          "definition": "A program, historically part of the Unix operating system , which compares two files or sets of files and outputs a description of the differences between them.",
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subdefinitions": [],
+          "senses": [],
+          "labels": [
+            "computing"
+          ],
+          "label_groups": "computing"
+        }
+      ]
+    }
+  ]
+}

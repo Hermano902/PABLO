@@ -1,0 +1,122 @@
+[
+  {
+    "word": "rice",
+    "lemma": "rice",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹaɪs/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rices"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable ) Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable ) A specific variety of this plant.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( uncountable ) The seeds of this plant used as food.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( uncountable , slang , ethnic slur , humorous ) The types of automobile modifications characteristic of a rice burner .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing , slang ) An instance of customization of a user interface.",
+        "examples": [
+          "This is my first rice !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
+    "secondary_definitions": [
+      "( countable ) A specific variety of this plant.",
+      "( uncountable ) The seeds of this plant used as food.",
+      "( uncountable , slang , ethnic slur , humorous ) The types of automobile modifications characteristic of a rice burner .",
+      "( computing , slang ) An instance of customization of a user interface."
+    ]
+  },
+  {
+    "word": "rice",
+    "lemma": "rice",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ɹaɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A twig or stick .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now chiefly",
+          "dialectal",
+          "Scotland",
+          "Ireland"
+        ],
+        "label_groups": "now chiefly , dialectal , Scotland , Ireland"
+      },
+      {
+        "definition": "A bobbin or spool .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "weaving",
+          "obsolete"
+        ],
+        "label_groups": "weaving , obsolete"
+      }
+    ],
+    "main_definition": "( now chiefly , dialectal , Scotland , Ireland ) A twig or stick .",
+    "secondary_definitions": [
+      "( weaving , obsolete ) A bobbin or spool ."
+    ]
+  }
+]

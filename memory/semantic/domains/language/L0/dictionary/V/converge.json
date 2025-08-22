@@ -1,0 +1,83 @@
+[
+  {
+    "word": "converge",
+    "lemma": "converge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈvɜːd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "converges",
+          "PT": "converged",
+          "PAP": "converged",
+          "PRP": "converging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To approach each other; to get closer and closer.",
+        "examples": [
+          "ideas converge"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "said of two or more entities"
+        ],
+        "label_groups": [
+          "intransitive",
+          "said of two or more entities"
+        ]
+      },
+      {
+        "definition": "To have a ( finite , proper ) limit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "mathematics",
+          "said of a sequence or series"
+        ],
+        "label_groups": [
+          "intransitive , mathematics",
+          "said of a sequence or series"
+        ]
+      },
+      {
+        "definition": "To reach a stable end point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "said of an iterative process"
+        ],
+        "label_groups": [
+          "intransitive , computing",
+          "said of an iterative process"
+        ]
+      }
+    ],
+    "main_definition": "( intransitive ) ( said of two or more entities ) To approach each other; to get closer and closer.",
+    "secondary_definitions": [
+      "( intransitive , mathematics ) ( said of a sequence or series ) To have a ( finite , proper ) limit .",
+      "( intransitive , computing ) ( said of an iterative process ) To reach a stable end point."
+    ]
+  }
+]

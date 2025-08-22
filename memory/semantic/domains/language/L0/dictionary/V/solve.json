@@ -1,0 +1,101 @@
+[
+  {
+    "word": "solve",
+    "lemma": "solve",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɑlv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "solves",
+          "PT": "solved",
+          "PAP": "solved",
+          "PRP": "solving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To find an answer or solution to a problem or question; to work out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "to find out the perpetrator, the motive etc ( of crime )",
+        "examples": [
+          "to solve a murder to solve a crime"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To find the values of variables that satisfy a system of equations and/or inequalities .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "To algebraically manipulate an equation or inequality into a form that isolates a chosen variable on one side, so that the other side consists of an expression that may be used to generate solutions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "To loosen or separate the parts of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To dissolve",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry",
+              "archaic"
+            ],
+            "label_groups": "chemistry , archaic"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "To find an answer or solution to a problem or question; to work out .",
+    "secondary_definitions": [
+      "to find out the perpetrator, the motive etc ( of crime )",
+      "( mathematics ) To find the values of variables that satisfy a system of equations and/or inequalities .",
+      "( mathematics ) To algebraically manipulate an equation or inequality into a form that isolates a chosen variable on one side, so that the other side consists of an expression that may be used to generate solutions .",
+      "( transitive ) To loosen or separate the parts of."
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "word": "thrash",
+    "lemma": "thrash",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/θɹæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "thrashes",
+          "PT": "thrashed",
+          "PAP": "thrashed",
+          "PRP": "thrashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To beat mercilessly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To defeat utterly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To thresh .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To move about wildly or violently; to flail ; to labour .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To extensively test a software system , giving a program various inputs and observing the behavior and outputs that result.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software"
+        ],
+        "label_groups": "software"
+      },
+      {
+        "definition": "In computer architecture , to cause or undergo poor performance of a virtual memory (or paging ) system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "To beat mercilessly.",
+    "secondary_definitions": [
+      "To defeat utterly.",
+      "To thresh .",
+      "To move about wildly or violently; to flail ; to labour .",
+      "( software ) To extensively test a software system , giving a program various inputs and observing the behavior and outputs that result.",
+      "( computing ) In computer architecture , to cause or undergo poor performance of a virtual memory (or paging ) system."
+    ]
+  }
+]

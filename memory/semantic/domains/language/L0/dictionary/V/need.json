@@ -1,0 +1,105 @@
+[
+  {
+    "word": "need",
+    "lemma": "need",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/niːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "needs",
+          "PT": "needed",
+          "PAP": "needed",
+          "PRP": "needing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To have an absolute requirement for.",
+        "examples": [
+          "Living things need water to survive.",
+          "You do not always need to go to the library to study. You may use the Internet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To want strongly; to feel that one must have something.",
+        "examples": [
+          "After ten days of hiking, I needed a shower and a shave."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be obliged or required (to do something).",
+        "examples": [
+          "I need not go if I don't want to, need I?",
+          "I was wondering if I need fill in more forms. - No, that's the only one you need fill out.",
+          "I need never have packed my set of sunglasses - it rained all day every day."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "modal",
+          "chiefly in the negative",
+          "interrogative"
+        ],
+        "label_groups": "modal , chiefly in the negative and interrogative"
+      },
+      {
+        "definition": "To be required; to be necessary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be necessary (to someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To have an absolute requirement for.",
+    "secondary_definitions": [
+      "( transitive ) To want strongly; to feel that one must have something.",
+      "( modal , chiefly in the negative and interrogative ) To be obliged or required (to do something).",
+      "( intransitive ) To be required; to be necessary.",
+      "( obsolete , transitive ) To be necessary (to someone)."
+    ]
+  }
+]

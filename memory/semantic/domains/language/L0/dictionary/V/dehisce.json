@@ -1,0 +1,60 @@
+[
+  {
+    "word": "dehisce",
+    "lemma": "dehisce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈhɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dehisces",
+          "PT": "dehisced",
+          "PAP": "dehisced",
+          "PRP": "dehiscing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To burst or split open at definite places, discharging seeds , pollen or similar content.",
+        "examples": [
+          "Anthers dehisce when the flower opens."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "botany"
+        ],
+        "label_groups": "intransitive , botany"
+      },
+      {
+        "definition": "To rupture or break open, as a surgical wound .",
+        "examples": [
+          "A surgical wound may partially or completely dehisce after surgery, depending upon whether some or all of the layers of tissue come open."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "medicine"
+        ],
+        "label_groups": "intransitive , medicine"
+      }
+    ],
+    "main_definition": "( intransitive , botany ) To burst or split open at definite places, discharging seeds , pollen or similar content.",
+    "secondary_definitions": [
+      "( intransitive , medicine ) To rupture or break open, as a surgical wound ."
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "word": "gold",
+    "lemma": "gold",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɡəʊld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "golder",
+          "SUP": "goldest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Made of gold.",
+        "examples": [
+          "a gold chain"
+        ],
+        "synonyms": [
+          "golden"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having the colour of gold.",
+        "examples": [
+          "gold sticker",
+          "gold socks"
+        ],
+        "synonyms": [
+          "golden"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( of commercial services ) Premium , superior .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a musical recording: having sold 500,000 copies.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( academia ) Subject to or involving a model of open access in which a published article is immediately available for to read for free with no embargo period.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Made of gold.",
+    "secondary_definitions": [
+      "Having the colour of gold.",
+      "( of commercial services ) Premium , superior .",
+      "Of a musical recording: having sold 500,000 copies.",
+      "( academia ) Subject to or involving a model of open access in which a published article is immediately available for to read for free with no embargo period."
+    ]
+  },
+  {
+    "word": "gold",
+    "lemma": "gold",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ɡəʊld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a finished state, ready for manufacturing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of software"
+        ],
+        "label_groups": "programming , of software"
+      }
+    ],
+    "main_definition": "( programming , of software ) In a finished state, ready for manufacturing.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "word": "block",
+    "lemma": "block",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/blɒk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "blocks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A substantial, often approximately cuboid , piece of any substance.",
+        "examples": [
+          "a block of ice; a block of stone",
+          "She picked up the block and examined it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A chopping block: a cuboid base for cutting or beheading.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A wig block : a simplified head model upon which wigs are worn.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A mould on which hats, bonnets, etc., are shaped.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( printing , dated ) A piece of hard wood on which a stereotype or electrotype plate is mounted.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A case or frame housing one or more sheaves ( pulleys ), used with ropes to increase or redirect force, for example as part of lifting gear or a sailing ship's rigging . See also block and tackle .",
+            "examples": [],
+            "synonyms": [
+              "pulley block"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A section of split logs used as fuel .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A set of sheets (of paper) joined together at one end, forming a cuboid shape.",
+            "examples": [
+              "a block of 100 tickets"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( falconry ) The perch on which a bird of prey is kept.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( cellular automata ) In Conway's Game of Life , a still life consisting of four living cells arranged in a two-by-two square.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A physical area or extent of something, often rectangular or approximately rectangular.",
+        "examples": [
+          "a block of text; a block of colour; a block of land"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( philately ) A joined group of four (or in some cases nine) postage stamps , forming a roughly square shape.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( viticulture ) A discrete group of vines in a vineyard, often distinguished from others by variety, clone, canopy training method, irrigation infrastructure, or some combination thereof.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A logical extent or region; a grouping or apportionment of like things treated together as a unit.",
+        "examples": [
+          "a block of data; a block of seven days; a block reservation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( computing ) A logical data storage unit containing one or more physical sectors .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( programming ) A region of code in a program that acts as a single unit, such as a function or loop .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( cryptography ) A fixed-length group of bits making up part of a message .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( chemistry ) A portion of a macromolecule , comprising many units , that has at least one feature not present in adjacent portions.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( rail transport ) A section of a railroad where the block system is used.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( computing ) A contiguous range of Unicode code points used to encode characters of a specific type; can be of any size evenly divisible by 16, up to 65,536 (a full plane ).",
+            "examples": [
+              "The \"Specials\" block comprises the sixteen codepoints from U+FFF0 through U+FFFF."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( education ) A yeargroup at Eton College .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A contiguous group of urban lots of property, typically several acres in extent, not crossed by public streets.",
+        "examples": [
+          "I’m going for a walk around the block ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The distance from one street to another in a city or suburb that is built (approximately) to a grid pattern.",
+            "examples": [
+              "The place you are looking for is two long blocks east and one short block north."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A cuboid or approximately cuboid building.",
+        "examples": [
+          "a block of flats; a tower block ; an office block ; a toilet block ; a shower block"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A cellblock .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Something that prevents something from passing .",
+        "examples": [
+          "There’s a block in the pipe that means the water can’t get through."
+        ],
+        "synonyms": [
+          "barrier",
+          "blockage",
+          "obstruction"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Interference or obstruction of cognitive processes.",
+            "examples": [
+              "a mental block",
+              "writer’s block"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( backgammon ) Any point on the board where two or more men rest, and consequently an opponent may not land.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( sports ) An action to interfere with the movement of an opposing player or of the object of play (ball, puck). ( cricket ) A shot played by holding the bat vertically in the path of the ball , so that it loses momentum and drops to the ground . ( cricket ) The position of a player or bat when guarding the wicket . ( cricket ) A blockhole . ( cricket ) The popping crease . ( volleyball ) A defensive play by one or more players meant to deflect a spiked ball back to the hitter ’s court.",
+            "examples": [],
+            "synonyms": [
+              "stuff",
+              "roof",
+              "wall"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A temporary or permanent ban that prevents access to an online account or service, or connection to or from a designated telephone number, IP address, or similar.",
+            "examples": [
+              "The Wiktionary page-blanking vandal was hit with an indefinite block .",
+              "I’ve put a block on calls from that number."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( slang ) The human head .",
+        "examples": [
+          "I’ll knock your block off!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( UK ) Solitary confinement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( obsolete ) A blockhead ; a stupid person; a dolt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A substantial, often approximately cuboid , piece of any substance.",
+    "secondary_definitions": [
+      "A physical area or extent of something, often rectangular or approximately rectangular.",
+      "A logical extent or region; a grouping or apportionment of like things treated together as a unit.",
+      "A contiguous group of urban lots of property, typically several acres in extent, not crossed by public streets.",
+      "A cuboid or approximately cuboid building.",
+      "Something that prevents something from passing .",
+      "( slang ) The human head .",
+      "( UK ) Solitary confinement .",
+      "( obsolete ) A blockhead ; a stupid person; a dolt ."
+    ]
+  },
+  {
+    "word": "block",
+    "lemma": "block",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/blɒk/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Misspelling of bloc .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Misspelling of bloc .",
+    "secondary_definitions": []
+  }
+]

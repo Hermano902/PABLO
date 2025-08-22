@@ -1,0 +1,74 @@
+[
+  {
+    "word": "noisy",
+    "lemma": "noisy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɔɪzi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "noisier",
+          "SUP": "noisiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Making a noise , especially a loud unpleasant sound",
+        "examples": [
+          "the noisy crowd."
+        ],
+        "synonyms": [
+          "clamorous",
+          "vociferous",
+          "turbulent",
+          "boisterous"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Full of noise.",
+        "examples": [
+          "a noisy bar"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unpleasant-looking and causing unwanted attention",
+        "examples": [
+          "noisy clothes"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Accompanied by or introducing random fluctuations that obscure the real signal or data",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "technical"
+        ],
+        "label_groups": "technical"
+      }
+    ],
+    "main_definition": "Making a noise , especially a loud unpleasant sound",
+    "secondary_definitions": [
+      "Full of noise.",
+      "Unpleasant-looking and causing unwanted attention",
+      "( technical ) Accompanied by or introducing random fluctuations that obscure the real signal or data"
+    ]
+  }
+]

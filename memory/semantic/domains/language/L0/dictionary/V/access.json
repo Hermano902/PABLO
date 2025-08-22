@@ -1,0 +1,57 @@
+[
+  {
+    "word": "access",
+    "lemma": "access",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæksɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "accesses",
+          "PT": "accessed",
+          "PAP": "accessed",
+          "PRP": "accessing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To gain or obtain access to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have access to ( data ).",
+        "examples": [
+          "I can't access most of the data on the computer without a password."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To gain or obtain access to.",
+    "secondary_definitions": [
+      "( transitive , computing ) To have access to ( data )."
+    ]
+  }
+]

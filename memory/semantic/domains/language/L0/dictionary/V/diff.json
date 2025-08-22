@@ -1,0 +1,70 @@
+[
+  {
+    "word": "diff",
+    "lemma": "diff",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪf/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "diffs",
+          "PT": "diffed",
+          "PAP": "diffed",
+          "PRP": "diffing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To run a diff program on (files or items) so as to produce a description of the differences between them, as for a patch file .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To compare two files or other objects, manually or otherwise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To win a fight against another, with a defined level of difficulty . Usually used when power scaling fictional characters.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "fandom slang"
+        ],
+        "label_groups": "transitive , fandom slang"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To run a diff program on (files or items) so as to produce a description of the differences between them, as for a patch file .",
+    "secondary_definitions": [
+      "( transitive , computing ) To compare two files or other objects, manually or otherwise.",
+      "( transitive , fandom slang ) To win a fight against another, with a defined level of difficulty . Usually used when power scaling fictional characters."
+    ]
+  }
+]

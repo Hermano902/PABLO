@@ -1,0 +1,73 @@
+[
+  {
+    "word": "quantum",
+    "lemma": "quantum",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɒntəm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a change, sudden or discrete , without intermediate stages.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a change, significant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Involving quanta , quantum mechanics or other aspects of quantum physics .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "classical"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Relating to a quantum computer .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing theory"
+            ],
+            "label_groups": "computing theory"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "Of a change, sudden or discrete , without intermediate stages.",
+    "secondary_definitions": [
+      "( informal ) Of a change, significant .",
+      "( physics ) Involving quanta , quantum mechanics or other aspects of quantum physics ."
+    ]
+  }
+]

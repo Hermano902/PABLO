@@ -1,0 +1,43 @@
+[
+  {
+    "word": "encipher",
+    "lemma": "encipher",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "enciphers",
+          "PT": "enciphered",
+          "PAP": "enciphered",
+          "PRP": "enciphering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert plain text into cipher .",
+        "examples": [],
+        "synonyms": [
+          "encode",
+          "encrypt"
+        ],
+        "antonyms": [
+          "decode",
+          "decipher",
+          "decrypt"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To convert plain text into cipher .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "quantization",
+    "lemma": "quantization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quantizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of approximating a continuous signal by a set of discrete symbols or integer values",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "signal processing"
+        ],
+        "label_groups": "uncountable , signal processing"
+      },
+      {
+        "definition": "A procedure for constructing a quantum field theory starting from a classical field theory ; to represent by quanta",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "physics"
+        ],
+        "label_groups": "countable , physics"
+      }
+    ],
+    "main_definition": "( uncountable , signal processing ) The process of approximating a continuous signal by a set of discrete symbols or integer values",
+    "secondary_definitions": [
+      "( countable , physics ) A procedure for constructing a quantum field theory starting from a classical field theory ; to represent by quanta"
+    ]
+  }
+]

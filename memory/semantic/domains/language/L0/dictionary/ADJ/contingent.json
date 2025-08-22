@@ -1,0 +1,79 @@
+[
+  {
+    "word": "contingent",
+    "lemma": "contingent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɪn.d͡ʒənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more contingent",
+          "SUP": "most contingent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Possible or liable , but not certain , to occur .",
+        "examples": [],
+        "synonyms": [
+          "incidental",
+          "casual"
+        ],
+        "antonyms": [
+          "certain",
+          "inevitable",
+          "necessary",
+          "impossible"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Dependent on something that is undetermined or unknown , that may or may not occur.",
+        "examples": [
+          "The success of his undertaking is contingent upon events which he cannot control.",
+          "a contingent estate"
+        ],
+        "synonyms": [
+          "conditional"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "with upon or on"
+        ],
+        "label_groups": "with upon or on"
+      },
+      {
+        "definition": "Not logically necessarily true or false.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Temporary .",
+        "examples": [
+          "contingent labor",
+          "contingent worker"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Possible or liable , but not certain , to occur .",
+    "secondary_definitions": [
+      "( with upon or on ) Dependent on something that is undetermined or unknown , that may or may not occur.",
+      "Not logically necessarily true or false.",
+      "Temporary ."
+    ]
+  }
+]

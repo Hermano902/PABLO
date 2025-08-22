@@ -1,0 +1,148 @@
+[
+  {
+    "word": "second",
+    "lemma": "second",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛkənd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "seconds",
+          "PT": "seconded",
+          "PAP": "seconded",
+          "PRP": "seconding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( Should we move, merge or split this sense?) ( transitive ) To agree as a second person to (a proposal), usually to reach a necessary quorum of two . (See etymology 3 for translations.)",
+        "examples": [
+          "I second the motion."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To follow in the next place; to succeed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( climbing ) To climb after a lead climber.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( Should we move, merge or split this sense?) ( transitive ) To agree as a second person to (a proposal), usually to reach a necessary quorum of two . (See etymology 3 for translations.)",
+    "secondary_definitions": [
+      "To follow in the next place; to succeed .",
+      "( climbing ) To climb after a lead climber."
+    ]
+  },
+  {
+    "word": "second",
+    "lemma": "second",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈsɛkənd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "seconds",
+          "PT": "seconded",
+          "PAP": "seconded",
+          "PRP": "seconding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transfer temporarily to alternative employment.",
+        "examples": [
+          "The army officer was seconded while he held civil office."
+        ],
+        "synonyms": [
+          "detail"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "UK"
+        ],
+        "label_groups": "transitive , UK"
+      },
+      {
+        "definition": "To assist or support ; to back .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To agree as a second person to (a proposal), usually to reach a necessary quorum of two . (This may come from etymology 1 above.)",
+        "examples": [
+          "I second the motion."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Should we move",
+          "merge or split this sense?",
+          "transitive"
+        ],
+        "label_groups": [
+          "Should we move, merge or split this sense?",
+          "transitive"
+        ]
+      },
+      {
+        "definition": "To accompany by singing as the second performer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      }
+    ],
+    "main_definition": "( transitive , UK ) To transfer temporarily to alternative employment.",
+    "secondary_definitions": [
+      "( transitive ) To assist or support ; to back .",
+      "( Should we move, merge or split this sense?) ( transitive ) To agree as a second person to (a proposal), usually to reach a necessary quorum of two . (This may come from etymology 1 above.)",
+      "( transitive , music ) To accompany by singing as the second performer."
+    ]
+  }
+]

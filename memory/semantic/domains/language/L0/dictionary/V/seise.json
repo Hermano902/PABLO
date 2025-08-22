@@ -1,0 +1,70 @@
+[
+  {
+    "word": "seise",
+    "lemma": "seise",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "seises",
+          "PT": "seised",
+          "PAP": "seised",
+          "PRP": "seising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To vest ownership of an estate in land (to someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To put in possession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "with of"
+        ],
+        "label_groups": "transitive , law , with of"
+      },
+      {
+        "definition": "To seize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( transitive , law ) To vest ownership of an estate in land (to someone).",
+    "secondary_definitions": [
+      "( transitive , law , with of ) To put in possession.",
+      "( archaic ) To seize ."
+    ]
+  }
+]

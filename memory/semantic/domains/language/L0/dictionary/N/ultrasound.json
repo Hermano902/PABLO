@@ -1,0 +1,70 @@
+[
+  {
+    "word": "ultrasound",
+    "lemma": "ultrasound",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ultrasounds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Sound with a frequency greater than the upper limit of human hearing , which is approximately 20 kilohertz .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "infrasound"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Ultrasonography .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Medical ultrasonography.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "metonymic",
+          "chiefly informal"
+        ],
+        "label_groups": "metonymic , chiefly informal"
+      },
+      {
+        "definition": "Therapeutically applied ultrasonic energy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( physics ) Sound with a frequency greater than the upper limit of human hearing , which is approximately 20 kilohertz .",
+    "secondary_definitions": [
+      "( metonymic , chiefly informal ) Ultrasonography .",
+      "Therapeutically applied ultrasonic energy."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "jitter",
+    "lemma": "jitter",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɪtə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "jitters",
+          "PT": "jittered",
+          "PAP": "jittered",
+          "PRP": "jittering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be nervous .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To position data points randomly to avoid visual overlap.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "data visualization"
+        ],
+        "label_groups": "data visualization"
+      }
+    ],
+    "main_definition": "( intransitive ) To be nervous .",
+    "secondary_definitions": [
+      "( data visualization ) To position data points randomly to avoid visual overlap."
+    ]
+  }
+]

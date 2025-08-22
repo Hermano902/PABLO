@@ -1,0 +1,39 @@
+[
+  {
+    "word": "infimum",
+    "lemma": "infimum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈfaɪməm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "infima"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "the greatest element of the containing set that is smaller than or equal to all elements of the subset. The infimum may or may not be a member of the subset.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a subset"
+        ],
+        "label_groups": [
+          "mathematics",
+          "of a subset"
+        ]
+      }
+    ],
+    "main_definition": "( mathematics ) ( of a subset ) the greatest element of the containing set that is smaller than or equal to all elements of the subset. The infimum may or may not be a member of the subset.",
+    "secondary_definitions": []
+  }
+]

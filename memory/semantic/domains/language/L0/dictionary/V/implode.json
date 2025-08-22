@@ -1,0 +1,105 @@
+[
+  {
+    "word": "implode",
+    "lemma": "implode",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "implodes",
+          "PT": "imploded",
+          "PAP": "imploded",
+          "PRP": "imploding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To collapse or burst inward violently .",
+        "examples": [
+          "The submarine imploded as it sank below its crush depth."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "explode"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To suddenly lose support in all areas of a campaign simultaneously.",
+            "examples": [
+              "Ragusa's campaign imploded after she confused coal mining with oil drilling during a speech."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "politics",
+              "by extension"
+            ],
+            "label_groups": "politics , by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to collapse or burst inward violently .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "The opposite of explode , array to string conversion.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming",
+          "PHP"
+        ],
+        "label_groups": "computing , programming , PHP"
+      },
+      {
+        "definition": "To compress (data) with a particular algorithm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "explode"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( intransitive ) To collapse or burst inward violently .",
+    "secondary_definitions": [
+      "( transitive ) To cause to collapse or burst inward violently .",
+      "( computing , programming , PHP ) The opposite of explode , array to string conversion.",
+      "( transitive , computing ) To compress (data) with a particular algorithm ."
+    ]
+  }
+]

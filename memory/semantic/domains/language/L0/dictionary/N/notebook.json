@@ -1,0 +1,64 @@
+[
+  {
+    "word": "notebook",
+    "lemma": "notebook",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈnəʊtˌbʊk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "notebooks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A book in which notes or memoranda are written.",
+        "examples": [],
+        "synonyms": [
+          "notepad",
+          "by-book",
+          "rough book",
+          "writing pad"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A kind of user interface in literate programming , allowing calculations to be interspersed with human-readable comments, diagrams, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "sometimes attributive"
+        ],
+        "label_groups": "computing , sometimes attributive"
+      },
+      {
+        "definition": "Ellipsis of notebook computer ( “ laptop computer ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A book in which notes or memoranda are written.",
+    "secondary_definitions": [
+      "( computing , sometimes attributive ) A kind of user interface in literate programming , allowing calculations to be interspersed with human-readable comments, diagrams, etc.",
+      "( computing ) Ellipsis of notebook computer ( “ laptop computer ” ) ."
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "word": "base",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 40,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 12,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\base.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\base.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\base.json"
+  },
+  "timestamp": "2025-08-18T21:53:02.994650Z"
+}

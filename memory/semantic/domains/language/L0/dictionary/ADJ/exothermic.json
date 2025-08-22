@@ -1,0 +1,64 @@
+[
+  {
+    "word": "exothermic",
+    "lemma": "exothermic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more exothermic",
+          "SUP": "most exothermic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That releases energy in the form of heat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "of a reaction"
+        ],
+        "label_groups": "chemistry , of a reaction"
+      },
+      {
+        "definition": "That releases heat during its formation, and absorbs it during its decomposition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "of a compound"
+        ],
+        "label_groups": "chemistry , of a compound"
+      },
+      {
+        "definition": "Of an animal : whose body temperature is regulated by external factors; cold-blooded .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      }
+    ],
+    "main_definition": "( chemistry , of a reaction ) That releases energy in the form of heat .",
+    "secondary_definitions": [
+      "( chemistry , of a compound ) That releases heat during its formation, and absorbs it during its decomposition.",
+      "( zoology ) Of an animal : whose body temperature is regulated by external factors; cold-blooded ."
+    ]
+  }
+]

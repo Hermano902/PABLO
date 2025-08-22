@@ -1,0 +1,31 @@
+{
+  "word": "scale",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 6,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 12,
+      "examples": 8,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\scale.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\scale.json"
+  },
+  "timestamp": "2025-08-19T14:38:29.441200Z"
+}

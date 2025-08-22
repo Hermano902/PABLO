@@ -1,0 +1,163 @@
+[
+  {
+    "word": "normalize",
+    "lemma": "normalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɔː.mə.laɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "normalizes",
+          "PT": "normalized",
+          "PAP": "normalized",
+          "PRP": "normalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make normal , to bring into alignment with an established standard .",
+        "examples": [
+          "There is little hope that the two countries will normalize relations; their governments seem to hate each other and would just as soon stay on bad terms."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To consider normal , to treat as standard in the face of older norms.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To format in a standardized manner, to make consistent .",
+        "examples": [
+          "We'll need to normalize these statements before we can compare them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce the variations by excluding irrelevant aspects.",
+        "examples": [
+          "After we properly normalize the measurements with respect to age, gender, geography and economic considerations, there remains little evidence of a difference between the two groups."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "transitive"
+        ],
+        "label_groups": "statistics , transitive"
+      },
+      {
+        "definition": "To return a set of points ( switches ) to the normal position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "reverse"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "transitive"
+        ],
+        "label_groups": "rail transport , transitive"
+      },
+      {
+        "definition": "To return to the normal position from the reverse position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "reverse"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "intransitive",
+          "of points"
+        ],
+        "label_groups": "rail transport , intransitive , of points"
+      },
+      {
+        "definition": "To subject to normalization ; to eliminate redundancy in (a model for storing data).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases",
+          "transitive"
+        ],
+        "label_groups": "computing , databases , transitive"
+      },
+      {
+        "definition": "To anneal (steel) for the purpose of decreasing brittleness and increasing ductility .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "metallurgy",
+          "transitive"
+        ],
+        "label_groups": "metallurgy , transitive"
+      },
+      {
+        "definition": "To divide a vector by its magnitude to produce a unit vector .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "transitive"
+        ],
+        "label_groups": "mathematics , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make normal , to bring into alignment with an established standard .",
+    "secondary_definitions": [
+      "( transitive ) To consider normal , to treat as standard in the face of older norms.",
+      "( transitive ) To format in a standardized manner, to make consistent .",
+      "( statistics , transitive ) To reduce the variations by excluding irrelevant aspects.",
+      "( rail transport , transitive ) To return a set of points ( switches ) to the normal position.",
+      "( rail transport , intransitive , of points ) To return to the normal position from the reverse position.",
+      "( computing , databases , transitive ) To subject to normalization ; to eliminate redundancy in (a model for storing data).",
+      "( metallurgy , transitive ) To anneal (steel) for the purpose of decreasing brittleness and increasing ductility .",
+      "( mathematics , transitive ) To divide a vector by its magnitude to produce a unit vector ."
+    ]
+  }
+]

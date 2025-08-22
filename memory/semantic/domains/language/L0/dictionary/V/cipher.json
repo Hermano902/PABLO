@@ -1,0 +1,85 @@
+[
+  {
+    "word": "cipher",
+    "lemma": "cipher",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪfə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ciphers",
+          "PT": "ciphered",
+          "PAP": "ciphered",
+          "PRP": "ciphering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To calculate .",
+        "examples": [
+          "I never learned much more than how to read and cipher ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "regional",
+          "dated"
+        ],
+        "label_groups": "intransitive , regional , dated"
+      },
+      {
+        "definition": "To write in code or cipher.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Of an organ pipe : to sound independent of the organ.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "music"
+        ],
+        "label_groups": "intransitive , music"
+      },
+      {
+        "definition": "To decipher .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( intransitive , regional , dated ) To calculate .",
+    "secondary_definitions": [
+      "( intransitive ) To write in code or cipher.",
+      "( intransitive , music ) Of an organ pipe : to sound independent of the organ.",
+      "( obsolete ) To decipher ."
+    ]
+  }
+]

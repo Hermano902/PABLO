@@ -1,0 +1,63 @@
+[
+  {
+    "word": "empty",
+    "lemma": "empty",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛmp.ti/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "empties",
+          "PT": "emptied",
+          "PAP": "emptied",
+          "PRP": "emptying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make empty; to remove the contents of.",
+        "examples": [
+          "to empty a well or a cistern",
+          "The cinema emptied quickly after the end of the film.",
+          "The suspected thief was requested to empty her pockets."
+        ],
+        "synonyms": [
+          "void"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ergative"
+        ],
+        "label_groups": "transitive , ergative"
+      },
+      {
+        "definition": "Of a river, duct, etc: to drain or flow toward an ultimate destination.",
+        "examples": [
+          "Salmon River empties on the W shore about 2 miles below Bear River."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , ergative ) To make empty; to remove the contents of.",
+    "secondary_definitions": [
+      "( intransitive ) Of a river, duct, etc: to drain or flow toward an ultimate destination."
+    ]
+  }
+]

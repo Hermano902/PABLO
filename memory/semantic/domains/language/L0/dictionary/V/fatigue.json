@@ -1,0 +1,99 @@
+[
+  {
+    "word": "fatigue",
+    "lemma": "fatigue",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fəˈtiːɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fatigues",
+          "PT": "fatigued",
+          "PAP": "fatigued",
+          "PRP": "fatiguing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To tire or make weary by physical or mental exertion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To wilt a salad by dressing or tossing it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "cooking"
+        ],
+        "label_groups": "transitive , cooking"
+      },
+      {
+        "definition": "To lose so much strength or energy that one becomes tired , weary , feeble or exhausted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To undergo the process of fatigue ; to fail as a result of fatigue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "engineering",
+          "of a material specimen"
+        ],
+        "label_groups": "intransitive , engineering , of a material specimen"
+      },
+      {
+        "definition": "To cause to undergo the process of fatigue .",
+        "examples": [
+          "The repeated pressurization cycles fatigued the airplane's metal skin until it eventually broke up in flight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "engineering"
+        ],
+        "label_groups": "transitive , engineering"
+      }
+    ],
+    "main_definition": "( transitive ) To tire or make weary by physical or mental exertion .",
+    "secondary_definitions": [
+      "( transitive , cooking ) To wilt a salad by dressing or tossing it.",
+      "( intransitive ) To lose so much strength or energy that one becomes tired , weary , feeble or exhausted .",
+      "( intransitive , engineering , of a material specimen ) To undergo the process of fatigue ; to fail as a result of fatigue.",
+      "( transitive , engineering ) To cause to undergo the process of fatigue ."
+    ]
+  }
+]

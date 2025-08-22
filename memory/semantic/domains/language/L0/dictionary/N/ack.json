@@ -1,0 +1,50 @@
+[
+  {
+    "word": "ack",
+    "lemma": "ack",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/æk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "acks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The letter A as used in signalling and other types of communications.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "now historical"
+        ],
+        "label_groups": "military , now historical"
+      },
+      {
+        "definition": "acknowledgment signal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "data communications"
+        ],
+        "label_groups": "data communications"
+      }
+    ],
+    "main_definition": "( military , now historical ) The letter A as used in signalling and other types of communications.",
+    "secondary_definitions": [
+      "( data communications ) acknowledgment signal"
+    ]
+  }
+]

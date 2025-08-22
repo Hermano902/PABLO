@@ -1,0 +1,79 @@
+[
+  {
+    "word": "meager",
+    "lemma": "meager",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmiɡɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "meagerer",
+          "SUP": "meagerest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having little flesh ; lean ; thin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Poor, deficient or inferior in amount, quality or extent",
+        "examples": [
+          "A meager piece of cake in one bite.",
+          "The street outside my window furnishes meager entertainment."
+        ],
+        "synonyms": [
+          "paltry",
+          "scanty",
+          "inadequate",
+          "measly",
+          "miserly",
+          "exiguous"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a set : such that, considered as a subset of a (usually larger) topological space , it is in a precise sense small or negligible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "dense"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      },
+      {
+        "definition": "Dry and harsh to the touch (e.g., as chalk).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mineralogy"
+        ],
+        "label_groups": "mineralogy"
+      }
+    ],
+    "main_definition": "Having little flesh ; lean ; thin .",
+    "secondary_definitions": [
+      "Poor, deficient or inferior in amount, quality or extent",
+      "( set theory ) Of a set : such that, considered as a subset of a (usually larger) topological space , it is in a precise sense small or negligible .",
+      "( mineralogy ) Dry and harsh to the touch (e.g., as chalk)."
+    ]
+  }
+]

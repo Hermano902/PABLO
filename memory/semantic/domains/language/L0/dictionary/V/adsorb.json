@@ -1,0 +1,44 @@
+[
+  {
+    "word": "adsorb",
+    "lemma": "adsorb",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ədˈzɔːb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "adsorbs",
+          "PT": "adsorbed",
+          "PAP": "adsorbed",
+          "PRP": "adsorbing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To accumulate on a surface , by adsorption .",
+        "examples": [
+          "The gas was purified by adsorbing the impurities onto active carbon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physical chemistry",
+          "physics"
+        ],
+        "label_groups": "transitive , physical chemistry , physics"
+      }
+    ],
+    "main_definition": "( transitive , physical chemistry , physics ) To accumulate on a surface , by adsorption .",
+    "secondary_definitions": []
+  }
+]

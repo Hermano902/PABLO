@@ -1,0 +1,103 @@
+[
+  {
+    "word": "flap",
+    "lemma": "flap",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/flæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flaps",
+          "PT": "flapped",
+          "PAP": "flapped",
+          "PRP": "flapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move (something broad and loose) up and down .",
+        "examples": [
+          "The crow slowly flapped its wings.",
+          "Startled, the wood pigeon flew off, its wings flapping noisily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move loosely back and forth .",
+        "examples": [
+          "The flag flapped in the breeze."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To pronounce (something) as a flap consonant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "transitive"
+        ],
+        "label_groups": "phonetics , transitive"
+      },
+      {
+        "definition": "To be pronounced with a flap consonant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "intransitive"
+        ],
+        "label_groups": "phonetics , intransitive"
+      },
+      {
+        "definition": "To be advertised as being available and then unavailable (or available by different routes ) in rapid succession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "telecommunications",
+          "intransitive",
+          "of a resource or network destination"
+        ],
+        "label_groups": "computing , telecommunications , intransitive , of a resource or network destination"
+      }
+    ],
+    "main_definition": "( transitive ) To move (something broad and loose) up and down .",
+    "secondary_definitions": [
+      "( intransitive ) To move loosely back and forth .",
+      "( phonetics , transitive ) To pronounce (something) as a flap consonant .",
+      "( phonetics , intransitive ) To be pronounced with a flap consonant .",
+      "( computing , telecommunications , intransitive , of a resource or network destination ) To be advertised as being available and then unavailable (or available by different routes ) in rapid succession."
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "word": "freeze",
+    "lemma": "freeze",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹiːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "freezes",
+          "PT": "froze",
+          "PAP": "frozen",
+          "PRP": "freezing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Especially of a liquid , to become solid due to low temperature .",
+        "examples": [
+          "The lake froze solid."
+        ],
+        "synonyms": [
+          "solidify"
+        ],
+        "antonyms": [
+          "defrost",
+          "liquify",
+          "unfreeze"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative"
+        ],
+        "label_groups": "intransitive , copulative"
+      },
+      {
+        "definition": "To lower something's temperature to the point that it freezes or becomes hard.",
+        "examples": [
+          "Don't freeze meat twice."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To drop to a temperature below zero degrees celsius , where water turns to ice.",
+        "examples": [
+          "It didn't freeze this winter, but last winter was very harsh."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be affected by extreme cold .",
+        "examples": [
+          "It's freezing in here!",
+          "Don't go outside wearing just a t-shirt; you'll freeze !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "informal"
+        ],
+        "label_groups": "intransitive , informal"
+      },
+      {
+        "definition": "To come to a sudden halt , stop working ( functioning ).",
+        "examples": [
+          "Since the last update, the program freezes after a few minutes of use."
+        ],
+        "synonyms": [
+          "freeze up",
+          "grind to a halt",
+          "hang",
+          "lock up",
+          "seize",
+          "seize up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of machines",
+          "software"
+        ],
+        "label_groups": [
+          "intransitive",
+          "of machines and software"
+        ]
+      },
+      {
+        "definition": "To stop (become motionless ) or be stopped due to attentiveness , fear , surprise , etc.",
+        "examples": [
+          "Despite all of the rehearsals, I froze as soon as I got on stage."
+        ],
+        "synonyms": [
+          "freeze up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of people",
+          "other animals"
+        ],
+        "label_groups": [
+          "intransitive",
+          "of people and other animals"
+        ]
+      },
+      {
+        "definition": "To cause someone to become motionless.",
+        "examples": [],
+        "synonyms": [
+          "halt",
+          "immobilize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lose or cause to lose warmth of feeling; to shut out ; to ostracize.",
+        "examples": [
+          "Over time, he froze towards her, and ceased to react to her friendly advances."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "To cause loss of animation or life in, from lack of heat; to give the sensation of cold to; to chill.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To prevent the movement or liquidation of a person's financial assets",
+        "examples": [
+          "The court froze the criminal's bank account."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of prices, spending etc., to keep at the same level, without any increase.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To prevent from showing any visible change.",
+        "examples": [
+          "Pressing the pause button will freeze the video playback.",
+          "Playback will freeze if you pause the video."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To trap (the puck ) so that it cannot be played.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ice hockey"
+        ],
+        "label_groups": "transitive , ice hockey"
+      }
+    ],
+    "main_definition": "( intransitive , copulative ) Especially of a liquid , to become solid due to low temperature .",
+    "secondary_definitions": [
+      "( transitive ) To lower something's temperature to the point that it freezes or becomes hard.",
+      "( intransitive ) To drop to a temperature below zero degrees celsius , where water turns to ice.",
+      "( intransitive , informal ) To be affected by extreme cold .",
+      "( intransitive ) (of machines and software) To come to a sudden halt , stop working ( functioning ).",
+      "( intransitive ) (of people and other animals) To stop (become motionless ) or be stopped due to attentiveness , fear , surprise , etc.",
+      "( transitive ) To cause someone to become motionless.",
+      "( figuratively ) To lose or cause to lose warmth of feeling; to shut out ; to ostracize.",
+      "To cause loss of animation or life in, from lack of heat; to give the sensation of cold to; to chill.",
+      "( transitive ) To prevent the movement or liquidation of a person's financial assets",
+      "Of prices, spending etc., to keep at the same level, without any increase.",
+      "( ambitransitive ) To prevent from showing any visible change.",
+      "( transitive , ice hockey ) To trap (the puck ) so that it cannot be played."
+    ]
+  }
+]

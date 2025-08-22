@@ -1,0 +1,69 @@
+[
+  {
+    "word": "ligate",
+    "lemma": "ligate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ligates",
+          "PT": "ligated",
+          "PAP": "ligated",
+          "PRP": "ligating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bind with a ligature or bandage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To connect text characters with a ligature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "typography"
+        ],
+        "label_groups": "transitive , typography"
+      },
+      {
+        "definition": "To join by ligation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "chemistry"
+        ],
+        "label_groups": "ambitransitive , chemistry"
+      }
+    ],
+    "main_definition": "( transitive ) To bind with a ligature or bandage .",
+    "secondary_definitions": [
+      "( transitive , typography ) To connect text characters with a ligature .",
+      "( ambitransitive , chemistry ) To join by ligation ."
+    ]
+  }
+]

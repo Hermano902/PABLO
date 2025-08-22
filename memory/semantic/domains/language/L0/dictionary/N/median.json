@@ -1,0 +1,83 @@
+[
+  {
+    "word": "median",
+    "lemma": "median",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmiː.dɪən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "medians"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A central vein or nerve , especially the median vein or median nerve running through the forearm and arm.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy",
+          "now rare"
+        ],
+        "label_groups": "anatomy , now rare",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "A line segment joining the vertex of triangle to the midpoint of the opposing side.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A number separating the higher half from the lower half of a data sample , population , or probability distribution . The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one (e.g., the median of {3, 3, 5, 9, 11} is 5). If there is an even number of observations, then there is no single middle value; the median is then usually defined to be the mean of the two middle values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "The area separating two lanes of opposite-direction traffic.",
+        "examples": [],
+        "synonyms": [
+          "median strip",
+          "central reservation",
+          "reservation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US",
+        "dating_raw": "from 20th c."
+      }
+    ],
+    "main_definition": "( anatomy , now rare ) A central vein or nerve , especially the median vein or median nerve running through the forearm and arm. [from 15th c.]",
+    "secondary_definitions": [
+      "( geometry ) A line segment joining the vertex of triangle to the midpoint of the opposing side.",
+      "( statistics ) A number separating the higher half from the lower half of a data sample , population , or probability distribution . The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one (e.g., the median of {3, 3, 5, 9, 11} is 5). If there is an even number of observations, then there is no single middle value; the median is then usually defined to be the mean of the two middle values. [from 19th c.]",
+      "( US ) The area separating two lanes of opposite-direction traffic. [from 20th c.]"
+    ]
+  }
+]

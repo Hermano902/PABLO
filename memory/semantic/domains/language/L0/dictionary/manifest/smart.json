@@ -1,0 +1,37 @@
+{
+  "word": "smart",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 13,
+      "examples": 12,
+      "synonyms": 13,
+      "antonyms": 12,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 6,
+      "antonyms": 1,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\smart.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\smart.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\smart.json"
+  },
+  "timestamp": "2025-08-19T17:21:12.047663Z"
+}

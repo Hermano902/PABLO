@@ -1,0 +1,56 @@
+[
+  {
+    "word": "eavesdrop",
+    "lemma": "eavesdrop",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːvzˌdɹɒp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "eavesdrops",
+          "PT": "eavesdropped",
+          "PAP": "eavesdropped",
+          "PRP": "eavesdropping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hear ( intentionally ) a conversation one is not intended to hear; to listen in .",
+        "examples": [
+          "I hope nobody was eavesdropping on our conversation last night, since it got so personal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To listen for another organism 's calls , so as to exploit them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To hear ( intentionally ) a conversation one is not intended to hear; to listen in .",
+    "secondary_definitions": [
+      "( zoology ) To listen for another organism 's calls , so as to exploit them."
+    ]
+  }
+]

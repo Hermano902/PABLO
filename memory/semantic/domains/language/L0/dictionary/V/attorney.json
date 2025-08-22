@@ -1,0 +1,56 @@
+[
+  {
+    "word": "attorney",
+    "lemma": "attorney",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈtɜː(ɹ)ni/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "attorneys",
+          "PT": "attorneyed",
+          "PAP": "attorneyed",
+          "PRP": "attorneying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To work as a legal attorney.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "To provide with a legal attorney.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "rare"
+        ],
+        "label_groups": "transitive , rare"
+      }
+    ],
+    "main_definition": "( intransitive , rare ) To work as a legal attorney.",
+    "secondary_definitions": [
+      "( transitive , rare ) To provide with a legal attorney."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "federate",
+    "lemma": "federate",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɛdəɹət/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "federates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A member of a federation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Anglicised form of Latin foederatus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "a system participating in a collective simulation, particularly within the context of the HLA (High Level Architecture) standard.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer simulation"
+        ],
+        "label_groups": "computer simulation"
+      }
+    ],
+    "main_definition": "A member of a federation.",
+    "secondary_definitions": [
+      "Anglicised form of Latin foederatus .",
+      "( computer simulation ) a system participating in a collective simulation, particularly within the context of the HLA (High Level Architecture) standard."
+    ]
+  }
+]

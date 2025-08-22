@@ -1,0 +1,57 @@
+[
+  {
+    "word": "enclave",
+    "lemma": "enclave",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛnkleɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "enclaves"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A political , cultural or social entity or part thereof that is completely surrounded by another.",
+        "examples": [
+          "The republic of San Marino is an enclave of Italy.",
+          "The streets around Union Square form a Protestant enclave within an otherwise Catholic neighbourhood."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group that is set off from a larger population by its characteristic or behavior .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An isolated portion of an application 's address space , such that data in an enclave can only be accessed by code in the same enclave.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A political , cultural or social entity or part thereof that is completely surrounded by another.",
+    "secondary_definitions": [
+      "A group that is set off from a larger population by its characteristic or behavior .",
+      "( computing ) An isolated portion of an application 's address space , such that data in an enclave can only be accessed by code in the same enclave."
+    ]
+  }
+]

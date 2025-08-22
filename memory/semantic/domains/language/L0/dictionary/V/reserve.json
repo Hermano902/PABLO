@@ -1,0 +1,106 @@
+[
+  {
+    "word": "reserve",
+    "lemma": "reserve",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈzɝv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reserves",
+          "PT": "reserved",
+          "PAP": "reserved",
+          "PRP": "reserving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To keep back ; to retain .",
+        "examples": [
+          "We reserve the right to make modifications.",
+          "I will reserve judgment until I have actually read his book."
+        ],
+        "synonyms": [
+          "hold"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To keep in store for future or special use.",
+            "examples": [
+              "This cake is reserved for the guests!",
+              "Please reserve me a parking space if you can."
+            ],
+            "synonyms": [
+              "hold",
+              "save"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To book in advance; to make a reservation for.",
+            "examples": [
+              "I reserved a table for us at the best restaurant in town.",
+              "Thanks for reserving us a room!"
+            ],
+            "synonyms": [
+              "sign up for",
+              "register for",
+              "schedule",
+              "enroll in",
+              "book"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "transitive , ditransitive"
+      },
+      {
+        "definition": "To make an exception of; to except .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To keep back ; to retain .",
+    "secondary_definitions": [
+      "( transitive , ditransitive )",
+      "( transitive , obsolete ) To make an exception of; to except ."
+    ]
+  }
+]

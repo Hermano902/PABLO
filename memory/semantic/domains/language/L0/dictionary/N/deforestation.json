@@ -1,0 +1,48 @@
+[
+  {
+    "word": "deforestation",
+    "lemma": "deforestation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˌfɒɹɪsˈteɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deforestations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of destroying a forest and replacing it with something else, especially with an agricultural system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "afforestation",
+          "reforestation"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A transformation to eliminate intermediate data structures within a program .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "The process of destroying a forest and replacing it with something else, especially with an agricultural system.",
+    "secondary_definitions": [
+      "( computing theory ) A transformation to eliminate intermediate data structures within a program ."
+    ]
+  }
+]

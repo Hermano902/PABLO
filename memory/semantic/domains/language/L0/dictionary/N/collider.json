@@ -1,0 +1,62 @@
+[
+  {
+    "word": "collider",
+    "lemma": "collider",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəˈlaɪdɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "colliders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of several forms of particle accelerator in which two opposing beams of particles collide .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A node in a causal graph that has at least two incoming edges .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "A model of the shape of an object for purposes of collision detection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( physics ) Any of several forms of particle accelerator in which two opposing beams of particles collide .",
+    "secondary_definitions": [
+      "( graph theory ) A node in a causal graph that has at least two incoming edges .",
+      "( video games ) A model of the shape of an object for purposes of collision detection ."
+    ]
+  }
+]

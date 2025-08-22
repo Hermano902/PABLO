@@ -1,0 +1,45 @@
+[
+  {
+    "word": "homograph",
+    "lemma": "homograph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɒməɡɹɑːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "homographs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word that is spelled the same as another word, usually having a different etymology .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A text character or string that looks identical to another when rendered.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A word that is spelled the same as another word, usually having a different etymology .",
+    "secondary_definitions": [
+      "( computing ) A text character or string that looks identical to another when rendered."
+    ]
+  }
+]

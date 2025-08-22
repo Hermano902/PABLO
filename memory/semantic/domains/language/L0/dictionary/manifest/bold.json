@@ -1,0 +1,37 @@
+{
+  "word": "bold",
+  "pos_order": [
+    "ADJ",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 8,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 3,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bold.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bold.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bold.json"
+  },
+  "timestamp": "2025-08-18T22:27:08.725269Z"
+}

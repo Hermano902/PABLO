@@ -1,0 +1,51 @@
+[
+  {
+    "word": "const",
+    "lemma": "const",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Whose value cannot be changed directly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a variable"
+        ],
+        "label_groups": "programming , of a variable"
+      },
+      {
+        "definition": "Which cannot change the value of its class’s attributes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a function"
+        ],
+        "label_groups": "programming , of a function"
+      }
+    ],
+    "main_definition": "( programming , of a variable ) Whose value cannot be changed directly.",
+    "secondary_definitions": [
+      "( programming , of a function ) Which cannot change the value of its class’s attributes ."
+    ]
+  }
+]

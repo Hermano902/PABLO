@@ -1,0 +1,37 @@
+{
+  "word": "wet",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 18,
+      "examples": 10,
+      "synonyms": 17,
+      "antonyms": 4,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 9,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 3,
+      "synonyms": 10,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\wet.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\wet.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\wet.json"
+  },
+  "timestamp": "2025-08-19T20:53:02.567005Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "repaint",
+    "lemma": "repaint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈpeɪnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "repaints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of painting something again, especially if recently painted.",
+        "examples": [
+          "They didn't like the color so we had to do a repaint ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of drawing or rendering again on the display.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act or process of painting something again, especially if recently painted.",
+    "secondary_definitions": [
+      "( computing ) The act of drawing or rendering again on the display."
+    ]
+  }
+]

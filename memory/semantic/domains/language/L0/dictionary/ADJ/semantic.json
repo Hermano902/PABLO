@@ -1,0 +1,61 @@
+[
+  {
+    "word": "semantic",
+    "lemma": "semantic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/sɪˈmæntɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or relating to semantics or the meanings of words.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from late 19th c."
+      },
+      {
+        "definition": "Reflecting intended structure and meaning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software design",
+          "of code"
+        ],
+        "label_groups": "software design , of code"
+      },
+      {
+        "definition": "Petty or trivial ; ( of a person or statement ) quibbling , niggling .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "of a detail or distinction"
+        ],
+        "label_groups": "slang , of a detail or distinction"
+      }
+    ],
+    "main_definition": "Of or relating to semantics or the meanings of words. [from late 19th c.]",
+    "secondary_definitions": [
+      "( software design , of code ) Reflecting intended structure and meaning.",
+      "( slang , of a detail or distinction ) Petty or trivial ; ( of a person or statement ) quibbling , niggling ."
+    ]
+  }
+]

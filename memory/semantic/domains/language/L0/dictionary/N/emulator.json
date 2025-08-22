@@ -1,0 +1,45 @@
+[
+  {
+    "word": "emulator",
+    "lemma": "emulator",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛmjəˌleɪtəɹ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "emulators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or thing that emulates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A piece of software or hardware that simulates another system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A person or thing that emulates .",
+    "secondary_definitions": [
+      "( computing ) A piece of software or hardware that simulates another system."
+    ]
+  }
+]

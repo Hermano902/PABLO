@@ -1,0 +1,90 @@
+[
+  {
+    "word": "wound",
+    "lemma": "wound",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/wuːnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wounds",
+          "PT": "wounded",
+          "PAP": "wounded",
+          "PRP": "wounding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To hurt or injure (someone) by cutting, piercing, or tearing the skin.",
+        "examples": [
+          "The police officer wounded the suspect during the fight that ensued."
+        ],
+        "synonyms": [
+          "damage",
+          "harm"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To hurt (a person's feelings).",
+        "examples": [
+          "The actor's pride was wounded when the leading role went to his rival."
+        ],
+        "synonyms": [
+          "affront",
+          "hurt"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To hurt or injure (someone) by cutting, piercing, or tearing the skin.",
+    "secondary_definitions": [
+      "( transitive ) To hurt (a person's feelings)."
+    ]
+  },
+  {
+    "word": "wound",
+    "lemma": "wound",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/wuːnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "simple past and past participle of wind",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "simple past and past participle of wind",
+    "secondary_definitions": []
+  }
+]

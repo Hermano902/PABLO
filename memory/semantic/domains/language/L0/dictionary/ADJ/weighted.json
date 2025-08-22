@@ -1,0 +1,81 @@
+[
+  {
+    "word": "weighted",
+    "lemma": "weighted",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈweɪ.tɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more weighted",
+          "SUP": "most weighted"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having weights on it.",
+        "examples": [
+          "She wore a weighted dress so it wouldn't blow in the wind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Biased , so as to favour one party.",
+        "examples": [
+          "The competition was weighted so he'd be the clear favourite to win."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "having values assigned to its edges",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "of a graph"
+        ],
+        "label_groups": "graph theory , of a graph"
+      },
+      {
+        "definition": "With the components of an average multiplied by particular factors so as to take account of their relative importance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "Containing a large proportion (of something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Having weights on it.",
+    "secondary_definitions": [
+      "Biased , so as to favour one party.",
+      "( graph theory , of a graph ) having values assigned to its edges",
+      "( statistics ) With the components of an average multiplied by particular factors so as to take account of their relative importance.",
+      "Containing a large proportion (of something)."
+    ]
+  }
+]

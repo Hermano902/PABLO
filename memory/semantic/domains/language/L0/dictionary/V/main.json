@@ -1,0 +1,73 @@
+[
+  {
+    "word": "main",
+    "lemma": "main",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/meɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mains",
+          "PT": "mained",
+          "PAP": "mained",
+          "PRP": "maining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Ellipsis of mainline ( “ to inject (a drug) directly into a vein ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To mainly play a specific character or side , or with specific equipment , during a game .",
+        "examples": [
+          "He mains the same character as me in that game.",
+          "What race do you main and what is your favourite race to beat?",
+          "For new players, I recommend maining the dagger and using the axe as a backup weapon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "gaming"
+        ],
+        "label_groups": "transitive , gaming"
+      },
+      {
+        "definition": "To convert (a road) into a main or primary road.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive , slang ) Ellipsis of mainline ( “ to inject (a drug) directly into a vein ” ) .",
+    "secondary_definitions": [
+      "( transitive , gaming ) To mainly play a specific character or side , or with specific equipment , during a game .",
+      "( obsolete ) To convert (a road) into a main or primary road."
+    ]
+  }
+]

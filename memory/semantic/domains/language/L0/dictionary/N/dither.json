@@ -1,0 +1,86 @@
+[
+  {
+    "word": "dither",
+    "lemma": "dither",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪðə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dithers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Trembling , shaking , or shivering .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A state of nervous excitement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being undecided ; indecision ; vacillation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any algorithm applied to digital data to minimize the effects of quantization :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A form of noise intentionally added to remove artifacts caused by digitization .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The use of dot patterns in an image or graphic to approximate colors not available in the system palette .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer graphics"
+            ],
+            "label_groups": "computer graphics"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "electronics",
+          "technology",
+          "signal processing"
+        ],
+        "label_groups": "electronics , technology , signal processing"
+      }
+    ],
+    "main_definition": "Trembling , shaking , or shivering .",
+    "secondary_definitions": [
+      "A state of nervous excitement .",
+      "The state of being undecided ; indecision ; vacillation .",
+      "( electronics , technology , signal processing ) Any algorithm applied to digital data to minimize the effects of quantization :"
+    ]
+  }
+]

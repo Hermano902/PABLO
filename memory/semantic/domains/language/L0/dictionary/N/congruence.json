@@ -1,0 +1,87 @@
+[
+  {
+    "word": "congruence",
+    "lemma": "congruence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒŋ.ɡɹʊ.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "congruences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality of agreeing or corresponding ; being suitable and appropriate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A relation between two numbers indicating they give the same remainder when divided by some given number.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "number theory"
+        ],
+        "label_groups": "mathematics , number theory"
+      },
+      {
+        "definition": "The quality of being isometric — roughly, the same measure and shape.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "geometry"
+        ],
+        "label_groups": "mathematics , geometry"
+      },
+      {
+        "definition": "Matrix similarity by an orthogonal matrix .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "linear algebra"
+        ],
+        "label_groups": "mathematics , linear algebra"
+      },
+      {
+        "definition": "Any equivalence relation defined on an algebraic structure which is preserved by operations defined by the structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "universal algebra"
+        ],
+        "label_groups": "universal algebra"
+      }
+    ],
+    "main_definition": "The quality of agreeing or corresponding ; being suitable and appropriate .",
+    "secondary_definitions": [
+      "( mathematics , number theory ) A relation between two numbers indicating they give the same remainder when divided by some given number.",
+      "( mathematics , geometry ) The quality of being isometric — roughly, the same measure and shape.",
+      "( mathematics , linear algebra ) Matrix similarity by an orthogonal matrix .",
+      "( universal algebra ) Any equivalence relation defined on an algebraic structure which is preserved by operations defined by the structure."
+    ]
+  }
+]

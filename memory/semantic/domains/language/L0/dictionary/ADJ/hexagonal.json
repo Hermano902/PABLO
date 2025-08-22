@@ -1,0 +1,51 @@
+[
+  {
+    "word": "hexagonal",
+    "lemma": "hexagonal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/hɛkˈsæɡənəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having six edges , or having a cross-section in the form of a hexagon .",
+        "examples": [
+          "Nuts in engineering are generally hexagonal ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Having three equal axes which cross at 60° angles , and an unequal axis which crosses the others at 90° angle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      }
+    ],
+    "main_definition": "( geometry ) Having six edges , or having a cross-section in the form of a hexagon .",
+    "secondary_definitions": [
+      "( crystallography ) Having three equal axes which cross at 60° angles , and an unequal axis which crosses the others at 90° angle."
+    ]
+  }
+]

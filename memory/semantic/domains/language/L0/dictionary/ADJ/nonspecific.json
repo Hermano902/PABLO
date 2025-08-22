@@ -1,0 +1,99 @@
+[
+  {
+    "word": "nonspecific",
+    "lemma": "nonspecific",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not specific or precise , as:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Not specific to one possible cause ; caused by any of various possible causes.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "pathognomonic"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a symptom or other finding"
+            ],
+            "label_groups": "medicine , of a symptom or other finding"
+          },
+          {
+            "definition": "Not specific to one pathogen ; affecting multiple strains or species of pathogen.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of an antimicrobial"
+            ],
+            "label_groups": "medicine , of an antimicrobial"
+          },
+          {
+            "definition": "Not known to be caused by any specific pathogen .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of an infection"
+            ],
+            "label_groups": "medicine , of an infection"
+          },
+          {
+            "definition": "Not caused by previous infection or vaccination , and/or affecting more than one antigen .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a person's immunity"
+            ],
+            "label_groups": "medicine , of a person's immunity"
+          },
+          {
+            "definition": "That does not just stain one type of tissue .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a stain in microscopy"
+            ],
+            "label_groups": "medicine , of a stain in microscopy"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Not specific or precise , as:",
+    "secondary_definitions": []
+  }
+]

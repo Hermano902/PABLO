@@ -1,0 +1,49 @@
+[
+  {
+    "word": "heterozygote",
+    "lemma": "heterozygote",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "heterozygotes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A diploid individual that has different alleles at one or more genetic loci .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "A bacteriophage that has two different copies of its genetic material and so produces two types of offspring .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "( genetics ) A diploid individual that has different alleles at one or more genetic loci .",
+    "secondary_definitions": [
+      "( biology ) A bacteriophage that has two different copies of its genetic material and so produces two types of offspring ."
+    ]
+  }
+]

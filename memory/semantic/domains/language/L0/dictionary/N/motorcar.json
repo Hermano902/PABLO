@@ -1,0 +1,57 @@
+[
+  {
+    "word": "motorcar",
+    "lemma": "motorcar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "motorcars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An enclosed passenger motor vehicle : a car ( automobile ).",
+        "examples": [],
+        "synonyms": [
+          "auto",
+          "automobile",
+          "motor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "A self-propelled railway vehicle .",
+        "examples": [],
+        "synonyms": [
+          "motor coach",
+          "railcar"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "US"
+        ],
+        "label_groups": "rail transport , US"
+      }
+    ],
+    "main_definition": "( dated ) An enclosed passenger motor vehicle : a car ( automobile ).",
+    "secondary_definitions": [
+      "( rail transport , US ) A self-propelled railway vehicle ."
+    ]
+  }
+]

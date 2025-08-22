@@ -1,0 +1,71 @@
+[
+  {
+    "word": "interpolate",
+    "lemma": "interpolate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɜː.pəˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interpolates",
+          "PT": "interpolated",
+          "PAP": "interpolated",
+          "PRP": "interpolating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To introduce (something) between other things; especially to insert (possibly spurious ) words into a text.",
+        "examples": [
+          "in verse 74, the second line is clearly interpolated , probably by some unknown medieval scribe",
+          "When interpolating an explanatory gloss, please enclose it in square brackets to make clear that it is interpolated ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To estimate the value of a function between two tabulated points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "During the course of processing some data, and in response to a directive in that data, to fetch data from a different source and process it in-line along with the original data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To introduce (something) between other things; especially to insert (possibly spurious ) words into a text.",
+    "secondary_definitions": [
+      "( mathematics ) To estimate the value of a function between two tabulated points.",
+      "( computing ) During the course of processing some data, and in response to a directive in that data, to fetch data from a different source and process it in-line along with the original data."
+    ]
+  }
+]

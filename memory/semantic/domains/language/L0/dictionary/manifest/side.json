@@ -1,0 +1,48 @@
+{
+  "word": "side",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "ADJ:2",
+    "ADV",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 17,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\side.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\side.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\side.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\side.json"
+  },
+  "timestamp": "2025-08-19T17:04:08.625930Z"
+}

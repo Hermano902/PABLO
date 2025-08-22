@@ -1,0 +1,72 @@
+[
+  {
+    "word": "getter",
+    "lemma": "getter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɛtə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "getters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, gets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A function used to retrieve the value of some property of an object , contrasted with the setter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A material which is included in a vacuum system or device for removing gas by sorption .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "A miner who dug coal , contrasted with the putter , who took it to the surface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining",
+          "historical"
+        ],
+        "label_groups": "mining , historical"
+      }
+    ],
+    "main_definition": "One who, or that which, gets .",
+    "secondary_definitions": [
+      "( object-oriented programming ) A function used to retrieve the value of some property of an object , contrasted with the setter .",
+      "( sciences ) A material which is included in a vacuum system or device for removing gas by sorption .",
+      "( mining , historical ) A miner who dug coal , contrasted with the putter , who took it to the surface."
+    ]
+  }
+]

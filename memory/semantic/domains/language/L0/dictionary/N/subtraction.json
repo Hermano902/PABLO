@@ -1,0 +1,64 @@
+[
+  {
+    "word": "subtraction",
+    "lemma": "subtraction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səbˈtɹækʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subtractions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of subtracting a number from another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "uncountable"
+        ],
+        "label_groups": "arithmetic , uncountable"
+      },
+      {
+        "definition": "A calculation involving subtracting .",
+        "examples": [
+          "The teacher has set us ten subtractions to do by tomorrow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "countable"
+        ],
+        "label_groups": "arithmetic , countable"
+      },
+      {
+        "definition": "The removal of something.",
+        "examples": [
+          "The subtraction of the wealth from the economy will result in recession."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( arithmetic , uncountable ) The process of subtracting a number from another.",
+    "secondary_definitions": [
+      "( arithmetic , countable ) A calculation involving subtracting .",
+      "The removal of something."
+    ]
+  }
+]

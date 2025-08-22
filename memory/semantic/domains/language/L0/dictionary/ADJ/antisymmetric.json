@@ -1,0 +1,89 @@
+[
+  {
+    "word": "antisymmetric",
+    "lemma": "antisymmetric",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having the property that, for any two distinct elements of S , at least one is not related to the other via R ; equivalently , having the property that, for any x, y ∈ S , if both xRy and yRx then x = y .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "order theory",
+          "of a binary relation R on a set S"
+        ],
+        "label_groups": "set theory , order theory , of a binary relation R on a set S"
+      },
+      {
+        "definition": "Whose sign changes on the application of a matrix transpose or some generalisation thereof:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Whose transpose equals its negative (i.e., M = − M );",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a matrix"
+            ],
+            "label_groups": "of a matrix"
+          },
+          {
+            "definition": "That changes sign when any two indices are interchanged (e.g., T ijk = - T jik );",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a tensor"
+            ],
+            "label_groups": "of a tensor"
+          },
+          {
+            "definition": "For which B ( w,v ) = - B ( v,w ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a bilinear form"
+            ],
+            "label_groups": "of a bilinear form"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "linear algebra",
+          "of certain mathematical objects"
+        ],
+        "label_groups": "linear algebra , of certain mathematical objects"
+      }
+    ],
+    "main_definition": "( set theory , order theory , of a binary relation R on a set S ) Having the property that, for any two distinct elements of S , at least one is not related to the other via R ; equivalently , having the property that, for any x, y ∈ S , if both xRy and yRx then x = y .",
+    "secondary_definitions": [
+      "( linear algebra , of certain mathematical objects ) Whose sign changes on the application of a matrix transpose or some generalisation thereof:"
+    ]
+  }
+]

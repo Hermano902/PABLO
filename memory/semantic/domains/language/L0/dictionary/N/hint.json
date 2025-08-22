@@ -1,0 +1,113 @@
+[
+  {
+    "word": "hint",
+    "lemma": "hint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/hɪnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A clue .",
+        "examples": [
+          "I needed a hint to complete the crossword."
+        ],
+        "synonyms": [
+          "indication",
+          "tip"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An implicit suggestion that avoids a direct statement .",
+        "examples": [
+          "He gave me a hint that my breath smelt."
+        ],
+        "synonyms": [
+          "allusion",
+          "implication",
+          "innuendo",
+          "insinuation",
+          "nod"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A small, barely detectable amount.",
+        "examples": [
+          "There was a hint of irony in his voice.",
+          "I could taste a hint of lemon in my iced water."
+        ],
+        "synonyms": [
+          "touch",
+          "trace"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Information in a computer-based font that suggests how the outlines of the font's glyphs should be distorted in order to produce, at specific sizes, a visually appealing pixel -based rendering; an instance of hinting .",
+        "examples": [
+          "This font does not scale well to small sizes; the hints for the 10-point letter 'g' still need work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An instruction to the database engine as to how a query should be executed , for example whether to use an index or not.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      },
+      {
+        "definition": "An opportunity ; occasion; fit time.",
+        "examples": [],
+        "synonyms": [
+          "chance",
+          "moment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "A clue .",
+    "secondary_definitions": [
+      "An implicit suggestion that avoids a direct statement .",
+      "A small, barely detectable amount.",
+      "( computing ) Information in a computer-based font that suggests how the outlines of the font's glyphs should be distorted in order to produce, at specific sizes, a visually appealing pixel -based rendering; an instance of hinting .",
+      "( databases ) An instruction to the database engine as to how a query should be executed , for example whether to use an index or not.",
+      "( obsolete ) An opportunity ; occasion; fit time."
+    ]
+  }
+]

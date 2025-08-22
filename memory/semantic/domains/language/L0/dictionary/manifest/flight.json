@@ -1,0 +1,38 @@
+{
+  "word": "flight",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 20,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\flight.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\flight.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\flight.json"
+  },
+  "timestamp": "2025-08-19T03:50:24.586015Z"
+}

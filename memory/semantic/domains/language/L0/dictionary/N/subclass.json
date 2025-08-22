@@ -1,0 +1,58 @@
+[
+  {
+    "word": "subclass",
+    "lemma": "subclass",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbklæs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subclasses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A secondary class within a main class.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rank directly below class .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "An object class derived from another class (its superclass ) from which it inherits a base set of properties and methods .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "A secondary class within a main class.",
+    "secondary_definitions": [
+      "( taxonomy ) A rank directly below class .",
+      "( object-oriented programming ) An object class derived from another class (its superclass ) from which it inherits a base set of properties and methods ."
+    ]
+  }
+]

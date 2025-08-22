@@ -1,0 +1,37 @@
+{
+  "word": "slipper",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 1,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\slipper.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\slipper.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\slipper.json"
+  },
+  "timestamp": "2025-08-19T17:18:59.090591Z"
+}

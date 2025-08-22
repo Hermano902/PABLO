@@ -1,0 +1,56 @@
+[
+  {
+    "word": "unemployed",
+    "lemma": "unemployed",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌʌnɪmˈplɔɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having no job despite being able and willing to work.",
+        "examples": [
+          "The government announced a new initiative to help the unemployed .",
+          "The number of unemployed keeps rising steadily."
+        ],
+        "synonyms": [
+          "jobless",
+          "workless"
+        ],
+        "antonyms": [
+          "employed",
+          "working"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having no use, not doing work",
+        "examples": [],
+        "synonyms": [
+          "disused",
+          "idle"
+        ],
+        "antonyms": [
+          "employed",
+          "in use"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Having no job despite being able and willing to work.",
+    "secondary_definitions": [
+      "Having no use, not doing work"
+    ]
+  }
+]

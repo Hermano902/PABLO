@@ -1,0 +1,105 @@
+[
+  {
+    "word": "scan",
+    "lemma": "scan",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/skæn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scans"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Close investigation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A careful reading.",
+            "examples": [],
+            "synonyms": [
+              "perusal"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of written things"
+            ],
+            "label_groups": "of written things"
+          },
+          {
+            "definition": "A cursory reading: a skim .",
+            "examples": [],
+            "synonyms": [
+              "perusal"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of written things"
+            ],
+            "label_groups": "of written things"
+          }
+        ],
+        "senses": [],
+        "dating_raw": "from 1700s"
+      },
+      {
+        "definition": "An instance of scanning.",
+        "examples": [
+          "The operators vacated the room during the scan ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The result or output of a scanning process.",
+        "examples": [
+          "The doctors looked at the scans and made a diagnosis."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A higher-order function that applies a binary operation to a   sequence of values, starting with an accumulator , and returns a new sequence with the results.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "functional programming"
+        ],
+        "label_groups": "functional programming"
+      }
+    ],
+    "main_definition": "Close investigation . [from 1700s]",
+    "secondary_definitions": [
+      "( computing ) An instance of scanning.",
+      "( computing ) The result or output of a scanning process.",
+      "( functional programming ) A higher-order function that applies a binary operation to a   sequence of values, starting with an accumulator , and returns a new sequence with the results."
+    ]
+  }
+]

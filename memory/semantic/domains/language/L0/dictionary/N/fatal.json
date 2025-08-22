@@ -1,0 +1,45 @@
+[
+  {
+    "word": "fatal",
+    "lemma": "fatal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfeɪ.təl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fatals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A fatality ; an event that leads to death .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fatal error ; a failure that causes a program to terminate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A fatality ; an event that leads to death .",
+    "secondary_definitions": [
+      "( computing ) A fatal error ; a failure that causes a program to terminate ."
+    ]
+  }
+]

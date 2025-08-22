@@ -1,0 +1,70 @@
+[
+  {
+    "word": "mailbox",
+    "lemma": "mailbox",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmeɪl.bɑks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mailboxes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A box into which mail is placed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A collection point for mail intended for onward delivery, a secure box or receptacle for this purpose.",
+            "examples": [],
+            "synonyms": [
+              "letterbox"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A delivery point for mail, a box , compartment or slot for this purpose.",
+            "examples": [],
+            "synonyms": [
+              "letterbox"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "chiefly US"
+        ],
+        "label_groups": "chiefly US"
+      },
+      {
+        "definition": "A folder or account for the storage of email ; an electronic inbox or mailstore .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( chiefly US ) A box into which mail is placed .",
+    "secondary_definitions": [
+      "( computing ) A folder or account for the storage of email ; an electronic inbox or mailstore ."
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "word": "sample",
+    "lemma": "sample",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɑːm.pəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "samples",
+          "PT": "sampled",
+          "PAP": "sampled",
+          "PRP": "sampling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take or to test a sample or samples of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce a continuous signal (such as a sound wave) to a discrete signal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "signal processing"
+        ],
+        "label_groups": "transitive , signal processing"
+      },
+      {
+        "definition": "To reuse a portion of (an existing sound recording) in a new piece of music.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "transitive"
+        ],
+        "label_groups": "music , transitive"
+      },
+      {
+        "definition": "To make or show something similar to a sample.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer graphics"
+        ],
+        "label_groups": "transitive , computer graphics"
+      }
+    ],
+    "main_definition": "( transitive ) To take or to test a sample or samples of.",
+    "secondary_definitions": [
+      "( transitive , signal processing ) To reduce a continuous signal (such as a sound wave) to a discrete signal.",
+      "( music , transitive ) To reuse a portion of (an existing sound recording) in a new piece of music.",
+      "( transitive , computer graphics ) To make or show something similar to a sample."
+    ]
+  }
+]

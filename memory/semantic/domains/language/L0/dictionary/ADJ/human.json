@@ -1,0 +1,51 @@
+[
+  {
+    "word": "human",
+    "lemma": "human",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈhjuː.mən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more human",
+          "SUP": "most human"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or belonging to the species Homo sapiens or its closest relatives.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Having the nature or attributes of a human being .",
+        "examples": [
+          "To err is human ; to forgive, divine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable"
+        ],
+        "label_groups": "comparable"
+      }
+    ],
+    "main_definition": "( not comparable ) Of or belonging to the species Homo sapiens or its closest relatives.",
+    "secondary_definitions": [
+      "( comparable ) Having the nature or attributes of a human being ."
+    ]
+  }
+]

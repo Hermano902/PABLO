@@ -1,0 +1,76 @@
+[
+  {
+    "word": "dazzle",
+    "lemma": "dazzle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdæzəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dazzles",
+          "PT": "dazzled",
+          "PAP": "dazzled",
+          "PRP": "dazzling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To confuse or overpower the sight of (someone or something, such as a sensor) by means of excessive brightness .",
+        "examples": [
+          "Dazzled by the headlights of the lorry, the deer stopped in the middle of the street.",
+          "Antidrone lasers can burn or dazzle a drone's sensors."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To render incapable of thinking clearly; to overwhelm with showiness or brilliance.",
+        "examples": [
+          "The delegates were dazzled by the originality of his arguments."
+        ],
+        "synonyms": [
+          "impress",
+          "overpower"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To be overpowered by light; to be confused by excess of brightness.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To confuse or overpower the sight of (someone or something, such as a sensor) by means of excessive brightness .",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To render incapable of thinking clearly; to overwhelm with showiness or brilliance.",
+      "( intransitive ) To be overpowered by light; to be confused by excess of brightness."
+    ]
+  }
+]

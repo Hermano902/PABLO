@@ -1,0 +1,41 @@
+{
+  "word": "bay",
+  "pos_order": [
+    "N",
+    "N:2",
+    "N:3",
+    "N:4",
+    "V",
+    "ADJ",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 5
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bay.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bay.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bay.json"
+  },
+  "timestamp": "2025-08-18T21:56:41.908118Z"
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "codebook",
+    "lemma": "codebook",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "codebooks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A book, table, database, or other object that stores the mapping between plaintext words or phrases and their equivalents in a code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A lookup table .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( cryptography ) A book, table, database, or other object that stores the mapping between plaintext words or phrases and their equivalents in a code .",
+    "secondary_definitions": [
+      "( computer science ) A lookup table ."
+    ]
+  }
+]

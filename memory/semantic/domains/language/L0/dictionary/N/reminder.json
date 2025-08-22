@@ -1,0 +1,49 @@
+[
+  {
+    "word": "reminder",
+    "lemma": "reminder",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈmaɪndə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reminders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone or something that reminds .",
+        "examples": [
+          "He left a note as a reminder to get groceries."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Writing that reminds of open payments.",
+        "examples": [
+          "She ignored first the reminder of 80 cents. At the end, she was sentenced to pay 200 euros!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "Someone or something that reminds .",
+    "secondary_definitions": [
+      "( finance ) Writing that reminds of open payments."
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "word": "deposit",
+    "lemma": "deposit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈpɒzɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deposits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "Bailment of personal property to be kept gratuitously for the bailor ( depositor ) and without any benefit to the bailee ( depositary ), e.g. for storage , carriage , repair , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "Money placed in a bank account, as for safekeeping or to earn interest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "banking"
+        ],
+        "label_groups": "banking"
+      },
+      {
+        "definition": "Anything left behind on a surface.",
+        "examples": [
+          "a mineral deposit",
+          "a deposit of seaweed on the shore",
+          "a deposit of jam on my countertop"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sum of money or other asset given as an initial payment, to show good faith, or to reserve something for purchase.",
+        "examples": [
+          "They put down a deposit on the apartment."
+        ],
+        "synonyms": [
+          "earnest money",
+          "down payment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "A sum of money given as a security for a borrowed item, which will be given back when the item is returned, e.g. a bottle deposit or can deposit",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place of deposit; a depository .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( geology ) Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems .",
+    "secondary_definitions": [
+      "( law ) Bailment of personal property to be kept gratuitously for the bailor ( depositor ) and without any benefit to the bailee ( depositary ), e.g. for storage , carriage , repair , etc.",
+      "( banking ) Money placed in a bank account, as for safekeeping or to earn interest.",
+      "Anything left behind on a surface.",
+      "( finance ) A sum of money or other asset given as an initial payment, to show good faith, or to reserve something for purchase.",
+      "A sum of money given as a security for a borrowed item, which will be given back when the item is returned, e.g. a bottle deposit or can deposit",
+      "A place of deposit; a depository ."
+    ]
+  }
+]

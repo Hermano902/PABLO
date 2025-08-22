@@ -1,0 +1,46 @@
+[
+  {
+    "word": "incompressible",
+    "lemma": "incompressible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not compressible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a divergence equal to zero.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus",
+          "of a vector field"
+        ],
+        "label_groups": "calculus , of a vector field"
+      }
+    ],
+    "main_definition": "Not compressible .",
+    "secondary_definitions": [
+      "( calculus , of a vector field ) Having a divergence equal to zero."
+    ]
+  }
+]

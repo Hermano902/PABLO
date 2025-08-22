@@ -1,0 +1,56 @@
+[
+  {
+    "word": "basketball",
+    "lemma": "basketball",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɑːs.kɪt.bɔːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "basketballs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sport in which two opposing teams of five players strive to put a ball through a hoop .",
+        "examples": [
+          "to play basketball",
+          "He pursued basketball as his career."
+        ],
+        "synonyms": [
+          "hoops",
+          "b-ball"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "uncountable"
+        ],
+        "label_groups": "sports , uncountable"
+      },
+      {
+        "definition": "The particular kind of ball used in the sport of basketball.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( sports , uncountable ) A sport in which two opposing teams of five players strive to put a ball through a hoop .",
+    "secondary_definitions": [
+      "( countable ) The particular kind of ball used in the sport of basketball."
+    ]
+  }
+]

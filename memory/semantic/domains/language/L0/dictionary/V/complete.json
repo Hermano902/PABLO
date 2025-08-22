@@ -1,0 +1,78 @@
+[
+  {
+    "word": "complete",
+    "lemma": "complete",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpliːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "completes",
+          "PT": "completed",
+          "PAP": "completed",
+          "PRP": "completing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To finish ; to make done ; to reach the end .",
+        "examples": [
+          "He completed the assignment on time."
+        ],
+        "synonyms": [
+          "accomplish",
+          "finish"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make whole or entire .",
+        "examples": [
+          "The last chapter completes the book nicely."
+        ],
+        "synonyms": [
+          "consummate",
+          "perfect",
+          "top off"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To call from the small blind in an unraised pot .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poker"
+        ],
+        "label_groups": "poker"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To finish ; to make done ; to reach the end .",
+    "secondary_definitions": [
+      "( transitive ) To make whole or entire .",
+      "( poker ) To call from the small blind in an unraised pot ."
+    ]
+  }
+]

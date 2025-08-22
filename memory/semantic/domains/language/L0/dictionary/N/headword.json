@@ -1,0 +1,47 @@
+[
+  {
+    "word": "headword",
+    "lemma": "headword",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɛdwɜːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "headwords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word (or compound term ) used as the title of a list entry or section, particularly in a dictionary , encyclopedia , or thesaurus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The head of a phrase .",
+        "examples": [
+          "In \"a very discerning car shopper\", \"shopper\" is the headword ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "A word (or compound term ) used as the title of a list entry or section, particularly in a dictionary , encyclopedia , or thesaurus .",
+    "secondary_definitions": [
+      "( grammar ) The head of a phrase ."
+    ]
+  }
+]

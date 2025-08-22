@@ -1,0 +1,63 @@
+[
+  {
+    "word": "aspirated",
+    "lemma": "aspirated",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "[pʰɪt]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more aspirated",
+          "SUP": "most aspirated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pronounced with an audible breath , a brief expulsion of air at the end of the sound.",
+        "examples": [
+          "In English, word-initial single voiceless consonants are aspirated , so that pit is pronounced [pʰɪt] but spit is pronounced [spɪt] .",
+          "pit",
+          "spit"
+        ],
+        "synonyms": [
+          "aspirate"
+        ],
+        "antonyms": [
+          "unaspirated"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics"
+        ],
+        "label_groups": "phonetics"
+      },
+      {
+        "definition": "In French , describing an initial letter h which, though silent, does not permit liaison or elision with the preceding word.",
+        "examples": [
+          "The h in haine is aspirated , so one says la haine , not l'haine .",
+          "h",
+          "haine",
+          "la haine",
+          "l'haine"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "French linguistics"
+        ],
+        "label_groups": "French linguistics"
+      }
+    ],
+    "main_definition": "( phonetics ) Pronounced with an audible breath , a brief expulsion of air at the end of the sound.",
+    "secondary_definitions": [
+      "( French linguistics ) In French , describing an initial letter h which, though silent, does not permit liaison or elision with the preceding word."
+    ]
+  }
+]

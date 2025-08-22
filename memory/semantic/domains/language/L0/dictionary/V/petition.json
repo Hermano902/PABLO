@@ -1,0 +1,42 @@
+[
+  {
+    "word": "petition",
+    "lemma": "petition",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pəˈtɪʃ.ən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "petitions",
+          "PT": "petitioned",
+          "PAP": "petitioned",
+          "PRP": "petitioning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a petition to (a sovereign or political authority).",
+        "examples": [
+          "The villagers petitioned the council to demolish the dangerous building."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make a petition to (a sovereign or political authority).",
+    "secondary_definitions": []
+  }
+]

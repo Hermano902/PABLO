@@ -1,0 +1,131 @@
+[
+  {
+    "word": "match",
+    "lemma": "match",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mæt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "matches",
+          "PT": "matched",
+          "PAP": "matched",
+          "PRP": "matching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To agree ; to be equal ; to correspond .",
+        "examples": [
+          "Their interests didn't match , so it took a long time to agree what to do together.",
+          "These two copies are supposed to be identical, but they don't match ."
+        ],
+        "synonyms": [
+          "comport"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To agree with; to be equal to; to correspond to.",
+        "examples": [
+          "His interests didn't match her interests."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To equal or exceed in achievement .",
+        "examples": [
+          "She matched him at every turn: anything he could do, she could do as well or better."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make a successful match or pairing .",
+        "examples": [
+          "They found out about his color-blindness when he couldn't match socks properly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To unite in marriage, to mate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To fit together, or make suitable for fitting together; specifically, to furnish with a tongue and groove at the edges.",
+        "examples": [
+          "to match boards"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be an example of a rule or regex .",
+        "examples": [
+          "The behavior matched one or more rules and was rejected by an edit filter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      }
+    ],
+    "main_definition": "( intransitive ) To agree ; to be equal ; to correspond .",
+    "secondary_definitions": [
+      "( transitive ) To agree with; to be equal to; to correspond to.",
+      "( transitive ) To equal or exceed in achievement .",
+      "( transitive ) To make a successful match or pairing .",
+      "( obsolete ) To unite in marriage, to mate.",
+      "To fit together, or make suitable for fitting together; specifically, to furnish with a tongue and groove at the edges.",
+      "( transitive , programming ) To be an example of a rule or regex ."
+    ]
+  }
+]

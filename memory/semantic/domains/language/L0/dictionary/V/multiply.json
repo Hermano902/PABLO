@@ -1,0 +1,114 @@
+[
+  {
+    "word": "multiply",
+    "lemma": "multiply",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmʌltɪplaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "multiplies",
+          "PT": "multiplied",
+          "PAP": "multiplied",
+          "PRP": "multiplying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To increase the amount , degree or number of (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform multiplication on (a number).",
+        "examples": [
+          "when you multiply 3 by 7, you get 21;  he multiplied several numbers"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "arithmetic",
+          "with by"
+        ],
+        "label_groups": "transitive , arithmetic , with by"
+      },
+      {
+        "definition": "To grow in number.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To breed or propagate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To perform multiplication .",
+        "examples": [
+          "He had been multiplying , but it occurred to him he needed to resolve the exponents, first."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "arithmetic"
+        ],
+        "label_groups": "intransitive , arithmetic"
+      },
+      {
+        "definition": "To be a factor in a multiplication with (another factor).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "rare"
+        ],
+        "label_groups": "transitive , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To increase the amount , degree or number of (something).",
+    "secondary_definitions": [
+      "( transitive , arithmetic , with by ) To perform multiplication on (a number).",
+      "( intransitive ) To grow in number.",
+      "( intransitive ) To breed or propagate .",
+      "( intransitive , arithmetic ) To perform multiplication .",
+      "( transitive , rare ) To be a factor in a multiplication with (another factor)."
+    ]
+  }
+]

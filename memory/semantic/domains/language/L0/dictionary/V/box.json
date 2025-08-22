@@ -1,0 +1,180 @@
+[
+  {
+    "word": "box",
+    "lemma": "box",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɒks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boxes",
+          "PT": "boxed",
+          "PAP": "boxed",
+          "PRP": "boxing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To place inside a box ; to pack in one or more boxes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) Usually followed by in : to surround and enclose in a way that restricts movement ; to corner , to hem in .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To mix two containers of paint of similar colour to ensure that the color is identical .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , agriculture ) To make an incision or hole in (a tree ) for the purpose of procuring the sap .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , architecture ) To enclose with boarding , lathing , etc., so as to conceal (for example, pipes ) or to bring to a required form .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , engineering ) To furnish (for example, the axle of a wheel ) with a box.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , graphic design , printing ) To enclose ( images , text , etc.) in a box.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , object-oriented programming ) To place a value of a primitive type into a casing object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( motor racing ) To enter the pit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To place inside a box ; to pack in one or more boxes.",
+    "secondary_definitions": [
+      "( transitive ) Usually followed by in : to surround and enclose in a way that restricts movement ; to corner , to hem in .",
+      "( transitive ) To mix two containers of paint of similar colour to ensure that the color is identical .",
+      "( transitive , agriculture ) To make an incision or hole in (a tree ) for the purpose of procuring the sap .",
+      "( transitive , architecture ) To enclose with boarding , lathing , etc., so as to conceal (for example, pipes ) or to bring to a required form .",
+      "( transitive , engineering ) To furnish (for example, the axle of a wheel ) with a box.",
+      "( transitive , graphic design , printing ) To enclose ( images , text , etc.) in a box.",
+      "( transitive , object-oriented programming ) To place a value of a primitive type into a casing object .",
+      "( motor racing ) To enter the pit ."
+    ]
+  },
+  {
+    "word": "box",
+    "lemma": "box",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɒks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boxes",
+          "PT": "boxed",
+          "PAP": "boxed",
+          "PRP": "boxing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strike with the fists ; to punch .",
+        "examples": [
+          "to box someone’s ears",
+          "Leave this place before I box you!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fight against (a person) in a boxing match .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "boxing"
+        ],
+        "label_groups": "transitive , boxing"
+      },
+      {
+        "definition": "To participate in boxing; to be a boxer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "stative",
+          "boxing"
+        ],
+        "label_groups": "intransitive , stative , boxing"
+      }
+    ],
+    "main_definition": "( transitive ) To strike with the fists ; to punch .",
+    "secondary_definitions": [
+      "( transitive , boxing ) To fight against (a person) in a boxing match .",
+      "( intransitive , stative , boxing ) To participate in boxing; to be a boxer ."
+    ]
+  }
+]

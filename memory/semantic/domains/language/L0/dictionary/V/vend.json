@@ -1,0 +1,52 @@
+[
+  {
+    "word": "vend",
+    "lemma": "vend",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/vɛnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "vends",
+          "PT": "vended",
+          "PAP": "vended",
+          "PRP": "vending",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Synonym of sell , now especially to sell through a vending machine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To provide or export functionality, especially from an API .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive",
+          "uncommon"
+        ],
+        "label_groups": "programming , transitive , uncommon"
+      }
+    ],
+    "main_definition": "Synonym of sell , now especially to sell through a vending machine .",
+    "secondary_definitions": [
+      "( programming , transitive , uncommon ) To provide or export functionality, especially from an API ."
+    ]
+  }
+]

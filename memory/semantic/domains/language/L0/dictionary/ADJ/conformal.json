@@ -1,0 +1,62 @@
+[
+  {
+    "word": "conformal",
+    "lemma": "conformal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kənˈfɔːməl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more conformal",
+          "SUP": "most conformal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That conforms , especially to the shape of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That preserves angles between intersecting curves .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a transformation"
+        ],
+        "label_groups": "mathematics , of a transformation"
+      },
+      {
+        "definition": "That preserves relative angles over small scales, at all but a limited number of distinct points.",
+        "examples": [
+          "On conformal map projections, the scale depends on location only and not direction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cartography",
+          "of a map projection"
+        ],
+        "label_groups": "cartography , of a map projection"
+      }
+    ],
+    "main_definition": "That conforms , especially to the shape of something.",
+    "secondary_definitions": [
+      "( mathematics , of a transformation ) That preserves angles between intersecting curves .",
+      "( cartography , of a map projection ) That preserves relative angles over small scales, at all but a limited number of distinct points."
+    ]
+  }
+]

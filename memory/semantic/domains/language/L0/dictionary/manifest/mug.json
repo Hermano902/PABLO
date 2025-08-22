@@ -1,0 +1,38 @@
+{
+  "word": "mug",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mug.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mug.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\mug.json"
+  },
+  "timestamp": "2025-08-19T09:41:13.587798Z"
+}

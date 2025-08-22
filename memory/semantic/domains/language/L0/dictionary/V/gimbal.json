@@ -1,0 +1,68 @@
+[
+  {
+    "word": "gimbal",
+    "lemma": "gimbal",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɪmbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "gimbals",
+          "PT": "gimballed",
+          "PAP": "gimballed",
+          "PRP": "gimballing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To suspend using a gimbal or gimbals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move a reaction engine about on a gimbal so as to obtain pitching and yawing correction moments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "aerospace"
+        ],
+        "label_groups": "transitive , aerospace"
+      },
+      {
+        "definition": "To swivel , move on an axis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To suspend using a gimbal or gimbals.",
+    "secondary_definitions": [
+      "( transitive , aerospace ) To move a reaction engine about on a gimbal so as to obtain pitching and yawing correction moments .",
+      "( intransitive ) To swivel , move on an axis ."
+    ]
+  }
+]

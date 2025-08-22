@@ -1,0 +1,35 @@
+[
+  {
+    "word": "superuser",
+    "lemma": "superuser",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "superusers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A user with complete access to the operating system and its configuration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A user with complete access to the operating system and its configuration .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "word": "disco",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\disco.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\disco.json"
+  },
+  "timestamp": "2025-08-19T02:01:14.602615Z"
+}

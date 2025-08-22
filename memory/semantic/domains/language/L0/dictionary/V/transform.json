@@ -1,0 +1,122 @@
+[
+  {
+    "word": "transform",
+    "lemma": "transform",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈfɔːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "transforms",
+          "PT": "transformed",
+          "PAP": "transformed",
+          "PRP": "transforming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change greatly the appearance or form of.",
+        "examples": [
+          "The alchemists sought to transform lead into gold."
+        ],
+        "synonyms": [
+          "convert",
+          "make over",
+          "transmogrify",
+          "transmute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To change the nature , condition or function of; to change in nature, disposition, heart, character, etc.; to convert .",
+        "examples": [],
+        "synonyms": [
+          "transmogrify",
+          "transmute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To subject to a transformation ; to change into another form without altering the value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To subject to the action of a transformer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "electricity"
+        ],
+        "label_groups": "transitive , electricity"
+      },
+      {
+        "definition": "To subject (a cell) to transformation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "genetics"
+        ],
+        "label_groups": "transitive , genetics"
+      },
+      {
+        "definition": "To undergo a transformation ; to change in appearance or character.",
+        "examples": [],
+        "synonyms": [
+          "transmogrify",
+          "transmute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To change greatly the appearance or form of.",
+    "secondary_definitions": [
+      "( transitive ) To change the nature , condition or function of; to change in nature, disposition, heart, character, etc.; to convert .",
+      "( transitive , mathematics ) To subject to a transformation ; to change into another form without altering the value.",
+      "( transitive , electricity ) To subject to the action of a transformer .",
+      "( transitive , genetics ) To subject (a cell) to transformation.",
+      "( intransitive ) To undergo a transformation ; to change in appearance or character."
+    ]
+  }
+]

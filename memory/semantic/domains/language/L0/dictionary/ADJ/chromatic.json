@@ -1,0 +1,135 @@
+[
+  {
+    "word": "chromatic",
+    "lemma": "chromatic",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kɹəˈmæt.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more chromatic",
+          "SUP": "most chromatic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Uses relating to colour",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( not comparable ) Characterized or caused by, or relating to, colour or hue .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "nonchromatic"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( comparable ) Brightly coloured ; colourful , vivid .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "achromatic",
+              "drab",
+              "dull",
+              "colourless",
+              "nonchromatic"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( not comparable , optics ) Having the capacity to separate spectral colours by refraction .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( not comparable , graph theory ) Relating to colorings of graphs .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( not comparable , music )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( Ancient Greece , historical ) One of three types of tetrachord (the others being the diatonic and enharmonic ), with an interval between half and four - fifths of the total interval of a tetrachord.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Relating to or using notes not belonging to the diatonic scale of the key in which a passage of music is written .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "achromatic",
+              "diatonic"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Uses relating to colour",
+    "secondary_definitions": [
+      "( not comparable , music )"
+    ]
+  },
+  {
+    "word": "chromatic",
+    "lemma": "chromatic",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/kɹəˈmæt.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Relating to chromatin ( “ a complex of DNA , RNA , and proteins within the cell nucleus out of which chromosomes condense during cell division ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "( biology ) Relating to chromatin ( “ a complex of DNA , RNA , and proteins within the cell nucleus out of which chromosomes condense during cell division ” ) .",
+    "secondary_definitions": []
+  }
+]

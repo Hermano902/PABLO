@@ -1,0 +1,175 @@
+[
+  {
+    "word": "zero",
+    "lemma": "zero",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈzɪəɹəʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "zeros"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The numeric symbol that represents the cardinal number zero .",
+        "examples": [
+          "In unary and k-adic notation in general, zero is the empty string.",
+          "Write 0.0 to indicate a floating point number rather than the integer zero .",
+          "The zero sign in American Sign Language is considered rude in some cultures."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The digit 0 in the decimal , binary , and all other base numbering systems.",
+        "examples": [
+          "One million has six zeroes ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Nothing , or none .",
+        "examples": [
+          "The shipment was lost, so they had zero in stock.",
+          "He knows zero about humour.",
+          "In the end, all of our hard work amounted to zero ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "uncountable"
+        ],
+        "label_groups": "informal , uncountable"
+      },
+      {
+        "definition": "The value of a magnitude corresponding to the cardinal number zero.",
+        "examples": [
+          "The electromagnetic field does not drop all of the way to zero before a reversal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The point on a scale at which numbering or measurement originates.",
+        "examples": [
+          "The temperature outside is ten degrees below zero ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A value of the independent variables of a function, for which the function is equal to zero.",
+        "examples": [
+          "The zeroes of a polynomial are its roots by the fundamental theorem of algebra.",
+          "The derivative of a continuous, differentiable function that twice crosses the axis must have a zero .",
+          "The nontrivial zeros of the Riemann zeta function may all lie on the critical line."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The additive identity element of a monoid or greater algebraic structure , particularly a group or ring .",
+        "examples": [
+          "Since a commutative zero is the inverse of any additive identity, it must be unique when it exists.",
+          "The zero (of a ring or field) has the property that the product of the zero with any element yields the zero .",
+          "The quotient ring over a maximal ideal is a field with a single zero element."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "algebra"
+        ],
+        "label_groups": "mathematics , algebra"
+      },
+      {
+        "definition": "A person of little or no importance .",
+        "examples": [
+          "They rudely treated him like a zero ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "A Mitsubishi A6M Zero , a long range fighter aircraft operated by the Imperial Japanese Navy Air Service from 1940 to 1945.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "usually capitalized"
+        ],
+        "label_groups": "military , usually capitalized"
+      },
+      {
+        "definition": "A setting of calibrated instruments such as a firearm , corresponding to a zero value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A security which has a zero coupon (paying no periodic interest).",
+        "examples": [
+          "The takeovers were financed by issuing zeroes ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "The numeric symbol that represents the cardinal number zero .",
+    "secondary_definitions": [
+      "The digit 0 in the decimal , binary , and all other base numbering systems.",
+      "( informal , uncountable ) Nothing , or none .",
+      "The value of a magnitude corresponding to the cardinal number zero.",
+      "The point on a scale at which numbering or measurement originates.",
+      "( mathematics ) A value of the independent variables of a function, for which the function is equal to zero.",
+      "( mathematics , algebra ) The additive identity element of a monoid or greater algebraic structure , particularly a group or ring .",
+      "( slang ) A person of little or no importance .",
+      "( military , usually capitalized ) A Mitsubishi A6M Zero , a long range fighter aircraft operated by the Imperial Japanese Navy Air Service from 1940 to 1945.",
+      "A setting of calibrated instruments such as a firearm , corresponding to a zero value.",
+      "( finance ) A security which has a zero coupon (paying no periodic interest)."
+    ]
+  }
+]

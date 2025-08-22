@@ -1,0 +1,83 @@
+[
+  {
+    "word": "equilibrium",
+    "lemma": "equilibrium",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɛkwɪˈlɪbɹɪəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "equilibriums"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The condition of a system in which competing influences are balanced , resulting in no net change .",
+        "examples": [],
+        "synonyms": [
+          "balance",
+          "stability"
+        ],
+        "antonyms": [
+          "disequilibrium",
+          "imbalance",
+          "instability"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Mental balance .",
+        "examples": [],
+        "synonyms": [
+          "sanity"
+        ],
+        "antonyms": [
+          "insanity",
+          "instability",
+          "madness"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of a reaction in which the rates of the forward and reverse reactions are the same.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "The state of a body at rest or in uniform motion in which the resultant of all forces on it is zero .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "disequilibrium",
+          "non-equilibrium"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "The condition of a system in which competing influences are balanced , resulting in no net change .",
+    "secondary_definitions": [
+      "Mental balance .",
+      "( chemistry ) The state of a reaction in which the rates of the forward and reverse reactions are the same.",
+      "( physics ) The state of a body at rest or in uniform motion in which the resultant of all forces on it is zero ."
+    ]
+  }
+]

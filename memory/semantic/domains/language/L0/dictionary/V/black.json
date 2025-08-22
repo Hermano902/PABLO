@@ -1,0 +1,75 @@
+[
+  {
+    "word": "black",
+    "lemma": "black",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/blæk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "blacks",
+          "PT": "blacked",
+          "PAP": "blacked",
+          "PRP": "blacking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make black ; to blacken .",
+        "examples": [],
+        "synonyms": [
+          "blacken",
+          "darken",
+          "swarten"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply blacking to (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To boycott , usually as part of an industrial dispute.",
+        "examples": [],
+        "synonyms": [
+          "blackball",
+          "blacklist"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British",
+          "transitive"
+        ],
+        "label_groups": "British , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make black ; to blacken .",
+    "secondary_definitions": [
+      "( transitive ) To apply blacking to (something).",
+      "( British , transitive ) To boycott , usually as part of an industrial dispute."
+    ]
+  }
+]

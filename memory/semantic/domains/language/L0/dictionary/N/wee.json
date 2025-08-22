@@ -1,0 +1,75 @@
+[
+  {
+    "word": "wee",
+    "lemma": "wee",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/wiː/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A short time or short distance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A short time or short distance .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "wee",
+    "lemma": "wee",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/wiː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wees"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Urine.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "uncountable"
+        ],
+        "label_groups": "colloquial , uncountable"
+      },
+      {
+        "definition": "An act of urination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "countable"
+        ],
+        "label_groups": "colloquial , countable"
+      }
+    ],
+    "main_definition": "( colloquial , uncountable ) Urine.",
+    "secondary_definitions": [
+      "( colloquial , countable ) An act of urination ."
+    ]
+  }
+]

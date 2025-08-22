@@ -1,0 +1,84 @@
+[
+  {
+    "word": "tin",
+    "lemma": "tin",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tins",
+          "PT": "tinned",
+          "PAP": "tinned",
+          "PRP": "tinning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place into a metal can (ie. a tin; be it tin, steel, aluminum) in order to preserve.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cover with tin.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To coat with solder",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To coat with solder, in preparation for soldering, to ensure a good solder joint",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To coat with solder, in order to consolidate braided wire, so as to make contact with all strands and reduce fragility of the fraying wire",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To place into a metal can (ie. a tin; be it tin, steel, aluminum) in order to preserve.",
+    "secondary_definitions": [
+      "( transitive ) To cover with tin.",
+      "( transitive ) To coat with solder"
+    ]
+  }
+]

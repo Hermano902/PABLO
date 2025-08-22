@@ -1,0 +1,70 @@
+[
+  {
+    "word": "ignorable",
+    "lemma": "ignorable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more ignorable",
+          "SUP": "most ignorable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be ignored .",
+        "examples": [
+          "Users on this Internet chat system are ignorable by right-clicking the user name."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Insignificant or trivial enough to be ignored .",
+        "examples": [],
+        "synonyms": [
+          "negligible",
+          "neglectable",
+          "trivial",
+          "insignificant"
+        ],
+        "antonyms": [
+          "unignorable",
+          "noticeable",
+          "important",
+          "radical",
+          "significant"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unrelated to the parameters being estimated",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "informative"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "of missing data"
+        ],
+        "label_groups": "statistics , of missing data"
+      }
+    ],
+    "main_definition": "Able to be ignored .",
+    "secondary_definitions": [
+      "Insignificant or trivial enough to be ignored .",
+      "( statistics , of missing data ) Unrelated to the parameters being estimated"
+    ]
+  }
+]

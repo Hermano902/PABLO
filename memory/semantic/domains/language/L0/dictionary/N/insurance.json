@@ -1,0 +1,88 @@
+[
+  {
+    "word": "insurance",
+    "lemma": "insurance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈʃʊɹ.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "insurances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A means of indemnity against a future occurrence of an uncertain event.",
+        "examples": [
+          "The car was totalled, but fortunately I had insurance ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The business of providing insurance.",
+        "examples": [
+          "After five years in banking, I switched to insurance ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any attempt to forestall an unfavorable event .",
+        "examples": [
+          "The sky was clear, but I took my umbrella for insurance ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "A bet made after the deal, which pays off if the dealer has blackjack .",
+        "examples": [
+          "I only take insurance if the count is right."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "blackjack"
+        ],
+        "label_groups": "blackjack"
+      },
+      {
+        "definition": "An insurance policy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "A means of indemnity against a future occurrence of an uncertain event.",
+    "secondary_definitions": [
+      "The business of providing insurance.",
+      "( figurative ) Any attempt to forestall an unfavorable event .",
+      "( blackjack ) A bet made after the deal, which pays off if the dealer has blackjack .",
+      "( countable ) An insurance policy ."
+    ]
+  }
+]

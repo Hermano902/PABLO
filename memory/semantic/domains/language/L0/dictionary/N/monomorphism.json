@@ -1,0 +1,62 @@
+[
+  {
+    "word": "monomorphism",
+    "lemma": "monomorphism",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "monomorphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "an injective homomorphism",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "the absence of sexual dimorphism",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "A morphism n such that for any other morphisms f and g , if n ∘ f = n ∘ g {\\displaystyle n\\circ f=n\\circ g} then f = g .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "( mathematics ) an injective homomorphism",
+    "secondary_definitions": [
+      "( biology ) the absence of sexual dimorphism",
+      "( category theory ) A morphism n such that for any other morphisms f and g , if n ∘ f = n ∘ g {\\displaystyle n\\circ f=n\\circ g} then f = g ."
+    ]
+  }
+]

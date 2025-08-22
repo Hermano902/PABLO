@@ -1,0 +1,73 @@
+[
+  {
+    "word": "reward",
+    "lemma": "reward",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈwɔːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rewards",
+          "PT": "rewarded",
+          "PAP": "rewarded",
+          "PRP": "rewarding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give a reward to or for.",
+        "examples": [
+          "Why are you rewarding the child for misbehaving?",
+          "Why are you rewarding that bad behaviour?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be a recompense for.",
+        "examples": [
+          "Decorations are meant to reward the most meritous acts and services."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give (something) as a reward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To give a reward to or for.",
+    "secondary_definitions": [
+      "( transitive ) To be a recompense for.",
+      "( obsolete , transitive ) To give (something) as a reward."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "perturbation",
+    "lemma": "perturbation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "perturbations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Agitation ; the state of being perturbed",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A small change in a physical system , or more broadly any definable system (such as a biological or economic system)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Variation in an orbit due to the influence of external bodies",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "astronomy",
+          "physics"
+        ],
+        "label_groups": "countable , astronomy , physics"
+      }
+    ],
+    "main_definition": "( uncountable ) Agitation ; the state of being perturbed",
+    "secondary_definitions": [
+      "( countable ) A small change in a physical system , or more broadly any definable system (such as a biological or economic system)",
+      "( countable , astronomy , physics ) Variation in an orbit due to the influence of external bodies"
+    ]
+  }
+]

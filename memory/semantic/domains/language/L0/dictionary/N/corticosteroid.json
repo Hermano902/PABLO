@@ -1,0 +1,51 @@
+[
+  {
+    "word": "corticosteroid",
+    "lemma": "corticosteroid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "corticosteroids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of a group of steroid hormones , secreted by the adrenal cortex , that are involved in a large range of physiological systems.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry",
+          "steroids"
+        ],
+        "label_groups": "biochemistry , steroids"
+      },
+      {
+        "definition": "Any of several synthetic hormones of related structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry",
+          "pharmacology"
+        ],
+        "label_groups": "biochemistry , pharmacology"
+      }
+    ],
+    "main_definition": "( biochemistry , steroids ) Any of a group of steroid hormones , secreted by the adrenal cortex , that are involved in a large range of physiological systems.",
+    "secondary_definitions": [
+      "( biochemistry , pharmacology ) Any of several synthetic hormones of related structure."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "submanifold",
+    "lemma": "submanifold",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "submanifolds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A manifold which is a subset of another, so that the inclusion function is an embedding or, sometimes, an immersion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      }
+    ],
+    "main_definition": "( topology ) A manifold which is a subset of another, so that the inclusion function is an embedding or, sometimes, an immersion .",
+    "secondary_definitions": []
+  }
+]

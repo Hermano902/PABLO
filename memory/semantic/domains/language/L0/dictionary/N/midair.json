@@ -1,0 +1,53 @@
+[
+  {
+    "word": "midair",
+    "lemma": "midair",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "midairs"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The condition of being airborne.",
+        "examples": [
+          "The leaping dog spun around in midair ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A collision between two or more aerospace vehicles in flight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "aeronautics"
+        ],
+        "label_groups": "countable , aeronautics"
+      }
+    ],
+    "main_definition": "( uncountable ) The condition of being airborne.",
+    "secondary_definitions": [
+      "( countable , aeronautics ) A collision between two or more aerospace vehicles in flight ."
+    ]
+  }
+]

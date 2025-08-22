@@ -1,0 +1,90 @@
+[
+  {
+    "word": "detention",
+    "lemma": "detention",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈtɛnʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "detentions"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of detaining or the state of being detained .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A temporary state of custody or confinement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Confinement of a prisoner awaiting trial .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "law"
+            ],
+            "label_groups": "law"
+          },
+          {
+            "definition": "A punishment given to a student for a minor infraction , typically requiring the student to report to a designated room during recess or outside of school hours to work on homework or perform busywork .",
+            "examples": [
+              "be stuck in detention"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "pedagogy"
+            ],
+            "label_groups": "pedagogy"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The bare physical control without the mental element of intention required for possession .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "civil law"
+        ],
+        "label_groups": "civil law"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of detaining or the state of being detained .",
+    "secondary_definitions": [
+      "( countable ) A temporary state of custody or confinement .",
+      "( civil law ) The bare physical control without the mental element of intention required for possession ."
+    ]
+  }
+]

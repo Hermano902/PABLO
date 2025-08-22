@@ -1,0 +1,70 @@
+[
+  {
+    "word": "accolade",
+    "lemma": "accolade",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæk.əˌleɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "accolades",
+          "PT": "accoladed",
+          "PAP": "accoladed",
+          "PRP": "accolading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To embrace or kiss in salutation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To confer a knighthood on.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "historical"
+        ],
+        "label_groups": "transitive , historical"
+      },
+      {
+        "definition": "To confer praise or awards on.",
+        "examples": [
+          "an accoladed novel"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To embrace or kiss in salutation.",
+    "secondary_definitions": [
+      "( transitive , historical ) To confer a knighthood on.",
+      "( transitive ) To confer praise or awards on."
+    ]
+  }
+]

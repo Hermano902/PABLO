@@ -1,0 +1,90 @@
+[
+  {
+    "word": "baseline",
+    "lemma": "baseline",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbeɪslaɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "baselines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line that is a base for measurement or for construction .",
+        "examples": [
+          "A laser level generates a convenient baseline for interior work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A datum used as the basis for calculation or for comparison .",
+        "examples": [
+          "We used the last doctor visit to provide baselines for vital statistics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A line used as the basis for the alignment of glyphs .",
+        "examples": [
+          "Several characters typically have descenders below the lower baseline ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      },
+      {
+        "definition": "The line at the farthest ends of the court indicating the boundary of the area of play.",
+        "examples": [
+          "The umpire missed the call. The ball hit the baseline ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "tennis"
+        ],
+        "label_groups": "tennis"
+      },
+      {
+        "definition": "A configuration of software , hardware , or a process that is established and documented as a point of reference .",
+        "examples": [
+          "The baseline configuration includes unsupported components."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      }
+    ],
+    "main_definition": "A line that is a base for measurement or for construction .",
+    "secondary_definitions": [
+      "A datum used as the basis for calculation or for comparison .",
+      "( typography ) A line used as the basis for the alignment of glyphs .",
+      "( tennis ) The line at the farthest ends of the court indicating the boundary of the area of play.",
+      "( engineering ) A configuration of software , hardware , or a process that is established and documented as a point of reference ."
+    ]
+  }
+]

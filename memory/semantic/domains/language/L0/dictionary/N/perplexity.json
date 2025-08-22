@@ -1,0 +1,58 @@
+[
+  {
+    "word": "perplexity",
+    "lemma": "perplexity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pəˈplɛksɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "perplexities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state or quality of being perplexed .",
+        "examples": [],
+        "synonyms": [
+          "puzzlement",
+          "bewilderment",
+          "confusion"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something that perplexes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of how well a probability distribution or model predicts a sample .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information theory"
+        ],
+        "label_groups": "information theory"
+      }
+    ],
+    "main_definition": "The state or quality of being perplexed .",
+    "secondary_definitions": [
+      "Something that perplexes .",
+      "( information theory ) A measure of how well a probability distribution or model predicts a sample ."
+    ]
+  }
+]

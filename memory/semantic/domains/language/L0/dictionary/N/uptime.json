@@ -1,0 +1,45 @@
+[
+  {
+    "word": "uptime",
+    "lemma": "uptime",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "uptimes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The period of time a computer has functioned since last requiring a reboot .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The amount of time, or the proportion of total time, during which some system or machinery is operable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing ) The period of time a computer has functioned since last requiring a reboot .",
+    "secondary_definitions": [
+      "The amount of time, or the proportion of total time, during which some system or machinery is operable ."
+    ]
+  }
+]

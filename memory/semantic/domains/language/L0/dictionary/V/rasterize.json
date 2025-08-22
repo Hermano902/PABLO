@@ -1,0 +1,41 @@
+[
+  {
+    "word": "rasterize",
+    "lemma": "rasterize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rasterizes",
+          "PT": "rasterized",
+          "PAP": "rasterized",
+          "PRP": "rasterizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert (an image ) into a grid of points , such as a bitmap , for display or printing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To convert (an image ) into a grid of points , such as a bitmap , for display or printing .",
+    "secondary_definitions": []
+  }
+]

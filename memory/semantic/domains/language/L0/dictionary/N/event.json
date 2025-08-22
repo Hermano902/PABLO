@@ -1,0 +1,144 @@
+[
+  {
+    "word": "event",
+    "lemma": "event",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈvɛnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "events"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An occurrence ; something that happens.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A prearranged social activity ( function , etc.)",
+        "examples": [
+          "I went to an event in San Francisco last week.",
+          "Where will the event be held?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of several contests that combine to make up a competition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An end result ; an outcome (now chiefly in phrases).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A remarkable person .",
+        "examples": [],
+        "synonyms": [
+          "sensation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "uncommon",
+          "dated"
+        ],
+        "label_groups": "figurative , uncommon , dated"
+      },
+      {
+        "definition": "A point in spacetime having three spatial coordinates and one temporal coordinate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A possible action that the user can perform that is monitored by an application or the operating system (event listener ). When an event occurs an event handler is called which performs a specific task.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A set of some of the possible outcomes; a subset of the sample space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "probability theory"
+        ],
+        "label_groups": "probability theory"
+      },
+      {
+        "definition": "An affair in hand; business; enterprise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An episode of severe health conditions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "An occurrence ; something that happens.",
+    "secondary_definitions": [
+      "A prearranged social activity ( function , etc.)",
+      "One of several contests that combine to make up a competition.",
+      "An end result ; an outcome (now chiefly in phrases).",
+      "( figurative , uncommon , dated ) A remarkable person .",
+      "( physics ) A point in spacetime having three spatial coordinates and one temporal coordinate.",
+      "( computing ) A possible action that the user can perform that is monitored by an application or the operating system (event listener ). When an event occurs an event handler is called which performs a specific task.",
+      "( probability theory ) A set of some of the possible outcomes; a subset of the sample space .",
+      "( obsolete ) An affair in hand; business; enterprise.",
+      "( medicine ) An episode of severe health conditions."
+    ]
+  }
+]

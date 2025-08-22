@@ -1,0 +1,127 @@
+[
+  {
+    "word": "expect",
+    "lemma": "expect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈspɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "expects",
+          "PT": "expected",
+          "PAP": "expected",
+          "PRP": "expecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To predict or believe that something will happen",
+        "examples": [
+          "when you least expect it",
+          "I expect to be able to walk again after getting over my broken leg.",
+          "The hostage is expected to be released later today.",
+          "I expect it'll rain this weekend, but I hope it won't.",
+          "I did not expect you'd come before I asked you to, but do expect you to apologize for it."
+        ],
+        "synonyms": [
+          "anticipate",
+          "hope",
+          "look for"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To consider obligatory or required .",
+        "examples": [],
+        "synonyms": [
+          "call for",
+          "demand"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To consider reasonably due .",
+        "examples": [
+          "My parents expected too much of me when I was in college.",
+          "You are expected to get the task done by the end of next week."
+        ],
+        "synonyms": [
+          "hope",
+          "want",
+          "wish"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be pregnant , to consider a baby due.",
+        "examples": [
+          "We are expecting our third in June."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "continuous aspect only",
+          "of a woman or couple"
+        ],
+        "label_groups": "continuous aspect only, of a woman or couple"
+      },
+      {
+        "definition": "To wait for; to await .",
+        "examples": [],
+        "synonyms": [
+          "await"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To wait; to stay.",
+        "examples": [],
+        "synonyms": [
+          "wait"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To predict or believe that something will happen",
+    "secondary_definitions": [
+      "To consider obligatory or required .",
+      "To consider reasonably due .",
+      "( continuous aspect only, of a woman or couple ) To be pregnant , to consider a baby due.",
+      "( obsolete , transitive ) To wait for; to await .",
+      "( obsolete , intransitive ) To wait; to stay."
+    ]
+  }
+]

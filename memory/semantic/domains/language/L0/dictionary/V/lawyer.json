@@ -1,0 +1,84 @@
+[
+  {
+    "word": "lawyer",
+    "lemma": "lawyer",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɔːjə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lawyers",
+          "PT": "lawyered",
+          "PAP": "lawyered",
+          "PRP": "lawyering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To practice law.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "intransitive"
+        ],
+        "label_groups": "informal , intransitive"
+      },
+      {
+        "definition": "To perform, or attempt to perform, the work of a lawyer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make legalistic arguments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To barrage (a person) with questions in order to get them to admit something.",
+        "examples": [
+          "You've been lawyered !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "informal , transitive"
+      }
+    ],
+    "main_definition": "( informal , intransitive ) To practice law.",
+    "secondary_definitions": [
+      "( intransitive ) To perform, or attempt to perform, the work of a lawyer.",
+      "( intransitive ) To make legalistic arguments .",
+      "( informal , transitive ) To barrage (a person) with questions in order to get them to admit something."
+    ]
+  }
+]

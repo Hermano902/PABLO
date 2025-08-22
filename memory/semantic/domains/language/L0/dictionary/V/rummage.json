@@ -1,0 +1,91 @@
+[
+  {
+    "word": "rummage",
+    "lemma": "rummage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹʌm.ɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rummages",
+          "PT": "rummaged",
+          "PAP": "rummaged",
+          "PRP": "rummaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arrange (cargo, goods, etc.) in the hold of a ship; to move or rearrange such goods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      },
+      {
+        "definition": "To search a vessel for smuggled goods.",
+        "examples": [
+          "After the long voyage, the customs officers rummaged the ship."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      },
+      {
+        "definition": "To search something thoroughly and with disregard for the way in which things were arranged.",
+        "examples": [
+          "She rummaged her purse in search of the keys.",
+          "The burglars rummaged the entire house for cash and jewellery.",
+          "She rummaged in the drawers trying to find the missing sock."
+        ],
+        "synonyms": [
+          "ransack",
+          "rifle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To hastily search for something in a confined space and among many items by carelessly turning things over or pushing things aside; dig through carelessly.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive , nautical ) To arrange (cargo, goods, etc.) in the hold of a ship; to move or rearrange such goods.",
+    "secondary_definitions": [
+      "( transitive , nautical ) To search a vessel for smuggled goods.",
+      "( transitive ) To search something thoroughly and with disregard for the way in which things were arranged."
+    ]
+  }
+]

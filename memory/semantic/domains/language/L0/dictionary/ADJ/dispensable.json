@@ -1,0 +1,97 @@
+[
+  {
+    "word": "dispensable",
+    "lemma": "dispensable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈpɛnsəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more dispensable",
+          "SUP": "most dispensable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be done without; easily replaced .",
+        "examples": [],
+        "synonyms": [
+          "disposable",
+          "expendable",
+          "inessential"
+        ],
+        "antonyms": [
+          "indispensable",
+          "nondispensable",
+          "nondisposable",
+          "irreplaceable",
+          "essential",
+          "crucial",
+          "vital"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Capable of being dispensed .",
+        "examples": [],
+        "synonyms": [
+          "distributable"
+        ],
+        "antonyms": [
+          "indispensable",
+          "undispensable",
+          "nondistributable",
+          "undistributable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Subject to dispensation ; possible to relax , exempt from, or annul .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "indispensable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a law",
+          "rule",
+          "vow",
+          "etc."
+        ],
+        "label_groups": "of a law, rule, vow, etc."
+      },
+      {
+        "definition": "Not essential to be taken in as part of an organism 's diet , as it can be synthesized de novo .",
+        "examples": [],
+        "synonyms": [
+          "nonessential"
+        ],
+        "antonyms": [
+          "essential"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry",
+          "nutrition",
+          "of an amino acid"
+        ],
+        "label_groups": "biochemistry , nutrition , of an amino acid"
+      }
+    ],
+    "main_definition": "Able to be done without; easily replaced .",
+    "secondary_definitions": [
+      "Capable of being dispensed .",
+      "( of a law, rule, vow, etc. ) Subject to dispensation ; possible to relax , exempt from, or annul .",
+      "( biochemistry , nutrition , of an amino acid ) Not essential to be taken in as part of an organism 's diet , as it can be synthesized de novo ."
+    ]
+  }
+]

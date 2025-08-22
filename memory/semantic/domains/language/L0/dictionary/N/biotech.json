@@ -1,0 +1,54 @@
+[
+  {
+    "word": "biotech",
+    "lemma": "biotech",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪəʊˌtɛk/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "biotechs"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Biotechnology .",
+        "examples": [
+          "I’m planning to work in biotech after college."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A company specializing in biotechnology, or stock in such a company.",
+        "examples": [
+          "A lot of people invested in biotechs back in the ’90s."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Biotechnology .",
+    "secondary_definitions": [
+      "( countable ) A company specializing in biotechnology, or stock in such a company."
+    ]
+  }
+]

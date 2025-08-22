@@ -1,0 +1,47 @@
+[
+  {
+    "word": "disambiguation",
+    "lemma": "disambiguation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪsæmˌbɪɡjuːˈeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "disambiguations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The removal of ambiguity .",
+        "examples": [
+          "The lexical disambiguation relies on looking ahead to identify possible senses."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A page on a wiki containing links to two or more topics with the same name.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "wiki jargon"
+        ],
+        "label_groups": "wiki jargon"
+      }
+    ],
+    "main_definition": "The removal of ambiguity .",
+    "secondary_definitions": [
+      "( wiki jargon ) A page on a wiki containing links to two or more topics with the same name."
+    ]
+  }
+]

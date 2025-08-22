@@ -1,0 +1,49 @@
+[
+  {
+    "word": "retrovirus",
+    "lemma": "retrovirus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "retroviruses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of a group of viruses which insert a copy of their RNA genome into the DNA of a host cell , thus changing the genome of that cell.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "virology"
+        ],
+        "label_groups": "virology"
+      },
+      {
+        "definition": "A computer virus that seeks to attack antivirus programs in an attempt to avoid detection.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer security"
+        ],
+        "label_groups": "computer security"
+      }
+    ],
+    "main_definition": "( virology ) Any of a group of viruses which insert a copy of their RNA genome into the DNA of a host cell , thus changing the genome of that cell.",
+    "secondary_definitions": [
+      "( computer security ) A computer virus that seeks to attack antivirus programs in an attempt to avoid detection."
+    ]
+  }
+]

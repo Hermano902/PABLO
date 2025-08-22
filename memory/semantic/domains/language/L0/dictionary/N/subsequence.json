@@ -1,0 +1,88 @@
+[
+  {
+    "word": "subsequence",
+    "lemma": "subsequence",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subsequences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A subsequent act or thing; a sequel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being subsequent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A subsequent act or thing; a sequel .",
+    "secondary_definitions": [
+      "The state of being subsequent."
+    ]
+  },
+  {
+    "word": "subsequence",
+    "lemma": "subsequence",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subsequences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sequence that is contained within a larger one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A subset of an array with the same ordering .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( mathematics ) A sequence that is contained within a larger one.",
+    "secondary_definitions": [
+      "( computer science ) A subset of an array with the same ordering ."
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "barber",
+    "lemma": "barber",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɑː.bə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "barbers",
+          "PT": "barbered",
+          "PAP": "barbered",
+          "PRP": "barbering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut the hair or beard of (a person).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To chatter , talk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "slang"
+        ],
+        "label_groups": [
+          "intransitive",
+          "US , slang"
+        ]
+      }
+    ],
+    "main_definition": "( transitive ) To cut the hair or beard of (a person).",
+    "secondary_definitions": [
+      "( intransitive ) ( US , slang ) To chatter , talk ."
+    ]
+  }
+]

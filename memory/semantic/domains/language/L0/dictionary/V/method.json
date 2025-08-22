@@ -1,0 +1,58 @@
+[
+  {
+    "word": "method",
+    "lemma": "method",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛθəd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "methods",
+          "PT": "methoded",
+          "PAP": "methoded",
+          "PRP": "methoding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To apply a method to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply particular treatment methods to (a mold ).",
+        "examples": [
+          "The company employs extensive use of 3D modelling combined with solidification simulation to ensure that critical castings are properly methoded ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "casting",
+          "by extension",
+          "transitive"
+        ],
+        "label_groups": "casting , by extension , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To apply a method to.",
+    "secondary_definitions": [
+      "( casting , by extension , transitive ) To apply particular treatment methods to (a mold )."
+    ]
+  }
+]

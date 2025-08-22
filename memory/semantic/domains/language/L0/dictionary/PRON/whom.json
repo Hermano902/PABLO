@@ -1,0 +1,111 @@
+[
+  {
+    "word": "whom",
+    "lemma": "whom",
+    "etymology": "Etymology",
+    "pos": "PRON",
+    "raw_label": "Pronoun",
+    "pos_index": 1,
+    "pronunciation": "/huːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "What person or people; which person or people.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "As the object of a verb.",
+            "examples": [
+              "Whom did you ask?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "As the object of a preposition.",
+            "examples": [
+              "To whom are you referring?",
+              "With whom were you talking?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "interrogative"
+        ],
+        "label_groups": "interrogative"
+      },
+      {
+        "definition": "Used to refer to a previously mentioned person or people.",
+        "examples": [
+          "That is the woman whom I spoke to earlier. (defining)",
+          "(defining)",
+          "Mr Smith, whom we all know well, will be giving the speech. (non-defining)",
+          "(non-defining)",
+          "He's a person with whom I work (defining)",
+          "(defining)",
+          "We have ten employees, half of whom are carpenters. (non-defining)",
+          "(non-defining)",
+          "There is a new girl in the class whom I consider to be a wunderkind.",
+          "She felt miserable unless she had neighbors with whom to quarrel regularly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relative"
+        ],
+        "label_groups": "relative"
+      },
+      {
+        "definition": "The person(s) whom; whomever .",
+        "examples": [
+          "To whom it may concern, all business of John Smith Ltd. has now been transferred to Floggitt & Runne."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fused relative",
+          "archaic outside set patterns"
+        ],
+        "label_groups": "fused relative , archaic outside set patterns"
+      },
+      {
+        "definition": "Also used with names of collective nouns that are groups of people, especially singularly-named musical groups or sports teams.",
+        "examples": [
+          "Whom was Lemmy bassist for? Motörhead!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "especially non-US"
+        ],
+        "label_groups": "informal , especially non-US"
+      }
+    ],
+    "main_definition": "( interrogative ) What person or people; which person or people.",
+    "secondary_definitions": [
+      "( relative ) Used to refer to a previously mentioned person or people.",
+      "( fused relative , archaic outside set patterns ) The person(s) whom; whomever .",
+      "( informal , especially non-US ) Also used with names of collective nouns that are groups of people, especially singularly-named musical groups or sports teams."
+    ]
+  }
+]

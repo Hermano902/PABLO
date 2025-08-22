@@ -1,0 +1,119 @@
+[
+  {
+    "word": "ping",
+    "lemma": "ping",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A high-pitched, short and somewhat sharp sound.",
+        "examples": [
+          "My car used to make an odd ping , but after the last oil change it went away."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.",
+        "examples": [
+          "The submarine sent out a ping and got an echo from a battleship."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "submarine navigation"
+        ],
+        "label_groups": "submarine navigation"
+      },
+      {
+        "definition": "A packet which a remote host is expected to echo, thus indicating its presence.",
+        "examples": [
+          "The network is overloaded from all the pings going out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "An email or other message sent requesting acknowledgement.",
+        "examples": [
+          "I sent a ping to the insurance company to see if they received our claim."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "text messaging",
+          "Internet"
+        ],
+        "label_groups": "text messaging , Internet"
+      },
+      {
+        "definition": "Latency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "A means of highlighting a feature on the game map so that allied players can see it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      },
+      {
+        "definition": "A notification .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Wikimedia jargon"
+        ],
+        "label_groups": "Wikimedia jargon"
+      }
+    ],
+    "main_definition": "A high-pitched, short and somewhat sharp sound.",
+    "secondary_definitions": [
+      "( submarine navigation ) A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.",
+      "( networking ) A packet which a remote host is expected to echo, thus indicating its presence.",
+      "( text messaging , Internet ) An email or other message sent requesting acknowledgement.",
+      "( networking ) Latency .",
+      "( video games ) A means of highlighting a feature on the game map so that allied players can see it.",
+      "( Wikimedia jargon ) A notification ."
+    ]
+  }
+]

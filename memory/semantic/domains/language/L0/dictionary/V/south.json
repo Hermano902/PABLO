@@ -1,0 +1,52 @@
+[
+  {
+    "word": "south",
+    "lemma": "south",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/saʊθ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "souths",
+          "PT": "southed",
+          "PAP": "southed",
+          "PRP": "southing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To turn or move toward the south; to veer toward the south.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To come to the meridian ; to cross the north and south line.",
+        "examples": [
+          "The moon souths at nine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "To turn or move toward the south; to veer toward the south.",
+    "secondary_definitions": [
+      "( astronomy ) To come to the meridian ; to cross the north and south line."
+    ]
+  }
+]

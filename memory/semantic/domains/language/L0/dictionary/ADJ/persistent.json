@@ -1,0 +1,114 @@
+[
+  {
+    "word": "persistent",
+    "lemma": "persistent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/pɚˈsɪstənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more persistent",
+          "SUP": "most persistent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Obstinately refusing to give up or let go .",
+        "examples": [
+          "She has had a persistent cough for weeks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Insistently repetitive .",
+        "examples": [
+          "There was a persistent knocking on the door."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Indefinitely continuous .",
+        "examples": [
+          "There have been persistent rumours for years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Lasting past maturity without falling off.",
+        "examples": [
+          "Pine cones have persistent scales."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "Of data or a data structure : not transient or temporary , but remaining in existence after the termination of the program that creates it.",
+        "examples": [
+          "Once written to a disk file, the data becomes persistent : it will still be there tomorrow when we run the next program."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Describing a fractal process that has a positive Brown function",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "non- transient .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "stochastic processes",
+          "of a state"
+        ],
+        "label_groups": "mathematics , stochastic processes , of a state"
+      }
+    ],
+    "main_definition": "Obstinately refusing to give up or let go .",
+    "secondary_definitions": [
+      "Insistently repetitive .",
+      "Indefinitely continuous .",
+      "( botany ) Lasting past maturity without falling off.",
+      "( computing ) Of data or a data structure : not transient or temporary , but remaining in existence after the termination of the program that creates it.",
+      "( mathematics ) Describing a fractal process that has a positive Brown function",
+      "( mathematics , stochastic processes , of a state ) non- transient ."
+    ]
+  }
+]

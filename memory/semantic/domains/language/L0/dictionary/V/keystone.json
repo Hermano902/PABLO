@@ -1,0 +1,55 @@
+[
+  {
+    "word": "keystone",
+    "lemma": "keystone",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkiː.stəʊn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "keystones",
+          "PT": "keystoned",
+          "PAP": "keystoned",
+          "PRP": "keystoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To distort (an image ) by projecting it onto a surface at an angle , which for example causes a square to look like a trapezoid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To double the cost price in order to determine the retail price; to apply a markup of 100%.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "retail"
+        ],
+        "label_groups": "transitive , retail"
+      }
+    ],
+    "main_definition": "( transitive ) To distort (an image ) by projecting it onto a surface at an angle , which for example causes a square to look like a trapezoid .",
+    "secondary_definitions": [
+      "( transitive , retail ) To double the cost price in order to determine the retail price; to apply a markup of 100%."
+    ]
+  }
+]

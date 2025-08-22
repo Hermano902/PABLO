@@ -1,0 +1,76 @@
+[
+  {
+    "word": "damage",
+    "lemma": "damage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdæmɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "damages",
+          "PT": "damaged",
+          "PAP": "damaged",
+          "PRP": "damaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To impair the soundness, goodness, or value of; to harm or cause destruction .",
+        "examples": [
+          "Be careful not to damage any of the fragile items while unpacking them.",
+          "Cold temperatures, heavy rain, falling rocks, strong winds and glacier movement can damage the equipment."
+        ],
+        "synonyms": [
+          "harm",
+          "injure"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To undergo damage; to take damage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To remove a damaged or unsalable item from the sales floor for processing.",
+        "examples": [
+          "Did you damage the items that the customer returned yet?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To impair the soundness, goodness, or value of; to harm or cause destruction .",
+    "secondary_definitions": [
+      "( intransitive , obsolete ) To undergo damage; to take damage.",
+      "( transitive ) To remove a damaged or unsalable item from the sales floor for processing."
+    ]
+  }
+]

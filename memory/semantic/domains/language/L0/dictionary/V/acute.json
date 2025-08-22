@@ -1,0 +1,58 @@
+[
+  {
+    "word": "acute",
+    "lemma": "acute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈkjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "acutes",
+          "PT": "acuted",
+          "PAP": "acuted",
+          "PRP": "acuting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give an acute sound to.",
+        "examples": [
+          "He acutes his rising inflection too much."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "phonetics"
+        ],
+        "label_groups": "transitive , phonetics"
+      },
+      {
+        "definition": "To make acute ; to sharpen , to whet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( transitive , phonetics ) To give an acute sound to.",
+    "secondary_definitions": [
+      "( transitive , archaic ) To make acute ; to sharpen , to whet ."
+    ]
+  }
+]

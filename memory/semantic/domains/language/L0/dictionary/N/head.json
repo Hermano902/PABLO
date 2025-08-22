@@ -1,0 +1,514 @@
+[
+  {
+    "word": "head",
+    "lemma": "head",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "heads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The part of the body of an animal or human which contains the brain , mouth , and main sense organs .",
+        "examples": [
+          "Be careful when you pet that dog on the head ; it may bite."
+        ],
+        "synonyms": [
+          "caput",
+          "pate",
+          "noggin",
+          "loaf",
+          "nut",
+          "noodle",
+          "bonce"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To do with heads. Mental or emotional aptitude or skill . ( figurative , metonymic ) Mind ; one's own thoughts . A headache ; especially one resulting from intoxication . A headdress ; a covering for the head. ( figurative , metonymic ) An individual person .",
+            "examples": [
+              "The company is looking for people with good heads for business.",
+              "He has no head for heights.",
+              "It's all about having a good head on your shoulders.",
+              "This song keeps going through my head .",
+              "a laced head",
+              "a head of hair",
+              "Admission is three dollars a head ."
+            ],
+            "synonyms": [
+              "mind"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "people"
+            ],
+            "label_groups": "people"
+          },
+          {
+            "definition": "To do with heads. ( plural head ) A single animal ; measure word for livestock and game . The population of game . The antlers of a deer .",
+            "examples": [
+              "200 head of cattle and 50 head of horses",
+              "We have a heavy head of deer this year."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "animals"
+            ],
+            "label_groups": "animals"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The topmost , foremost , or leading part.",
+        "examples": [
+          "What does it say at the head of the page?"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "base",
+          "bottom",
+          "underside",
+          "foot",
+          "tail"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The end of a table . The end of a rectangular table furthest from the entrance ; traditionally considered a seat of honor . ( billiards ) The end of a pool table opposite the end where the balls have been racked .",
+            "examples": [
+              "During meetings, the supervisor usually sits at the head of the table."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The principal operative part of a machine or tool. The end of a hammer , axe , golf club , or similar implement used for striking other objects. The end of a nail , screw , bolt , or similar fastener which is opposite the point ; usually blunt and relatively wide . The sharp end of an arrow , spear , or pointer . ( lacrosse ) The top part of a lacrosse stick that holds the ball . ( music ) A drum head , the membrane which is hit to produce sound . A machine element which reads or writes electromagnetic signals to or from a storage medium. ( computing ) The part of a disk drive responsible for reading and writing data. ( automotive ) The cylinder head , a platform above the cylinders in an internal combustion engine , containing the valves and spark plugs . ( machining ) A milling head, a part of a milling machine that houses the spindle .",
+            "examples": [
+              "Hit the nail on the head !",
+              "The head of the compass needle is pointing due north.",
+              "Tap the head of the drum for this roll.",
+              "The heads of your tape player need to be cleaned."
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "point",
+              "tip"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "countable"
+            ],
+            "label_groups": "countable"
+          },
+          {
+            "definition": "The foam that forms on top of beer or other carbonated beverages .",
+            "examples": [
+              "Pour me a fresh beer; this one has no head .",
+              "He never learned how to pour a glass of beer so it didn't have too much head ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable",
+              "countable"
+            ],
+            "label_groups": "uncountable , countable"
+          },
+          {
+            "definition": "The end cap of a cylindrically-shaped pressure vessel .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering"
+            ],
+            "label_groups": "engineering"
+          },
+          {
+            "definition": "The end cap of a cask or other barrel .",
+            "examples": [],
+            "synonyms": [
+              "barrelhead"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "coopering"
+            ],
+            "label_groups": "coopering"
+          },
+          {
+            "definition": "The uppermost part of a valley .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geology"
+            ],
+            "label_groups": "geology"
+          },
+          {
+            "definition": "Deposits near the top of a geological succession .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "British",
+              "geology"
+            ],
+            "label_groups": "British , geology"
+          },
+          {
+            "definition": "Ellipsis of headline .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "journalism"
+            ],
+            "label_groups": "journalism"
+          },
+          {
+            "definition": "The end of an abscess where pus collects.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine"
+            ],
+            "label_groups": "medicine"
+          },
+          {
+            "definition": "The headstock of a guitar .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music"
+          },
+          {
+            "definition": "A leading component. The top edge of a sail . The bow of a vessel.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          },
+          {
+            "definition": "A headland .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "British"
+            ],
+            "label_groups": "British"
+          },
+          {
+            "definition": "A title or heading in a book or other document .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A leader or expert .",
+        "examples": [
+          "I'd like to speak to the head of the department.",
+          "Police arrested the head of the gang in a raid last night."
+        ],
+        "synonyms": [
+          "boss",
+          "chief",
+          "leader"
+        ],
+        "antonyms": [
+          "subordinate"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The place of honor or command ; the most important or foremost position; the front .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A headteacher .",
+            "examples": [
+              "I was called into the head' s office to discuss my behaviour."
+            ],
+            "synonyms": [
+              "headmaster",
+              "headmistress",
+              "principal"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "UK",
+              "Ireland",
+              "metonymic"
+            ],
+            "label_groups": "UK , Ireland , metonymic"
+          },
+          {
+            "definition": "A person with an extensive knowledge of hip hop .",
+            "examples": [
+              "Only true heads know this."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music",
+              "slang",
+              "figurative",
+              "metonymic"
+            ],
+            "label_groups": "music , slang , figurative , metonymic"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "social",
+          "countable",
+          "metonymic"
+        ],
+        "label_groups": "social , countable , metonymic"
+      },
+      {
+        "definition": "A significant or important part.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A beginning or end, a protuberance. The source of a river ; the end of a lake where a river flows into it. A clump of seeds , leaves or flowers ; a capitulum . An ear of wheat , barley , or other small cereal . The leafy top part of a tree. ( anatomy ) The rounded part of a bone fitting into a depression in another bone to form a ball-and-socket joint . ( nautical ) The toilet of a ship . ( in the plural ) Tiles laid at the eaves of a house.",
+            "examples": [
+              "The expedition followed the river all the way to the head .",
+              "Give me a head of lettuce.",
+              "I've got to go to the head ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A component. ( jazz ) The principal melody or theme of a piece. ( linguistics ) A morpheme that determines the category of a compound or the word that determines the syntactic type of the phrase of which it is a member. ( chemistry ) The first fraction of a distillation run, having a low boiling point .",
+            "examples": [],
+            "synonyms": [
+              "foreshot"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Headway ; progress .",
+        "examples": [
+          "We are having a difficult time making head against this wind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Topic; subject .",
+        "examples": [
+          "We will consider performance issues under the head of future improvements."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Denouement ; crisis .",
+        "examples": [
+          "These issues are going to come to a head today."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "only in the singular"
+        ],
+        "label_groups": "only in the singular"
+      },
+      {
+        "definition": "Pressure and energy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A buildup of fluid pressure , often quantified as pressure head .",
+            "examples": [
+              "Let the engine build up a good head of steam."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable",
+              "countable"
+            ],
+            "label_groups": "uncountable , countable"
+          },
+          {
+            "definition": "The difference in elevation between two points in a column of fluid, and the resulting pressure of the fluid at the lower point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "More generally, energy in a mass of fluid divided by its weight .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "fluid dynamics"
+        ],
+        "label_groups": "fluid dynamics"
+      },
+      {
+        "definition": "Fellatio or cunnilingus ; oral sex .",
+        "examples": [
+          "She gave great head ."
+        ],
+        "synonyms": [
+          "blowjob"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "vulgar",
+          "uncountable"
+        ],
+        "label_groups": "slang , vulgar , uncountable"
+      },
+      {
+        "definition": "The glans penis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "A heavy or habitual user of illicit drugs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "countable"
+        ],
+        "label_groups": "slang , countable"
+      },
+      {
+        "definition": "Power; armed force.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( countable ) The part of the body of an animal or human which contains the brain , mouth , and main sense organs .",
+    "secondary_definitions": [
+      "( countable ) The topmost , foremost , or leading part.",
+      "( social , countable , metonymic ) A leader or expert .",
+      "A significant or important part.",
+      "Headway ; progress .",
+      "Topic; subject .",
+      "( only in the singular ) Denouement ; crisis .",
+      "( fluid dynamics ) Pressure and energy.",
+      "( slang , vulgar , uncountable ) Fellatio or cunnilingus ; oral sex .",
+      "( slang ) The glans penis .",
+      "( slang , countable ) A heavy or habitual user of illicit drugs .",
+      "( obsolete ) Power; armed force."
+    ]
+  }
+]

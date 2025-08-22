@@ -1,0 +1,117 @@
+[
+  {
+    "word": "condensation",
+    "lemma": "condensation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkɑn.dɛnˈseɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "condensations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of condensing or of being condensed",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being condensed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The conversion of a gas to a liquid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "physical chemistry"
+        ],
+        "label_groups": "physics , physical chemistry"
+      },
+      {
+        "definition": "The condensate so formed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The reaction of two substances with the simultaneous loss of water or other small molecule.",
+        "examples": [],
+        "synonyms": [
+          "dehydration synthesis"
+        ],
+        "antonyms": [
+          "hydrolysis"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "when a single idea (an image, memory, or thought) or dream object stands for several associations and ideas.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      },
+      {
+        "definition": "A condensed work; an abridged version or compendium .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "For a given directed graph G , a directed acyclic graph with one vertex for each strongly connected component of G , and an edge connecting pairs of components that contain the two endpoints of at least one edge in G .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "countable"
+        ],
+        "label_groups": "graph theory , countable"
+      }
+    ],
+    "main_definition": "The act or process of condensing or of being condensed",
+    "secondary_definitions": [
+      "The state of being condensed.",
+      "( physics , physical chemistry ) The conversion of a gas to a liquid .",
+      "The condensate so formed.",
+      "( chemistry ) The reaction of two substances with the simultaneous loss of water or other small molecule.",
+      "( psychology ) when a single idea (an image, memory, or thought) or dream object stands for several associations and ideas.",
+      "A condensed work; an abridged version or compendium .",
+      "( graph theory , countable ) For a given directed graph G , a directed acyclic graph with one vertex for each strongly connected component of G , and an edge connecting pairs of components that contain the two endpoints of at least one edge in G ."
+    ]
+  }
+]

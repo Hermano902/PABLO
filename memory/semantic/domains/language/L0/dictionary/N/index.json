@@ -1,0 +1,196 @@
+[
+  {
+    "word": "index",
+    "lemma": "index",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪndɛks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "indexes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An alphabetical listing of items and their location .",
+        "examples": [
+          "The index of a book lists words or expressions and the pages of the book upon which they are to be found.",
+          "He isn't able to find the index of the book."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The index finger ; the forefinger .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A movable finger on a gauge , scale , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A symbol resembling a pointing hand , used to direct particular attention to a note or paragraph .",
+        "examples": [],
+        "synonyms": [
+          "manicule"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      },
+      {
+        "definition": "That which points out ; that which shows , indicates , manifests , or discloses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sign ; an indication ; a token .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of noun where the meaning of the form changes with respect to the context ; e.g., 'Today's newspaper' is an indexical form since its referent will differ depending on the context. See also icon and symbol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "A single number calculated from an array of prices or of quantities .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      },
+      {
+        "definition": "A number representing a property or ratio ; a coefficient .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "A raised suffix indicating a power .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An integer or other key indicating the location of data , e.g. within an array , vector , database table , associative array , or hash table .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "especially programming",
+          "databases"
+        ],
+        "label_groups": "computing , especially programming and databases"
+      },
+      {
+        "definition": "A data structure that improves the performance of operations on a table .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "The number of cosets that exist.",
+        "examples": [
+          "The index of 2ℤ in ℤ is 2."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "index of a subgroup"
+        ],
+        "label_groups": "algebra , index of a subgroup"
+      },
+      {
+        "definition": "A prologue indicating what follows .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "An alphabetical listing of items and their location .",
+    "secondary_definitions": [
+      "The index finger ; the forefinger .",
+      "A movable finger on a gauge , scale , etc.",
+      "( typography ) A symbol resembling a pointing hand , used to direct particular attention to a note or paragraph .",
+      "That which points out ; that which shows , indicates , manifests , or discloses .",
+      "A sign ; an indication ; a token .",
+      "( linguistics ) A type of noun where the meaning of the form changes with respect to the context ; e.g., 'Today's newspaper' is an indexical form since its referent will differ depending on the context. See also icon and symbol .",
+      "( economics ) A single number calculated from an array of prices or of quantities .",
+      "( sciences ) A number representing a property or ratio ; a coefficient .",
+      "( mathematics ) A raised suffix indicating a power .",
+      "( computing , especially programming and databases ) An integer or other key indicating the location of data , e.g. within an array , vector , database table , associative array , or hash table .",
+      "( computing , databases ) A data structure that improves the performance of operations on a table .",
+      "( algebra , index of a subgroup ) The number of cosets that exist.",
+      "( obsolete ) A prologue indicating what follows ."
+    ]
+  }
+]

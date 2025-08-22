@@ -1,0 +1,81 @@
+[
+  {
+    "word": "dupe",
+    "lemma": "dupe",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dʒuːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dupes",
+          "PT": "duped",
+          "PAP": "duped",
+          "PRP": "duping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To swindle , deceive , or trick .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To swindle , deceive , or trick .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "dupe",
+    "lemma": "dupe",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/dʒuːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dupes",
+          "PT": "duped",
+          "PAP": "duped",
+          "PRP": "duping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To duplicate .",
+        "examples": [
+          "Can you dupe this photo for me?"
+        ],
+        "synonyms": [
+          "double"
+        ],
+        "antonyms": [
+          "dedupe",
+          "halve"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To duplicate .",
+    "secondary_definitions": []
+  }
+]

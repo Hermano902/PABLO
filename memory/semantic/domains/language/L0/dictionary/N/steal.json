@@ -1,0 +1,104 @@
+[
+  {
+    "word": "steal",
+    "lemma": "steal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/stiːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "steals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of stealing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A piece of merchandise available at a very low, attractive price; the act of buying it.",
+        "examples": [
+          "At this price, this car is a steal .",
+          "He got that thing for just twenty bucks? What a steal !"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "rip-off"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "figurative"
+        ],
+        "label_groups": "slang , figurative"
+      },
+      {
+        "definition": "A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "basketball",
+          "ice hockey"
+        ],
+        "label_groups": "basketball , ice hockey"
+      },
+      {
+        "definition": "A stolen base .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "baseball"
+        ],
+        "label_groups": "baseball"
+      },
+      {
+        "definition": "Scoring in an end without the hammer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "curling"
+        ],
+        "label_groups": "curling"
+      },
+      {
+        "definition": "A policy in database systems that a database follows which allows a transaction to be written on nonvolatile storage before its commit occurs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act of stealing.",
+    "secondary_definitions": [
+      "( slang , figurative ) A piece of merchandise available at a very low, attractive price; the act of buying it.",
+      "( basketball , ice hockey ) A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team.",
+      "( baseball ) A stolen base .",
+      "( curling ) Scoring in an end without the hammer .",
+      "( computing ) A policy in database systems that a database follows which allows a transaction to be written on nonvolatile storage before its commit occurs."
+    ]
+  }
+]

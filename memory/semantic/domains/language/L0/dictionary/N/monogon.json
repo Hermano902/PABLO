@@ -1,0 +1,62 @@
+[
+  {
+    "word": "monogon",
+    "lemma": "monogon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "monogons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A one - dimensional object comprising one vertex and one (not necessarily straight ) edge both of whose ends are that vertex.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A two -dimensional object comprising one vertex, one edge both of whose ends are that vertex, and one face filling in the hollow formed by that edge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A single-faceted reflector.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "optics"
+        ],
+        "label_groups": "optics"
+      }
+    ],
+    "main_definition": "( geometry ) A one - dimensional object comprising one vertex and one (not necessarily straight ) edge both of whose ends are that vertex.",
+    "secondary_definitions": [
+      "( geometry ) A two -dimensional object comprising one vertex, one edge both of whose ends are that vertex, and one face filling in the hollow formed by that edge.",
+      "( optics ) A single-faceted reflector."
+    ]
+  }
+]

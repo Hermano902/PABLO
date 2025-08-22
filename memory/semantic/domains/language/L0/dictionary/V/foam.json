@@ -1,0 +1,69 @@
+[
+  {
+    "word": "foam",
+    "lemma": "foam",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/foʊm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "foams",
+          "PT": "foamed",
+          "PAP": "foamed",
+          "PRP": "foaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To form or emit foam .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To spew saliva as foam ; to foam at the mouth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To coat or cover with foam .",
+        "examples": [
+          "It used to be common practice to foam the runway prior to an emergency landing, in case a fuel-fed fire occurred."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "firefighting"
+        ],
+        "label_groups": "firefighting"
+      }
+    ],
+    "main_definition": "( intransitive ) To form or emit foam .",
+    "secondary_definitions": [
+      "( intransitive ) To spew saliva as foam ; to foam at the mouth .",
+      "( firefighting ) To coat or cover with foam ."
+    ]
+  }
+]

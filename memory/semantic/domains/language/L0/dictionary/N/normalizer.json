@@ -1,0 +1,47 @@
+[
+  {
+    "word": "normalizer",
+    "lemma": "normalizer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "normalizers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who or that which normalizes, fits to a norm or standard etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The subset of elements of some group which leave some given subset invariant when conjugating it.",
+        "examples": [
+          "In symbols, the normalizer of some subset S {\\displaystyle S} of group G {\\displaystyle G} is the subset N ( S ) = { g ∈ G | g − 1 S g = S } {\\displaystyle N(S)=\\{g\\in G|g^{-1}Sg=S\\}} , so that S {\\displaystyle S} would be a normal subgroup if N ( S ) {\\displaystyle N(S)} were the whole group."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "One who or that which normalizes, fits to a norm or standard etc.",
+    "secondary_definitions": [
+      "( algebra ) The subset of elements of some group which leave some given subset invariant when conjugating it."
+    ]
+  }
+]

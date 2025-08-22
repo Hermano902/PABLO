@@ -1,0 +1,113 @@
+[
+  {
+    "word": "reap",
+    "lemma": "reap",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reaps",
+          "PT": "reaped",
+          "PAP": "reaped",
+          "PRP": "reaping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut (for example a grain) with a sickle , scythe , or reaping machine",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To gather (e.g. a harvest) by cutting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To obtain or receive as a reward, in a good or a bad sense.",
+        "examples": [
+          "to reap a benefit from exertions"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To terminate a child process that has previously exited, thereby removing it from the process table.",
+        "examples": [
+          "Until a child process is reaped , it may be listed in the process table as a zombie or defunct process."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer science"
+        ],
+        "label_groups": "transitive , computer science"
+      },
+      {
+        "definition": "To deprive of the beard; to shave.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "rape",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "euphemistic",
+          "slang"
+        ],
+        "label_groups": "euphemistic , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To cut (for example a grain) with a sickle , scythe , or reaping machine",
+    "secondary_definitions": [
+      "( transitive ) To gather (e.g. a harvest) by cutting.",
+      "( transitive ) To obtain or receive as a reward, in a good or a bad sense.",
+      "( transitive , computer science ) To terminate a child process that has previously exited, thereby removing it from the process table.",
+      "( transitive , obsolete ) To deprive of the beard; to shave.",
+      "( euphemistic , slang ) rape"
+    ]
+  }
+]

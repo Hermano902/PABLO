@@ -1,0 +1,65 @@
+[
+  {
+    "word": "fixity",
+    "lemma": "fixity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɪksɪti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fixities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state or condition of being fixed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Something fixed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The position of an operator relative to its operand ( prefix , postfix ) or operands ( infix ).",
+        "examples": [
+          "One may use a fixity declaration in Haskell to describe an operator's precedence and direction of associativity."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( uncountable ) The state or condition of being fixed .",
+    "secondary_definitions": [
+      "( countable ) Something fixed.",
+      "( programming ) The position of an operator relative to its operand ( prefix , postfix ) or operands ( infix )."
+    ]
+  }
+]

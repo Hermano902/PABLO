@@ -1,0 +1,55 @@
+{
+  "word": "that",
+  "pos_order": [
+    "CONJ",
+    "DET",
+    "PRON",
+    "ADV",
+    "N"
+  ],
+  "pos": {
+    "CONJ": {
+      "definitions": 13,
+      "examples": 22,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "DET": {
+      "definitions": 1,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PRON": {
+      "definitions": 5,
+      "examples": 24,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 5,
+      "examples": 9,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "CONJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\CONJ\\that.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\that.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\that.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\that.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\that.json"
+  },
+  "timestamp": "2025-08-19T19:02:48.231432Z"
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "isomer",
+    "lemma": "isomer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaɪ.sə.mə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "isomers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of two or more compounds with the same molecular formula but with different structure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physical chemistry"
+        ],
+        "label_groups": "physical chemistry"
+      },
+      {
+        "definition": "Any of two or more atomic nuclei with the same mass number and atomic number but with different radioactive properties.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nuclear physics"
+        ],
+        "label_groups": "nuclear physics"
+      }
+    ],
+    "main_definition": "( physical chemistry ) Any of two or more compounds with the same molecular formula but with different structure .",
+    "secondary_definitions": [
+      "( nuclear physics ) Any of two or more atomic nuclei with the same mass number and atomic number but with different radioactive properties."
+    ]
+  }
+]

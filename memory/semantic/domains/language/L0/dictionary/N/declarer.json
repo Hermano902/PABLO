@@ -1,0 +1,60 @@
+[
+  {
+    "word": "declarer",
+    "lemma": "declarer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkleəɹə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "declarers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The person who wins the bidding and so declares what suit will be trump .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bridge"
+        ],
+        "label_groups": "bridge"
+      },
+      {
+        "definition": "One who declares .",
+        "examples": [],
+        "synonyms": [
+          "declarant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A statement that declares the properties of a variable or contributes to doing so.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( bridge ) The person who wins the bidding and so declares what suit will be trump .",
+    "secondary_definitions": [
+      "One who declares .",
+      "( computer science ) A statement that declares the properties of a variable or contributes to doing so."
+    ]
+  }
+]

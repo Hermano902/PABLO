@@ -1,0 +1,100 @@
+[
+  {
+    "word": "foo",
+    "lemma": "foo",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "foos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( historical , obsolete ) Alternative form of fu : an administrative subdivision of imperial China ; the capital of such divisions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( historical , obsolete ) Alternative form of fu : an administrative subdivision of imperial China ; the capital of such divisions .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "foo",
+    "lemma": "foo",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/fuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( programming ) A metasyntactic variable used to represent an unspecified entity. If part of a series of such entities, it is often the first in the series, and followed immediately by bar .",
+        "examples": [
+          "Suppose we have two objects, foo and bar."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( fandom slang ) Alternative letter-case form of Foo ( “ placeholder god ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( programming ) A metasyntactic variable used to represent an unspecified entity. If part of a series of such entities, it is often the first in the series, and followed immediately by bar .",
+    "secondary_definitions": [
+      "( fandom slang ) Alternative letter-case form of Foo ( “ placeholder god ” ) ."
+    ]
+  },
+  {
+    "word": "foo",
+    "lemma": "foo",
+    "etymology": "Etymology 4",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 3,
+    "pronunciation": "/fuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "foos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pronunciation spelling of fool .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      }
+    ],
+    "main_definition": "( slang ) Pronunciation spelling of fool .",
+    "secondary_definitions": []
+  }
+]

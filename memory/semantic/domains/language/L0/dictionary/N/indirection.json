@@ -1,0 +1,54 @@
+[
+  {
+    "word": "indirection",
+    "lemma": "indirection",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪndəˈɹɛkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "indirections"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An indirect action or process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A lack of direction ; deviousness or aimlessness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Use of a variable or object through its address .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "An indirect action or process.",
+    "secondary_definitions": [
+      "A lack of direction ; deviousness or aimlessness .",
+      "( programming ) Use of a variable or object through its address ."
+    ]
+  }
+]

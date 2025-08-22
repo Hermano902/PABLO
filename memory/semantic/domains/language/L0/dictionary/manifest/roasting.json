@@ -1,0 +1,37 @@
+{
+  "word": "roasting",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\roasting.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\roasting.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\roasting.json"
+  },
+  "timestamp": "2025-08-19T13:52:59.265148Z"
+}

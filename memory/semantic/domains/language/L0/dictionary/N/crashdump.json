@@ -1,0 +1,35 @@
+[
+  {
+    "word": "crashdump",
+    "lemma": "crashdump",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "crashdumps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A file holding the contents of memory at the point when a program crashed , possibly useful in debugging .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A file holding the contents of memory at the point when a program crashed , possibly useful in debugging .",
+    "secondary_definitions": []
+  }
+]

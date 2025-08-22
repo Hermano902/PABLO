@@ -1,0 +1,32 @@
+{
+  "word": "band",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3",
+    "V:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 26,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\band.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\band.json"
+  },
+  "timestamp": "2025-08-18T21:46:57.831419Z"
+}

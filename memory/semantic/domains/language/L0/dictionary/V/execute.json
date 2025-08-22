@@ -1,0 +1,129 @@
+[
+  {
+    "word": "execute",
+    "lemma": "execute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛksɪˌkjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "executes",
+          "PT": "executed",
+          "PAP": "executed",
+          "PRP": "executing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To kill , especially as punishment for a capital crime .",
+        "examples": [
+          "There are certain states where it is lawful to execute prisoners convicted of certain crimes.",
+          "According to international treaties, it is illegal to execute prisoners of war."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry out ; to put into effect .",
+        "examples": [
+          "Your orders have been executed , sir!",
+          "I'll execute your orders as soon as this meeting is adjourned."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform .",
+        "examples": [
+          "to execute a difficult piece of music brilliantly",
+          "to execute a turn in ballet"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry out , to perform an act; to put into effect or cause to become legally binding or valid (as a contract ) by so doing.",
+        "examples": [
+          "to execute a contract"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To start, launch , or run .",
+        "examples": [
+          "to execute a program"
+        ],
+        "synonyms": [
+          "start",
+          "launch",
+          "run",
+          "open"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To run , usually successfully .",
+        "examples": [
+          "The program executed , but data problems were discovered."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To kill , especially as punishment for a capital crime .",
+    "secondary_definitions": [
+      "( transitive ) To carry out ; to put into effect .",
+      "( transitive ) To perform .",
+      "( transitive , law ) To carry out , to perform an act; to put into effect or cause to become legally binding or valid (as a contract ) by so doing.",
+      "( transitive , computing ) To start, launch , or run .",
+      "( intransitive , computing ) To run , usually successfully ."
+    ]
+  }
+]

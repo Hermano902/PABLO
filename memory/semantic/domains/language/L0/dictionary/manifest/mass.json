@@ -1,0 +1,39 @@
+{
+  "word": "mass",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mass.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mass.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\mass.json"
+  },
+  "timestamp": "2025-08-19T08:40:16.693340Z"
+}

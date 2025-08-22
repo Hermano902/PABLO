@@ -1,0 +1,37 @@
+{
+  "word": "favourite",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 4,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 3,
+      "synonyms": 2,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\favourite.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\favourite.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\favourite.json"
+  },
+  "timestamp": "2025-08-19T03:32:49.634150Z"
+}

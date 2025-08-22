@@ -1,0 +1,65 @@
+[
+  {
+    "word": "commit",
+    "lemma": "commit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəˈmɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "commits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of committing (e.g. a database transaction ), making it a permanent change; such a change .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "The submission of source code or other material to a source control repository .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A person, especially a high school athlete , who agrees verbally or signs a letter committing to attend a college or university.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "sports",
+          "chiefly US"
+        ],
+        "label_groups": "informal , sports , chiefly US"
+      }
+    ],
+    "main_definition": "( computing , databases ) The act of committing (e.g. a database transaction ), making it a permanent change; such a change .",
+    "secondary_definitions": [
+      "( programming ) The submission of source code or other material to a source control repository .",
+      "( informal , sports , chiefly US ) A person, especially a high school athlete , who agrees verbally or signs a letter committing to attend a college or university."
+    ]
+  }
+]

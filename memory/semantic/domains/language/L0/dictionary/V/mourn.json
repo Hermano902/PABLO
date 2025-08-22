@@ -1,0 +1,71 @@
+[
+  {
+    "word": "mourn",
+    "lemma": "mourn",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɔɹn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mourns",
+          "PT": "mourned",
+          "PAP": "mourned",
+          "PRP": "mourning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To express sadness or sorrow for; to grieve over (especially a death).",
+        "examples": [],
+        "synonyms": [
+          "grieve",
+          "lament",
+          "weep"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To utter in a sorrowful manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To wear mourning .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To express sadness or sorrow for; to grieve over (especially a death).",
+    "secondary_definitions": [
+      "( transitive ) To utter in a sorrowful manner.",
+      "( intransitive ) To wear mourning ."
+    ]
+  }
+]

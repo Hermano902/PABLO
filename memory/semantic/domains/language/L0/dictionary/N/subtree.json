@@ -1,0 +1,37 @@
+[
+  {
+    "word": "subtree",
+    "lemma": "subtree",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subtrees"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A tree wholly contained in another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computer science",
+          "graph theory"
+        ],
+        "label_groups": "mathematics , computer science , graph theory"
+      }
+    ],
+    "main_definition": "( mathematics , computer science , graph theory ) A tree wholly contained in another.",
+    "secondary_definitions": []
+  }
+]

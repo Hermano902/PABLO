@@ -1,0 +1,36 @@
+[
+  {
+    "word": "bigram",
+    "lemma": "bigram",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪ.ɡɹæm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bigrams"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An n-gram consisting of two items from a sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "often attributive"
+        ],
+        "label_groups": "linguistics , often attributive"
+      }
+    ],
+    "main_definition": "( linguistics , often attributive ) An n-gram consisting of two items from a sequence .",
+    "secondary_definitions": []
+  }
+]

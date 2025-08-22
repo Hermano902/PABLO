@@ -1,0 +1,83 @@
+[
+  {
+    "word": "revert",
+    "lemma": "revert",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈvɝt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reverts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, reverts.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who reverts to that religion which one had adhered to before having converted to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "religion"
+        ],
+        "label_groups": "religion"
+      },
+      {
+        "definition": "A convert to Islam .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Islam",
+          "due to the belief that all people are born Muslim"
+        ],
+        "label_groups": "Islam , due to the belief that all people are born Muslim"
+      },
+      {
+        "definition": "The act of reversion (of e.g. a database transaction or source control repository ) to an earlier state.",
+        "examples": [
+          "We've found that git reverts are at least an order of magnitude faster than SVN reverse merges."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The skateboard maneuver of rotating the board 180 degrees or more while the wheels remain on the ground.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "One who, or that which, reverts.",
+    "secondary_definitions": [
+      "( religion ) One who reverts to that religion which one had adhered to before having converted to another.",
+      "( Islam , due to the belief that all people are born Muslim ) A convert to Islam .",
+      "( computing ) The act of reversion (of e.g. a database transaction or source control repository ) to an earlier state.",
+      "The skateboard maneuver of rotating the board 180 degrees or more while the wheels remain on the ground."
+    ]
+  }
+]

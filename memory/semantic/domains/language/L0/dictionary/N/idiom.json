@@ -1,0 +1,84 @@
+[
+  {
+    "word": "idiom",
+    "lemma": "idiom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪdiəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "idioms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A manner of speaking, a mode of expression peculiar to a language , language family , or group of people.",
+        "examples": [
+          "In English, idiom requires the indefinite article in a phrase such as \"she's an engineer\", whereas in Spanish, idiom forbids it.",
+          "Some of the usage prescriptions improved clarity and were kept; others that yielded discordant violations of idiom were eventually revised."
+        ],
+        "synonyms": [
+          "idiomaticness",
+          "idiomaticity"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A programming construct or phraseology that is characteristic of the language.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A language or language variety ; specifically, a restricted dialect used in a given historical period, context etc.",
+        "examples": [
+          "In the idiom of the day, they were sutlers, although today they'd probably be called vendors."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An established phrasal expression whose meaning may not be deducible from the literal meanings of its component words.",
+        "examples": [
+          "She often spoke in idioms , pining for salad days and complaining about pots calling the kettle black."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An artistic style (for example, in art, architecture, or music); an instance of such a style.",
+        "examples": [
+          "the idiom of the expressionists"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A manner of speaking, a mode of expression peculiar to a language , language family , or group of people.",
+    "secondary_definitions": [
+      "A language or language variety ; specifically, a restricted dialect used in a given historical period, context etc.",
+      "An established phrasal expression whose meaning may not be deducible from the literal meanings of its component words.",
+      "An artistic style (for example, in art, architecture, or music); an instance of such a style."
+    ]
+  }
+]

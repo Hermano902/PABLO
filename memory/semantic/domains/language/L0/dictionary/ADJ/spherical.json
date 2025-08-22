@@ -1,0 +1,96 @@
+[
+  {
+    "word": "spherical",
+    "lemma": "spherical",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsfɛɹɪkəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more spherical",
+          "SUP": "most spherical"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Shaped as a sphere ; being a sphere.",
+        "examples": [],
+        "synonyms": [
+          "spheric",
+          "spheral",
+          "globular",
+          "orbicular",
+          "round"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Of, or pertaining to, spheres .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "not comparable"
+        ],
+        "label_groups": "geometry , not comparable"
+      },
+      {
+        "definition": "Of a coordinate system , specifying the location of a point in a plane by using a radius and two angles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Of or relating to the heavenly orbs, or to the sphere or spheres in which, according to ancient astronomy and astrology , they were set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astrology"
+        ],
+        "label_groups": "astrology"
+      },
+      {
+        "definition": "Of a multivariate probability distribution, to have a covariance matrix equal to the identity matrix up to a multiplicative factor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "econometrics"
+        ],
+        "label_groups": "statistics , econometrics"
+      }
+    ],
+    "main_definition": "( geometry ) Shaped as a sphere ; being a sphere.",
+    "secondary_definitions": [
+      "( geometry , not comparable ) Of, or pertaining to, spheres .",
+      "( mathematics ) Of a coordinate system , specifying the location of a point in a plane by using a radius and two angles .",
+      "( astrology ) Of or relating to the heavenly orbs, or to the sphere or spheres in which, according to ancient astronomy and astrology , they were set.",
+      "( statistics , econometrics ) Of a multivariate probability distribution, to have a covariance matrix equal to the identity matrix up to a multiplicative factor."
+    ]
+  }
+]

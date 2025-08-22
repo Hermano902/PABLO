@@ -1,0 +1,38 @@
+[
+  {
+    "word": "endorelation",
+    "lemma": "endorelation",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "endorelations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A binary relation between a set and itself.",
+        "examples": [],
+        "synonyms": [
+          "homogeneous relation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "order theory"
+        ],
+        "label_groups": "mathematics , order theory"
+      }
+    ],
+    "main_definition": "( mathematics , order theory ) A binary relation between a set and itself.",
+    "secondary_definitions": []
+  }
+]

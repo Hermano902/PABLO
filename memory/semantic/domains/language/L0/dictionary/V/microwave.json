@@ -1,0 +1,59 @@
+[
+  {
+    "word": "microwave",
+    "lemma": "microwave",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmaɪkɹəˌweɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "microwaves",
+          "PT": "microwaved",
+          "PAP": "microwaved",
+          "PRP": "microwaving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cook (something) in a microwave oven .",
+        "examples": [],
+        "synonyms": [
+          "nuke",
+          "microcook",
+          "zap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To provide minimal preparation for implementation, deeming full or extensive preparation as unnecessary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To cook (something) in a microwave oven .",
+    "secondary_definitions": [
+      "( transitive , slang ) To provide minimal preparation for implementation, deeming full or extensive preparation as unnecessary."
+    ]
+  }
+]

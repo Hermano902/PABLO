@@ -1,0 +1,51 @@
+[
+  {
+    "word": "hamburg",
+    "lemma": "hamburg",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hamburgs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "hamburger (food)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "Midwestern US"
+        ],
+        "label_groups": "slang , Midwestern US"
+      },
+      {
+        "definition": "ground beef ; hamburger meat",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "New England"
+        ],
+        "label_groups": "uncountable , New England"
+      }
+    ],
+    "main_definition": "( slang , Midwestern US ) hamburger (food)",
+    "secondary_definitions": [
+      "( uncountable , New England ) ground beef ; hamburger meat"
+    ]
+  }
+]

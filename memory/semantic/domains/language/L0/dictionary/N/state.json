@@ -1,0 +1,276 @@
+[
+  {
+    "word": "state",
+    "lemma": "state",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/steɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "states"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A condition ; a set of circumstances applying at any given time .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A complete description of a system , consisting of parameters that determine all properties of the system.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics"
+            ],
+            "label_groups": "physics"
+          },
+          {
+            "definition": "A mess ; disorder ; a bad condition or set of circumstances.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "colloquial",
+              "in the singular"
+            ],
+            "label_groups": "colloquial , in the singular"
+          },
+          {
+            "definition": "The stable condition of a processor during a particular clock cycle .",
+            "examples": [
+              "In the fetch state , the address of the next instruction is placed on the address bus."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "The set of all parameters relevant to a computation .",
+            "examples": [
+              "The state here includes a set containing all names seen so far."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "The values of all parameters at some point in a computation.",
+            "examples": [
+              "A debugger can show the state of a program at any breakpoint."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "The physical property of matter as solid , liquid , gas or plasma .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sciences"
+            ],
+            "label_groups": "sciences"
+          },
+          {
+            "definition": "Highest and stationary condition, as that of maturity between growth and decline , or as that of crisis between the increase and the abating of a disease ; height ; acme .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "High social standing or circumstance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Pomp , ceremony , or dignity .",
+            "examples": [
+              "The President's body will lie in state at the Capitol."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Rank ; condition ; quality .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Condition of prosperity or grandeur ; wealthy or prosperous circumstances; social importance .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A chair with a canopy above it, often standing on a dais ; a seat of dignity ; also, the canopy itself.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A great person , a dignitary ; a lord or prince .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          },
+          {
+            "definition": "Estate , possession .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A polity or community .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any sovereign polity or community ; the government of a country or city-state .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "historically often capitalized"
+            ],
+            "label_groups": "historically often capitalized"
+          },
+          {
+            "definition": "A political division of a federation retaining a notable degree of autonomy , as in the United States , Mexico , Nigeria , or India .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A form of government other than a monarchy .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          },
+          {
+            "definition": "A society larger than a tribe . A society large enough to form a state in the sense of a government.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "anthropology"
+            ],
+            "label_groups": "anthropology"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An element of the range of the random variables that define a random process .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "stochastic processes"
+        ],
+        "label_groups": "mathematics , stochastic processes"
+      },
+      {
+        "definition": "The lexical aspect ( aktionsart ) of verbs or predicates that do not change over time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "occurrence"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "semantics"
+        ],
+        "label_groups": "grammar , semantics"
+      }
+    ],
+    "main_definition": "A condition ; a set of circumstances applying at any given time .",
+    "secondary_definitions": [
+      "High social standing or circumstance.",
+      "A polity or community .",
+      "( mathematics , stochastic processes ) An element of the range of the random variables that define a random process .",
+      "( grammar , semantics ) The lexical aspect ( aktionsart ) of verbs or predicates that do not change over time."
+    ]
+  }
+]

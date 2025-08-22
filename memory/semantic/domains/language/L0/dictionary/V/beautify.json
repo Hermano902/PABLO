@@ -1,0 +1,98 @@
+[
+  {
+    "word": "beautify",
+    "lemma": "beautify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbjuː.tɪ.faɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "beautifies",
+          "PT": "beautified",
+          "PAP": "beautified",
+          "PRP": "beautifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make beautiful ; to increase the beauty of.",
+        "examples": [],
+        "synonyms": [
+          "adorn",
+          "decorate",
+          "ornament",
+          "prettify"
+        ],
+        "antonyms": [
+          "blight",
+          "deface",
+          "disfigure",
+          "mar",
+          "uglify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become beautiful.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "To make oneself beautiful.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "Synonym of pretty-print .",
+        "examples": [],
+        "synonyms": [
+          "prettify"
+        ],
+        "antonyms": [
+          "minify",
+          "uglify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( transitive ) To make beautiful ; to increase the beauty of.",
+    "secondary_definitions": [
+      "( intransitive , rare ) To become beautiful.",
+      "( intransitive , rare ) To make oneself beautiful.",
+      "( programming ) Synonym of pretty-print ."
+    ]
+  }
+]

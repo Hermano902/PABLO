@@ -1,0 +1,41 @@
+[
+  {
+    "word": "ftp",
+    "lemma": "ftp",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛf tiː ˈpiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "FTPs",
+          "PT": "FTPed",
+          "PAP": "FTPed",
+          "PRP": "FTPing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transfer using File Transfer Protocol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To transfer using File Transfer Protocol .",
+    "secondary_definitions": []
+  }
+]

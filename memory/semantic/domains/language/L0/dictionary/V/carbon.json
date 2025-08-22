@@ -1,0 +1,47 @@
+[
+  {
+    "word": "carbon",
+    "lemma": "carbon",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɑɹ.bən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "carbons",
+          "PT": "carboned",
+          "PAP": "carboned",
+          "PRP": "carboning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send a carbon copy of an email message to.",
+        "examples": [
+          "When I send it, I’ll carbon Julia so she’s aware."
+        ],
+        "synonyms": [
+          "cc",
+          "copy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "transitive",
+          "uncommon"
+        ],
+        "label_groups": "Internet , transitive , uncommon"
+      }
+    ],
+    "main_definition": "( Internet , transitive , uncommon ) To send a carbon copy of an email message to.",
+    "secondary_definitions": []
+  }
+]

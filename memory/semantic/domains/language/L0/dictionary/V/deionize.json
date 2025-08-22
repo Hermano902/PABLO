@@ -1,0 +1,90 @@
+[
+  {
+    "word": "deionize",
+    "lemma": "deionize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deionizes",
+          "PT": "deionized",
+          "PAP": "deionized",
+          "PRP": "deionizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove the ions from; to deprive of ions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To cause (an ionized substance ) to return to a neutral state ; to convert (an ion) into a neutral atom or molecule .",
+            "examples": [],
+            "synonyms": [
+              "unionize"
+            ],
+            "antonyms": [
+              "ionize"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To remove the ionic constituents from (a liquid , e.g. water ).",
+            "examples": [
+              "Water can be deionized using ion exchange resins ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physical chemistry"
+        ],
+        "label_groups": "transitive , physical chemistry"
+      },
+      {
+        "definition": "To be deprived of ions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of an ionized substance , to return to a neutral state .",
+            "examples": [],
+            "synonyms": [
+              "unionize"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physical chemistry"
+        ],
+        "label_groups": "intransitive , physical chemistry"
+      }
+    ],
+    "main_definition": "( transitive , physical chemistry ) To remove the ions from; to deprive of ions .",
+    "secondary_definitions": [
+      "( intransitive , physical chemistry ) To be deprived of ions ."
+    ]
+  }
+]

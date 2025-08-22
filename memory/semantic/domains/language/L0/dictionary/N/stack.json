@@ -1,0 +1,322 @@
+[
+  {
+    "word": "stack",
+    "lemma": "stack",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/stæk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "stacks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A pile.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A large pile of hay , grain , straw , or the like, larger at the bottom than the top, sometimes covered with thatch .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A pile of similar objects, each directly on top of the last.",
+            "examples": [
+              "Please bring me a chair from that stack in the corner."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A pile of poles or wood , indefinite in quantity.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "UK"
+            ],
+            "label_groups": "UK"
+          },
+          {
+            "definition": "A pile of wood containing 108 cubic feet . (~3 m³)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An extensive collection",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "A smokestack .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In computing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A linear data structure in which items inserted are removed in reverse order (the last item inserted is the first one to be removed).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          },
+          {
+            "definition": "A stack data structure stored in main memory that is manipulated during machine language procedure call related instructions.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "often with \"the\""
+            ],
+            "label_groups": "computing , often with \"the\""
+          },
+          {
+            "definition": "An implementation of a protocol suite (set of protocols forming a layered architecture).",
+            "examples": [
+              "A TCP/IP stack is a library or set of libraries or of OS drivers that take care of networking."
+            ],
+            "synonyms": [
+              "protocol stack"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "networking"
+            ],
+            "label_groups": "networking"
+          },
+          {
+            "definition": "A combination of interdependent , yet individually replaceable, software components or technologies used together on a system.",
+            "examples": [],
+            "synonyms": [
+              "technology stack"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "A generalization of schemes in algebraic geometry and of sheaves .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A coastal landform , consisting of a large vertical column of rock in the sea.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "Compactly spaced bookshelves used to house large collections of books .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "library"
+        ],
+        "label_groups": "library"
+      },
+      {
+        "definition": "A large amount of an object.",
+        "examples": [
+          "They paid him a stack of money to keep quiet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "A pile of rifles or muskets in a cone shape.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      },
+      {
+        "definition": "The amount of money a player has on the table.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poker"
+        ],
+        "label_groups": "poker"
+      },
+      {
+        "definition": "In architecture.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A number of flues embodied in one structure, rising above the roof.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A vertical drainpipe .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "A fall or crash, a prang .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Australia",
+          "slang"
+        ],
+        "label_groups": "Australia , slang"
+      },
+      {
+        "definition": "A blend of various dietary supplements or anabolic steroids with supposed synergistic benefits.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bodybuilding"
+        ],
+        "label_groups": "bodybuilding"
+      },
+      {
+        "definition": "A holding pattern , with aircraft circling one above the other as they wait to land.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "The quantity of a given item which fills up an inventory slot or bag.",
+        "examples": [
+          "I've got 107 Golden Branches, but the stack size is 20 so they're taking up 6 spaces in my inventory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( heading ) A pile.",
+    "secondary_definitions": [
+      "A smokestack .",
+      "( heading ) In computing.",
+      "( mathematics ) A generalization of schemes in algebraic geometry and of sheaves .",
+      "( geology ) A coastal landform , consisting of a large vertical column of rock in the sea.",
+      "( library ) Compactly spaced bookshelves used to house large collections of books .",
+      "( figuratively ) A large amount of an object.",
+      "( military ) A pile of rifles or muskets in a cone shape.",
+      "( poker ) The amount of money a player has on the table.",
+      "( heading ) In architecture.",
+      "( Australia , slang ) A fall or crash, a prang .",
+      "( bodybuilding ) A blend of various dietary supplements or anabolic steroids with supposed synergistic benefits.",
+      "( aviation ) A holding pattern , with aircraft circling one above the other as they wait to land.",
+      "( video games ) The quantity of a given item which fills up an inventory slot or bag."
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "word": "homoglyph",
+    "lemma": "homoglyph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɒməʊɡlɪf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "homoglyphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A character identical or nearly identical in appearance to another, but which differs in the meaning it represents; thus, in character encoding terms, a character with an identical or near-identical glyph , or the glyph itself.",
+        "examples": [
+          "The homoglyphs I (uppercase i) and l (lowercase L) confused many who typed in the URL.",
+          "I",
+          "l"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "computing"
+        ],
+        "label_groups": "linguistics , computing"
+      }
+    ],
+    "main_definition": "( linguistics , computing ) A character identical or nearly identical in appearance to another, but which differs in the meaning it represents; thus, in character encoding terms, a character with an identical or near-identical glyph , or the glyph itself.",
+    "secondary_definitions": []
+  }
+]

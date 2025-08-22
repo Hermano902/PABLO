@@ -1,0 +1,76 @@
+[
+  {
+    "word": "soundness",
+    "lemma": "soundness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "soundnesses"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state or quality of being sound .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The result or product of being sound .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The property (of an argument ) of not only being valid , but also of having true premises .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "The property of a logical theory that whenever a wff is a theorem then it must also be valid . Symbolically, letting T represent a theory within logic L , this can be represented as the property that whenever T ⊢ φ {\\displaystyle T\\vdash \\varphi } is true, then T ⊨ φ {\\displaystyle T\\vDash \\varphi } must also be true, for any wff φ of logic L .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( uncountable ) The state or quality of being sound .",
+    "secondary_definitions": [
+      "( countable ) The result or product of being sound .",
+      "( logic ) The property (of an argument ) of not only being valid , but also of having true premises .",
+      "( logic ) The property of a logical theory that whenever a wff is a theorem then it must also be valid . Symbolically, letting T represent a theory within logic L , this can be represented as the property that whenever T ⊢ φ {\\displaystyle T\\vdash \\varphi } is true, then T ⊨ φ {\\displaystyle T\\vDash \\varphi } must also be true, for any wff φ of logic L ."
+    ]
+  }
+]

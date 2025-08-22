@@ -1,0 +1,82 @@
+[
+  {
+    "word": "limit",
+    "lemma": "limit",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪm.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "limits",
+          "PT": "limited",
+          "PAP": "limited",
+          "PRP": "limiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restrict ; to circumscribe; not to allow to go beyond a certain bound , to set boundaries .",
+        "examples": [
+          "We need to limit the power of the executive.",
+          "I'm limiting myself to two drinks tonight."
+        ],
+        "synonyms": [
+          "check",
+          "straiten"
+        ],
+        "antonyms": [
+          "expand",
+          "release"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have a limit in a particular set.",
+        "examples": [
+          "The sequence limits on the point a .",
+          "a"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "intransitive"
+        ],
+        "label_groups": "mathematics , intransitive"
+      },
+      {
+        "definition": "To beg , or to exercise functions , within a certain limited region.",
+        "examples": [
+          "a limiting friar"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To restrict ; to circumscribe; not to allow to go beyond a certain bound , to set boundaries .",
+    "secondary_definitions": [
+      "( mathematics , intransitive ) To have a limit in a particular set.",
+      "( obsolete ) To beg , or to exercise functions , within a certain limited region."
+    ]
+  }
+]

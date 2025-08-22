@@ -1,0 +1,40 @@
+[
+  {
+    "word": "multiset",
+    "lemma": "multiset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "multisets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A generalized type of set in which multiple occurrences of an element are permitted.",
+        "examples": [
+          "Two words are anagrams if they are made up of the same multiset of letters."
+        ],
+        "synonyms": [
+          "bag",
+          "mset"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      }
+    ],
+    "main_definition": "( set theory ) A generalized type of set in which multiple occurrences of an element are permitted.",
+    "secondary_definitions": []
+  }
+]

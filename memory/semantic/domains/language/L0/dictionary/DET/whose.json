@@ -1,0 +1,70 @@
+[
+  {
+    "word": "whose",
+    "lemma": "whose",
+    "etymology": "Etymology",
+    "pos": "DET",
+    "raw_label": "Determiner",
+    "pos_index": 1,
+    "pronunciation": "/huːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of whom , belonging to whom ; which person's or people's.",
+        "examples": [
+          "Whose (wallet) is this?",
+          "We should buy a house. ~ With whose money?",
+          "For whose benefit are you acting.?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "interrogative"
+        ],
+        "label_groups": "interrogative"
+      },
+      {
+        "definition": "Of whom , belonging to whom .",
+        "examples": [
+          "This is the man whose dog caused the accident.",
+          "The victim was a young student, both of whose eyes were missing .",
+          "The victim was a young student, both of whose eyes were missing",
+          "He asked whose the umbrella was."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relative"
+        ],
+        "label_groups": "relative"
+      },
+      {
+        "definition": "Of which , belonging to which .",
+        "examples": [
+          "We saw several houses whose roofs were falling off."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relative"
+        ],
+        "label_groups": "relative"
+      }
+    ],
+    "main_definition": "( interrogative ) Of whom , belonging to whom ; which person's or people's.",
+    "secondary_definitions": [
+      "( relative ) Of whom , belonging to whom .",
+      "( relative ) Of which , belonging to which ."
+    ]
+  }
+]

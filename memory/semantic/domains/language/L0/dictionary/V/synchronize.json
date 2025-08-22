@@ -1,0 +1,122 @@
+[
+  {
+    "word": "synchronize",
+    "lemma": "synchronize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪŋ.kɹə.naɪːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "synchronizes",
+          "PT": "synchronized",
+          "PAP": "synchronized",
+          "PRP": "synchronizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause two or more events or actions to happen at exactly the same time or same rate , or in a time-coordinated way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To occur at the same time or with coordinated timing.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To cause ( video and audio ) to play in a coordinated way.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To set (a clock or watch ) to display the same time as another.",
+        "examples": [
+          "We synchronized our watches and agreed to meet at four o'clock precisely."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (a set of files , data , or settings ) on one computer or device to be (and try to remain) the same as on another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To agree , be coordinated with, or complement well.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of inanimate entities"
+        ],
+        "label_groups": "intransitive , of inanimate entities"
+      },
+      {
+        "definition": "To coordinate or combine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cause two or more events or actions to happen at exactly the same time or same rate , or in a time-coordinated way.",
+    "secondary_definitions": [
+      "( transitive ) To set (a clock or watch ) to display the same time as another.",
+      "( computing , ambitransitive ) To cause (a set of files , data , or settings ) on one computer or device to be (and try to remain) the same as on another.",
+      "( intransitive , of inanimate entities ) To agree , be coordinated with, or complement well.",
+      "( transitive ) To coordinate or combine ."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "doubt",
+    "lemma": "doubt",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daʊt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "doubts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Disbelief or uncertainty (about something); ( countable ) a particular instance of such disbelief or uncertainty.",
+        "examples": [
+          "There was some doubt as to who the child's real father was.",
+          "I have doubts about how to convert this code to JavaScript."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "belief",
+          "confidence",
+          "faith"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "uncountable , countable"
+      },
+      {
+        "definition": "A point of uncertainty, especially a yes/no or a multiple-choice question",
+        "examples": [],
+        "synonyms": [
+          "disbelief"
+        ],
+        "antonyms": [
+          "belief",
+          "tenet"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "obsolete or India"
+        ],
+        "label_groups": "countable , obsolete or India"
+      }
+    ],
+    "main_definition": "( uncountable , countable ) Disbelief or uncertainty (about something); ( countable ) a particular instance of such disbelief or uncertainty.",
+    "secondary_definitions": [
+      "( countable , obsolete or India ) A point of uncertainty, especially a yes/no or a multiple-choice question"
+    ]
+  }
+]

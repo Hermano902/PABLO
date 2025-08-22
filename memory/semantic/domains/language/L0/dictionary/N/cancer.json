@@ -1,0 +1,51 @@
+[
+  {
+    "word": "cancer",
+    "lemma": "cancer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkænsə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cancers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A disease in which the cells of a tissue undergo uncontrolled (and often rapid) proliferation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "oncology",
+          "pathology"
+        ],
+        "label_groups": "medicine , oncology , pathology"
+      },
+      {
+        "definition": "Something damaging that spreads throughout something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( medicine , oncology , pathology ) A disease in which the cells of a tissue undergo uncontrolled (and often rapid) proliferation .",
+    "secondary_definitions": [
+      "( figuratively ) Something damaging that spreads throughout something else."
+    ]
+  }
+]

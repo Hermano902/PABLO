@@ -1,0 +1,45 @@
+[
+  {
+    "word": "firmware",
+    "lemma": "firmware",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A permanent form of software that provides a low-level control of computing device hardware .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Software that is intended for such embedded computer applications .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "software"
+        ],
+        "label_groups": "computing , software"
+      }
+    ],
+    "main_definition": "( computing ) A permanent form of software that provides a low-level control of computing device hardware .",
+    "secondary_definitions": [
+      "( computing , software ) Software that is intended for such embedded computer applications ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "meow",
+  "pos_order": [
+    "INTJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "INTJ": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\meow.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\meow.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\meow.json"
+  },
+  "timestamp": "2025-08-19T08:55:57.695084Z"
+}

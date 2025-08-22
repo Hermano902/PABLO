@@ -1,0 +1,117 @@
+[
+  {
+    "word": "effective",
+    "lemma": "effective",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈfɛktɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more effective",
+          "SUP": "most effective"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having the power to produce a required effect or effects.",
+        "examples": [
+          "The pill is an effective method of birth control."
+        ],
+        "synonyms": [
+          "efficacious"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Producing a decided or decisive effect.",
+        "examples": [
+          "The president delivered an effective speech!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Efficient, serviceable, or operative , available for useful work.",
+        "examples": [
+          "How long does it take to make a bunch of civilians an effective military force?",
+          "My effective income after taxes and child support is $500 a month.",
+          "The effective radiated power is determined by multiplying the transmitter power output with the antenna gain.",
+          "The effective voltage of an alternating current is 0.7 times its peak voltage."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "nominal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Actually in effect.",
+        "examples": [
+          "effective immediately",
+          "The curfew is effective at midnight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having no negative coefficients .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a cycle or divisor"
+        ],
+        "label_groups": "geometry , of a cycle or divisor"
+      },
+      {
+        "definition": "Such that no group element acts trivially .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a group action"
+        ],
+        "label_groups": "algebra , of a group action"
+      },
+      {
+        "definition": "approximate ; Not describing the fundamental dynamic changes in some system as they happen.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "for any effective theory"
+        ],
+        "label_groups": "physics , for any effective theory"
+      }
+    ],
+    "main_definition": "Having the power to produce a required effect or effects.",
+    "secondary_definitions": [
+      "Producing a decided or decisive effect.",
+      "Efficient, serviceable, or operative , available for useful work.",
+      "Actually in effect.",
+      "( geometry , of a cycle or divisor ) Having no negative coefficients .",
+      "( algebra , of a group action ) Such that no group element acts trivially .",
+      "( physics , for any effective theory ) approximate ; Not describing the fundamental dynamic changes in some system as they happen."
+    ]
+  }
+]

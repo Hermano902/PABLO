@@ -1,0 +1,88 @@
+[
+  {
+    "word": "cursor",
+    "lemma": "cursor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɜːsə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cursors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A part of any of several scientific or measuring instruments that moves back and forth to indicate a position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A moving icon or other representation, usually called a pointer , of the position of the pointing device .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      },
+      {
+        "definition": "An indicator , often a blinking line or bar, indicating where the next insertion or other edit will take place.",
+        "examples": [],
+        "synonyms": [
+          "caret"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A reference to a row of data in a table , which moves from row to row as data is retrieved by way of it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      },
+      {
+        "definition": "A design pattern in object oriented methodology in which a collection is iterated uniformly.",
+        "examples": [],
+        "synonyms": [
+          "iterator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A part of any of several scientific or measuring instruments that moves back and forth to indicate a position .",
+    "secondary_definitions": [
+      "( graphical user interface ) A moving icon or other representation, usually called a pointer , of the position of the pointing device .",
+      "( computing ) An indicator , often a blinking line or bar, indicating where the next insertion or other edit will take place.",
+      "( databases ) A reference to a row of data in a table , which moves from row to row as data is retrieved by way of it.",
+      "( programming ) A design pattern in object oriented methodology in which a collection is iterated uniformly."
+    ]
+  }
+]

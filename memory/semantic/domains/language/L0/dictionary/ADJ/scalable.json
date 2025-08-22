@@ -1,0 +1,80 @@
+[
+  {
+    "word": "scalable",
+    "lemma": "scalable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈskeɪ.lə.bl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more scalable",
+          "SUP": "most scalable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being climbed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unscalable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "Able to be changed in scale ; resizeable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unscalable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "Able to greatly increase in capacity , with relative ease.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "ungrowable",
+          "unscalable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "logistics",
+          "business"
+        ],
+        "label_groups": "computing , logistics , business",
+        "dating_raw": "from 1980s"
+      },
+      {
+        "definition": "Suitable to provide accurate dimensions to manufacturing staff by being measured and having the measurements multiplied by the scale factor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manufacturing",
+          "of an engineering drawing or its features"
+        ],
+        "label_groups": "manufacturing , of an engineering drawing or its features"
+      }
+    ],
+    "main_definition": "Capable of being climbed . [from 16th c.]",
+    "secondary_definitions": [
+      "Able to be changed in scale ; resizeable . [from 20th c.]",
+      "( computing , logistics , business ) Able to greatly increase in capacity , with relative ease. [from 1980s]",
+      "( manufacturing , of an engineering drawing or its features ) Suitable to provide accurate dimensions to manufacturing staff by being measured and having the measurements multiplied by the scale factor."
+    ]
+  }
+]

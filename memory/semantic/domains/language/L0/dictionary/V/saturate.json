@@ -1,0 +1,94 @@
+[
+  {
+    "word": "saturate",
+    "lemma": "saturate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsatjʊreɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "saturates",
+          "PT": "saturated",
+          "PAP": "saturated",
+          "PRP": "saturating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to become completely permeated with, or soaked (especially with a liquid).",
+        "examples": [
+          "Rain saturated their clothes.",
+          "After walking home in the driving rain, his clothes were saturated ."
+        ],
+        "synonyms": [
+          "drench",
+          "impregnate",
+          "soak"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fill thoroughly or to excess.",
+        "examples": [
+          "Modern television is saturated with violence."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To satisfy the affinity of; to cause a substance to become inert by chemical combination with all that it can hold.",
+        "examples": [
+          "One can saturate phosphorus with chlorine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To render pure, or of a colour free from white light.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "optics"
+        ],
+        "label_groups": "transitive , optics"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to become completely permeated with, or soaked (especially with a liquid).",
+    "secondary_definitions": [
+      "( transitive , figurative ) To fill thoroughly or to excess.",
+      "( transitive , chemistry ) To satisfy the affinity of; to cause a substance to become inert by chemical combination with all that it can hold.",
+      "( transitive , optics ) To render pure, or of a colour free from white light."
+    ]
+  }
+]

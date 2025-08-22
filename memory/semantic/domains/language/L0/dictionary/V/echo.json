@@ -1,0 +1,115 @@
+[
+  {
+    "word": "echo",
+    "lemma": "echo",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛkəʊ",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "echoes",
+          "PT": "echoed",
+          "PAP": "echoed",
+          "PRP": "echoing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a sound or sound waves : to reflect off a surface and return ; to reverberate or resound .",
+        "examples": [],
+        "synonyms": [
+          "ring"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Of a rumour , opinion , etc.: to spread or reverberate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      },
+      {
+        "definition": "To reflect back (a sound).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To repeat (another’s speech, opinion , etc.).",
+        "examples": [
+          "Sid echoed his father’s point of view."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To repeat its input as input to some other device or system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To give the echo signal, informing one's partner about cards one holds.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "whist",
+          "bridge"
+        ],
+        "label_groups": "intransitive , whist , bridge"
+      }
+    ],
+    "main_definition": "( intransitive ) Of a sound or sound waves : to reflect off a surface and return ; to reverberate or resound .",
+    "secondary_definitions": [
+      "( intransitive , figuratively ) Of a rumour , opinion , etc.: to spread or reverberate .",
+      "( transitive ) To reflect back (a sound).",
+      "( transitive , figuratively ) To repeat (another’s speech, opinion , etc.).",
+      "( computing , transitive ) To repeat its input as input to some other device or system.",
+      "( intransitive , whist , bridge ) To give the echo signal, informing one's partner about cards one holds."
+    ]
+  }
+]

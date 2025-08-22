@@ -1,0 +1,49 @@
+[
+  {
+    "word": "antiviral",
+    "lemma": "antiviral",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/æntiˈvaɪɹəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Inhibiting the growth and reproduction of a virus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pharmacology"
+        ],
+        "label_groups": "pharmacology"
+      },
+      {
+        "definition": "Eliminating or inhibiting the action of a computer virus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( pharmacology ) Inhibiting the growth and reproduction of a virus .",
+    "secondary_definitions": [
+      "( computing ) Eliminating or inhibiting the action of a computer virus ."
+    ]
+  }
+]

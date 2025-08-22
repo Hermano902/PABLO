@@ -1,0 +1,54 @@
+[
+  {
+    "word": "discard",
+    "lemma": "discard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈkɑːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "discards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Anything discarded.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A discarded playing card in a card game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A temporary variable used to receive a value of no importance and unable to be read later.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Anything discarded.",
+    "secondary_definitions": [
+      "A discarded playing card in a card game .",
+      "( programming ) A temporary variable used to receive a value of no importance and unable to be read later."
+    ]
+  }
+]

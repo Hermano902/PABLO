@@ -1,0 +1,89 @@
+[
+  {
+    "word": "liquefy",
+    "lemma": "liquefy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪ.kwɪ.faɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "liquefies",
+          "PT": "liquefied",
+          "PAP": "liquefied",
+          "PRP": "liquefying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To make (something) into a liquid .",
+            "examples": [
+              "We’ll liquefy this rock by heating it in a furnace until it melts and flows out."
+            ],
+            "synonyms": [
+              "liquidate",
+              "liquidize",
+              "melt"
+            ],
+            "antonyms": [
+              "condense",
+              "freeze",
+              "solidify"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To distort and warp (an image ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension",
+              "image manipulation",
+              "especially Adobe Photoshop"
+            ],
+            "label_groups": "by extension , image manipulation , especially Adobe Photoshop"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become liquid.",
+        "examples": [
+          "The substance liquefied upon heating."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive )",
+    "secondary_definitions": [
+      "( intransitive ) To become liquid."
+    ]
+  }
+]

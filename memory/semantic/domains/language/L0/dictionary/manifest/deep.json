@@ -1,0 +1,46 @@
+{
+  "word": "deep",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 22,
+      "examples": 29,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 4,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\deep.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\deep.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\deep.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\deep.json"
+  },
+  "timestamp": "2025-08-19T01:31:24.074331Z"
+}

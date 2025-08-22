@@ -1,0 +1,74 @@
+[
+  {
+    "word": "emerge",
+    "lemma": "emerge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈmɜːd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "emerges",
+          "PT": "emerged",
+          "PAP": "emerged",
+          "PRP": "emerging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To come into view .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To come out of a situation , object , or a liquid .",
+        "examples": [
+          "He emerged unscathed from the accident.",
+          "The Soviet Union emerged from the ruins of an empire.",
+          "The submarine emerged from the ocean."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative"
+        ],
+        "label_groups": "intransitive , copulative"
+      },
+      {
+        "definition": "To become known .",
+        "examples": [
+          "Gradually the truth emerged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To come into view .",
+    "secondary_definitions": [
+      "( intransitive , copulative ) To come out of a situation , object , or a liquid .",
+      "( intransitive ) To become known ."
+    ]
+  }
+]

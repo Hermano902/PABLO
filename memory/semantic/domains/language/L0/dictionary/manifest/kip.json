@@ -1,0 +1,35 @@
+{
+  "word": "kip",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "V:2",
+    "N:3",
+    "N:4",
+    "N:5",
+    "N:6",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 5
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\kip.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\kip.json"
+  },
+  "timestamp": "2025-08-19T07:04:59.239111Z"
+}

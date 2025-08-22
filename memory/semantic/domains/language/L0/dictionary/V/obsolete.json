@@ -1,0 +1,43 @@
+[
+  {
+    "word": "obsolete",
+    "lemma": "obsolete",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒbsəliːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "obsoletes",
+          "PT": "obsoleted",
+          "PAP": "obsoleted",
+          "PRP": "obsoleting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to become obsolete .",
+        "examples": [
+          "This software component has been obsoleted .",
+          "We are in the process of obsoleting this product."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to become obsolete .",
+    "secondary_definitions": []
+  }
+]

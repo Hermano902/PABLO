@@ -1,0 +1,38 @@
+{
+  "word": "ratchet",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ratchet.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ratchet.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\ratchet.json"
+  },
+  "timestamp": "2025-08-19T13:09:03.816226Z"
+}

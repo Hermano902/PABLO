@@ -1,0 +1,30 @@
+{
+  "word": "summer",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 3,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\summer.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\summer.json"
+  },
+  "timestamp": "2025-08-19T18:23:01.479453Z"
+}

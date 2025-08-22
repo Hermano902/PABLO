@@ -1,0 +1,84 @@
+[
+  {
+    "word": "schema",
+    "lemma": "schema",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈskiːmə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "schemata"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body schema ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A formal description of the structure of a database : the names of the tables , the names of the columns of each table, and the data type and other attributes of each column.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      },
+      {
+        "definition": "A formal description of data, data types , and data file structures, such as XML schemas for XML files.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "markup languages"
+        ],
+        "label_groups": "markup languages"
+      },
+      {
+        "definition": "A formula in the metalanguage of an axiomatic system , in which one or more schematic variables appear, which stand for any term or subformula of the system, which may or may not be required to satisfy certain conditions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "A monastic habit in the Greek Orthodox Church.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Christianity"
+        ],
+        "label_groups": "Christianity"
+      }
+    ],
+    "main_definition": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body schema ).",
+    "secondary_definitions": [
+      "( databases ) A formal description of the structure of a database : the names of the tables , the names of the columns of each table, and the data type and other attributes of each column.",
+      "( markup languages ) A formal description of data, data types , and data file structures, such as XML schemas for XML files.",
+      "( logic ) A formula in the metalanguage of an axiomatic system , in which one or more schematic variables appear, which stand for any term or subformula of the system, which may or may not be required to satisfy certain conditions.",
+      "( Christianity ) A monastic habit in the Greek Orthodox Church."
+    ]
+  }
+]

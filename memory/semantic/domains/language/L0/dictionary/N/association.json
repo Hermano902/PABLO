@@ -1,0 +1,101 @@
+[
+  {
+    "word": "association",
+    "lemma": "association",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˌsəʊʃiˈeɪʃn̩/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "associations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of associating .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The state of being associated ; a connection to or an affiliation with something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Any relationship between two measured quantities that renders them statistically dependent (but not necessarily causal or a correlation ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "A group of persons associated for a common purpose; an organization ; society .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A benevolent overseas Chinese organization of popular origin for overseas Chinese individuals with the same surname , geographical origin, location, trade or business .",
+        "examples": [],
+        "synonyms": [
+          "kongsi"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Philippines",
+          "Chinese Filipino"
+        ],
+        "label_groups": "Philippines , Chinese Filipino"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of associating .",
+    "secondary_definitions": [
+      "( countable ) The state of being associated ; a connection to or an affiliation with something.",
+      "( statistics ) Any relationship between two measured quantities that renders them statistically dependent (but not necessarily causal or a correlation ).",
+      "A group of persons associated for a common purpose; an organization ; society .",
+      "( object-oriented programming ) Relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf.",
+      "( Philippines , Chinese Filipino ) A benevolent overseas Chinese organization of popular origin for overseas Chinese individuals with the same surname , geographical origin, location, trade or business ."
+    ]
+  }
+]

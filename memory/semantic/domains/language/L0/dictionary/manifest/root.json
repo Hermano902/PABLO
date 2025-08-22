@@ -1,0 +1,31 @@
+{
+  "word": "root",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 22,
+      "examples": 11,
+      "synonyms": 11,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 12,
+      "examples": 7,
+      "synonyms": 10,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\root.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\root.json"
+  },
+  "timestamp": "2025-08-19T13:57:28.542824Z"
+}

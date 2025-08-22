@@ -1,0 +1,30 @@
+{
+  "word": "may",
+  "pos_order": [
+    "V",
+    "N",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 11,
+      "examples": 8,
+      "synonyms": 7,
+      "antonyms": 0,
+      "inflections": 7
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\may.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\may.json"
+  },
+  "timestamp": "2025-08-19T08:44:30.051509Z"
+}

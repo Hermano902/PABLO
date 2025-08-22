@@ -1,0 +1,38 @@
+{
+  "word": "cocky",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "N:2",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\cocky.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cocky.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cocky.json"
+  },
+  "timestamp": "2025-08-19T00:09:34.575071Z"
+}

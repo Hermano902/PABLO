@@ -1,0 +1,73 @@
+[
+  {
+    "word": "outline",
+    "lemma": "outline",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈaʊtlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "outlines",
+          "PT": "outlined",
+          "PAP": "outlined",
+          "PRP": "outlining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw an outline of; to describe.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To summarize .",
+        "examples": [
+          "Wikipedia items featuring books usually outline them after giving their background."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To optimize for size by replacing repeated code fragments with function calls .",
+        "examples": [],
+        "synonyms": [
+          "reverse",
+          "inline"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software compilation"
+        ],
+        "label_groups": "transitive , software compilation"
+      }
+    ],
+    "main_definition": "( transitive ) To draw an outline of; to describe.",
+    "secondary_definitions": [
+      "( transitive ) To summarize .",
+      "( transitive , software compilation ) To optimize for size by replacing repeated code fragments with function calls ."
+    ]
+  }
+]

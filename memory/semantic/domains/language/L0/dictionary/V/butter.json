@@ -1,0 +1,81 @@
+[
+  {
+    "word": "butter",
+    "lemma": "butter",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʌtəɹ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "butters",
+          "PT": "buttered",
+          "PAP": "buttered",
+          "PRP": "buttering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To spread butter on.",
+        "examples": [
+          "Butter the toast."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move one's weight backwards or forwards onto the tips or tails of one's skis or snowboard so only the tip or tail is in contact with the snow. Similar to applying butter to bread with the end of a knife.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To spin on skis or a snowboard using only the tips or tails being in contact with the snow",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "skiing",
+          "snowboarding"
+        ],
+        "label_groups": "skiing , snowboarding"
+      },
+      {
+        "definition": "To increase (stakes) at every throw of dice , or every game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "slang , obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To spread butter on.",
+    "secondary_definitions": [
+      "( skiing , snowboarding ) To move one's weight backwards or forwards onto the tips or tails of one's skis or snowboard so only the tip or tail is in contact with the snow. Similar to applying butter to bread with the end of a knife.",
+      "( slang , obsolete , transitive ) To increase (stakes) at every throw of dice , or every game ."
+    ]
+  }
+]

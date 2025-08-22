@@ -1,0 +1,64 @@
+[
+  {
+    "word": "student",
+    "lemma": "student",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstjuː.dənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "students"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who studies or learns about a particular subject .",
+        "examples": [
+          "She is a student of human interactions.",
+          "He is a student of life."
+        ],
+        "synonyms": [
+          "candlewaster",
+          "scholar",
+          "devotee",
+          "disciple"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who is formally enrolled at a school , a college or university , or another educational institution.",
+        "examples": [
+          "The students were out raising funds for rag week ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A person who is enrolled at a college or university ( as contrasted with a pupil or schoolchild attending a primary or secondary school ) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "in particular"
+            ],
+            "label_groups": "in particular"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "A person who studies or learns about a particular subject .",
+    "secondary_definitions": [
+      "A person who is formally enrolled at a school , a college or university , or another educational institution."
+    ]
+  }
+]

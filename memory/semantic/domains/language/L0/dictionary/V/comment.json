@@ -1,0 +1,104 @@
+[
+  {
+    "word": "comment",
+    "lemma": "comment",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒm.ɛnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "comments",
+          "PT": "commented",
+          "PAP": "commented",
+          "PRP": "commenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remark.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make remarks or notes; to express a view regarding.",
+        "examples": [
+          "He commented about your proposal.",
+          "The movie comments on race relations."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "with \"on\" or \"about\""
+        ],
+        "label_groups": "intransitive , with \"on\" or \"about\""
+      },
+      {
+        "definition": "To comment or remark on.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To insert comments into ( source code ).",
+        "examples": [
+          "I wish I'd commented this complicated algorithm back when I remembered how it worked."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software",
+          "of code"
+        ],
+        "label_groups": "transitive , software , of code"
+      },
+      {
+        "definition": "To comment out (code); to disable by converting into a comment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software",
+          "of code"
+        ],
+        "label_groups": "transitive , software , of code"
+      }
+    ],
+    "main_definition": "( transitive ) To remark.",
+    "secondary_definitions": [
+      "( intransitive , with \"on\" or \"about\" ) To make remarks or notes; to express a view regarding.",
+      "( transitive , obsolete ) To comment or remark on.",
+      "( transitive , software , of code ) To insert comments into ( source code ).",
+      "( transitive , software , of code ) To comment out (code); to disable by converting into a comment."
+    ]
+  }
+]

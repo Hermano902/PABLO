@@ -1,0 +1,83 @@
+[
+  {
+    "word": "join",
+    "lemma": "join",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɔɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "joins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of joining or the state of being joined; a junction or joining .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An intersection of piping or wiring; an interconnect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An intersection of data in two or more database tables .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "The act of joining something, such as a network.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The lowest upper bound, an operation between pairs of elements in a lattice , denoted by the symbol ∨ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "meet"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "An act of joining or the state of being joined; a junction or joining .",
+    "secondary_definitions": [
+      "An intersection of piping or wiring; an interconnect .",
+      "( computing , databases ) An intersection of data in two or more database tables .",
+      "( computing ) The act of joining something, such as a network.",
+      "( algebra ) The lowest upper bound, an operation between pairs of elements in a lattice , denoted by the symbol ∨ ."
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "word": "cohesion",
+    "lemma": "cohesion",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəʊˈhiː.ʒən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cohesions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "State of cohering , or of working together .",
+        "examples": [
+          "Unit cohesion is important in the military."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Various intermolecular forces that hold solids and liquids together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "chemistry"
+        ],
+        "label_groups": "physics , chemistry"
+      },
+      {
+        "definition": "Growing together of normally distinct parts of a plant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "Degree to which functionally related elements in a system belong together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      },
+      {
+        "definition": "Grammatical or lexical relationship between different parts of the same text .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "State of cohering , or of working together .",
+    "secondary_definitions": [
+      "( physics , chemistry ) Various intermolecular forces that hold solids and liquids together.",
+      "( biology ) Growing together of normally distinct parts of a plant .",
+      "( software engineering ) Degree to which functionally related elements in a system belong together.",
+      "( linguistics ) Grammatical or lexical relationship between different parts of the same text ."
+    ]
+  }
+]

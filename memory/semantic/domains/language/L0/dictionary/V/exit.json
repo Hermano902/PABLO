@@ -1,0 +1,140 @@
+[
+  {
+    "word": "exit",
+    "lemma": "exit",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛksɪt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "exits",
+          "PT": "exited",
+          "PAP": "exited",
+          "PRP": "exiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( intransitive ) To go out or go away from a place or situation ; to depart , to leave .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "arrive",
+          "come",
+          "enter",
+          "ingress"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "( theater ) To leave a scene or depart from a stage .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , often euphemistic ) To depart from life ; to die .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( ambitransitive , computing ) To end or terminate (a program , subroutine , etc.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , originally US , also figuratively ) To depart from or leave (a place or situation).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "enter"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "( transitive , specifically ) To alight or disembark from a vehicle .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( bridge , intransitive ) To give up the lead .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive ) To go out or go away from a place or situation ; to depart , to leave .",
+    "secondary_definitions": [
+      "( intransitive , often euphemistic ) To depart from life ; to die .",
+      "( ambitransitive , computing ) To end or terminate (a program , subroutine , etc.)",
+      "( transitive , originally US , also figuratively ) To depart from or leave (a place or situation).",
+      "( bridge , intransitive ) To give up the lead ."
+    ]
+  },
+  {
+    "word": "exit",
+    "lemma": "exit",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "-ɛksɪt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Used as a stage direction for an actor : to leave the scene or stage .",
+        "examples": [],
+        "synonyms": [
+          "exeat"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "drama",
+          "also figuratively"
+        ],
+        "label_groups": "intransitive , drama , also figuratively"
+      }
+    ],
+    "main_definition": "( intransitive , drama , also figuratively ) Used as a stage direction for an actor : to leave the scene or stage .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "word": "sugar",
+    "lemma": "sugar",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃʊɡə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sugars",
+          "PT": "sugared",
+          "PAP": "sugared",
+          "PRP": "sugaring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To add sugar to; to sweeten with sugar.",
+        "examples": [
+          "John heavily sugars his coffee."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (something unpleasant) seem less so.",
+        "examples": [
+          "She has a gift for sugaring what would otherwise be harsh words."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "In making maple sugar , to complete the process of boiling down the syrup till it is thick enough to crystallize ; to approach or reach the state of granulation ; with the preposition off .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "Canada",
+          "regional"
+        ],
+        "label_groups": "US , Canada , regional"
+      },
+      {
+        "definition": "To apply sugar to trees or plants in order to catch moths .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "entomology"
+        ],
+        "label_groups": "entomology"
+      },
+      {
+        "definition": "To rewrite ( source code ) using syntactic sugar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      },
+      {
+        "definition": "To compliment (a person).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove hair using a paste of sugar, water , and lemon juice .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To add sugar to; to sweeten with sugar.",
+    "secondary_definitions": [
+      "( transitive ) To make (something unpleasant) seem less so.",
+      "( US , Canada , regional ) In making maple sugar , to complete the process of boiling down the syrup till it is thick enough to crystallize ; to approach or reach the state of granulation ; with the preposition off .",
+      "( entomology ) To apply sugar to trees or plants in order to catch moths .",
+      "( programming , transitive ) To rewrite ( source code ) using syntactic sugar .",
+      "( transitive ) To compliment (a person).",
+      "To remove hair using a paste of sugar, water , and lemon juice ."
+    ]
+  }
+]

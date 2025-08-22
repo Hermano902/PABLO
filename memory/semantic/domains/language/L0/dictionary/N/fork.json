@@ -1,0 +1,283 @@
+[
+  {
+    "word": "fork",
+    "lemma": "fork",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fɔːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "forks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of several types of pronged ( tined ) tools (physical tools), as follows:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A utensil with spikes used to put solid food into the mouth , or to hold food down while cutting.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Any of several types of pronged tools for use on farms , in fields , or in the garden or lawn , such as a smaller hand fork for weeding or a larger one for turning over the soil . Such a pronged tool having a long straight handle, generally for two-handed use, as used for digging , lifting , mucking , pitching , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A tuning fork .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( by abstraction, from the tool shape ) A fork in the road , as follows:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( physical ) An intersection in a road or path where one road is split into two .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( figurative ) A decision point .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( by abstraction , from the tool shape ) A point where a waterway , such as a river or other stream , splits and flows into two (or more) different directions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "confluence"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( metonymic , analogous to any prong of a pronged tool ) One of the parts into which anything is furcated or divided; a prong; a branch of a stream, a road, etc.; a barbed point, as of an arrow.",
+        "examples": [
+          "a thunderbolt with three forks",
+          "this fork of the river dries up during droughts"
+        ],
+        "synonyms": [
+          "branch",
+          "prong",
+          "prong",
+          "tine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( figuratively , decision-making ) A point in time where one has to make a decision between two life paths.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( metonymic ) Either of the (figurative) paths thus taken.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( figuratively , by abstraction, from a physical fork ) ( software development, content management, data management ) A departure from having a single source of truth (SSOT), sometimes intentionally but usually unintentionally.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( metonymic ) Any of the pieces/versions (of software , content , or data sets ) thus created.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "single source of truth",
+              "SSOT"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( software ) The launch of one or more separate software development efforts based upon a modified copy of an existing project , especially in free and open-source software . ( software ) Any of the software projects resulting from the launch of such separate software development efforts based upon a copy of the original project.",
+            "examples": [
+              "LibreOffice is a fork of OpenOffice."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( content management ) The splitting of the coverage of a topic (within a corpus of content) into two or more pieces. ( content management ) Any of the pieces/versions of content thus created.",
+            "examples": [
+              "A content fork may be intentional (as from a schism about goals) or unintentional (merely from a lack of reorganizing, so far)."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( cryptocurrencies ) A split in a blockchain resulting from protocol disagreements, or a branch of the blockchain resulting from such a split.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( chess ) The simultaneous attack of two adversary pieces with one single attacking piece (especially a knight).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( British , vulgar ) The crotch . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial ) A forklift .",
+        "examples": [
+          "Are you qualified to drive a fork ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Either of the blades of a forklift (or, in plural, the set of blades), on which the goods to be raised are loaded.",
+        "examples": [
+          "Get those forks tilted back more or you're gonna lose that pallet!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( cycling , motorcycling , by abstraction from a pronged tool's shape ) In a bicycle or motorcycle , the portion of the frameset holding the front wheel, allowing the rider to steer and balance, also called front fork .",
+        "examples": [
+          "The fork can be equipped with a suspension on mountain bikes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The upper front brow of a saddle bow , connected in the tree by the two saddle bars to the cantle on the other end.",
+        "examples": [],
+        "synonyms": [
+          "swell",
+          "pommel"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( obsolete ) A gallows .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Any of several types of pronged ( tined ) tools (physical tools), as follows:",
+    "secondary_definitions": [
+      "( by abstraction, from the tool shape ) A fork in the road , as follows:",
+      "( by abstraction , from the tool shape ) A point where a waterway , such as a river or other stream , splits and flows into two (or more) different directions.",
+      "( metonymic , analogous to any prong of a pronged tool ) One of the parts into which anything is furcated or divided; a prong; a branch of a stream, a road, etc.; a barbed point, as of an arrow.",
+      "( figuratively , decision-making ) A point in time where one has to make a decision between two life paths.",
+      "( figuratively , by abstraction, from a physical fork ) ( software development, content management, data management ) A departure from having a single source of truth (SSOT), sometimes intentionally but usually unintentionally.",
+      "( chess ) The simultaneous attack of two adversary pieces with one single attacking piece (especially a knight).",
+      "( British , vulgar ) The crotch . (Can we add an example for this sense?)",
+      "( colloquial ) A forklift .",
+      "Either of the blades of a forklift (or, in plural, the set of blades), on which the goods to be raised are loaded.",
+      "( cycling , motorcycling , by abstraction from a pronged tool's shape ) In a bicycle or motorcycle , the portion of the frameset holding the front wheel, allowing the rider to steer and balance, also called front fork .",
+      "The upper front brow of a saddle bow , connected in the tree by the two saddle bars to the cantle on the other end.",
+      "( obsolete ) A gallows ."
+    ]
+  },
+  {
+    "word": "fork",
+    "lemma": "fork",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/fɔːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "forks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The bottom of a sump into which the water of a mine drains.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      }
+    ],
+    "main_definition": "( mining ) The bottom of a sump into which the water of a mine drains.",
+    "secondary_definitions": []
+  }
+]

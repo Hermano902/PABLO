@@ -1,0 +1,41 @@
+[
+  {
+    "word": "untouch",
+    "lemma": "untouch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "untouches",
+          "PT": "untouched",
+          "PAP": "untouched",
+          "PRP": "untouching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark (a file or document) as not having been modified .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To mark (a file or document) as not having been modified .",
+    "secondary_definitions": []
+  }
+]

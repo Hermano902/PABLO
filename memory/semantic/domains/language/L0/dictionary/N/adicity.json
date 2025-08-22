@@ -1,0 +1,52 @@
+[
+  {
+    "word": "adicity",
+    "lemma": "adicity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/æˈdɪsɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "adicities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number of arguments or operands a function or operation takes. For a relation , the number of domains in the corresponding Cartesian product .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "mathematics",
+          "computer science"
+        ],
+        "label_groups": "logic , mathematics , computer science"
+      },
+      {
+        "definition": "Valence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "obsolete"
+        ],
+        "label_groups": "chemistry , obsolete"
+      }
+    ],
+    "main_definition": "( logic , mathematics , computer science ) The number of arguments or operands a function or operation takes. For a relation , the number of domains in the corresponding Cartesian product .",
+    "secondary_definitions": [
+      "( chemistry , obsolete ) Valence ."
+    ]
+  }
+]

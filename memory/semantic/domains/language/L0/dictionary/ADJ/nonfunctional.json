@@ -1,0 +1,65 @@
+[
+  {
+    "word": "nonfunctional",
+    "lemma": "nonfunctional",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not functional ; useless ; broken .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "functional"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not of the functional programming paradigm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "functional"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Not a function in the mathematical sense.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "functional"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a relation"
+        ],
+        "label_groups": "mathematics , of a relation"
+      }
+    ],
+    "main_definition": "Not functional ; useless ; broken .",
+    "secondary_definitions": [
+      "( programming ) Not of the functional programming paradigm .",
+      "( mathematics , of a relation ) Not a function in the mathematical sense."
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "sibling",
+    "lemma": "sibling",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪb.lɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "siblings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who shares a parent ; one's brother or sister who one shares a parent with.",
+        "examples": [
+          "None of my siblings are married yet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A node in a data structure that shares its parent with another node.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "The most closely related species, or one of several most closely related species when none can be determined to be more closely related.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      }
+    ],
+    "main_definition": "A person who shares a parent ; one's brother or sister who one shares a parent with.",
+    "secondary_definitions": [
+      "( computing theory ) A node in a data structure that shares its parent with another node.",
+      "( taxonomy ) The most closely related species, or one of several most closely related species when none can be determined to be more closely related."
+    ]
+  }
+]

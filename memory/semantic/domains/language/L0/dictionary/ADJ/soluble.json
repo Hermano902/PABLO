@@ -1,0 +1,58 @@
+[
+  {
+    "word": "soluble",
+    "lemma": "soluble",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒljʊbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more soluble",
+          "SUP": "most soluble"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be dissolved .",
+        "examples": [
+          "Sugar is soluble in water."
+        ],
+        "synonyms": [
+          "dissolvable",
+          "dissoluble"
+        ],
+        "antonyms": [
+          "insoluble"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Able to be solved or explained .",
+        "examples": [
+          "That mystery should be easily soluble ."
+        ],
+        "synonyms": [
+          "solvable"
+        ],
+        "antonyms": [
+          "insoluble"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( chemistry ) Able to be dissolved .",
+    "secondary_definitions": [
+      "Able to be solved or explained ."
+    ]
+  }
+]

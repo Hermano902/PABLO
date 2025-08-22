@@ -1,0 +1,60 @@
+[
+  {
+    "word": "glitch",
+    "lemma": "glitch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡlɪt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "glitches",
+          "PT": "glitched",
+          "PAP": "glitched",
+          "PRP": "glitching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To experience an unexpected , typically intermittent malfunction .",
+        "examples": [
+          "My computer keeps glitching ; every couple of hours it just reboots without warning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "especially of machines"
+        ],
+        "label_groups": "intransitive , especially of machines"
+      },
+      {
+        "definition": "To perform an exploit or recreate a bug while playing a video game.",
+        "examples": [
+          "His character will glitch into the wall and out of the level."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "video games"
+        ],
+        "label_groups": "intransitive , video games"
+      }
+    ],
+    "main_definition": "( intransitive , especially of machines ) To experience an unexpected , typically intermittent malfunction .",
+    "secondary_definitions": [
+      "( intransitive , video games ) To perform an exploit or recreate a bug while playing a video game."
+    ]
+  }
+]

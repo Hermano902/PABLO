@@ -1,0 +1,94 @@
+[
+  {
+    "word": "homogeneous",
+    "lemma": "homogeneous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌhɒ.mə(ʊ)ˈd͡ʒiː.nɪəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of the same kind; alike , similar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having the same composition throughout; of uniform make-up.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In the same state of matter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "In any of several technical senses uniform ; scalable ; having its behavior or form determined by, or the same as, its behavior on or form at a smaller component (of its domain of definition, of itself, etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of polynomials , functions , equations , systems of equations, or linear maps : ( algebra , of a polynomial ) Such that all its nonzero terms have the same degree . ( linear algebra , by specialization , of a system of linear equations ) Such that all the constant terms are zero. ( mathematical analysis , generalizing the case of polynomial functions , of a function f {\\displaystyle f} ) Such that if each of f {\\displaystyle f} 's inputs are multiplied by the same scalar , f {\\displaystyle f} 's output is multiplied by the same scalar to some fixed power (called the degree of homogeneity or degree of f {\\displaystyle f} ). ( Formally and more generally , of a partial function f {\\displaystyle f} between vector spaces whose domain is a linear cone ) Satisfying the equality f ( s x ) = s k f ( x ) {\\displaystyle f(s\\mathbf {x} )=s^{k}f(\\mathbf {x} )} for some integer k {\\displaystyle k} and for all x {\\displaystyle \\mathbf {x} } in the domain and s {\\displaystyle s} scalars. In ordinary differential equations (by analogy with the case for polynomial and functional homogeneity): ( of a first-order differential equation ) Capable of being written in the form f ( x , y ) d y = g ( x , y ) d x {\\displaystyle f(x,y)\\mathop {dy} =g(x,y)\\mathop {dx} } where f {\\displaystyle f} and g {\\displaystyle g} are homogeneous functions of the same degree as each other. ( of a linear differential equation ) Having its degree-zero term equal to zero; admitting the trivial solution. ( of a general differential equation ) Homogeneous as a function of the dependent variable and its derivatives.",
+            "examples": [
+              "The function f ( x , y ) = x 2 + x 2 y + y 2 {\\displaystyle f(x,y)=x^{2}+x^{2}y+y^{2}} is not homogeneous on all of R 2 {\\displaystyle \\mathbb {R} ^{2}} because f ( 2 , 2 ) = 16 ≠ 2 k ∗ 3 = 2 k f ( 1 , 1 ) {\\displaystyle f(2,2)=16\\neq 2^{k}*3=2^{k}f(1,1)} for any k {\\displaystyle k} , but f {\\displaystyle f} is homogeneous on the subspace of R 2 {\\displaystyle \\mathbb {R} ^{2}} spanned by ( 1 , 0 ) {\\displaystyle (1,0)} because f ( α x , α y ) = α x 2 = α 2 f ( x , y ) {\\displaystyle f(\\alpha x,\\alpha y)=\\alpha x^{2}=\\alpha ^{2}f(x,y)} for all ( x , y ) ∈ Span ⁡ { ( 1 , 0 ) } {\\displaystyle (x,y)\\in \\operatorname {Span} \\{(1,0)\\}} ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "In abstract algebra and geometry : ( ring theory , of an element of a graded ring ) Belonging to one of the summands of the grading ( if the ring is graded over the natural numbers and the element is in the k th summand, it is said to be homogeneous of degree k ; if the ring is graded over a commutative monoid I , and the element is an element of the i th summand, it is said to be of grade i ) ( of a linear map f {\\displaystyle f} between vector spaces graded by a commutative monoid I {\\displaystyle I} ) Which respects the grading of its domain and codomain. Formally: Satisfying f ( V j ) ⊆ W i + j {\\displaystyle f(V_{j})\\subseteq W_{i+j}} for fixed i {\\displaystyle i} (called the degree or grade of f {\\displaystyle f} ), V j {\\displaystyle V_{j}} the j {\\displaystyle j} th component of the grading of f {\\displaystyle f} 's domain, W k {\\displaystyle W_{k}} the k {\\displaystyle k} th component of the grading of f {\\displaystyle f} 's codomain, and + representing the monoid operation in I {\\displaystyle I} . ( geometry , of a space equipped with a group action ) Informally : Everywhere the same, uniform, in the sense that any point can be moved to any other (via the group action) while respecting the structure of the space. Formally : Such that the group action is transitively and acts by automorphisms on the space (some authors also require that the action be faithful ). ( geometry ) Of or relating to homogeneous coordinates .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "In miscellaneous other senses: ( probability theory , Fourier analysis , of a distribution S {\\displaystyle S} on Euclidean n-space (or on R n ∖ { 0 } {\\displaystyle \\mathbb {R} ^{n}\\backslash \\{\\mathbf {0} \\}} ) ) Informally : Determined by its restriction to the unit sphere. Formally : Such that, for all real t > 0 {\\displaystyle t>0} and test functions ϕ ( x ) {\\displaystyle \\phi (\\mathbf {x} )} , the equality S [ t − n ϕ ( x / t ) ] = t m S [ ϕ ( x ) ] {\\displaystyle S[t^{-n}\\phi (\\mathbf {x} /t)]=t^{m}S[\\phi (\\mathbf {x} )]} holds for some fixed real or complex m {\\displaystyle m} . ( set theory , order theory , of a relation ) Holding between a set and itself; being an endorelation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Of the same kind; alike , similar .",
+    "secondary_definitions": [
+      "Having the same composition throughout; of uniform make-up.",
+      "( chemistry ) In the same state of matter .",
+      "( mathematics ) In any of several technical senses uniform ; scalable ; having its behavior or form determined by, or the same as, its behavior on or form at a smaller component (of its domain of definition, of itself, etc.)."
+    ]
+  }
+]

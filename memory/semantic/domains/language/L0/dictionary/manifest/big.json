@@ -1,0 +1,47 @@
+{
+  "word": "big",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 16,
+      "examples": 17,
+      "synonyms": 28,
+      "antonyms": 8,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 6,
+      "examples": 6,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\big.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\big.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\big.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\big.json"
+  },
+  "timestamp": "2025-08-18T22:11:59.700735Z"
+}

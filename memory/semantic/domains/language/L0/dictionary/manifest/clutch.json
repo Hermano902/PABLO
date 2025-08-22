@@ -1,0 +1,39 @@
+{
+  "word": "clutch",
+  "pos_order": [
+    "V",
+    "N",
+    "ADJ",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 11,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\clutch.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\clutch.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\clutch.json"
+  },
+  "timestamp": "2025-08-19T00:06:20.429569Z"
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "gravitate",
+    "lemma": "gravitate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɹævɪteɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "gravitates",
+          "PT": "gravitated",
+          "PAP": "gravitated",
+          "PRP": "gravitating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move under the force of gravity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "astrophysics"
+        ],
+        "label_groups": "intransitive , astrophysics"
+      },
+      {
+        "definition": "To tend or drift towards someone or something, as though being pulled by gravity .",
+        "examples": [
+          "Children naturally gravitate to such a big, friendly man.",
+          "The guests slowly gravitated to the kitchen."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      }
+    ],
+    "main_definition": "( intransitive , astrophysics ) To move under the force of gravity .",
+    "secondary_definitions": [
+      "( intransitive , figuratively ) To tend or drift towards someone or something, as though being pulled by gravity ."
+    ]
+  }
+]

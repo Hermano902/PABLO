@@ -1,0 +1,151 @@
+[
+  {
+    "word": "projective",
+    "lemma": "projective",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ɛktɪv",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more projective",
+          "SUP": "most projective"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "projecting outward",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "of, relating to, or caused by a projection",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of or related to projective geometry :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Invariant under projective transformations .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now usually in set phrases",
+              "of a property of a geometric object",
+              "figure",
+              "etc."
+            ],
+            "label_groups": "now usually in set phrases , of a property of a geometric object , figure , etc."
+          },
+          {
+            "definition": "Defined in or inhabiting a projective space .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a geometric object",
+              "figure",
+              "etc."
+            ],
+            "label_groups": "of a geometric object, figure, etc."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "In a technical sense, general (but not necessarily so general as to be free ); involving such objects:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "module M {\\displaystyle M} over a ring R {\\displaystyle R} ) Such that there is another (left) R {\\displaystyle R} -module N {\\displaystyle N} with M ⊕ N {\\displaystyle M\\oplus N} a free R {\\displaystyle R} -module. Equivalently, projective in the category of modules (see below).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "module theory",
+              "of a (left"
+            ],
+            "label_groups": "module theory , of a (left"
+          },
+          {
+            "definition": "Such that, given an epimorphism e : E → X {\\displaystyle e:E\\to X} and morphism f : P → X {\\displaystyle f:P\\to X} , f {\\displaystyle f} factors through e {\\displaystyle e} ; that is, there exists a morphism f ~ : P → E {\\displaystyle {\\tilde {f}}:P\\to E} with e ∘ f ~ = f {\\displaystyle e\\circ {\\tilde {f}}=f} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "category theory",
+              "most generally",
+              "of an object P {\\displaystyle P} in a category"
+            ],
+            "label_groups": "category theory , most generally , of an object P {\\displaystyle P} in a category"
+          },
+          {
+            "definition": "Such that every epimorphism from a profinite group onto G {\\displaystyle G} has a right inverse which is a homomorphism .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "group theory",
+              "of a profinite group G {\\displaystyle G}"
+            ],
+            "label_groups": "group theory , of a profinite group G {\\displaystyle G}"
+          },
+          {
+            "definition": "Such that every object in the resolution is projective.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "homological algebra",
+              "of a resolution"
+            ],
+            "label_groups": "homological algebra , of a resolution"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "projecting outward",
+    "secondary_definitions": [
+      "of, relating to, or caused by a projection",
+      "( geometry ) Of or related to projective geometry :",
+      "( algebra ) In a technical sense, general (but not necessarily so general as to be free ); involving such objects:"
+    ]
+  }
+]

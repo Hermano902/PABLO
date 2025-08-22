@@ -1,0 +1,59 @@
+[
+  {
+    "word": "kingdom",
+    "lemma": "kingdom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɪŋdəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "kingdoms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A realm having a king or queen as its actual or nominal sovereign .",
+        "examples": [],
+        "synonyms": [
+          "kingship"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A realm, region, or conceptual space where something is dominant.",
+        "examples": [
+          "the kingdom of thought",
+          "the kingdom of the dead"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rank in the classification of organisms , below domain and above phylum ; a taxon at that rank (e.g. the plant kingdom, the animal kingdom).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      }
+    ],
+    "main_definition": "A realm having a king or queen as its actual or nominal sovereign .",
+    "secondary_definitions": [
+      "A realm, region, or conceptual space where something is dominant.",
+      "( taxonomy ) A rank in the classification of organisms , below domain and above phylum ; a taxon at that rank (e.g. the plant kingdom, the animal kingdom)."
+    ]
+  }
+]

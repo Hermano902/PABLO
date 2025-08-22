@@ -1,0 +1,54 @@
+[
+  {
+    "word": "ceramic",
+    "lemma": "ceramic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səˈɹæmɪk/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ceramics"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "A hard, brittle, inorganic, nonmetallic material, usually made from a material, such as clay, then firing it at a high temperature.",
+        "examples": [
+          "Joan made the dish from ceramic ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An object made of this material.",
+        "examples": [
+          "Joe had dozens of ceramics in his apartment."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) A hard, brittle, inorganic, nonmetallic material, usually made from a material, such as clay, then firing it at a high temperature.",
+    "secondary_definitions": [
+      "( countable ) An object made of this material."
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "word": "sting",
+    "lemma": "sting",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/stɪŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stings",
+          "PT": "stung",
+          "PAP": "stung",
+          "PRP": "stinging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hurt , usually by introducing poison or a sharp point , or both.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To puncture with the stinger .",
+        "examples": [
+          "A mosquito stung me on the arm."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of an insect or arachnid"
+        ],
+        "label_groups": "transitive , of an insect or arachnid"
+      },
+      {
+        "definition": "To hurt , to be in pain (physically or emotionally).",
+        "examples": [
+          "My eyes are sting ing from the chopped onions.",
+          "My hand stings after knocking on the door so long.",
+          "Still, it stung when a slightly older acquaintance asked me why I couldn't do any better."
+        ],
+        "synonyms": [
+          "smart"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "sometimes figurative"
+        ],
+        "label_groups": "intransitive , sometimes figurative"
+      },
+      {
+        "definition": "To cause harm or pain to.",
+        "examples": [
+          "I thought I could park in front of the hotel, but they stung me for five pounds!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To hurt , usually by introducing poison or a sharp point , or both.",
+    "secondary_definitions": [
+      "( transitive , of an insect or arachnid ) To puncture with the stinger .",
+      "( intransitive , sometimes figurative ) To hurt , to be in pain (physically or emotionally).",
+      "( figurative ) To cause harm or pain to."
+    ]
+  }
+]

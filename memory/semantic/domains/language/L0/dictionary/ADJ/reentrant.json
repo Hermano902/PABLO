@@ -1,0 +1,104 @@
+[
+  {
+    "word": "reentrant",
+    "lemma": "reentrant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈɛntɹənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Reentering ; pointing inward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Such that the corresponding lock can be reacquired by the locking thread.",
+        "examples": [
+          "The global interpreter lock of the embedded scripting engine is not reentrant ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a mutex"
+        ],
+        "label_groups": "programming , of a mutex"
+      },
+      {
+        "definition": "That may be executed more than once at a time either by different threads , or because of recursion .",
+        "examples": [
+          "Global variables must not be altered by reentrant code."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Designed to return to the Earth 's atmosphere .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aeronautics",
+          "of a part of a rocket"
+        ],
+        "label_groups": "aeronautics , of a part of a rocket"
+      },
+      {
+        "definition": "Of or pertaining to reentry (in the heart ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physiology"
+        ],
+        "label_groups": "physiology"
+      },
+      {
+        "definition": "Having the strings not ordered according to pitch (having a re-entry ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "of a ukulele or similar instrument"
+        ],
+        "label_groups": "music , of a ukulele or similar instrument"
+      }
+    ],
+    "main_definition": "Reentering ; pointing inward.",
+    "secondary_definitions": [
+      "( programming , of a mutex ) Such that the corresponding lock can be reacquired by the locking thread.",
+      "( programming ) That may be executed more than once at a time either by different threads , or because of recursion .",
+      "( aeronautics , of a part of a rocket ) Designed to return to the Earth 's atmosphere .",
+      "( physiology ) Of or pertaining to reentry (in the heart ).",
+      "( music , of a ukulele or similar instrument ) Having the strings not ordered according to pitch (having a re-entry )."
+    ]
+  }
+]

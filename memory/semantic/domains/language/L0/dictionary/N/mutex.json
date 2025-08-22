@@ -1,0 +1,35 @@
+[
+  {
+    "word": "mutex",
+    "lemma": "mutex",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmjuːtɛks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mutexes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An object in a program that serves as a lock , used to negotiate mutual exclusion among threads .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) An object in a program that serves as a lock , used to negotiate mutual exclusion among threads .",
+    "secondary_definitions": []
+  }
+]

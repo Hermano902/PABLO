@@ -1,0 +1,138 @@
+[
+  {
+    "word": "satisfy",
+    "lemma": "satisfy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsætɪsfaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "satisfies",
+          "PT": "satisfied",
+          "PAP": "satisfied",
+          "PRP": "satisfying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To  be enough (for)",
+        "examples": [
+          "That brief explanation will never satisfy ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To meet the needs of, to fulfill the wishes or requirements of ( someone ) .",
+            "examples": [
+              "The final rehearsal of the day seemed to satisfy the director."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To provide what is wanted or required for ( something ) .",
+            "examples": [
+              "Even three giant helpings of turkey and ham didn't satisfy her appetite."
+            ],
+            "synonyms": [
+              "supply"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To pay to the extent of what is claimed or due.",
+        "examples": [
+          "to satisfy a creditor"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance",
+          "transitive"
+        ],
+        "label_groups": "finance , transitive"
+      },
+      {
+        "definition": "To answer or discharge (a claim, debt, legal demand, etc.); to give compensation for.",
+        "examples": [
+          "to satisfy a claim or an execution"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "transitive"
+        ],
+        "label_groups": "law , transitive"
+      },
+      {
+        "definition": "To cause (a sentence) to be true when the sentence is interpreted in one's universe.",
+        "examples": [
+          "The complex numbers satisfy ∃ x : x 2 + 1 = 0 {\\displaystyle \\exists x:x^{2}+1=0} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "logic",
+          "transitive"
+        ],
+        "label_groups": "mathematics , logic , transitive"
+      },
+      {
+        "definition": "To convince by ascertaining ; to free from doubt.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "literary",
+          "transitive"
+        ],
+        "label_groups": "dated , literary , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To  be enough (for)",
+    "secondary_definitions": [
+      "( finance , transitive ) To pay to the extent of what is claimed or due.",
+      "( law , transitive ) To answer or discharge (a claim, debt, legal demand, etc.); to give compensation for.",
+      "( mathematics , logic , transitive ) To cause (a sentence) to be true when the sentence is interpreted in one's universe.",
+      "( dated , literary , transitive ) To convince by ascertaining ; to free from doubt."
+    ]
+  }
+]

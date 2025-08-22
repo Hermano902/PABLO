@@ -1,0 +1,35 @@
+[
+  {
+    "word": "preprocessor",
+    "lemma": "preprocessor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "preprocessors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "program that processes its input data to produce output that is used as input to another program",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) program that processes its input data to produce output that is used as input to another program",
+    "secondary_definitions": []
+  }
+]

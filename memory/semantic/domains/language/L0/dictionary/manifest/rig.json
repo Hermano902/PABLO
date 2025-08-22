@@ -1,0 +1,32 @@
+{
+  "word": "rig",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "V:2",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 16,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 3,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\rig.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\rig.json"
+  },
+  "timestamp": "2025-08-19T13:49:09.034511Z"
+}

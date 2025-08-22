@@ -1,0 +1,74 @@
+[
+  {
+    "word": "duplicate",
+    "lemma": "duplicate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈd(j)uː.plɪ.kət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "duplicates",
+          "PT": "duplicated",
+          "PAP": "duplicated",
+          "PRP": "duplicating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a copy of.",
+        "examples": [
+          "If we duplicate the information, are we really accomplishing much?",
+          "Can you duplicate this kind of key?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To do repeatedly ; to do again .",
+        "examples": [
+          "You don't need to duplicate my efforts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To produce something equal to.",
+        "examples": [
+          "He found it hard to duplicate the skills of his wife."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make a copy of.",
+    "secondary_definitions": [
+      "( transitive ) To do repeatedly ; to do again .",
+      "( transitive ) To produce something equal to."
+    ]
+  }
+]

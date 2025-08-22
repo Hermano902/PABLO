@@ -1,0 +1,75 @@
+[
+  {
+    "word": "tiling",
+    "lemma": "tiling",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪlɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tilings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A covering of tiles .",
+        "examples": [
+          "All the tiling in the bathroom must be removed because of water damage to the wood under it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of applying tiles .",
+        "examples": [
+          "We spent all day doing the tiling in the bathroom."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A tessellation ; the covering of a plane with shapes , without overlaps or gaps.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A technique for optimizing loops by partitioning the iteration space into smaller chunks or blocks that will more easily fit in a cache .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "A covering of tiles .",
+    "secondary_definitions": [
+      "( uncountable ) The act of applying tiles .",
+      "( geometry ) A tessellation ; the covering of a plane with shapes , without overlaps or gaps.",
+      "( computing theory ) A technique for optimizing loops by partitioning the iteration space into smaller chunks or blocks that will more easily fit in a cache ."
+    ]
+  }
+]

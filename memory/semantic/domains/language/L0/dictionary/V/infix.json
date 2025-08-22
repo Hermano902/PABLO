@@ -1,0 +1,71 @@
+[
+  {
+    "word": "infix",
+    "lemma": "infix",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnfɪks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "infixes",
+          "PT": "infixed",
+          "PAP": "infixed",
+          "PRP": "infixing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To set; to fasten or fix by piercing or thrusting in.",
+        "examples": [
+          "to infix a sting, spear, or dart"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To instill .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To insert a morpheme inside an existing word.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "linguistics"
+        ],
+        "label_groups": "transitive , linguistics"
+      }
+    ],
+    "main_definition": "( transitive , archaic ) To set; to fasten or fix by piercing or thrusting in.",
+    "secondary_definitions": [
+      "( transitive ) To instill .",
+      "( transitive , linguistics ) To insert a morpheme inside an existing word."
+    ]
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "word": "return",
+    "lemma": "return",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈtɜːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "returns",
+          "PT": "returned",
+          "PAP": "returned",
+          "PRP": "returning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To come or go back (to a place or person).",
+        "examples": [
+          "Although the birds fly north for the summer, they return here in winter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To go back in thought , narration , or argument .",
+        "examples": [
+          "To return to my story [ … ]"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To recur ; to come again.",
+        "examples": [
+          "Winter returns every year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To turn back , retreat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To turn (something) round.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To place or put back something where it had been.",
+        "examples": [
+          "Please return your hands to your lap."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give something back to its original holder or owner.",
+        "examples": [
+          "You should return the library book within one month."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give in requital or recompense ; to requite .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reciprocate (a visit or telephone call ).",
+        "examples": [
+          "Hello, I'm just returning your call. What did you want to talk about?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take back something to a vendor for a complete or partial refund .",
+        "examples": [
+          "Yeah, it's $600,000 but, if it doesn't work, you can always return it. As long as it's undamaged and in the original packaging, I'll give you a full refund."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bat the ball back over the net in response to a serve .",
+        "examples": [
+          "The player couldn't return the serve because it was so fast."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "tennis"
+        ],
+        "label_groups": "tennis"
+      },
+      {
+        "definition": "To play a card as a result of another player's lead .",
+        "examples": [
+          "If one players plays a trump, the others must return a trump."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "card games"
+        ],
+        "label_groups": "card games"
+      },
+      {
+        "definition": "To throw a ball back to the wicket-keeper (or a fielder at that position) from somewhere in the field .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      },
+      {
+        "definition": "To say in reply ; to respond .",
+        "examples": [
+          "to return an answer;  to return thanks;  \"Do it yourself!\" she returned ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To relinquish control to the calling procedure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      },
+      {
+        "definition": "To pass (data) back to the calling procedure.",
+        "examples": [
+          "This function returns the number of files in the directory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To retort ; to throw back.",
+        "examples": [
+          "to return the lie"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      },
+      {
+        "definition": "To report , or bring back and make known.",
+        "examples": [
+          "to return the result of an election"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To elect according to the official report of the election officers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British",
+          "by extension",
+          "dated in the US"
+        ],
+        "label_groups": "British , by extension , dated in the US"
+      },
+      {
+        "definition": "To give a thrust or cut after parrying a sword-thrust.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fencing"
+        ],
+        "label_groups": "fencing"
+      }
+    ],
+    "main_definition": "( intransitive ) To come or go back (to a place or person).",
+    "secondary_definitions": [
+      "( intransitive ) To go back in thought , narration , or argument .",
+      "( intransitive ) To recur ; to come again.",
+      "( intransitive , obsolete ) To turn back , retreat .",
+      "( transitive , obsolete ) To turn (something) round.",
+      "( transitive ) To place or put back something where it had been.",
+      "( transitive ) To give something back to its original holder or owner.",
+      "To give in requital or recompense ; to requite .",
+      "( transitive ) To reciprocate (a visit or telephone call ).",
+      "( transitive ) To take back something to a vendor for a complete or partial refund .",
+      "( tennis ) To bat the ball back over the net in response to a serve .",
+      "( card games ) To play a card as a result of another player's lead .",
+      "( cricket ) To throw a ball back to the wicket-keeper (or a fielder at that position) from somewhere in the field .",
+      "( transitive ) To say in reply ; to respond .",
+      "( intransitive , computing ) To relinquish control to the calling procedure .",
+      "( transitive , computing ) To pass (data) back to the calling procedure.",
+      "( transitive , dated ) To retort ; to throw back.",
+      "( transitive ) To report , or bring back and make known.",
+      "( British , by extension , dated in the US ) To elect according to the official report of the election officers.",
+      "( fencing ) To give a thrust or cut after parrying a sword-thrust."
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "executor",
+    "lemma": "executor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈzɛkjʊtɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "executors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who carries out some task.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A component of a system that executes or runs something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Someone appointed by a testator to administer their estate in accordance with their will ; an administrator .",
+        "examples": [
+          "literary executor"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "An executioner .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "A person who carries out some task.",
+    "secondary_definitions": [
+      "( computing ) A component of a system that executes or runs something.",
+      "( law ) Someone appointed by a testator to administer their estate in accordance with their will ; an administrator .",
+      "( obsolete ) An executioner ."
+    ]
+  }
+]

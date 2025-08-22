@@ -1,0 +1,74 @@
+{
+  "word": "one",
+  "pos_order": [
+    "NUM",
+    "PRON",
+    "N",
+    "ADJ",
+    "DET",
+    "V",
+    "PART",
+    "PRON:2"
+  ],
+  "pos": {
+    "NUM": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PRON": {
+      "definitions": 5,
+      "examples": 10,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 15,
+      "examples": 17,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 6,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "DET": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 11,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "PART": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "NUM": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\NUM\\one.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\one.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\one.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\one.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\one.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\one.json",
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\one.json"
+  },
+  "timestamp": "2025-08-19T10:37:34.476466Z"
+}

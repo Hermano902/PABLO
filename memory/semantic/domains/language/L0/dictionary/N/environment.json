@@ -1,0 +1,100 @@
+[
+  {
+    "word": "environment",
+    "lemma": "environment",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈvaɪɹə(n)mənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "environments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The surroundings of, and influences on, a particular item of interest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The natural world or ecosystem .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "All the elements that affect a system or its inputs and outputs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A particular political or social setting, arena or condition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The software and/or hardware existing on any particular computer system .",
+        "examples": [
+          "That program uses the Microsoft Windows environment ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The environment of a function at a point during the execution of a program is the set of identifiers in the function's scope and their bindings at that point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "The set of variables and their values in a namespace that an operating system associates with a process .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The surroundings of, and influences on, a particular item of interest.",
+    "secondary_definitions": [
+      "The natural world or ecosystem .",
+      "All the elements that affect a system or its inputs and outputs.",
+      "A particular political or social setting, arena or condition.",
+      "( computing ) The software and/or hardware existing on any particular computer system .",
+      "( programming ) The environment of a function at a point during the execution of a program is the set of identifiers in the function's scope and their bindings at that point.",
+      "( computing ) The set of variables and their values in a namespace that an operating system associates with a process ."
+    ]
+  }
+]

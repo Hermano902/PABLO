@@ -1,0 +1,58 @@
+[
+  {
+    "word": "reschedule",
+    "lemma": "reschedule",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈʃɛdjuːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reschedules",
+          "PT": "rescheduled",
+          "PAP": "rescheduled",
+          "PRP": "rescheduling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To schedule again or at a different time.",
+        "examples": [
+          "We'll have to reschedule next Monday's meeting because of the public holiday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reclassify ; to change the schedule (division into which something is classified) of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "law"
+        ],
+        "label_groups": "transitive , US , law"
+      }
+    ],
+    "main_definition": "( transitive ) To schedule again or at a different time.",
+    "secondary_definitions": [
+      "( transitive , US , law ) To reclassify ; to change the schedule (division into which something is classified) of."
+    ]
+  }
+]

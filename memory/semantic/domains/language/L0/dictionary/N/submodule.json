@@ -1,0 +1,47 @@
+[
+  {
+    "word": "submodule",
+    "lemma": "submodule",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "submodules"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A module making up part of a larger module.",
+        "examples": [
+          "The first-year English Literature module consists of three submodules ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A module contained in a larger module , both over the same ring , such that the ring multiplication in the former is a restriction of that in the latter.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "A module making up part of a larger module.",
+    "secondary_definitions": [
+      "( algebra ) A module contained in a larger module , both over the same ring , such that the ring multiplication in the former is a restriction of that in the latter."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "executive",
+    "lemma": "executive",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈzɛkjʊtɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "executives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A chief officer or administrator , especially one who can make significant decisions on their own authority.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The branch of government that is responsible for enforcing laws and judicial decisions, and for the day-to-day administration of the state .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A process that coordinates and governs the action of other processes or threads; supervisor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A chief officer or administrator , especially one who can make significant decisions on their own authority.",
+    "secondary_definitions": [
+      "The branch of government that is responsible for enforcing laws and judicial decisions, and for the day-to-day administration of the state .",
+      "( computing ) A process that coordinates and governs the action of other processes or threads; supervisor."
+    ]
+  }
+]

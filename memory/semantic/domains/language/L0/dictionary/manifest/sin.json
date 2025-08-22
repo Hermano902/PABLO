@@ -1,0 +1,30 @@
+{
+  "word": "sin",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\sin.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\sin.json"
+  },
+  "timestamp": "2025-08-19T17:09:12.191828Z"
+}

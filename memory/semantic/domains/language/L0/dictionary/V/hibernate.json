@@ -1,0 +1,71 @@
+[
+  {
+    "word": "hibernate",
+    "lemma": "hibernate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhaɪbə(r)ˌneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hibernates",
+          "PT": "hibernated",
+          "PAP": "hibernated",
+          "PRP": "hibernating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To spend the winter in a dormant or inactive state of minimal activity, low body temperature , slow breathing and heart rate , and low metabolic rate ; to go through a winter sleep .",
+        "examples": [
+          "Hedgehogs and bears are two of the many mammals that hibernate in winter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "biology"
+        ],
+        "label_groups": "intransitive , biology"
+      },
+      {
+        "definition": "To live in seclusion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To enter a standby state which conserves power without losing the contents of memory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      }
+    ],
+    "main_definition": "( intransitive , biology ) To spend the winter in a dormant or inactive state of minimal activity, low body temperature , slow breathing and heart rate , and low metabolic rate ; to go through a winter sleep .",
+    "secondary_definitions": [
+      "( intransitive ) To live in seclusion .",
+      "( intransitive , computing ) To enter a standby state which conserves power without losing the contents of memory ."
+    ]
+  }
+]

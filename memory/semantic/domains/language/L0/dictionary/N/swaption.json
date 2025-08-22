@@ -1,0 +1,49 @@
+[
+  {
+    "word": "swaption",
+    "lemma": "swaption",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "swaptions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instrument granting the owner an option to enter an interest rate swap .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "More generally, an option on any type of swap .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( finance ) An instrument granting the owner an option to enter an interest rate swap .",
+    "secondary_definitions": [
+      "( finance ) More generally, an option on any type of swap ."
+    ]
+  }
+]

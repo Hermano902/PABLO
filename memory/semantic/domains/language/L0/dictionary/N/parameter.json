@@ -1,0 +1,165 @@
+[
+  {
+    "word": "parameter",
+    "lemma": "parameter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pəˈɹæm.ɪ.tə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parameters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A value kept constant during an experiment , equation , calculation , or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A variable that describes a property or characteristic of some system ( material , object , event , etc.) or some aspect thereof.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any measured quantity of a statistical population that summarises or describes an aspect of the population.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "statistics"
+            ],
+            "label_groups": "statistics"
+          },
+          {
+            "definition": "A variable of a model that is trained by a machine learning algorithm .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "machine learning"
+            ],
+            "label_groups": "machine learning"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "An input variable of a function definition, that gets an actual value ( argument ) at execution time.",
+        "examples": [],
+        "synonyms": [
+          "formal parameter"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "An actual value given to such a formal parameter.",
+        "examples": [],
+        "synonyms": [
+          "argument",
+          "actual parameter"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "loosely"
+        ],
+        "label_groups": "programming , loosely"
+      },
+      {
+        "definition": "A characteristic or feature that distinguishes something from others.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In the ellipse and hyperbola , a third proportional to any diameter and its conjugate , or in the parabola , to any abscissa and the corresponding ordinate .",
+        "examples": [
+          "The parameter of the principal axis of a conic section is called the latus rectum."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Clipping of uniformizing parameter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commutative algebra"
+        ],
+        "label_groups": "commutative algebra"
+      },
+      {
+        "definition": "The ratio of the three crystallographic axes which determines the position of any plane .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      },
+      {
+        "definition": "The fundamental axial ratio for a given species .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      }
+    ],
+    "main_definition": "A value kept constant during an experiment , equation , calculation , or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+    "secondary_definitions": [
+      "( sciences ) A variable that describes a property or characteristic of some system ( material , object , event , etc.) or some aspect thereof.",
+      "( programming ) An input variable of a function definition, that gets an actual value ( argument ) at execution time.",
+      "( programming , loosely ) An actual value given to such a formal parameter.",
+      "A characteristic or feature that distinguishes something from others.",
+      "( geometry ) In the ellipse and hyperbola , a third proportional to any diameter and its conjugate , or in the parabola , to any abscissa and the corresponding ordinate .",
+      "( commutative algebra ) Clipping of uniformizing parameter .",
+      "( crystallography ) The ratio of the three crystallographic axes which determines the position of any plane .",
+      "( crystallography ) The fundamental axial ratio for a given species ."
+    ]
+  }
+]

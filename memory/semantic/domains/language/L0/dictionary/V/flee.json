@@ -1,0 +1,74 @@
+[
+  {
+    "word": "flee",
+    "lemma": "flee",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fliː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flees",
+          "PT": "fled",
+          "PAP": "fled",
+          "PRP": "fleeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To run away ; to escape .",
+        "examples": [
+          "The prisoner tried to flee , but was caught by the guards."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To escape from.",
+        "examples": [
+          "Many people fled the country as war loomed .",
+          "Thousands of people moved northward trying to flee the drought ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To disappear quickly ; to vanish ; to fleet.",
+        "examples": [
+          "Ethereal products flee once freely exposed to air."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To run away ; to escape .",
+    "secondary_definitions": [
+      "( transitive ) To escape from.",
+      "( intransitive ) To disappear quickly ; to vanish ; to fleet."
+    ]
+  }
+]

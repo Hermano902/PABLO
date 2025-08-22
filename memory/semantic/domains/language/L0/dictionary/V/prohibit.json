@@ -1,0 +1,52 @@
+[
+  {
+    "word": "prohibit",
+    "lemma": "prohibit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈhɪbɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prohibits",
+          "PT": "prohibited",
+          "PAP": "prohibited",
+          "PRP": "prohibiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To forbid , disallow , or proscribe officially ; to make illegal or illicit .",
+        "examples": [
+          "The restaurant prohibits smoking on the patio.",
+          "I was prohibited to come."
+        ],
+        "synonyms": [
+          "ban",
+          "disallow",
+          "forbid",
+          "proscribe"
+        ],
+        "antonyms": [
+          "allow",
+          "authorize",
+          "permit"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To forbid , disallow , or proscribe officially ; to make illegal or illicit .",
+    "secondary_definitions": []
+  }
+]

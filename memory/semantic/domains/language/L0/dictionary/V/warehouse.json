@@ -1,0 +1,70 @@
+[
+  {
+    "word": "warehouse",
+    "lemma": "warehouse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɛə(ɹ)haʊs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "warehouses",
+          "PT": "warehoused",
+          "PAP": "warehoused",
+          "PRP": "warehousing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To store in a warehouse or similar.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To confine (a person) to an institution for a long period.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To acquire and then shelve , simply to prevent competitors from acquiring it.",
+        "examples": [
+          "the warehousing of syndicated TV shows"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "business"
+        ],
+        "label_groups": "transitive , business"
+      }
+    ],
+    "main_definition": "( transitive ) To store in a warehouse or similar.",
+    "secondary_definitions": [
+      "( transitive ) To confine (a person) to an institution for a long period.",
+      "( transitive , business ) To acquire and then shelve , simply to prevent competitors from acquiring it."
+    ]
+  }
+]

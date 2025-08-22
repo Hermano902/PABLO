@@ -1,0 +1,160 @@
+[
+  {
+    "word": "window",
+    "lemma": "window",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɪndəʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "windows"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+        "examples": [
+          "She opened the window to let some air in."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside; a shop window .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The shutter , casement , sash with its fittings, or other framework , which closes a window opening.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "A period of time when something is available or possible; a limited opportunity .",
+        "examples": [
+          "launch window",
+          "window of opportunity",
+          "You have a two-hour window of clear weather to finish working on the lawn."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Something that allows one to see through or into something",
+        "examples": [
+          "His journal provides a rare window into his otherwise obscure life."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "A restricted range.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rectangular area on a computer terminal or screen containing some kind of user interface , displaying output and allowing input , often for a single task in a multitasking system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      },
+      {
+        "definition": "A figure formed of lines crossing each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The time between first infection and detectability.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Synonym of chaff ( “ strips of material intended to confuse radar ” )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "historical",
+          "uncountable"
+        ],
+        "label_groups": "military , historical , uncountable"
+      },
+      {
+        "definition": "A function multiplied with a signal to reduce spectral leakage when performing a Fourier transform.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing"
+        ],
+        "label_groups": "signal processing"
+      }
+    ],
+    "main_definition": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+    "secondary_definitions": [
+      "An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside; a shop window .",
+      "( architecture ) The shutter , casement , sash with its fittings, or other framework , which closes a window opening.",
+      "( figurative ) A period of time when something is available or possible; a limited opportunity .",
+      "( figurative ) Something that allows one to see through or into something",
+      "A restricted range.",
+      "( graphical user interface ) A rectangular area on a computer terminal or screen containing some kind of user interface , displaying output and allowing input , often for a single task in a multitasking system.",
+      "A figure formed of lines crossing each other.",
+      "( medicine ) The time between first infection and detectability.",
+      "( military , historical , uncountable ) Synonym of chaff ( “ strips of material intended to confuse radar ” )",
+      "( signal processing ) A function multiplied with a signal to reduce spectral leakage when performing a Fourier transform."
+    ]
+  }
+]

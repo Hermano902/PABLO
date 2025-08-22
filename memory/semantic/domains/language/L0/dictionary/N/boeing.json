@@ -1,0 +1,71 @@
+[
+  {
+    "word": "boeing",
+    "lemma": "boeing",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈboʊ.ɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A surname from German .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( aviation ) A US aerospace company known for their commercial aircraft.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A surname from German .",
+    "secondary_definitions": [
+      "( aviation ) A US aerospace company known for their commercial aircraft."
+    ]
+  },
+  {
+    "word": "boeing",
+    "lemma": "boeing",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈboʊ.ɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Boeings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An aircraft produced by the Boeing company.",
+        "examples": [
+          "Southwest Airlines' fleet consists of all Boeings , without a single Airbus ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      }
+    ],
+    "main_definition": "( aviation ) An aircraft produced by the Boeing company.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "word": "pattern",
+    "lemma": "pattern",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpatən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "patterns"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Model, example.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Something from which a copy is made; a model or outline .",
+            "examples": [],
+            "synonyms": [
+              "original",
+              "stencil",
+              "template"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "Someone or something seen as an example to be imitated ; an exemplar .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "A copy .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now rare"
+            ],
+            "label_groups": "now rare",
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "A sample ; of coins, an example which was struck but never minted .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now only numismatics"
+            ],
+            "label_groups": "now only numismatics",
+            "dating_raw": "from 16th c."
+          },
+          {
+            "definition": "A representative example .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 16th c."
+          },
+          {
+            "definition": "The material needed to make a piece of clothing.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US"
+            ],
+            "label_groups": "US",
+            "dating_raw": "from 17th c."
+          },
+          {
+            "definition": "The paper or cardboard template from which the parts of a garment are traced onto fabric prior to cutting out and assembling.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "textiles"
+            ],
+            "label_groups": "textiles"
+          },
+          {
+            "definition": "A full-sized model around which a mould of sand is made, to receive the melted metal. It is usually made of wood and in several parts, so as to be removed from the mould without damage.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "metalworking",
+              "dated"
+            ],
+            "label_groups": "metalworking , dated"
+          },
+          {
+            "definition": "A text string containing wildcards , used for matching .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "A design pattern .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "software engineering",
+              "in compounds"
+            ],
+            "label_groups": "software engineering , in compounds"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Coherent or decorative arrangement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A design , motif or decoration , especially formed from regular repeated elements.",
+            "examples": [],
+            "synonyms": [
+              "tessellation"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 16th c."
+          },
+          {
+            "definition": "A naturally-occurring or random arrangement of shapes, colours etc. which have a regular or decorative effect.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 19th c."
+          },
+          {
+            "definition": "The given spread , range etc. of shot fired from a gun .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 19th c."
+          },
+          {
+            "definition": "A particular sequence of events , facts etc. which can be understood, used to predict the future, or seen to have a mathematical , geometric , statistical etc. relationship.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 19th c."
+          },
+          {
+            "definition": "An intelligible arrangement in a given area of language.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "linguistics"
+            ],
+            "label_groups": "linguistics"
+          },
+          {
+            "definition": "A sequence of notes , percussion etc. in a tracker module , usable once or many times within the song .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "music"
+            ],
+            "label_groups": "computing , music"
+          },
+          {
+            "definition": "A configuration of cells in a cellular automaton universe.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cellular automata"
+            ],
+            "label_groups": "cellular automata"
+          },
+          {
+            "definition": "Any arrangement or agreement , or way of conducting business .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "MLE"
+            ],
+            "label_groups": "MLE"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A wont or habit to cause an annoyance or bother; to stir up trouble",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Singapore",
+          "informal"
+        ],
+        "label_groups": "Singapore , informal"
+      },
+      {
+        "definition": "The devotions that take place within a parish on the feast day of the patron saint of that parish.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Ireland",
+          "Roman Catholicism"
+        ],
+        "label_groups": "Ireland , Roman Catholicism"
+      }
+    ],
+    "main_definition": "Model, example.",
+    "secondary_definitions": [
+      "Coherent or decorative arrangement.",
+      "( Singapore , informal ) A wont or habit to cause an annoyance or bother; to stir up trouble",
+      "( Ireland , Roman Catholicism ) The devotions that take place within a parish on the feast day of the patron saint of that parish."
+    ]
+  }
+]

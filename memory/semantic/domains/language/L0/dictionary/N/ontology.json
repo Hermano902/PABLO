@@ -1,0 +1,93 @@
+[
+  {
+    "word": "ontology",
+    "lemma": "ontology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɒnˈtɒləd͡ʒi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ontologies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist ; the study of being qua being.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "philosophy"
+        ],
+        "label_groups": "uncountable , philosophy"
+      },
+      {
+        "definition": "In a subject view, or a world view, the set of conceptual or material things or classes of things that are recognised as existing, or are assumed to exist in context, and their interrelations; in a body of theory, the ontology comprises the domain of discourse , the things that are defined as existing, together with whatever emerges from their mutual implications.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "philosophy"
+        ],
+        "label_groups": "uncountable , philosophy"
+      },
+      {
+        "definition": "The theory of a particular philosopher or school of thought concerning the fundamental types of entity in the universe .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "philosophy"
+        ],
+        "label_groups": "countable , philosophy"
+      },
+      {
+        "definition": "A logical system involving theory of classes, developed by Stanislaw Lesniewski (1886-1939).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "A structure of concepts or entities within a domain , organized by relationships ; a system model .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computer science",
+          "information science"
+        ],
+        "label_groups": "countable , computer science , information science"
+      }
+    ],
+    "main_definition": "( uncountable , philosophy ) The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist ; the study of being qua being.",
+    "secondary_definitions": [
+      "( uncountable , philosophy ) In a subject view, or a world view, the set of conceptual or material things or classes of things that are recognised as existing, or are assumed to exist in context, and their interrelations; in a body of theory, the ontology comprises the domain of discourse , the things that are defined as existing, together with whatever emerges from their mutual implications.",
+      "( countable , philosophy ) The theory of a particular philosopher or school of thought concerning the fundamental types of entity in the universe .",
+      "( logic ) A logical system involving theory of classes, developed by Stanislaw Lesniewski (1886-1939).",
+      "( countable , computer science , information science ) A structure of concepts or entities within a domain , organized by relationships ; a system model ."
+    ]
+  }
+]

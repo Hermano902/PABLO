@@ -1,0 +1,80 @@
+[
+  {
+    "word": "stateless",
+    "lemma": "stateless",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "examples": [
+          "A stateless server treats each request independently."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "Without state or pomp .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Without a state or nationality ; not subject to any state.",
+        "examples": [
+          "UN Convention relating to the Status of Stateless Persons"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "Neither believing in nor supporting the idea of nations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy",
+          "politics"
+        ],
+        "label_groups": "philosophy , politics"
+      }
+    ],
+    "main_definition": "( computer science ) Of a system or protocol, such that it does not keep a persistent state between transactions.",
+    "secondary_definitions": [
+      "( dated ) Without state or pomp .",
+      "( law ) Without a state or nationality ; not subject to any state.",
+      "( philosophy , politics ) Neither believing in nor supporting the idea of nations ."
+    ]
+  }
+]

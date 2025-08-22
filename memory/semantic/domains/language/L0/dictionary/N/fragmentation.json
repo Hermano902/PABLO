@@ -1,0 +1,80 @@
+[
+  {
+    "word": "fragmentation",
+    "lemma": "fragmentation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌfɹæɡmənˈteɪt͡ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fragmentations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of fragmenting or something fragmented ; disintegration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process by which fragments of an exploding bomb scatter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The breaking up and dispersal of a file into non-contiguous areas of a disk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The breaking up of a data packet when larger than the transmission unit of a network .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A form of asexual reproduction or cloning where an organism splits into one or more pieces. Those pieces then become new individuals .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "The act of fragmenting or something fragmented ; disintegration .",
+    "secondary_definitions": [
+      "The process by which fragments of an exploding bomb scatter .",
+      "( computing ) The breaking up and dispersal of a file into non-contiguous areas of a disk .",
+      "( computing ) The breaking up of a data packet when larger than the transmission unit of a network .",
+      "( biology ) A form of asexual reproduction or cloning where an organism splits into one or more pieces. Those pieces then become new individuals ."
+    ]
+  }
+]

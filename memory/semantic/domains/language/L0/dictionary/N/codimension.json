@@ -1,0 +1,49 @@
+[
+  {
+    "word": "codimension",
+    "lemma": "codimension",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "codimensions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The difference between the dimension of a space and the dimension of a given subspace of the first one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A scope that indicates another variable of the same name and type is assigned to the local memory of each image.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( mathematics ) The difference between the dimension of a space and the dimension of a given subspace of the first one.",
+    "secondary_definitions": [
+      "( computing ) A scope that indicates another variable of the same name and type is assigned to the local memory of each image."
+    ]
+  }
+]

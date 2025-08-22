@@ -1,0 +1,113 @@
+[
+  {
+    "word": "formalism",
+    "lemma": "formalism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɔːməlɪz(ə)m/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "formalisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Strict adherence to a given form of conduct, practice etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of several alternative computational paradigms for a given theory.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An approach to interpretation and/or evaluation focused on the (usually linguistic) structure of a literary work rather than on the contexts of its origin or reception.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literature"
+        ],
+        "label_groups": "literature"
+      },
+      {
+        "definition": "The tendency to elevate formal above expressive value in music, as in serialism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A particular mathematical or scientific theory or description of a given state or effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "physics"
+        ],
+        "label_groups": "mathematics , physics"
+      },
+      {
+        "definition": "A formal expression of a grammar ; a formal grammar ; a set of rules of syntax that, without reference to semantics , determine whether a sequence of symbols is a well-formed sentence in a given formal language .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "computing",
+          "mathematics"
+        ],
+        "label_groups": "linguistics , computing , mathematics"
+      },
+      {
+        "definition": "The ontological view of mathematics as a mere collection of string manipulation rules .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy of mathematics"
+        ],
+        "label_groups": "philosophy of mathematics"
+      }
+    ],
+    "main_definition": "Strict adherence to a given form of conduct, practice etc.",
+    "secondary_definitions": [
+      "( computing ) One of several alternative computational paradigms for a given theory.",
+      "( literature ) An approach to interpretation and/or evaluation focused on the (usually linguistic) structure of a literary work rather than on the contexts of its origin or reception.",
+      "( music ) The tendency to elevate formal above expressive value in music, as in serialism .",
+      "( mathematics , physics ) A particular mathematical or scientific theory or description of a given state or effect.",
+      "( linguistics , computing , mathematics ) A formal expression of a grammar ; a formal grammar ; a set of rules of syntax that, without reference to semantics , determine whether a sequence of symbols is a well-formed sentence in a given formal language .",
+      "( philosophy of mathematics ) The ontological view of mathematics as a mere collection of string manipulation rules ."
+    ]
+  }
+]

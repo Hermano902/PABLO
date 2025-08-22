@@ -1,0 +1,101 @@
+[
+  {
+    "word": "implication",
+    "lemma": "implication",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪmpləˈkeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "implications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of implicating .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The state of being implicated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A possible effect or result of a decision or action.",
+        "examples": [
+          "Dumping waste in the river will have serious implications for the environment."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An implying , or that which is implied, but not expressed; an inference, or something which may fairly be understood, though not expressed in words.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "The connective in propositional calculus that, when joining two predicates A and B in that order, has the meaning \"if A is true, then B is true\".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "logic"
+        ],
+        "label_groups": "countable , logic"
+      },
+      {
+        "definition": "Logical consequence. (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) The act of implicating .",
+    "secondary_definitions": [
+      "( uncountable ) The state of being implicated .",
+      "( countable ) A possible effect or result of a decision or action.",
+      "( countable , uncountable ) An implying , or that which is implied, but not expressed; an inference, or something which may fairly be understood, though not expressed in words.",
+      "( countable , logic ) The connective in propositional calculus that, when joining two predicates A and B in that order, has the meaning \"if A is true, then B is true\".",
+      "Logical consequence. (Can we add an example for this sense?)"
+    ]
+  }
+]

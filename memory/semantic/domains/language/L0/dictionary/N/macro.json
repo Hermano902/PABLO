@@ -1,0 +1,109 @@
+[
+  {
+    "word": "macro",
+    "lemma": "macro",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæk.ɹoʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "macros"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( colloquial , nutrition , countable , chiefly in the plural ) Clipping of macronutrient",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial , economics , uncountable ) Clipping of macroeconomics",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial , photography , countable ) Ellipsis of macro lens .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( colloquial , nutrition , countable , chiefly in the plural ) Clipping of macronutrient",
+    "secondary_definitions": [
+      "( colloquial , economics , uncountable ) Clipping of macroeconomics",
+      "( colloquial , photography , countable ) Ellipsis of macro lens ."
+    ]
+  },
+  {
+    "word": "macro",
+    "lemma": "macro",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈmæk.ɹoʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "macros"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( programming ) A comparatively human-friendly abbreviation of complex input to a computer program .",
+        "examples": [
+          "The preprocessor expands any embedded macros into source code before it is compiled."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( programming ) A comparatively human-friendly abbreviation of complex input to a computer program .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "macro",
+    "lemma": "macro",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 3,
+    "pronunciation": "/ˈmæk.ɹoʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Short for macromanagement",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gaming"
+        ],
+        "label_groups": "gaming"
+      }
+    ],
+    "main_definition": "( gaming ) Short for macromanagement",
+    "secondary_definitions": []
+  }
+]

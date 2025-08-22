@@ -1,0 +1,41 @@
+[
+  {
+    "word": "decrunch",
+    "lemma": "decrunch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decrunches",
+          "PT": "decrunched",
+          "PAP": "decrunched",
+          "PRP": "decrunching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To decompress (data) previously compressed by crunching .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "computing"
+        ],
+        "label_groups": "ambitransitive , computing"
+      }
+    ],
+    "main_definition": "( ambitransitive , computing ) To decompress (data) previously compressed by crunching .",
+    "secondary_definitions": []
+  }
+]

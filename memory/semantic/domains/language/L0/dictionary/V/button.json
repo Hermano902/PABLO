@@ -1,0 +1,74 @@
+[
+  {
+    "word": "button",
+    "lemma": "button",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʌtən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "buttons",
+          "PT": "buttoned",
+          "PAP": "buttoned",
+          "PRP": "buttoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fasten with a button.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from late 14th c."
+      },
+      {
+        "definition": "To be fastened by a button or buttons.",
+        "examples": [
+          "The coat will not button ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To stop talking .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Can we clean up this sense?",
+          "informal"
+        ],
+        "label_groups": [
+          "Can we clean up this sense?",
+          "informal"
+        ]
+      }
+    ],
+    "main_definition": "( transitive ) To fasten with a button. [from late 14th c.]",
+    "secondary_definitions": [
+      "( intransitive ) To be fastened by a button or buttons.",
+      "(Can we clean up this sense?) ( informal ) To stop talking ."
+    ]
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "word": "hit",
+    "lemma": "hit",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hits",
+          "PT": "hit",
+          "PAP": "hit",
+          "PRP": "hitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strike .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To administer a blow to, directly or with a weapon or missile.",
+            "examples": [
+              "One boy hit the other."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To come into contact with forcefully and suddenly.",
+            "examples": [
+              "The ball hit the fence."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To strike against something.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To activate a button or key by pressing and releasing it.",
+            "examples": [
+              "Hit the Enter key to continue."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To kill a person, usually on the instructions of a third party.",
+            "examples": [
+              "Hit him tonight and throw the body in the river."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "slang"
+            ],
+            "label_groups": "transitive , slang"
+          },
+          {
+            "definition": "To attack, especially amphibiously.",
+            "examples": [
+              "If intelligence had been what it should have been, I don't think we'd ever have hit that island."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "military"
+            ],
+            "label_groups": "transitive , military"
+          },
+          {
+            "definition": "To affect someone, as if dealing a blow to that person.",
+            "examples": [
+              "Their coffee really hits the spot.",
+              "I used to listen to that song all the time, but it hits different(ly) now."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative",
+              "ambitransitive"
+            ],
+            "label_groups": "figurative , ambitransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading",
+          "physical"
+        ],
+        "label_groups": "heading , physical"
+      },
+      {
+        "definition": "To manage to touch (a target) in the right place.",
+        "examples": [
+          "I hit the jackpot."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "miss"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To switch on or switch off (lights).",
+        "examples": [
+          "Somebody's been here! Hit the lights!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To commence playing.",
+        "examples": [
+          "I'd love to hear your band play. Hit it boys!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music",
+          "informal"
+        ],
+        "label_groups": "transitive , music , informal"
+      },
+      {
+        "definition": "To briefly visit.",
+        "examples": [
+          "We hit the grocery store on the way to the park."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To encounter an obstacle or other difficulty .",
+        "examples": [
+          "You'll hit some nasty thunderstorms if you descend too late.",
+          "We hit a lot of traffic coming back from the movies."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To attain, to achieve.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To reach or achieve .",
+            "examples": [
+              "The movie hits theaters in December.",
+              "The temperature could hit 110°F tomorrow.",
+              "We hit Detroit at one in the morning but kept driving through the night."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "informal"
+            ],
+            "label_groups": "transitive , informal"
+          },
+          {
+            "definition": "To meet or reach what was aimed at or desired; to succeed, often by luck.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To guess ; to light upon or discover .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To affect negatively .",
+        "examples": [
+          "The economy was hit by a recession. The hurricane hit his fishing business hard."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attack .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "To make a play.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In blackjack , to deal a card to.",
+            "examples": [
+              "Hit me."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "card games"
+            ],
+            "label_groups": "transitive , card games"
+          },
+          {
+            "definition": "To come up to bat.",
+            "examples": [
+              "Jones hit for the pitcher."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "baseball"
+            ],
+            "label_groups": "intransitive , baseball"
+          },
+          {
+            "definition": "To take up, or replace by a piece belonging to the opposing player; said of a single unprotected piece on a point .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "backgammon"
+            ],
+            "label_groups": "backgammon"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading",
+          "games"
+        ],
+        "label_groups": "heading , games"
+      },
+      {
+        "definition": "To use ; to connect to.",
+        "examples": [
+          "The external web servers hit DBSRV7, but the internal web server hits DBSRV3."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "programming"
+        ],
+        "label_groups": "transitive , computing , programming"
+      },
+      {
+        "definition": "To have sex with.",
+        "examples": [
+          "I'd hit that!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "slang"
+        ],
+        "label_groups": "transitive , US , slang"
+      },
+      {
+        "definition": "To inhale an amount of smoke from a narcotic substance, particularly marijuana .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "slang"
+        ],
+        "label_groups": "transitive , US , slang"
+      },
+      {
+        "definition": "to affect , to work a body part .",
+        "examples": [
+          "This is another great exercise which hits the long head."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "bodybuilding",
+          "of an exercise"
+        ],
+        "label_groups": [
+          "transitive , bodybuilding",
+          "of an exercise"
+        ]
+      },
+      {
+        "definition": "To work out .",
+        "examples": [
+          "With that said, the group hitting their legs just once a week still made gains."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "bodybuilding"
+        ],
+        "label_groups": "transitive , bodybuilding"
+      }
+    ],
+    "main_definition": "( heading , physical ) To strike .",
+    "secondary_definitions": [
+      "( transitive ) To manage to touch (a target) in the right place.",
+      "( transitive , colloquial ) To switch on or switch off (lights).",
+      "( transitive , music , informal ) To commence playing.",
+      "( transitive , colloquial ) To briefly visit.",
+      "( transitive , informal ) To encounter an obstacle or other difficulty .",
+      "( heading ) To attain, to achieve.",
+      "( transitive ) To affect negatively .",
+      "( figuratively ) To attack .",
+      "( heading , games ) To make a play.",
+      "( transitive , computing , programming ) To use ; to connect to.",
+      "( transitive , US , slang ) To have sex with.",
+      "( transitive , US , slang ) To inhale an amount of smoke from a narcotic substance, particularly marijuana .",
+      "( transitive , bodybuilding ) (of an exercise) to affect , to work a body part .",
+      "( transitive , bodybuilding ) To work out ."
+    ]
+  }
+]

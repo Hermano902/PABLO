@@ -1,0 +1,80 @@
+[
+  {
+    "word": "density",
+    "lemma": "density",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛn.sɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "densities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A measure of the mass of matter contained by a unit volume .",
+        "examples": [],
+        "synonyms": [
+          "mass density"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The ratio of one quantity, representing something of interest, to another quantity representing space, area, or extent in which the thing of interest is distributed.",
+        "examples": [
+          "The number of particles per unit volume of a specified volume can be considered to be the particle density for the specified volume."
+        ],
+        "synonyms": [
+          "number density"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The probability that an outcome will fall into a given range, per unit of that range; the relative likelihood of possible values of a continuous random variable .",
+        "examples": [],
+        "synonyms": [
+          "probability density"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "statistics"
+        ],
+        "label_groups": "mathematics , statistics"
+      },
+      {
+        "definition": "Stupidity ; denseness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      }
+    ],
+    "main_definition": "( physics ) A measure of the mass of matter contained by a unit volume .",
+    "secondary_definitions": [
+      "The ratio of one quantity, representing something of interest, to another quantity representing space, area, or extent in which the thing of interest is distributed.",
+      "( mathematics , statistics ) The probability that an outcome will fall into a given range, per unit of that range; the relative likelihood of possible values of a continuous random variable .",
+      "( dated ) Stupidity ; denseness ."
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "word": "pale",
+  "pos_order": [
+    "ADJ",
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 3,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\pale.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pale.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pale.json"
+  },
+  "timestamp": "2025-08-19T11:06:20.090940Z"
+}

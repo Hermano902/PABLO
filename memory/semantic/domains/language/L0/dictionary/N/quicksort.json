@@ -1,0 +1,35 @@
+[
+  {
+    "word": "quicksort",
+    "lemma": "quicksort",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɪkˌsɔɹt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quicksorts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sorting algorithm that operates by recursively partitioning the items to be sorted into two sets.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A sorting algorithm that operates by recursively partitioning the items to be sorted into two sets.",
+    "secondary_definitions": []
+  }
+]

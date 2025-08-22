@@ -1,0 +1,174 @@
+[
+  {
+    "word": "support",
+    "lemma": "support",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səˈpɔːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "supports"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something which supports.",
+        "examples": [
+          "Don't move that beam! It's a support for the whole platform."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sometimes attributive"
+        ],
+        "label_groups": "sometimes attributive"
+      },
+      {
+        "definition": "Financial or other help.",
+        "examples": [
+          "The government provides support to the arts in several ways."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Answers to questions and resolution of problems regarding something sold.",
+        "examples": [
+          "Sure they sell the product, but do they provide support ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "in relation to a function , the set of points where the function is not zero; the closure of that set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "kernel"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A set whose elements are at least partially included in a given fuzzy set (i.e., whose grade of membership in that fuzzy set is strictly greater than zero).",
+        "examples": [
+          "If the membership function of a fuzzy set is continuous, then that fuzzy set's support is an open set."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fuzzy set theory"
+        ],
+        "label_groups": "fuzzy set theory"
+      },
+      {
+        "definition": "The set of all prime ideals of R {\\displaystyle R} such that the localization of M {\\displaystyle M} at the prime is nonzero, denoted Supp ⁡ M {\\displaystyle \\operatorname {Supp} M}",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commutative algebra",
+          "of a module M {\\displaystyle M} over a commutative ring R {\\displaystyle R}"
+        ],
+        "label_groups": "commutative algebra , of a module M {\\displaystyle M} over a commutative ring R {\\displaystyle R}"
+      },
+      {
+        "definition": "Evidence.",
+        "examples": [
+          "The new research provides further support for our theory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Compatibility and functionality for a given product or feature.",
+        "examples": [
+          "This game has no mouse support ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An actor playing a subordinate part with a star .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An accompaniment in music .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Clipping of support position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gymnastics"
+        ],
+        "label_groups": "gymnastics"
+      },
+      {
+        "definition": "Horizontal, vertical or rotational support of structures : movable , hinged , fixed . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "structural analysis"
+        ],
+        "label_groups": "structural analysis"
+      }
+    ],
+    "main_definition": "( sometimes attributive ) Something which supports.",
+    "secondary_definitions": [
+      "Financial or other help.",
+      "Answers to questions and resolution of problems regarding something sold.",
+      "( mathematics ) in relation to a function , the set of points where the function is not zero; the closure of that set.",
+      "( fuzzy set theory ) A set whose elements are at least partially included in a given fuzzy set (i.e., whose grade of membership in that fuzzy set is strictly greater than zero).",
+      "( commutative algebra , of a module M {\\displaystyle M} over a commutative ring R {\\displaystyle R} ) The set of all prime ideals of R {\\displaystyle R} such that the localization of M {\\displaystyle M} at the prime is nonzero, denoted Supp ⁡ M {\\displaystyle \\operatorname {Supp} M}",
+      "Evidence.",
+      "( computing ) Compatibility and functionality for a given product or feature.",
+      "An actor playing a subordinate part with a star .",
+      "An accompaniment in music .",
+      "( gymnastics ) Clipping of support position .",
+      "( structural analysis ) Horizontal, vertical or rotational support of structures : movable , hinged , fixed . (Can we add an example for this sense?)"
+    ]
+  }
+]

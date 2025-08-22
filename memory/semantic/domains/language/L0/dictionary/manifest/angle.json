@@ -1,0 +1,30 @@
+{
+  "word": "angle",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\angle.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\angle.json"
+  },
+  "timestamp": "2025-08-18T20:52:49.787043Z"
+}

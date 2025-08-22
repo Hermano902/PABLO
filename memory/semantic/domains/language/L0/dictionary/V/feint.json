@@ -1,0 +1,80 @@
+[
+  {
+    "word": "feint",
+    "lemma": "feint",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/feɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "feints",
+          "PT": "feinted",
+          "PAP": "feinted",
+          "PRP": "feinting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To direct (a blow , thrust , or other offensive movement resembling an attack ) on some part of the body , intended to distract from a real attack on another part.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To direct a feint or mock attack against (someone).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rare"
+            ],
+            "label_groups": "rare"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "boxing",
+          "fencing"
+        ],
+        "label_groups": "transitive , boxing , fencing"
+      },
+      {
+        "definition": "To make a feint or mock attack.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "boxing",
+          "fencing",
+          "also often military"
+        ],
+        "label_groups": "intransitive , boxing , fencing , also often military"
+      }
+    ],
+    "main_definition": "( transitive , boxing , fencing )",
+    "secondary_definitions": [
+      "( intransitive , boxing , fencing , also often military ) To make a feint or mock attack."
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "nominal",
+    "lemma": "nominal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɒm.ɪ.nəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "nominals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A noun or word group that functions as part of a noun phrase .",
+        "examples": [
+          "This sentence contains two nominals ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A part of speech that shares features with nouns and adjectives. (Depending on the language, it may comprise nouns, adjectives, possibly numerals, pronouns, and participles.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A number (usually natural) used like a name; a numeric code or identifier . (See nominal number on Wikipedia.)",
+        "examples": [
+          "Numeric codes of characters used in programming are nominals ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person listed in the Police National Computer database as having been convicted, cautioned or recently arrested.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "police jargon"
+        ],
+        "label_groups": "UK , police jargon"
+      }
+    ],
+    "main_definition": "( grammar ) A noun or word group that functions as part of a noun phrase .",
+    "secondary_definitions": [
+      "( grammar ) A part of speech that shares features with nouns and adjectives. (Depending on the language, it may comprise nouns, adjectives, possibly numerals, pronouns, and participles.)",
+      "A number (usually natural) used like a name; a numeric code or identifier . (See nominal number on Wikipedia.)",
+      "( UK , police jargon ) A person listed in the Police National Computer database as having been convicted, cautioned or recently arrested."
+    ]
+  }
+]

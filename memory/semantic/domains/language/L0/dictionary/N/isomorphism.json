@@ -1,0 +1,115 @@
+[
+  {
+    "word": "isomorphism",
+    "lemma": "isomorphism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌaɪsə(ʊ)ˈmɔɹfɪzəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "isomorphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Similarity of form",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "the similarity in form of organisms , which may be due to convergent evolution or shared genetic background, e.g. an algae species in which the haploid and diploid life stages are indistinguishable based on morphology.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology"
+            ],
+            "label_groups": "biology"
+          },
+          {
+            "definition": "the similarity in the crystal structures of similar chemical compounds .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry"
+            ],
+            "label_groups": "chemistry"
+          },
+          {
+            "definition": "the similarity in the structure or processes of different organizations .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sociology"
+            ],
+            "label_groups": "sociology"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A one-to-one correspondence",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A bijection f such that both f and its inverse f are homomorphisms , that is, structure-preserving mappings.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "group algebra"
+            ],
+            "label_groups": "group algebra"
+          },
+          {
+            "definition": "a one-to-one correspondence between all the elements of two sets , e.g. the instances of two classes , or the records in two datasets .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer science"
+            ],
+            "label_groups": "computer science"
+          },
+          {
+            "definition": "A morphism which has a two-sided inverse; the composition of the morphism and such an inverse yields either one of two identity morphisms (depending on the order of composition).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "category theory"
+            ],
+            "label_groups": "category theory"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Similarity of form",
+    "secondary_definitions": [
+      "A one-to-one correspondence"
+    ]
+  }
+]

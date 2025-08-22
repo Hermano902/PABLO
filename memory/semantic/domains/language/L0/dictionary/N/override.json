@@ -1,0 +1,63 @@
+[
+  {
+    "word": "override",
+    "lemma": "override",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əʊ.vəˈɹaɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overrides"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A mechanism , device or procedure used to counteract an automatic control .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A royalty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device for prioritizing audio signals, such that certain signals receive priority over others.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A method with the same name and signature as a method in a superclass , which runs instead of that method, when an object of the subclass is involved.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "A mechanism , device or procedure used to counteract an automatic control .",
+    "secondary_definitions": [
+      "A royalty .",
+      "A device for prioritizing audio signals, such that certain signals receive priority over others.",
+      "( object-oriented programming ) A method with the same name and signature as a method in a superclass , which runs instead of that method, when an object of the subclass is involved."
+    ]
+  }
+]

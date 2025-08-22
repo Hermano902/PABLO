@@ -1,0 +1,218 @@
+[
+  {
+    "word": "neighborhood",
+    "lemma": "neighborhood",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪbə.hʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "neighborhoods"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The residential area near one's home .",
+        "examples": [
+          "He lives in my neighborhood ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The inhabitants of a residential area.",
+        "examples": [
+          "The fire alarmed the neighborhood ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A formal or informal division of a municipality or region.",
+        "examples": [
+          "We have just moved to a pleasant neighborhood ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An approximate amount.",
+        "examples": [
+          "He must be making in the neighborhood of $200,000 per year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The quality of physical proximity .",
+        "examples": [
+          "The slums and the palace were in awful neighborhood ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The quality of being a neighbor , of living nearby , next to each other; proximity .",
+        "examples": [
+          "Our neighborhood was our only reason to exchange hollow greetings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly obsolete"
+        ],
+        "label_groups": "chiefly obsolete"
+      },
+      {
+        "definition": "Close proximity ; nearness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "The disposition becoming a neighbor; neighborly kindness or good will.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Within a topological space :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A set containing an open set which contains some specified point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Alternatively : An open set which contains some specified point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "Within a metric space :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A set containing an open ball which contains a specified point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Alternatively : An open ball which contains some specified point.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "The infinitesimal open set of all points that may be reached directly from a given point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "The set of all the vertices adjacent to a given vertex.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The set of all cells near a given cell used to determine that cell's state in the next generation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cellular automata"
+            ],
+            "label_groups": "cellular automata"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "The residential area near one's home .",
+    "secondary_definitions": [
+      "The inhabitants of a residential area.",
+      "A formal or informal division of a municipality or region.",
+      "An approximate amount.",
+      "The quality of physical proximity .",
+      "( chiefly obsolete ) The quality of being a neighbor , of living nearby , next to each other; proximity .",
+      "( dated ) Close proximity ; nearness .",
+      "( obsolete ) The disposition becoming a neighbor; neighborly kindness or good will.",
+      "( topology ) Within a topological space :",
+      "( topology ) Within a metric space :",
+      "( topology ) The infinitesimal open set of all points that may be reached directly from a given point.",
+      "( graph theory ) The set of all the vertices adjacent to a given vertex."
+    ]
+  }
+]

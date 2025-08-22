@@ -1,0 +1,51 @@
+[
+  {
+    "word": "gene",
+    "lemma": "gene",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/d͡ʒiːn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "genes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A theoretical unit of heredity of living organisms which may take several values and ( in principle ) predetermines a precise trait of an organism's form ( phenotype ), such as hair color.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "A segment of DNA or RNA from a cell 's or an organism 's genome , that may take several forms and thus parameterizes a phenomenon, such as (often) the structure of a protein .",
+        "examples": [
+          "A change in a gene is reflected in the protein or RNA molecule that it codes for."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "molecular biology"
+        ],
+        "label_groups": "molecular biology"
+      }
+    ],
+    "main_definition": "( genetics ) A theoretical unit of heredity of living organisms which may take several values and ( in principle ) predetermines a precise trait of an organism's form ( phenotype ), such as hair color.",
+    "secondary_definitions": [
+      "( molecular biology ) A segment of DNA or RNA from a cell 's or an organism 's genome , that may take several forms and thus parameterizes a phenomenon, such as (often) the structure of a protein ."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "word": "plate",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 40,
+      "examples": 17,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\plate.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\plate.json"
+  },
+  "timestamp": "2025-08-19T11:59:42.752986Z"
+}

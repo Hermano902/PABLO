@@ -1,0 +1,64 @@
+[
+  {
+    "word": "function",
+    "lemma": "function",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfʌŋ(k)ʃən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "functions",
+          "PT": "functioned",
+          "PAP": "functioned",
+          "PRP": "functioning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To have a function.",
+        "examples": [],
+        "synonyms": [
+          "officiate",
+          "serve"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To carry out a function; to be in action .",
+        "examples": [],
+        "synonyms": [
+          "go",
+          "operate",
+          "run",
+          "work"
+        ],
+        "antonyms": [
+          "malfunction"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To have a function.",
+    "secondary_definitions": [
+      "( intransitive ) To carry out a function; to be in action ."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "begin",
+    "lemma": "begin",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪˈɡɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "begins",
+          "PT": "began",
+          "PAP": "begun",
+          "PRP": "beginning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To start , to initiate or take the first step into something.",
+        "examples": [
+          "I began playing the piano at the age of five.",
+          "transitive",
+          "Now that everyone is here, we should begin the presentation.",
+          "transitive",
+          "The program begins at 9 o’clock on the dot.",
+          "intransitive",
+          "I rushed to get to class on time, but the lesson had already begun .",
+          "intransitive"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative"
+        ],
+        "label_groups": "ergative"
+      },
+      {
+        "definition": "To come into existence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( ergative ) To start , to initiate or take the first step into something.",
+    "secondary_definitions": [
+      "( intransitive ) To come into existence ."
+    ]
+  }
+]

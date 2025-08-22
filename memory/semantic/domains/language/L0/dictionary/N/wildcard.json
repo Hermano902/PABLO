@@ -1,0 +1,97 @@
+[
+  {
+    "word": "wildcard",
+    "lemma": "wildcard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wildcards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A character that takes the place of any other character or string that is not known or specified .",
+        "examples": [
+          "If the character * is acting as a wildcard , then the pattern a*m matches each of the words amalgam , atom and alum .",
+          "*",
+          "a*m",
+          "amalgam",
+          "atom",
+          "alum"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An uncontrolled or unpredictable element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "also written wild card"
+        ],
+        "label_groups": "also written wild card"
+      },
+      {
+        "definition": "An element, often deliberately concealed , which is withheld for contingency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "also written wild card"
+        ],
+        "label_groups": "also written wild card"
+      },
+      {
+        "definition": "Alternative form of wild card .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "card games"
+        ],
+        "label_groups": "sports , card games"
+      },
+      {
+        "definition": "A letter or symbol that substitutes for a generic or poorly identified sound, for example capital C for any or some consonant, or capital V for any or some vowel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "phonology"
+        ],
+        "label_groups": "phonetics , phonology"
+      }
+    ],
+    "main_definition": "( computing ) A character that takes the place of any other character or string that is not known or specified .",
+    "secondary_definitions": [
+      "( also written wild card ) An uncontrolled or unpredictable element .",
+      "( also written wild card ) An element, often deliberately concealed , which is withheld for contingency .",
+      "( sports , card games ) Alternative form of wild card .",
+      "( phonetics , phonology ) A letter or symbol that substitutes for a generic or poorly identified sound, for example capital C for any or some consonant, or capital V for any or some vowel."
+    ]
+  }
+]

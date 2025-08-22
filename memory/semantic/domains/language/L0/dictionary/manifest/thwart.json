@@ -1,0 +1,55 @@
+{
+  "word": "thwart",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "PREP",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PREP": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 10,
+      "antonyms": 1,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\thwart.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\thwart.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\thwart.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\thwart.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\thwart.json"
+  },
+  "timestamp": "2025-08-19T19:10:45.550305Z"
+}

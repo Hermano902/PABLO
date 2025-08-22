@@ -1,0 +1,37 @@
+{
+  "word": "upgrade",
+  "pos_order": [
+    "N",
+    "V",
+    "ADV"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 4,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 4,
+      "inflections": 4
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\upgrade.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\upgrade.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\upgrade.json"
+  },
+  "timestamp": "2025-08-19T20:15:50.485764Z"
+}

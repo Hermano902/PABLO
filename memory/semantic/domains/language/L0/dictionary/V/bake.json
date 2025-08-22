@@ -1,0 +1,179 @@
+[
+  {
+    "word": "bake",
+    "lemma": "bake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/beɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bakes",
+          "PT": "baked",
+          "PAP": "baked",
+          "PRP": "baking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cook (something) in an oven (for someone).",
+        "examples": [
+          "I baked a delicious cherry pie.",
+          "She's been baking all day to prepare for the dinner.",
+          "He baked her a cake."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive or intransitive or ditransitive",
+          "with person as subject"
+        ],
+        "label_groups": "transitive or intransitive or ditransitive , with person as subject"
+      },
+      {
+        "definition": "To be cooked in an oven.",
+        "examples": [
+          "The cake baked at 350°F."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "with baked thing as subject"
+        ],
+        "label_groups": "intransitive , with baked thing as subject"
+      },
+      {
+        "definition": "To be warmed to drying and hardening.",
+        "examples": [
+          "The clay baked in the sun."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To dry by heat.",
+        "examples": [
+          "They baked the electrical parts lightly to remove moisture."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be hot .",
+        "examples": [
+          "It is baking in the greenhouse.",
+          "I'm baking after that workout in the gym."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      },
+      {
+        "definition": "To cause to be hot .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To smoke marijuana .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang"
+        ],
+        "label_groups": "intransitive , slang"
+      },
+      {
+        "definition": "To harden by cold.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To fix ( lighting , reflections , etc.) as part of the texture of an object to improve rendering performance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics",
+          "transitive"
+        ],
+        "label_groups": "computer graphics , transitive"
+      },
+      {
+        "definition": "To incorporate into something greater.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "with \"in\" or \"into\""
+        ],
+        "label_groups": "figurative , with \"in\" or \"into\""
+      }
+    ],
+    "main_definition": "( transitive or intransitive or ditransitive , with person as subject ) To cook (something) in an oven (for someone).",
+    "secondary_definitions": [
+      "( intransitive , with baked thing as subject ) To be cooked in an oven.",
+      "( intransitive ) To be warmed to drying and hardening.",
+      "( transitive ) To dry by heat.",
+      "( intransitive , figuratively ) To be hot .",
+      "( transitive , figuratively ) To cause to be hot .",
+      "( intransitive , slang ) To smoke marijuana .",
+      "( transitive , obsolete ) To harden by cold.",
+      "( computer graphics , transitive ) To fix ( lighting , reflections , etc.) as part of the texture of an object to improve rendering performance .",
+      "( figurative , with \"in\" or \"into\" ) To incorporate into something greater."
+    ]
+  }
+]

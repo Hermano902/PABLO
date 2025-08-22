@@ -1,0 +1,46 @@
+{
+  "word": "minus",
+  "pos_order": [
+    "PREP",
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "PREP": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\minus.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\minus.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\minus.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\minus.json"
+  },
+  "timestamp": "2025-08-19T09:16:23.710439Z"
+}

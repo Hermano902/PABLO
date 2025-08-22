@@ -1,0 +1,40 @@
+{
+  "word": "gin",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "V:2",
+    "N:3",
+    "CONJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 13,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "CONJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\gin.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\gin.json",
+    "CONJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\CONJ\\gin.json"
+  },
+  "timestamp": "2025-08-19T04:29:10.450138Z"
+}

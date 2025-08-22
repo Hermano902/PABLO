@@ -1,0 +1,62 @@
+[
+  {
+    "word": "isobaric",
+    "lemma": "isobaric",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more isobaric",
+          "SUP": "most isobaric"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "having the same pressures , masses , or densities",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "having a constant pressure throughout",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "thermodynamics",
+          "of a process"
+        ],
+        "label_groups": [
+          "thermodynamics",
+          "of a process"
+        ]
+      },
+      {
+        "definition": "isobaryonic",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "having the same pressures , masses , or densities",
+    "secondary_definitions": [
+      "( thermodynamics ) ( of a process ) having a constant pressure throughout",
+      "( physics ) isobaryonic"
+    ]
+  }
+]

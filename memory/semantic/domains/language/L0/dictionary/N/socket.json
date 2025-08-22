@@ -1,0 +1,118 @@
+[
+  {
+    "word": "socket",
+    "lemma": "socket",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒkɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sockets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of various concave objects (or portions of larger objects) that envelop a counterpart object.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An opening into which a plug or other connecting part is designed to fit (e.g. a light bulb socket ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "electrical"
+            ],
+            "label_groups": "electrical"
+          },
+          {
+            "definition": "A hollow into a bone which a part fits, such as an eye , or another bone, in the case of a joint .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "anatomy"
+            ],
+            "label_groups": "anatomy"
+          },
+          {
+            "definition": "The socket head for a socket wrench .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A hollow tool for grasping and lifting tools dropped in a well-boring.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The hollow of a candlestick .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "One endpoint of a two-way communication link, used for interprocess communication across a network.",
+        "examples": [],
+        "synonyms": [
+          "network socket"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "One endpoint of a two-way named pipe on Unix and Unix-like systems, used for interprocess communication .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A steel apparatus attached to a saddle to protect the thighs and legs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Any of various concave objects (or portions of larger objects) that envelop a counterpart object.",
+    "secondary_definitions": [
+      "( computing ) One endpoint of a two-way communication link, used for interprocess communication across a network.",
+      "( computing ) One endpoint of a two-way named pipe on Unix and Unix-like systems, used for interprocess communication .",
+      "A steel apparatus attached to a saddle to protect the thighs and legs."
+    ]
+  }
+]

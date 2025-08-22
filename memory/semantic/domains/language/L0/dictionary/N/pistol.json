@@ -1,0 +1,81 @@
+[
+  {
+    "word": "pistol",
+    "lemma": "pistol",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɪstəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pistols"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A handgun",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The type of handgun with the chamber integral with the barrel .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "precise"
+            ],
+            "label_groups": "precise"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely",
+        "dating_raw": "1570s"
+      },
+      {
+        "definition": "The mechanical component of a fuse in a bomb or torpedo responsible for firing the detonator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A lively , high-energy person.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An offensive formation in which the quarterback receives the snap at a distance behind the center , but closer than in a shotgun formation, with a running back lined up behind him.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American football"
+        ],
+        "label_groups": "American football"
+      }
+    ],
+    "main_definition": "( loosely ) A handgun [1570s ]",
+    "secondary_definitions": [
+      "The mechanical component of a fuse in a bomb or torpedo responsible for firing the detonator .",
+      "A lively , high-energy person.",
+      "( American football ) An offensive formation in which the quarterback receives the snap at a distance behind the center , but closer than in a shotgun formation, with a running back lined up behind him."
+    ]
+  }
+]

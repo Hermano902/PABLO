@@ -1,0 +1,102 @@
+[
+  {
+    "word": "terminator",
+    "lemma": "terminator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɜː.mɪ.neɪ.tə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "terminators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who terminates or ends something, especially (in later use) an assassin or exterminator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A text character or string that serves to mark the end of a document or transmission.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The line between the day side and the night side of a moon , planet or other celestial body.",
+        "examples": [],
+        "synonyms": [
+          "twilight zone"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A DNA sequence that causes RNA transcription to cease and an mRNA transcript to break off.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "An electrical device that absorbs reflection at the end of a transmission line .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "An intelligent android created to destroy humans.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "science fiction"
+        ],
+        "label_groups": "science fiction"
+      }
+    ],
+    "main_definition": "Someone who terminates or ends something, especially (in later use) an assassin or exterminator . [from 17th c.]",
+    "secondary_definitions": [
+      "( computing ) A text character or string that serves to mark the end of a document or transmission.",
+      "( astronomy ) The line between the day side and the night side of a moon , planet or other celestial body. [from 17th c.]",
+      "( biochemistry ) A DNA sequence that causes RNA transcription to cease and an mRNA transcript to break off. [from 20th c.]",
+      "( electronics ) An electrical device that absorbs reflection at the end of a transmission line .",
+      "( science fiction ) An intelligent android created to destroy humans."
+    ]
+  }
+]

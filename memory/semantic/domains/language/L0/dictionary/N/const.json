@@ -1,0 +1,35 @@
+[
+  {
+    "word": "const",
+    "lemma": "const",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "consts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A variable whose value cannot be changed directly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A variable whose value cannot be changed directly.",
+    "secondary_definitions": []
+  }
+]

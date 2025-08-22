@@ -1,0 +1,37 @@
+{
+  "word": "local",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "ADV"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 13,
+      "examples": 9,
+      "synonyms": 1,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 9,
+      "examples": 5,
+      "synonyms": 2,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\local.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\local.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\local.json"
+  },
+  "timestamp": "2025-08-19T07:58:54.733639Z"
+}

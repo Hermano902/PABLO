@@ -1,0 +1,86 @@
+[
+  {
+    "word": "blockage",
+    "lemma": "blockage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "blockages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state or condition of being blocked .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "uncountable , countable"
+      },
+      {
+        "definition": "The thing that is the cause of such a state, blocking a passage .",
+        "examples": [
+          "There was a blockage in the sewer, so we called out the plumber."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Occlusion of a lumen (especially that of a blood vessel or intestine ), or the thing that is causing it; as:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Synonym of thrombosis , thromboembolism , or embolism .",
+            "examples": [
+              "Blockage of circulation quickly leads to ischemia.",
+              "In selected cases, endovascular thrombectomy can quickly remove a blockage that pharmaceutical thrombolysis can't budge."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Synonym of constipation ( “ impairment of feces passage ” ) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "biology",
+          "medicine"
+        ],
+        "label_groups": "biology , medicine"
+      }
+    ],
+    "main_definition": "( uncountable , countable ) The state or condition of being blocked .",
+    "secondary_definitions": [
+      "( countable ) The thing that is the cause of such a state, blocking a passage .",
+      "( biology , medicine ) Occlusion of a lumen (especially that of a blood vessel or intestine ), or the thing that is causing it; as:"
+    ]
+  }
+]

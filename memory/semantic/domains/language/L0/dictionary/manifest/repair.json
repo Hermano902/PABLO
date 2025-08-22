@@ -1,0 +1,31 @@
+{
+  "word": "repair",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 4,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\repair.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\repair.json"
+  },
+  "timestamp": "2025-08-19T13:31:53.980409Z"
+}

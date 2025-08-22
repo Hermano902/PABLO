@@ -1,0 +1,62 @@
+[
+  {
+    "word": "codeword",
+    "lemma": "codeword",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkoʊdˌwɝd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "codewords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A string representing an encoded piece of text .",
+        "examples": [
+          "Bob cannot get any information out of the codeword since he doesn't know what transmission bases Alice used."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A word or phrase (or by extension a concept) used to make a (concealed) reference to another word or concept.",
+        "examples": [],
+        "synonyms": [
+          "dogwhistle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of crossword puzzle where the letters of the alphabet are represented by numbers and the solver must identify them by their position and frequency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crosswording"
+        ],
+        "label_groups": "crosswording"
+      }
+    ],
+    "main_definition": "( cryptography ) A string representing an encoded piece of text .",
+    "secondary_definitions": [
+      "A word or phrase (or by extension a concept) used to make a (concealed) reference to another word or concept.",
+      "( crosswording ) A type of crossword puzzle where the letters of the alphabet are represented by numbers and the solver must identify them by their position and frequency ."
+    ]
+  }
+]

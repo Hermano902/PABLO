@@ -1,0 +1,104 @@
+[
+  {
+    "word": "circle",
+    "lemma": "circle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɜɹkəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "circles",
+          "PT": "circled",
+          "PAP": "circled",
+          "PRP": "circling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To travel around along a curved path.",
+        "examples": [
+          "The wolves circled the herd of deer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To surround .",
+        "examples": [
+          "A high fence circles the enclosure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place or mark a circle around.",
+        "examples": [
+          "Circle the jobs that you are interested in applying for."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To travel in circles.",
+        "examples": [
+          "Vultures circled overhead."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To take part in a magic circle .",
+        "examples": [
+          "I circled with that group for three years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "paganism"
+        ],
+        "label_groups": "intransitive , paganism"
+      }
+    ],
+    "main_definition": "( transitive ) To travel around along a curved path.",
+    "secondary_definitions": [
+      "( transitive ) To surround .",
+      "( transitive ) To place or mark a circle around.",
+      "( intransitive ) To travel in circles.",
+      "( intransitive , paganism ) To take part in a magic circle ."
+    ]
+  }
+]

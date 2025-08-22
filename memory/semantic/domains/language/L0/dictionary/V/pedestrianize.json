@@ -1,0 +1,71 @@
+[
+  {
+    "word": "pedestrianize",
+    "lemma": "pedestrianize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pedestrianizes",
+          "PT": "pedestrianized",
+          "PAP": "pedestrianized",
+          "PRP": "pedestrianizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restrict access to (a street ) to pedestrians only, disallowing motor vehicles and sometimes cyclists",
+        "examples": [
+          "Our trade has increased significantly since they pedestrianized the High Street."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To walk ; to travel on foot.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      },
+      {
+        "definition": "To traverse on foot.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      }
+    ],
+    "main_definition": "( transitive ) To restrict access to (a street ) to pedestrians only, disallowing motor vehicles and sometimes cyclists",
+    "secondary_definitions": [
+      "( intransitive , dated ) To walk ; to travel on foot.",
+      "( transitive , dated ) To traverse on foot."
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "solenoid",
+    "lemma": "solenoid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒlɪnɔɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "solenoids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A coil of wire that acts as a magnet when an electric current flows through it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An electromechanical device consisting of such a coil containing a metal core , the movement of which is controlled by the current.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering"
+            ],
+            "label_groups": "engineering"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "An electromechanical switch controlled by a solenoid; solenoid switch, relay .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "The region of intersection between isobaric and isopycnal surfaces.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      }
+    ],
+    "main_definition": "( physics ) A coil of wire that acts as a magnet when an electric current flows through it.",
+    "secondary_definitions": [
+      "( electronics ) An electromechanical switch controlled by a solenoid; solenoid switch, relay .",
+      "( meteorology ) The region of intersection between isobaric and isopycnal surfaces."
+    ]
+  }
+]

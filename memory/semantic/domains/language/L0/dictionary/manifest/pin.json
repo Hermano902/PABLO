@@ -1,0 +1,30 @@
+{
+  "word": "pin",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 25,
+      "examples": 5,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 3,
+      "synonyms": 1,
+      "antonyms": 2,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pin.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pin.json"
+  },
+  "timestamp": "2025-08-19T11:53:17.905878Z"
+}

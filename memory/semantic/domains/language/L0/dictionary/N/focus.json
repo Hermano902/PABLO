@@ -1,0 +1,187 @@
+[
+  {
+    "word": "focus",
+    "lemma": "focus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfəʊ.kəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "foci"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A point at which reflected or refracted rays of light converge .",
+        "examples": [
+          "The heat of sunlight at the focus of a magnifying glass can easily set dry leaves on fire."
+        ],
+        "synonyms": [
+          "focal point"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "optics"
+        ],
+        "label_groups": "countable , optics"
+      },
+      {
+        "definition": "A point of a conic at which rays reflected from a curve or surface converge .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "geometry"
+        ],
+        "label_groups": "countable , geometry"
+      },
+      {
+        "definition": "The fact of the convergence of light on the photographic medium.",
+        "examples": [
+          "Unfortunately, the license plate is out of focus in this image."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "photography",
+          "cinematography"
+        ],
+        "label_groups": "uncountable , photography , cinematography"
+      },
+      {
+        "definition": "The quality of the convergence of light on the photographic medium.",
+        "examples": [
+          "During this scene, the boy’s face shifts subtly from soft focus into sharp focus ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "photography",
+          "cinematography"
+        ],
+        "label_groups": "uncountable , photography , cinematography"
+      },
+      {
+        "definition": "Concentration of attention .",
+        "examples": [
+          "I believe I can bring the high degree of focus required for this important job."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Something to which activity, attention or interest is primarily directed.",
+        "examples": [
+          "My studies are my main focus right now."
+        ],
+        "synonyms": [
+          "focal point"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The exact point of where an earthquake occurs, in three dimensions (underneath the epicentre ).",
+        "examples": [
+          "The earthquake's focus was at exactly 37 degrees north, 18 degrees south, seventy five meters below the ground."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "seismology"
+        ],
+        "label_groups": "countable , seismology"
+      },
+      {
+        "definition": "The status of being the currently active element in a user interface , often indicated by a visual highlight.",
+        "examples": [
+          "Text entered at the keyboard or pasted from a clipboard is sent to the component which currently has the focus ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      },
+      {
+        "definition": "The most important word or phrase in a sentence or passage, or the one that imparts information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "An object used in casting a magic spell.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The centre of an older fish's scale , which is the point where a younger fish's scale starts to grow from.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ichthyology"
+        ],
+        "label_groups": "ichthyology"
+      }
+    ],
+    "main_definition": "( countable , optics ) A point at which reflected or refracted rays of light converge .",
+    "secondary_definitions": [
+      "( countable , geometry ) A point of a conic at which rays reflected from a curve or surface converge .",
+      "( uncountable , photography , cinematography ) The fact of the convergence of light on the photographic medium.",
+      "( uncountable , photography , cinematography ) The quality of the convergence of light on the photographic medium.",
+      "( uncountable ) Concentration of attention .",
+      "( countable ) Something to which activity, attention or interest is primarily directed.",
+      "( countable , seismology ) The exact point of where an earthquake occurs, in three dimensions (underneath the epicentre ).",
+      "( graphical user interface ) The status of being the currently active element in a user interface , often indicated by a visual highlight.",
+      "( linguistics ) The most important word or phrase in a sentence or passage, or the one that imparts information .",
+      "An object used in casting a magic spell.",
+      "( ichthyology ) The centre of an older fish's scale , which is the point where a younger fish's scale starts to grow from."
+    ]
+  }
+]

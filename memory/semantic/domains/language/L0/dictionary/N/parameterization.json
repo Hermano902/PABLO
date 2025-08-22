@@ -1,0 +1,59 @@
+[
+  {
+    "word": "parameterization",
+    "lemma": "parameterization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parameterizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The representation of physical characteristics or properties by parameters rather than as sui generis instances; usually and especially:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such parameterized representation in a computer model .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "design",
+          "engineering"
+        ],
+        "label_groups": "design , engineering"
+      },
+      {
+        "definition": "The representation of a curve or surface in terms of a parametric equation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( design , engineering ) The representation of physical characteristics or properties by parameters rather than as sui generis instances; usually and especially:",
+    "secondary_definitions": [
+      "The representation of a curve or surface in terms of a parametric equation ."
+    ]
+  }
+]

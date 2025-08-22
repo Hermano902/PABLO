@@ -1,0 +1,56 @@
+[
+  {
+    "word": "stalemate",
+    "lemma": "stalemate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsteɪlmeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stalemates",
+          "PT": "stalemated",
+          "PAP": "stalemated",
+          "PRP": "stalemating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring about a state in which the player to move is not in check but has no legal moves.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess",
+          "transitive"
+        ],
+        "label_groups": "chess , transitive"
+      },
+      {
+        "definition": "To bring about a stalemate, in which no advance in an argument is achieved.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "( chess , transitive ) To bring about a state in which the player to move is not in check but has no legal moves.",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To bring about a stalemate, in which no advance in an argument is achieved."
+    ]
+  }
+]

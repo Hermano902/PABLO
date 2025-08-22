@@ -1,0 +1,71 @@
+[
+  {
+    "word": "concave",
+    "lemma": "concave",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.keɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more concave",
+          "SUP": "most concave"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Curved like the inner surface of a sphere or bowl.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not convex ; having at least one internal angle greater than 180 degrees.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "not comparable",
+          "of a polygon"
+        ],
+        "label_groups": "geometry , not comparable , of a polygon"
+      },
+      {
+        "definition": "Satisfying the property that all segments connecting two points on the function's graph lie below the function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "functional analysis",
+          "not comparable",
+          "of a real-valued function on the reals"
+        ],
+        "label_groups": "functional analysis , not comparable , of a real-valued function on the reals"
+      },
+      {
+        "definition": "Hollow ; empty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Curved like the inner surface of a sphere or bowl.",
+    "secondary_definitions": [
+      "( geometry , not comparable , of a polygon ) Not convex ; having at least one internal angle greater than 180 degrees.",
+      "( functional analysis , not comparable , of a real-valued function on the reals ) Satisfying the property that all segments connecting two points on the function's graph lie below the function.",
+      "Hollow ; empty ."
+    ]
+  }
+]

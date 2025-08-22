@@ -1,0 +1,103 @@
+[
+  {
+    "word": "relative",
+    "lemma": "relative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛl.ə.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Connected to or depending on something else; comparative .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Expressed in relation to another item, rather than in complete form.",
+        "examples": [
+          "The relative URL /images/pic.jpg , when evaluated in the context of http://example.com/index.html , corresponds to the absolute URL http://example.com/images/pic.jpg ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a URL",
+          "URI",
+          "path",
+          "or similar"
+        ],
+        "label_groups": "computing , of a URL, URI, path, or similar"
+      },
+      {
+        "definition": "Depending on an antecedent ; comparative .",
+        "examples": [
+          "The words “big” and “small” are relative ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "Having the same key but differing in being major or minor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Relevant ; pertinent ; related .",
+        "examples": [
+          "relative to your earlier point about taxes, ..."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic or rare"
+        ],
+        "label_groups": "archaic or rare"
+      },
+      {
+        "definition": "Capable to be changed by other beings or circumstance; conditional .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Connected to or depending on something else; comparative .",
+    "secondary_definitions": [
+      "( computing , of a URL, URI, path, or similar ) Expressed in relation to another item, rather than in complete form.",
+      "( grammar ) Depending on an antecedent ; comparative .",
+      "( music ) Having the same key but differing in being major or minor .",
+      "( archaic or rare ) Relevant ; pertinent ; related .",
+      "Capable to be changed by other beings or circumstance; conditional ."
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "buyer",
+    "lemma": "buyer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪ.ə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "buyers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who makes one or more purchases .",
+        "examples": [
+          "Every person who steps through the door is a potential buyer , so acknowledge their presence."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who purchases items for resale in a retail establishment.",
+        "examples": [
+          "The supermarket's new buyer decided to stock a larger range of vegetarian foods."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "retailing"
+        ],
+        "label_groups": "retailing"
+      },
+      {
+        "definition": "A person who purchases items consumed or used as components in the manufacture of products.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manufacturing"
+        ],
+        "label_groups": "manufacturing"
+      }
+    ],
+    "main_definition": "A person who makes one or more purchases .",
+    "secondary_definitions": [
+      "( retailing ) A person who purchases items for resale in a retail establishment.",
+      "( manufacturing ) A person who purchases items consumed or used as components in the manufacture of products."
+    ]
+  }
+]

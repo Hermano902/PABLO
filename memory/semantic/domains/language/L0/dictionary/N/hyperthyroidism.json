@@ -1,0 +1,51 @@
+[
+  {
+    "word": "hyperthyroidism",
+    "lemma": "hyperthyroidism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌhaɪ̯pəˈθaɪ̯ɹɔɪ̯ˌdɪzəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hyperthyroidisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The excessive production of hormones by the thyroid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "The pathological condition resulting from these excess hormones.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "hypothyroidism"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pathology"
+        ],
+        "label_groups": "pathology"
+      }
+    ],
+    "main_definition": "( medicine ) The excessive production of hormones by the thyroid .",
+    "secondary_definitions": [
+      "( pathology ) The pathological condition resulting from these excess hormones."
+    ]
+  }
+]

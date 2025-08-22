@@ -1,0 +1,97 @@
+[
+  {
+    "word": "tranquilize",
+    "lemma": "tranquilize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹæŋkwɪlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tranquilizes",
+          "PT": "tranquilized",
+          "PAP": "tranquilized",
+          "PRP": "tranquilizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To calm (a person or animal) or put them to sleep using a tranquilizer dart .",
+        "examples": [
+          "The escaped lion was finally tracked down, tranquilized , and safely returned to the zoo."
+        ],
+        "synonyms": [
+          "dart",
+          "sedate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (something or someone) tranquil .",
+        "examples": [],
+        "synonyms": [
+          "appease",
+          "calm",
+          "pacify"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "now literary"
+        ],
+        "label_groups": "transitive , now literary"
+      },
+      {
+        "definition": "To become tranquil .",
+        "examples": [],
+        "synonyms": [
+          "calm down",
+          "relax"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "intransitive , obsolete , rare"
+      },
+      {
+        "definition": "To dart (a person or animal) with a sedative",
+        "examples": [
+          "The bear should go down several minutes after being tranquilized ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To calm (a person or animal) or put them to sleep using a tranquilizer dart .",
+    "secondary_definitions": [
+      "( transitive , now literary ) To make (something or someone) tranquil .",
+      "( intransitive , obsolete , rare ) To become tranquil .",
+      "( transitive ) To dart (a person or animal) with a sedative"
+    ]
+  }
+]

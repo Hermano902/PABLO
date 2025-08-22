@@ -1,0 +1,65 @@
+[
+  {
+    "word": "supercharger",
+    "lemma": "supercharger",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "superchargers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An inlet air compressor for an internal combustion engine (either Otto or Diesel cycle ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such a compressor which is specifically powered from the crankshaft .",
+            "examples": [],
+            "synonyms": [
+              "blower"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "most commonly"
+            ],
+            "label_groups": "most commonly"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      },
+      {
+        "definition": "A device that can rapidly recharge a battery cell/pack.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electrics",
+          "electronics"
+        ],
+        "label_groups": "electrics , electronics"
+      }
+    ],
+    "main_definition": "( automotive ) An inlet air compressor for an internal combustion engine (either Otto or Diesel cycle ).",
+    "secondary_definitions": [
+      "( electrics , electronics ) A device that can rapidly recharge a battery cell/pack."
+    ]
+  }
+]

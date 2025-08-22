@@ -1,0 +1,65 @@
+[
+  {
+    "word": "functional",
+    "lemma": "functional",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfʌŋkt͡ʃənəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "functionals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A function that takes a function as its argument ; more precisely, a function whose argument varies in a space of (real or complex valued) functions and whose value belongs to a monodimensional space.",
+        "examples": [
+          "An example of a functional is the definite integration of integrable real functions in a real interval."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A scalar -valued linear function on a vector space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "functional analysis"
+        ],
+        "label_groups": "mathematics , functional analysis"
+      },
+      {
+        "definition": "An object encapsulating a function pointer (or equivalent).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( mathematics ) A function that takes a function as its argument ; more precisely, a function whose argument varies in a space of (real or complex valued) functions and whose value belongs to a monodimensional space.",
+    "secondary_definitions": [
+      "( mathematics , functional analysis ) A scalar -valued linear function on a vector space .",
+      "( computing ) An object encapsulating a function pointer (or equivalent)."
+    ]
+  }
+]

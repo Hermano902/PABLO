@@ -1,0 +1,77 @@
+[
+  {
+    "word": "incompetent",
+    "lemma": "incompetent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkɒmpətənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more incompetent",
+          "SUP": "most incompetent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking the degree of ability and responsibility necessary to do a task successfully .",
+        "examples": [
+          "Having an incompetent lawyer may be grounds for a retrial, but the lawyer in question probably doesn't know that."
+        ],
+        "synonyms": [
+          "noncompetent",
+          "uncompetent",
+          "inept"
+        ],
+        "antonyms": [
+          "competent",
+          "capable",
+          "able"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Unable to make rational decisions ; insane or otherwise cognitively impaired .",
+            "examples": [
+              "The charged was judged incompetent to stand trial, at least until his medication started working."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Opening too early during pregnancy , resulting in miscarriage or premature birth .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of the cervix"
+            ],
+            "label_groups": "medicine , of the cervix"
+          },
+          {
+            "definition": "Not resistant to deformation or flow .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geology"
+            ],
+            "label_groups": "geology"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Lacking the degree of ability and responsibility necessary to do a task successfully .",
+    "secondary_definitions": []
+  }
+]

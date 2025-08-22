@@ -1,0 +1,54 @@
+[
+  {
+    "word": "symptom",
+    "lemma": "symptom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪm(p)təm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "symptoms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A perceived change in some function , sensation or appearance of a person that indicates a disease or disorder , such as fever , headache or rash ; strictly, a symptom is felt or experienced by the patient, while a sign can be detected by an observer.",
+        "examples": [
+          "The doctor told that his coughing and sneezing was the symptom of standing for too long in the rain.",
+          "Swollen breasts, morning sickness, and a missed period are classic symptoms of pregnancy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A signal ; anything that indicates , or is characteristic of, the presence of something else, especially of something undesirable.",
+        "examples": [
+          "Lying, hiding one's true feelings, and having affairs are typical symptoms of a doomed marriage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( medicine ) A perceived change in some function , sensation or appearance of a person that indicates a disease or disorder , such as fever , headache or rash ; strictly, a symptom is felt or experienced by the patient, while a sign can be detected by an observer.",
+    "secondary_definitions": [
+      "( figuratively ) A signal ; anything that indicates , or is characteristic of, the presence of something else, especially of something undesirable."
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "antonym",
+    "lemma": "antonym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæn.təˌnɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "antonyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word which has the opposite meaning of another word.",
+        "examples": [
+          "“Rich” is an antonym of “poor”; “full” is an antonym of “empty”."
+        ],
+        "synonyms": [
+          "counterterm",
+          "opposite"
+        ],
+        "antonyms": [
+          "synonym"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "A word that describes one end of a scale, while its opposite describes the other end, such as large versus small ; a gradable antonym .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      }
+    ],
+    "main_definition": "( semantics ) A word which has the opposite meaning of another word.",
+    "secondary_definitions": []
+  }
+]

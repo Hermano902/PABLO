@@ -1,0 +1,90 @@
+[
+  {
+    "word": "inheritance",
+    "lemma": "inheritance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhɛɹɪtəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inheritances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The passing of title to an estate upon death.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which a person is entitled to inherit , by law or testament , such as the part of an estate (i.e., a portion).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The act or mechanism of inheriting; the state of having inherited.",
+        "examples": [
+          "The Indo-European languages share various similarities as a result of their inheritance from a common ancestor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "especially linguistics",
+          "biology"
+        ],
+        "label_groups": "uncountable , especially linguistics , biology"
+      },
+      {
+        "definition": "The biological attributes passed hereditarily from ancestors to their offspring .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "genetic algorithms"
+        ],
+        "label_groups": "biology , genetic algorithms"
+      },
+      {
+        "definition": "The mechanism whereby parts of a superclass are available to instances of its subclass .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "object-oriented programming"
+        ],
+        "label_groups": "programming , object-oriented programming"
+      }
+    ],
+    "main_definition": "The passing of title to an estate upon death.",
+    "secondary_definitions": [
+      "( countable ) That which a person is entitled to inherit , by law or testament , such as the part of an estate (i.e., a portion).",
+      "( uncountable , especially linguistics , biology ) The act or mechanism of inheriting; the state of having inherited.",
+      "( biology , genetic algorithms ) The biological attributes passed hereditarily from ancestors to their offspring .",
+      "( programming , object-oriented programming ) The mechanism whereby parts of a superclass are available to instances of its subclass ."
+    ]
+  }
+]

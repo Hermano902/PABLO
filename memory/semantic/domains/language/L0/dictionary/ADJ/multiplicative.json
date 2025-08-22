@@ -1,0 +1,62 @@
+[
+  {
+    "word": "multiplicative",
+    "lemma": "multiplicative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmʌltɪplɪˌkeɪtɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or pertaining to multiplication .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Distributive over multiplication .",
+        "examples": [
+          "Matrix determinants are multiplicative ; if A {\\displaystyle A} and B {\\displaystyle B} are square matrices of the same size, then det ( A B ) = det ( A ) det ( B ) {\\displaystyle {\\mbox{det}}(AB)={\\mbox{det}}(A)\\,{\\mbox{det}}(B)} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a function",
+          "etc."
+        ],
+        "label_groups": "mathematics , of a function , etc."
+      },
+      {
+        "definition": "Having multiplication as an operator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "Of or pertaining to multiplication .",
+    "secondary_definitions": [
+      "( mathematics , of a function , etc. ) Distributive over multiplication .",
+      "( algebra ) Having multiplication as an operator ."
+    ]
+  }
+]

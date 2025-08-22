@@ -1,0 +1,85 @@
+[
+  {
+    "word": "inscribe",
+    "lemma": "inscribe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈskɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inscribes",
+          "PT": "inscribed",
+          "PAP": "inscribed",
+          "PRP": "inscribing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To write or cut ( words ) onto (something, especially a hard surface, or a book to be given to another person); to engrave .",
+        "examples": [
+          "I inscribed the book with a message for Kate.",
+          "I inscribed my name into the book."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To dedicate to someone.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enter on a document or list; to enroll .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To draw a circle , sphere , etc. inside a polygon , polyhedron , etc. and tangent to all its sides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "escribe"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( transitive ) To write or cut ( words ) onto (something, especially a hard surface, or a book to be given to another person); to engrave .",
+    "secondary_definitions": [
+      "( transitive ) To dedicate to someone.",
+      "( transitive ) To enter on a document or list; to enroll .",
+      "( geometry ) To draw a circle , sphere , etc. inside a polygon , polyhedron , etc. and tangent to all its sides."
+    ]
+  }
+]

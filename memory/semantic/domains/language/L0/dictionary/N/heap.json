@@ -1,0 +1,110 @@
+[
+  {
+    "word": "heap",
+    "lemma": "heap",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/hiːp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "heaps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A crowd ; a throng ; a multitude or great number of people.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pile or mass ; a collection of things laid in a body, or thrown together so as to form an elevation.",
+        "examples": [
+          "a heap of earth; a heap of stones"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A great number or large quantity of things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A data structure consisting of trees in which each node is greater than all its children .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Memory that is dynamically allocated.",
+        "examples": [
+          "You should move these structures from the stack to the heap to avoid a potential stack overflow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A dilapidated place or vehicle .",
+        "examples": [
+          "My first car was an old heap ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "A lot , a large amount",
+        "examples": [
+          "Thanks a heap !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      }
+    ],
+    "main_definition": "A crowd ; a throng ; a multitude or great number of people.",
+    "secondary_definitions": [
+      "A pile or mass ; a collection of things laid in a body, or thrown together so as to form an elevation.",
+      "A great number or large quantity of things.",
+      "( computing ) A data structure consisting of trees in which each node is greater than all its children .",
+      "( computing ) Memory that is dynamically allocated.",
+      "( colloquial ) A dilapidated place or vehicle .",
+      "( colloquial ) A lot , a large amount"
+    ]
+  }
+]

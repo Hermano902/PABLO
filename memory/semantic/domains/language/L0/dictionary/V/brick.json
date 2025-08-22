@@ -1,0 +1,118 @@
+[
+  {
+    "word": "brick",
+    "lemma": "brick",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bricks",
+          "PT": "bricked",
+          "PAP": "bricked",
+          "PRP": "bricking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To build , line , or form with bricks.",
+        "examples": [
+          "to be bricked alive (as a form of capital punishment)"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make into bricks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hit someone or something with a brick.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To make (an electronic device) non-functional and usually beyond repair, as a result of software or configuration issues.",
+        "examples": [
+          "My VCR was bricked during the lightning storm."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing slang"
+        ],
+        "label_groups": "transitive , computing slang"
+      },
+      {
+        "definition": "Of an electronic device , to become non-functional, especially in a way beyond repair, as a result of software or configuration issues.",
+        "examples": [
+          "My phone bricked halfway through the videoconference."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "unbrick"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing slang"
+        ],
+        "label_groups": "intransitive , computing slang"
+      },
+      {
+        "definition": "To blunder ; to screw up .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang"
+        ],
+        "label_groups": "intransitive , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To build , line , or form with bricks.",
+    "secondary_definitions": [
+      "( transitive ) To make into bricks.",
+      "( transitive , slang ) To hit someone or something with a brick.",
+      "( transitive , computing slang ) To make (an electronic device) non-functional and usually beyond repair, as a result of software or configuration issues.",
+      "( intransitive , computing slang ) Of an electronic device , to become non-functional, especially in a way beyond repair, as a result of software or configuration issues.",
+      "( intransitive , slang ) To blunder ; to screw up ."
+    ]
+  }
+]

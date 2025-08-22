@@ -1,0 +1,63 @@
+[
+  {
+    "word": "unofficial",
+    "lemma": "unofficial",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʌn.əˈfɪʃ.əl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more unofficial",
+          "SUP": "most unofficial"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not officially established .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Implicitly true but withheld and/or contradicted by authority .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Not acting with official authority .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not listed in a national pharmacopeia etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pharmacology"
+        ],
+        "label_groups": "pharmacology"
+      }
+    ],
+    "main_definition": "Not officially established .",
+    "secondary_definitions": [
+      "Not acting with official authority .",
+      "( pharmacology ) Not listed in a national pharmacopeia etc."
+    ]
+  }
+]

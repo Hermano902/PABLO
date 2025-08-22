@@ -1,0 +1,77 @@
+[
+  {
+    "word": "launder",
+    "lemma": "launder",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɔːndə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "launders",
+          "PT": "laundered",
+          "PAP": "laundered",
+          "PRP": "laundering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wash ; to wash, and to smooth with a flatiron or mangle ; to wash and iron.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To lave ; to wet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To disguise the source of (ill-gotten wealth ) by various means.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "money"
+        ],
+        "label_groups": "money"
+      },
+      {
+        "definition": "To obtain a pointer to an object created in storage occupied by an existing object of the same type, even if it has const or reference members .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "To wash ; to wash, and to smooth with a flatiron or mangle ; to wash and iron.",
+    "secondary_definitions": [
+      "( obsolete ) To lave ; to wet .",
+      "( money ) To disguise the source of (ill-gotten wealth ) by various means.",
+      "( programming , transitive ) To obtain a pointer to an object created in storage occupied by an existing object of the same type, even if it has const or reference members ."
+    ]
+  }
+]

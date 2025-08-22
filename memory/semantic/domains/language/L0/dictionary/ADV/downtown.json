@@ -1,0 +1,49 @@
+[
+  {
+    "word": "downtown",
+    "lemma": "downtown",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "-aʊn",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In or towards the central business district.",
+        "examples": [
+          "You need to go downtown four blocks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Outside the three-point line , or generally far from the basket.",
+        "examples": [
+          "That shot came from way downtown !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "basketball"
+        ],
+        "label_groups": "basketball"
+      }
+    ],
+    "main_definition": "In or towards the central business district.",
+    "secondary_definitions": [
+      "( basketball ) Outside the three-point line , or generally far from the basket."
+    ]
+  }
+]

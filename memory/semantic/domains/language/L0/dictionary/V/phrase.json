@@ -1,0 +1,72 @@
+[
+  {
+    "word": "phrase",
+    "lemma": "phrase",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɹeɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "phrases",
+          "PT": "phrased",
+          "PAP": "phrased",
+          "PRP": "phrasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To express (an action, thought or idea) by means of particular words.",
+        "examples": [
+          "I wasn't sure how to phrase my condolences without sounding patronising."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform (a passage ) with a particular phrasing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "music"
+        ],
+        "label_groups": "transitive , intransitive , music"
+      },
+      {
+        "definition": "To divide into melodic phrases.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      }
+    ],
+    "main_definition": "( transitive ) To express (an action, thought or idea) by means of particular words.",
+    "secondary_definitions": [
+      "( transitive , intransitive , music ) To perform (a passage ) with a particular phrasing .",
+      "( transitive , music ) To divide into melodic phrases."
+    ]
+  }
+]

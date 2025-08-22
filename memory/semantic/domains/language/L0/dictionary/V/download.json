@@ -1,0 +1,116 @@
+[
+  {
+    "word": "download",
+    "lemma": "download",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnˌləʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "downloads",
+          "PT": "downloaded",
+          "PAP": "downloaded",
+          "PRP": "downloading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transfer data to a given computer from a remote one via a network .",
+        "examples": [
+          "You can download a trial version of the program for thirty days to determine whether you want to purchase the full version."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "Synonym of upload : to send data from a given computer to a remote one .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , nonstandard"
+      },
+      {
+        "definition": "Synonym of copy : to transfer data to or from removable media .",
+        "examples": [
+          "When I was your age, there were no flash drives . I needed to download photos to a CD-ROM ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , nonstandard"
+      },
+      {
+        "definition": "Synonym of install : to load software forced .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , nonstandard"
+      },
+      {
+        "definition": "To load a gun (especially a muzzle-loader) with less propellant than its designed load.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "firearms"
+        ],
+        "label_groups": "transitive , firearms"
+      },
+      {
+        "definition": "To transfer jurisdiction and responsibility of a government asset or service to a lower level of government.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Canada"
+        ],
+        "label_groups": "transitive , Canada"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To transfer data to a given computer from a remote one via a network .",
+    "secondary_definitions": [
+      "( transitive , nonstandard ) Synonym of upload : to send data from a given computer to a remote one .",
+      "( transitive , nonstandard ) Synonym of copy : to transfer data to or from removable media .",
+      "( transitive , nonstandard ) Synonym of install : to load software forced .",
+      "( transitive , firearms ) To load a gun (especially a muzzle-loader) with less propellant than its designed load.",
+      "( transitive , Canada ) To transfer jurisdiction and responsibility of a government asset or service to a lower level of government."
+    ]
+  }
+]

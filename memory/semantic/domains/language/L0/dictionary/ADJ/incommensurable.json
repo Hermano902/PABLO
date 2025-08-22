@@ -1,0 +1,62 @@
+[
+  {
+    "word": "incommensurable",
+    "lemma": "incommensurable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnkəˈmɛnʃ(ə)ɹəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more incommensurable",
+          "SUP": "most incommensurable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "having a ratio that is not expressible as a fraction of two integers.",
+        "examples": [
+          "The side and diagonal of a square are incommensurable with each other; the diameter and circumference of a circle are incommensurable ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of two real numbers"
+        ],
+        "label_groups": "mathematics , of two real numbers"
+      },
+      {
+        "definition": "having no common integer divisor except 1.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of two integers"
+        ],
+        "label_groups": "mathematics , of two integers"
+      },
+      {
+        "definition": "Not able to be measured by the same standards as another term in the context .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( mathematics , of two real numbers ) having a ratio that is not expressible as a fraction of two integers.",
+    "secondary_definitions": [
+      "( mathematics , of two integers ) having no common integer divisor except 1.",
+      "Not able to be measured by the same standards as another term in the context ."
+    ]
+  }
+]

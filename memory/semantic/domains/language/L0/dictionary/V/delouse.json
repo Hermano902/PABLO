@@ -1,0 +1,66 @@
+[
+  {
+    "word": "delouse",
+    "lemma": "delouse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "delouses",
+          "PT": "deloused",
+          "PAP": "deloused",
+          "PRP": "delousing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove lice from.",
+        "examples": [
+          "A veterinarian could delouse your dog."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To apply insecticides or insect repellents to, in order to be sure that no lice or other parasites are present .",
+        "examples": [
+          "During the Korean Conflict, American soldiers were deloused with DDT upon entering basic training."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To remove malicious software , such as viruses , trojans , spyware , or worms , from.",
+        "examples": [
+          "A deloused computer may still be considered no longer trustworthy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "To remove lice from.",
+    "secondary_definitions": [
+      "To apply insecticides or insect repellents to, in order to be sure that no lice or other parasites are present .",
+      "( computing , transitive ) To remove malicious software , such as viruses , trojans , spyware , or worms , from."
+    ]
+  }
+]

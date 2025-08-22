@@ -1,0 +1,47 @@
+{
+  "word": "splay",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "ADV",
+    "N",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\splay.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\splay.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\splay.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\splay.json"
+  },
+  "timestamp": "2025-08-19T17:44:16.541377Z"
+}

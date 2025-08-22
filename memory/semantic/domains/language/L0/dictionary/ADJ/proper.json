@@ -1,0 +1,346 @@
+[
+  {
+    "word": "proper",
+    "lemma": "proper",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɔp.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more proper",
+          "SUP": "most proper"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Suitable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Suited or acceptable to the purpose or circumstances ; fit , suitable .",
+            "examples": [
+              "the proper time to plant potatoes"
+            ],
+            "synonyms": [
+              "correct",
+              "right",
+              "apt",
+              "prudent",
+              "upright",
+              "sensible",
+              "fitting"
+            ],
+            "antonyms": [
+              "incorrect",
+              "wrong",
+              "bad",
+              "imprudent",
+              "insensible",
+              "improper"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "13th c."
+          },
+          {
+            "definition": "Following the established standards of behavior or manners ; correct or decorous .",
+            "examples": [
+              "a very proper young lady"
+            ],
+            "synonyms": [
+              "appropriate",
+              "decent",
+              "good",
+              "polite",
+              "right",
+              "well-mannered",
+              "upright"
+            ],
+            "antonyms": [
+              "inappropriate",
+              "indecent",
+              "bad",
+              "impolite",
+              "wrong",
+              "ill-mannered",
+              "unseemly"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "18th c."
+          },
+          {
+            "definition": "Such that the preimage of every compact set is compact.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology",
+              "of a function"
+            ],
+            "label_groups": "topology , of a function"
+          },
+          {
+            "definition": "Continuous , mapping closed sets to closed sets, and such that the preimage of every point is compact .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology",
+              "of a function"
+            ],
+            "label_groups": "topology , of a function"
+          },
+          {
+            "definition": "Separated , of finite type , and universally closed .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebraic geometry",
+              "of a morphism of schemes"
+            ],
+            "label_groups": "algebraic geometry , of a morphism of schemes"
+          },
+          {
+            "definition": "Such that unique morphism from the variety to k {\\displaystyle k} is proper (as above).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebraic geometry",
+              "of a variety over a field k {\\displaystyle k}"
+            ],
+            "label_groups": "algebraic geometry , of a variety over a field k {\\displaystyle k}"
+          },
+          {
+            "definition": "Such that every closed ball is compact .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematical analysis",
+              "of a metric space"
+            ],
+            "label_groups": "mathematical analysis , of a metric space"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Possessed, related.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Used to designate a particular person, place, or thing. Proper nouns are usually written with an initial capital letter.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "grammar"
+            ],
+            "label_groups": "grammar",
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "Pertaining exclusively to a specific thing or person; particular .",
+            "examples": [],
+            "synonyms": [
+              "individual",
+              "singular"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "In the strict sense; within the strict definition or core (of a specified place, taxonomic order, idea, etc).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "usually postpositive"
+            ],
+            "label_groups": "usually postpositive"
+          },
+          {
+            "definition": "Belonging to oneself or itself; own .",
+            "examples": [
+              "proper motion — proper left — proper right"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "Portrayed in natural or usual coloration , as opposed to conventional tinctures.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "heraldry"
+            ],
+            "label_groups": "heraldry",
+            "dating_raw": "16th c."
+          },
+          {
+            "definition": "Being strictly part of some other thing (not necessarily explicitly mentioned, but of definitional importance), and not being the thing itself.",
+            "examples": [
+              "proper subset — proper ideal"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics",
+            "dating_raw": "20th c."
+          },
+          {
+            "definition": "Eigen- ; designating a function or value which is an eigenfunction or eigenvalue .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "physics"
+            ],
+            "label_groups": "mathematics , physics",
+            "dating_raw": "20th c."
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Accurate, strictly applied.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Excellent, of high quality; such as the specific person or thing should ideally be. (Now often merged with later senses.)",
+            "examples": [
+              "Now that was a proper breakfast."
+            ],
+            "synonyms": [
+              "comprehensive",
+              "royal",
+              "sweeping",
+              "intensive"
+            ],
+            "antonyms": [
+              "partial",
+              "incomplete",
+              "superficial",
+              "slapdash"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "Attractive , elegant .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now regional"
+            ],
+            "label_groups": "now regional",
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "In the very strictest sense of the word.",
+            "examples": [],
+            "synonyms": [
+              "strictly speaking",
+              "properly",
+              "speaking",
+              "par excellence"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "often postpositive"
+            ],
+            "label_groups": "often postpositive",
+            "dating_raw": "14th c."
+          },
+          {
+            "definition": "Utter , complete .",
+            "examples": [
+              "When I realized I was wearing my shirt inside out, I felt a proper fool."
+            ],
+            "synonyms": [
+              "complete",
+              "right",
+              "total",
+              "utter"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now colloquial"
+            ],
+            "label_groups": "now colloquial",
+            "dating_raw": "15th c."
+          },
+          {
+            "definition": "Not being a set .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "set theory",
+              "of a class"
+            ],
+            "label_groups": "set theory , of a class"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Suitable.",
+    "secondary_definitions": [
+      "Possessed, related.",
+      "Accurate, strictly applied."
+    ]
+  }
+]

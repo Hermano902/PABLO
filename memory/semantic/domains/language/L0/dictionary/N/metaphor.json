@@ -1,0 +1,65 @@
+[
+  {
+    "word": "metaphor",
+    "lemma": "metaphor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛ.tə.fə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "metaphors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The use of a word, phrase, concept, or set of concepts to refer to something other than its literal meaning, invoking an implicit similarity between the thing described and what is denoted by the word, etc., that is used.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "rhetoric"
+        ],
+        "label_groups": "uncountable , rhetoric"
+      },
+      {
+        "definition": "A word or phrase used in such implied comparison.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "rhetoric"
+        ],
+        "label_groups": "countable , rhetoric"
+      },
+      {
+        "definition": "The use of an everyday object or concept to represent an underlying facet of the computer and thus aid users in performing tasks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "graphical user interface"
+        ],
+        "label_groups": "countable , graphical user interface"
+      }
+    ],
+    "main_definition": "( uncountable , rhetoric ) The use of a word, phrase, concept, or set of concepts to refer to something other than its literal meaning, invoking an implicit similarity between the thing described and what is denoted by the word, etc., that is used.",
+    "secondary_definitions": [
+      "( countable , rhetoric ) A word or phrase used in such implied comparison.",
+      "( countable , graphical user interface ) The use of an everyday object or concept to represent an underlying facet of the computer and thus aid users in performing tasks ."
+    ]
+  }
+]

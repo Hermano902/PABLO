@@ -1,0 +1,37 @@
+{
+  "word": "vulgate",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\vulgate.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\vulgate.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\vulgate.json"
+  },
+  "timestamp": "2025-08-19T20:38:45.541632Z"
+}

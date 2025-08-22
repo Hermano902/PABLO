@@ -1,0 +1,47 @@
+{
+  "word": "loose",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N",
+    "INTJ",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 9,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 13,
+      "examples": 11,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\loose.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\loose.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\loose.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\loose.json"
+  },
+  "timestamp": "2025-08-19T08:04:52.688058Z"
+}

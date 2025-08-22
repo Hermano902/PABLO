@@ -1,0 +1,85 @@
+[
+  {
+    "word": "mainline",
+    "lemma": "mainline",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmeɪnˌlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mainlines",
+          "PT": "mainlined",
+          "PAP": "mainlined",
+          "PRP": "mainlining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To inject (a drug ) directly into a vein .",
+        "examples": [],
+        "synonyms": [
+          "main"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "To consume voraciously.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "by extension , informal , transitive"
+      },
+      {
+        "definition": "To integrate (code, etc.) into the main repository for a software project , rather than separate forks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To include (a prisoner) in the general population of a prison.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( slang ) To inject (a drug ) directly into a vein .",
+    "secondary_definitions": [
+      "( by extension , informal , transitive ) To consume voraciously.",
+      "( computing , transitive ) To integrate (code, etc.) into the main repository for a software project , rather than separate forks .",
+      "( transitive ) To include (a prisoner) in the general population of a prison."
+    ]
+  }
+]

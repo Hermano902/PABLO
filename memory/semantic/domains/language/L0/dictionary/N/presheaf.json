@@ -1,0 +1,36 @@
+[
+  {
+    "word": "presheaf",
+    "lemma": "presheaf",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "presheaves"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An abstract mathematical construct which associates data to the open sets of a topological space , generalizing the situation of functions , fiber bundles , manifold structure, etc. on a topological space (but not necessarily in such a way as to make the local and global data compatible, as in a sheaf ). Formally, A contravariant functor F {\\displaystyle {\\mathcal {F}}} whose domain is a category whose objects are open sets of a topological space (called the base space or underlying space ) and whose morphisms are inclusion mappings . The image of each open set under F {\\displaystyle {\\mathcal {F}}} is an object whose elements are called sections , and are which are said to be over the given open set; the image of each inclusion map A → B {\\displaystyle A\\to B} under F {\\displaystyle {\\mathcal {F}}} is a morphism F ( B ) → F ( A ) {\\displaystyle {\\mathcal {F}}(B)\\to {\\mathcal {F}}(A)} , called the restriction from B {\\displaystyle B} to A {\\displaystyle A} and denoted res B , A {\\displaystyle \\operatorname {res} _{B,A}} or | B , A {\\displaystyle |_{B,A}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "sheaf theory"
+        ],
+        "label_groups": "category theory , sheaf theory"
+      }
+    ],
+    "main_definition": "( category theory , sheaf theory ) An abstract mathematical construct which associates data to the open sets of a topological space , generalizing the situation of functions , fiber bundles , manifold structure, etc. on a topological space (but not necessarily in such a way as to make the local and global data compatible, as in a sheaf ). Formally, A contravariant functor F {\\displaystyle {\\mathcal {F}}} whose domain is a category whose objects are open sets of a topological space (called the base space or underlying space ) and whose morphisms are inclusion mappings . The image of each open set under F {\\displaystyle {\\mathcal {F}}} is an object whose elements are called sections , and are which are said to be over the given open set; the image of each inclusion map A → B {\\displaystyle A\\to B} under F {\\displaystyle {\\mathcal {F}}} is a morphism F ( B ) → F ( A ) {\\displaystyle {\\mathcal {F}}(B)\\to {\\mathcal {F}}(A)} , called the restriction from B {\\displaystyle B} to A {\\displaystyle A} and denoted res B , A {\\displaystyle \\operatorname {res} _{B,A}} or | B , A {\\displaystyle |_{B,A}} .",
+    "secondary_definitions": []
+  }
+]

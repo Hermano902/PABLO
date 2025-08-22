@@ -1,0 +1,40 @@
+{
+  "word": "Bob",
+  "lemma": "Bob",
+  "pos": "N",
+  "variants": [
+    {
+      "etymology": "Etymology",
+      "pos_index": 1,
+      "forms": {
+        "N.TYPE": "PROPER"
+      },
+      "pronunciation": "/bɒb/",
+      "definitions": [
+        {
+          "definition": "A diminutive of the male given name Robert .",
+          "examples": [],
+          "synonyms": [],
+          "antonyms": [],
+          "subdefinitions": [],
+          "senses": []
+        },
+        {
+          "definition": "The person or system receiving a message or signal from a source conventionally known as Alice .",
+          "examples": [],
+          "synonyms": [
+            "Party B"
+          ],
+          "antonyms": [],
+          "subdefinitions": [],
+          "senses": [],
+          "labels": [
+            "cryptography",
+            "physics"
+          ],
+          "label_groups": "cryptography , physics"
+        }
+      ]
+    }
+  ]
+}

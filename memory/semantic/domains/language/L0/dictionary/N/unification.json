@@ -1,0 +1,55 @@
+[
+  {
+    "word": "unification",
+    "lemma": "unification",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "unifications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of unifying .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being unified .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Given two terms, their join with respect to a specialisation order .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical logic",
+          "computer science"
+        ],
+        "label_groups": "mathematical logic , computer science"
+      }
+    ],
+    "main_definition": "The act of unifying .",
+    "secondary_definitions": [
+      "The state of being unified .",
+      "( mathematical logic , computer science ) Given two terms, their join with respect to a specialisation order ."
+    ]
+  }
+]

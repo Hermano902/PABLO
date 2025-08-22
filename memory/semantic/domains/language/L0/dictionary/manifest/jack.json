@@ -1,0 +1,41 @@
+{
+  "word": "jack",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "ADJ",
+    "N:3",
+    "N:4",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 49,
+      "examples": 4,
+      "synonyms": 6,
+      "antonyms": 1,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 3,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\jack.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\jack.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\jack.json"
+  },
+  "timestamp": "2025-08-19T06:32:03.464165Z"
+}

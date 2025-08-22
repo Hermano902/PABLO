@@ -1,0 +1,55 @@
+[
+  {
+    "word": "illness",
+    "lemma": "illness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪl.nəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "illnesses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instance of a disease or poor health.",
+        "examples": [
+          "Her grandmother had passed away after a long illness .",
+          "suffer form a severe illness",
+          "a mild illness"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A state of bad health or disease.",
+        "examples": [
+          "Many working days this year have been lost through illness ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "( countable ) An instance of a disease or poor health.",
+    "secondary_definitions": [
+      "( uncountable ) A state of bad health or disease."
+    ]
+  }
+]

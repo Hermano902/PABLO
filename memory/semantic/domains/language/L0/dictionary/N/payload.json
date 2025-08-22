@@ -1,0 +1,76 @@
+[
+  {
+    "word": "payload",
+    "lemma": "payload",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpeɪloʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "payloads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That part of a cargo that produces revenue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The total weight of passengers , crew , equipment , and cargo carried by an aircraft or spacecraft .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That part of a rocket , missile , propelled stinger , or torpedo that is not concerned with propulsion or guidance, such as a warhead or satellite .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The functional part of a computer virus or another type of malware program, rather than the part that spreads it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The actual data in a data stream .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "communication"
+        ],
+        "label_groups": "communication"
+      }
+    ],
+    "main_definition": "That part of a cargo that produces revenue .",
+    "secondary_definitions": [
+      "The total weight of passengers , crew , equipment , and cargo carried by an aircraft or spacecraft .",
+      "That part of a rocket , missile , propelled stinger , or torpedo that is not concerned with propulsion or guidance, such as a warhead or satellite .",
+      "( computing ) The functional part of a computer virus or another type of malware program, rather than the part that spreads it.",
+      "( communication ) The actual data in a data stream ."
+    ]
+  }
+]

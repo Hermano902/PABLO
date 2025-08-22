@@ -1,0 +1,100 @@
+[
+  {
+    "word": "caveat",
+    "lemma": "caveat",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkævɪæt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "caveats",
+          "PT": "caveated",
+          "PAP": "caveated",
+          "PRP": "caveating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To qualify a statement with a caveat or proviso .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "regarded by some as nonstandard"
+        ],
+        "label_groups": "transitive , regarded by some as nonstandard"
+      },
+      {
+        "definition": "To formally object to something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To lodge a formal notice of interest in land under a Torrens land- title system .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "law",
+              "specifically"
+            ],
+            "label_groups": "transitive , law , specifically"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To issue a notice requesting that proceedings be suspended .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "dated"
+        ],
+        "label_groups": "transitive , law , dated"
+      },
+      {
+        "definition": "To warn or caution against some event.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive , regarded by some as nonstandard ) To qualify a statement with a caveat or proviso .",
+    "secondary_definitions": [
+      "( transitive , law ) To formally object to something.",
+      "( transitive , law , dated ) To issue a notice requesting that proceedings be suspended .",
+      "( transitive , obsolete ) To warn or caution against some event."
+    ]
+  }
+]

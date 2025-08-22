@@ -1,0 +1,49 @@
+[
+  {
+    "word": "encryption",
+    "lemma": "encryption",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkɹɪpʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "encryptions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of obscuring information to make it unreadable without special knowledge, key files, or passwords .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A ciphertext , a cryptogram , an encrypted value. Usually used with the preposition \"of\" followed by the value that is hidden in it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "( cryptography ) The process of obscuring information to make it unreadable without special knowledge, key files, or passwords .",
+    "secondary_definitions": [
+      "( cryptography ) A ciphertext , a cryptogram , an encrypted value. Usually used with the preposition \"of\" followed by the value that is hidden in it."
+    ]
+  }
+]

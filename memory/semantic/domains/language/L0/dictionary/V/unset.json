@@ -1,0 +1,44 @@
+[
+  {
+    "word": "unset",
+    "lemma": "unset",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈsɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unsets",
+          "PT": "unset",
+          "PAP": "unset",
+          "PRP": "unsetting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make not set .",
+        "examples": [
+          "to unset a single bit in a binary pattern"
+        ],
+        "synonyms": [
+          "clear"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make not set .",
+    "secondary_definitions": []
+  }
+]

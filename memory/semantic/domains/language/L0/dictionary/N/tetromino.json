@@ -1,0 +1,35 @@
+[
+  {
+    "word": "tetromino",
+    "lemma": "tetromino",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɛˈtɹɒmɪnəʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tetrominoes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A polyomino made up of four squares connected edge to edge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A polyomino made up of four squares connected edge to edge.",
+    "secondary_definitions": []
+  }
+]

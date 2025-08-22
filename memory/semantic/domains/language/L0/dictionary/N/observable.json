@@ -1,0 +1,38 @@
+[
+  {
+    "word": "observable",
+    "lemma": "observable",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əbˈzɜː.və.bəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "observables"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any physical property that can be observed and measured directly and not derived from other properties",
+        "examples": [
+          "Temperature is an observable but entropy is derived.",
+          "In quantum mechanics, observables correspond to Hermitian operators . Also, they act a lot like random variables. Taking their expected value one may recover something resembling a classical observable ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( physics ) Any physical property that can be observed and measured directly and not derived from other properties",
+    "secondary_definitions": []
+  }
+]

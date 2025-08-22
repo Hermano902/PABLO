@@ -1,0 +1,55 @@
+[
+  {
+    "word": "dimension",
+    "lemma": "dimension",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈmɛnʃən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dimensions",
+          "PT": "dimensioned",
+          "PAP": "dimensioned",
+          "PRP": "dimensioning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark , cut or shape something to specified dimensions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To specify the size of (an array or similar data structure ); to allocate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      }
+    ],
+    "main_definition": "( transitive ) To mark , cut or shape something to specified dimensions.",
+    "secondary_definitions": [
+      "( transitive , programming ) To specify the size of (an array or similar data structure ); to allocate ."
+    ]
+  }
+]

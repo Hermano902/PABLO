@@ -1,0 +1,66 @@
+[
+  {
+    "word": "monotone",
+    "lemma": "monotone",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒn.ə.təʊn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more monotone",
+          "SUP": "most monotone"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a single unvaried pitch .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of speech or a sound"
+        ],
+        "label_groups": "of speech or a sound"
+      },
+      {
+        "definition": "Of a function: that is always nonincreasing or nondecreasing on an interval.",
+        "examples": [
+          "The function f ( x ) := x 3 {\\displaystyle f(x):=x^{3}} is monotone on R {\\displaystyle \\mathbb {R} } , while g ( x ) := x 2 {\\displaystyle g(x):=x^{2}} is not."
+        ],
+        "synonyms": [
+          "monotonic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Synonym of monochrome .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "printing"
+        ],
+        "label_groups": "printing"
+      }
+    ],
+    "main_definition": "( of speech or a sound ) Having a single unvaried pitch .",
+    "secondary_definitions": [
+      "( mathematics ) Of a function: that is always nonincreasing or nondecreasing on an interval.",
+      "( printing ) Synonym of monochrome ."
+    ]
+  }
+]

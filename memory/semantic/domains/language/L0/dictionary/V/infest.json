@@ -1,0 +1,57 @@
+[
+  {
+    "word": "infest",
+    "lemma": "infest",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈfɛst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "infests",
+          "PT": "infested",
+          "PAP": "infested",
+          "PRP": "infesting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To inhabit a place in unpleasantly large numbers; to plague , harass .",
+        "examples": [
+          "Insects are infesting my basement!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To invade a host plant or animal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pathology",
+          "of a parasite"
+        ],
+        "label_groups": "pathology , of a parasite"
+      }
+    ],
+    "main_definition": "( transitive ) To inhabit a place in unpleasantly large numbers; to plague , harass .",
+    "secondary_definitions": [
+      "( pathology , of a parasite ) To invade a host plant or animal."
+    ]
+  }
+]

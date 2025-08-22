@@ -1,0 +1,57 @@
+[
+  {
+    "word": "dipstick",
+    "lemma": "dipstick",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪpstɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dipsticks",
+          "PT": "dipsticked",
+          "PAP": "dipsticked",
+          "PRP": "dipsticking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To check (a person) for their understanding of something, as of a lesson , or attitude toward something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To measure the level of a fluid using a dipstick .",
+        "examples": [
+          "If one of the fuel gauges is inoperative (flight is not permitted if both have failed), the tanks have to be dipsticked before and after each fueling to confirm the aircraft's fuel status."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanical engineering",
+          "transitive"
+        ],
+        "label_groups": "mechanical engineering , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To check (a person) for their understanding of something, as of a lesson , or attitude toward something.",
+    "secondary_definitions": [
+      "( mechanical engineering , transitive ) To measure the level of a fluid using a dipstick ."
+    ]
+  }
+]

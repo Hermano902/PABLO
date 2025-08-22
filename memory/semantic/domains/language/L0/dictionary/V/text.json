@@ -1,0 +1,75 @@
+[
+  {
+    "word": "text",
+    "lemma": "text",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɛkst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "texts",
+          "PT": "texted",
+          "PAP": "texted",
+          "PRP": "texting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send a text message to; i.e. to transmit text using the Short Message Service ( SMS ), or a similar service, between communications devices, particularly mobile phones .",
+        "examples": [
+          "Just text me when you get here.",
+          "I'll text the address to you as soon as I find it."
+        ],
+        "synonyms": [
+          "message",
+          "SMS"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To send and receive text messages .",
+        "examples": [
+          "Have you been texting all afternoon?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To write in large characters , as in text hand .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      }
+    ],
+    "main_definition": "( transitive ) To send a text message to; i.e. to transmit text using the Short Message Service ( SMS ), or a similar service, between communications devices, particularly mobile phones .",
+    "secondary_definitions": [
+      "( intransitive ) To send and receive text messages .",
+      "( dated ) To write in large characters , as in text hand ."
+    ]
+  }
+]

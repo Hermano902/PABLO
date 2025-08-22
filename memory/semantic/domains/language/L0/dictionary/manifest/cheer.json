@@ -1,0 +1,29 @@
+{
+  "word": "cheer",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 14,
+      "antonyms": 1,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cheer.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cheer.json"
+  },
+  "timestamp": "2025-08-18T23:40:53.716535Z"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "word": "binary",
+    "lemma": "binary",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪ.nə.ɹɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "binaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A state in which only two values are possible, in which something must have one value or the other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The bijective base -2 numeral system , which uses only the digits 0 and 1 .",
+        "examples": [],
+        "synonyms": [
+          "base 2"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computing",
+          "uncountable"
+        ],
+        "label_groups": "mathematics , computing , uncountable"
+      },
+      {
+        "definition": "Synonym of binary file .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "non-binary",
+          "text file"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Synonym of binary asteroid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "Synonym of binary planet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "Synonym of binary star .",
+        "examples": [],
+        "synonyms": [
+          "double star"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "A state in which only two values are possible, in which something must have one value or the other.",
+    "secondary_definitions": [
+      "( mathematics , computing , uncountable ) The bijective base -2 numeral system , which uses only the digits 0 and 1 .",
+      "( computing ) Synonym of binary file .",
+      "( astronomy ) Synonym of binary asteroid .",
+      "( astronomy ) Synonym of binary planet .",
+      "( astronomy ) Synonym of binary star ."
+    ]
+  }
+]

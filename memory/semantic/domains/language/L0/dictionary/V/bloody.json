@@ -1,0 +1,69 @@
+[
+  {
+    "word": "bloody",
+    "lemma": "bloody",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈblʌ.diː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bloodies",
+          "PT": "bloodied",
+          "PAP": "bloodied",
+          "PRP": "bloodying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stain with blood.",
+        "examples": [
+          "The butcher often bloodied his apron in the course of his work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To draw blood from (one's opponent) in a fight.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To demonstrably harm (the cause of an opponent). (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To stain with blood.",
+    "secondary_definitions": [
+      "( transitive ) To draw blood from (one's opponent) in a fight.",
+      "( transitive ) To demonstrably harm (the cause of an opponent). (Can we add an example for this sense?)"
+    ]
+  }
+]

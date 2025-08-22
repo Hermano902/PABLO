@@ -1,0 +1,80 @@
+[
+  {
+    "word": "electrocute",
+    "lemma": "electrocute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈlɛktɹəkjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "electrocutes",
+          "PT": "electrocuted",
+          "PAP": "electrocuted",
+          "PRP": "electrocuting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To kill by electric shock.",
+        "examples": [
+          "Her hairdryer fell into the tub while she was bathing, and she was electrocuted ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To execute by electric shock, often by means of an electric chair .",
+        "examples": [
+          "The executioner threw the switch on Old Sparky, and the condemned prisoner was electrocuted for his crimes."
+        ],
+        "synonyms": [
+          "fry"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inflict a severe electric shock (not necessarily fatal) upon.",
+        "examples": [],
+        "synonyms": [
+          "electrify",
+          "shock",
+          "tase",
+          "zap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "proscribed",
+          "informal"
+        ],
+        "label_groups": "transitive , proscribed , informal"
+      }
+    ],
+    "main_definition": "( transitive ) To kill by electric shock.",
+    "secondary_definitions": [
+      "( transitive ) To execute by electric shock, often by means of an electric chair .",
+      "( transitive , proscribed , informal ) To inflict a severe electric shock (not necessarily fatal) upon."
+    ]
+  }
+]

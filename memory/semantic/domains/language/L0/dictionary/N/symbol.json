@@ -1,0 +1,135 @@
+[
+  {
+    "word": "symbol",
+    "lemma": "symbol",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪmbəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "symbols"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A character or glyph representing an idea, concept or object.",
+        "examples": [
+          "\"$\" is the symbol for dollars in the US and some other countries.",
+          "Chinese people use word symbols for writing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A thing considered the embodiment or cardinal exemplar of a concept, theme, or other thing.",
+        "examples": [
+          "The lion is the symbol of courage; the lamb is the symbol of meekness or patience."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a referent . See also icon and index .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "A summary of a dogmatic statement of faith.",
+        "examples": [
+          "The Apostles, Nicene Creed and the confessional books of Protestantism, such as the Augsburg Confession of Lutheranism are considered symbols ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The numerical expression which defines a plane 's position relative to the assumed axes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      },
+      {
+        "definition": "That which is thrown into a common fund; hence, an appointed or accustomed duty.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Share; allotment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An internal identifier used by a debugger to relate parts of the compiled program to the corresponding names in the source code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A signalling event on a communications channel; a signal that cannot be further divided into meaningful information.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      }
+    ],
+    "main_definition": "A character or glyph representing an idea, concept or object.",
+    "secondary_definitions": [
+      "A thing considered the embodiment or cardinal exemplar of a concept, theme, or other thing.",
+      "( linguistics ) A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a referent . See also icon and index .",
+      "A summary of a dogmatic statement of faith.",
+      "( crystallography ) The numerical expression which defines a plane 's position relative to the assumed axes .",
+      "( obsolete ) That which is thrown into a common fund; hence, an appointed or accustomed duty.",
+      "( obsolete ) Share; allotment.",
+      "( programming ) An internal identifier used by a debugger to relate parts of the compiled program to the corresponding names in the source code .",
+      "( telecommunications ) A signalling event on a communications channel; a signal that cannot be further divided into meaningful information."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "nitrogenate",
+    "lemma": "nitrogenate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "nitrogenates",
+          "PT": "nitrogenated",
+          "PAP": "nitrogenated",
+          "PRP": "nitrogenating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To treat something with nitrogen gas , especially with the intent of replacing gaseous oxygen .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To react something with nitrogen .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      }
+    ],
+    "main_definition": "( transitive ) To treat something with nitrogen gas , especially with the intent of replacing gaseous oxygen .",
+    "secondary_definitions": [
+      "( transitive , chemistry ) To react something with nitrogen ."
+    ]
+  }
+]

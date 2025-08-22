@@ -1,0 +1,71 @@
+[
+  {
+    "word": "fishy",
+    "lemma": "fishy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɪʃi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "fishier",
+          "SUP": "fishiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, from, or similar to fish .",
+        "examples": [
+          "What is that fishy odor?"
+        ],
+        "synonyms": [
+          "fishlike",
+          "fishly",
+          "ichthyic",
+          "piscine",
+          "fishen"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Suspicious ; inspiring doubt .",
+        "examples": [
+          "I don't trust him; his claims seem fishy to me."
+        ],
+        "synonyms": [
+          "dodgy",
+          "dubious"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Of a drag queen or a trans woman : appearing very feminine and resembling a cisgender woman .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "LGBTQ slang"
+        ],
+        "label_groups": "LGBTQ slang"
+      }
+    ],
+    "main_definition": "Of, from, or similar to fish .",
+    "secondary_definitions": [
+      "( figurative ) Suspicious ; inspiring doubt .",
+      "( LGBTQ slang ) Of a drag queen or a trans woman : appearing very feminine and resembling a cisgender woman ."
+    ]
+  }
+]

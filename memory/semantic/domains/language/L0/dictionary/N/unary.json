@@ -1,0 +1,49 @@
+[
+  {
+    "word": "unary",
+    "lemma": "unary",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈjuːnəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "unaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The unary, or bijective base -1, numeral system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Unary coding , an entropy encoding for natural numbers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information theory"
+        ],
+        "label_groups": "information theory"
+      }
+    ],
+    "main_definition": "( mathematics ) The unary, or bijective base -1, numeral system.",
+    "secondary_definitions": [
+      "( information theory ) Unary coding , an entropy encoding for natural numbers ."
+    ]
+  }
+]

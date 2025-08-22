@@ -1,0 +1,38 @@
+[
+  {
+    "word": "erlang",
+    "lemma": "erlang",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "erlangs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A dimensionless statistical measure of the volume of telecommunications traffic relative to the capacity of a single channel.",
+        "examples": [],
+        "synonyms": [
+          "E",
+          "Erl"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      }
+    ],
+    "main_definition": "( telecommunications ) A dimensionless statistical measure of the volume of telecommunications traffic relative to the capacity of a single channel.",
+    "secondary_definitions": []
+  }
+]

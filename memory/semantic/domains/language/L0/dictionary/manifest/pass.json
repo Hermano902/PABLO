@@ -1,0 +1,29 @@
+{
+  "word": "pass",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 42,
+      "examples": 30,
+      "synonyms": 56,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 21,
+      "examples": 11,
+      "synonyms": 12,
+      "antonyms": 1,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pass.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pass.json"
+  },
+  "timestamp": "2025-08-19T11:19:41.275914Z"
+}

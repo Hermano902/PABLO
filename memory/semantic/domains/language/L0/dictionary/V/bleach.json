@@ -1,0 +1,87 @@
+[
+  {
+    "word": "bleach",
+    "lemma": "bleach",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bliːt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bleaches",
+          "PT": "bleached",
+          "PAP": "bleached",
+          "PRP": "bleaching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To treat with bleach, especially so as to whiten (fabric, paper, etc.) or lighten (hair).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be whitened or lightened (by the sun, for example).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To lose color due to stress-induced expulsion of symbiotic unicellular algae .",
+        "examples": [
+          "Once coral bleaching begins, corals tend to continue to bleach even if the stressor is removed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "biology",
+          "of corals"
+        ],
+        "label_groups": "intransitive , biology , of corals"
+      },
+      {
+        "definition": "To make meaningless; to divest of meaning; to make empty.",
+        "examples": [
+          "semantically bleached words that have become illocutionary particles"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To treat with bleach, especially so as to whiten (fabric, paper, etc.) or lighten (hair).",
+    "secondary_definitions": [
+      "( intransitive ) To be whitened or lightened (by the sun, for example).",
+      "( intransitive , biology , of corals ) To lose color due to stress-induced expulsion of symbiotic unicellular algae .",
+      "( transitive , figurative ) To make meaningless; to divest of meaning; to make empty."
+    ]
+  }
+]

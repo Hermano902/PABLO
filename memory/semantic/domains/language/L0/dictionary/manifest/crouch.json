@@ -1,0 +1,30 @@
+{
+  "word": "crouch",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\crouch.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\crouch.json"
+  },
+  "timestamp": "2025-08-19T01:05:59.595855Z"
+}

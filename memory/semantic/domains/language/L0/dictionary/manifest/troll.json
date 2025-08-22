@@ -1,0 +1,29 @@
+{
+  "word": "troll",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 16,
+      "examples": 4,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\troll.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\troll.json"
+  },
+  "timestamp": "2025-08-19T19:35:18.665111Z"
+}

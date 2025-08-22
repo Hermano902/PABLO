@@ -1,0 +1,28 @@
+{
+  "word": "vegetarian",
+  "pos_order": [
+    "N",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\vegetarian.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\vegetarian.json"
+  },
+  "timestamp": "2025-08-19T20:24:50.967090Z"
+}

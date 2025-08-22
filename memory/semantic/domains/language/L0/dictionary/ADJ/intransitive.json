@@ -1,0 +1,65 @@
+[
+  {
+    "word": "intransitive",
+    "lemma": "intransitive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɹænsətɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not transitive : not having, or not taking, a direct object .",
+        "examples": [
+          "The word \"drink\" is a transitive verb in \"they drink wine\", but an intransitive one in \"they drink often.\""
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a verb"
+        ],
+        "label_groups": "grammar , of a verb"
+      },
+      {
+        "definition": "Not transitive or passing further; kept; detained.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      },
+      {
+        "definition": "Of a set of dice : containing three dice A, B, and C, with the property that A rolls higher than B more than half the time, and B rolls higher than C more than half the time, but lacking the property that A rolls higher than C more than half the time. See intransitive dice and intransitive game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "probability"
+        ],
+        "label_groups": "probability"
+      }
+    ],
+    "main_definition": "( grammar , of a verb ) Not transitive : not having, or not taking, a direct object .",
+    "secondary_definitions": [
+      "( rare ) Not transitive or passing further; kept; detained.",
+      "( probability ) Of a set of dice : containing three dice A, B, and C, with the property that A rolls higher than B more than half the time, and B rolls higher than C more than half the time, but lacking the property that A rolls higher than C more than half the time. See intransitive dice and intransitive game ."
+    ]
+  }
+]

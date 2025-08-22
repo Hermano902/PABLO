@@ -1,0 +1,65 @@
+[
+  {
+    "word": "neighbour",
+    "lemma": "neighbour",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪbə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "neighbours"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who is near in sympathy or confidence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fellow human being .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biblical"
+        ],
+        "label_groups": "biblical"
+      },
+      {
+        "definition": "Anything located directly adjacent to something else.",
+        "examples": [
+          "The flood fill algorithm fills an area with colour by starting at one pixel and recursively visiting its neighbours ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+    "secondary_definitions": [
+      "One who is near in sympathy or confidence.",
+      "( biblical ) A fellow human being .",
+      "Anything located directly adjacent to something else."
+    ]
+  }
+]

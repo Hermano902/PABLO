@@ -1,0 +1,109 @@
+[
+  {
+    "word": "schedule",
+    "lemma": "schedule",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛdjuːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "schedules",
+          "PT": "scheduled",
+          "PAP": "scheduled",
+          "PRP": "scheduling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a time- schedule .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To plan (an activity or event ) for a specific date or time .",
+        "examples": [
+          "The next elections are scheduled on the twentieth of November."
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add (a name) to the list of those participating in an event; to reserve a place or time for.",
+        "examples": [
+          "I am scheduled for classes next month.",
+          "I'll schedule you for three-o'clock then."
+        ],
+        "synonyms": [
+          "sign up",
+          "register",
+          "enroll",
+          "book"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To admit (a person) to hospital as an involuntary patient under a schedule of the applicable mental health law.",
+        "examples": [
+          "whether or not to schedule a patient"
+        ],
+        "synonyms": [
+          "section",
+          "commit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Australia",
+          "medicine"
+        ],
+        "label_groups": "transitive , Australia , medicine"
+      },
+      {
+        "definition": "To classify as a controlled substance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US"
+        ],
+        "label_groups": "transitive , US"
+      }
+    ],
+    "main_definition": "To create a time- schedule .",
+    "secondary_definitions": [
+      "( transitive ) To plan (an activity or event ) for a specific date or time .",
+      "( transitive ) To add (a name) to the list of those participating in an event; to reserve a place or time for.",
+      "( transitive , Australia , medicine ) To admit (a person) to hospital as an involuntary patient under a schedule of the applicable mental health law.",
+      "( transitive , US ) To classify as a controlled substance ."
+    ]
+  }
+]

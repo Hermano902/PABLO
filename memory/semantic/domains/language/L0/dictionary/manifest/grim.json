@@ -1,0 +1,38 @@
+{
+  "word": "grim",
+  "pos_order": [
+    "ADJ",
+    "V",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\grim.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\grim.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\grim.json"
+  },
+  "timestamp": "2025-08-19T04:47:15.217968Z"
+}

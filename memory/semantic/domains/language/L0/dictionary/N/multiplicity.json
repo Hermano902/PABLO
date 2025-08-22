@@ -1,0 +1,98 @@
+[
+  {
+    "word": "multiplicity",
+    "lemma": "multiplicity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌmʌltɪˈplɪsɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "multiplicities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state of being made of multiple diverse elements .",
+        "examples": [],
+        "synonyms": [
+          "manifoldness"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A large indeterminate number .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The number of values for which a given condition holds.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The number of instances that can occur on a given end of a relationship .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering",
+          "UML"
+        ],
+        "label_groups": "software engineering , UML"
+      },
+      {
+        "definition": "The number of microstates associated with a given macrostate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistical mechanics"
+        ],
+        "label_groups": "statistical mechanics"
+      },
+      {
+        "definition": "The condition whereby a person displays or experiences multiple distinct personalities or selves in one body .",
+        "examples": [],
+        "synonyms": [
+          "plurality"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      }
+    ],
+    "main_definition": "The state of being made of multiple diverse elements .",
+    "secondary_definitions": [
+      "A large indeterminate number .",
+      "( mathematics ) The number of values for which a given condition holds.",
+      "( software engineering , UML ) The number of instances that can occur on a given end of a relationship .",
+      "( statistical mechanics ) The number of microstates associated with a given macrostate .",
+      "( psychology ) The condition whereby a person displays or experiences multiple distinct personalities or selves in one body ."
+    ]
+  }
+]

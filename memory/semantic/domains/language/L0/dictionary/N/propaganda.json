@@ -1,0 +1,65 @@
+[
+  {
+    "word": "propaganda",
+    "lemma": "propaganda",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɹɒpəˈɡændə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "propagandas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Agitation , publicity , public communication aimed at influencing an audience and furthering an agenda .",
+        "examples": [
+          "Despite being biased and often untrue, propaganda material can be useful in OSINT analysis."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The propagation of the faith by the Catholic Church by means of missionary work etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "religion",
+              "historical"
+            ],
+            "label_groups": "religion , historical"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "as a neutral word dated"
+        ],
+        "label_groups": "as a neutral word dated"
+      },
+      {
+        "definition": "Such communication specifically when it is biased , misleading , and/or provoking mainly emotional responses.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "derogatory"
+        ],
+        "label_groups": "derogatory"
+      }
+    ],
+    "main_definition": "( as a neutral word dated ) Agitation , publicity , public communication aimed at influencing an audience and furthering an agenda .",
+    "secondary_definitions": [
+      "( derogatory ) Such communication specifically when it is biased , misleading , and/or provoking mainly emotional responses."
+    ]
+  }
+]

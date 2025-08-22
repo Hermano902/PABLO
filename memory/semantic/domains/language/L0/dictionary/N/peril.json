@@ -1,0 +1,58 @@
+[
+  {
+    "word": "peril",
+    "lemma": "peril",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɛɹɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "perils"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A situation of serious and immediate danger .",
+        "examples": [
+          "Your life is in peril ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something that causes , contains , or presents danger.",
+        "examples": [
+          "the perils of the jungle (animals and insects, weather, etc.)"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An event which causes a loss, or the risk of a specific such event.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "insurance"
+        ],
+        "label_groups": "insurance"
+      }
+    ],
+    "main_definition": "A situation of serious and immediate danger .",
+    "secondary_definitions": [
+      "Something that causes , contains , or presents danger.",
+      "( insurance ) An event which causes a loss, or the risk of a specific such event."
+    ]
+  }
+]

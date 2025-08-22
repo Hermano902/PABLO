@@ -1,0 +1,29 @@
+{
+  "word": "freeze",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 13,
+      "examples": 11,
+      "synonyms": 10,
+      "antonyms": 3,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\freeze.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\freeze.json"
+  },
+  "timestamp": "2025-08-19T04:05:53.549027Z"
+}

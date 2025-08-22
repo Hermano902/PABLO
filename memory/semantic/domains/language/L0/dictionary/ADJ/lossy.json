@@ -1,0 +1,65 @@
+[
+  {
+    "word": "lossy",
+    "lemma": "lossy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɒsi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "lossier",
+          "SUP": "lossiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a communication channel, subject to loss of signal strength.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "Of an electricity transmission line, subject to various forms of power loss.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "power systems"
+        ],
+        "label_groups": "power systems"
+      },
+      {
+        "definition": "Reducing the amount of information in data.",
+        "examples": [
+          "JPEG is a lossy image compression format."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of an algorithm for converting or compressing data"
+        ],
+        "label_groups": "computing , of an algorithm for converting or compressing data"
+      }
+    ],
+    "main_definition": "( telecommunications ) Of a communication channel, subject to loss of signal strength.",
+    "secondary_definitions": [
+      "(power systems) Of an electricity transmission line, subject to various forms of power loss.",
+      "( computing , of an algorithm for converting or compressing data ) Reducing the amount of information in data."
+    ]
+  }
+]

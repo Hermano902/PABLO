@@ -1,0 +1,45 @@
+{
+  "word": "stank",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3",
+    "ADJ:2",
+    "V:4",
+    "V:5",
+    "V:6"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 20
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stank.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\stank.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stank.json"
+  },
+  "timestamp": "2025-08-19T17:53:25.024095Z"
+}

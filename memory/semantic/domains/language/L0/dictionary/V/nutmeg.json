@@ -1,0 +1,57 @@
+[
+  {
+    "word": "nutmeg",
+    "lemma": "nutmeg",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnʌt.mɛɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "nutmegs",
+          "PT": "nutmegged",
+          "PAP": "nutmegged",
+          "PRP": "nutmegging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To flavour with nutmeg.",
+        "examples": [
+          "She decided the eggnog was lacking in flavor, so she decided to nutmeg it heavily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To play the ball between the legs of (an opponent).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "transitive"
+        ],
+        "label_groups": "sports , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To flavour with nutmeg.",
+    "secondary_definitions": [
+      "( sports , transitive ) To play the ball between the legs of (an opponent)."
+    ]
+  }
+]

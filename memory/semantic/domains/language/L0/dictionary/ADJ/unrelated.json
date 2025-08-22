@@ -1,0 +1,54 @@
+[
+  {
+    "word": "unrelated",
+    "lemma": "unrelated",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more unrelated",
+          "SUP": "most unrelated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not connected or associated .",
+        "examples": [
+          "The holiday started with two unrelated mishaps.",
+          "I was having lunch with Jim the other day, who's just had his first kid. Oh, and on a completely unrelated note, there's a new cinema opened up in town."
+        ],
+        "synonyms": [
+          "irrelate",
+          "irrelated",
+          "nonrelated"
+        ],
+        "antonyms": [
+          "related"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not related by kinship .",
+        "examples": [
+          "He had the same surname as me, but we were unrelated ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "related"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Not connected or associated .",
+    "secondary_definitions": [
+      "Not related by kinship ."
+    ]
+  }
+]

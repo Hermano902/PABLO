@@ -1,0 +1,55 @@
+[
+  {
+    "word": "byte",
+    "lemma": "byte",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/baɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bytes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer ; the smallest usable machine word .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A unit of computing storage equal to eight bits , which can represent any of 256 distinct values.",
+        "examples": [
+          "The word “hello” fits into five bytes of ASCII code."
+        ],
+        "synonyms": [
+          "B",
+          "octet"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "most commonly"
+        ],
+        "label_groups": "computing , most commonly"
+      }
+    ],
+    "main_definition": "( computing ) A short sequence of bits (binary digits) that can be operated on as a unit by a computer ; the smallest usable machine word .",
+    "secondary_definitions": [
+      "( computing , most commonly ) A unit of computing storage equal to eight bits , which can represent any of 256 distinct values."
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "retract",
+    "lemma": "retract",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈtɹækt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "retracts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of retracting or withdrawing (a mistake , a statement , etc.); a retraction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pulling back , especially ( military ) of an army or military troops ; a pull-back , a retreat ; also, a signal for this to be done.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A subgroup of a given group such that there is a surjective endomorphism from the ambient group to the subgroup which is constant on the subgroup; in this case the subgroup is a retract of the ambient group . In symbols: H {\\displaystyle H} in G {\\displaystyle G} is a retract of G {\\displaystyle G} if there exists a surjective homomorphism σ {\\displaystyle \\sigma } from G {\\displaystyle G} to H {\\displaystyle H} with σ | H = id {\\displaystyle \\sigma |_{H}=\\operatorname {id} } .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "group theory"
+        ],
+        "label_groups": "group theory"
+      },
+      {
+        "definition": "The target of a retraction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "Synonym of retreat ( “ an act of accidentally injuring a horse 's foot by incorrectly nailing it during shoeing ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "An act of retracting or withdrawing (a mistake , a statement , etc.); a retraction .",
+    "secondary_definitions": [
+      "A pulling back , especially ( military ) of an army or military troops ; a pull-back , a retreat ; also, a signal for this to be done.",
+      "( group theory ) A subgroup of a given group such that there is a surjective endomorphism from the ambient group to the subgroup which is constant on the subgroup; in this case the subgroup is a retract of the ambient group . In symbols: H {\\displaystyle H} in G {\\displaystyle G} is a retract of G {\\displaystyle G} if there exists a surjective homomorphism σ {\\displaystyle \\sigma } from G {\\displaystyle G} to H {\\displaystyle H} with σ | H = id {\\displaystyle \\sigma |_{H}=\\operatorname {id} } .",
+      "( topology ) The target of a retraction .",
+      "Synonym of retreat ( “ an act of accidentally injuring a horse 's foot by incorrectly nailing it during shoeing ” ) ."
+    ]
+  }
+]

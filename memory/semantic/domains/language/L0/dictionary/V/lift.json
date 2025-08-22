@@ -1,0 +1,235 @@
+[
+  {
+    "word": "lift",
+    "lemma": "lift",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/lɪft/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lifts",
+          "PT": "lifted",
+          "PAP": "lifted",
+          "PRP": "lifting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To raise or rise .",
+        "examples": [
+          "The fog eventually lifted , leaving the streets clear.",
+          "You never lift a finger to help me!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To steal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To source directly without acknowledgement ; to plagiarise .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To arrest (a person).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To remove (a ban , restriction , etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To alleviate , to lighten (pressure, tension, stress, etc.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to cause to move upwards.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lift weights; to weight-lift .",
+        "examples": [
+          "She lifts twice a week at the gym."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "intransitive"
+        ],
+        "label_groups": "informal , intransitive"
+      },
+      {
+        "definition": "To try to raise something; to exert the strength for raising or bearing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To elevate or improve in rank, condition, etc.; often with up .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To bear ; to support .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To collect , as moneys due; to raise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Given morphisms f {\\displaystyle f} and g {\\displaystyle g} with the same target : To produce a morphism which the given morphism factors through (i.e. a morphism h {\\displaystyle h} such that f = g ∘ h {\\displaystyle f=g\\circ h} ; cf. lift n. 18 )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To transform (a function ) into a corresponding function in a different context .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "transitive"
+        ],
+        "label_groups": "category theory , transitive"
+      },
+      {
+        "definition": "To buy a security or other asset previously offered for sale.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "To take ( hounds ) off the existing scent and move them to another spot.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hunting",
+          "transitive"
+        ],
+        "label_groups": "hunting , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To raise or rise .",
+    "secondary_definitions": [
+      "( transitive , slang ) To steal .",
+      "( transitive , slang ) To source directly without acknowledgement ; to plagiarise .",
+      "( transitive , slang ) To arrest (a person).",
+      "( transitive ) To remove (a ban , restriction , etc.).",
+      "( transitive ) To alleviate , to lighten (pressure, tension, stress, etc.)",
+      "( transitive ) to cause to move upwards.",
+      "( informal , intransitive ) To lift weights; to weight-lift .",
+      "To try to raise something; to exert the strength for raising or bearing.",
+      "To elevate or improve in rank, condition, etc.; often with up .",
+      "( obsolete ) To bear ; to support .",
+      "To collect , as moneys due; to raise.",
+      "( category theory , transitive ) Given morphisms f {\\displaystyle f} and g {\\displaystyle g} with the same target : To produce a morphism which the given morphism factors through (i.e. a morphism h {\\displaystyle h} such that f = g ∘ h {\\displaystyle f=g\\circ h} ; cf. lift n. 18 )",
+      "( finance ) To buy a security or other asset previously offered for sale.",
+      "( hunting , transitive ) To take ( hounds ) off the existing scent and move them to another spot."
+    ]
+  }
+]

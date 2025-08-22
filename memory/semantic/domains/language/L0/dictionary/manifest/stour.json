@@ -1,0 +1,48 @@
+{
+  "word": "stour",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "ADV",
+    "N:2",
+    "N:3",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\stour.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stour.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\stour.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stour.json"
+  },
+  "timestamp": "2025-08-19T18:04:25.504522Z"
+}

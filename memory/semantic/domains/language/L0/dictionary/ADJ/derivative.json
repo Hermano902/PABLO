@@ -1,0 +1,71 @@
+[
+  {
+    "word": "derivative",
+    "lemma": "derivative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹɪvətɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more derivative",
+          "SUP": "most derivative"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Obtained by derivation ; not radical, original, or fundamental.",
+        "examples": [
+          "a derivative conveyance",
+          "a derivative word"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Imitative of the work of someone else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "copyright law"
+        ],
+        "label_groups": "law , copyright law"
+      },
+      {
+        "definition": "Having a value that depends on an underlying asset of variable value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "Obtained by derivation ; not radical, original, or fundamental.",
+    "secondary_definitions": [
+      "Imitative of the work of someone else.",
+      "( law , copyright law ) Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions.",
+      "( finance ) Having a value that depends on an underlying asset of variable value."
+    ]
+  }
+]

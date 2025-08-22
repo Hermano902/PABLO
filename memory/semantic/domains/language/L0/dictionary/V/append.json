@@ -1,0 +1,72 @@
+[
+  {
+    "word": "append",
+    "lemma": "append",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌˈpɛnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "appends",
+          "PT": "appended",
+          "PAP": "appended",
+          "PRP": "appending",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hang or attach to, as by a string, so that the thing is suspended",
+        "examples": [
+          "a seal appended to a record",
+          "An inscription was appended to the column."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add, as an accessory to the principal thing; to annex",
+        "examples": [
+          "notes appended to a book chapter"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To write more data to the end of a pre-existing file , string , or other object.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive ) To hang or attach to, as by a string, so that the thing is suspended",
+    "secondary_definitions": [
+      "( transitive ) To add, as an accessory to the principal thing; to annex",
+      "( computing ) To write more data to the end of a pre-existing file , string , or other object."
+    ]
+  }
+]

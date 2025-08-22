@@ -1,0 +1,75 @@
+[
+  {
+    "word": "cavity",
+    "lemma": "cavity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæv.ɪt.i/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cavities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A hole or hollow depression in a solid object.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A hollow area within the body .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "anatomy"
+            ],
+            "label_groups": "anatomy"
+          },
+          {
+            "definition": "The female part of a mold : the depression itself or ( metonymically ) the half of the mold that contains it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering",
+              "manufacturing"
+            ],
+            "label_groups": "engineering , manufacturing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A small or large hole in a tooth caused by caries ; often also a soft area adjacent to the hole also affected by caries.",
+        "examples": [
+          "Jim got two cavities filled at the dentist's office yesterday."
+        ],
+        "synonyms": [
+          "caries"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dentistry"
+        ],
+        "label_groups": "dentistry"
+      }
+    ],
+    "main_definition": "A hole or hollow depression in a solid object.",
+    "secondary_definitions": [
+      "( dentistry ) A small or large hole in a tooth caused by caries ; often also a soft area adjacent to the hole also affected by caries."
+    ]
+  }
+]

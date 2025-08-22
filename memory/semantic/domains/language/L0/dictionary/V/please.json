@@ -1,0 +1,74 @@
+[
+  {
+    "word": "please",
+    "lemma": "please",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pliːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pleases",
+          "PT": "pleased",
+          "PAP": "pleased",
+          "PRP": "pleasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make happy or satisfy ; to give pleasure to.",
+        "examples": [
+          "Her presentation pleased the executives.",
+          "I'm pleased to see you've been behaving yourself.",
+          "Our new range of organic foods is sure to please ."
+        ],
+        "synonyms": [
+          "cheer",
+          "hearten",
+          "satisfy"
+        ],
+        "antonyms": [
+          "annoy",
+          "disgust",
+          "displease",
+          "irritate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To desire ; to will ; to be pleased by.",
+        "examples": [
+          "Just do as you please .",
+          "He doesn't think, he just says whatever he pleases ."
+        ],
+        "synonyms": [
+          "desire",
+          "will"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "ergative"
+        ],
+        "label_groups": "intransitive , ergative"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To make happy or satisfy ; to give pleasure to.",
+    "secondary_definitions": [
+      "( intransitive , ergative ) To desire ; to will ; to be pleased by."
+    ]
+  }
+]

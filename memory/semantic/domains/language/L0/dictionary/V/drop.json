@@ -1,0 +1,753 @@
+[
+  {
+    "word": "drop",
+    "lemma": "drop",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɹɒp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "drops",
+          "PT": "dropped",
+          "PAP": "dropped",
+          "PRP": "dropping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a liquid : to fall in drops or droplets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 11th c."
+      },
+      {
+        "definition": "To fall ( straight down ) under the influence of gravity , like a drop of liquid.",
+        "examples": [
+          "A single shot was fired and the bird dropped from the sky."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "also figuratively"
+        ],
+        "label_groups": "intransitive , also figuratively",
+        "dating_raw": "from 14th c."
+      },
+      {
+        "definition": "To fall or sink quickly or suddenly to the ground .",
+        "examples": [
+          "Drop and give me thirty push-ups, private!",
+          "If your clothes are on fire, stop, drop , and roll."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "To collapse in exhaustion or injury ; also, to fall dead , or to fall in death .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To fall into a particular condition or state .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To come to an end (by not being kept up ); to lapse , to stop .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "To decrease , diminish , or lessen in condition, degree , value , etc.",
+        "examples": [
+          "The stock dropped 1.5% yesterday.",
+          "We can take our vacation when the price of fuel drops .",
+          "Watch for the temperature to drop sharply, then you’ll know the reaction is complete.",
+          "The equipment shows how much the glacier has moved and the amount it dropped in height over the summer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a song or sound : to lower in key , pitch , tempo , or other quality .",
+            "examples": [
+              "My synthesizer makes the notes sound funny when they drop below C2.",
+              "The song, 180 beats per minute, drops to 150 BPM near the end."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "Of a voice : to lower in timbre , often due to puberty .",
+            "examples": [
+              "Billy’s voice dropped suddenly when he turned 12."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To fall behind or to the rear of a group of people , etc., as a result of not keeping up with those at the front .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Usually followed by by , in , or into : of a person: to visit someone or somewhere informally or without a prior appointment .",
+        "examples": [
+          "Do drop by soon and I’ll lend you that book.",
+          "We’ll drop in on her tomorrow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Of a programme , software , a music album or song , etc.: to enter public distribution .",
+        "examples": [
+          "The album Hip-Hop Xmas dropped in time for the holidays.",
+          "Hip-Hop Xmas"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "music",
+          "television",
+          "colloquial"
+        ],
+        "label_groups": "intransitive , computing , music , television , colloquial"
+      },
+      {
+        "definition": "To drop out of the betting .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "gambling"
+        ],
+        "label_groups": "intransitive , gambling"
+      },
+      {
+        "definition": "Of the testicles : to hang further away from the body and begin producing sperm due to puberty.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physiology",
+          "informal"
+        ],
+        "label_groups": "intransitive , physiology , informal"
+      },
+      {
+        "definition": "To let drops fall; to discharge itself in drops.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To drip (a liquid) in drops or small amounts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 14th c."
+      },
+      {
+        "definition": "To let (something) fall; to allow (something) to fall (either by releasing hold of, or losing one's grip on).",
+        "examples": [
+          "Don’t drop that plate!    The police ordered the men to drop their weapons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ergative",
+          "also figuratively"
+        ],
+        "label_groups": "transitive , ergative , also figuratively",
+        "dating_raw": "from 14th c."
+      },
+      {
+        "definition": "To move to a lower position ; to allow to hang downwards ; to lower.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To quickly lower or take down (one's trousers ), especially in public .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To cook ( food , especially fast food ), particularly by lowering into hot oil to deep-fry , or by grilling .",
+            "examples": [
+              "Drop a basket of fries."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cooking"
+            ],
+            "label_groups": "cooking"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce ; to make smaller.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of an animal (usually a sheep ): to give birth to ( young ); of a bird : to lay (an egg ).",
+        "examples": [
+          "to drop a lamb"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mention (something) casually or incidentally , usually in conversation .",
+        "examples": [
+          "The lecturer would drop hints whenever the students struggled.",
+          "name drop"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "To let (a letter , etc.) fall into a postbox ; hence, to send (a letter, email , or other message ) in an offhand manner .",
+        "examples": [
+          "As she had a free moment, she dropped her a text.",
+          "Drop me a note when you get to the city."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To make (someone or something) fall to the ground from a blow , gunshot , etc.; to bring down , to shoot down ; to kill.",
+        "examples": [
+          "Make any sudden movements and I will drop you!",
+          "That gang rules the streets, dropping opponents with guns, bombs and other weapons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To set down (someone or something) from a vehicle ; to stop and deliver or deposit (someone or something); to drop off .",
+        "examples": [
+          "Could you drop me at the airport on your way to work tomorrow?",
+          "I’ll be dropping the parcel at your place later."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lower (a sound, a voice , etc.) in pitch or volume .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To tune (a guitar string , etc.) to a lower note .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "music"
+            ],
+            "label_groups": "transitive , music"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cease concerning oneself over (someone or something); to have nothing more to do with (a discussion , subject , etc.).",
+        "examples": [
+          "I’m tired of this subject. Will you just drop it?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "To dispose or get rid of (something); to lose, to remove .",
+        "examples": [
+          "I dropped ten pounds and an obnoxious fiancée."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cease to include (something), as if on a list ; to dismiss , to eject , to expel .",
+        "examples": [
+          "I’ve been dropped from the football team."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cancel or cease to participate in (a scheduled course , event , or project ).",
+        "examples": [
+          "I had to drop calculus because it was taking up too much of my time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To lose, spend , or otherwise part with ( money ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 17th c."
+          },
+          {
+            "definition": "To pass or use ( counterfeit cheques , money, etc.).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To impart (something).",
+            "examples": [
+              "I drop knowledge wherever I go."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Especially in drop acid : to swallow (a drug , particularly LSD ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 20th c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To release (a programme, software, a music album or song, etc.) to the public.",
+        "examples": [
+          "They dropped the album Hip-Hop Xmas in time for the holidays.",
+          "Hip-Hop Xmas",
+          "That hacker has been threatening to drop my docs [i.e. publish my personal information]."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "music",
+          "television",
+          "colloquial"
+        ],
+        "label_groups": "transitive , computing , music , television , colloquial"
+      },
+      {
+        "definition": "To fail to write , or (especially) to pronounce (a syllable , letter, etc.).",
+        "examples": [
+          "Cockneys drop their aitches."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "linguistics"
+        ],
+        "label_groups": "transitive , linguistics",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To play (a portion of music ) in the manner of a disc jockey .",
+            "examples": [
+              "I love it when he drops his funky beats.",
+              "That guy can drop the bass like a monster."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To perform ( rap music ).",
+            "examples": [
+              "Yo, I drop rhymes like nobody’s business."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To ( unexpectedly ) lose (a competition , game , etc.).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "originally US"
+            ],
+            "label_groups": "originally US"
+          },
+          {
+            "definition": "Of a fielder : to fail to dismiss (a batsman ) by accidentally dropping a batted ball that had initially been caught .",
+            "examples": [
+              "Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cricket"
+            ],
+            "label_groups": "cricket"
+          },
+          {
+            "definition": "To score (a goal ) by means of a drop kick .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rugby"
+            ],
+            "label_groups": "rugby"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To cover (something) with or as if with drops, especially of a different colour ; to bedrop , to variegate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To enter a more basic interface.",
+        "examples": [
+          "Next, you drop to a shell."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      },
+      {
+        "definition": "To present (the user) with a more basic interface.",
+        "examples": [
+          "The next step drops the user to a recovery shell."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To make someone, or be made to do push-ups or some other form of exercise on the ground as punishment .",
+        "examples": [
+          "Drop and give me 20, now!"
+        ],
+        "synonyms": [
+          "knock it down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "Singapore",
+          "ergative",
+          "military",
+          "slang"
+        ],
+        "label_groups": "US , Singapore , ergative , military , slang"
+      }
+    ],
+    "main_definition": "( intransitive ) Of a liquid : to fall in drops or droplets . [from 11th c.]",
+    "secondary_definitions": [
+      "( intransitive , also figuratively ) To fall ( straight down ) under the influence of gravity , like a drop of liquid. [from 14th c.]",
+      "( intransitive ) To fall or sink quickly or suddenly to the ground . [from 15th c.]",
+      "( intransitive ) To collapse in exhaustion or injury ; also, to fall dead , or to fall in death .",
+      "( intransitive ) To fall into a particular condition or state .",
+      "( intransitive ) To come to an end (by not being kept up ); to lapse , to stop . [from 17th c.]",
+      "( intransitive ) To decrease , diminish , or lessen in condition, degree , value , etc. [from 18th c.]",
+      "( intransitive ) To fall behind or to the rear of a group of people , etc., as a result of not keeping up with those at the front .",
+      "( intransitive ) Usually followed by by , in , or into : of a person: to visit someone or somewhere informally or without a prior appointment .",
+      "( intransitive , computing , music , television , colloquial ) Of a programme , software , a music album or song , etc.: to enter public distribution .",
+      "( intransitive , gambling ) To drop out of the betting .",
+      "( intransitive , physiology , informal ) Of the testicles : to hang further away from the body and begin producing sperm due to puberty.",
+      "( intransitive , obsolete ) To let drops fall; to discharge itself in drops.",
+      "( transitive ) To drip (a liquid) in drops or small amounts . [from 14th c.]",
+      "( transitive , ergative , also figuratively ) To let (something) fall; to allow (something) to fall (either by releasing hold of, or losing one's grip on). [from 14th c.]",
+      "( transitive ) To move to a lower position ; to allow to hang downwards ; to lower.",
+      "( transitive ) To reduce ; to make smaller.",
+      "( transitive ) Of an animal (usually a sheep ): to give birth to ( young ); of a bird : to lay (an egg ).",
+      "( transitive ) To mention (something) casually or incidentally , usually in conversation . [from 17th c.]",
+      "( transitive ) To let (a letter , etc.) fall into a postbox ; hence, to send (a letter, email , or other message ) in an offhand manner . [from 18th c.]",
+      "( transitive ) To make (someone or something) fall to the ground from a blow , gunshot , etc.; to bring down , to shoot down ; to kill. [from 18th c.]",
+      "( transitive ) To set down (someone or something) from a vehicle ; to stop and deliver or deposit (someone or something); to drop off .",
+      "( transitive ) To lower (a sound, a voice , etc.) in pitch or volume .",
+      "( transitive ) To cease concerning oneself over (someone or something); to have nothing more to do with (a discussion , subject , etc.). [from 17th c.]",
+      "( transitive ) To dispose or get rid of (something); to lose, to remove .",
+      "( transitive ) To cease to include (something), as if on a list ; to dismiss , to eject , to expel .",
+      "( transitive ) To cancel or cease to participate in (a scheduled course , event , or project ).",
+      "( transitive , slang )",
+      "( transitive , computing , music , television , colloquial ) To release (a programme, software, a music album or song, etc.) to the public.",
+      "( transitive , linguistics ) To fail to write , or (especially) to pronounce (a syllable , letter, etc.). [from 19th c.]",
+      "( transitive , music )",
+      "( transitive , sports )",
+      "( transitive , archaic ) To cover (something) with or as if with drops, especially of a different colour ; to bedrop , to variegate .",
+      "( intransitive , computing ) To enter a more basic interface.",
+      "( transitive , computing ) To present (the user) with a more basic interface.",
+      "( US , Singapore , ergative , military , slang ) To make someone, or be made to do push-ups or some other form of exercise on the ground as punishment ."
+    ]
+  }
+]

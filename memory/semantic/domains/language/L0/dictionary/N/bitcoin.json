@@ -1,0 +1,69 @@
+[
+  {
+    "word": "bitcoin",
+    "lemma": "bitcoin",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɪtkɔɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable , computing , finance ) A decentralized cryptocurrency using blockchain technology . [from 2008]",
+        "examples": [
+          "We do not accept bitcoin at this store."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable , computing , finance ) A decentralized cryptocurrency using blockchain technology . [from 2008]",
+    "secondary_definitions": []
+  },
+  {
+    "word": "bitcoin",
+    "lemma": "bitcoin",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈbɪtkɔɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bitcoins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A unit of the bitcoin (proper noun sense 1 ) cryptocurrency .",
+        "examples": [
+          "This item costs one bitcoin ."
+        ],
+        "synonyms": [
+          "₿",
+          "BTC",
+          "XBT"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing",
+          "finance"
+        ],
+        "label_groups": "countable , computing , finance"
+      }
+    ],
+    "main_definition": "( countable , computing , finance ) A unit of the bitcoin (proper noun sense 1 ) cryptocurrency .",
+    "secondary_definitions": []
+  }
+]

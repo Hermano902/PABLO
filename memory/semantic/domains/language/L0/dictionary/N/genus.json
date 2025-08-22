@@ -1,0 +1,110 @@
+[
+  {
+    "word": "genus",
+    "lemma": "genus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʒiːnəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "genera"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A category in the classification of organisms , ranking below family (Lat. familia ) and above species .",
+        "examples": [
+          "All magnolias belong to the genus Magnolia .",
+          "Magnolia",
+          "Other species of the genus Bos are often called cattle or wild cattle.",
+          "Bos",
+          "There are only two genera and species of seadragons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A taxon at this rank.",
+            "examples": [
+              "In most cases, at subsequent mentions of the binomial name you can abbreviate the genus with no danger of confusing the reader."
+            ],
+            "synonyms": [
+              "genus name"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by ellipsis"
+            ],
+            "label_groups": "by ellipsis"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "biology",
+          "taxonomy"
+        ],
+        "label_groups": "biology , taxonomy"
+      },
+      {
+        "definition": "A group with common attributes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A natural number representing any of several related measures of the complexity of a given manifold or graph .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology",
+          "graph theory",
+          "algebraic geometry"
+        ],
+        "label_groups": "topology , graph theory , algebraic geometry"
+      },
+      {
+        "definition": "Within a definition, a broader category of the defined concept.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      },
+      {
+        "definition": "A type of tuning or intonation , used within an Ancient Greek tetrachord .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "( biology , taxonomy ) A category in the classification of organisms , ranking below family (Lat. familia ) and above species .",
+    "secondary_definitions": [
+      "A group with common attributes .",
+      "( topology , graph theory , algebraic geometry ) A natural number representing any of several related measures of the complexity of a given manifold or graph .",
+      "( semantics ) Within a definition, a broader category of the defined concept.",
+      "( music ) A type of tuning or intonation , used within an Ancient Greek tetrachord ."
+    ]
+  }
+]

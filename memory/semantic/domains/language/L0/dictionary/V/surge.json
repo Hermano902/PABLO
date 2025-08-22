@@ -1,0 +1,85 @@
+[
+  {
+    "word": "surge",
+    "lemma": "surge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɝd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "surges",
+          "PT": "surged",
+          "PAP": "surged",
+          "PRP": "surging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To rush , flood , or increase suddenly.",
+        "examples": [
+          "Toaster sales surged last year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To accelerate forwards, particularly suddenly.",
+        "examples": [
+          "A ship surges forwards, sways sideways and heaves up."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To experience a momentary reversal of airflow through the compressor section due to disruption of intake airflow.",
+        "examples": [
+          "Use of maximum reverse thrust at low speeds can cause the engine to surge from ingesting its own exhaust."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "aviation",
+          "of a jet engine"
+        ],
+        "label_groups": "intransitive , aviation , of a jet engine"
+      },
+      {
+        "definition": "To slack off a line .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      }
+    ],
+    "main_definition": "( intransitive ) To rush , flood , or increase suddenly.",
+    "secondary_definitions": [
+      "To accelerate forwards, particularly suddenly.",
+      "( intransitive , aviation , of a jet engine ) To experience a momentary reversal of airflow through the compressor section due to disruption of intake airflow.",
+      "( transitive , nautical ) To slack off a line ."
+    ]
+  }
+]

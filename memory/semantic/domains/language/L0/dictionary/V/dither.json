@@ -1,0 +1,99 @@
+[
+  {
+    "word": "dither",
+    "lemma": "dither",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪðə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dithers",
+          "PT": "dithered",
+          "PAP": "dithered",
+          "PRP": "dithering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To tremble , shake , or shiver .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literally"
+        ],
+        "label_groups": "literally"
+      },
+      {
+        "definition": "To be uncertain or unable to make a decision ; to vacillate , hesitate , or delay .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "To do something nervously .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To apply an algorithm to digital data to minimize the effects of quantization :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To use dot patterns in an image or graphic to simulate colors or shades not in the system palette .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer graphics"
+            ],
+            "label_groups": "computer graphics"
+          },
+          {
+            "definition": "To intentionally add noise to a signal to remove artifacts caused by digitization .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "electronics",
+          "technology",
+          "signal processing"
+        ],
+        "label_groups": "electronics , technology , signal processing"
+      }
+    ],
+    "main_definition": "( literally ) To tremble , shake , or shiver .",
+    "secondary_definitions": [
+      "( figurative ) To be uncertain or unable to make a decision ; to vacillate , hesitate , or delay .",
+      "To do something nervously .",
+      "( electronics , technology , signal processing ) To apply an algorithm to digital data to minimize the effects of quantization :"
+    ]
+  }
+]

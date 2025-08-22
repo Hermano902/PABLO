@@ -1,0 +1,69 @@
+[
+  {
+    "word": "shim",
+    "lemma": "shim",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʃɪm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shims",
+          "PT": "shimmed",
+          "PAP": "shimmed",
+          "PRP": "shimming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fit one or more shims to a piece of machinery.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To adjust something by using shims.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To adjust the homogeneity of a magnetic field, after the mechanical devices once used for the purpose.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To intercept and modify calls to (an API ), usually for compatibility purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "To fit one or more shims to a piece of machinery.",
+    "secondary_definitions": [
+      "To adjust something by using shims.",
+      "To adjust the homogeneity of a magnetic field, after the mechanical devices once used for the purpose.",
+      "( computing , transitive ) To intercept and modify calls to (an API ), usually for compatibility purposes."
+    ]
+  }
+]

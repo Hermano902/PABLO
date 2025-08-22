@@ -1,0 +1,191 @@
+[
+  {
+    "word": "yield",
+    "lemma": "yield",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/jiːld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "yields",
+          "PT": "yielded",
+          "PAP": "yielded",
+          "PRP": "yielding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give as a result or outcome ; to produce or render .",
+        "examples": [
+          "This method generally yields better results.",
+          "The new variety of potatoes yields 20% more."
+        ],
+        "synonyms": [
+          "furnish",
+          "afford",
+          "give forth"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To produce as return from an investment .",
+            "examples": [
+              "Historically, that security yields a high return."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To produce as a result .",
+            "examples": [
+              "Adding 3 and 4 yields a result of 7."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          },
+          {
+            "definition": "To produce a particular sound as the result of a sound law .",
+            "examples": [
+              "Indo-European p- yields Germanic f-."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "linguistics"
+            ],
+            "label_groups": "linguistics"
+          },
+          {
+            "definition": "To give in payment ; repay , recompense ; reward ; requite .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To give up ; to surrender or capitulate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To give as demanded; to relinquish .",
+            "examples": [
+              "They refuse to yield to the enemy.",
+              "Eventually she stopped arguing and yielded the point."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive or intransitive"
+            ],
+            "label_groups": "transitive or intransitive"
+          },
+          {
+            "definition": "To give way so as to allow another to pass first.",
+            "examples": [
+              "Yield the right of way to pedestrians.",
+              "It is not clear from the road markings who is supposed to yield at the junction."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive or intransitive",
+              "especially US"
+            ],
+            "label_groups": "transitive or intransitive , especially US"
+          },
+          {
+            "definition": "To give way under force; to succumb to a force.",
+            "examples": [
+              "I put my shoulder into the door, but it did not yield ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "Of a running process, to give control back to the operating system so that other processes can be allowed to run.",
+            "examples": [
+              "The system froze because the buggy program got into an infinite loop and didn't yield ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "intransitive"
+            ],
+            "label_groups": "computing , intransitive"
+          },
+          {
+            "definition": "To pass the material 's yield point and undergo plastic deformation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering",
+              "materials science",
+              "of a material specimen"
+            ],
+            "label_groups": "engineering , materials science , of a material specimen"
+          },
+          {
+            "definition": "To admit to be true; to concede; to allow.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rare"
+            ],
+            "label_groups": "rare"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "To give as a result or outcome ; to produce or render .",
+    "secondary_definitions": [
+      "To give up ; to surrender or capitulate ."
+    ]
+  }
+]

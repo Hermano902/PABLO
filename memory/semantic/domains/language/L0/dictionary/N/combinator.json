@@ -1,0 +1,35 @@
+[
+  {
+    "word": "combinator",
+    "lemma": "combinator",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒm.bɪˌneɪ.tə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "combinators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A lambda expression which has no free variables in it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( computer science ) A lambda expression which has no free variables in it.",
+    "secondary_definitions": []
+  }
+]

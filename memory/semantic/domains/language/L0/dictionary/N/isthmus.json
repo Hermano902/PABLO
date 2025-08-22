@@ -1,0 +1,63 @@
+[
+  {
+    "word": "isthmus",
+    "lemma": "isthmus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪsθ.məs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "isthmuses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A narrow strip of land , bordered on both sides by water , and connecting two larger landmasses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geography"
+        ],
+        "label_groups": "geography"
+      },
+      {
+        "definition": "Any such narrow part connecting two larger structures .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy",
+          "botany"
+        ],
+        "label_groups": "anatomy , botany"
+      },
+      {
+        "definition": "An edge in a graph whose deletion increases the number of connected components of the graph.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( geography ) A narrow strip of land , bordered on both sides by water , and connecting two larger landmasses .",
+    "secondary_definitions": [
+      "( anatomy , botany ) Any such narrow part connecting two larger structures .",
+      "( graph theory ) An edge in a graph whose deletion increases the number of connected components of the graph."
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "word": "shore",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3",
+    "N:3",
+    "V:4",
+    "ADV"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 7,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\shore.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\shore.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\shore.json"
+  },
+  "timestamp": "2025-08-19T16:59:39.662060Z"
+}

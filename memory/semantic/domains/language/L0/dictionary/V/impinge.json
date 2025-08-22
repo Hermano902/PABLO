@@ -1,0 +1,87 @@
+[
+  {
+    "word": "impinge",
+    "lemma": "impinge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpɪnd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "impinges",
+          "PT": "impinged",
+          "PAP": "impinged",
+          "PRP": "impinging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a physical impact on.",
+        "examples": [
+          "Loud noise can impinge on the eardrum, causing temporary hearing damage."
+        ],
+        "synonyms": [
+          "collide",
+          "crash",
+          "strike"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rarely transitive"
+        ],
+        "label_groups": "intransitive , rarely transitive"
+      },
+      {
+        "definition": "To interfere with.",
+        "examples": [],
+        "synonyms": [
+          "encroach",
+          "infringe",
+          "trespass"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rarely transitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , rarely transitive , figuratively"
+      },
+      {
+        "definition": "To have an effect upon, especially a negative one.",
+        "examples": [],
+        "synonyms": [
+          "affect",
+          "limit",
+          "touch",
+          "influence",
+          "impact"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      }
+    ],
+    "main_definition": "( intransitive , rarely transitive ) To make a physical impact on.",
+    "secondary_definitions": [
+      "( intransitive , rarely transitive , figuratively ) To interfere with.",
+      "( intransitive , figuratively ) To have an effect upon, especially a negative one."
+    ]
+  }
+]

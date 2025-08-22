@@ -1,0 +1,77 @@
+[
+  {
+    "word": "directory",
+    "lemma": "directory",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹɛktəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "directories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A list of names , addresses etc, of specific classes of people or organizations , often in alphabetical order or in some classification .",
+        "examples": [
+          "look up an address in the directory"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A structured listing of the names and characteristics of the files on a storage device .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A virtual container in a computer 's file system , in which files and other directories may be stored . The files and subdirectories in a directory are usually related .",
+        "examples": [],
+        "synonyms": [
+          "folder"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A form of government with a collegial executive whose members jointly exercise power ; the executive of such a government.",
+        "examples": [],
+        "synonyms": [
+          "directorate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "politics"
+        ],
+        "label_groups": "politics"
+      }
+    ],
+    "main_definition": "A list of names , addresses etc, of specific classes of people or organizations , often in alphabetical order or in some classification .",
+    "secondary_definitions": [
+      "( computing ) A structured listing of the names and characteristics of the files on a storage device .",
+      "( computing ) A virtual container in a computer 's file system , in which files and other directories may be stored . The files and subdirectories in a directory are usually related .",
+      "( politics ) A form of government with a collegial executive whose members jointly exercise power ; the executive of such a government."
+    ]
+  }
+]

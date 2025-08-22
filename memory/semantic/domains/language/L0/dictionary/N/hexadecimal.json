@@ -1,0 +1,52 @@
+[
+  {
+    "word": "hexadecimal",
+    "lemma": "hexadecimal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌhɛksəˈdɛsɪməl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hexadecimals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A number system with base sixteen , using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F, most used in computing as a hexadecimal digit can represent four bits , half a standard byte , and thus a single byte can be represented conveniently with two digits.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "computing",
+          "uncountable"
+        ],
+        "label_groups": "arithmetic , computing , uncountable"
+      },
+      {
+        "definition": "A number expressed in the hexadecimal system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing"
+        ],
+        "label_groups": "countable , computing"
+      }
+    ],
+    "main_definition": "( arithmetic , computing , uncountable ) A number system with base sixteen , using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F, most used in computing as a hexadecimal digit can represent four bits , half a standard byte , and thus a single byte can be represented conveniently with two digits.",
+    "secondary_definitions": [
+      "( countable , computing ) A number expressed in the hexadecimal system."
+    ]
+  }
+]

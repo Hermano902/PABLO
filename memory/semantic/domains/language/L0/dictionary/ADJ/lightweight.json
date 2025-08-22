@@ -1,0 +1,63 @@
+[
+  {
+    "word": "lightweight",
+    "lemma": "lightweight",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlaɪt.weɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "lighterweight",
+          "SUP": "lightestweight"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking in earnestness , ability , or profundity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having less than average weight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Lacking in strength .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a small footprint or performance impact .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Lacking in earnestness , ability , or profundity .",
+    "secondary_definitions": [
+      "Having less than average weight .",
+      "Lacking in strength .",
+      "( computing ) Having a small footprint or performance impact ."
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "word": "describe",
+    "lemma": "describe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈskɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "describes",
+          "PT": "described",
+          "PAP": "described",
+          "PRP": "describing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To represent in words.",
+        "examples": [
+          "The feeling is difficult to describe , but not unpleasant.",
+          "The geographer describes countries and cities.",
+          "Several witnesses describe seeing lights in the sky that night."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To represent by drawing; to draw a plan of; to delineate; to trace or mark out.",
+        "examples": [
+          "to describe a circle by the compasses;   a torch waved about the head in such a way as to describe a circle"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give rise to a geometrical structure.",
+        "examples": [
+          "The function describes a very complex surface."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To introduce a new taxon to science by explaining its characteristics and particularly how it differs from other taxa .",
+        "examples": [
+          "The fungus was first described by a botanist."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "taxonomy"
+        ],
+        "label_groups": "transitive , taxonomy"
+      },
+      {
+        "definition": "To distribute into parts, groups, or classes; to mark off; to class.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To represent in words.",
+    "secondary_definitions": [
+      "( transitive ) To represent by drawing; to draw a plan of; to delineate; to trace or mark out.",
+      "( transitive , mathematics ) To give rise to a geometrical structure.",
+      "( transitive , taxonomy ) To introduce a new taxon to science by explaining its characteristics and particularly how it differs from other taxa .",
+      "( obsolete ) To distribute into parts, groups, or classes; to mark off; to class."
+    ]
+  }
+]

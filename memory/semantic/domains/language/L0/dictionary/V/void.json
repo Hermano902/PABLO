@@ -1,0 +1,102 @@
+[
+  {
+    "word": "void",
+    "lemma": "void",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/vɔɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "voids",
+          "PT": "voided",
+          "PAP": "voided",
+          "PRP": "voiding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make invalid or worthless.",
+        "examples": [
+          "He voided the check and returned it.",
+          "Opening this subassembly will void the warranty; there are no user-serviceable parts inside it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Synonym of empty ( verb ) .",
+        "examples": [
+          "void one’s bladder",
+          "void one’s bowels"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      },
+      {
+        "definition": "To throw or send out; to evacuate; to emit; to discharge.",
+        "examples": [
+          "to void excrement"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To withdraw , depart .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To remove the contents of; to make or leave vacant or empty; to quit; to leave.",
+        "examples": [
+          "to void a table"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To make invalid or worthless.",
+    "secondary_definitions": [
+      "( transitive , medicine ) Synonym of empty ( verb ) .",
+      "To throw or send out; to evacuate; to emit; to discharge.",
+      "( intransitive , obsolete ) To withdraw , depart .",
+      "( transitive , obsolete ) To remove the contents of; to make or leave vacant or empty; to quit; to leave."
+    ]
+  }
+]

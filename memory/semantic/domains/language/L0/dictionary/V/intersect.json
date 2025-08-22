@@ -1,0 +1,57 @@
+[
+  {
+    "word": "intersect",
+    "lemma": "intersect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪntəˈsɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "intersects",
+          "PT": "intersected",
+          "PAP": "intersected",
+          "PRP": "intersecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut into or between; to cut or cross mutually; to divide into parts.",
+        "examples": [
+          "Parallel lines don't intersect .",
+          "Any two diameters of a circle intersect each other at the centre."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "Of two sets , to have at least one element in common .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To cut into or between; to cut or cross mutually; to divide into parts.",
+    "secondary_definitions": [
+      "( mathematics ) Of two sets , to have at least one element in common ."
+    ]
+  }
+]

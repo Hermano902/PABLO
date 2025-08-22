@@ -1,0 +1,125 @@
+[
+  {
+    "word": "generator",
+    "lemma": "generator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʒɛnəɹeɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "generators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, generates , begets , causes , or produces .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An apparatus in which vapour or gas is formed from a liquid or solid by means of heat or chemical process , as a steam boiler, gas retort etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry"
+            ],
+            "label_groups": "chemistry"
+          },
+          {
+            "definition": "The principal sound or sounds by which others are produced; the fundamental note or root of the common chord ; -- see also generating tone .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music"
+          },
+          {
+            "definition": "An interval that is repeatedly stacked to obtain other pitches in tuning systems or scales .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music"
+          },
+          {
+            "definition": "An element of a group that is used in the presentation of the group: one of the elements from which the others can be inferred with the given relators .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          },
+          {
+            "definition": "One of the lines of a ruled surface; more generally, an element of some family of linear spaces.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          },
+          {
+            "definition": "A subordinate piece of code which, given some initial parameters , will generate multiple output values on request.",
+            "examples": [],
+            "synonyms": [
+              "semicoroutine"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A piece of apparatus , equipment , etc, to convert or change energy from one form to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Especially, a machine that converts mechanical energy into electrical energy.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "One who, or that which, generates , begets , causes , or produces .",
+    "secondary_definitions": [
+      "A piece of apparatus , equipment , etc, to convert or change energy from one form to another."
+    ]
+  }
+]

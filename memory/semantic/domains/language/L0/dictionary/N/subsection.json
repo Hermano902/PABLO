@@ -1,0 +1,73 @@
+[
+  {
+    "word": "subsection",
+    "lemma": "subsection",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subsections"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A defined part of a section .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A subpart of a legal document such as law.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "An informal taxonomic category below section and above family .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy",
+          "zoology"
+        ],
+        "label_groups": "taxonomy , zoology"
+      },
+      {
+        "definition": "A taxonomic rank below section and above species.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy",
+          "botany"
+        ],
+        "label_groups": "taxonomy , botany"
+      }
+    ],
+    "main_definition": "A defined part of a section .",
+    "secondary_definitions": [
+      "( law ) A subpart of a legal document such as law.",
+      "( taxonomy , zoology ) An informal taxonomic category below section and above family .",
+      "( taxonomy , botany ) A taxonomic rank below section and above species."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "bilge",
+    "lemma": "bilge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪld͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bilges",
+          "PT": "bilged",
+          "PAP": "bilged",
+          "PRP": "bilging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To spring a leak in the bilge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "intransitive"
+        ],
+        "label_groups": "nautical , intransitive"
+      },
+      {
+        "definition": "To bulge or swell .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To break open the bilge(s) of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "transitive"
+        ],
+        "label_groups": "nautical , transitive"
+      }
+    ],
+    "main_definition": "( nautical , intransitive ) To spring a leak in the bilge.",
+    "secondary_definitions": [
+      "( intransitive ) To bulge or swell .",
+      "( nautical , transitive ) To break open the bilge(s) of."
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "word": "sadden",
+    "lemma": "sadden",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsædən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "saddens",
+          "PT": "saddened",
+          "PAP": "saddened",
+          "PRP": "saddening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make sad or unhappy .",
+        "examples": [
+          "It saddens me to think that I might have hurt someone."
+        ],
+        "synonyms": [
+          "deject",
+          "depress"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become sad or unhappy .",
+        "examples": [],
+        "synonyms": [
+          "get a sad on",
+          "unhappy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "To darken a color during dyeing.",
+        "examples": [],
+        "synonyms": [
+          "shade",
+          "tinge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "rare"
+        ],
+        "label_groups": "transitive , rare"
+      },
+      {
+        "definition": "To render heavy or cohesive.",
+        "examples": [],
+        "synonyms": [
+          "deepen",
+          "thicken"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make sad or unhappy .",
+    "secondary_definitions": [
+      "( intransitive , rare ) To become sad or unhappy .",
+      "( transitive , rare ) To darken a color during dyeing.",
+      "( transitive ) To render heavy or cohesive."
+    ]
+  }
+]

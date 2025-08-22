@@ -1,0 +1,55 @@
+{
+  "word": "nay",
+  "pos_order": [
+    "ADV",
+    "INTJ",
+    "N",
+    "V",
+    "ADJ"
+  ],
+  "pos": {
+    "ADV": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\nay.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\nay.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nay.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nay.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\nay.json"
+  },
+  "timestamp": "2025-08-19T09:56:11.852123Z"
+}

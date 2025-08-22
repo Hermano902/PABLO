@@ -1,0 +1,46 @@
+[
+  {
+    "word": "hygienic",
+    "lemma": "hygienic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/haɪˈd͡ʒiːnɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more hygienic",
+          "SUP": "most hygienic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pertaining to hygiene ; clean, sanitary , free of disease .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Whose expansion is guaranteed not to cause the accidental capture of identifiers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming slang",
+          "of a macro"
+        ],
+        "label_groups": "programming slang , of a macro"
+      }
+    ],
+    "main_definition": "Pertaining to hygiene ; clean, sanitary , free of disease .",
+    "secondary_definitions": [
+      "( programming slang , of a macro ) Whose expansion is guaranteed not to cause the accidental capture of identifiers ."
+    ]
+  }
+]

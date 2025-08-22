@@ -1,0 +1,73 @@
+[
+  {
+    "word": "chair",
+    "lemma": "chair",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛə(ɹ)",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "chairs",
+          "PT": "chaired",
+          "PAP": "chaired",
+          "PRP": "chairing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act as chairperson at; to preside over.",
+        "examples": [
+          "Bob will chair tomorrow's meeting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry in a seated position upon one's shoulders , especially in celebration or victory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To award a chair to (a winning poet ) at a Welsh eisteddfod .",
+        "examples": [
+          "The poet was chaired at the national Eisteddfod."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Wales",
+          "UK"
+        ],
+        "label_groups": "transitive , Wales , UK"
+      }
+    ],
+    "main_definition": "( transitive ) To act as chairperson at; to preside over.",
+    "secondary_definitions": [
+      "( transitive ) To carry in a seated position upon one's shoulders , especially in celebration or victory .",
+      "( transitive , Wales , UK ) To award a chair to (a winning poet ) at a Welsh eisteddfod ."
+    ]
+  }
+]

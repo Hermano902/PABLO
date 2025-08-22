@@ -1,0 +1,31 @@
+[
+  {
+    "word": "xor",
+    "lemma": "xor",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɛksˈo(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "xors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The logic function exclusive OR (as opposed to inclusive OR ), whose output is true only when exactly one of its inputs is true.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The logic function exclusive OR (as opposed to inclusive OR ), whose output is true only when exactly one of its inputs is true.",
+    "secondary_definitions": []
+  }
+]

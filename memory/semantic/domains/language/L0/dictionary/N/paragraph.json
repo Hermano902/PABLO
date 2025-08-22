@@ -1,0 +1,69 @@
+[
+  {
+    "word": "paragraph",
+    "lemma": "paragraph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpæɹəɡɹɑːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "paragraphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A passage in text that starts on a new line, the first line sometimes being indented, and usually marks a change of topic.",
+        "examples": [
+          "Divide the writing into paragraphs ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mark or note set in the margin to call attention to something in the text , such as a change of subject.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "originally"
+        ],
+        "label_groups": "originally"
+      },
+      {
+        "definition": "A brief article, notice, or announcement, as in a newspaper.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An offset of 16 bytes in Intel memory architectures .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A passage in text that starts on a new line, the first line sometimes being indented, and usually marks a change of topic.",
+    "secondary_definitions": [
+      "( originally ) A mark or note set in the margin to call attention to something in the text , such as a change of subject.",
+      "A brief article, notice, or announcement, as in a newspaper.",
+      "( computing ) An offset of 16 bytes in Intel memory architectures ."
+    ]
+  }
+]

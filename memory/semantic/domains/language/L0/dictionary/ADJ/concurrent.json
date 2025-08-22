@@ -1,0 +1,97 @@
+[
+  {
+    "word": "concurrent",
+    "lemma": "concurrent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kəŋˈkʌɹənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more concurrent",
+          "SUP": "most concurrent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Happening at the same time ; simultaneous .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Belonging to the same period ; contemporary .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Acting in conjunction; agreeing in the same act or opinion; contributing to the same event or effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Joint and equal in authority; taking cognizance of similar questions; operating on the same objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Meeting in one point .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Running alongside one another on parallel courses; moving together in space.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Designed to run independently, rather than sequentially, using various mechanisms, such as threads , event loops or time-slicing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "sequential"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of code"
+        ],
+        "label_groups": "computing , of code"
+      }
+    ],
+    "main_definition": "Happening at the same time ; simultaneous .",
+    "secondary_definitions": [
+      "Belonging to the same period ; contemporary .",
+      "Acting in conjunction; agreeing in the same act or opinion; contributing to the same event or effect.",
+      "Joint and equal in authority; taking cognizance of similar questions; operating on the same objects.",
+      "( geometry ) Meeting in one point .",
+      "Running alongside one another on parallel courses; moving together in space.",
+      "( computing , of code ) Designed to run independently, rather than sequentially, using various mechanisms, such as threads , event loops or time-slicing ."
+    ]
+  }
+]

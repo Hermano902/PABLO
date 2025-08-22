@@ -1,0 +1,54 @@
+[
+  {
+    "word": "wrapping",
+    "lemma": "wrapping",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹæp.ɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wrappings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The material in which something is wrapped .",
+        "examples": [],
+        "synonyms": [
+          "casing",
+          "packaging"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The breaking of a section of text into lines so that it will fit into the available width of a display area.",
+        "examples": [],
+        "synonyms": [
+          "line breaking",
+          "line wrapping",
+          "text wrapping",
+          "word wrapping"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "writing"
+        ],
+        "label_groups": "computing , writing"
+      }
+    ],
+    "main_definition": "The material in which something is wrapped .",
+    "secondary_definitions": [
+      "( computing , writing ) The breaking of a section of text into lines so that it will fit into the available width of a display area."
+    ]
+  }
+]

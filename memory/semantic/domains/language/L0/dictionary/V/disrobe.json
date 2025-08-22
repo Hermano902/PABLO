@@ -1,0 +1,67 @@
+[
+  {
+    "word": "disrobe",
+    "lemma": "disrobe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈɹəʊb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disrobes",
+          "PT": "disrobed",
+          "PAP": "disrobed",
+          "PRP": "disrobing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To undress someone or something.",
+        "examples": [],
+        "synonyms": [
+          "dismantle",
+          "divest",
+          "strip",
+          "unclothe",
+          "uncover",
+          "undress"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To undress oneself.",
+        "examples": [
+          "The doctor asked the patient to disrobe before her examination."
+        ],
+        "synonyms": [
+          "strip",
+          "get",
+          "undressed"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To undress someone or something.",
+    "secondary_definitions": [
+      "( intransitive ) To undress oneself."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "open",
+  "pos_order": [
+    "ADJ",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 43,
+      "examples": 36,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 28,
+      "examples": 40,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\open.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\open.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\open.json"
+  },
+  "timestamp": "2025-08-19T10:39:36.590468Z"
+}

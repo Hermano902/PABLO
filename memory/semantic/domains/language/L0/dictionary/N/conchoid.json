@@ -1,0 +1,50 @@
+[
+  {
+    "word": "conchoid",
+    "lemma": "conchoid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "conchoids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of a family of curves defined as the locus of points p , such that each p is on a line that passes through a given fixed point P and intersects a given curve, C , and the distance from p to the point of intersection with C is a specified constant (note that for nontrivial cases two such points p satisfy the criteria, and the resultant curve has two parts).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "geometry"
+        ],
+        "label_groups": "mathematics , geometry"
+      },
+      {
+        "definition": "A conchoidal fracture in rock.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      }
+    ],
+    "main_definition": "( mathematics , geometry ) Any of a family of curves defined as the locus of points p , such that each p is on a line that passes through a given fixed point P and intersects a given curve, C , and the distance from p to the point of intersection with C is a specified constant (note that for nontrivial cases two such points p satisfy the criteria, and the resultant curve has two parts).",
+    "secondary_definitions": [
+      "( geology ) A conchoidal fracture in rock."
+    ]
+  }
+]

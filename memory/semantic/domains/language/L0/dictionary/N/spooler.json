@@ -1,0 +1,51 @@
+[
+  {
+    "word": "spooler",
+    "lemma": "spooler",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spoolers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device for winding thread onto a spool .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "textiles"
+        ],
+        "label_groups": "textiles"
+      },
+      {
+        "definition": "A program or process that spools (places data in a queue to be accessed later)",
+        "examples": [
+          "The print spooler sends each page to the printer when it is ready for it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( textiles ) A device for winding thread onto a spool .",
+    "secondary_definitions": [
+      "( computing ) A program or process that spools (places data in a queue to be accessed later)"
+    ]
+  }
+]

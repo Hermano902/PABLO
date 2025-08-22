@@ -1,0 +1,72 @@
+[
+  {
+    "word": "ingest",
+    "lemma": "ingest",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈd͡ʒɛst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ingests",
+          "PT": "ingested",
+          "PAP": "ingested",
+          "PRP": "ingesting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take (a substance , e.g., food ) into the body of an organism , especially through the mouth and into the gastrointestinal tract.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (an undesired object or fluid ) to enter the engine, generally via the intake .",
+        "examples": [
+          "The plane's engine ingested a large bird and flamed out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation",
+          "transitive",
+          "by extension",
+          "of a jet engine"
+        ],
+        "label_groups": "aviation , transitive , by extension , of a jet engine"
+      },
+      {
+        "definition": "To bring or import into a system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To take (a substance , e.g., food ) into the body of an organism , especially through the mouth and into the gastrointestinal tract.",
+    "secondary_definitions": [
+      "( aviation , transitive , by extension , of a jet engine ) To cause (an undesired object or fluid ) to enter the engine, generally via the intake .",
+      "( transitive ) To bring or import into a system ."
+    ]
+  }
+]

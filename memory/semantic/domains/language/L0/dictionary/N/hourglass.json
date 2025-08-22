@@ -1,0 +1,53 @@
+[
+  {
+    "word": "hourglass",
+    "lemma": "hourglass",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaʊəɡlɑːs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hourglasses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A clock made of two glass vessels connected by a narrow passage through which sand flows.",
+        "examples": [
+          "After each game turn, invert the hourglass to reset the time limit for the next player."
+        ],
+        "synonyms": [
+          "sandglass",
+          "sand timer",
+          "watch glass"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cursor , often shaped like an hourglass, indicating that the computer is busy.",
+        "examples": [],
+        "synonyms": [
+          "egg timer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      }
+    ],
+    "main_definition": "A clock made of two glass vessels connected by a narrow passage through which sand flows.",
+    "secondary_definitions": [
+      "( graphical user interface ) A cursor , often shaped like an hourglass, indicating that the computer is busy."
+    ]
+  }
+]

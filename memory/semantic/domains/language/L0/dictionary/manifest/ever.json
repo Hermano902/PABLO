@@ -1,0 +1,37 @@
+{
+  "word": "ever",
+  "pos_order": [
+    "ADV",
+    "ADJ",
+    "DET"
+  ],
+  "pos": {
+    "ADV": {
+      "definitions": 5,
+      "examples": 10,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "DET": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\ever.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\ever.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\ever.json"
+  },
+  "timestamp": "2025-08-19T03:13:15.302857Z"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "maximal",
+    "lemma": "maximal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæksɪməl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "maximals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The element of a set with the greatest magnitude .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Said of an ideal of a ring or a filter of a lattice : that it is as large as it can be without being trivial (improper).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Said of a set of well-formed formulas : that it is as large as it can be without being inconsistent ; i.e. that for any well-formed formula φ , the set contains either φ or ~ φ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( mathematics ) The element of a set with the greatest magnitude .",
+    "secondary_definitions": [
+      "( mathematics ) Said of an ideal of a ring or a filter of a lattice : that it is as large as it can be without being trivial (improper).",
+      "( logic ) Said of a set of well-formed formulas : that it is as large as it can be without being inconsistent ; i.e. that for any well-formed formula φ , the set contains either φ or ~ φ ."
+    ]
+  }
+]

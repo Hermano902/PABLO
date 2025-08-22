@@ -1,0 +1,51 @@
+[
+  {
+    "word": "megabyte",
+    "lemma": "megabyte",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛɡəˌbaɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "megabytes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One million (10 , or 1,000,000) bytes or 1,000 kilobytes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "formal"
+        ],
+        "label_groups": "computing , formal"
+      },
+      {
+        "definition": "A mebibyte .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      }
+    ],
+    "main_definition": "( computing , formal ) One million (10 , or 1,000,000) bytes or 1,000 kilobytes .",
+    "secondary_definitions": [
+      "( computing , informal ) A mebibyte ."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "morphism",
+    "lemma": "morphism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɔːfɪzəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "morphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An arrow in a category ; ( less formally ) an abstraction that generalises a map from one mathematical object to another and is structure-preserving in a way that depends on the branch of mathematics from which it arises.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory",
+          "formally"
+        ],
+        "label_groups": [
+          "mathematics , category theory",
+          "formally"
+        ]
+      },
+      {
+        "definition": "Being or having distinct variants of a plant or animal species in the same locale; polymorphism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "( mathematics , category theory ) ( formally ) An arrow in a category ; ( less formally ) an abstraction that generalises a map from one mathematical object to another and is structure-preserving in a way that depends on the branch of mathematics from which it arises.",
+    "secondary_definitions": [
+      "( biology ) Being or having distinct variants of a plant or animal species in the same locale; polymorphism ."
+    ]
+  }
+]

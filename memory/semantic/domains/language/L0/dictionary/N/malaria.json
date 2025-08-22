@@ -1,0 +1,54 @@
+[
+  {
+    "word": "malaria",
+    "lemma": "malaria",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/məˈlɛəɹi.ə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "malarias"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A disease spread by mosquito , in which a protozoan , Plasmodium , multiplies in blood every few days.",
+        "examples": [],
+        "synonyms": [
+          "ague",
+          "paludism"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pathology"
+        ],
+        "label_groups": "pathology"
+      },
+      {
+        "definition": "Supposed poisonous air arising from marshy districts, once thought to cause fever .",
+        "examples": [],
+        "synonyms": [
+          "miasma"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( pathology ) A disease spread by mosquito , in which a protozoan , Plasmodium , multiplies in blood every few days.",
+    "secondary_definitions": [
+      "( archaic ) Supposed poisonous air arising from marshy districts, once thought to cause fever ."
+    ]
+  }
+]

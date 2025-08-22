@@ -1,0 +1,61 @@
+[
+  {
+    "word": "censor",
+    "lemma": "censor",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛnsə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "censors",
+          "PT": "censored",
+          "PAP": "censored",
+          "PRP": "censoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To review for, and if necessary to remove or suppress , content from books , films , correspondence , and other media which is regarded as objectionable (for example, obscene , likely to incite violence , or sensitive ).",
+        "examples": [
+          "The people responsible for censoring films have seen some startling things in their time.",
+          "Occupying powers typically censor anything reeking of resistance"
+        ],
+        "synonyms": [
+          "bowdlerize",
+          "expurgate",
+          "expunge",
+          "redact"
+        ],
+        "antonyms": [
+          "decensor"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To partially obscure an observation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "chiefly passive voice"
+        ],
+        "label_groups": "statistics , chiefly passive voice"
+      }
+    ],
+    "main_definition": "To review for, and if necessary to remove or suppress , content from books , films , correspondence , and other media which is regarded as objectionable (for example, obscene , likely to incite violence , or sensitive ).",
+    "secondary_definitions": [
+      "( statistics , chiefly passive voice ) To partially obscure an observation ."
+    ]
+  }
+]

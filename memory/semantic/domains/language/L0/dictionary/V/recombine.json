@@ -1,0 +1,56 @@
+[
+  {
+    "word": "recombine",
+    "lemma": "recombine",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "recombines",
+          "PT": "recombined",
+          "PAP": "recombined",
+          "PRP": "recombining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To combine again, especially to reassemble the parts of something previously taken apart in a different manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "ambitransitive"
+        ],
+        "label_groups": "genetics , ambitransitive"
+      },
+      {
+        "definition": "To undergo recombination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "intransitive"
+        ],
+        "label_groups": "genetics , intransitive"
+      }
+    ],
+    "main_definition": "( genetics , ambitransitive ) To combine again, especially to reassemble the parts of something previously taken apart in a different manner.",
+    "secondary_definitions": [
+      "( genetics , intransitive ) To undergo recombination ."
+    ]
+  }
+]

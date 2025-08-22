@@ -1,0 +1,31 @@
+{
+  "word": "marian",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "N:2",
+    "ADJ:2",
+    "ADJ:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 6
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\marian.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\marian.json"
+  },
+  "timestamp": "2025-08-19T08:34:15.930081Z"
+}

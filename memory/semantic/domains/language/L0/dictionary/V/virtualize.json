@@ -1,0 +1,70 @@
+[
+  {
+    "word": "virtualize",
+    "lemma": "virtualize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɜː(ɹ)tjuəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "virtualizes",
+          "PT": "virtualized",
+          "PAP": "virtualized",
+          "PRP": "virtualizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To run a program in virtual storage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To simulate (or make virtual ) some effect or condition on a computer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To make or conform to a virtual reality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "art"
+        ],
+        "label_groups": "transitive , art"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To run a program in virtual storage .",
+    "secondary_definitions": [
+      "( transitive , computing ) To simulate (or make virtual ) some effect or condition on a computer .",
+      "( transitive , art ) To make or conform to a virtual reality."
+    ]
+  }
+]

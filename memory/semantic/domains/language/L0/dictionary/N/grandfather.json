@@ -1,0 +1,65 @@
+[
+  {
+    "word": "grandfather",
+    "lemma": "grandfather",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɹæn(d)ˌfɑːðə(r)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "grandfathers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A father of someone's parent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "grandmother",
+          "grandson"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "A male forefather .",
+        "examples": [],
+        "synonyms": [
+          "highfather",
+          "grandsire"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "The archived older version of a file that immediately preceded the father file.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A father of someone's parent . [from 15th c.]",
+    "secondary_definitions": [
+      "( by extension ) A male forefather .",
+      "( computing ) The archived older version of a file that immediately preceded the father file."
+    ]
+  }
+]

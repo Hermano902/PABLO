@@ -1,0 +1,71 @@
+[
+  {
+    "word": "velocity",
+    "lemma": "velocity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vəˈlɒsəti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "velocities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A vector quantity that denotes the rate of change of position with respect to time, combining speed with a directional component.",
+        "examples": [
+          "A car racing in a circle may retain the same speed while continually changing its velocity ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Rapidity of motion.",
+        "examples": [
+          "The train was travelling at a slower velocity than usual."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The rate of occurrence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The number of times that an average unit of currency is spent during a specific period of time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      }
+    ],
+    "main_definition": "( physics ) A vector quantity that denotes the rate of change of position with respect to time, combining speed with a directional component.",
+    "secondary_definitions": [
+      "Rapidity of motion.",
+      "The rate of occurrence.",
+      "( economics ) The number of times that an average unit of currency is spent during a specific period of time."
+    ]
+  }
+]

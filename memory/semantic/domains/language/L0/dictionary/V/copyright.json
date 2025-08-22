@@ -1,0 +1,59 @@
+[
+  {
+    "word": "copyright",
+    "lemma": "copyright",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɑpiˌɹaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "copyrights",
+          "PT": "copyrighted",
+          "PAP": "copyrighted",
+          "PRP": "copyrighting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To obtain or secure a copyright for some literary or other artistic work.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To flag for copyright violation, to copystrike .",
+        "examples": [
+          "I won’t play this track, I don’t wanna get copyrighted ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , informal , nonstandard"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To obtain or secure a copyright for some literary or other artistic work.",
+    "secondary_definitions": [
+      "( transitive , informal , nonstandard ) To flag for copyright violation, to copystrike ."
+    ]
+  }
+]

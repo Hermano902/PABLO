@@ -1,0 +1,48 @@
+[
+  {
+    "word": "distributed",
+    "lemma": "distributed",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈtɹɪbjutɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more distributed",
+          "SUP": "most distributed"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Spread across a relatively wide area.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Involving numerous separate computers or entities, rather than the traditional one.",
+        "examples": [
+          "distributed computing",
+          "distributed ray tracing"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Spread across a relatively wide area.",
+    "secondary_definitions": [
+      "( computing ) Involving numerous separate computers or entities, rather than the traditional one."
+    ]
+  }
+]

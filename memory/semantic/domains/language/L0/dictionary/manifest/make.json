@@ -1,0 +1,31 @@
+{
+  "word": "make",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 42,
+      "examples": 50,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 17,
+      "examples": 4,
+      "synonyms": 9,
+      "antonyms": 1,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\make.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\make.json"
+  },
+  "timestamp": "2025-08-19T08:23:50.803227Z"
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "caller",
+    "lemma": "caller",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɔːlə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "callers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The person who makes a telephone call .",
+        "examples": [
+          "―I’ve got someone on the line. ―Who’s the caller ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telephony"
+        ],
+        "label_groups": "telephony"
+      },
+      {
+        "definition": "A visitor .",
+        "examples": [
+          "a gentleman caller"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The person who stands at the front of the hall and announces the numbers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bingo"
+        ],
+        "label_groups": "bingo"
+      },
+      {
+        "definition": "A function that calls another (the callee ).",
+        "examples": [
+          "If the called function throws an exception , the caller should be prepared to handle the error."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A whistle or similar item used to call foxes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The person who directs dancers in certain dances , such as American line dances and square dances .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dance"
+        ],
+        "label_groups": "dance"
+      }
+    ],
+    "main_definition": "( telephony ) The person who makes a telephone call .",
+    "secondary_definitions": [
+      "A visitor .",
+      "( bingo ) The person who stands at the front of the hall and announces the numbers.",
+      "( programming ) A function that calls another (the callee ).",
+      "A whistle or similar item used to call foxes .",
+      "( dance ) The person who directs dancers in certain dances , such as American line dances and square dances ."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "group",
+    "lemma": "group",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡɹuːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "groups",
+          "PT": "grouped",
+          "PAP": "grouped",
+          "PRP": "grouping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put together to form a group.",
+        "examples": [
+          "group the dogs by hair colour"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come together to form a group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To put together to form a group.",
+    "secondary_definitions": [
+      "( intransitive ) To come together to form a group."
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "word": "no",
+  "pos_order": [
+    "DET",
+    "ADV",
+    "PART",
+    "PREP",
+    "N",
+    "V",
+    "ADV:2",
+    "N:2"
+  ],
+  "pos": {
+    "DET": {
+      "definitions": 4,
+      "examples": 14,
+      "synonyms": 3,
+      "antonyms": 14,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 5,
+      "examples": 9,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PART": {
+      "definitions": 3,
+      "examples": 7,
+      "synonyms": 5,
+      "antonyms": 4,
+      "inflections": 0
+    },
+    "PREP": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\no.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\no.json",
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\no.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\no.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\no.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\no.json"
+  },
+  "timestamp": "2025-08-19T10:09:46.723467Z"
+}

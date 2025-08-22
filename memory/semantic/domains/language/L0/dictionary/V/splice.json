@@ -1,0 +1,100 @@
+[
+  {
+    "word": "splice",
+    "lemma": "splice",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/splaɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "splices",
+          "PT": "spliced",
+          "PAP": "spliced",
+          "PRP": "splicing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To unite , as two ropes , or parts of a rope, by a particular manner of interweaving the strands , the union being between two ends, or between an end and the body of a rope.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To unite, as spars , timbers , rails , etc., by lapping the two ends together, or by applying a piece which laps upon the two ends, and then binding , or in any way making fast.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To unite in marriage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "To unite as if splicing.",
+        "examples": [
+          "He argues against attempts to splice different genres or species of literature into a single composition."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "To remove intron sequences from the pre-messenger RNA, and then join together exons.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "To add, remove and/or replace several array/data elements in one operation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "To unite , as two ropes , or parts of a rope, by a particular manner of interweaving the strands , the union being between two ends, or between an end and the body of a rope.",
+    "secondary_definitions": [
+      "To unite, as spars , timbers , rails , etc., by lapping the two ends together, or by applying a piece which laps upon the two ends, and then binding , or in any way making fast.",
+      "( slang ) To unite in marriage .",
+      "( figuratively ) To unite as if splicing.",
+      "( genetics ) To remove intron sequences from the pre-messenger RNA, and then join together exons.",
+      "( software engineering ) To add, remove and/or replace several array/data elements in one operation."
+    ]
+  }
+]

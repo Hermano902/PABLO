@@ -1,0 +1,193 @@
+[
+  {
+    "word": "label",
+    "lemma": "label",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪbəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "labels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+        "examples": [
+          "We laughed at her because the label was still on her new sweater.",
+          "The label says this silk scarf should not be washed in the washing machine.",
+          "Although the label priced this poster at three pounds, I got it for two."
+        ],
+        "synonyms": [
+          "sign",
+          "tag",
+          "ticket"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A name given to something or someone to categorise them as part of a particular social group.",
+        "examples": [
+          "Ever since he started going to the rock club, he's been given the label \"waster\"."
+        ],
+        "synonyms": [
+          "category",
+          "pigeonhole"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A company that sells records .",
+        "examples": [
+          "The label signed the band after hearing a demo tape."
+        ],
+        "synonyms": [
+          "record label"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A user-defined alias for a numerical designation, the reverse of an enumeration .",
+        "examples": [
+          "Storage devices can be given by label or ID."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A named place in source code that can be jumped to using a GOTO or equivalent construct.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A charge resembling the strap crossing the horse’s chest from which pendants are hung.",
+        "examples": [],
+        "synonyms": [
+          "lambel"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "heraldry"
+        ],
+        "label_groups": "heraldry"
+      },
+      {
+        "definition": "A tassel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A small strip, especially of paper or parchment (or of some material attached to parchment to carry the seal ), but also of iron, brass, land, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A piece of writing added to something, such as a codicil appended to a will .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A brass rule with sights , formerly used with a circumferentor to take altitudes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "The projecting moulding by the sides, and over the tops, of openings in mediaeval architecture.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "In mediaeval and later art, a representation of a band or scroll containing an inscription.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A non-interactive control or widget displaying text , often used to describe the purpose of another control.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      }
+    ],
+    "main_definition": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+    "secondary_definitions": [
+      "A name given to something or someone to categorise them as part of a particular social group.",
+      "( music ) A company that sells records .",
+      "( computing ) A user-defined alias for a numerical designation, the reverse of an enumeration .",
+      "( computing ) A named place in source code that can be jumped to using a GOTO or equivalent construct.",
+      "( heraldry ) A charge resembling the strap crossing the horse’s chest from which pendants are hung.",
+      "( obsolete ) A tassel .",
+      "A small strip, especially of paper or parchment (or of some material attached to parchment to carry the seal ), but also of iron, brass, land, etc.",
+      "A piece of writing added to something, such as a codicil appended to a will .",
+      "( historical ) A brass rule with sights , formerly used with a circumferentor to take altitudes .",
+      "( architecture ) The projecting moulding by the sides, and over the tops, of openings in mediaeval architecture.",
+      "In mediaeval and later art, a representation of a band or scroll containing an inscription.",
+      "( graphical user interface ) A non-interactive control or widget displaying text , often used to describe the purpose of another control."
+    ]
+  }
+]

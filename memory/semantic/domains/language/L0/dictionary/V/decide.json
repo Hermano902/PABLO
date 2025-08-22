@@ -1,0 +1,104 @@
+[
+  {
+    "word": "decide",
+    "lemma": "decide",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈsaɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decides",
+          "PT": "decided",
+          "PAP": "decided",
+          "PRP": "deciding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To resolve (a contest , problem , dispute , etc.); to choose , determine , or settle .",
+        "examples": [
+          "The election will be decided on foreign policies.",
+          "It was decide d to meet here at midnight.",
+          "Her last-minute goal decided the game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make a judgment , especially after deliberation .",
+        "examples": [
+          "You must decide between good and evil.",
+          "I have decided that it is healthier to walk to work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause someone to come to a decision .",
+        "examples": [
+          "Your admonition decide d me against my intended course of action ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of a Turing machine : to return a correct answer (for some yes-or-no problem) on every possible input .",
+        "examples": [
+          "No Turing Machine can decide the halting problem ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "To cut off; to separate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To resolve (a contest , problem , dispute , etc.); to choose , determine , or settle .",
+    "secondary_definitions": [
+      "( intransitive ) To make a judgment , especially after deliberation .",
+      "( transitive ) To cause someone to come to a decision .",
+      "( computing theory ) Of a Turing machine : to return a correct answer (for some yes-or-no problem) on every possible input .",
+      "( obsolete ) To cut off; to separate."
+    ]
+  }
+]

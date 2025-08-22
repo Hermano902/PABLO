@@ -1,0 +1,55 @@
+[
+  {
+    "word": "extrapolate",
+    "lemma": "extrapolate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɛkˈstɹæp.əˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "extrapolates",
+          "PT": "extrapolated",
+          "PAP": "extrapolated",
+          "PRP": "extrapolating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To infer by extending known information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To estimate the value of a variable outside a known range from values within that range by assuming that the estimated value follows logically from the known ones",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To infer by extending known information .",
+    "secondary_definitions": [
+      "( transitive , mathematics ) To estimate the value of a variable outside a known range from values within that range by assuming that the estimated value follows logically from the known ones"
+    ]
+  }
+]

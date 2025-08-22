@@ -1,0 +1,49 @@
+[
+  {
+    "word": "interactive",
+    "lemma": "interactive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪn.təˈɹæk.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more interactive",
+          "SUP": "most interactive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Interacting with or communicating with and reacting to each other; influencing or having an effect on each other; acting or capable of acting on each other or with the other.",
+        "examples": [
+          "two interactive systems"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Offering or involving interaction with the user .",
+        "examples": [
+          "an interactive digital map with zoom and pan features"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "Interacting with or communicating with and reacting to each other; influencing or having an effect on each other; acting or capable of acting on each other or with the other.",
+    "secondary_definitions": [
+      "( computer science ) Offering or involving interaction with the user ."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "invoice",
+    "lemma": "invoice",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnˌvɔɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "invoices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A bill ; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The lot or set of goods as shipped or received.",
+        "examples": [
+          "The merchant receives a large invoice of goods."
+        ],
+        "synonyms": [
+          "shipment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The price which a seller or dealer pays the manufacturer for goods to be sold.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "generally of a vehicle"
+        ],
+        "label_groups": "generally of a vehicle"
+      }
+    ],
+    "main_definition": "A bill ; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+    "secondary_definitions": [
+      "The lot or set of goods as shipped or received.",
+      "( generally of a vehicle ) The price which a seller or dealer pays the manufacturer for goods to be sold."
+    ]
+  }
+]

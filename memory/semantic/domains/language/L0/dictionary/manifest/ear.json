@@ -1,0 +1,31 @@
+{
+  "word": "ear",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ear.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ear.json"
+  },
+  "timestamp": "2025-08-19T02:33:23.460144Z"
+}

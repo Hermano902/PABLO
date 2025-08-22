@@ -1,0 +1,62 @@
+[
+  {
+    "word": "firewall",
+    "lemma": "firewall",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪə.wɔəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "firewalls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A fireproof barrier used to prevent the spread of fire between or through buildings , structures, electrical substation transformers, or within an aircraft or vehicle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "The software that monitors traffic in and out of a private network or a personal computer and allows or blocks such traffic depending on its perceived threat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer security"
+        ],
+        "label_groups": "computer security"
+      },
+      {
+        "definition": "A hypothetical phenomenon where an observer falling into a black hole encounters high-energy quanta at or near the event horizon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( architecture ) A fireproof barrier used to prevent the spread of fire between or through buildings , structures, electrical substation transformers, or within an aircraft or vehicle.",
+    "secondary_definitions": [
+      "( computer security ) The software that monitors traffic in and out of a private network or a personal computer and allows or blocks such traffic depending on its perceived threat .",
+      "( physics ) A hypothetical phenomenon where an observer falling into a black hole encounters high-energy quanta at or near the event horizon ."
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "mangle",
+    "lemma": "mangle",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæŋ.ɡəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mangles",
+          "PT": "mangled",
+          "PAP": "mangled",
+          "PRP": "mangling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To change , mutilate , or disfigure by cutting , tearing , rearranging , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , computing ) To modify (an identifier from source code ) so as to produce a unique identifier for internal use by the compiler , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To change , mutilate , or disfigure by cutting , tearing , rearranging , etc.",
+    "secondary_definitions": [
+      "( transitive , computing ) To modify (an identifier from source code ) so as to produce a unique identifier for internal use by the compiler , etc."
+    ]
+  },
+  {
+    "word": "mangle",
+    "lemma": "mangle",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈmæŋ.ɡəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mangles",
+          "PT": "mangled",
+          "PAP": "mangled",
+          "PRP": "mangling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wring laundry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( transitive , archaic ) To wring laundry .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "word": "drink",
+  "pos_order": [
+    "V",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 10,
+      "examples": 6,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 10,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\drink.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\drink.json"
+  },
+  "timestamp": "2025-08-19T02:25:05.890118Z"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "cathode",
+    "lemma": "cathode",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæθ.oʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cathodes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An electrode , of a cell or other electrically polarized device, through which a positive current of electricity flows outwards (and thus, electrons flow inwards). It can have either a negative or a positive voltage with respect to anode of the same polarized device (depending on whether the device is a load or a source, respectively).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electricity"
+        ],
+        "label_groups": "electricity"
+      },
+      {
+        "definition": "The electrode at which chemical reduction of cations takes place, usually resulting in the deposition of metal onto the electrode.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "The electrode from which electrons are emitted into a vacuum tube or gas-filled tube .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "That electrode of a semiconductor device which is connected to the n-type material of a p-n junction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( electricity ) An electrode , of a cell or other electrically polarized device, through which a positive current of electricity flows outwards (and thus, electrons flow inwards). It can have either a negative or a positive voltage with respect to anode of the same polarized device (depending on whether the device is a load or a source, respectively).",
+    "secondary_definitions": [
+      "( by extension ) The electrode at which chemical reduction of cations takes place, usually resulting in the deposition of metal onto the electrode.",
+      "( electronics ) The electrode from which electrons are emitted into a vacuum tube or gas-filled tube .",
+      "( electronics ) That electrode of a semiconductor device which is connected to the n-type material of a p-n junction ."
+    ]
+  }
+]

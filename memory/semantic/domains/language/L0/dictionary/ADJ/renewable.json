@@ -1,0 +1,54 @@
+[
+  {
+    "word": "renewable",
+    "lemma": "renewable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more renewable",
+          "SUP": "most renewable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be renewed ; capable of renewal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "non-renewable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Sustainable ; able to be regrown or renewed ; having an ongoing or continuous source of supply.",
+        "examples": [
+          "renewable resource",
+          "renewable energy",
+          "renewable sources of energy",
+          "Solar and wind power are renewable , but coal is not."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "non-renewable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a resource"
+        ],
+        "label_groups": "of a resource"
+      }
+    ],
+    "main_definition": "Able to be renewed ; capable of renewal .",
+    "secondary_definitions": [
+      "( of a resource ) Sustainable ; able to be regrown or renewed ; having an ongoing or continuous source of supply."
+    ]
+  }
+]

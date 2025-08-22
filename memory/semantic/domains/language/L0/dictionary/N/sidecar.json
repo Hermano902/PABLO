@@ -1,0 +1,54 @@
+[
+  {
+    "word": "sidecar",
+    "lemma": "sidecar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪdkɑɹ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sidecars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A one-wheeled attachment to the side of a motorcycle to allow for a separate seat for a passenger or cargo space.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cocktail made with cognac (or brandy ), triple sec liqueur , and lemon juice.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A software component that runs in a separate process from the rest of the software, to provide isolation and encapsulation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A one-wheeled attachment to the side of a motorcycle to allow for a separate seat for a passenger or cargo space.",
+    "secondary_definitions": [
+      "A cocktail made with cognac (or brandy ), triple sec liqueur , and lemon juice.",
+      "( programming ) A software component that runs in a separate process from the rest of the software, to provide isolation and encapsulation ."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "snare",
+    "lemma": "snare",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/snɛ(ə)ɹ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "snares",
+          "PT": "snared",
+          "PAP": "snared",
+          "PRP": "snaring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To catch or hold, especially with a loop.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ensnare .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To catch or hold, especially with a loop.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To ensnare ."
+    ]
+  }
+]

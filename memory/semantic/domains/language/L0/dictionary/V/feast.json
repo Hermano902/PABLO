@@ -1,0 +1,85 @@
+[
+  {
+    "word": "feast",
+    "lemma": "feast",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fiːst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "feasts",
+          "PT": "feasted",
+          "PAP": "feasted",
+          "PRP": "feasting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To partake in a feast , or large meal.",
+        "examples": [
+          "I feasted on turkey and dumplings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To dwell upon (something) with delight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To hold a feast in honor of (someone).",
+        "examples": [
+          "We feasted them after the victory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To serve as a feast for; to feed sumptuously.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( intransitive ) To partake in a feast , or large meal.",
+    "secondary_definitions": [
+      "( intransitive ) To dwell upon (something) with delight .",
+      "( transitive ) To hold a feast in honor of (someone).",
+      "( transitive , obsolete ) To serve as a feast for; to feed sumptuously."
+    ]
+  }
+]

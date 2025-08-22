@@ -1,0 +1,38 @@
+[
+  {
+    "word": "nonprinting",
+    "lemma": "nonprinting",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not having a visual representation .",
+        "examples": [
+          "Some nonprinting characters are used to control formatting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a character"
+        ],
+        "label_groups": "computing , of a character"
+      }
+    ],
+    "main_definition": "( computing , of a character ) Not having a visual representation .",
+    "secondary_definitions": []
+  }
+]

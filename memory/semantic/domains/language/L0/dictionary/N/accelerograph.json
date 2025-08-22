@@ -1,0 +1,49 @@
+[
+  {
+    "word": "accelerograph",
+    "lemma": "accelerograph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "accelerographs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An apparatus for studying the combustion of powder in guns, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      },
+      {
+        "definition": "An instrument used to record the acceleration of the ground during an earthquake .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      }
+    ],
+    "main_definition": "( military ) An apparatus for studying the combustion of powder in guns, etc.",
+    "secondary_definitions": [
+      "( geology ) An instrument used to record the acceleration of the ground during an earthquake ."
+    ]
+  }
+]

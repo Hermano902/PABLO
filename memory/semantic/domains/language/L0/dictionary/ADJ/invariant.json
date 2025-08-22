@@ -1,0 +1,60 @@
+[
+  {
+    "word": "invariant",
+    "lemma": "invariant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more invariant",
+          "SUP": "most invariant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not varying ; constant .",
+        "examples": [],
+        "synonyms": [
+          "invariable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unaffected by a specified operation , especially by a transformation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Neither covariant nor contravariant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Not varying ; constant .",
+    "secondary_definitions": [
+      "( mathematics ) Unaffected by a specified operation , especially by a transformation .",
+      "( programming ) Neither covariant nor contravariant ."
+    ]
+  }
+]

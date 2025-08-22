@@ -1,0 +1,51 @@
+[
+  {
+    "word": "cutpoint",
+    "lemma": "cutpoint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cutpoints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A point of a connected space whose removal causes the resulting space to be disconnected .",
+        "examples": [
+          "Every point of a line is a cutpoint , but no point of a circle is a cutpoint."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "A cutoff point; a threshold value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "( topology ) A point of a connected space whose removal causes the resulting space to be disconnected .",
+    "secondary_definitions": [
+      "( medicine ) A cutoff point; a threshold value ."
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "disorder",
+    "lemma": "disorder",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈɔːdə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "disorders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Absence of order ; state of not being arranged in an orderly manner.",
+        "examples": [
+          "After playing the children left the room in disorder ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A disturbance of civic peace or of public order .",
+        "examples": [
+          "The class was thrown into disorder when the teacher left the room",
+          "The army tried to prevent disorder when claims the elections had been rigged grew stronger."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A physical or mental malfunction .",
+        "examples": [
+          "Bulimia is an eating disorder ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "countable"
+        ],
+        "label_groups": "medicine , countable"
+      }
+    ],
+    "main_definition": "Absence of order ; state of not being arranged in an orderly manner.",
+    "secondary_definitions": [
+      "A disturbance of civic peace or of public order .",
+      "( medicine , countable ) A physical or mental malfunction ."
+    ]
+  }
+]

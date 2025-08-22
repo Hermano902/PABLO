@@ -1,0 +1,74 @@
+[
+  {
+    "word": "interrupt",
+    "lemma": "interrupt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪntəˈɹʌpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interrupts",
+          "PT": "interrupted",
+          "PAP": "interrupted",
+          "PRP": "interrupting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To disturb or halt (an ongoing process or action , or the person performing it) by interfering suddenly , especially by speaking.",
+        "examples": [
+          "A maverick politician repeatedly interrupted the debate by shouting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To divide; to separate; to break the monotony of.",
+        "examples": [
+          "The evenness of the road was not interrupted by a single hill."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assert to (a computer ) that an exceptional condition must be handled.",
+        "examples": [
+          "The packet receiver circuit interrupted the microprocessor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To disturb or halt (an ongoing process or action , or the person performing it) by interfering suddenly , especially by speaking.",
+    "secondary_definitions": [
+      "( transitive ) To divide; to separate; to break the monotony of.",
+      "( transitive , computing ) To assert to (a computer ) that an exceptional condition must be handled."
+    ]
+  }
+]

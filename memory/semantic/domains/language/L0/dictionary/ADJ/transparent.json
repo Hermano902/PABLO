@@ -1,0 +1,102 @@
+[
+  {
+    "word": "transparent",
+    "lemma": "transparent",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/tɹæn(t)sˈpæɹənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more transparent",
+          "SUP": "most transparent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "See-through , clear ; having the property that light passes through it almost undisturbed, such that one can see through it clearly.",
+        "examples": [
+          "The waters of the lake were transparent until the factory dumped waste there."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a graphical image or animated GIF , having parts that allow the background to show through.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "graphic design"
+            ],
+            "label_groups": "graphic design"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "of a material or object"
+        ],
+        "label_groups": "of a material or object"
+      },
+      {
+        "definition": "Open , public ; having the property that theories and practices are publicly visible, thereby reducing the chance of corruption.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a system or organization"
+        ],
+        "label_groups": "of a system or organization"
+      },
+      {
+        "definition": "Obvious ; readily apparent ; easy to see or understand .",
+        "examples": [
+          "His reasons for the decision were transparent .",
+          "I love playing poker with Steve, because he's so transparent ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having the property of transparency , i.e. sufficiently accurate that the compressed result is perceptually indistinguishable from the uncompressed input .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing"
+        ],
+        "label_groups": "signal processing"
+      },
+      {
+        "definition": "Not noticeable because it happens automatically or in the background; invisible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( of a material or object ) See-through , clear ; having the property that light passes through it almost undisturbed, such that one can see through it clearly.",
+    "secondary_definitions": [
+      "( of a system or organization ) Open , public ; having the property that theories and practices are publicly visible, thereby reducing the chance of corruption.",
+      "Obvious ; readily apparent ; easy to see or understand .",
+      "( signal processing ) Having the property of transparency , i.e. sufficiently accurate that the compressed result is perceptually indistinguishable from the uncompressed input .",
+      "( computing ) Not noticeable because it happens automatically or in the background; invisible ."
+    ]
+  }
+]

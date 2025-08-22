@@ -1,0 +1,31 @@
+{
+  "word": "tap",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 16,
+      "examples": 10,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 22,
+      "examples": 15,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tap.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tap.json"
+  },
+  "timestamp": "2025-08-19T18:47:34.294831Z"
+}

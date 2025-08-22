@@ -1,0 +1,55 @@
+[
+  {
+    "word": "multitask",
+    "lemma": "multitask",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "multitasks",
+          "PT": "multitasked",
+          "PAP": "multitasked",
+          "PRP": "multitasking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To schedule and execute multiple tasks ( program ) simultaneously; control being passed from one to the other using interrupts.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To handle multiple tasks at once.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively",
+          "of a person"
+        ],
+        "label_groups": "figuratively , of a person"
+      }
+    ],
+    "main_definition": "( computing ) To schedule and execute multiple tasks ( program ) simultaneously; control being passed from one to the other using interrupts.",
+    "secondary_definitions": [
+      "( figuratively , of a person ) To handle multiple tasks at once."
+    ]
+  }
+]

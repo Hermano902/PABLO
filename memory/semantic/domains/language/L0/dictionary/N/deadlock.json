@@ -1,0 +1,56 @@
+[
+  {
+    "word": "deadlock",
+    "lemma": "deadlock",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛdlɒk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deadlocks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A standstill resulting from the opposition of two evenly matched forces ; a stalemate or impasse .",
+        "examples": [
+          "The negotiation ended in deadlock , with neither party willing to compromise on the price."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An inability to continue due to two programs or devices each requiring a response from the other before completing an operation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Synonym of deadbolt ( “ type of lock ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A standstill resulting from the opposition of two evenly matched forces ; a stalemate or impasse .",
+    "secondary_definitions": [
+      "( computing ) An inability to continue due to two programs or devices each requiring a response from the other before completing an operation .",
+      "Synonym of deadbolt ( “ type of lock ” ) ."
+    ]
+  }
+]

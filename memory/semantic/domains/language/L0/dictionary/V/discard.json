@@ -1,0 +1,79 @@
+[
+  {
+    "word": "discard",
+    "lemma": "discard",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈkɑːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "discards",
+          "PT": "discarded",
+          "PAP": "discarded",
+          "PRP": "discarding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To throw away , to reject .",
+        "examples": [],
+        "synonyms": [
+          "cast aside",
+          "cast away",
+          "dismiss",
+          "jettison",
+          "dispose of",
+          "eliminate",
+          "get rid of",
+          "throw aside",
+          "throw away",
+          "throw down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make a discard ; to throw out a card .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "card games"
+        ],
+        "label_groups": "intransitive , card games"
+      },
+      {
+        "definition": "To dismiss from employment , confidence , or favour ; to discharge .",
+        "examples": [],
+        "synonyms": [
+          "fire",
+          "let go",
+          "sack"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To throw away , to reject .",
+    "secondary_definitions": [
+      "( intransitive , card games ) To make a discard ; to throw out a card .",
+      "To dismiss from employment , confidence , or favour ; to discharge ."
+    ]
+  }
+]

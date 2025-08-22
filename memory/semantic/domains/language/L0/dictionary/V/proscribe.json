@@ -1,0 +1,75 @@
+[
+  {
+    "word": "proscribe",
+    "lemma": "proscribe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈskɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "proscribes",
+          "PT": "proscribed",
+          "PAP": "proscribed",
+          "PRP": "proscribing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To forbid or prohibit .",
+        "examples": [
+          "The law proscribes driving a car while intoxicated."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To denounce .",
+        "examples": [
+          "The word ‘ ain’t ’ is proscribed by many authorities."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "recommend"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To banish or exclude .",
+        "examples": [
+          "Many Roman citizens were proscribed for taking part in rebellions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To forbid or prohibit .",
+    "secondary_definitions": [
+      "( transitive ) To denounce .",
+      "( transitive ) To banish or exclude ."
+    ]
+  }
+]

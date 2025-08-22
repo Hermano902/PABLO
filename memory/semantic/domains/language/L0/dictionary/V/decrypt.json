@@ -1,0 +1,47 @@
+[
+  {
+    "word": "decrypt",
+    "lemma": "decrypt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkɹɪpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decrypts",
+          "PT": "decrypted",
+          "PAP": "decrypted",
+          "PRP": "decrypting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert (an encrypted or coded message) back into plain text.",
+        "examples": [],
+        "synonyms": [
+          "decipher",
+          "decode"
+        ],
+        "antonyms": [
+          "encipher",
+          "encode",
+          "encrypt"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To convert (an encrypted or coded message) back into plain text.",
+    "secondary_definitions": []
+  }
+]

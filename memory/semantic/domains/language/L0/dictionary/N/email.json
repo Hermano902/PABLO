@@ -1,0 +1,123 @@
+[
+  {
+    "word": "email",
+    "lemma": "email",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːmeɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "emails"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable ) A system for sending messages and datas by means of computers connected together in a network .",
+        "examples": [
+          "He sent me his details via email .",
+          "The advent of email has simultaneously brought our society closer together and farther apart.",
+          "Please stop sending me “constructive criticisms ” via email , or telling me that “ I feel you are being defensive ”, especially just after I have told you “you’re loved”. “Rewards” like that are horrible."
+        ],
+        "synonyms": [
+          "mail"
+        ],
+        "antonyms": [
+          "mail",
+          "post",
+          "snail mail"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( uncountable ) The quantity of messages sent through an email system.",
+        "examples": [
+          "I am searching through my old email .",
+          "My inbox used to allow only 50 MB of email at a time until last year, when they upgraded it to 2 GBs!"
+        ],
+        "synonyms": [
+          "mail"
+        ],
+        "antonyms": [
+          "mail",
+          "post",
+          "snail mail"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable ) A message being sent through email.",
+        "examples": [
+          "He sent me an email last week to remind me about the meeting.",
+          "I archive my old emails using a cloud-based service."
+        ],
+        "synonyms": [
+          "mail"
+        ],
+        "antonyms": [
+          "mailpiece"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable , informal ) An email address .",
+        "examples": [
+          "What’s your email ?",
+          "In this system, your username is your email .",
+          "Don’t send personal messages to my work email ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) A system for sending messages and datas by means of computers connected together in a network .",
+    "secondary_definitions": [
+      "( uncountable ) The quantity of messages sent through an email system.",
+      "( countable ) A message being sent through email.",
+      "( countable , informal ) An email address ."
+    ]
+  },
+  {
+    "word": "email",
+    "lemma": "email",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈiːmeɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "emails"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Enamel ( “ an opaque , glossy coating ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      }
+    ],
+    "main_definition": "( obsolete , rare ) Enamel ( “ an opaque , glossy coating ” ) .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "eclipse",
+    "lemma": "eclipse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈklɪps/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "eclipses",
+          "PT": "eclipsed",
+          "PAP": "eclipsed",
+          "PRP": "eclipsing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of astronomical or atmospheric bodies, to cause an eclipse.",
+        "examples": [
+          "The Moon eclipsed the Sun."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To overshadow ; to be better or more noticeable than.",
+        "examples": [],
+        "synonyms": [
+          "upstage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To undergo eclipsis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Irish grammar"
+        ],
+        "label_groups": "Irish grammar"
+      }
+    ],
+    "main_definition": "( transitive ) Of astronomical or atmospheric bodies, to cause an eclipse.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To overshadow ; to be better or more noticeable than.",
+      "( Irish grammar ) To undergo eclipsis ."
+    ]
+  }
+]

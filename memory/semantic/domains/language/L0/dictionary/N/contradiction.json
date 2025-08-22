@@ -1,0 +1,84 @@
+[
+  {
+    "word": "contradiction",
+    "lemma": "contradiction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkɒntɹəˈdɪkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "contradictions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of contradicting .",
+        "examples": [
+          "His contradiction of the proposal was very interesting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "A statement that contradicts itself, i.e., a statement that claims that the same thing is true and that it is false at the same time and in the same senses of the terms.",
+        "examples": [
+          "There is a contradiction in Clarence Page's statement that a woman should have the right to choose and decide for herself whether to have an abortion and at the same time she should not have that right.",
+          "There is a contradiction in what you say: she can't be both married and single."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A logical inconsistency among two or more elements or propositions.",
+        "examples": [
+          "Marx believed that the contradictions of capitalism would lead to socialism."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A proposition that is false for all values of its propositional variables or Boolean atoms .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "countable"
+        ],
+        "label_groups": "logic , countable"
+      }
+    ],
+    "main_definition": "( countable , uncountable ) The act of contradicting .",
+    "secondary_definitions": [
+      "( countable ) A statement that contradicts itself, i.e., a statement that claims that the same thing is true and that it is false at the same time and in the same senses of the terms.",
+      "( countable ) A logical inconsistency among two or more elements or propositions.",
+      "( logic , countable ) A proposition that is false for all values of its propositional variables or Boolean atoms ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "iteration",
+    "lemma": "iteration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪ.təˈɹeɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "iterations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A recital or a second performance; a repetition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A variation or version .",
+        "examples": [
+          "The architect drafted several iterations of the floorplan before deciding on his final design."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The use of repetition in a computer program, especially in the form of a loop .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A single repetition of the code within such a repetitive process.",
+        "examples": [
+          "The code calculates the appropriate value at each iteration ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A recital or a second performance; a repetition .",
+    "secondary_definitions": [
+      "A variation or version .",
+      "( computing ) The use of repetition in a computer program, especially in the form of a loop .",
+      "( computing ) A single repetition of the code within such a repetitive process."
+    ]
+  }
+]

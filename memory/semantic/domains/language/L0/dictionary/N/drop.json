@@ -1,0 +1,518 @@
+[
+  {
+    "word": "drop",
+    "lemma": "drop",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɹɒp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "drops"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small quantity of liquid , just large enough to hold its own round shape through surface tension , especially one that falls from a source of liquid.",
+        "examples": [
+          "Put three drops of oil into the mixture."
+        ],
+        "synonyms": [
+          "gt",
+          "gtt",
+          "gutta"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A dose of liquid medicine in the form of a drop (sense 1) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "pharmacology"
+            ],
+            "label_groups": "pharmacology"
+          },
+          {
+            "definition": "A liquid medicine that is intended to be administered in drops (sense 1) .",
+            "examples": [
+              "ear drops eye drops"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "pharmacology",
+              "chiefly in the plural"
+            ],
+            "label_groups": "pharmacology , chiefly in the plural"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "also figuratively"
+        ],
+        "label_groups": "also figuratively"
+      },
+      {
+        "definition": "A very small quantity of liquid, or ( by extension ) of anything.",
+        "examples": [
+          "My aunt asked for just a drop more tea.",
+          "He was thirsty but there wasn’t a drop of water to be found",
+          "They didn’t show a drop of remorse"
+        ],
+        "synonyms": [
+          "dash",
+          "smidgen"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A small amount of an alcoholic beverage .",
+            "examples": [
+              "He usually enjoys a drop after dinner.    She won’t touch a drop while she’s on duty."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly Australia",
+              "British"
+            ],
+            "label_groups": "chiefly Australia , British"
+          },
+          {
+            "definition": "Usually preceded by the : alcoholic spirits in general.",
+            "examples": [
+              "It doesn’t matter where you’re from, anyone who enjoys the drop is a friend of mine."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly British"
+            ],
+            "label_groups": "chiefly British"
+          },
+          {
+            "definition": "A single measure of whisky .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Ireland",
+              "informal"
+            ],
+            "label_groups": "Ireland , informal"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "That which hangs or resembles a liquid globule , such as a hanging diamond earring or ornament , a glass pendant on a chandelier , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Often preceded by a defining word : a small, round piece of hard candy , such as a lemon drop ; a lozenge .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An ornament resembling a pendant; a gutta .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "architecture"
+            ],
+            "label_groups": "architecture"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A thing which drops or hangs down.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The cover mounted on a swivel over a keyhole that rests over the keyhole when not in use to keep out debris , but is swiveled out of the way before inserting the key .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A fruit which has fallen off a tree , etc., or has been knocked off accidentally , rather than picked .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "agriculture"
+            ],
+            "label_groups": "agriculture"
+          },
+          {
+            "definition": "A dropped pass .",
+            "examples": [
+              "Yet another drop for the Tiger tight end."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "American football"
+            ],
+            "label_groups": "American football"
+          },
+          {
+            "definition": "A trapdoor ( “ hinged platform ” ) on a gallows ; a gallows itself.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "law enforcement"
+            ],
+            "label_groups": "law enforcement"
+          },
+          {
+            "definition": "An item made available for the player to pick up from the remains of a defeated enemy .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "online gaming",
+              "video games"
+            ],
+            "label_groups": "online gaming , video games"
+          },
+          {
+            "definition": "A mechanism for lowering something, such as a machine for lowering heavy weights on to a ship 's deck , or a device for temporarily lowering a gas jet , etc. Ellipsis of drop hammer or drop press .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "technology"
+            ],
+            "label_groups": "technology"
+          },
+          {
+            "definition": "A curtain which falls in front of a theatrical stage ; also, a section of ( cloth ) scenery lowered on to the stage like a curtain.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "theater"
+            ],
+            "label_groups": "theater"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An act or instance of dropping (in all senses) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An act of moving downwards under the force of gravity ; a descent , a fall .",
+            "examples": [
+              "That was a long drop , but fortunately I didn’t break any bones."
+            ],
+            "synonyms": [
+              "flop",
+              "decline"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An instance of making a delivery of people , supplies , or things, especially by parachute out of an aircraft (an airdrop ), but also by truck , etc.",
+            "examples": [
+              "The delivery driver has to make three more drops before lunch.",
+              "The spy made the drop , leaving the plans under the tree as arranged."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A release (of music , a video game , etc).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The amount of money that a gambler exchanges for chips in a casino .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "gambling"
+            ],
+            "label_groups": "gambling"
+          },
+          {
+            "definition": "Preceded by the : execution by hanging .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "law enforcement",
+              "informal"
+            ],
+            "label_groups": "law enforcement , informal"
+          },
+          {
+            "definition": "Usually preceded by the : relegation from one division to a lower one. ( American football ) Ellipsis of drop-back . ( pinball ) Ellipsis of drop target . ( rugby ) Ellipsis of drop kick . ( golf ) Ellipsis of drop shot . ( surfing ) A near vertical decent down the face of a breaking wave .",
+            "examples": [
+              "The Tiger quarterback took a one-step drop , expecting his tight end to be open."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sports"
+            ],
+            "label_groups": "sports"
+          },
+          {
+            "definition": "An unsolicited credit card issue .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US",
+              "banking",
+              "dated"
+            ],
+            "label_groups": "US , banking , dated"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A decline in degree , quality , quantity , or rate .",
+        "examples": [
+          "The drop in demand for oil resulted in a drop in prices."
+        ],
+        "synonyms": [
+          "breakdown",
+          "deterioration",
+          "dip",
+          "reduction",
+          "worsening"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of men 's clothes : the difference between the chest circumference and waist circumference. Of women 's clothes: the difference between the bust circumference and hip circumference.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sewing"
+            ],
+            "label_groups": "sewing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The distance through which something drops, or falls below a certain level .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The distance below a cliff or other high position through which someone or something could fall; hence, a steep slope .",
+            "examples": [
+              "On one side of the road was a 50-foot drop ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The vertical length of a hanging curtain.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The distance of the axis of a shaft below the base of a hanger .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering"
+            ],
+            "label_groups": "engineering"
+          },
+          {
+            "definition": "The distance that a person drops when being executed by hanging.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "law enforcement"
+            ],
+            "label_groups": "law enforcement"
+          },
+          {
+            "definition": "The depth of a ( square ) sail (generally applied to the courses only); the vertical dimension of a sail.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A place where items or supplies may be left for others to collect , whether openly (as with a mail drop), or secretly or illegally (as in crime or espionage ); a drop-off point .",
+        "examples": [
+          "I left the plans at the drop , like you asked."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Only used in get the drop on , have the drop on : an advantage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "A point in a song , usually electronic music such as dubstep , house , trance , or trap , where there is a very noticeable and pleasing change in bass , tempo , and/or overall tone ; a climax , a highlight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Licorice in confectionery form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An automobile with a drop-top roof, a convertible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "US"
+        ],
+        "label_groups": "slang , US"
+      },
+      {
+        "definition": "A place (specified by an ordinal ) in the batting order after the openers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "( also figuratively ) A small quantity of liquid , just large enough to hold its own round shape through surface tension , especially one that falls from a source of liquid.",
+    "secondary_definitions": [
+      "( figuratively ) A very small quantity of liquid, or ( by extension ) of anything.",
+      "That which hangs or resembles a liquid globule , such as a hanging diamond earring or ornament , a glass pendant on a chandelier , etc.",
+      "A thing which drops or hangs down.",
+      "An act or instance of dropping (in all senses) .",
+      "A decline in degree , quality , quantity , or rate .",
+      "The distance through which something drops, or falls below a certain level .",
+      "A place where items or supplies may be left for others to collect , whether openly (as with a mail drop), or secretly or illegally (as in crime or espionage ); a drop-off point .",
+      "( informal ) Only used in get the drop on , have the drop on : an advantage .",
+      "( music ) A point in a song , usually electronic music such as dubstep , house , trance , or trap , where there is a very noticeable and pleasing change in bass , tempo , and/or overall tone ; a climax , a highlight .",
+      "Licorice in confectionery form.",
+      "( slang , US ) An automobile with a drop-top roof, a convertible .",
+      "( cricket ) A place (specified by an ordinal ) in the batting order after the openers ."
+    ]
+  }
+]

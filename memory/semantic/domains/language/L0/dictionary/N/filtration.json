@@ -1,0 +1,47 @@
+[
+  {
+    "word": "filtration",
+    "lemma": "filtration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fɪlˈtɹeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "filtrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of filtering; the mechanical separation of a liquid from the undissolved particles floating in it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A totally ordered collection of subsets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory",
+          "probability theory"
+        ],
+        "label_groups": "mathematics , set theory , probability theory"
+      }
+    ],
+    "main_definition": "The act or process of filtering; the mechanical separation of a liquid from the undissolved particles floating in it.",
+    "secondary_definitions": [
+      "( mathematics , set theory , probability theory ) A totally ordered collection of subsets ."
+    ]
+  }
+]

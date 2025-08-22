@@ -1,0 +1,139 @@
+[
+  {
+    "word": "if",
+    "lemma": "if",
+    "etymology": "Etymology",
+    "pos": "CONJ",
+    "raw_label": "Conjunction",
+    "pos_index": 1,
+    "pronunciation": "/ɪf/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Supposing that, assuming that, in the circumstances that; used to introduce a condition that may be (or prove to be) either true or false.",
+        "examples": [
+          "If crossing the road, make sure you look both ways.",
+          "If I give you the money would/will you buy it for me?",
+          "If you prefer, I can come tomorrow instead.",
+          "I'll, if I have time, do it next week.",
+          "I'll come only if you will do the driving.",
+          "Fetch me a cold beer if there's one in the fridge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A keyword that invokes conditional processing: in the event that a given condition is true, execute the given statement(s) (otherwise execute other statements).",
+            "examples": [
+              "if A then B else C"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Supposing that; used with past or past perfect subjunctive to indicate a counterfactual or hypothetical condition.",
+        "examples": [
+          "If she hadn't told me, I wouldn't know.",
+          "\"You would be healthier if you would give up smoking\" \"Well, if I were rich, I'd go to one of those hypnosis therapies to quit\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Even if; even in the circumstances that.",
+            "examples": [
+              "I wouldn't marry you if you were the last man on earth.",
+              "You're finishing your chowder if you sit there all afernoon!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "usually hyperbolic"
+            ],
+            "label_groups": "usually hyperbolic"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Considering the fact that; given that ; introducing a condition that is known to be true .",
+        "examples": [
+          "The drain's blocked — and if the drain's blocked, the water won't flow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "When ; whenever ; every time that.",
+        "examples": [
+          "If you heat water to 100° C, it boils.",
+          "If it rains, it pours."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Although ; used to introduce a concession ; may..but.",
+        "examples": [
+          "He was a great friend, if a little stingy at the bar.",
+          "She won her team's admiration, if not the award, for her performance."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Whether ; used to introduce a noun clause, an indirect question, that functions as the direct object of certain verbs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sometimes proscribed"
+        ],
+        "label_groups": "sometimes proscribed"
+      },
+      {
+        "definition": "Introducing a relevance conditional ; in case.",
+        "examples": [
+          "I have leftover cake if you want some.",
+          "If you want to go home, I have the car keys."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Supposing that, assuming that, in the circumstances that; used to introduce a condition that may be (or prove to be) either true or false.",
+    "secondary_definitions": [
+      "Supposing that; used with past or past perfect subjunctive to indicate a counterfactual or hypothetical condition.",
+      "Considering the fact that; given that ; introducing a condition that is known to be true .",
+      "When ; whenever ; every time that.",
+      "Although ; used to introduce a concession ; may..but.",
+      "( sometimes proscribed ) Whether ; used to introduce a noun clause, an indirect question, that functions as the direct object of certain verbs.",
+      "Introducing a relevance conditional ; in case."
+    ]
+  }
+]

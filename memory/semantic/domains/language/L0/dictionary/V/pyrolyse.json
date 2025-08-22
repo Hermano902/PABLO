@@ -1,0 +1,56 @@
+[
+  {
+    "word": "pyrolyse",
+    "lemma": "pyrolyse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pyrolyses",
+          "PT": "pyrolysed",
+          "PAP": "pyrolysed",
+          "PRP": "pyrolysing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To undergo pyrolysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chemistry"
+        ],
+        "label_groups": "intransitive , chemistry"
+      },
+      {
+        "definition": "To decompose or transform a substance by subjecting it to heat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      }
+    ],
+    "main_definition": "( intransitive , chemistry ) To undergo pyrolysis .",
+    "secondary_definitions": [
+      "( transitive , chemistry ) To decompose or transform a substance by subjecting it to heat ."
+    ]
+  }
+]

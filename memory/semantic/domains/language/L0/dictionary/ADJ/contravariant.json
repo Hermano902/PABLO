@@ -1,0 +1,66 @@
+[
+  {
+    "word": "contravariant",
+    "lemma": "contravariant",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Which reverses the order of morphism composition : formally, which associates each morphism f : X → Y {\\displaystyle f:X\\to Y} to a morphism F ( f ) : F ( Y ) → F ( X ) {\\displaystyle F(f):F(Y)\\to F(X)} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "covariant"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "of a functor"
+        ],
+        "label_groups": "category theory , of a functor"
+      },
+      {
+        "definition": "Using or relating to contravariance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "Scaling inversely with a change of basis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra",
+          "of a vector"
+        ],
+        "label_groups": "linear algebra , of a vector"
+      }
+    ],
+    "main_definition": "( category theory , of a functor ) Which reverses the order of morphism composition : formally, which associates each morphism f : X → Y {\\displaystyle f:X\\to Y} to a morphism F ( f ) : F ( Y ) → F ( X ) {\\displaystyle F(f):F(Y)\\to F(X)} .",
+    "secondary_definitions": [
+      "( object-oriented programming ) Using or relating to contravariance .",
+      "( linear algebra , of a vector ) Scaling inversely with a change of basis."
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "deviate",
+    "lemma": "deviate",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdiː.vi.eɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deviates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person with deviant behaviour; a deviant, degenerate or pervert .",
+        "examples": [],
+        "synonyms": [
+          "deviant",
+          "degenerate",
+          "pervert"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sociology"
+        ],
+        "label_groups": "sociology"
+      },
+      {
+        "definition": "A value equal to the difference between a measured variable factor and a fixed or algorithmic reference value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( sociology ) A person with deviant behaviour; a deviant, degenerate or pervert .",
+    "secondary_definitions": [
+      "( statistics ) A value equal to the difference between a measured variable factor and a fixed or algorithmic reference value."
+    ]
+  }
+]

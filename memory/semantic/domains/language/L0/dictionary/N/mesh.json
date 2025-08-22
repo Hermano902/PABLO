@@ -1,0 +1,98 @@
+[
+  {
+    "word": "mesh",
+    "lemma": "mesh",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mɛʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "meshes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A structure made of connected strands of metal , fiber, or other flexible/ductile material, with evenly spaced openings between them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The opening or space enclosed by the threads of a net between knot and knot, or the threads enclosing such a space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The engagement of the teeth of wheels, or of a wheel and rack.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of fineness (particle size ) of ground material. A powder that passes through a sieve having 300 openings per linear inch but does not pass 400 openings per linear inch is said to be -300 +400 mesh.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A polygon mesh .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      },
+      {
+        "definition": "In mesh analysis : a loop in an electric circuit (to which Kirchhoff's voltage law can be applied).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "A network topology with each device connected to multiple other devices in lieu of a central switch . Redundancy on a mesh network prevents single points of failure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "A structure made of connected strands of metal , fiber, or other flexible/ductile material, with evenly spaced openings between them.",
+    "secondary_definitions": [
+      "The opening or space enclosed by the threads of a net between knot and knot, or the threads enclosing such a space .",
+      "The engagement of the teeth of wheels, or of a wheel and rack.",
+      "A measure of fineness (particle size ) of ground material. A powder that passes through a sieve having 300 openings per linear inch but does not pass 400 openings per linear inch is said to be -300 +400 mesh.",
+      "( computer graphics ) A polygon mesh .",
+      "( electronics ) In mesh analysis : a loop in an electric circuit (to which Kirchhoff's voltage law can be applied).",
+      "( networking ) A network topology with each device connected to multiple other devices in lieu of a central switch . Redundancy on a mesh network prevents single points of failure ."
+    ]
+  }
+]

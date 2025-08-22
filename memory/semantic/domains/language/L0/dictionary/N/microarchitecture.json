@@ -1,0 +1,49 @@
+[
+  {
+    "word": "microarchitecture",
+    "lemma": "microarchitecture",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "microarchitectures"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The detailed structure of any organ etc. at a very small scale.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "The architecture of the data processing parts of a microcomputer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( biology ) The detailed structure of any organ etc. at a very small scale.",
+    "secondary_definitions": [
+      "( computing ) The architecture of the data processing parts of a microcomputer ."
+    ]
+  }
+]

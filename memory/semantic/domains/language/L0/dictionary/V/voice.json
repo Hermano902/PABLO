@@ -1,0 +1,129 @@
+[
+  {
+    "word": "voice",
+    "lemma": "voice",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/vɔɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "voices",
+          "PT": "voiced",
+          "PAP": "voiced",
+          "PRP": "voicing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give utterance or expression to; to utter; to publish ; to announce",
+        "examples": [
+          "He voiced the sentiments of the nation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To utter audibly, with tone and not just breath.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "phonology"
+        ],
+        "label_groups": "transitive , phonology"
+      },
+      {
+        "definition": "To fit for producing the proper sounds ; to regulate the tone of",
+        "examples": [
+          "voice the pipes of an organ"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To vote ; to elect ; to appoint",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To clamor ; to cry out",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To assign the voice flag to a user on IRC , permitting them to send messages to the channel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Internet",
+          "IRC"
+        ],
+        "label_groups": "transitive , Internet , IRC"
+      },
+      {
+        "definition": "To act as a voice actor to portray a character.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "television",
+          "film"
+        ],
+        "label_groups": "television , film"
+      }
+    ],
+    "main_definition": "( transitive ) To give utterance or expression to; to utter; to publish ; to announce",
+    "secondary_definitions": [
+      "( transitive , phonology ) To utter audibly, with tone and not just breath.",
+      "( transitive ) To fit for producing the proper sounds ; to regulate the tone of",
+      "( transitive , obsolete ) To vote ; to elect ; to appoint",
+      "( intransitive , obsolete ) To clamor ; to cry out",
+      "( transitive , Internet , IRC ) To assign the voice flag to a user on IRC , permitting them to send messages to the channel .",
+      "( television , film ) To act as a voice actor to portray a character."
+    ]
+  }
+]

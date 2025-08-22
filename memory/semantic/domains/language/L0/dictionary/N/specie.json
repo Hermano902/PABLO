@@ -1,0 +1,71 @@
+[
+  {
+    "word": "specie",
+    "lemma": "specie",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈspiːʃi/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Type or kind , in various uses of the phrase in specie .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Money in the form of coins made from precious metal that has an intrinsic value ; coinage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "paper"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Type or kind , in various uses of the phrase in specie .",
+    "secondary_definitions": [
+      "Money in the form of coins made from precious metal that has an intrinsic value ; coinage ."
+    ]
+  },
+  {
+    "word": "specie",
+    "lemma": "specie",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈspiːʃi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "species"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "singular of species",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "proscribed"
+        ],
+        "label_groups": "proscribed"
+      }
+    ],
+    "main_definition": "( proscribed ) singular of species",
+    "secondary_definitions": []
+  }
+]

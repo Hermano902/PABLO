@@ -1,0 +1,84 @@
+[
+  {
+    "word": "poison",
+    "lemma": "poison",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɔɪ.zən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "poisons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A substance that is harmful or lethal to a living organism when ingested.",
+        "examples": [
+          "We used a poison to kill the weeds."
+        ],
+        "synonyms": [
+          "atter",
+          "bane",
+          "contaminant",
+          "pollutant",
+          "toxin"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Anything harmful to a person or thing.",
+        "examples": [
+          "Gossip is a malicious poison ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "An alcoholic drink . (Mainly in the phrases \"name your poison\" and \"what's your poison?\")",
+        "examples": [
+          "— What's your poison ? — I'll have a glass of whiskey."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "idiomatic"
+        ],
+        "label_groups": "informal , idiomatic"
+      },
+      {
+        "definition": "Any substance that inhibits catalytic activity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "A substance that is harmful or lethal to a living organism when ingested.",
+    "secondary_definitions": [
+      "( figuratively ) Anything harmful to a person or thing.",
+      "( informal , idiomatic ) An alcoholic drink . (Mainly in the phrases \"name your poison\" and \"what's your poison?\")",
+      "( chemistry ) Any substance that inhibits catalytic activity ."
+    ]
+  }
+]

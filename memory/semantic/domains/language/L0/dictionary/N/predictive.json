@@ -1,0 +1,49 @@
+[
+  {
+    "word": "predictive",
+    "lemma": "predictive",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈdɪk.tɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "predictives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A conditional statement that includes a prediction in the dependent clause (e.g. \"if it rains, the game will be cancelled\", \"give her an inch and she'll take a mile.\").",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "Simulated data generated from a statistical model , based on the estimates for the real data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( grammar ) A conditional statement that includes a prediction in the dependent clause (e.g. \"if it rains, the game will be cancelled\", \"give her an inch and she'll take a mile.\").",
+    "secondary_definitions": [
+      "( statistics ) Simulated data generated from a statistical model , based on the estimates for the real data."
+    ]
+  }
+]

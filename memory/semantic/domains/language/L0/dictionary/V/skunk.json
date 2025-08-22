@@ -1,0 +1,72 @@
+[
+  {
+    "word": "skunk",
+    "lemma": "skunk",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skʌŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "skunks",
+          "PT": "skunked",
+          "PAP": "skunked",
+          "PRP": "skunking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To defeat so badly as to prevent any opposing points.",
+        "examples": [
+          "I skunked him at cards.",
+          "We fished all day but the lake skunked us."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To win by thirty or more points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cribbage"
+        ],
+        "label_groups": "cribbage"
+      },
+      {
+        "definition": "To go bad , to spoil .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of beer"
+        ],
+        "label_groups": "intransitive , of beer"
+      }
+    ],
+    "main_definition": "( transitive , slang ) To defeat so badly as to prevent any opposing points.",
+    "secondary_definitions": [
+      "( cribbage ) To win by thirty or more points.",
+      "( intransitive , of beer ) To go bad , to spoil ."
+    ]
+  }
+]

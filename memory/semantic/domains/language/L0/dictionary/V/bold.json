@@ -1,0 +1,75 @@
+[
+  {
+    "word": "bold",
+    "lemma": "bold",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbəʊld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bolds",
+          "PT": "bolded",
+          "PAP": "bolded",
+          "PRP": "bolding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make (a font or some text) bold.",
+        "examples": [
+          "Please bold all these subheads."
+        ],
+        "synonyms": [
+          "boldface",
+          "embolden"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To make bold or daring.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To become bold or brave.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive , informal ) To make (a font or some text) bold.",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To make bold or daring.",
+      "( intransitive , obsolete ) To become bold or brave."
+    ]
+  }
+]

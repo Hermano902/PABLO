@@ -1,0 +1,45 @@
+[
+  {
+    "word": "brewery",
+    "lemma": "brewery",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹuːəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "breweries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A building where beer is produced.",
+        "examples": [
+          "We took a day trip to the Guiness Brewery ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A company that brews beer.",
+        "examples": [
+          "Mike works for the local brewery ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A building where beer is produced.",
+    "secondary_definitions": [
+      "A company that brews beer."
+    ]
+  }
+]

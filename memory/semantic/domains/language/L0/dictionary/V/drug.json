@@ -1,0 +1,110 @@
+[
+  {
+    "word": "drug",
+    "lemma": "drug",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɹʌɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "drugs",
+          "PT": "drugged",
+          "PAP": "drugged",
+          "PRP": "drugging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To administer intoxicating drugs to, generally without the recipient's knowledge or consent.",
+        "examples": [
+          "She suddenly felt strange, and only then realized she'd been drugged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To add intoxicating drugs to with the intention of drugging someone.",
+        "examples": [
+          "She suddenly felt strange. She realized her drink must have been drugged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To prescribe or administer drugs or medicines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , rare ) To use intoxicating drugs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To administer intoxicating drugs to, generally without the recipient's knowledge or consent.",
+    "secondary_definitions": [
+      "( transitive ) To add intoxicating drugs to with the intention of drugging someone.",
+      "( intransitive ) To prescribe or administer drugs or medicines.",
+      "( intransitive , rare ) To use intoxicating drugs."
+    ]
+  },
+  {
+    "word": "drug",
+    "lemma": "drug",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/dɹʌɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "simple past and past participle of drag",
+        "examples": [
+          "You look like someone drug you behind a horse for half a mile.",
+          "look what the cat drug in"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dialectal",
+          "chiefly Southern US"
+        ],
+        "label_groups": "dialectal , chiefly Southern US"
+      }
+    ],
+    "main_definition": "( dialectal , chiefly Southern US ) simple past and past participle of drag",
+    "secondary_definitions": []
+  }
+]

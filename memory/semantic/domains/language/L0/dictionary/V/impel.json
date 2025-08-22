@@ -1,0 +1,71 @@
+[
+  {
+    "word": "impel",
+    "lemma": "impel",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpɛl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "impels",
+          "PT": "impelled",
+          "PAP": "impelled",
+          "PRP": "impelling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To urge a person; to press on; to incite to action or motion via intrinsic motivation.",
+        "examples": [],
+        "synonyms": [
+          "actuate",
+          "motivate"
+        ],
+        "antonyms": [
+          "propel"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To drive forward ; to propel an object, to provide an impetus for motion or action .",
+        "examples": [
+          "The wind impelled the kayaks toward the shore."
+        ],
+        "synonyms": [
+          "drive",
+          "press",
+          "propel",
+          "push",
+          "shove",
+          "thrutch"
+        ],
+        "antonyms": [
+          "restrain",
+          "retard"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To urge a person; to press on; to incite to action or motion via intrinsic motivation.",
+    "secondary_definitions": [
+      "( transitive ) To drive forward ; to propel an object, to provide an impetus for motion or action ."
+    ]
+  }
+]

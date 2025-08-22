@@ -1,0 +1,37 @@
+{
+  "word": "minute",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 6,
+      "synonyms": 13,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 10,
+      "antonyms": 7,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\minute.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\minute.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\minute.json"
+  },
+  "timestamp": "2025-08-19T09:16:27.286108Z"
+}

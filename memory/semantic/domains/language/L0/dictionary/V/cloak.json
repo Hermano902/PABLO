@@ -1,0 +1,71 @@
+[
+  {
+    "word": "cloak",
+    "lemma": "cloak",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkloʊk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cloaks",
+          "PT": "cloaked",
+          "PAP": "cloaked",
+          "PRP": "cloaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cover as with or like a cloak.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cover up , hide or conceal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To render or become invisible via futuristic technology.",
+        "examples": [
+          "The ship cloaked before entering the enemy sector of space."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "science fiction",
+          "ambitransitive"
+        ],
+        "label_groups": "science fiction , ambitransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cover as with or like a cloak.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To cover up , hide or conceal .",
+      "( science fiction , ambitransitive ) To render or become invisible via futuristic technology."
+    ]
+  }
+]

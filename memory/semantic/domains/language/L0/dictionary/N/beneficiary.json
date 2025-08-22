@@ -1,0 +1,62 @@
+[
+  {
+    "word": "beneficiary",
+    "lemma": "beneficiary",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌbɛn.ɪˈfɪʃ.əɹ.i/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "beneficiaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who benefits or receives an advantage.",
+        "examples": [
+          "You are the lucky beneficiary of this special offer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who benefits from the distribution , especially out of a trust or estate .",
+        "examples": [
+          "If any beneficiary does not survive the settlor for a period of 30 days then the trustee shall distribute that beneficiary ’s share to the surviving beneficiaries by right of representation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially trust law"
+        ],
+        "label_groups": "especially trust law"
+      },
+      {
+        "definition": "One who benefits from the payout of an insurance policy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "insurance"
+        ],
+        "label_groups": "insurance"
+      }
+    ],
+    "main_definition": "One who benefits or receives an advantage.",
+    "secondary_definitions": [
+      "( especially trust law ) One who benefits from the distribution , especially out of a trust or estate .",
+      "( insurance ) One who benefits from the payout of an insurance policy ."
+    ]
+  }
+]

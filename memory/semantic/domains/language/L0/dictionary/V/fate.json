@@ -1,0 +1,42 @@
+[
+  {
+    "word": "fate",
+    "lemma": "fate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/feɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fates",
+          "PT": "fated",
+          "PAP": "fated",
+          "PRP": "fating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To foreordain or predetermine , to make inevitable .",
+        "examples": [
+          "The oracle's prediction fated Oedipus to kill his father; not all his striving could change what would occur."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To foreordain or predetermine , to make inevitable .",
+    "secondary_definitions": []
+  }
+]

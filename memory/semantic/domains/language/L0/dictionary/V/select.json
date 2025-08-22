@@ -1,0 +1,53 @@
+[
+  {
+    "word": "select",
+    "lemma": "select",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɪˈlɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "selects",
+          "PT": "selected",
+          "PAP": "selected",
+          "PRP": "selecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To choose one or more elements of a set , especially a set of options .",
+        "examples": [
+          "He looked over the menu, and selected the roast beef.",
+          "The program computes all the students' grades, then selects a random sample for human verification."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To obtain a set of data from a database using a query .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "To choose one or more elements of a set , especially a set of options .",
+    "secondary_definitions": [
+      "( databases ) To obtain a set of data from a database using a query ."
+    ]
+  }
+]

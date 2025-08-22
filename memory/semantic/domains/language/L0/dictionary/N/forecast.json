@@ -1,0 +1,56 @@
+[
+  {
+    "word": "forecast",
+    "lemma": "forecast",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɔːkɑːst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "forecasts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An estimation of a future condition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A prediction of the weather .",
+            "examples": [
+              "The forecast said it'll be blowy tomorrow"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "exacta",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gambling"
+        ],
+        "label_groups": "gambling"
+      }
+    ],
+    "main_definition": "An estimation of a future condition.",
+    "secondary_definitions": [
+      "( gambling ) exacta"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "word": "spec",
+    "lemma": "spec",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈspɛk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "specs",
+          "PT": "specced",
+          "PAP": "specced",
+          "PRP": "speccing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To specify , especially in a formal specification document.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To specify , especially in a formal specification document.",
+    "secondary_definitions": []
+  }
+]

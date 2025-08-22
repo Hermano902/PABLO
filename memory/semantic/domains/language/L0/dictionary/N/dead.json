@@ -1,0 +1,101 @@
+[
+  {
+    "word": "dead",
+    "lemma": "dead",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( often with \"the\" ) Time when coldness , darkness , or stillness is most intense .",
+        "examples": [
+          "the dead of night",
+          "the dead of winter"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( with \"the\" ) Those who have died: dead people.",
+        "examples": [
+          "the quick and the dead",
+          "Will the dead rise again?",
+          "He will come again to judge the living and the dead ."
+        ],
+        "synonyms": [
+          "deceased",
+          "departed"
+        ],
+        "antonyms": [
+          "living",
+          "quick"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( often with \"the\" ) Time when coldness , darkness , or stillness is most intense .",
+    "secondary_definitions": [
+      "( with \"the\" ) Those who have died: dead people."
+    ]
+  },
+  {
+    "word": "dead",
+    "lemma": "dead",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/dɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Sterile mining waste , often present as many large rocks stacked inside the workings .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "usually in the plural"
+        ],
+        "label_groups": [
+          "UK",
+          "usually in the plural"
+        ]
+      },
+      {
+        "definition": "Clipping of deadlift .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bodybuilding",
+          "colloquial"
+        ],
+        "label_groups": "bodybuilding , colloquial"
+      }
+    ],
+    "main_definition": "( UK ) ( usually in the plural ) Sterile mining waste , often present as many large rocks stacked inside the workings .",
+    "secondary_definitions": [
+      "( bodybuilding , colloquial ) Clipping of deadlift ."
+    ]
+  }
+]

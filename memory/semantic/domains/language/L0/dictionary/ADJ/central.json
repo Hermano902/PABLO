@@ -1,0 +1,97 @@
+[
+  {
+    "word": "central",
+    "lemma": "central",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛntɹəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more central",
+          "SUP": "most central"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Being in the centre .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having or containing the centre of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Being very important, or key to something.",
+        "examples": [],
+        "synonyms": [
+          "dominant",
+          "main",
+          "principal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Exerting its action towards the peripheral organs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "Belong or relating to the center of an algebraic structure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of an element of an algebraic structure: which commutes with all other elements under multiplication",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of a unital algebra over a field : whose center is exactly equal to the image of the base field",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "Being in the centre .",
+    "secondary_definitions": [
+      "Having or containing the centre of something.",
+      "Being very important, or key to something.",
+      "( anatomy ) Exerting its action towards the peripheral organs.",
+      "( algebra ) Belong or relating to the center of an algebraic structure ."
+    ]
+  }
+]

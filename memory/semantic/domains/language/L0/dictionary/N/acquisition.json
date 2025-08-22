@@ -1,0 +1,58 @@
+[
+  {
+    "word": "acquisition",
+    "lemma": "acquisition",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌæk.wɪˈzɪʃ.ən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "acquisitions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of acquiring .",
+        "examples": [
+          "The acquisition of sports equipment can be fun in itself."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The thing acquired or gained; a gain.",
+        "examples": [
+          "That graphite tennis racquet is quite an acquisition ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of sampling signals that measure real world physical conditions and converting these signals into digital numeric values that can be manipulated by a computer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act or process of acquiring .",
+    "secondary_definitions": [
+      "The thing acquired or gained; a gain.",
+      "( computing ) The process of sampling signals that measure real world physical conditions and converting these signals into digital numeric values that can be manipulated by a computer."
+    ]
+  }
+]

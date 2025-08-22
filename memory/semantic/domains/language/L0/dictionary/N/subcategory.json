@@ -1,0 +1,48 @@
+[
+  {
+    "word": "subcategory",
+    "lemma": "subcategory",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subcategories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "With respect to a given category ; a narrower category .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A subclass of a category which is itself a category, whose arrows are a restriction of the arrows of the parent category, and whose composition rule is a restriction of the parent category's.",
+        "examples": [],
+        "synonyms": [
+          "child category",
+          "supercategory"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "With respect to a given category ; a narrower category .",
+    "secondary_definitions": [
+      "( category theory ) A subclass of a category which is itself a category, whose arrows are a restriction of the arrows of the parent category, and whose composition rule is a restriction of the parent category's."
+    ]
+  }
+]

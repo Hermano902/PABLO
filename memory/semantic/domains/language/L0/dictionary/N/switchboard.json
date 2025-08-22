@@ -1,0 +1,49 @@
+[
+  {
+    "word": "switchboard",
+    "lemma": "switchboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈswɪt͡ʃˌbɔɹd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "switchboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The electronic panel that is used to direct telephone calls to the desired recipient.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "A large piece of power-distribution equipment that directs electricity to multiple loads.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electrical engineering"
+        ],
+        "label_groups": "electrical engineering"
+      }
+    ],
+    "main_definition": "( telecommunications ) The electronic panel that is used to direct telephone calls to the desired recipient.",
+    "secondary_definitions": [
+      "( electrical engineering ) A large piece of power-distribution equipment that directs electricity to multiple loads."
+    ]
+  }
+]

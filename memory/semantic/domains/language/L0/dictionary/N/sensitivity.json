@@ -1,0 +1,99 @@
+[
+  {
+    "word": "sensitivity",
+    "lemma": "sensitivity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌsɛnsɪˈtɪvɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sensitivities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality or state of being sensitive ; sensitiveness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The ability of an organism or organ to respond to external stimuli .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Vulnerability to medical treatment: Synonym of susceptibility .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology",
+              "medicine",
+              "of a pathogen"
+            ],
+            "label_groups": "biology , medicine , of a pathogen"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "The probability , in a binary classification test , of a true positive being correctly identified.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "The degree of response of an instrument to a change in an input signal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "The degree of response of a film etc. to light of a specified wavelength .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "photography"
+        ],
+        "label_groups": "photography"
+      }
+    ],
+    "main_definition": "The quality or state of being sensitive ; sensitiveness .",
+    "secondary_definitions": [
+      "( biology ) The ability of an organism or organ to respond to external stimuli .",
+      "( statistics ) The probability , in a binary classification test , of a true positive being correctly identified.",
+      "( electronics ) The degree of response of an instrument to a change in an input signal .",
+      "( photography ) The degree of response of a film etc. to light of a specified wavelength ."
+    ]
+  }
+]

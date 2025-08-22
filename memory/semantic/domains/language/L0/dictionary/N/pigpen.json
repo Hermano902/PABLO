@@ -1,0 +1,48 @@
+[
+  {
+    "word": "pigpen",
+    "lemma": "pigpen",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɪɡ.pɛn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pigpens"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Synonym of pigsty .",
+        "examples": [
+          "The lower pasture also contains a pigpen .",
+          "This room is a pigpen . When are you going to clean it?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The pigpen cipher .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "Synonym of pigsty .",
+    "secondary_definitions": [
+      "( cryptography ) The pigpen cipher ."
+    ]
+  }
+]

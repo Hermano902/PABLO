@@ -1,0 +1,59 @@
+[
+  {
+    "word": "agonist",
+    "lemma": "agonist",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæ.ɡɘ.nɪst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "agonists"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone involved in a contest or battle (as in an agon ), protagonist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The muscle that contracts while the other relaxes.",
+        "examples": [
+          "When bending the elbow, the biceps is the agonist ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A molecule that can combine with a receptor on a cell to produce a physiological reaction.",
+        "examples": [
+          "Acetylcholine is an agonist at the cholinergic receptor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry",
+          "pharmacology"
+        ],
+        "label_groups": "biochemistry , pharmacology"
+      }
+    ],
+    "main_definition": "Someone involved in a contest or battle (as in an agon ), protagonist .",
+    "secondary_definitions": [
+      "The muscle that contracts while the other relaxes.",
+      "( biochemistry , pharmacology ) A molecule that can combine with a receptor on a cell to produce a physiological reaction."
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "word": "vertex",
+    "lemma": "vertex",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɜː.tɛks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "vertices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The highest point , top or apex of something.",
+        "examples": [],
+        "synonyms": [
+          "acme",
+          "apex",
+          "peak",
+          "top"
+        ],
+        "antonyms": [
+          "fundus"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The highest surface on the skull ; the crown of the head .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "anatomy"
+            ],
+            "label_groups": "anatomy"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An angular point of a polygon , polyhedron or higher order polytope .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The common point of the two rays that form an angle .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The point at which an axis meets a curve or surface .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A point on the curve with a local minimum or maximum of curvature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "One of the elements of a graph joined or not by edges to other vertices .",
+        "examples": [],
+        "synonyms": [
+          "node"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "A point in 3D space, usually given in terms of its Cartesian coordinates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      },
+      {
+        "definition": "The point where the surface of a lens crosses the optical axis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "optics"
+        ],
+        "label_groups": "optics"
+      },
+      {
+        "definition": "An interaction point .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "particle physics"
+        ],
+        "label_groups": "particle physics"
+      },
+      {
+        "definition": "The point where the prime vertical meets the ecliptic in the western hemisphere of a natal chart .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astrology"
+        ],
+        "label_groups": "astrology"
+      },
+      {
+        "definition": "A sharp downward point opposite a crotch , as in the letters \" V \" and \" W \" but not \" Y \".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      }
+    ],
+    "main_definition": "The highest point , top or apex of something.",
+    "secondary_definitions": [
+      "( geometry ) An angular point of a polygon , polyhedron or higher order polytope .",
+      "( mathematics ) A point on the curve with a local minimum or maximum of curvature .",
+      "( graph theory ) One of the elements of a graph joined or not by edges to other vertices .",
+      "( computer graphics ) A point in 3D space, usually given in terms of its Cartesian coordinates .",
+      "( optics ) The point where the surface of a lens crosses the optical axis .",
+      "( particle physics ) An interaction point .",
+      "( astrology ) The point where the prime vertical meets the ecliptic in the western hemisphere of a natal chart .",
+      "( typography ) A sharp downward point opposite a crotch , as in the letters \" V \" and \" W \" but not \" Y \"."
+    ]
+  }
+]

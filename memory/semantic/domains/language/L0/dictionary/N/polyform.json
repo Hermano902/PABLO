@@ -1,0 +1,50 @@
+[
+  {
+    "word": "polyform",
+    "lemma": "polyform",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polyforms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A plane or solid figure constructed by joining together identical polygons edge to edge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A monster form into which a character can polymorph .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games",
+          "roguelikes"
+        ],
+        "label_groups": "video games , roguelikes"
+      }
+    ],
+    "main_definition": "( geometry ) A plane or solid figure constructed by joining together identical polygons edge to edge.",
+    "secondary_definitions": [
+      "( video games , roguelikes ) A monster form into which a character can polymorph ."
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "dendrimer",
+    "lemma": "dendrimer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dendrimers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any polymer or oligomer having multiple branches of atoms strung off a central spine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry"
+        ],
+        "label_groups": "organic chemistry"
+      },
+      {
+        "definition": "A graph formed of branches from a central core .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( organic chemistry ) Any polymer or oligomer having multiple branches of atoms strung off a central spine .",
+    "secondary_definitions": [
+      "( graph theory ) A graph formed of branches from a central core ."
+    ]
+  }
+]

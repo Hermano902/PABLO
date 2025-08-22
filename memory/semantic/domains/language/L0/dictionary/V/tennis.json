@@ -1,0 +1,55 @@
+[
+  {
+    "word": "tennis",
+    "lemma": "tennis",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛnɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tennises",
+          "PT": "tennised",
+          "PAP": "tennised",
+          "PRP": "tennising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To play tennis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      },
+      {
+        "definition": "To drive backward and forward like a tennis ball.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive , dated ) To play tennis.",
+    "secondary_definitions": [
+      "( transitive ) To drive backward and forward like a tennis ball."
+    ]
+  }
+]

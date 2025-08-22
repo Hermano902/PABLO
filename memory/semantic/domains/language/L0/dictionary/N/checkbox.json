@@ -1,0 +1,47 @@
+[
+  {
+    "word": "checkbox",
+    "lemma": "checkbox",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtʃɛkbɒks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "checkboxes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A space on a paper form that can be optionally filled with a check mark .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An on-screen box that can be optionally filled with a check mark, to enable or disable a setting .",
+        "examples": [],
+        "synonyms": [
+          "tick box"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      }
+    ],
+    "main_definition": "A space on a paper form that can be optionally filled with a check mark .",
+    "secondary_definitions": [
+      "( graphical user interface ) An on-screen box that can be optionally filled with a check mark, to enable or disable a setting ."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "distort",
+    "lemma": "distort",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈstɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "distorts",
+          "PT": "distorted",
+          "PAP": "distorted",
+          "PRP": "distorting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring something out of shape, to misshape .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become misshapen .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "ergative"
+        ],
+        "label_groups": "intransitive , ergative"
+      },
+      {
+        "definition": "To give a false or misleading account of; pervert.",
+        "examples": [
+          "In their articles, journalists sometimes distort the truth."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bring something out of shape, to misshape .",
+    "secondary_definitions": [
+      "( intransitive , ergative ) To become misshapen .",
+      "( transitive ) To give a false or misleading account of; pervert."
+    ]
+  }
+]

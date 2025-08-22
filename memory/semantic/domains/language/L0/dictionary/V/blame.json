@@ -1,0 +1,83 @@
+[
+  {
+    "word": "blame",
+    "lemma": "blame",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bleɪm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "blames",
+          "PT": "blamed",
+          "PAP": "blamed",
+          "PRP": "blaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assert or consider that someone is the cause of something negative ; to place blame ; to attribute responsibility (for something negative or for doing something negative).",
+        "examples": [
+          "The student driver was blamed for the accident.",
+          "After what happened at the wedding, I wouldn't blame you if you never spoke to them again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "usually followed by \"for\""
+        ],
+        "label_groups": "transitive , usually followed by \"for\""
+      },
+      {
+        "definition": "To assert the cause of some bad event .",
+        "examples": [
+          "We blamed the accident on the student driver."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "with \"on\""
+        ],
+        "label_groups": "transitive , with \"on\""
+      },
+      {
+        "definition": "To censure (someone or something); to criticize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To bring into disrepute .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive , usually followed by \"for\" ) To assert or consider that someone is the cause of something negative ; to place blame ; to attribute responsibility (for something negative or for doing something negative).",
+    "secondary_definitions": [
+      "( transitive , with \"on\" ) To assert the cause of some bad event .",
+      "To censure (someone or something); to criticize .",
+      "( obsolete ) To bring into disrepute ."
+    ]
+  }
+]

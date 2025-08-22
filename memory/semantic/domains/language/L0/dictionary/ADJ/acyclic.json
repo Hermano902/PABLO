@@ -1,0 +1,66 @@
+[
+  {
+    "word": "acyclic",
+    "lemma": "acyclic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/eɪˈsaɪklɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more acyclic",
+          "SUP": "most acyclic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not cyclic ; having an open chain structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "cyclic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry",
+          "physical chemistry"
+        ],
+        "label_groups": "organic chemistry , physical chemistry"
+      },
+      {
+        "definition": "Containing no cycles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "of a graph"
+        ],
+        "label_groups": "graph theory , of a graph"
+      },
+      {
+        "definition": "Of a flower , having its parts inserted spirally on the receptacle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      }
+    ],
+    "main_definition": "( organic chemistry , physical chemistry ) Not cyclic ; having an open chain structure.",
+    "secondary_definitions": [
+      "( graph theory , of a graph ) Containing no cycles .",
+      "( botany ) Of a flower , having its parts inserted spirally on the receptacle ."
+    ]
+  }
+]

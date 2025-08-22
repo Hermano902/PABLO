@@ -1,0 +1,38 @@
+{
+  "word": "wanton",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 15,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 11,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 8,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\wanton.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\wanton.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\wanton.json"
+  },
+  "timestamp": "2025-08-19T20:43:10.397887Z"
+}

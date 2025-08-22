@@ -1,0 +1,31 @@
+{
+  "word": "bene",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bene.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\bene.json"
+  },
+  "timestamp": "2025-08-18T22:05:05.747220Z"
+}

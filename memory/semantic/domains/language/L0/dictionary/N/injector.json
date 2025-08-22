@@ -1,0 +1,62 @@
+[
+  {
+    "word": "injector",
+    "lemma": "injector",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈd͡ʒɛktɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "injectors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, injects something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "One who injects (himself or herself with) psychoactive drugs .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Any of various devices that are used to inject something, as: An apparatus by which a stream of water is forced into a steam boiler . Any of the one or more devices in a fuel injection system that create the spray of fuel .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An object that realizes a dependency injection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "One who, or that which, injects something.",
+    "secondary_definitions": [
+      "( object-oriented programming ) An object that realizes a dependency injection ."
+    ]
+  }
+]

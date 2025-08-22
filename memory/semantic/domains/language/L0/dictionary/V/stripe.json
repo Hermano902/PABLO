@@ -1,0 +1,68 @@
+[
+  {
+    "word": "stripe",
+    "lemma": "stripe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/stɹaɪp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stripes",
+          "PT": "striped",
+          "PAP": "striped",
+          "PRP": "striping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark with stripes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lash with a whip or strap .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To distribute data across several separate physical disks to reduce the time to read and write.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To mark with stripes.",
+    "secondary_definitions": [
+      "( transitive ) To lash with a whip or strap .",
+      "( transitive , computing ) To distribute data across several separate physical disks to reduce the time to read and write."
+    ]
+  }
+]

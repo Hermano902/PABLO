@@ -1,0 +1,69 @@
+[
+  {
+    "word": "approximate",
+    "lemma": "approximate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈpɹɒk.sɪ.mət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "approximates",
+          "PT": "approximated",
+          "PAP": "approximated",
+          "PRP": "approximating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To estimate .",
+        "examples": [
+          "I approximated the value of pi by taking 22 divided by 7."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To come near to; to approach .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry or advance near; to cause to approach .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To estimate .",
+    "secondary_definitions": [
+      "( transitive ) To come near to; to approach .",
+      "( transitive ) To carry or advance near; to cause to approach ."
+    ]
+  }
+]

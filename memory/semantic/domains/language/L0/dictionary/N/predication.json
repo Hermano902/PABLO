@@ -1,0 +1,67 @@
+[
+  {
+    "word": "predication",
+    "lemma": "predication",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "predications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A proclamation , announcement or preaching .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An assertion or affirmation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of making something the subject or predicate of a proposition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "The parallel execution of all possible outcomes of a branch instruction , all except one of which are discarded after the branch condition has been evaluated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A proclamation , announcement or preaching .",
+    "secondary_definitions": [
+      "An assertion or affirmation .",
+      "( logic ) The act of making something the subject or predicate of a proposition .",
+      "( computing ) The parallel execution of all possible outcomes of a branch instruction , all except one of which are discarded after the branch condition has been evaluated ."
+    ]
+  }
+]

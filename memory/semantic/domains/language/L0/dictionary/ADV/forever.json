@@ -1,0 +1,71 @@
+[
+  {
+    "word": "forever",
+    "lemma": "forever",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/fəˈɹɛvə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "For all time , for all eternity ; for a lifetime ; for an infinite amount of time.",
+        "examples": [
+          "I shall love you forever ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "duration"
+        ],
+        "label_groups": "duration"
+      },
+      {
+        "definition": "For a very long time, a seeming eternity.",
+        "examples": [
+          "We had to wait forever to get inside.",
+          "That was forever ago."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "duration",
+          "colloquial",
+          "hyperbolic"
+        ],
+        "label_groups": "duration , colloquial , hyperbolic"
+      },
+      {
+        "definition": "Constantly or frequently .",
+        "examples": [
+          "You are forever nagging me."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "frequency"
+        ],
+        "label_groups": "frequency"
+      }
+    ],
+    "main_definition": "( duration ) For all time , for all eternity ; for a lifetime ; for an infinite amount of time.",
+    "secondary_definitions": [
+      "( duration , colloquial , hyperbolic ) For a very long time, a seeming eternity.",
+      "( frequency ) Constantly or frequently ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "extreme",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "ADV"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 6,
+      "examples": 6,
+      "synonyms": 16,
+      "antonyms": 7,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\extreme.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\extreme.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\extreme.json"
+  },
+  "timestamp": "2025-08-19T03:23:35.222706Z"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "newspaper",
+    "lemma": "newspaper",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnjuːsˌpeɪpə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "newspapers",
+          "PT": "newspapered",
+          "PAP": "newspapered",
+          "PRP": "newspapering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cover with newspaper.",
+        "examples": [
+          "She newspapered one end of the room before painting the bookcase."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To engage in the business of journalism",
+        "examples": [
+          "His newspapered his way through the South on the sports beat, avoiding dry towns."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive"
+        ],
+        "label_groups": "intransitive , transitive"
+      },
+      {
+        "definition": "To harass somebody through newspaper articles.",
+        "examples": [
+          "He got newspapered out of public life."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To cover with newspaper.",
+    "secondary_definitions": [
+      "( intransitive , transitive ) To engage in the business of journalism",
+      "( transitive , obsolete ) To harass somebody through newspaper articles."
+    ]
+  }
+]

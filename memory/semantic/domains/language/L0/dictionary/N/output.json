@@ -1,0 +1,97 @@
+[
+  {
+    "word": "output",
+    "lemma": "output",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaʊtpʊt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "outputs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is produced by something, especially that which is produced within a particular time period or from a particular effort.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Production ; quantity produced , created, or completed.",
+            "examples": [
+              "The factory increased its output this year."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "economics"
+            ],
+            "label_groups": "economics"
+          },
+          {
+            "definition": "Data sent out of the computer, as to output device such as a monitor or printer , or data sent from one program on the computer to another.",
+            "examples": [
+              "a six-page output ; six pages of output"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "The flow rate of body liquids such as blood and urine.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine"
+            ],
+            "label_groups": "medicine"
+          },
+          {
+            "definition": "The amount of power produced by a particular system.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "electrical engineering"
+            ],
+            "label_groups": "electrical engineering"
+          },
+          {
+            "definition": "The terminal through which the data or power is delivered from the source, output terminal.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "electrical engineering"
+            ],
+            "label_groups": "computing , electrical engineering"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "That which is produced by something, especially that which is produced within a particular time period or from a particular effort.",
+    "secondary_definitions": []
+  }
+]

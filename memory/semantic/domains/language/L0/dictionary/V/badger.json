@@ -1,0 +1,45 @@
+[
+  {
+    "word": "badger",
+    "lemma": "badger",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbæd͡ʒə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "badgers",
+          "PT": "badgered",
+          "PAP": "badgered",
+          "PRP": "badgering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pester ; to annoy persistently ; to press .",
+        "examples": [
+          "He kept badgering her about her bad habits."
+        ],
+        "synonyms": [
+          "bait",
+          "hound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To pester ; to annoy persistently ; to press .",
+    "secondary_definitions": []
+  }
+]

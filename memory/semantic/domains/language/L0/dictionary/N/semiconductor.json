@@ -1,0 +1,54 @@
+[
+  {
+    "word": "semiconductor",
+    "lemma": "semiconductor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌsɛmikənˈdʌktə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "semiconductors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A substance with electrical properties intermediate between a good conductor and a good insulator .",
+        "examples": [
+          "Integrated circuits are made from semiconductors , especially silicon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Ellipsis of semiconductor device .",
+        "examples": [
+          "The company supplies semiconductors to laptop, server, and smartphone manufacturers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "business",
+          "metonymic"
+        ],
+        "label_groups": "business , metonymic"
+      }
+    ],
+    "main_definition": "( physics ) A substance with electrical properties intermediate between a good conductor and a good insulator .",
+    "secondary_definitions": [
+      "( business , metonymic ) Ellipsis of semiconductor device ."
+    ]
+  }
+]

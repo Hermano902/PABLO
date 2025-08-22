@@ -1,0 +1,51 @@
+[
+  {
+    "word": "singular",
+    "lemma": "singular",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪŋ.ɡjə.lɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "singulars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A form of a word that refers to only one person or thing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "plural"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "That which is not general; a specific determinate instance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( grammar ) A form of a word that refers to only one person or thing.",
+    "secondary_definitions": [
+      "( logic ) That which is not general; a specific determinate instance."
+    ]
+  }
+]

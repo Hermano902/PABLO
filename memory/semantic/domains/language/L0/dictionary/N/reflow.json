@@ -1,0 +1,45 @@
+[
+  {
+    "word": "reflow",
+    "lemma": "reflow",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reflows"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A flowing back again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of recreating the layout of a document when some of its component elements have changed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A flowing back again.",
+    "secondary_definitions": [
+      "( computing ) The process of recreating the layout of a document when some of its component elements have changed."
+    ]
+  }
+]

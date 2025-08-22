@@ -1,0 +1,51 @@
+[
+  {
+    "word": "coercivity",
+    "lemma": "coercivity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "coercivities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being coercive .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The intensity of the magnetic field which must be applied in order to reduce the magnetization of a ferromagnetic material to zero after the magnetization of the sample has been driven to saturation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "materials science"
+        ],
+        "label_groups": "physics , materials science"
+      }
+    ],
+    "main_definition": "( uncountable ) The quality of being coercive .",
+    "secondary_definitions": [
+      "( physics , materials science ) The intensity of the magnetic field which must be applied in order to reduce the magnetization of a ferromagnetic material to zero after the magnetization of the sample has been driven to saturation ."
+    ]
+  }
+]

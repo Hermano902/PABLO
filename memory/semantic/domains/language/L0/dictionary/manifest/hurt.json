@@ -1,0 +1,38 @@
+{
+  "word": "hurt",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 4,
+      "examples": 8,
+      "synonyms": 9,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\hurt.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\hurt.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\hurt.json"
+  },
+  "timestamp": "2025-08-19T05:39:49.342078Z"
+}

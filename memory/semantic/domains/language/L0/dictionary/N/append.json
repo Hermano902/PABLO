@@ -1,0 +1,35 @@
+[
+  {
+    "word": "append",
+    "lemma": "append",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ʌˈpɛnd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "appends"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instance of writing more data to the end of an existing file .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) An instance of writing more data to the end of an existing file .",
+    "secondary_definitions": []
+  }
+]

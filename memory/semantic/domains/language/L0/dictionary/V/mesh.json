@@ -1,0 +1,71 @@
+[
+  {
+    "word": "mesh",
+    "lemma": "mesh",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɛʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "meshes",
+          "PT": "meshed",
+          "PAP": "meshed",
+          "PRP": "meshing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To connect together by interlocking, as gears do.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To fit in; to come together harmoniously.",
+        "examples": [
+          "The music meshed well with the visuals in that film."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative",
+          "by extension"
+        ],
+        "label_groups": "intransitive , figurative , by extension"
+      },
+      {
+        "definition": "To catch in a mesh.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To connect together by interlocking, as gears do.",
+    "secondary_definitions": [
+      "( intransitive , figurative , by extension ) To fit in; to come together harmoniously.",
+      "( transitive ) To catch in a mesh."
+    ]
+  }
+]

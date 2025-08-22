@@ -1,0 +1,72 @@
+[
+  {
+    "word": "consensus",
+    "lemma": "consensus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈsɛnsəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "consensuses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A process of decision-making that seeks widespread agreement among group members.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "General agreement among the members of a given group or community, each member of which exercises some discretion in decision-making and follow-up action.",
+        "examples": [
+          "reach consensus",
+          "After years of debate over the best wine to serve at Thanksgiving, no real consensus has emerged."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An agreement on some data value that is needed during computation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Average projected value.",
+        "examples": [
+          "a financial consensus forecast"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "attributive"
+        ],
+        "label_groups": "attributive"
+      }
+    ],
+    "main_definition": "A process of decision-making that seeks widespread agreement among group members.",
+    "secondary_definitions": [
+      "General agreement among the members of a given group or community, each member of which exercises some discretion in decision-making and follow-up action.",
+      "( computing ) An agreement on some data value that is needed during computation .",
+      "( attributive ) Average projected value."
+    ]
+  }
+]

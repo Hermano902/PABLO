@@ -1,0 +1,37 @@
+{
+  "word": "daddy",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 2,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\daddy.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\daddy.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\daddy.json"
+  },
+  "timestamp": "2025-08-19T01:18:39.991960Z"
+}

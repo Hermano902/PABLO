@@ -1,0 +1,58 @@
+[
+  {
+    "word": "postcard",
+    "lemma": "postcard",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpoʊstˌkɑɹd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "postcards",
+          "PT": "postcarded",
+          "PAP": "postcarded",
+          "PRP": "postcarding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send a postcard to someone.",
+        "examples": [
+          "to postcard one's friends"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To send by means of a postcard.",
+        "examples": [
+          "to postcard one's news"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To send a postcard to someone.",
+    "secondary_definitions": [
+      "( transitive ) To send by means of a postcard."
+    ]
+  }
+]

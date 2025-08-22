@@ -1,0 +1,35 @@
+[
+  {
+    "word": "parasitic",
+    "lemma": "parasitic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpæɹ.əˈsɪt.ɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parasitics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A component of a circuit that does not show up in a circuit's schematic but does show up in the circuit's behavior.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( electronics ) A component of a circuit that does not show up in a circuit's schematic but does show up in the circuit's behavior.",
+    "secondary_definitions": []
+  }
+]

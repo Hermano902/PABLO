@@ -1,0 +1,41 @@
+{
+  "word": "vert",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADJ:2",
+    "N:2",
+    "N:3",
+    "V",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\vert.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\vert.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\vert.json"
+  },
+  "timestamp": "2025-08-19T20:28:16.859327Z"
+}

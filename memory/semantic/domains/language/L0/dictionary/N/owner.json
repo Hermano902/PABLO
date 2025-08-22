@@ -1,0 +1,61 @@
+[
+  {
+    "word": "owner",
+    "lemma": "owner",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈoʊnɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "owners"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who owns something.",
+        "examples": [
+          "The police recovered the stolen car and returned it to its owner ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The captain of a ship.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "slang"
+        ],
+        "label_groups": "nautical , slang"
+      },
+      {
+        "definition": "Ellipsis of owner-type jeepney .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Philippines"
+        ],
+        "label_groups": "Philippines"
+      }
+    ],
+    "main_definition": "One who owns something.",
+    "secondary_definitions": [
+      "( nautical , slang ) The captain of a ship.",
+      "( Philippines ) Ellipsis of owner-type jeepney ."
+    ]
+  }
+]

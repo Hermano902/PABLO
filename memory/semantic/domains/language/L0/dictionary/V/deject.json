@@ -1,0 +1,74 @@
+[
+  {
+    "word": "deject",
+    "lemma": "deject",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈdʒɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dejects",
+          "PT": "dejected",
+          "PAP": "dejected",
+          "PRP": "dejecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Make sad or dispirited .",
+        "examples": [],
+        "synonyms": [
+          "depress",
+          "get down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cast downward .",
+        "examples": [],
+        "synonyms": [
+          "downcast",
+          "throw down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To debase or humble .",
+        "examples": [],
+        "synonyms": [
+          "abase",
+          "humiliate",
+          "put someone in their place"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) Make sad or dispirited .",
+    "secondary_definitions": [
+      "( obsolete , transitive ) To cast downward .",
+      "To debase or humble ."
+    ]
+  }
+]

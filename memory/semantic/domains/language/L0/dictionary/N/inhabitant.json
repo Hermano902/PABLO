@@ -1,0 +1,48 @@
+[
+  {
+    "word": "inhabitant",
+    "lemma": "inhabitant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhæb.ɪ.tənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inhabitants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone or thing who lives in a place .",
+        "examples": [],
+        "synonyms": [
+          "resident",
+          "dweller"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A possible value for a type .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "type theory"
+        ],
+        "label_groups": "type theory"
+      }
+    ],
+    "main_definition": "Someone or thing who lives in a place .",
+    "secondary_definitions": [
+      "( type theory ) A possible value for a type ."
+    ]
+  }
+]

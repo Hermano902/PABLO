@@ -1,0 +1,65 @@
+[
+  {
+    "word": "inbox",
+    "lemma": "inbox",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnbɒks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inboxes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A container in which papers to be dealt with are put.",
+        "examples": [],
+        "synonyms": [
+          "in-basket",
+          "in-tray"
+        ],
+        "antonyms": [
+          "outbox"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An electronic folder serving the same purpose, but for electronic files, especially email.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The aggregate of items that demand one's attention or effort.",
+        "examples": [
+          "The kids, my ex, my parents, the job, bills — my inbox is full."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "A container in which papers to be dealt with are put.",
+    "secondary_definitions": [
+      "( computing ) An electronic folder serving the same purpose, but for electronic files, especially email.",
+      "( figuratively ) The aggregate of items that demand one's attention or effort."
+    ]
+  }
+]

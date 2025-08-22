@@ -1,0 +1,50 @@
+[
+  {
+    "word": "superclass",
+    "lemma": "superclass",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "superclasses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A high-level class that passes attributes and methods down the hierarchy to subclasses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "object-oriented programming"
+        ],
+        "label_groups": "computing , object-oriented programming"
+      },
+      {
+        "definition": "A taxon ranking below a phylum and above a class .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      }
+    ],
+    "main_definition": "( computing , object-oriented programming ) A high-level class that passes attributes and methods down the hierarchy to subclasses .",
+    "secondary_definitions": [
+      "( taxonomy ) A taxon ranking below a phylum and above a class ."
+    ]
+  }
+]

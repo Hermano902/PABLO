@@ -1,0 +1,129 @@
+[
+  {
+    "word": "variance",
+    "lemma": "variance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɛə.ɹi.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "variances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of varying or the state of being variable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A difference between what is expected and what is observed ; deviation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of differing or being in conflict .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An official permit to do something that is ordinarily forbidden by regulations.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A discrepancy between two legal documents.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "A departure from a cause of action originally in a complaint .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "The second central moment in probability .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "The number of degrees of freedom in a system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "chemistry",
+          "biology"
+        ],
+        "label_groups": "physics , chemistry , biology"
+      },
+      {
+        "definition": "Covariance and contravariance generally.",
+        "examples": [
+          "Depending on the variance of the type constructor, the subtyping relation of the simple types may be either preserved, reversed, or ignored for the respective complex types."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      }
+    ],
+    "main_definition": "The act of varying or the state of being variable .",
+    "secondary_definitions": [
+      "A difference between what is expected and what is observed ; deviation .",
+      "The state of differing or being in conflict .",
+      "An official permit to do something that is ordinarily forbidden by regulations.",
+      "( law ) A discrepancy between two legal documents.",
+      "( law ) A departure from a cause of action originally in a complaint .",
+      "( statistics ) The second central moment in probability .",
+      "( physics , chemistry , biology ) The number of degrees of freedom in a system .",
+      "( computing , programming ) Covariance and contravariance generally."
+    ]
+  }
+]

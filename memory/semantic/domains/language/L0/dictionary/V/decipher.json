@@ -1,0 +1,88 @@
+[
+  {
+    "word": "decipher",
+    "lemma": "decipher",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈsaɪfə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deciphers",
+          "PT": "deciphered",
+          "PAP": "deciphered",
+          "PRP": "deciphering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert a code or cipher to plain text .",
+        "examples": [],
+        "synonyms": [
+          "decode",
+          "decrypt",
+          "uncode"
+        ],
+        "antonyms": [
+          "encipher",
+          "encode",
+          "encrypt"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To read text that is almost illegible or obscure",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make sense of a complex situation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To find a solution to a problem .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To convert a code or cipher to plain text .",
+    "secondary_definitions": [
+      "( transitive ) To read text that is almost illegible or obscure",
+      "( transitive ) To make sense of a complex situation .",
+      "( transitive ) To find a solution to a problem ."
+    ]
+  }
+]

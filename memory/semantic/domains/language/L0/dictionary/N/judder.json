@@ -1,0 +1,45 @@
+[
+  {
+    "word": "judder",
+    "lemma": "judder",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒʌdə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "judders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A spasmodic shaking .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Jerky playback caused by converting between frame rates ; telecine judder",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "television"
+        ],
+        "label_groups": "television"
+      }
+    ],
+    "main_definition": "A spasmodic shaking .",
+    "secondary_definitions": [
+      "( television ) Jerky playback caused by converting between frame rates ; telecine judder"
+    ]
+  }
+]

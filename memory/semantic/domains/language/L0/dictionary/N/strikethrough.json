@@ -1,0 +1,58 @@
+[
+  {
+    "word": "strikethrough",
+    "lemma": "strikethrough",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstɹaɪk.θɹu/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "strikethroughs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An horizontal line overlaid on other characters.",
+        "examples": [
+          "In HTML , wrapping text with the code <del> and </del> produces a strikethrough ."
+        ],
+        "synonyms": [
+          "slashout"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      },
+      {
+        "definition": "A horizontal or oblique line overlaid on individual characters.",
+        "examples": [],
+        "synonyms": [
+          "stroke",
+          "solidus",
+          "slash",
+          "bar"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      }
+    ],
+    "main_definition": "( typography ) An horizontal line overlaid on other characters.",
+    "secondary_definitions": [
+      "( typography ) A horizontal or oblique line overlaid on individual characters."
+    ]
+  }
+]

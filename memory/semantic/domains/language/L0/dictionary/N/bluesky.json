@@ -1,0 +1,98 @@
+[
+  {
+    "word": "bluesky",
+    "lemma": "bluesky",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( trademark ) A microblogging social media service owned by Bluesky Social PBC.",
+        "examples": [],
+        "synonyms": [
+          "butterfly app"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( trademark ) A microblogging social media service owned by Bluesky Social PBC.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "bluesky",
+    "lemma": "bluesky",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Blueskys"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A user account on Bluesky.",
+        "examples": [
+          "Please check out my Bluesky ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "informal"
+        ],
+        "label_groups": "Internet , informal"
+      },
+      {
+        "definition": "A feed on Bluesky.",
+        "examples": [
+          "I saw this post on my Bluesky ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "informal"
+        ],
+        "label_groups": "Internet , informal"
+      },
+      {
+        "definition": "A community of users on Bluesky.",
+        "examples": [],
+        "synonyms": [
+          "-sky"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "informal",
+          "usually in compounds"
+        ],
+        "label_groups": "Internet , informal , usually in compounds"
+      }
+    ],
+    "main_definition": "( Internet , informal ) A user account on Bluesky.",
+    "secondary_definitions": [
+      "( Internet , informal ) A feed on Bluesky.",
+      "( Internet , informal , usually in compounds ) A community of users on Bluesky."
+    ]
+  }
+]

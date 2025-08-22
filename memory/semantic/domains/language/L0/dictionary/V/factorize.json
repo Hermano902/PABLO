@@ -1,0 +1,84 @@
+[
+  {
+    "word": "factorize",
+    "lemma": "factorize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈflɛksə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "factorizes",
+          "PT": "factorized",
+          "PAP": "factorized",
+          "PRP": "factorizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a list of the factors of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "transitive"
+        ],
+        "label_groups": "mathematics , transitive"
+      },
+      {
+        "definition": "To divide an expression into a list of items that, when multiplied together, will produce the original quantity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "transitive"
+        ],
+        "label_groups": "mathematics , transitive"
+      },
+      {
+        "definition": "To warn not to pay or give up goods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "transitive"
+        ],
+        "label_groups": "US , transitive"
+      },
+      {
+        "definition": "To attach the effects of a debtor in the hands of a third party.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "transitive"
+        ],
+        "label_groups": "US , transitive"
+      }
+    ],
+    "main_definition": "( mathematics , transitive ) To create a list of the factors of.",
+    "secondary_definitions": [
+      "( mathematics , transitive ) To divide an expression into a list of items that, when multiplied together, will produce the original quantity.",
+      "( US , transitive ) To warn not to pay or give up goods.",
+      "( US , transitive ) To attach the effects of a debtor in the hands of a third party."
+    ]
+  }
+]

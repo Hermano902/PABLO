@@ -1,0 +1,79 @@
+[
+  {
+    "word": "agnostic",
+    "lemma": "agnostic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/aɡˈnɒstɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more agnostic",
+          "SUP": "most agnostic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Doubtful or uncertain about the existence or demonstrability of God or other deity .",
+        "examples": [
+          "She left the church when she had become agnostic ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having no firmly held opinions on something.",
+        "examples": [
+          "I'm agnostic on whether ethanol is a green fuel.",
+          "He says he's agnostic concerning the Secretary's claims."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "usually with a prepositional phrase"
+        ],
+        "label_groups": "informal , usually with a prepositional phrase"
+      },
+      {
+        "definition": "Of or relating to agnosticism or its adherents.",
+        "examples": [
+          "His agnostic viewpoint is summarized in his book."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unaware or noncommittal regarding the specific nature of the components or input with which it interacts .",
+        "examples": [
+          "The socket communications layer is agnostic with regard to its underlying transport mechanism—it is “transport- agnostic ”.",
+          "The software's registration key is platform agnostic and will work on both x86 and ARM processors."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a software component etc."
+        ],
+        "label_groups": "computing , of a software component etc."
+      }
+    ],
+    "main_definition": "Doubtful or uncertain about the existence or demonstrability of God or other deity .",
+    "secondary_definitions": [
+      "( informal , usually with a prepositional phrase ) Having no firmly held opinions on something.",
+      "Of or relating to agnosticism or its adherents.",
+      "( computing , of a software component etc. ) Unaware or noncommittal regarding the specific nature of the components or input with which it interacts ."
+    ]
+  }
+]

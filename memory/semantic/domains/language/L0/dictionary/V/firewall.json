@@ -1,0 +1,71 @@
+[
+  {
+    "word": "firewall",
+    "lemma": "firewall",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪə.wɔəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "firewalls",
+          "PT": "firewalled",
+          "PAP": "firewalled",
+          "PRP": "firewalling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To protect with a firewall .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer security"
+        ],
+        "label_groups": "transitive , computer security"
+      },
+      {
+        "definition": "To block with a firewall .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer security"
+        ],
+        "label_groups": "transitive , computer security"
+      },
+      {
+        "definition": "To use maximum engine power or acceleration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "motor vehicles or aircraft",
+          "slang"
+        ],
+        "label_groups": "intransitive , motor vehicles or aircraft , slang"
+      }
+    ],
+    "main_definition": "( transitive , computer security ) To protect with a firewall .",
+    "secondary_definitions": [
+      "( transitive , computer security ) To block with a firewall .",
+      "( intransitive , motor vehicles or aircraft , slang ) To use maximum engine power or acceleration ."
+    ]
+  }
+]

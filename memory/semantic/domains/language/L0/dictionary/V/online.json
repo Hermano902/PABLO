@@ -1,0 +1,41 @@
+[
+  {
+    "word": "online",
+    "lemma": "online",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒnlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "onlines",
+          "PT": "onlined",
+          "PAP": "onlined",
+          "PRP": "onlining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring (a system, etc.) online; to promote to an active or running state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To bring (a system, etc.) online; to promote to an active or running state.",
+    "secondary_definitions": []
+  }
+]

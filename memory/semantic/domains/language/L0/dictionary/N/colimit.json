@@ -1,0 +1,35 @@
+[
+  {
+    "word": "colimit",
+    "lemma": "colimit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "colimits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The cocone of a diagram through which any other cocone of that same diagram can factor uniquely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "( category theory ) The cocone of a diagram through which any other cocone of that same diagram can factor uniquely.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "predictive",
+    "lemma": "predictive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈdɪk.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more predictive",
+          "SUP": "most predictive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Useful in predicting .",
+        "examples": [
+          "The amount of rain in April is predictive of the number of mosquitoes in May."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Describing a predictor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Expressing the expected accuracy of a statistical measure or of a diagnostic test.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "Useful in predicting .",
+    "secondary_definitions": [
+      "( computing ) Describing a predictor .",
+      "( medicine ) Expressing the expected accuracy of a statistical measure or of a diagnostic test."
+    ]
+  }
+]

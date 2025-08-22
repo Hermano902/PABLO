@@ -1,0 +1,49 @@
+[
+  {
+    "word": "foobar",
+    "lemma": "foobar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfuːˌbɑː(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "foobars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A serious mistake .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "A metasyntactic variable name, a place holder for words; compare foo , bar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( slang ) A serious mistake .",
+    "secondary_definitions": [
+      "( programming ) A metasyntactic variable name, a place holder for words; compare foo , bar ."
+    ]
+  }
+]

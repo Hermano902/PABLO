@@ -1,0 +1,59 @@
+[
+  {
+    "word": "married",
+    "lemma": "married",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæɹ.ɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a state of marriage ; having a wife or a husband.",
+        "examples": [
+          "Are you married or single?",
+          "My mom got married to her childhood sweetheart."
+        ],
+        "synonyms": [
+          "autem",
+          "wed",
+          "wedded"
+        ],
+        "antonyms": [
+          "single",
+          "unmarried"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Showing commitment or devotion normally reserved for a spouse ; strongly committed or attached to something.",
+        "examples": [
+          "married to one's work",
+          "married to an idea",
+          "Yes, I drafted the business proposal, but I'm not married to it, so it's okay if the board doesn't approve it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "In a state of marriage ; having a wife or a husband.",
+    "secondary_definitions": [
+      "( figuratively ) Showing commitment or devotion normally reserved for a spouse ; strongly committed or attached to something."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "irrigate",
+    "lemma": "irrigate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪɹəˌɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "irrigates",
+          "PT": "irrigated",
+          "PAP": "irrigated",
+          "PRP": "irrigating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To supply ( farmland ) with water, by building ditches , pipes , etc.",
+        "examples": [
+          "We need to irrigate the land before we plant the crops."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To clean (a wound ) with a fluid .",
+        "examples": [
+          "The nurse will show you how to irrigate the wound to prevent infection."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To supply ( farmland ) with water, by building ditches , pipes , etc.",
+    "secondary_definitions": [
+      "( transitive ) To clean (a wound ) with a fluid ."
+    ]
+  }
+]

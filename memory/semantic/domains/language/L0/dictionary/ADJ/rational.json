@@ -1,0 +1,163 @@
+[
+  {
+    "word": "rational",
+    "lemma": "rational",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹæʃ(ə)nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more rational",
+          "SUP": "most rational"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of reasoning .",
+        "examples": [
+          "Man is a rational creature."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Logically sound ; not self-contradictory or otherwise absurd .",
+        "examples": [
+          "His statements were quite rational ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Healthy or balanced intellectually ; exhibiting reasonableness .",
+        "examples": [
+          "rational conduct"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a person or personal characteristics"
+        ],
+        "label_groups": "of a person or personal characteristics"
+      },
+      {
+        "definition": "Comprising , or expressible as, a ratio",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a number , capable of being expressed as the ratio of two integers .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "arithmetic"
+            ],
+            "label_groups": "arithmetic"
+          },
+          {
+            "definition": "Of an algebraic expression in indeterminates , or more generally a function : capable of being expressed as the ratio of two polynomials .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra"
+            ],
+            "label_groups": "algebra"
+          },
+          {
+            "definition": "Of a variety : ( informally ) geometrically simple almost everywhere; ( formally ) birationally equivalent to projective space",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebraic geometry"
+            ],
+            "label_groups": "algebraic geometry"
+          },
+          {
+            "definition": "Of a function between varieties : acting as a morphism on an open subset of its domain .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebraic geometry"
+            ],
+            "label_groups": "algebraic geometry"
+          },
+          {
+            "definition": "Of a point on an algebraic variety over a field : whose coordinates belong to the field in question (in contrast to those points of the variety which are only defined over the algebraic closure of the base field).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebraic geometry"
+            ],
+            "label_groups": "algebraic geometry"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable"
+        ],
+        "label_groups": "mathematics , not comparable"
+      },
+      {
+        "definition": "Expressing the type, structure, relations, and reactions of a compound ; graphic ; said of formulae .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Expressing a physical object .",
+        "examples": [
+          "A rational table is physical, a written table is neither."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "Capable of reasoning .",
+    "secondary_definitions": [
+      "Logically sound ; not self-contradictory or otherwise absurd .",
+      "( of a person or personal characteristics ) Healthy or balanced intellectually ; exhibiting reasonableness .",
+      "( mathematics , not comparable ) Comprising , or expressible as, a ratio",
+      "( chemistry ) Expressing the type, structure, relations, and reactions of a compound ; graphic ; said of formulae .",
+      "( physics ) Expressing a physical object ."
+    ]
+  }
+]

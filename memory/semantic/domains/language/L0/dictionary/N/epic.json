@@ -1,0 +1,61 @@
+[
+  {
+    "word": "epic",
+    "lemma": "epic",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛp.ɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "epics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic epic), other legend or traditional hero .",
+        "examples": [
+          "The Icelandic epic took all night to recite."
+        ],
+        "synonyms": [
+          "epopee",
+          "epos"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A series of events considered appropriate to an epic.",
+        "examples": [
+          "The book was an epic in four volumes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A large or extended user story .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic epic), other legend or traditional hero .",
+    "secondary_definitions": [
+      "A series of events considered appropriate to an epic.",
+      "( software engineering ) A large or extended user story ."
+    ]
+  }
+]

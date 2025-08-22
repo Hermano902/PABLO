@@ -1,0 +1,51 @@
+[
+  {
+    "word": "recurring",
+    "lemma": "recurring",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkɜːɹɪŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more recurring",
+          "SUP": "most recurring"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Happening or occurring frequently , with repetition .",
+        "examples": [
+          "He has recurring asthma attacks.",
+          "Revenge is a recurring theme in this novel."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a decimal : having a set of digits that is repeated indefinitely .",
+        "examples": [
+          "Every rational number can be written as either a terminating decimal or a recurring decimal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable"
+        ],
+        "label_groups": "mathematics , not comparable"
+      }
+    ],
+    "main_definition": "Happening or occurring frequently , with repetition .",
+    "secondary_definitions": [
+      "( mathematics , not comparable ) Of a decimal : having a set of digits that is repeated indefinitely ."
+    ]
+  }
+]

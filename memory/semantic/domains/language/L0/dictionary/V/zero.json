@@ -1,0 +1,67 @@
+[
+  {
+    "word": "zero",
+    "lemma": "zero",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈzɪəɹəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "zeroes",
+          "PT": "zeroed",
+          "PAP": "zeroed",
+          "PRP": "zeroing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To set some amount to be zero .",
+        "examples": [
+          "They tried to zero the budget by the end of the quarter.",
+          "The bill was over $400, but the server zeroed it out as a gesture of gratitude.",
+          "Results were inconsistent because an array wasn’t zeroed during initialization.",
+          "Zero the fluorometer with the same solvent used in extraction.",
+          "George parked in space 34, zeroed the trip meter, closed and locked his car, then went back to the guard shack."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To disappear or make something disappear.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To adjust until the variance is reduced to an acceptably low amount .",
+        "examples": [
+          "The soldier took his gun to the shooting range to zero its aim."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To set some amount to be zero .",
+    "secondary_definitions": [
+      "To disappear or make something disappear.",
+      "To adjust until the variance is reduced to an acceptably low amount ."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "faucet",
+    "lemma": "faucet",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɔːsɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "faucets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An exposed plumbing fitting ; a tap or spigot ; a regulator for controlling the flow of a liquid from a reservoir.",
+        "examples": [],
+        "synonyms": [
+          "tap",
+          "spigot"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "US"
+        ],
+        "label_groups": "Canada , US"
+      },
+      {
+        "definition": "One or several systems that inject currency into the game's economy, thus controlling or preventing inflation",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "sink"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "game development"
+        ],
+        "label_groups": "game development"
+      }
+    ],
+    "main_definition": "( Canada , US ) An exposed plumbing fitting ; a tap or spigot ; a regulator for controlling the flow of a liquid from a reservoir.",
+    "secondary_definitions": [
+      "( game development ) One or several systems that inject currency into the game's economy, thus controlling or preventing inflation"
+    ]
+  }
+]

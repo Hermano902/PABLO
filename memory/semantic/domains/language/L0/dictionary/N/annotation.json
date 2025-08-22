@@ -1,0 +1,76 @@
+[
+  {
+    "word": "annotation",
+    "lemma": "annotation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌænəˈteɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "annotations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A critical or explanatory commentary or analysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A comment added to a text .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of writing such comment or commentary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Metadata added to a document or program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Information relating to the genetic structure of sequences of bases.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "A critical or explanatory commentary or analysis .",
+    "secondary_definitions": [
+      "A comment added to a text .",
+      "The process of writing such comment or commentary.",
+      "( computing ) Metadata added to a document or program.",
+      "( genetics ) Information relating to the genetic structure of sequences of bases."
+    ]
+  }
+]

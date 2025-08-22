@@ -1,0 +1,28 @@
+{
+  "word": "numerous",
+  "pos_order": [
+    "DET",
+    "ADJ"
+  ],
+  "pos": {
+    "DET": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 5,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\numerous.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\numerous.json"
+  },
+  "timestamp": "2025-08-19T10:22:20.221996Z"
+}

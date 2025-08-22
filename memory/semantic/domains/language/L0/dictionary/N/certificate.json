@@ -1,0 +1,96 @@
+[
+  {
+    "word": "certificate",
+    "lemma": "certificate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səˈtɪf.ɪ.kət/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "certificates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A document containing a certified statement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A document evidencing ownership or debt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A document serving as evidence that a person has completed an educational course , issued either by an institution not authorised to grant diplomas , or to a student not qualifying for a diploma .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "education"
+        ],
+        "label_groups": "education"
+      },
+      {
+        "definition": "The information needed in order to verify a positive answer to a problem.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "Ellipsis of public key certificate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A motion picture age rating .",
+        "examples": [
+          "The film is certificate 15."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British",
+          "Ireland"
+        ],
+        "label_groups": "British , Ireland"
+      }
+    ],
+    "main_definition": "A document containing a certified statement .",
+    "secondary_definitions": [
+      "A document evidencing ownership or debt .",
+      "( education ) A document serving as evidence that a person has completed an educational course , issued either by an institution not authorised to grant diplomas , or to a student not qualifying for a diploma .",
+      "( computing theory ) The information needed in order to verify a positive answer to a problem.",
+      "( computing ) Ellipsis of public key certificate .",
+      "( British , Ireland ) A motion picture age rating ."
+    ]
+  }
+]

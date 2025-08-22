@@ -1,0 +1,187 @@
+[
+  {
+    "word": "cipher",
+    "lemma": "cipher",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪfə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ciphers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A numeric character.",
+        "examples": [],
+        "synonyms": [
+          "number",
+          "numeral",
+          "digit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any text character.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A combination or interweaving of letters, as the initials of a name.",
+        "examples": [
+          "a painter's cipher",
+          "an engraver's cipher"
+        ],
+        "synonyms": [
+          "device",
+          "monogram"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A method of transforming a text in order to conceal its meaning.",
+        "examples": [
+          "The message was written in a simple cipher . Anyone could figure it out."
+        ],
+        "synonyms": [
+          "code"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cryptographic system using an algorithm that converts letters or sequences of bits into ciphertext .",
+        "examples": [
+          "a public-key cipher"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "Ciphertext ; a message concealed via a cipher .",
+        "examples": [
+          "The message is clearly a cipher , but I can't figure it out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A grouping of three digits in a number, especially when delimited by commas or periods:",
+        "examples": [
+          "The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fault in an organ valve which causes a pipe to sound continuously without the key having been pressed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A hip-hop jam session .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "slang"
+        ],
+        "label_groups": "music , slang"
+      },
+      {
+        "definition": "The path (usually circular) shared cannabis takes through a group, an occasion of cannabis smoking.",
+        "examples": [],
+        "synonyms": [
+          "rotation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "Someone or something of no importance.",
+        "examples": [],
+        "synonyms": [
+          "nobody",
+          "nonentity",
+          "nothing"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Zero .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Eggcorn of siphon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A numeric character.",
+    "secondary_definitions": [
+      "Any text character.",
+      "A combination or interweaving of letters, as the initials of a name.",
+      "A method of transforming a text in order to conceal its meaning.",
+      "( cryptography ) A cryptographic system using an algorithm that converts letters or sequences of bits into ciphertext .",
+      "Ciphertext ; a message concealed via a cipher .",
+      "A grouping of three digits in a number, especially when delimited by commas or periods:",
+      "( music ) A fault in an organ valve which causes a pipe to sound continuously without the key having been pressed.",
+      "( music , slang ) A hip-hop jam session .",
+      "( slang ) The path (usually circular) shared cannabis takes through a group, an occasion of cannabis smoking.",
+      "Someone or something of no importance.",
+      "( dated ) Zero .",
+      "Eggcorn of siphon ."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "incomplete",
+    "lemma": "incomplete",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪn.kəmˈpliːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "incompletes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something incomplete.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A multipart file posted to a Usenet newsgroup that is incomplete and thus unusable.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Usenet"
+            ],
+            "label_groups": "Usenet"
+          },
+          {
+            "definition": "A multiplayer game that is abandoned because one player disconnects .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "video games",
+              "Internet"
+            ],
+            "label_groups": "video games , Internet"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A designation of being incomplete.",
+        "examples": [
+          "He got four incompletes out of five courses last semester."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Something incomplete.",
+    "secondary_definitions": [
+      "A designation of being incomplete."
+    ]
+  }
+]

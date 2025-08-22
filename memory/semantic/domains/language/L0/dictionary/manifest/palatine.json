@@ -1,0 +1,31 @@
+{
+  "word": "palatine",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "N:2",
+    "ADJ:2",
+    "N:3"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\palatine.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\palatine.json"
+  },
+  "timestamp": "2025-08-19T11:06:05.542835Z"
+}

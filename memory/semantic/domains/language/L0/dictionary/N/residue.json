@@ -1,0 +1,97 @@
+[
+  {
+    "word": "residue",
+    "lemma": "residue",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛzɪduː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "residues"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Whatever remains after something else has been removed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The substance that remains after evaporation , distillation , filtration or any similar process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A molecule that is released from a polymer after bonds between neighbouring monomers are broken, such as an amino acid in a polypeptide chain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      },
+      {
+        "definition": "Whatever property or effects are left in an estate after payment of all debts, other charges and deduction of what is specifically bequeathed by the testator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "A representative element of an equivalence class modulo some base, conventionally in the half-open interval from zero to the base; the nonnegative remainder after dividing a number by a base.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "modular arithmetic"
+        ],
+        "label_groups": "modular arithmetic"
+      },
+      {
+        "definition": "A form of complex number , proportional to the contour integral of a meromorphic function along a path enclosing one of its singularities .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "complex analysis"
+        ],
+        "label_groups": "complex analysis"
+      }
+    ],
+    "main_definition": "Whatever remains after something else has been removed .",
+    "secondary_definitions": [
+      "( chemistry ) The substance that remains after evaporation , distillation , filtration or any similar process.",
+      "( biochemistry ) A molecule that is released from a polymer after bonds between neighbouring monomers are broken, such as an amino acid in a polypeptide chain.",
+      "( law ) Whatever property or effects are left in an estate after payment of all debts, other charges and deduction of what is specifically bequeathed by the testator .",
+      "( modular arithmetic ) A representative element of an equivalence class modulo some base, conventionally in the half-open interval from zero to the base; the nonnegative remainder after dividing a number by a base.",
+      "( complex analysis ) A form of complex number , proportional to the contour integral of a meromorphic function along a path enclosing one of its singularities ."
+    ]
+  }
+]

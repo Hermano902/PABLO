@@ -1,0 +1,80 @@
+[
+  {
+    "word": "constraint",
+    "lemma": "constraint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈstɹeɪnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "constraints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that constrains ; a restriction .",
+        "examples": [
+          "An engineer must recognize the difference between a constraint (to work within) and a problem (to be eliminated via resolution)."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An irresistible force or compulsion .",
+        "examples": [
+          "They confessed, but only under severe constraint ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The repression of one's feelings.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A condition that a solution to an optimization problem must satisfy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A linkage or other restriction that maintains database integrity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "Something that constrains ; a restriction .",
+    "secondary_definitions": [
+      "An irresistible force or compulsion .",
+      "The repression of one's feelings.",
+      "( mathematics ) A condition that a solution to an optimization problem must satisfy.",
+      "( databases ) A linkage or other restriction that maintains database integrity ."
+    ]
+  }
+]

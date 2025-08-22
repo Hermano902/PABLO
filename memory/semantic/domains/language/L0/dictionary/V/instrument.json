@@ -1,0 +1,67 @@
+[
+  {
+    "word": "instrument",
+    "lemma": "instrument",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnstɹəmənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "instruments",
+          "PT": "instrumented",
+          "PAP": "instrumented",
+          "PRP": "instrumenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To apply measuring devices.",
+        "examples": [
+          "an instrumented test article"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To devise, conceive, cook up , plan.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform upon an instrument ; to prepare for an instrument .",
+        "examples": [
+          "a sonata instrumented for orchestra"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To apply measuring devices.",
+    "secondary_definitions": [
+      "( transitive ) To devise, conceive, cook up , plan.",
+      "To perform upon an instrument ; to prepare for an instrument ."
+    ]
+  }
+]

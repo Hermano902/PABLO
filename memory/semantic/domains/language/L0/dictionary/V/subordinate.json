@@ -1,0 +1,84 @@
+[
+  {
+    "word": "subordinate",
+    "lemma": "subordinate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/səˈbɔːdɪnət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subordinates",
+          "PT": "subordinated",
+          "PAP": "subordinated",
+          "PRP": "subordinating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make subservient or secondary .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To embed (a clause ) into another clause that is the main one.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "grammar"
+            ],
+            "label_groups": "transitive , grammar"
+          },
+          {
+            "definition": "To make of lower priority in order of payment in bankruptcy .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "finance"
+            ],
+            "label_groups": "transitive , finance"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To treat (someone) as of less value or importance .",
+        "examples": [],
+        "synonyms": [
+          "belittle",
+          "denigrate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make subservient or secondary .",
+    "secondary_definitions": [
+      "( transitive ) To treat (someone) as of less value or importance ."
+    ]
+  }
+]

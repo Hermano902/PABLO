@@ -1,0 +1,31 @@
+{
+  "word": "tack",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 18,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 2,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tack.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tack.json"
+  },
+  "timestamp": "2025-08-19T18:41:38.052878Z"
+}

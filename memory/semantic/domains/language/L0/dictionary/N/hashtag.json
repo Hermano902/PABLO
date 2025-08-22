@@ -1,0 +1,52 @@
+[
+  {
+    "word": "hashtag",
+    "lemma": "hashtag",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhæʃˌtæɡ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hashtags"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A metadata tag, signaled by a preceding hash sign ( # ), used to label content.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet",
+        "dating_raw": "from 2007"
+      },
+      {
+        "definition": "The hash sign itself, when used as part of a hashtag.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "metonymic",
+          "informal"
+        ],
+        "label_groups": "Internet , metonymic , informal"
+      }
+    ],
+    "main_definition": "( Internet ) A metadata tag, signaled by a preceding hash sign ( # ), used to label content. [from 2007]",
+    "secondary_definitions": [
+      "( Internet , metonymic , informal ) The hash sign itself, when used as part of a hashtag."
+    ]
+  }
+]

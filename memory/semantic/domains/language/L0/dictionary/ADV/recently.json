@@ -1,0 +1,68 @@
+[
+  {
+    "word": "recently",
+    "lemma": "recently",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiːsəntli/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more recently",
+          "SUP": "most recently"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In the recent past",
+        "examples": [],
+        "synonyms": [
+          "newly",
+          "lately",
+          "freshly"
+        ],
+        "antonyms": [
+          "long ago",
+          "long since"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "a short while ago.",
+            "examples": [
+              "My recently published book about the life stories of recently -arrived immigrants."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "referring to a point of time in the recent past"
+            ],
+            "label_groups": "referring to a point of time in the recent past"
+          },
+          {
+            "definition": "in recent times.",
+            "examples": [
+              "I haven't been sleeping well recently ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "referring to a time period starting in the recent past",
+              "including the present"
+            ],
+            "label_groups": "referring to a time period starting in the recent past and including the present"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "In the recent past",
+    "secondary_definitions": []
+  }
+]

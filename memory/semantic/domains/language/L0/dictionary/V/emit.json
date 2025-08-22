@@ -1,0 +1,86 @@
+[
+  {
+    "word": "emit",
+    "lemma": "emit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/iˈmɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "emits",
+          "PT": "emitted",
+          "PAP": "emitted",
+          "PRP": "emitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send out or give off .",
+        "examples": [],
+        "synonyms": [
+          "outsend",
+          "output"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come out , to be sent out or given off.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To result in specific machine instructions or bytecode when compiled .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To produce computer code when processed or executed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming",
+          "by extension"
+        ],
+        "label_groups": "transitive , programming , by extension"
+      }
+    ],
+    "main_definition": "( transitive ) To send out or give off .",
+    "secondary_definitions": [
+      "( intransitive ) To come out , to be sent out or given off.",
+      "( transitive , programming ) To result in specific machine instructions or bytecode when compiled .",
+      "( transitive , programming , by extension ) To produce computer code when processed or executed ."
+    ]
+  }
+]

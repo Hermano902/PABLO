@@ -1,0 +1,35 @@
+[
+  {
+    "word": "hyperbola",
+    "lemma": "hyperbola",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/haɪˈpɚ.bə.lə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hyperbolas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A conic section formed by the intersection of a cone with a plane that intersects the base of the cone and is not tangent to the cone. The function y(x) = 1/x draws a hyperbola.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A conic section formed by the intersection of a cone with a plane that intersects the base of the cone and is not tangent to the cone. The function y(x) = 1/x draws a hyperbola.",
+    "secondary_definitions": []
+  }
+]

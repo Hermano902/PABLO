@@ -1,0 +1,84 @@
+[
+  {
+    "word": "radar",
+    "lemma": "radar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹeɪ.dɑː(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "radars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A method of detecting distant objects and determining their position , velocity , or other characteristics by analysis of sent radio waves (usually microwaves ) reflected from their surfaces .",
+        "examples": [
+          "They were able to find the enemy fleet using radar ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A type of system using such a method, differentiated by platform , configuration , frequency , power , and other technical attributes .",
+        "examples": [
+          "The Ministry of Defence funded the development of an entirely new radar and improved avionics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An installation or instance of such a system or of the transmitting and receiving apparatus .",
+        "examples": [
+          "Each of these aircraft has been upgraded with a new radar and a more powerful engine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A superior ability to detect something.",
+        "examples": [
+          "His sensitive radar for hidden alliances keeps him out of trouble."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "figuratively"
+        ],
+        "label_groups": "countable , figuratively"
+      }
+    ],
+    "main_definition": "( uncountable ) A method of detecting distant objects and determining their position , velocity , or other characteristics by analysis of sent radio waves (usually microwaves ) reflected from their surfaces .",
+    "secondary_definitions": [
+      "( countable ) A type of system using such a method, differentiated by platform , configuration , frequency , power , and other technical attributes .",
+      "( countable ) An installation or instance of such a system or of the transmitting and receiving apparatus .",
+      "( countable , figuratively ) A superior ability to detect something."
+    ]
+  }
+]

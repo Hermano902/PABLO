@@ -1,0 +1,49 @@
+{
+  "word": "stay",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2",
+    "ADJ",
+    "ADV"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 26,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 14,
+      "examples": 5,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stay.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stay.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\stay.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\stay.json"
+  },
+  "timestamp": "2025-08-19T17:56:15.806566Z"
+}

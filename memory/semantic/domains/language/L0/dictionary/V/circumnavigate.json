@@ -1,0 +1,77 @@
+[
+  {
+    "word": "circumnavigate",
+    "lemma": "circumnavigate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌsə.kəmˈnæv.ɪ.ɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "circumnavigates",
+          "PT": "circumnavigated",
+          "PAP": "circumnavigated",
+          "PRP": "circumnavigating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To travel completely around somewhere or something, especially by sail .",
+        "examples": [
+          "We circumnavigated the Mediterranean."
+        ],
+        "synonyms": [
+          "compass",
+          "environ",
+          "go around",
+          "sail"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To circumvent or bypass .",
+        "examples": [],
+        "synonyms": [
+          "go around"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To sail around the world .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "sailing"
+        ],
+        "label_groups": "intransitive , sailing"
+      }
+    ],
+    "main_definition": "( transitive ) To travel completely around somewhere or something, especially by sail .",
+    "secondary_definitions": [
+      "( transitive ) To circumvent or bypass .",
+      "( intransitive , sailing ) To sail around the world ."
+    ]
+  }
+]

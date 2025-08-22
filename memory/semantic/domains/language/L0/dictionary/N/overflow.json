@@ -1,0 +1,63 @@
+[
+  {
+    "word": "overflow",
+    "lemma": "overflow",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈəʊvəˌfləʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overflows"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The spillage resultant from overflowing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An outlet for escape of excess material.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Excess , superabundance",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The situation where a value exceeds the available numeric range .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The spillage resultant from overflowing.",
+    "secondary_definitions": [
+      "An outlet for escape of excess material.",
+      "Excess , superabundance",
+      "( computing ) The situation where a value exceeds the available numeric range ."
+    ]
+  }
+]

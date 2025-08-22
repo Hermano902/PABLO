@@ -1,0 +1,102 @@
+[
+  {
+    "word": "glitch",
+    "lemma": "glitch",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡlɪt͡ʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "glitches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A problem affecting function .",
+        "examples": [
+          "They are still trying to work out all the glitches ."
+        ],
+        "synonyms": [
+          "bug",
+          "hitch",
+          "imperfection",
+          "quirk",
+          "gremlin"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An unexpected behavior in an electrical signal , especially if the signal spontaneously returns to expected behavior after a period of time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "informal",
+          "engineering"
+        ],
+        "label_groups": "countable , informal , engineering"
+      },
+      {
+        "definition": "A bug or an exploit .",
+        "examples": [
+          "Performing this glitch gives you extra lives."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      },
+      {
+        "definition": "A genre of experimental electronic music since the 1990s, characterized by a deliberate use of sonic artifacts that would normally be viewed as unwanted noise .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "music"
+        ],
+        "label_groups": "uncountable , music"
+      },
+      {
+        "definition": "A sudden increase in the rotational frequency of a pulsar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy",
+          "countable"
+        ],
+        "label_groups": "astronomy , countable"
+      }
+    ],
+    "main_definition": "( countable ) A problem affecting function .",
+    "secondary_definitions": [
+      "( countable , informal , engineering ) An unexpected behavior in an electrical signal , especially if the signal spontaneously returns to expected behavior after a period of time.",
+      "( video games ) A bug or an exploit .",
+      "( uncountable , music ) A genre of experimental electronic music since the 1990s, characterized by a deliberate use of sonic artifacts that would normally be viewed as unwanted noise .",
+      "( astronomy , countable ) A sudden increase in the rotational frequency of a pulsar ."
+    ]
+  }
+]

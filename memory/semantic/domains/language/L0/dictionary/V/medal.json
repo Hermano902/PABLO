@@ -1,0 +1,58 @@
+[
+  {
+    "word": "medal",
+    "lemma": "medal",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛdəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "medals",
+          "PT": "medaled",
+          "PAP": "medaled",
+          "PRP": "medaling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To win a medal.",
+        "examples": [
+          "He medalled twice at the Olympics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "sports",
+          "colloquial"
+        ],
+        "label_groups": "intransitive , sports , colloquial"
+      },
+      {
+        "definition": "To award a medal to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive , sports , colloquial ) To win a medal.",
+    "secondary_definitions": [
+      "( transitive ) To award a medal to."
+    ]
+  }
+]

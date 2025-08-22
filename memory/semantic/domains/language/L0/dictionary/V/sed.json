@@ -1,0 +1,72 @@
+[
+  {
+    "word": "sed",
+    "lemma": "sed",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɛd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "seds",
+          "PT": "sedded",
+          "PAP": "sedded",
+          "PRP": "sedding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( neologism , slang ) To edit a file or stream of text using sed .",
+        "examples": [
+          "Can you sed out those trailing spaces, please?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( neologism , slang ) To edit a file or stream of text using sed .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "sed",
+    "lemma": "sed",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/sɛd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Eye dialect spelling of said .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Eye dialect spelling of said .",
+    "secondary_definitions": []
+  }
+]

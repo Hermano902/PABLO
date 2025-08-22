@@ -1,0 +1,108 @@
+[
+  {
+    "word": "sift",
+    "lemma": "sift",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɪft/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sifts",
+          "PT": "sifted",
+          "PAP": "sifted",
+          "PRP": "sifting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sieve or strain (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To separate or scatter (things) as if by sieving.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To examine (something) carefully .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To scrutinize (someone or something) carefully so as to find the truth.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic or dated",
+              "transitive"
+            ],
+            "label_groups": "archaic or dated , transitive"
+          },
+          {
+            "definition": "[ with through ] To carefully go through a set of objects, or a collection of information, in order to find something.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move data records up in memory to make space to insert further records.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "dated",
+          "transitive"
+        ],
+        "label_groups": "computing , dated , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To sieve or strain (something).",
+    "secondary_definitions": [
+      "( transitive ) To separate or scatter (things) as if by sieving.",
+      "( transitive ) To examine (something) carefully .",
+      "( computing , dated , transitive ) To move data records up in memory to make space to insert further records."
+    ]
+  }
+]

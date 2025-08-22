@@ -1,0 +1,35 @@
+[
+  {
+    "word": "shelveset",
+    "lemma": "shelveset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "shelvesets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A kind of changeset containing changes that have been temporarily set aside.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A kind of changeset containing changes that have been temporarily set aside.",
+    "secondary_definitions": []
+  }
+]

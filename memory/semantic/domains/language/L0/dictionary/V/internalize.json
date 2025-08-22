@@ -1,0 +1,87 @@
+[
+  {
+    "word": "internalize",
+    "lemma": "internalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɝnəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "internalizes",
+          "PT": "internalized",
+          "PAP": "internalized",
+          "PRP": "internalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make something internal ; to incorporate it in oneself .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To process new information in one's mind.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To refrain from expressing (a negative emotion), to one's psychological detriment ; to bottle up .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To store (a string or other structure) in a shared pool, such that subsequent items with the same value can share the same instance .",
+        "examples": [],
+        "synonyms": [
+          "intern"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To transfer stocks between brokers within an organization , rather than through the exchange .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( transitive ) To make something internal ; to incorporate it in oneself .",
+    "secondary_definitions": [
+      "( transitive , programming ) To store (a string or other structure) in a shared pool, such that subsequent items with the same value can share the same instance .",
+      "( finance ) To transfer stocks between brokers within an organization , rather than through the exchange ."
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "exclude",
+    "lemma": "exclude",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪksˈkluːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "excludes",
+          "PT": "excluded",
+          "PAP": "excluded",
+          "PRP": "excluding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bar (someone or something) from entering ; to keep out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To expel ; to put out.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To omit from consideration.",
+        "examples": [
+          "Count from 1 to 30, but exclude the prime numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To refuse to accept (evidence) as valid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To eliminate from diagnostic consideration.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      }
+    ],
+    "main_definition": "( transitive ) To bar (someone or something) from entering ; to keep out .",
+    "secondary_definitions": [
+      "( transitive ) To expel ; to put out.",
+      "( transitive ) To omit from consideration.",
+      "( transitive , law ) To refuse to accept (evidence) as valid .",
+      "( transitive , medicine ) To eliminate from diagnostic consideration."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "film",
+    "lemma": "film",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɪlm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "films",
+          "PT": "filmed",
+          "PAP": "filmed",
+          "PRP": "filming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To record (activity, or a motion picture) on photographic film .",
+        "examples": [
+          "A Hollywood studio was filming on location in NYC.",
+          "I tried to film the UFO as it passed overhead."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To visually record (activity, or a motion picture) in general, with or without sound.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To cover or become covered with a thin skin or pellicle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To record (activity, or a motion picture) on photographic film .",
+    "secondary_definitions": [
+      "( ambitransitive ) To visually record (activity, or a motion picture) in general, with or without sound.",
+      "( transitive ) To cover or become covered with a thin skin or pellicle ."
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "internet",
+    "lemma": "internet",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntəˌnɛt/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Alternative letter-case form of Internet ( “ the specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Alternative letter-case form of Internet ( “ global community of individuals communicating via the Internet ” ) .",
+        "examples": [
+          "As soon as the trailer was released, the internet went nuts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Alternative letter-case form of Internet ( “ the specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications ” ) .",
+    "secondary_definitions": [
+      "Alternative letter-case form of Internet ( “ global community of individuals communicating via the Internet ” ) ."
+    ]
+  },
+  {
+    "word": "internet",
+    "lemma": "internet",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈɪntəˌnɛt/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "internets"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Internet access or connection ; internet connectivity .",
+        "examples": [
+          "Do you have internet at your place? My internet is down and I want to check my email."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Any set of computer networks that communicate using the Internet Protocol ; an intranet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A fictitious unit of scoring awarded for making outstanding posts on the internet.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet slang",
+          "humorous"
+        ],
+        "label_groups": "Internet slang , humorous"
+      }
+    ],
+    "main_definition": "( uncountable ) Internet access or connection ; internet connectivity .",
+    "secondary_definitions": [
+      "( countable ) Any set of computer networks that communicate using the Internet Protocol ; an intranet .",
+      "( Internet slang , humorous ) A fictitious unit of scoring awarded for making outstanding posts on the internet."
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+@'
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+
+# SQLite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+
+# DBeaver
+.dbeaver/
+.dbeaver4/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs/temp
+*.log
+*.tmp
+'@ | Out-File -Encoding utf8 .gitignore

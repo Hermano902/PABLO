@@ -1,0 +1,92 @@
+[
+  {
+    "word": "motor",
+    "lemma": "motor",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈməʊtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "motors",
+          "PT": "motored",
+          "PAP": "motored",
+          "PRP": "motoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a journey by motor vehicle; to drive .",
+        "examples": [
+          "On Saturday we motored down to Plymouth."
+        ],
+        "synonyms": [
+          "moto"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "To rotate a jet engine or turboprop using the engine's starter , without introducing fuel into the engine.",
+        "examples": [
+          "During startup, the engine should be motored for 20 to 30 seconds to allow the shafts to straighten out, as they may have become bowed under their own weight while the airplane was sitting on the ground."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "aviation"
+        ],
+        "label_groups": "transitive , aviation"
+      },
+      {
+        "definition": "To progress at a brisk pace.",
+        "examples": [
+          "Sales were slow at first, but now things are really motoring ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "figurative"
+        ],
+        "label_groups": "informal , figurative"
+      },
+      {
+        "definition": "To leave .",
+        "examples": [
+          "I gotta motor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      }
+    ],
+    "main_definition": "( dated ) To make a journey by motor vehicle; to drive .",
+    "secondary_definitions": [
+      "( transitive , aviation ) To rotate a jet engine or turboprop using the engine's starter , without introducing fuel into the engine.",
+      "( informal , figurative ) To progress at a brisk pace.",
+      "( slang ) To leave ."
+    ]
+  }
+]

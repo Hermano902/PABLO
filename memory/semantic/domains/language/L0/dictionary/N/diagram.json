@@ -1,0 +1,69 @@
+[
+  {
+    "word": "diagram",
+    "lemma": "diagram",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaɪ.ə.ɡɹæm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diagrams"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A plan , drawing , sketch or outline to show how something works , or show the relationships between the parts of a whole .",
+        "examples": [
+          "Electrical diagrams show device interconnections."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A graph or chart .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A functor from an index category to another category. The objects and morphisms of the index category need not have any internal substance, but rather merely outline the connective structure of at least some part of the diagram's codomain. If the index category is J and the codomain is C , then the diagram is said to be \"of type J in C \".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A crossword grid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crosswording"
+        ],
+        "label_groups": "crosswording"
+      }
+    ],
+    "main_definition": "A plan , drawing , sketch or outline to show how something works , or show the relationships between the parts of a whole .",
+    "secondary_definitions": [
+      "A graph or chart .",
+      "( category theory ) A functor from an index category to another category. The objects and morphisms of the index category need not have any internal substance, but rather merely outline the connective structure of at least some part of the diagram's codomain. If the index category is J and the codomain is C , then the diagram is said to be \"of type J in C \".",
+      "( crosswording ) A crossword grid ."
+    ]
+  }
+]

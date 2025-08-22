@@ -1,0 +1,55 @@
+[
+  {
+    "word": "mimic",
+    "lemma": "mimic",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪm.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mimics",
+          "PT": "mimicked",
+          "PAP": "mimicked",
+          "PRP": "mimicking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To imitate , especially in order to ridicule .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take on the appearance of another, for protection or camouflage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "transitive"
+        ],
+        "label_groups": "biology , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To imitate , especially in order to ridicule .",
+    "secondary_definitions": [
+      "( biology , transitive ) To take on the appearance of another, for protection or camouflage ."
+    ]
+  }
+]

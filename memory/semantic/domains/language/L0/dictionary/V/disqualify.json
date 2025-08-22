@@ -1,0 +1,58 @@
+[
+  {
+    "word": "disqualify",
+    "lemma": "disqualify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈkwɒlɪfaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disqualifies",
+          "PT": "disqualified",
+          "PAP": "disqualified",
+          "PRP": "disqualifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make ineligible for something.",
+        "examples": [
+          "My age disqualifies me for the position."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To exclude from consideration by the explicit revocation of a previous qualification .",
+        "examples": [
+          "The athlete was disqualified after performance-enhancing drugs were found in his hotel room."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make ineligible for something.",
+    "secondary_definitions": [
+      "( transitive ) To exclude from consideration by the explicit revocation of a previous qualification ."
+    ]
+  }
+]

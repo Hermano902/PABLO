@@ -1,0 +1,28 @@
+{
+  "word": "secondary",
+  "pos_order": [
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 12,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 12,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\secondary.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\secondary.json"
+  },
+  "timestamp": "2025-08-19T14:51:09.709121Z"
+}

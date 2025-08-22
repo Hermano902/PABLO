@@ -1,0 +1,56 @@
+[
+  {
+    "word": "tenon",
+    "lemma": "tenon",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛnən",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tenons",
+          "PT": "tenoned",
+          "PAP": "tenoned",
+          "PRP": "tenoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make into a tenon.",
+        "examples": [
+          "First we'll tenon this part, then we'll make a mortise that will fit it on that part."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fit with tenons.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make into a tenon.",
+    "secondary_definitions": [
+      "( transitive ) To fit with tenons."
+    ]
+  }
+]

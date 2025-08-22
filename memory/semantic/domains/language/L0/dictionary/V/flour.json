@@ -1,0 +1,67 @@
+[
+  {
+    "word": "flour",
+    "lemma": "flour",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈflaʊ̯.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flours",
+          "PT": "floured",
+          "PAP": "floured",
+          "PRP": "flouring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To apply flour to something; to cover with flour.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce to flour.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To break up into fine globules of mercury in the amalgamation process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To apply flour to something; to cover with flour.",
+    "secondary_definitions": [
+      "( transitive ) To reduce to flour.",
+      "( intransitive ) To break up into fine globules of mercury in the amalgamation process."
+    ]
+  }
+]

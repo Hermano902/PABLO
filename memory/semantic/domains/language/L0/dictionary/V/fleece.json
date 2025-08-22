@@ -1,0 +1,71 @@
+[
+  {
+    "word": "fleece",
+    "lemma": "fleece",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fliːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fleeces",
+          "PT": "fleeced",
+          "PAP": "fleeced",
+          "PRP": "fleecing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To con or trick (someone) out of money.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cut off the fleece from (a sheep or other animal).",
+        "examples": [
+          "During spring shearing we have to fleece all the sheep in just a few days."
+        ],
+        "synonyms": [
+          "shear"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cover with, or as if with, wool.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To con or trick (someone) out of money.",
+    "secondary_definitions": [
+      "( transitive ) To cut off the fleece from (a sheep or other animal).",
+      "( transitive ) To cover with, or as if with, wool."
+    ]
+  }
+]

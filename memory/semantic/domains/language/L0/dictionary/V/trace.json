@@ -1,0 +1,134 @@
+[
+  {
+    "word": "trace",
+    "lemma": "trace",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹeɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "traces",
+          "PT": "traced",
+          "PAP": "traced",
+          "PRP": "tracing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To follow the trail of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To follow the history of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To draw or sketch lightly or with care.",
+        "examples": [
+          "He carefully traced the outlines of the old building before him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To copy onto a sheet of paper superimposed over the original, by drawing over its lines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To copy; to imitate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To walk ; to go ; to travel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To walk over; to pass through; to traverse.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To follow the execution of the program by making it to stop after every instruction, or by making it print a message after every step.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To follow the trail of.",
+    "secondary_definitions": [
+      "To follow the history of.",
+      "( transitive ) To draw or sketch lightly or with care.",
+      "( transitive ) To copy onto a sheet of paper superimposed over the original, by drawing over its lines.",
+      "( transitive , obsolete ) To copy; to imitate.",
+      "( intransitive , obsolete ) To walk ; to go ; to travel .",
+      "( transitive , obsolete ) To walk over; to pass through; to traverse.",
+      "( computing , transitive ) To follow the execution of the program by making it to stop after every instruction, or by making it print a message after every step."
+    ]
+  }
+]

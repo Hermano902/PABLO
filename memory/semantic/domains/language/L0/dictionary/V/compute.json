@@ -1,0 +1,59 @@
+[
+  {
+    "word": "compute",
+    "lemma": "compute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-uːt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "computes",
+          "PT": "computed",
+          "PAP": "computed",
+          "PRP": "computing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reckon , calculate .",
+        "examples": [
+          "Can anyone here compute the square root of 10201?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make sense . ( commonly used in mimicry of a science fictional robot and spoken in a robotic voice; most frequently in negative constructs )",
+        "examples": [
+          "Does that compute , or do I need to explain further?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "informal"
+        ],
+        "label_groups": "intransitive , informal"
+      }
+    ],
+    "main_definition": "( transitive ) To reckon , calculate .",
+    "secondary_definitions": [
+      "( intransitive , informal ) To make sense . ( commonly used in mimicry of a science fictional robot and spoken in a robotic voice; most frequently in negative constructs )"
+    ]
+  }
+]

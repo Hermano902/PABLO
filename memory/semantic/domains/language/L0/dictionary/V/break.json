@@ -1,0 +1,632 @@
+[
+  {
+    "word": "break",
+    "lemma": "break",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹeɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "breaks",
+          "PT": "broke",
+          "PAP": "broken",
+          "PRP": "breaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive , intransitive ) To separate into two or more pieces , to fracture or crack , by a process that cannot easily be reversed for reassembly .",
+        "examples": [
+          "If the vase falls to the floor, it might break .",
+          "In order to tend to the accident victim, he will break the window of the car."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( transitive , intransitive ) To crack or fracture (bone) under a physical strain .",
+            "examples": [
+              "His ribs broke under the weight of the rocks piled on his chest.",
+              "He slipped on the ice and broke his leg."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To divide (something, often money ) into smaller units.",
+        "examples": [
+          "Can you break a hundred-dollar bill for me?",
+          "The wholesaler broke the container loads into palettes and boxes for local retailers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To cause (a person or animal) to lose spirit or will ; to crush the spirits of.",
+        "examples": [
+          "Her child’s death broke Angela.",
+          "Interrogators have used many forms of torture to break prisoners of war.",
+          "The interrogator hoped to break her to get her testimony against her accomplices."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To turn an animal into a beast of burden .",
+            "examples": [
+              "You have to break an elephant before you can use it as an animal of burden."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To be crushed , or overwhelmed with sorrow or grief .",
+        "examples": [
+          "My heart is breaking ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To interrupt ; to destroy the continuity of; to dissolve or terminate .",
+        "examples": [
+          "I’ve got to break this habit I have of biting my nails.",
+          "to break silence; to break one's sleep; to break one’s journey",
+          "I had won four games in a row, but now you've broken my streak of luck."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( transitive , theater ) To end the run of (a play).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To ruin financially .",
+        "examples": [
+          "The recession broke some small businesses."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , obsolete ) To fail in business ; to go broke , to become bankrupt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( finance , intransitive ) Of prices on the stock exchange : to fall suddenly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To violate ; to fail to adhere to.",
+        "examples": [
+          "When you go to Vancouver, promise me you won't break the law.",
+          "He broke his vows by cheating on his wife.",
+          "to break one’s word",
+          "Time travel would break the laws of physics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a fever ) To go down , in terms of temperature , indicating that the most dangerous part of the illness has passed .",
+        "examples": [
+          "Susan's fever broke at about 3 AM, and the doctor said the worst was over."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a spell of settled weather ) To end .",
+        "examples": [
+          "The forecast says the hot weather will break by midweek."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a storm ) To begin or end .",
+        "examples": [
+          "We ran to find shelter before the storm broke .",
+          "Around midday the storm broke , and the afternoon was calm and sunny."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of morning, dawn, day etc. ) To arrive .",
+        "examples": [
+          "Morning has broken .",
+          "The day broke crisp and clear."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , gaming slang ) To render (a game) unchallenging by altering its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair advantage .",
+        "examples": [
+          "Changing the rules to let white have three extra queens would break chess.",
+          "I broke the RPG by training every member of my party to cast fireballs as well as use swords."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , intransitive ) To stop , or to cause to stop, functioning properly or altogether .",
+        "examples": [
+          "On the hottest day of the year the refrigerator broke .",
+          "Did you two break the trolley by racing with it?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( specifically , in programming ) To cause (some feature of a program or piece of software ) to stop functioning properly ; to cause a regression .",
+            "examples": [
+              "Adding 64-bit support broke backward compatibility with earlier versions."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To cause (a barrier ) to no longer bar .",
+        "examples": [
+          "to break a seal"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( specifically ) To cause the shell of (an egg ) to crack , so that the inside ( yolk ) is accessible .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( specifically ) To open (a safe ) without using the correct key , combination , or the like.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To destroy the arrangement of; to throw into disorder ; to pierce .",
+        "examples": [
+          "The cavalry were not able to break the British squares."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a wave of water ) To collapse into surf , after arriving in shallow water. A wave breaking .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To burst forth ; to make its way; to come into view .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To interrupt or cease one's work or occupation temporarily ; to go on break .",
+        "examples": [
+          "Let's break for lunch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To interrupt (a fall ) by inserting something so that the falling object does not (immediately) hit something else beneath .",
+        "examples": [
+          "He survived the jump out the window because the bushes below broke his fall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , ergative ) To disclose or make known an item of news , a band , etc.",
+        "examples": [
+          "The newsman wanted to break a big story, something that would make him famous.",
+          "I don’t know how to break this to you, but your cat is not coming back.",
+          "When news of their divorce broke ..."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a sound ) To become audible suddenly .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To change a steady state abruptly .",
+        "examples": [
+          "His coughing broke the silence.",
+          "His turning on the lights broke the enchantment.",
+          "With the mood broken , what we had been doing seemed pretty silly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , with for ) To (attempt to) disengage and flee to; to make a run for .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( copulative , informal ) To suddenly become .",
+        "examples": [
+          "Things began breaking bad for him when his parents died.",
+          "The arrest was standard, when suddenly the suspect broke ugly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a male voice ) To become deeper at puberty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a voice ) To alter in type due to emotion or strain : in men , generally to go up , in women , sometimes to go down ; to crack .",
+        "examples": [
+          "His voice breaks when he gets emotional."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , of a sauce or emulsion ) To de-emulsify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To surpass or do better than (a specific number ); to do better than (a record ), setting a new record.",
+        "examples": [
+          "He broke the men's 100-meter record.",
+          "I can't believe she broke 3 under par!",
+          "The policeman broke sixty on a residential street in his hurry to catch the thief."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( sports and games ) :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( transitive , tennis ) To win a game (against one's opponent ) as receiver .",
+            "examples": [
+              "He needs to break serve to win the match."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive , billiards , snooker , pool ) To make the first shot ; to scatter the balls from the initial neat arrangement .",
+            "examples": [
+              "Is it your or my turn to break ?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , backgammon ) To remove one of the two men on (a point ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , military , most often in the passive tense ) To demote ; to reduce the military rank of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To end (a connection ); to disconnect .",
+        "examples": [
+          "The referee ordered the boxers to break the clinch.",
+          "The referee broke the boxers' clinch.",
+          "I couldn’t hear a thing he was saying, so I broke the connection and called him back."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , sports ) To counter-attack .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , obsolete ) To lay open , as a purpose; to disclose , divulge , or communicate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To become weakened in constitution or faculties ; to lose health or strength .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To destroy the strength , firmness , or consistency of.",
+        "examples": [
+          "to break flax"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To destroy the official character and standing of; to cashier ; to dismiss .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To make an abrupt or sudden change ; to change gait .",
+        "examples": [
+          "to break into a run or gallop"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , archaic ) To fall out ; to terminate friendship .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) To terminate the execution of a program before normal completion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( programming ) To suspend the execution of a program during debugging so that the state of the program can be investigated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) To cause, or allow the occurrence of, a line break .",
+        "examples": [
+          "zero-width non- breaking space"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To separate into two or more pieces , to fracture or crack , by a process that cannot easily be reversed for reassembly .",
+    "secondary_definitions": [
+      "( transitive ) To divide (something, often money ) into smaller units.",
+      "( transitive ) To cause (a person or animal) to lose spirit or will ; to crush the spirits of.",
+      "( intransitive ) To be crushed , or overwhelmed with sorrow or grief .",
+      "( transitive ) To interrupt ; to destroy the continuity of; to dissolve or terminate .",
+      "( transitive ) To ruin financially .",
+      "( intransitive , obsolete ) To fail in business ; to go broke , to become bankrupt .",
+      "( finance , intransitive ) Of prices on the stock exchange : to fall suddenly.",
+      "( transitive ) To violate ; to fail to adhere to.",
+      "( intransitive , of a fever ) To go down , in terms of temperature , indicating that the most dangerous part of the illness has passed .",
+      "( intransitive , of a spell of settled weather ) To end .",
+      "( intransitive , of a storm ) To begin or end .",
+      "( intransitive , of morning, dawn, day etc. ) To arrive .",
+      "( transitive , gaming slang ) To render (a game) unchallenging by altering its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair advantage .",
+      "( transitive , intransitive ) To stop , or to cause to stop, functioning properly or altogether .",
+      "( transitive ) To cause (a barrier ) to no longer bar .",
+      "( transitive ) To destroy the arrangement of; to throw into disorder ; to pierce .",
+      "( intransitive , of a wave of water ) To collapse into surf , after arriving in shallow water. A wave breaking .",
+      "( intransitive ) To burst forth ; to make its way; to come into view .",
+      "( intransitive ) To interrupt or cease one's work or occupation temporarily ; to go on break .",
+      "( transitive ) To interrupt (a fall ) by inserting something so that the falling object does not (immediately) hit something else beneath .",
+      "( transitive , ergative ) To disclose or make known an item of news , a band , etc.",
+      "( intransitive , of a sound ) To become audible suddenly .",
+      "( transitive ) To change a steady state abruptly .",
+      "( transitive , with for ) To (attempt to) disengage and flee to; to make a run for .",
+      "( copulative , informal ) To suddenly become .",
+      "( intransitive , of a male voice ) To become deeper at puberty .",
+      "( intransitive , of a voice ) To alter in type due to emotion or strain : in men , generally to go up , in women , sometimes to go down ; to crack .",
+      "( intransitive , of a sauce or emulsion ) To de-emulsify .",
+      "( transitive ) To surpass or do better than (a specific number ); to do better than (a record ), setting a new record.",
+      "( sports and games ) :",
+      "( transitive , military , most often in the passive tense ) To demote ; to reduce the military rank of.",
+      "( transitive ) To end (a connection ); to disconnect .",
+      "( intransitive , sports ) To counter-attack .",
+      "( transitive , obsolete ) To lay open , as a purpose; to disclose , divulge , or communicate .",
+      "( intransitive ) To become weakened in constitution or faculties ; to lose health or strength .",
+      "( transitive ) To destroy the strength , firmness , or consistency of.",
+      "( transitive ) To destroy the official character and standing of; to cashier ; to dismiss .",
+      "( intransitive ) To make an abrupt or sudden change ; to change gait .",
+      "( intransitive , archaic ) To fall out ; to terminate friendship .",
+      "( computing ) To terminate the execution of a program before normal completion .",
+      "( programming ) To suspend the execution of a program during debugging so that the state of the program can be investigated .",
+      "( computing ) To cause, or allow the occurrence of, a line break ."
+    ]
+  },
+  {
+    "word": "break",
+    "lemma": "break",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɹeɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "breaks",
+          "PT": "breaked",
+          "PAP": "breaked",
+          "PRP": "breaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To B-boy ; to breakdance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "slang"
+        ],
+        "label_groups": "music , slang"
+      },
+      {
+        "definition": "To brake .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare",
+          "mainly historical or a misspelling"
+        ],
+        "label_groups": "rare , mainly historical or a misspelling"
+      }
+    ],
+    "main_definition": "( music , slang ) To B-boy ; to breakdance .",
+    "secondary_definitions": [
+      "( rare , mainly historical or a misspelling ) To brake ."
+    ]
+  }
+]

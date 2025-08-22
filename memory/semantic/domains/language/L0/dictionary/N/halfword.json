@@ -1,0 +1,35 @@
+[
+  {
+    "word": "halfword",
+    "lemma": "halfword",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "halfwords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An area of storage one half the size of the word in a particular system; usually two bytes",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) An area of storage one half the size of the word in a particular system; usually two bytes",
+    "secondary_definitions": []
+  }
+]

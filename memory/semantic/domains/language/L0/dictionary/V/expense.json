@@ -1,0 +1,42 @@
+[
+  {
+    "word": "expense",
+    "lemma": "expense",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈspɛns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "expenses",
+          "PT": "expensed",
+          "PAP": "expensed",
+          "PRP": "expensing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To charge a cost against an expense account ; to bill something to the company for which one works .",
+        "examples": [
+          "It should be acceptable to expense a business lunch with a client."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To charge a cost against an expense account ; to bill something to the company for which one works .",
+    "secondary_definitions": []
+  }
+]

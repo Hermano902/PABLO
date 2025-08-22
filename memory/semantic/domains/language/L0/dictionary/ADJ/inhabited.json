@@ -1,0 +1,80 @@
+[
+  {
+    "word": "inhabited",
+    "lemma": "inhabited",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhæbɪtɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having inhabitants ; lived in.",
+        "examples": [],
+        "synonyms": [
+          "peopled",
+          "populated",
+          "tenanted"
+        ],
+        "antonyms": [
+          "uninhabited"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Containing at least one element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a set"
+        ],
+        "label_groups": "mathematics , of a set"
+      },
+      {
+        "definition": "Having a term .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "uninhabited"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "type theory",
+          "of a type"
+        ],
+        "label_groups": "type theory , of a type"
+      },
+      {
+        "definition": "Obsolete form of uninhabited .",
+        "examples": [],
+        "synonyms": [
+          "deserted",
+          "peopleless"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Having inhabitants ; lived in.",
+    "secondary_definitions": [
+      "( mathematics , of a set ) Containing at least one element .",
+      "( type theory , of a type ) Having a term .",
+      "Obsolete form of uninhabited ."
+    ]
+  }
+]

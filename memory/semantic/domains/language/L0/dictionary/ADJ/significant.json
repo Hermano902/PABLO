@@ -1,0 +1,96 @@
+[
+  {
+    "word": "significant",
+    "lemma": "significant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/sɪɡˈnɪf.ɪ.kənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more significant",
+          "SUP": "most significant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Signifying something; carrying meaning .",
+        "examples": [
+          "a significant word or sound",
+          "a significant look"
+        ],
+        "synonyms": [
+          "meaningful"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a noticeable or major effect.",
+        "examples": [
+          "That was a significant step in the right direction.",
+          "The First World War was a significant event."
+        ],
+        "synonyms": [
+          "notable",
+          "pregnant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Reasonably large in number or amount.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a covert or hidden meaning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a low probability of occurring by chance (for example, having high correlation and thus likely to be related ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "Of a digit or figure, see significant figure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Signifying something; carrying meaning .",
+    "secondary_definitions": [
+      "Having a noticeable or major effect.",
+      "Reasonably large in number or amount.",
+      "Having a covert or hidden meaning.",
+      "( statistics ) Having a low probability of occurring by chance (for example, having high correlation and thus likely to be related ).",
+      "( mathematics ) Of a digit or figure, see significant figure ."
+    ]
+  }
+]

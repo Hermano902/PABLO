@@ -1,0 +1,54 @@
+[
+  {
+    "word": "authentication",
+    "lemma": "authentication",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɔːˌθɛntɪˈkeɪʃn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "authentications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "something which validates or confirms the authenticity of something",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "proof of the identity of a user logging on to some network",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "a hallmark or assay-mark on a piece of metalwork",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "something which validates or confirms the authenticity of something",
+    "secondary_definitions": [
+      "( computing ) proof of the identity of a user logging on to some network",
+      "a hallmark or assay-mark on a piece of metalwork"
+    ]
+  }
+]

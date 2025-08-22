@@ -1,0 +1,87 @@
+[
+  {
+    "word": "divest",
+    "lemma": "divest",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈvɛst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "divests",
+          "PT": "divested",
+          "PAP": "divested",
+          "PRP": "divesting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strip , deprive , or dispossess (someone) of something (such as a right , passion , privilege , or prejudice ).",
+        "examples": [
+          "You shall never divest me of my right to free speech.",
+          "When I wake up, I make a point to divest myself of all my prejudices, ready to start the day."
+        ],
+        "synonyms": [
+          "deprive",
+          "dispossess"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To sell off or be rid of through sale, especially of a subsidiary .",
+        "examples": [
+          "In 2011, the company divested an 81% majority stake in its foreign subsidiary.",
+          "Glasgow will become the first university in Europe to divest from fossil fuels."
+        ],
+        "synonyms": [
+          "sell off"
+        ],
+        "antonyms": [
+          "invest"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      },
+      {
+        "definition": "To undress .",
+        "examples": [],
+        "synonyms": [
+          "undress",
+          "disrobe"
+        ],
+        "antonyms": [
+          "dress"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To strip , deprive , or dispossess (someone) of something (such as a right , passion , privilege , or prejudice ).",
+    "secondary_definitions": [
+      "( transitive , finance ) To sell off or be rid of through sale, especially of a subsidiary .",
+      "( transitive , archaic ) To undress ."
+    ]
+  }
+]

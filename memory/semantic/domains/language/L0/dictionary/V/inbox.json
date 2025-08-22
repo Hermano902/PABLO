@@ -1,0 +1,56 @@
+[
+  {
+    "word": "inbox",
+    "lemma": "inbox",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnbɒks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inboxes",
+          "PT": "inboxed",
+          "PAP": "inboxed",
+          "PRP": "inboxing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put (something) in someone's inbox.",
+        "examples": [
+          "I just inboxed you the presentation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To communicate with (a person) by writing to their electronic inbox.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To put (something) in someone's inbox.",
+    "secondary_definitions": [
+      "( transitive ) To communicate with (a person) by writing to their electronic inbox."
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "word": "yield",
+    "lemma": "yield",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/jiːld/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "yields"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A product .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The quantity of something produced.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Measurement of the amount of a crop harvested, or animal products such as wool, meat or milk produced, per unit area of land.",
+            "examples": [
+              "Zucchini plants always seem to produce a high yield of fruit."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "agriculture"
+            ],
+            "label_groups": "agriculture"
+          },
+          {
+            "definition": "The harvestable population growth of an ecosystem.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "forestry",
+              "fishery"
+            ],
+            "label_groups": "forestry , fishery"
+          },
+          {
+            "definition": "The amount of product obtained in a chemical reaction.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry"
+            ],
+            "label_groups": "chemistry"
+          },
+          {
+            "definition": "The volume of water escaping from a spring.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "hydrology"
+            ],
+            "label_groups": "hydrology"
+          },
+          {
+            "definition": "The explosive energy value of a bomb, especially a nuclear weapon , usually expressed in tons of TNT equivalent.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Profit earned from an investment ; return on investment .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "finance"
+            ],
+            "label_groups": "finance"
+          },
+          {
+            "definition": "The current return as a percentage of the price of a stock or bond .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Can we verify this sense?",
+              "law"
+            ],
+            "label_groups": [
+              "Can we verify this sense?",
+              "law"
+            ]
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "yield strength of a material.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering",
+          "material science"
+        ],
+        "label_groups": "engineering , material science"
+      },
+      {
+        "definition": "The situation where a thread relinquishes the processor to allow other threads to execute .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Payment ; money ; tribute .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete or dialectal"
+        ],
+        "label_groups": "obsolete or dialectal"
+      }
+    ],
+    "main_definition": "A product .",
+    "secondary_definitions": [
+      "The quantity of something produced.",
+      "( engineering , material science ) yield strength of a material.",
+      "( programming ) The situation where a thread relinquishes the processor to allow other threads to execute .",
+      "( obsolete or dialectal ) Payment ; money ; tribute ."
+    ]
+  }
+]

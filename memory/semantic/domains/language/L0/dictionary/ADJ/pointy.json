@@ -1,0 +1,51 @@
+[
+  {
+    "word": "pointy",
+    "lemma": "pointy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɔɪnti/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "pointier",
+          "SUP": "pointiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pointed in shape; having a point or points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "In the Raku programming language: being a block or subroutine that acts as a closure accepting a list of parameters (denoted by the pointed arrow symbol -> ).",
+        "examples": [
+          "a pointy sub; a pointy block"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( informal ) Pointed in shape; having a point or points.",
+    "secondary_definitions": [
+      "( programming ) In the Raku programming language: being a block or subroutine that acts as a closure accepting a list of parameters (denoted by the pointed arrow symbol -> )."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "derangement",
+    "lemma": "derangement",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹeɪnd͡ʒmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "derangements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of being deranged .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An act or instance of deranging .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A permutation of a set such that no element is in its previous position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "combinatorics"
+        ],
+        "label_groups": "mathematics , combinatorics"
+      }
+    ],
+    "main_definition": "The property of being deranged .",
+    "secondary_definitions": [
+      "An act or instance of deranging .",
+      "( mathematics , combinatorics ) A permutation of a set such that no element is in its previous position ."
+    ]
+  }
+]

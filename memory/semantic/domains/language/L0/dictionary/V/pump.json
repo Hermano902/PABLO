@@ -1,0 +1,285 @@
+[
+  {
+    "word": "pump",
+    "lemma": "pump",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pʌmp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pumps",
+          "PT": "pumped",
+          "PAP": "pumped",
+          "PRP": "pumping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use a pump ; to move (water or other liquid ) by means of a pump.",
+        "examples": [
+          "I've been pumping for over a minute but the water isn't coming through.",
+          "I've pumped over 1000 gallons of water in the last ten minutes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive",
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "To inject or pour (something) into someone or something in a manner similar to a pump .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To put (a person or part of the body) under a stream of water from a pump, as a punishment or as a form of medical treatment; to force a pump of water upon or on someone.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "16th–19th c."
+      },
+      {
+        "definition": "To gain something, especially information , from (a person) by persistent questioning .",
+        "examples": [],
+        "synonyms": [
+          "grill",
+          "interrogate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "To have sex with; to sexually penetrate, especially with a thrusting motion.",
+        "examples": [],
+        "synonyms": [
+          "bang"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "UK",
+          "slang"
+        ],
+        "label_groups": "transitive , UK , slang",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To express milk from (a breast) by means of a breast pump .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "To fill with air by means of a pump; to inflate .",
+        "examples": [
+          "He pumped up the air-bed by hand, but used the service station air to pump up the tyres."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "often followed by up"
+        ],
+        "label_groups": "transitive , often followed by up",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "To move rhythmically , as the motion of a pump .",
+        "examples": [
+          "I pumped my fist with joy when I won the race."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "To enlarge the body by means of weightlifting or steroid use.",
+        "examples": [],
+        "synonyms": [
+          "big up",
+          "lift",
+          "pump iron"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bodybuilding"
+        ],
+        "label_groups": "bodybuilding",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "To shake (a person's hand) vigorously .",
+        "examples": [],
+        "synonyms": [
+          "handshake"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 10th c."
+      },
+      {
+        "definition": "Of music: to be loud, to have strong bass and rhythms; ( by extension ) to be full of energy.",
+        "examples": [
+          "The waves were really pumping this morning.",
+          "Last night's party was really pumping ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "intransitive",
+          "slang"
+        ],
+        "label_groups": "US , intransitive , slang",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "To kick , throw , or hit the ball far and high .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      },
+      {
+        "definition": "To pass gas; to fart quietly.",
+        "examples": [],
+        "synonyms": [
+          "trump"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British",
+          "slang",
+          "vulgar"
+        ],
+        "label_groups": "British , slang , vulgar"
+      },
+      {
+        "definition": "To pass ( messages ) into a program so that it can obey them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To inject silicone into the body in order to try to achieve a fuller or curvier look.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "To fire a bullet from a firearm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To load a shell into the chamber of a pump-action shotgun by pumping the mechanism.",
+        "examples": [
+          "He ran on, pumping another round up into his scattergun."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To use a pump ; to move (water or other liquid ) by means of a pump. [from 16th c.]",
+    "secondary_definitions": [
+      "( transitive ) To inject or pour (something) into someone or something in a manner similar to a pump .",
+      "( obsolete ) To put (a person or part of the body) under a stream of water from a pump, as a punishment or as a form of medical treatment; to force a pump of water upon or on someone. [16th–19th c.]",
+      "( transitive ) To gain something, especially information , from (a person) by persistent questioning . [from 17th c.]",
+      "( transitive , UK , slang ) To have sex with; to sexually penetrate, especially with a thrusting motion. [from 18th c.]",
+      "( transitive , intransitive ) To express milk from (a breast) by means of a breast pump . [from 19th c.]",
+      "( transitive , often followed by up ) To fill with air by means of a pump; to inflate . [from 19th c.]",
+      "( transitive ) To move rhythmically , as the motion of a pump . [from 19th c.]",
+      "( bodybuilding ) To enlarge the body by means of weightlifting or steroid use. [from 20th c.]",
+      "( transitive ) To shake (a person's hand) vigorously . [from 10th c.]",
+      "( US , intransitive , slang ) Of music: to be loud, to have strong bass and rhythms; ( by extension ) to be full of energy. [from 20th c.]",
+      "( sports ) To kick , throw , or hit the ball far and high .",
+      "( British , slang , vulgar ) To pass gas; to fart quietly.",
+      "( computing ) To pass ( messages ) into a program so that it can obey them.",
+      "( colloquial ) To inject silicone into the body in order to try to achieve a fuller or curvier look.",
+      "To fire a bullet from a firearm .",
+      "To load a shell into the chamber of a pump-action shotgun by pumping the mechanism."
+    ]
+  }
+]

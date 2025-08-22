@@ -1,0 +1,88 @@
+[
+  {
+    "word": "derail",
+    "lemma": "derail",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌdəˈɹeɪ.əl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "derails",
+          "PT": "derailed",
+          "PAP": "derailed",
+          "PRP": "derailing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to come off the tracks .",
+        "examples": [
+          "The train was destroyed when it was derailed by the collision."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come off the tracks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To deviate from the previous course or direction .",
+        "examples": [
+          "The conversation derailed once James brought up politics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative"
+        ],
+        "label_groups": "intransitive , figurative"
+      },
+      {
+        "definition": "To cause to deviate from a set course or direction .",
+        "examples": [
+          "The protesting students derailed the professor's lecture."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to come off the tracks .",
+    "secondary_definitions": [
+      "( intransitive ) To come off the tracks .",
+      "( intransitive , figurative ) To deviate from the previous course or direction .",
+      "( transitive , figurative ) To cause to deviate from a set course or direction ."
+    ]
+  }
+]

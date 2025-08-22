@@ -1,0 +1,112 @@
+[
+  {
+    "word": "leverage",
+    "lemma": "leverage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛv(ə)ɹɪd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "leverages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A force compounded by means of a lever rotating around a pivot .",
+        "examples": [
+          "A crowbar uses leverage to pry nails out of wood."
+        ],
+        "synonyms": [
+          "mechanical advantage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any influence which is compounded or used to gain an advantage .",
+        "examples": [
+          "Try using competitors’ prices for leverage in the negotiation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "The use of borrowed funds with a contractually determined return to increase the ability to invest and earn an expected higher return, but usually at high risk.",
+        "examples": [
+          "Leverage is great until something goes wrong with your investments and you still have to pay your debts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "The debt-to-equity ratio .",
+        "examples": [],
+        "synonyms": [
+          "gearing"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "The ability to earn very high returns when operating at high-capacity utilization of a facility.",
+        "examples": [
+          "Their variable-cost-reducing investments have dramatically increased their leverage ."
+        ],
+        "synonyms": [
+          "operating leverage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "business"
+        ],
+        "label_groups": "business"
+      },
+      {
+        "definition": "The distance of between an independent observation and other observations.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "regression analytics"
+        ],
+        "label_groups": "statistics , regression analytics"
+      }
+    ],
+    "main_definition": "A force compounded by means of a lever rotating around a pivot .",
+    "secondary_definitions": [
+      "( by extension ) Any influence which is compounded or used to gain an advantage .",
+      "( finance ) The use of borrowed funds with a contractually determined return to increase the ability to invest and earn an expected higher return, but usually at high risk.",
+      "( finance ) The debt-to-equity ratio .",
+      "( business ) The ability to earn very high returns when operating at high-capacity utilization of a facility.",
+      "( statistics , regression analytics ) The distance of between an independent observation and other observations."
+    ]
+  }
+]

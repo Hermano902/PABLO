@@ -1,0 +1,114 @@
+[
+  {
+    "word": "magic",
+    "lemma": "magic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmad͡ʒɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having supernatural talents , properties or qualities attributed to magic.",
+        "examples": [
+          "a magic wand",
+          "a magic dragon"
+        ],
+        "synonyms": [
+          "magical"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 14th c."
+      },
+      {
+        "definition": "Producing extraordinary results, as though through the use of magic.",
+        "examples": [
+          "a magic moment"
+        ],
+        "synonyms": [
+          "wonderful",
+          "amazing"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "Pertaining to conjuring tricks or illusions performed for entertainment etc.",
+        "examples": [
+          "a magic show",
+          "a magic trick"
+        ],
+        "synonyms": [
+          "magical"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "Great; excellent .",
+        "examples": [
+          "I cleaned up the flat while you were out. —Really? Magic !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "Describing the number of nucleons in a particularly stable isotopic nucleus ; 2, 8, 20, 28, 50, 82, 126, and 184.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "Being a literal number or string value with no meaning or context, not defined as a constant or variable",
+        "examples": [
+          "The code is full of magic numbers and we can't figure out what they mean."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming",
+        "dating_raw": "from 20th c."
+      }
+    ],
+    "main_definition": "Having supernatural talents , properties or qualities attributed to magic. [from 14th c.]",
+    "secondary_definitions": [
+      "Producing extraordinary results, as though through the use of magic. [from 17th c.]",
+      "Pertaining to conjuring tricks or illusions performed for entertainment etc. [from 19th c.]",
+      "( colloquial ) Great; excellent . [from 20th c.]",
+      "( physics ) Describing the number of nucleons in a particularly stable isotopic nucleus ; 2, 8, 20, 28, 50, 82, 126, and 184. [from 20th c.]",
+      "( programming ) Being a literal number or string value with no meaning or context, not defined as a constant or variable [from 20th c.]"
+    ]
+  }
+]

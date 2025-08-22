@@ -1,0 +1,46 @@
+[
+  {
+    "word": "scratchpad",
+    "lemma": "scratchpad",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scratchpads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A pad of paper for preliminary notes or sketches or writings, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A piece of temporary memory to hold details of a current conversation , usually scratchpad memory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "in transaction processing systems"
+        ],
+        "label_groups": "computing , in transaction processing systems"
+      }
+    ],
+    "main_definition": "A pad of paper for preliminary notes or sketches or writings, etc.",
+    "secondary_definitions": [
+      "( computing , in transaction processing systems ) A piece of temporary memory to hold details of a current conversation , usually scratchpad memory ."
+    ]
+  }
+]

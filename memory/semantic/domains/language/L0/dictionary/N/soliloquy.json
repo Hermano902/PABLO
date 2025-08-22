@@ -1,0 +1,57 @@
+[
+  {
+    "word": "soliloquy",
+    "lemma": "soliloquy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səˈlɪləkwi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "soliloquies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of a character speaking to themselves so as to reveal their thoughts to the audience .",
+        "examples": [
+          "At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "drama"
+        ],
+        "label_groups": "drama"
+      },
+      {
+        "definition": "A speech or written discourse in this form.",
+        "examples": [],
+        "synonyms": [
+          "monologue"
+        ],
+        "antonyms": [
+          "colloquy",
+          "dialogue",
+          "dialog"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "authorship"
+        ],
+        "label_groups": "authorship"
+      }
+    ],
+    "main_definition": "( drama ) The act of a character speaking to themselves so as to reveal their thoughts to the audience .",
+    "secondary_definitions": [
+      "( authorship ) A speech or written discourse in this form."
+    ]
+  }
+]

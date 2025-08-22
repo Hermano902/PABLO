@@ -1,0 +1,62 @@
+[
+  {
+    "word": "associative",
+    "lemma": "associative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈsoʊ.ʃi.ə.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more associative",
+          "SUP": "most associative"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pertaining to, resulting from, or characterised by association ; capable of associating; tending to associate or unite.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Such that, for any operands a , b {\\displaystyle a,b} and c {\\displaystyle c} , ( a ∗ b ) ∗ c = a ∗ ( b ∗ c ) {\\displaystyle (a*b)*c=a*(b*c)} ; ( of a ring , etc. ) whose multiplication operation is associative.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a binary operator ∗ {\\displaystyle *}"
+        ],
+        "label_groups": "algebra , of a binary operator ∗ {\\displaystyle *}"
+      },
+      {
+        "definition": "Addressable by a key more complex than an integer index.",
+        "examples": [
+          "AWK 's associative arrays may be indexed by strings.",
+          "Associative memories were once given considerable attention."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Pertaining to, resulting from, or characterised by association ; capable of associating; tending to associate or unite.",
+    "secondary_definitions": [
+      "( algebra , of a binary operator ∗ {\\displaystyle *} ) Such that, for any operands a , b {\\displaystyle a,b} and c {\\displaystyle c} , ( a ∗ b ) ∗ c = a ∗ ( b ∗ c ) {\\displaystyle (a*b)*c=a*(b*c)} ; ( of a ring , etc. ) whose multiplication operation is associative.",
+      "( computing ) Addressable by a key more complex than an integer index."
+    ]
+  }
+]

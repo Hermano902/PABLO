@@ -1,0 +1,67 @@
+[
+  {
+    "word": "external",
+    "lemma": "external",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈstɜː.nəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "externals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The exterior ; outward features or appearances .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Inessential or superficial features .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Outward appearance .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "usually in the plural"
+        ],
+        "label_groups": "usually in the plural"
+      },
+      {
+        "definition": "A variable that is defined in the source code but whose value comes from some external source.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "in the C language"
+        ],
+        "label_groups": "programming , in the C language"
+      }
+    ],
+    "main_definition": "( usually in the plural ) The exterior ; outward features or appearances .",
+    "secondary_definitions": [
+      "( programming , in the C language ) A variable that is defined in the source code but whose value comes from some external source."
+    ]
+  }
+]

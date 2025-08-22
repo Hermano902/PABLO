@@ -1,0 +1,80 @@
+[
+  {
+    "word": "babysit",
+    "lemma": "babysit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbeɪ.bi.sɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "babysits",
+          "PT": "babysat",
+          "PAP": "babysat",
+          "PRP": "babysitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To watch or tend someone else's child for a period of time, often for money .",
+        "examples": [
+          "My daughter is babysitting for the Morgans at number ten, who are going out on a date night.",
+          "We need someone to babysit our children while we go to the theater."
+        ],
+        "synonyms": [
+          "childsit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To watch or tend a thing or process without normally intervening in it, e.g. as a precaution should an emergency happen.",
+        "examples": [
+          "The reaction takes several hours, so we leave a graduate student to babysit it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To watch or attend anything or anyone more closely than ought to be needed; to have to help or coax too much.",
+        "examples": [
+          "He left me to babysit the new guy while he got some work done."
+        ],
+        "synonyms": [
+          "coddle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To watch or tend someone else's child for a period of time, often for money .",
+    "secondary_definitions": [
+      "( transitive , informal ) To watch or tend a thing or process without normally intervening in it, e.g. as a precaution should an emergency happen.",
+      "( transitive , informal ) To watch or attend anything or anyone more closely than ought to be needed; to have to help or coax too much."
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "word": "ginger",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "ADJ:2",
+    "ADV",
+    "V:2",
+    "N:2",
+    "ADJ:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 9,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ginger.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\ginger.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ginger.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\ginger.json"
+  },
+  "timestamp": "2025-08-19T04:29:14.386287Z"
+}

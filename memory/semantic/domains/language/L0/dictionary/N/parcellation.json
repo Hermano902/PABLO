@@ -1,0 +1,46 @@
+[
+  {
+    "word": "parcellation",
+    "lemma": "parcellation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parcellations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "division into parcels ; especially the dividing up of a large amount of land between the inhabitants of it so that each person receives an equal amount of land .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A map or annotation associating spatial locations (e.g., voxels) with parcel identities (e.g., anatomically or functionally circumscribed regions); the map or annotation that results from or delineates the results of parcellation (sense 1)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "neuroscience",
+          "medical imaging"
+        ],
+        "label_groups": "neuroscience , medical imaging"
+      }
+    ],
+    "main_definition": "division into parcels ; especially the dividing up of a large amount of land between the inhabitants of it so that each person receives an equal amount of land .",
+    "secondary_definitions": [
+      "( neuroscience , medical imaging ) A map or annotation associating spatial locations (e.g., voxels) with parcel identities (e.g., anatomically or functionally circumscribed regions); the map or annotation that results from or delineates the results of parcellation (sense 1)"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "telephone",
+    "lemma": "telephone",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛl.ɪˌfəʊn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "telephones",
+          "PT": "telephoned",
+          "PAP": "telephoned",
+          "PRP": "telephoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To (attempt to) contact someone using a telephone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To convey (a message) via telephone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To (attempt to) contact someone using a telephone .",
+    "secondary_definitions": [
+      "( transitive ) To convey (a message) via telephone ."
+    ]
+  }
+]

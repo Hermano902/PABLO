@@ -1,0 +1,58 @@
+[
+  {
+    "word": "superpose",
+    "lemma": "superpose",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsuː.pəɹˌpəʊ̯z/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "superposes",
+          "PT": "superposed",
+          "PAP": "superposed",
+          "PRP": "superposing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place (an object) on top of another.",
+        "examples": [],
+        "synonyms": [
+          "overlay",
+          "superimpose"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place (one geometric figure ) on top of another in such a way that all common parts coincide .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To place (an object) on top of another.",
+    "secondary_definitions": [
+      "( transitive , mathematics ) To place (one geometric figure ) on top of another in such a way that all common parts coincide ."
+    ]
+  }
+]

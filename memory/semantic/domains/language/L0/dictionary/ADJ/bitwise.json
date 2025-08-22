@@ -1,0 +1,35 @@
+[
+  {
+    "word": "bitwise",
+    "lemma": "bitwise",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Treating a value as a series of bits rather than a numerical quantity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Treating a value as a series of bits rather than a numerical quantity .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "cost",
+    "lemma": "cost",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "costs",
+          "PT": "cost",
+          "PAP": "cost",
+          "PRP": "costing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To incur a charge of; to require payment of a (specified) price .",
+        "examples": [
+          "This shirt cost $50, while this was cheaper at only $30.",
+          "It will cost you a lot of money to take a trip around the world."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "transitive , ditransitive"
+      },
+      {
+        "definition": "To cause something to be lost; to cause the expenditure or relinquishment of.",
+        "examples": [
+          "Trying to rescue the man from the burning building cost them their lives."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "transitive , ditransitive"
+      },
+      {
+        "definition": "To require to be borne or suffered; to cause.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To calculate or estimate a price.",
+        "examples": [
+          "I'd cost the repair work at a few thousand."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To cost (a person) a great deal of money or suffering.",
+        "examples": [
+          "I can give you the names, but it'll cost you.",
+          "That's going to cost you!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      }
+    ],
+    "main_definition": "( transitive , ditransitive ) To incur a charge of; to require payment of a (specified) price .",
+    "secondary_definitions": [
+      "( transitive , ditransitive ) To cause something to be lost; to cause the expenditure or relinquishment of.",
+      "To require to be borne or suffered; to cause.",
+      "To calculate or estimate a price.",
+      "( transitive , colloquial ) To cost (a person) a great deal of money or suffering."
+    ]
+  }
+]

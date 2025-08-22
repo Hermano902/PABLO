@@ -1,0 +1,95 @@
+[
+  {
+    "word": "guest",
+    "lemma": "guest",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡɛst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "guests"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A recipient of hospitality , especially someone staying by invitation at the house of another.",
+        "examples": [
+          "The guests were let in by the butler."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A patron or customer in a hotel etc.",
+        "examples": [
+          "Guests must vacate their rooms by 10 o'clock on their day of departure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An invited visitor or performer to an institution or to a broadcast .",
+        "examples": [
+          "The guest for the broadcast was a leading footballer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A user given temporary access to a system despite not having an account of their own.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Any insect that lives in the nest of another without compulsion and usually not as a parasite .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      },
+      {
+        "definition": "An inquiline .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      }
+    ],
+    "main_definition": "A recipient of hospitality , especially someone staying by invitation at the house of another.",
+    "secondary_definitions": [
+      "A patron or customer in a hotel etc.",
+      "An invited visitor or performer to an institution or to a broadcast .",
+      "( computing ) A user given temporary access to a system despite not having an account of their own.",
+      "( zoology ) Any insect that lives in the nest of another without compulsion and usually not as a parasite .",
+      "( zoology ) An inquiline ."
+    ]
+  }
+]

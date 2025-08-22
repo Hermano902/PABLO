@@ -1,0 +1,49 @@
+[
+  {
+    "word": "inductance",
+    "lemma": "inductance",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inductances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of an electric circuit by which a voltage is induced in it by a changing magnetic field .",
+        "examples": [
+          "The power cable itself has enough inductance to disrupt the digital signal of the video output cable, due to poor shielding."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The quantity of the resulting electromagnetic flux divided by the current that produces it, measured in henries (SI symbol: H .)",
+        "examples": [
+          "What is the inductance of that power supply's main inductor?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( physics ) The property of an electric circuit by which a voltage is induced in it by a changing magnetic field .",
+    "secondary_definitions": [
+      "The quantity of the resulting electromagnetic flux divided by the current that produces it, measured in henries (SI symbol: H .)"
+    ]
+  }
+]

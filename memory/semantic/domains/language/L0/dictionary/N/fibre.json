@@ -1,0 +1,129 @@
+[
+  {
+    "word": "fibre",
+    "lemma": "fibre",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪ.bə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fibres"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single piece of a given material, elongated and roughly round in cross-section, often twisted with other fibres to form thread .",
+        "examples": [
+          "The microscope showed several different fibres stuck to the sole of the shoe."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Material in the form of fibres.",
+        "examples": [
+          "The cloth was made from strange, somewhat rough fibre ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Dietary fibre .",
+        "examples": [
+          "Fresh vegetables are a good source of fibre ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Moral strength and resolve .",
+        "examples": [
+          "The ordeal was a test of everyone’s fibre ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The preimage of a given point in the range of a map .",
+        "examples": [
+          "Under this map, any two values in the fibre of a given point on the circle differ by 2π."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Said to be of a morphism over a global element : The pullback of the said morphism along the said global element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A kind of lightweight thread of execution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A long tubular cell found in bodily tissue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cytology"
+        ],
+        "label_groups": "cytology"
+      }
+    ],
+    "main_definition": "( countable ) A single piece of a given material, elongated and roughly round in cross-section, often twisted with other fibres to form thread .",
+    "secondary_definitions": [
+      "( uncountable ) Material in the form of fibres.",
+      "Dietary fibre .",
+      "Moral strength and resolve .",
+      "( mathematics ) The preimage of a given point in the range of a map .",
+      "( category theory ) Said to be of a morphism over a global element : The pullback of the said morphism along the said global element .",
+      "( computing ) A kind of lightweight thread of execution .",
+      "( cytology ) A long tubular cell found in bodily tissue."
+    ]
+  }
+]

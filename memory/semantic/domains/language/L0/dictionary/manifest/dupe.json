@@ -1,0 +1,30 @@
+{
+  "word": "dupe",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 2,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dupe.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dupe.json"
+  },
+  "timestamp": "2025-08-19T02:30:26.777224Z"
+}

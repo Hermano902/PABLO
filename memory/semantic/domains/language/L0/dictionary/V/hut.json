@@ -1,0 +1,73 @@
+[
+  {
+    "word": "hut",
+    "lemma": "hut",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hʌt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "huts",
+          "PT": "hutted",
+          "PAP": "hutted",
+          "PRP": "hutting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide (someone) with shelter in a hut.",
+        "examples": [
+          "to hut troops in winter quarters"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic",
+          "transitive"
+        ],
+        "label_groups": "archaic , transitive"
+      },
+      {
+        "definition": "To take shelter in a hut.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic",
+          "intransitive"
+        ],
+        "label_groups": "archaic , intransitive"
+      },
+      {
+        "definition": "To stack ( sheaves of grain ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "agriculture",
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "agriculture , obsolete , transitive"
+      }
+    ],
+    "main_definition": "( archaic , transitive ) To provide (someone) with shelter in a hut.",
+    "secondary_definitions": [
+      "( archaic , intransitive ) To take shelter in a hut.",
+      "( agriculture , obsolete , transitive ) To stack ( sheaves of grain )."
+    ]
+  }
+]

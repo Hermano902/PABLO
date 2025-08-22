@@ -1,0 +1,100 @@
+[
+  {
+    "word": "overlap",
+    "lemma": "overlap",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌəʊvəˈlæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overlaps",
+          "PT": "overlapped",
+          "PAP": "overlapped",
+          "PRP": "overlapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To extend over and partly cover something.",
+        "examples": [
+          "The mouse-mat overlapped the edge of the desk."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To co-occur , to happen at the same time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have an area , range , character or function in common .",
+        "examples": [
+          "The two maps overlapped at the east and west edges."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of sets : to have some elements in common.",
+        "examples": [
+          "The set (all men) overlaps the set (vegetarians)."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "To have some similar nucleotide sequences.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "An illusion of depth is created when one object partially covers another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art"
+        ],
+        "label_groups": "art"
+      }
+    ],
+    "main_definition": "To extend over and partly cover something.",
+    "secondary_definitions": [
+      "To co-occur , to happen at the same time.",
+      "To have an area , range , character or function in common .",
+      "( mathematics ) Of sets : to have some elements in common.",
+      "( genetics ) To have some similar nucleotide sequences.",
+      "( art ) An illusion of depth is created when one object partially covers another."
+    ]
+  }
+]

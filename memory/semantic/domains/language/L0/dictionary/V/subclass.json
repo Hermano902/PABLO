@@ -1,0 +1,62 @@
+[
+  {
+    "word": "subclass",
+    "lemma": "subclass",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbklæs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subclasses",
+          "PT": "subclassed",
+          "PAP": "subclassed",
+          "PRP": "subclassing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a subclass of (some class).",
+        "examples": [
+          "I subclassed the Button class to create a more specialised FancyButton class for my user interface."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "in object-oriented programming"
+        ],
+        "label_groups": [
+          "transitive , computing",
+          "in object-oriented programming"
+        ]
+      },
+      {
+        "definition": "To cause (an object) to act as an instance of a subclass (by creating the desired subclass and instantiating an object of this subclass).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive , computing ) (in object-oriented programming ) To create a subclass of (some class).",
+    "secondary_definitions": [
+      "( transitive , computing ) To cause (an object) to act as an instance of a subclass (by creating the desired subclass and instantiating an object of this subclass)."
+    ]
+  }
+]

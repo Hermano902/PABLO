@@ -1,0 +1,38 @@
+[
+  {
+    "word": "inline",
+    "lemma": "inline",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inlines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An element that occurs within the flow of the text.",
+        "examples": [
+          "Bold and italic tags are inline elements."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "web design",
+          "Cascading Style Sheets"
+        ],
+        "label_groups": "web design , Cascading Style Sheets"
+      }
+    ],
+    "main_definition": "( web design , Cascading Style Sheets ) An element that occurs within the flow of the text.",
+    "secondary_definitions": []
+  }
+]

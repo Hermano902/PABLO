@@ -1,0 +1,112 @@
+[
+  {
+    "word": "endpoint",
+    "lemma": "endpoint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "endpoints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Either of the two points at the ends of a line segment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The point in speech at which an utterance ends.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "speech recognition"
+        ],
+        "label_groups": "speech recognition"
+      },
+      {
+        "definition": "A defined occurrence during the observation period of an experiment or study.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "medicine"
+        ],
+        "label_groups": "biology , medicine"
+      },
+      {
+        "definition": "The stage in a titration at which a change in the colour of an indicator indicates that no more titrant should be added.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "The entity at one end of a connection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking",
+          "telecommunications"
+        ],
+        "label_groups": "networking , telecommunications"
+      },
+      {
+        "definition": "Part of a system that serves as a hook , allowing third-party code to intercept and modify behaviour at that point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Either of the two nodes of a graph of degree 1.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Either of the two points at the ends of a line segment .",
+    "secondary_definitions": [
+      "( speech recognition ) The point in speech at which an utterance ends.",
+      "( biology , medicine ) A defined occurrence during the observation period of an experiment or study.",
+      "( chemistry ) The stage in a titration at which a change in the colour of an indicator indicates that no more titrant should be added.",
+      "( networking , telecommunications ) The entity at one end of a connection .",
+      "( programming ) Part of a system that serves as a hook , allowing third-party code to intercept and modify behaviour at that point.",
+      "( mathematics ) Either of the two nodes of a graph of degree 1."
+    ]
+  }
+]

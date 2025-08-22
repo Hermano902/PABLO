@@ -1,0 +1,134 @@
+[
+  {
+    "word": "algebra",
+    "lemma": "algebra",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæl.dʒɪ.bɹə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "algebras"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Elementary algebra : A system for representing and manipulating unknown quantities ( variables ) in equations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "mathematics"
+        ],
+        "label_groups": "uncountable , mathematics"
+      },
+      {
+        "definition": "Abstract algebra : A broad field of study in modern mathematics (often mentioned alongside analysis ) loosely characterized by its concern for abstraction and symmetry , dealing with the behavior, classification, and application of a large class of objects (called algebraic structures ) and the maps between them (called, most generally, morphisms ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "mathematics",
+          "sometimes capitalized"
+        ],
+        "label_groups": "uncountable , mathematics , sometimes capitalized"
+      },
+      {
+        "definition": "Any of several objects of study in Algebra",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A universal algebra .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An algebraic structure consisting of a module over a commutative ring (or a vector space over a field ) along with an additional binary operation that is bilinear over module (or vector) addition and scalar multiplication.",
+            "examples": [],
+            "synonyms": [
+              "algebra over a field",
+              "algebra over a ring"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mathematics",
+          "algebra"
+        ],
+        "label_groups": "countable , mathematics , algebra"
+      },
+      {
+        "definition": "A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under unions and complements (and thereby also under intersections and differences ).",
+        "examples": [],
+        "synonyms": [
+          "field of sets",
+          "algebra of sets"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "set theory",
+          "mathematical analysis"
+        ],
+        "label_groups": "countable , set theory , mathematical analysis"
+      },
+      {
+        "definition": "A system or process (especially one that is complex or convoluted ) that substitutes one thing for another, or uses signs or symbols to represent concepts or ideas.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "The surgical treatment of a dislocated or fractured bone. Also ( countable ) : a dislocation or fracture.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "medicine",
+          "historical",
+          "rare"
+        ],
+        "label_groups": "uncountable , medicine , historical , rare"
+      }
+    ],
+    "main_definition": "( uncountable , mathematics ) Elementary algebra : A system for representing and manipulating unknown quantities ( variables ) in equations .",
+    "secondary_definitions": [
+      "( uncountable , mathematics , sometimes capitalized ) Abstract algebra : A broad field of study in modern mathematics (often mentioned alongside analysis ) loosely characterized by its concern for abstraction and symmetry , dealing with the behavior, classification, and application of a large class of objects (called algebraic structures ) and the maps between them (called, most generally, morphisms ).",
+      "( countable , mathematics , algebra ) Any of several objects of study in Algebra",
+      "( countable , set theory , mathematical analysis ) A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under unions and complements (and thereby also under intersections and differences ).",
+      "( figurative ) A system or process (especially one that is complex or convoluted ) that substitutes one thing for another, or uses signs or symbols to represent concepts or ideas.",
+      "( uncountable , medicine , historical , rare ) The surgical treatment of a dislocated or fractured bone. Also ( countable ) : a dislocation or fracture."
+    ]
+  }
+]

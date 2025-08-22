@@ -1,0 +1,32 @@
+{
+  "word": "helm",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\helm.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\helm.json"
+  },
+  "timestamp": "2025-08-19T05:14:51.871668Z"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "system.pack",
+  "kind": "pack",
+  "entry": "io.system.__pack__:run",
+  "provides": [
+    "SYS/*"
+  ],
+  "enable": true,
+  "notes": "System situational awareness."
+}

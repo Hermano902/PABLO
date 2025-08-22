@@ -1,0 +1,45 @@
+[
+  {
+    "word": "headnote",
+    "lemma": "headnote",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "headnotes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A note at the head of a page, chapter, dictionary entry, or other document element.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A summary of the relevant aspects of a legal case, usually found at the beginning of a case report .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "A note at the head of a page, chapter, dictionary entry, or other document element.",
+    "secondary_definitions": [
+      "( law ) A summary of the relevant aspects of a legal case, usually found at the beginning of a case report ."
+    ]
+  }
+]

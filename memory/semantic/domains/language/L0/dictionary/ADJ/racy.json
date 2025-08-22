@@ -1,0 +1,76 @@
+[
+  {
+    "word": "racy",
+    "lemma": "racy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹeɪsi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "racier",
+          "SUP": "raciest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Mildly risqué .",
+        "examples": [
+          "She wore a racy dress that was just barely appropriate for the occasion.",
+          "a racy story"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a strong flavor indicating origin; of distinct characteristic taste; tasting of the soil.",
+        "examples": [
+          "a racy wine"
+        ],
+        "synonyms": [
+          "fresh",
+          "rich"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Exciting to the mind by a strong or distinctive character of thought or language; peculiar and piquant ; fresh and lively.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "by extension"
+        ],
+        "label_groups": "figurative , by extension"
+      },
+      {
+        "definition": "Involving a data race or a race condition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Mildly risqué .",
+    "secondary_definitions": [
+      "Having a strong flavor indicating origin; of distinct characteristic taste; tasting of the soil.",
+      "( figurative , by extension ) Exciting to the mind by a strong or distinctive character of thought or language; peculiar and piquant ; fresh and lively.",
+      "( programming ) Involving a data race or a race condition ."
+    ]
+  }
+]

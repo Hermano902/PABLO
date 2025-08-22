@@ -1,0 +1,60 @@
+[
+  {
+    "word": "jagged",
+    "lemma": "jagged",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒæɡɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more jagged",
+          "SUP": "most jagged"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unevenly cut ; having the texture of something so cut.",
+        "examples": [],
+        "synonyms": [
+          "serrated"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a rough quality.",
+        "examples": [],
+        "synonyms": [
+          "scraggy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of an array , having a different cardinality in each dimension , such that a representation on paper would appear uneven.",
+        "examples": [],
+        "synonyms": [
+          "ragged"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Unevenly cut ; having the texture of something so cut.",
+    "secondary_definitions": [
+      "Having a rough quality.",
+      "( computing ) Of an array , having a different cardinality in each dimension , such that a representation on paper would appear uneven."
+    ]
+  }
+]

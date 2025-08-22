@@ -1,0 +1,49 @@
+[
+  {
+    "word": "callee",
+    "lemma": "callee",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "callees"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The person who is called by the caller (on the telephone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telephony"
+        ],
+        "label_groups": "telephony"
+      },
+      {
+        "definition": "A function called by another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( telephony ) The person who is called by the caller (on the telephone).",
+    "secondary_definitions": [
+      "( programming ) A function called by another."
+    ]
+  }
+]

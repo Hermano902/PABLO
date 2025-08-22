@@ -1,0 +1,90 @@
+[
+  {
+    "word": "manifold",
+    "lemma": "manifold",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmænɪˌfoʊld/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "manifolds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A copy made by the manifold writing process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "A pipe fitting or similar device that connects multiple inputs and outputs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanics"
+        ],
+        "label_groups": "mechanics"
+      },
+      {
+        "definition": "The third stomach of a ruminant animal, an omasum .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "dialectal",
+          "chiefly in the plural"
+        ],
+        "label_groups": "US , dialectal , chiefly in the plural"
+      },
+      {
+        "definition": "A Hausdorff topological space that looks locally like the \"ordinary\" Euclidean space R n {\\displaystyle \\mathbb {R} ^{n}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A polygon mesh representing the continuous, closed surface of a solid object",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      }
+    ],
+    "main_definition": "( historical ) A copy made by the manifold writing process.",
+    "secondary_definitions": [
+      "( mechanics ) A pipe fitting or similar device that connects multiple inputs and outputs .",
+      "( US , dialectal , chiefly in the plural ) The third stomach of a ruminant animal, an omasum .",
+      "( mathematics ) A Hausdorff topological space that looks locally like the \"ordinary\" Euclidean space R n {\\displaystyle \\mathbb {R} ^{n}} .",
+      "( computer graphics ) A polygon mesh representing the continuous, closed surface of a solid object"
+    ]
+  }
+]

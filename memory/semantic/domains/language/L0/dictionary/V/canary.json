@@ -1,0 +1,67 @@
+[
+  {
+    "word": "canary",
+    "lemma": "canary",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəˈnɛəɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "canaries",
+          "PT": "canaried",
+          "PAP": "canaried",
+          "PRP": "canarying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To dance nimbly (as in the canary dance).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To inform or snitch , to betray secrets, especially about illegal activities.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "To test a software change by rolling out to a small set of machines or users before making it available to all.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "( intransitive ) To dance nimbly (as in the canary dance).",
+    "secondary_definitions": [
+      "( slang ) To inform or snitch , to betray secrets, especially about illegal activities.",
+      "( software engineering ) To test a software change by rolling out to a small set of machines or users before making it available to all."
+    ]
+  }
+]

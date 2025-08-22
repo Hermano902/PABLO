@@ -1,0 +1,65 @@
+[
+  {
+    "word": "quiet",
+    "lemma": "quiet",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwaɪ.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quiets",
+          "PT": "quieted",
+          "PAP": "quieted",
+          "PRP": "quieting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause (someone or something) to become quiet .",
+        "examples": [
+          "Can you quiet your child? He’s making lots of noise.",
+          "The umpire quieted the crowd so the game could continue in peace."
+        ],
+        "synonyms": [
+          "quiet down",
+          "quieten"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become quiet or calm .",
+        "examples": [
+          "When you quiet , we can start talking."
+        ],
+        "synonyms": [
+          "quiet down",
+          "quieten"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cause (someone or something) to become quiet .",
+    "secondary_definitions": [
+      "( intransitive ) To become quiet or calm ."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "winter",
+    "lemma": "winter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɪntə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "winters",
+          "PT": "wintered",
+          "PAP": "wintered",
+          "PRP": "wintering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To spend the winter (in a particular place).",
+        "examples": [
+          "When they retired, they hoped to winter in Florida."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To store something (for instance animals ) somewhere over winter to protect it from cold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To spend the winter (in a particular place).",
+    "secondary_definitions": [
+      "( transitive ) To store something (for instance animals ) somewhere over winter to protect it from cold ."
+    ]
+  }
+]

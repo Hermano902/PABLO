@@ -1,0 +1,43 @@
+[
+  {
+    "word": "lint",
+    "lemma": "lint",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/lɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lints",
+          "PT": "linted",
+          "PAP": "linted",
+          "PRP": "linting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform a static check on ( source code ) to detect stylistic or programmatic errors.",
+        "examples": [
+          "You should lint your JavaScript code before committing it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To perform a static check on ( source code ) to detect stylistic or programmatic errors.",
+    "secondary_definitions": []
+  }
+]

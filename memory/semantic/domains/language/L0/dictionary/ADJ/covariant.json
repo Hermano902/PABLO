@@ -1,0 +1,52 @@
+[
+  {
+    "word": "covariant",
+    "lemma": "covariant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Which preserves the order of morphism composition : formally, which associates each morphism f : X → Y {\\displaystyle f:X\\to Y} to a morphism F ( f ) : F ( X ) → F ( Y ) {\\displaystyle F(f):F(X)\\to F(Y)} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "contravariant"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "of a functor"
+        ],
+        "label_groups": "category theory , of a functor"
+      },
+      {
+        "definition": "Using or relating to covariance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "( category theory , of a functor ) Which preserves the order of morphism composition : formally, which associates each morphism f : X → Y {\\displaystyle f:X\\to Y} to a morphism F ( f ) : F ( X ) → F ( Y ) {\\displaystyle F(f):F(X)\\to F(Y)} .",
+    "secondary_definitions": [
+      "( object-oriented programming ) Using or relating to covariance ."
+    ]
+  }
+]

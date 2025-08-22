@@ -1,0 +1,58 @@
+[
+  {
+    "word": "dean",
+    "lemma": "dean",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deans",
+          "PT": "deaned",
+          "PAP": "deaned",
+          "PRP": "deaning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To serve as a dean.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "To send (a student) to see the dean of a college or university .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Oxbridge",
+          "otherwise rare",
+          "informal"
+        ],
+        "label_groups": "transitive , Oxbridge , otherwise rare , informal"
+      }
+    ],
+    "main_definition": "( intransitive , rare ) To serve as a dean.",
+    "secondary_definitions": [
+      "( transitive , Oxbridge , otherwise rare , informal ) To send (a student) to see the dean of a college or university ."
+    ]
+  }
+]

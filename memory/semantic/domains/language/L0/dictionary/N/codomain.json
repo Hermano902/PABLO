@@ -1,0 +1,51 @@
+[
+  {
+    "word": "codomain",
+    "lemma": "codomain",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkoʊ.doʊˈmeɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "codomains"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The target set into which a function is formally defined to map elements of its domain ; the set denoted Y in the notation f : X → Y .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The set B .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "more generally",
+              "of a binary relation R between A",
+              "B"
+            ],
+            "label_groups": "more generally , of a binary relation R between A and B"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematics , mathematical analysis"
+      }
+    ],
+    "main_definition": "( mathematics , mathematical analysis ) The target set into which a function is formally defined to map elements of its domain ; the set denoted Y in the notation f : X → Y .",
+    "secondary_definitions": []
+  }
+]

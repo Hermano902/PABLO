@@ -1,0 +1,100 @@
+[
+  {
+    "word": "null",
+    "lemma": "null",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nʌl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "nulls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A non-existent or empty value or set of values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Zero quantity of expressions ; nothing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something that has no force or meaning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The null character ; the ASCII or Unicode character ( ␀ ), represented by a zero value, which indicates no character and is sometimes used as a string terminator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The attribute of an entity that has no valid value .",
+        "examples": [
+          "Since no date of birth was entered for the patient, his age is null ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "One of the beads in nulled work .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The null hypothesis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A non-existent or empty value or set of values.",
+    "secondary_definitions": [
+      "Zero quantity of expressions ; nothing .",
+      "Something that has no force or meaning.",
+      "( computing ) The null character ; the ASCII or Unicode character ( ␀ ), represented by a zero value, which indicates no character and is sometimes used as a string terminator .",
+      "( computing ) The attribute of an entity that has no valid value .",
+      "One of the beads in nulled work .",
+      "( statistics ) The null hypothesis ."
+    ]
+  }
+]

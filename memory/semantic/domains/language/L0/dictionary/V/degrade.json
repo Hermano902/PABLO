@@ -1,0 +1,73 @@
+[
+  {
+    "word": "degrade",
+    "lemma": "degrade",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɡɹeɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "degrades",
+          "PT": "degraded",
+          "PAP": "degraded",
+          "PRP": "degrading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lower in value or social position.",
+        "examples": [
+          "Fred degrades himself by his behaviour."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce in quality or purity.",
+        "examples": [
+          "The DNA sample has degraded ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "ergative"
+        ],
+        "label_groups": "intransitive , ergative"
+      },
+      {
+        "definition": "To reduce in altitude or magnitude, as hills and mountains; to wear down.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "geology"
+        ],
+        "label_groups": "transitive , geology"
+      }
+    ],
+    "main_definition": "( transitive ) To lower in value or social position.",
+    "secondary_definitions": [
+      "( intransitive , ergative ) To reduce in quality or purity.",
+      "( transitive , geology ) To reduce in altitude or magnitude, as hills and mountains; to wear down."
+    ]
+  }
+]

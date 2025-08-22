@@ -1,0 +1,54 @@
+[
+  {
+    "word": "introspection",
+    "lemma": "introspection",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪntɹəˈspɛkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "introspections"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A looking inward ; specifically, the act or process of self-examination , or inspection of one's own thoughts and feelings ; the cognition which the mind has of its own acts and states .",
+        "examples": [],
+        "synonyms": [
+          "self-consciousness",
+          "reflection"
+        ],
+        "antonyms": [
+          "extraspection"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      },
+      {
+        "definition": "Clipping of type introspection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "( psychology ) A looking inward ; specifically, the act or process of self-examination , or inspection of one's own thoughts and feelings ; the cognition which the mind has of its own acts and states .",
+    "secondary_definitions": [
+      "( object-oriented programming ) Clipping of type introspection ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "solid",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 16,
+      "examples": 15,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\solid.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\solid.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\solid.json"
+  },
+  "timestamp": "2025-08-19T17:29:55.286148Z"
+}

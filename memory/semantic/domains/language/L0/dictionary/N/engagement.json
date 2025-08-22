@@ -1,0 +1,146 @@
+[
+  {
+    "word": "engagement",
+    "lemma": "engagement",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈɡeɪd͡ʒ.mənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "engagements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An appointment , especially to speak or perform .",
+        "examples": [
+          "The lecturer has three speaking engagements this week.",
+          "prior engagement",
+          "a future engagement"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Connection or attachment .",
+        "examples": [
+          "Check the gears for full engagement before turning the handle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "The feeling of being compelled, drawn in, connected to what is happening, interested in what will happen next.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "by extension",
+          "about human emotional state"
+        ],
+        "label_groups": "uncountable , by extension , about human emotional state"
+      },
+      {
+        "definition": "The period of time when marriage is planned or promised .",
+        "examples": [
+          "We are enjoying a long engagement , but haven't yet set a date."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "In any situation of conflict , an actual instance of active hostilities .",
+        "examples": [
+          "The engagement resulted in many casualties."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "The point at which the fencers are close enough to join blades, or to make an effective attack during an encounter.",
+        "examples": [
+          "After engagement it quickly became clear which of the fencers was going to prevail."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fencing",
+          "countable"
+        ],
+        "label_groups": "fencing , countable"
+      },
+      {
+        "definition": "A performance metric representing an instance where a user interacts with some content after an impression .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The quantitative response to a piece of content ; attention .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable"
+            ],
+            "label_groups": "uncountable"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "countable"
+        ],
+        "label_groups": "Internet , countable"
+      }
+    ],
+    "main_definition": "( countable ) An appointment , especially to speak or perform .",
+    "secondary_definitions": [
+      "( countable , uncountable ) Connection or attachment .",
+      "( uncountable , by extension , about human emotional state ) The feeling of being compelled, drawn in, connected to what is happening, interested in what will happen next.",
+      "( countable , uncountable ) The period of time when marriage is planned or promised .",
+      "( countable , uncountable ) In any situation of conflict , an actual instance of active hostilities .",
+      "( fencing , countable ) The point at which the fencers are close enough to join blades, or to make an effective attack during an encounter.",
+      "( Internet , countable ) A performance metric representing an instance where a user interacts with some content after an impression ."
+    ]
+  }
+]

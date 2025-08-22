@@ -1,0 +1,125 @@
+[
+  {
+    "word": "ceiling",
+    "lemma": "ceiling",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsiːlɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ceilings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The overhead closure of a room .",
+        "examples": [
+          "The dining room had an ornate ceiling ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The upper limit of an object or action.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The highest altitude at which an aircraft can safely maintain flight.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "The measurement of visible distance from ground or sea level to an overcast cloud cover; under a clear sky, the ceiling measurement is identified as \"unlimited.\"",
+        "examples": [
+          "Even though it was cloudy, there was still enough ceiling for the Blue Angels to perform a great show."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      },
+      {
+        "definition": "The smallest integer greater than or equal to a given number.",
+        "examples": [
+          "The ceiling of 4.5 is 5; the ceiling of −4.5 is −4."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The inner planking of a vessel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "The maximum permitted level in a financial transaction.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "The overhead interior surface that covers the upper limits of a room.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      }
+    ],
+    "main_definition": "The overhead closure of a room .",
+    "secondary_definitions": [
+      "The upper limit of an object or action.",
+      "( aviation ) The highest altitude at which an aircraft can safely maintain flight.",
+      "( meteorology ) The measurement of visible distance from ground or sea level to an overcast cloud cover; under a clear sky, the ceiling measurement is identified as \"unlimited.\"",
+      "( mathematics ) The smallest integer greater than or equal to a given number.",
+      "( nautical ) The inner planking of a vessel.",
+      "( finance ) The maximum permitted level in a financial transaction.",
+      "( architecture ) The overhead interior surface that covers the upper limits of a room."
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "word": "oriented",
+    "lemma": "oriented",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more oriented",
+          "SUP": "most oriented"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a specific orientation ( positioning or direction ).",
+        "examples": [
+          "During assembly, keep the tab oriented toward the slot that it will later enter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having had an orientation (an introduction to a topic or place).",
+        "examples": [
+          "They are now oriented with the main campus.",
+          "I am no expert in geometry, but I am suitably oriented in it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "often with with or in"
+        ],
+        "label_groups": "often with with or in"
+      },
+      {
+        "definition": "In any of various technical senses, admitting or being equipped with a notion of handedness (i.e. of distinguishing clockwise and anticlockwise ). See Orientability on  Wikipedia. Wikipedia",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "topology"
+        ],
+        "label_groups": "geometry , topology"
+      },
+      {
+        "definition": "Having (something) as a primary concern or guiding principle; focused on (something).",
+        "examples": [],
+        "synonyms": [
+          "focused"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in compounds"
+        ],
+        "label_groups": "in compounds"
+      }
+    ],
+    "main_definition": "Having a specific orientation ( positioning or direction ).",
+    "secondary_definitions": [
+      "( often with with or in ) Having had an orientation (an introduction to a topic or place).",
+      "( geometry , topology ) In any of various technical senses, admitting or being equipped with a notion of handedness (i.e. of distinguishing clockwise and anticlockwise ). See Orientability on  Wikipedia. Wikipedia",
+      "( in compounds ) Having (something) as a primary concern or guiding principle; focused on (something)."
+    ]
+  }
+]

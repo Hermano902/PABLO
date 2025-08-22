@@ -1,0 +1,51 @@
+[
+  {
+    "word": "medical",
+    "lemma": "medical",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛdɪkl̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "medicals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A medical examination .",
+        "examples": [
+          "You'll have to get a medical before you apply for that job."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "A medical practitioner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( informal ) A medical examination .",
+    "secondary_definitions": [
+      "( archaic ) A medical practitioner."
+    ]
+  }
+]

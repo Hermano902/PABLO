@@ -1,0 +1,72 @@
+[
+  {
+    "word": "headroom",
+    "lemma": "headroom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "headrooms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The vertical clearance above someone's head , as in a tunnel , doorway etc; room (space) for one's head.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The vertical measurement, top to bottom, for example for clearance under a bridge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The ability of a system to reproduce loud sounds free of distortion ; dynamic headroom .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "The distance between the actual performance of an algorithm and its maximum possible performance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Synonym of headspace ( “ space between the top of the contents of a container and its seal ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The vertical clearance above someone's head , as in a tunnel , doorway etc; room (space) for one's head.",
+    "secondary_definitions": [
+      "The vertical measurement, top to bottom, for example for clearance under a bridge.",
+      "( electronics ) The ability of a system to reproduce loud sounds free of distortion ; dynamic headroom .",
+      "The distance between the actual performance of an algorithm and its maximum possible performance.",
+      "Synonym of headspace ( “ space between the top of the contents of a container and its seal ” ) ."
+    ]
+  }
+]

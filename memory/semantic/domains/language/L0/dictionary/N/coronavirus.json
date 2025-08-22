@@ -1,0 +1,73 @@
+[
+  {
+    "word": "coronavirus",
+    "lemma": "coronavirus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəˈɹəʊnəˌvaɪɹəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "coronaviruses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A member of the family Coronaviridae , comprising viruses which infect animals and human beings , and the genome of which consists of a single strand of RNA .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "SARS-CoV-2 , the specific coronavirus that causes the infectious disease COVID-19 .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "often the intended sense",
+              "since 2020"
+            ],
+            "label_groups": "often the intended sense, since 2020"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "virology"
+        ],
+        "label_groups": "virology",
+        "dating_raw": "from 1968"
+      },
+      {
+        "definition": "An illness caused by a coronavirus.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "COVID-19 , the disease caused by the specific coronavirus SARS-CoV-2 .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "metonymic"
+        ],
+        "label_groups": "metonymic"
+      }
+    ],
+    "main_definition": "( virology ) A member of the family Coronaviridae , comprising viruses which infect animals and human beings , and the genome of which consists of a single strand of RNA . [from 1968]",
+    "secondary_definitions": [
+      "( metonymic ) An illness caused by a coronavirus."
+    ]
+  }
+]

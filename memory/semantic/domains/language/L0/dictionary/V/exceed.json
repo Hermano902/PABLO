@@ -1,0 +1,100 @@
+[
+  {
+    "word": "exceed",
+    "lemma": "exceed",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈsiːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "exceeds",
+          "PT": "exceeded",
+          "PAP": "exceeded",
+          "PRP": "exceeding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be larger , greater than (something).",
+        "examples": [
+          "The company's 2005 revenue exceeds that of 2004."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be better than (something).",
+        "examples": [
+          "The quality of her essay has exceeded my expectations."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To go beyond (some limit ); to surpass ; to be longer than.",
+        "examples": [
+          "Your password cannot exceed eight characters."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To predominate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To go too far; to be excessive .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To be larger , greater than (something).",
+    "secondary_definitions": [
+      "( transitive ) To be better than (something).",
+      "( transitive ) To go beyond (some limit ); to surpass ; to be longer than.",
+      "( intransitive ) To predominate .",
+      "( intransitive , obsolete ) To go too far; to be excessive ."
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "word": "better",
+    "lemma": "better",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɛtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( modal , auxiliary verb , colloquial ) Had better .",
+        "examples": [
+          "It's getting late. You better get on home.",
+          "Nobody better hurt any of my kids."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( modal , auxiliary verb , colloquial ) Had better .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "better",
+    "lemma": "better",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈbɛtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "betters",
+          "PT": "bettered",
+          "PAP": "bettered",
+          "PRP": "bettering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To improve .",
+        "examples": [
+          "This government will better our society."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become better; to improve.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To surpass in excellence; to exceed; to excel.",
+        "examples": [],
+        "synonyms": [
+          "top"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give advantage to; to support; to advance the interest of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To improve .",
+    "secondary_definitions": [
+      "( intransitive ) To become better; to improve.",
+      "( transitive ) To surpass in excellence; to exceed; to excel.",
+      "( transitive ) To give advantage to; to support; to advance the interest of."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "lure",
+    "lemma": "lure",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/lɔː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lures",
+          "PT": "lured",
+          "PAP": "lured",
+          "PRP": "luring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To attract by temptation , appeal , or guile .",
+        "examples": [],
+        "synonyms": [
+          "entice"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attract fish with a lure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To recall a hawk with a lure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "falconry"
+        ],
+        "label_groups": "transitive , falconry"
+      }
+    ],
+    "main_definition": "( transitive ) To attract by temptation , appeal , or guile .",
+    "secondary_definitions": [
+      "( transitive ) To attract fish with a lure.",
+      "( transitive , falconry ) To recall a hawk with a lure."
+    ]
+  }
+]

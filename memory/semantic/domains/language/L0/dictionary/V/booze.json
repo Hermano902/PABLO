@@ -1,0 +1,58 @@
+[
+  {
+    "word": "booze",
+    "lemma": "booze",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/buːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boozes",
+          "PT": "boozed",
+          "PAP": "boozed",
+          "PRP": "boozing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To drink alcohol.",
+        "examples": [
+          "We were out all night boozing until we dragged ourselves home hung over."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "intransitive"
+        ],
+        "label_groups": "slang , intransitive"
+      },
+      {
+        "definition": "To drink (an alcoholic beverage).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "transitive"
+        ],
+        "label_groups": "slang , transitive"
+      }
+    ],
+    "main_definition": "( slang , intransitive ) To drink alcohol.",
+    "secondary_definitions": [
+      "( slang , transitive ) To drink (an alcoholic beverage)."
+    ]
+  }
+]

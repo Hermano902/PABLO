@@ -1,0 +1,79 @@
+[
+  {
+    "word": "modulate",
+    "lemma": "modulate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒd͡ʒɪleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "modulates",
+          "PT": "modulated",
+          "PAP": "modulated",
+          "PRP": "modulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To regulate , adjust or adapt",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To change the pitch , intensity or tone of one's voice or of a musical instrument",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "to vary the amplitude , frequency or phase of a carrier wave in proportion to the amplitude etc of a source wave (such as speech or music )",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "electronics"
+            ],
+            "label_groups": "transitive , electronics"
+          },
+          {
+            "definition": "to move from one key or tonality to another, especially by using a chord progression",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "music"
+            ],
+            "label_groups": "intransitive , music"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To regulate , adjust or adapt",
+    "secondary_definitions": []
+  }
+]

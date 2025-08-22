@@ -1,0 +1,87 @@
+[
+  {
+    "word": "average",
+    "lemma": "average",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæv(ə)ɹɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "averages",
+          "PT": "averaged",
+          "PAP": "averaged",
+          "PRP": "averaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To compute the average of, especially the arithmetic mean.",
+        "examples": [
+          "If you average 10, 20 and 24, you get 18."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Over a period of time or across members of a population, to have or generate a mean value of.",
+        "examples": [
+          "The daily high temperature last month averaged 15°C.",
+          "I averaged 75% in my examinations this year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To divide among a number, according to a given proportion.",
+        "examples": [
+          "to average a loss"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be, generally or on average.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To compute the average of, especially the arithmetic mean.",
+    "secondary_definitions": [
+      "( transitive ) Over a period of time or across members of a population, to have or generate a mean value of.",
+      "( transitive ) To divide among a number, according to a given proportion.",
+      "( intransitive ) To be, generally or on average."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "interact",
+    "lemma": "interact",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪn.təˈɹækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interacts",
+          "PT": "interacted",
+          "PAP": "interacted",
+          "PRP": "interacting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act upon each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To engage in communication and other shared activities ( with someone).",
+            "examples": [
+              "The way staff interact with each other during breaks can play an important role in the workplace."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of people"
+            ],
+            "label_groups": "of people"
+          },
+          {
+            "definition": "To affect each other.",
+            "examples": [
+              "This medication can interact with alcohol, so it's best to avoid drinking while you're taking it."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of two or more things"
+            ],
+            "label_groups": "of two or more things"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To act upon each other.",
+    "secondary_definitions": []
+  }
+]

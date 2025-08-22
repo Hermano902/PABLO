@@ -1,0 +1,106 @@
+[
+  {
+    "word": "copy",
+    "lemma": "copy",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒpi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "copies",
+          "PT": "copied",
+          "PAP": "copied",
+          "PRP": "copying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To produce an object identical to a given object.",
+        "examples": [
+          "Please copy these reports for me.",
+          "Don't copy that floppy!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give or transmit a copy to (a person).",
+        "examples": [
+          "Make sure you copy me on that important memo."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place a copy of an object in memory for later use.",
+        "examples": [
+          "First copy the files, and then paste them in another directory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To imitate.",
+        "examples": [
+          "Don't copy my dance moves.",
+          "Mom, he's copying me!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To receive a transmission successfully.",
+        "examples": [
+          "Do you copy ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radio"
+        ],
+        "label_groups": "radio"
+      }
+    ],
+    "main_definition": "( transitive ) To produce an object identical to a given object.",
+    "secondary_definitions": [
+      "( transitive ) To give or transmit a copy to (a person).",
+      "( transitive , computing ) To place a copy of an object in memory for later use.",
+      "( transitive ) To imitate.",
+      "( radio ) To receive a transmission successfully."
+    ]
+  }
+]

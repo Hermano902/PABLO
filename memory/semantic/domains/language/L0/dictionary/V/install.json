@@ -1,0 +1,90 @@
+[
+  {
+    "word": "install",
+    "lemma": "install",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈstɔːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "installs",
+          "PT": "installed",
+          "PAP": "installed",
+          "PRP": "installing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To connect , set up or prepare something for use",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To transfer software onto a device's permanent storage and put it in a state where it is ready to be run when needed, usually decompressing it if necessary and performing any necessary pre-first-run configuration.",
+            "examples": [
+              "I haven't installed the new operating system yet because of all the bugs."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "computing"
+            ],
+            "label_groups": "transitive , computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To admit formally into an office , rank or position .",
+        "examples": [
+          "He was installed as Chancellor of the University."
+        ],
+        "synonyms": [
+          "seat"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To establish or settle in.",
+        "examples": [
+          "I installed myself in my usual chair by the fire."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sometimes reflexive"
+        ],
+        "label_groups": "transitive , sometimes reflexive"
+      }
+    ],
+    "main_definition": "( transitive ) To connect , set up or prepare something for use",
+    "secondary_definitions": [
+      "( transitive ) To admit formally into an office , rank or position .",
+      "( transitive , sometimes reflexive ) To establish or settle in."
+    ]
+  }
+]

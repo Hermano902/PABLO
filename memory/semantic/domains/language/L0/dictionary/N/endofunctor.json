@@ -1,0 +1,35 @@
+[
+  {
+    "word": "endofunctor",
+    "lemma": "endofunctor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "endofunctors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A functor that maps a category to itself.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "( category theory ) A functor that maps a category to itself.",
+    "secondary_definitions": []
+  }
+]

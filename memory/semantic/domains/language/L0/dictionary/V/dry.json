@@ -1,0 +1,97 @@
+[
+  {
+    "word": "dry",
+    "lemma": "dry",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɹaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dries",
+          "PT": "dried",
+          "PAP": "dried",
+          "PRP": "drying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lose moisture.",
+        "examples": [
+          "The clothes dried on the line.",
+          "The fruit dried in the dehydrator."
+        ],
+        "synonyms": [
+          "dehydrate",
+          "desiccate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To remove moisture from.",
+        "examples": [
+          "Devin dried her eyes with a handkerchief.",
+          "We dried the fruit in the dehydrator."
+        ],
+        "synonyms": [
+          "dehydrate",
+          "desiccate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To exhaust ; to cause to run dry .",
+        "examples": [],
+        "synonyms": [
+          "dry up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "For an actor to forget their lines while performing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "informal",
+          "theater"
+        ],
+        "label_groups": "intransitive , informal , theater"
+      }
+    ],
+    "main_definition": "( intransitive ) To lose moisture.",
+    "secondary_definitions": [
+      "( transitive ) To remove moisture from.",
+      "( transitive , figurative ) To exhaust ; to cause to run dry .",
+      "( intransitive , informal , theater ) For an actor to forget their lines while performing ."
+    ]
+  }
+]

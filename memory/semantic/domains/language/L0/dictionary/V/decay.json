@@ -1,0 +1,176 @@
+[
+  {
+    "word": "decay",
+    "lemma": "decay",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkeɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decays",
+          "PT": "decayed",
+          "PAP": "decayed",
+          "PRP": "decaying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deteriorate , to get worse, to lose strength or health, to decline in quality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To undergo bit rot , that is, gradual degradation.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "electronics",
+              "of storage media or the data on them"
+            ],
+            "label_groups": "intransitive , electronics , of storage media or the data on them"
+          },
+          {
+            "definition": "To undergo software rot , that is, to fail to be updated in a changing environment, so as to eventually become legacy or obsolete .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "computing",
+              "of software"
+            ],
+            "label_groups": "intransitive , computing , of software"
+          },
+          {
+            "definition": "To undergo prolonged reduction in altitude (above the orbited body).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "physics",
+              "of a satellite's orbit"
+            ],
+            "label_groups": "intransitive , physics , of a satellite's orbit"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To rot , to go bad.",
+        "examples": [
+          "The cat's body decayed rapidly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of organic material"
+        ],
+        "label_groups": "intransitive , of organic material"
+      },
+      {
+        "definition": "To change by undergoing fission , by emitting radiation , or by capturing or losing one or more electrons; to undergo radioactive decay.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive",
+          "physics",
+          "chemistry",
+          "of an unstable atom"
+        ],
+        "label_groups": "intransitive , transitive , physics , chemistry , of an unstable atom"
+      },
+      {
+        "definition": "To undergo optical decay , that is, to relax to a less excited state , usually by emitting a photon or phonon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive",
+          "physics",
+          "of a quantum system"
+        ],
+        "label_groups": "intransitive , transitive , physics , of a quantum system"
+      },
+      {
+        "definition": "Loss of airspeed due to drag .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "aviation"
+        ],
+        "label_groups": "intransitive , aviation"
+      },
+      {
+        "definition": "To cause to rot or deteriorate .",
+        "examples": [
+          "The extreme humidity decayed the wooden sculptures in the museum's collection in a matter of years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of an array : to lose its type and dimensions and be reduced to a pointer , for example when passed to a function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "intransitive"
+        ],
+        "label_groups": "programming , intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To deteriorate , to get worse, to lose strength or health, to decline in quality.",
+    "secondary_definitions": [
+      "( intransitive , of organic material ) To rot , to go bad.",
+      "( intransitive , transitive , physics , chemistry , of an unstable atom ) To change by undergoing fission , by emitting radiation , or by capturing or losing one or more electrons; to undergo radioactive decay.",
+      "( intransitive , transitive , physics , of a quantum system ) To undergo optical decay , that is, to relax to a less excited state , usually by emitting a photon or phonon .",
+      "( intransitive , aviation ) Loss of airspeed due to drag .",
+      "( transitive ) To cause to rot or deteriorate .",
+      "( programming , intransitive ) Of an array : to lose its type and dimensions and be reduced to a pointer , for example when passed to a function ."
+    ]
+  }
+]

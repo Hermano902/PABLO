@@ -1,0 +1,127 @@
+[
+  {
+    "word": "magnitude",
+    "lemma": "magnitude",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæɡnɪtjuːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "magnitudes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The absolute or relative size , extent or importance of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "uncountable , countable"
+      },
+      {
+        "definition": "An order of magnitude .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A number , assigned to something, such that it may be compared to others numerically",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Of a vector , the norm , most commonly, the two-norm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A logarithmic scale of brightness defined so that a difference of 5 magnitudes is a factor of 100.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The apparent brightness of a star , with lower magnitudes being brighter; apparent magnitude",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable"
+            ],
+            "label_groups": "uncountable"
+          },
+          {
+            "definition": "A ratio of intensity expressed as a logarithm.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "countable"
+            ],
+            "label_groups": "countable"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "A measure of the energy released by an earthquake (e.g. on the Richter scale ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "seismology"
+        ],
+        "label_groups": "seismology"
+      }
+    ],
+    "main_definition": "( uncountable , countable ) The absolute or relative size , extent or importance of something.",
+    "secondary_definitions": [
+      "( countable ) An order of magnitude .",
+      "( mathematics ) A number , assigned to something, such that it may be compared to others numerically",
+      "( mathematics ) Of a vector , the norm , most commonly, the two-norm .",
+      "( astronomy ) A logarithmic scale of brightness defined so that a difference of 5 magnitudes is a factor of 100.",
+      "( seismology ) A measure of the energy released by an earthquake (e.g. on the Richter scale )."
+    ]
+  }
+]

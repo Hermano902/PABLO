@@ -1,0 +1,75 @@
+[
+  {
+    "word": "dunder",
+    "lemma": "dunder",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʌndə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( Caribbean ) The lees or dregs of cane juice , used in the distillation of rum .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Australia ) Distillery effluent .",
+        "examples": [],
+        "synonyms": [
+          "stillage",
+          "sour mash",
+          "vinasse",
+          "vinhaca"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( Caribbean ) The lees or dregs of cane juice , used in the distillation of rum .",
+    "secondary_definitions": [
+      "( Australia ) Distillery effluent ."
+    ]
+  },
+  {
+    "word": "dunder",
+    "lemma": "dunder",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈdʌndə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dunders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A double underscore , __ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "informal"
+        ],
+        "label_groups": "programming , informal"
+      }
+    ],
+    "main_definition": "( programming , informal ) A double underscore , __ .",
+    "secondary_definitions": []
+  }
+]

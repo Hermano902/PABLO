@@ -1,0 +1,35 @@
+[
+  {
+    "word": "compile",
+    "lemma": "compile",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpaɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "compiles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of compiling code.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) An act of compiling code.",
+    "secondary_definitions": []
+  }
+]

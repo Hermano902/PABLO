@@ -1,0 +1,58 @@
+[
+  {
+    "word": "holddown",
+    "lemma": "holddown",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "holddowns"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which holds something down.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A clamping device that holds another structural element in place.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "A period during which a network router ignores messages about a currently unreachable route , giving it time to become reachable again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "That which holds something down.",
+    "secondary_definitions": [
+      "( engineering ) A clamping device that holds another structural element in place.",
+      "( computing ) A period during which a network router ignores messages about a currently unreachable route , giving it time to become reachable again."
+    ]
+  }
+]

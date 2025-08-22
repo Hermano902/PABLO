@@ -1,0 +1,35 @@
+[
+  {
+    "word": "infostealer",
+    "lemma": "infostealer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "infostealers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A piece of malware that steals personal data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer security"
+        ],
+        "label_groups": "computer security"
+      }
+    ],
+    "main_definition": "( computer security ) A piece of malware that steals personal data .",
+    "secondary_definitions": []
+  }
+]

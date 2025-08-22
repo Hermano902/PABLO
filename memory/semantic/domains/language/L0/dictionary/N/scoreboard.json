@@ -1,0 +1,58 @@
+[
+  {
+    "word": "scoreboard",
+    "lemma": "scoreboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scoreboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large board that displays the score in a game or contest .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A similar board that also displays each batsman 's score, and many statistics and pieces of information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      },
+      {
+        "definition": "A listing of various similar entities along with their properties , such as status or rank .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "A large board that displays the score in a game or contest .",
+    "secondary_definitions": [
+      "( cricket ) A similar board that also displays each batsman 's score, and many statistics and pieces of information .",
+      "( by extension ) A listing of various similar entities along with their properties , such as status or rank ."
+    ]
+  }
+]

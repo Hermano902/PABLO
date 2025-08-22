@@ -1,0 +1,56 @@
+[
+  {
+    "word": "sparse",
+    "lemma": "sparse",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/spɑːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "sparser",
+          "SUP": "sparsest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having widely spaced intervals.",
+        "examples": [
+          "a sparse array, index, or matrix"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not dense ; meager ; scanty",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having few nonzero elements",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Having widely spaced intervals.",
+    "secondary_definitions": [
+      "Not dense ; meager ; scanty",
+      "( mathematics ) Having few nonzero elements"
+    ]
+  }
+]

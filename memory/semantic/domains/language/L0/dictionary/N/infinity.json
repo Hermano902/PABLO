@@ -1,0 +1,95 @@
+[
+  {
+    "word": "infinity",
+    "lemma": "infinity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈfɪnɪti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "infinities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "endlessness , unlimitedness , absence of a beginning, end or limits to size.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A number that has an infinite numerical value that cannot be counted.",
+        "examples": [],
+        "synonyms": [
+          "∞"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mathematics"
+        ],
+        "label_groups": "countable , mathematics"
+      },
+      {
+        "definition": "An idealised point which is said to be approached by sequences of values whose magnitudes increase without bound .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "topology",
+          "mathematical analysis"
+        ],
+        "label_groups": "countable , topology , mathematical analysis"
+      },
+      {
+        "definition": "A number which is very large compared to some characteristic number. For example, in optics , an object which is much further away than the focal length of a lens is said to be \"at infinity\", as the distance of the image from the lens varies very little as the distance increases further.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The symbol ∞ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      }
+    ],
+    "main_definition": "( uncountable ) endlessness , unlimitedness , absence of a beginning, end or limits to size.",
+    "secondary_definitions": [
+      "( countable , mathematics ) A number that has an infinite numerical value that cannot be counted.",
+      "( countable , topology , mathematical analysis ) An idealised point which is said to be approached by sequences of values whose magnitudes increase without bound .",
+      "( uncountable ) A number which is very large compared to some characteristic number. For example, in optics , an object which is much further away than the focal length of a lens is said to be \"at infinity\", as the distance of the image from the lens varies very little as the distance increases further.",
+      "( countable , uncountable ) The symbol ∞ ."
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "word": "symptomatic",
+    "lemma": "symptomatic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌsɪmp.təˈmæt.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more symptomatic",
+          "SUP": "most symptomatic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Showing symptoms .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "asymptomatic",
+          "nonsymptomatic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pathology"
+        ],
+        "label_groups": "pathology"
+      },
+      {
+        "definition": "Constituting a symptom or indication ; characteristic , indicative .",
+        "examples": [
+          "The city's problems are symptomatic of the crisis that is spreading throughout the country."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "Of a treatment , that only affects the symptoms of a disease without targeting the underlying cause .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nonsymptomatic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Relating to symptomatics .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nonsymptomatic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "( pathology ) Showing symptoms .",
+    "secondary_definitions": [
+      "( by extension ) Constituting a symptom or indication ; characteristic , indicative .",
+      "( medicine ) Of a treatment , that only affects the symptoms of a disease without targeting the underlying cause .",
+      "( medicine ) Relating to symptomatics ."
+    ]
+  }
+]

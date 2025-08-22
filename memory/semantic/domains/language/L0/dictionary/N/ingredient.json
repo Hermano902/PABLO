@@ -1,0 +1,50 @@
+[
+  {
+    "word": "ingredient",
+    "lemma": "ingredient",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈɡɹiːdi.ənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ingredients"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One of the substances present in a mixture , especially food .",
+        "examples": [
+          "The ingredients of a Spanish omelette are potatoes, eggs, onion, and a little salt."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A necessary element to achieve a certain goal; a component .",
+        "examples": [
+          "Innovation is just one ingredient for continued growth.",
+          "Patience and understanding are key ingredients for a long-lasting marriage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "One of the substances present in a mixture , especially food .",
+    "secondary_definitions": [
+      "( figurative ) A necessary element to achieve a certain goal; a component ."
+    ]
+  }
+]

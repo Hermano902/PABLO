@@ -1,0 +1,82 @@
+[
+  {
+    "word": "unspeakable",
+    "lemma": "unspeakable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more unspeakable",
+          "SUP": "most unspeakable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Incapable of being spoken or uttered",
+        "examples": [],
+        "synonyms": [
+          "unutterable",
+          "ineffable",
+          "inexpressible"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Impossible to speak about.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unfit or not permitted to be spoken or described .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Extremely bad or objectionable .",
+        "examples": [
+          "an unspeakable fool",
+          "an unspeakable play"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That cannot be referenced in source code , due to having no usable name .",
+        "examples": [
+          "an instance of an unspeakable type"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "not comparable"
+        ],
+        "label_groups": "programming , not comparable"
+      }
+    ],
+    "main_definition": "Incapable of being spoken or uttered",
+    "secondary_definitions": [
+      "Impossible to speak about.",
+      "Unfit or not permitted to be spoken or described .",
+      "Extremely bad or objectionable .",
+      "( programming , not comparable ) That cannot be referenced in source code , due to having no usable name ."
+    ]
+  }
+]

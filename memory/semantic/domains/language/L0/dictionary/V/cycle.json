@@ -1,0 +1,76 @@
+[
+  {
+    "word": "cycle",
+    "lemma": "cycle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪ.kəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cycles",
+          "PT": "cycled",
+          "PAP": "cycled",
+          "PRP": "cycling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ride a bicycle or other cycle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To go through a cycle or to put through a cycle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To turn power off and back on",
+        "examples": [
+          "Avoid cycling the device unnecessarily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "To maintain a team's possession of the puck in the offensive zone by handling and passing the puck in a loop from the boards near the goal up the side boards and passing to back to the boards near the goal",
+        "examples": [
+          "They have their cycling game going tonight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ice hockey"
+        ],
+        "label_groups": "ice hockey"
+      }
+    ],
+    "main_definition": "To ride a bicycle or other cycle .",
+    "secondary_definitions": [
+      "To go through a cycle or to put through a cycle.",
+      "( electronics ) To turn power off and back on",
+      "( ice hockey ) To maintain a team's possession of the puck in the offensive zone by handling and passing the puck in a loop from the boards near the goal up the side boards and passing to back to the boards near the goal"
+    ]
+  }
+]

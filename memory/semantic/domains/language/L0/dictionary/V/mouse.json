@@ -1,0 +1,100 @@
+[
+  {
+    "word": "mouse",
+    "lemma": "mouse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/maʊs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mouses",
+          "PT": "moused",
+          "PAP": "moused",
+          "PRP": "mousing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move cautiously or furtively, in the manner of a mouse (the rodent) ( frequently used in the phrasal verb to mouse around ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To hunt or catch mice (the rodents), usually of cats.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 12th c."
+      },
+      {
+        "definition": "To close the mouth of a hook by a careful binding of marline or wire.",
+        "examples": [
+          "Captain Higgins moused the hook with a bit of marline to prevent the block beckets from falling out under slack."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      },
+      {
+        "definition": "To navigate by means of a computer mouse.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      },
+      {
+        "definition": "To tear , as a cat devours a mouse.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "nonce word",
+          "transitive"
+        ],
+        "label_groups": "obsolete , nonce word , transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To move cautiously or furtively, in the manner of a mouse (the rodent) ( frequently used in the phrasal verb to mouse around ).",
+    "secondary_definitions": [
+      "( intransitive ) To hunt or catch mice (the rodents), usually of cats. [from 12th c.]",
+      "( transitive , nautical ) To close the mouth of a hook by a careful binding of marline or wire.",
+      "( intransitive , computing ) To navigate by means of a computer mouse.",
+      "( obsolete , nonce word , transitive ) To tear , as a cat devours a mouse."
+    ]
+  }
+]

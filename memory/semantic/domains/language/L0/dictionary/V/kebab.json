@@ -1,0 +1,58 @@
+[
+  {
+    "word": "kebab",
+    "lemma": "kebab",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəˈbæb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "kebabs",
+          "PT": "kebabbed",
+          "PAP": "kebabbed",
+          "PRP": "kebabbing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To roast in the style of a kebab.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To stab or skewer .",
+        "examples": [],
+        "synonyms": [
+          "run through",
+          "spear"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To roast in the style of a kebab.",
+    "secondary_definitions": [
+      "( transitive , slang ) To stab or skewer ."
+    ]
+  }
+]

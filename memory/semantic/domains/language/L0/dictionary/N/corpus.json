@@ -1,0 +1,92 @@
+[
+  {
+    "word": "corpus",
+    "lemma": "corpus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɔːpəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "corpora"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A collection of written or spoken texts.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such a collection in form of an electronic database used for linguistic analyses.",
+            "examples": [],
+            "synonyms": [
+              "digital corpus",
+              "text corpus"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "specifically",
+              "linguistics"
+            ],
+            "label_groups": "specifically , linguistics"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A structure of a special character or function in the animal body.",
+        "examples": [
+          "the corpus of the uterus"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A collection or body of objects with similar characteristics .",
+        "examples": [],
+        "synonyms": [
+          "collection"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncommon"
+        ],
+        "label_groups": "uncommon"
+      },
+      {
+        "definition": "The body of a man or animal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "A collection of written or spoken texts.",
+    "secondary_definitions": [
+      "( physics ) A structure of a special character or function in the animal body.",
+      "( uncommon ) A collection or body of objects with similar characteristics .",
+      "( archaic ) The body of a man or animal ."
+    ]
+  }
+]

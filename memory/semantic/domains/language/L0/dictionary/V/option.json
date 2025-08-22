@@ -1,0 +1,54 @@
+[
+  {
+    "word": "option",
+    "lemma": "option",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒpʃən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "options",
+          "PT": "optioned",
+          "PAP": "optioned",
+          "PRP": "optioning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To purchase an option on something.",
+        "examples": [
+          "The new novel was optioned by the film studio, but they'll probably never decide to make a movie from it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "To configure , by setting an option.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "dated"
+        ],
+        "label_groups": "computing , dated"
+      }
+    ],
+    "main_definition": "To purchase an option on something. [from 20th c.]",
+    "secondary_definitions": [
+      "( computing , dated ) To configure , by setting an option."
+    ]
+  }
+]

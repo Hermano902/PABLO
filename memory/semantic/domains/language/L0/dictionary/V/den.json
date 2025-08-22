@@ -1,0 +1,55 @@
+[
+  {
+    "word": "den",
+    "lemma": "den",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɛn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dens",
+          "PT": "denned",
+          "PAP": "denned",
+          "PRP": "denning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ensconce or hide oneself in (or as in) a den.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive"
+        ],
+        "label_groups": "reflexive"
+      },
+      {
+        "definition": "Of an animal, to use as a den; to take up residence in.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "zoology"
+        ],
+        "label_groups": "intransitive , zoology"
+      }
+    ],
+    "main_definition": "( reflexive ) To ensconce or hide oneself in (or as in) a den.",
+    "secondary_definitions": [
+      "( intransitive , zoology ) Of an animal, to use as a den; to take up residence in."
+    ]
+  }
+]

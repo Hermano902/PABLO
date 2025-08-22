@@ -1,0 +1,57 @@
+[
+  {
+    "word": "flight",
+    "lemma": "flight",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/flaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flights",
+          "PT": "flighted",
+          "PAP": "flighted",
+          "PRP": "flighting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To throw the ball in such a way that it has more airtime and more spin than usual.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket",
+          "of a spin bowler"
+        ],
+        "label_groups": "cricket , of a spin bowler"
+      },
+      {
+        "definition": "To throw or kick something so as to send it flying with more loft or airtime than usual.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "by extension",
+          "transitive"
+        ],
+        "label_groups": "sports , by extension , transitive"
+      }
+    ],
+    "main_definition": "( cricket , of a spin bowler ) To throw the ball in such a way that it has more airtime and more spin than usual.",
+    "secondary_definitions": [
+      "( sports , by extension , transitive ) To throw or kick something so as to send it flying with more loft or airtime than usual."
+    ]
+  }
+]

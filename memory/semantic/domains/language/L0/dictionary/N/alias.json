@@ -1,0 +1,75 @@
+[
+  {
+    "word": "alias",
+    "lemma": "alias",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈeɪ.li.əs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "aliases"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Another name ; especially, an assumed name.",
+        "examples": [],
+        "synonyms": [
+          "synonym",
+          "poecilonym",
+          "pseudonym"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A second or further writ which is issued after a first writ has expired without effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "An abbreviation that replaces a string of commands and thereby reduces typing when performing routine actions or tasks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An spurious signal generated as a technological artifact.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing"
+        ],
+        "label_groups": "signal processing"
+      }
+    ],
+    "main_definition": "Another name ; especially, an assumed name.",
+    "secondary_definitions": [
+      "( law ) A second or further writ which is issued after a first writ has expired without effect.",
+      "( computing ) An abbreviation that replaces a string of commands and thereby reduces typing when performing routine actions or tasks.",
+      "( signal processing ) An spurious signal generated as a technological artifact."
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "sequential",
+    "lemma": "sequential",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Succeeding or following in order .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "non-sequential"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Expressing succession of events.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "grammar",
+              "of a verb",
+              "adjective form in Korean"
+            ],
+            "label_groups": "grammar , of a verb and adjective form in Korean"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Executed as a sequence of instructions , without concurrency or parallelism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Succeeding or following in order .",
+    "secondary_definitions": [
+      "( programming ) Executed as a sequence of instructions , without concurrency or parallelism ."
+    ]
+  }
+]

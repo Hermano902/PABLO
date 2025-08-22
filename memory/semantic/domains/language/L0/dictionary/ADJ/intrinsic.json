@@ -1,0 +1,70 @@
+[
+  {
+    "word": "intrinsic",
+    "lemma": "intrinsic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɹɪn.zɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more intrinsic",
+          "SUP": "most intrinsic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Innate , inherent , inseparable from the thing itself, essential .",
+        "examples": [
+          "the intrinsic value of gold or silver",
+          "the intrinsic merit of an action"
+        ],
+        "synonyms": [
+          "essential",
+          "inherent",
+          "innate",
+          "proper"
+        ],
+        "antonyms": [
+          "extrinsic"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Situated, produced, secreted in, or coming from inside an organ , tissue , muscle or member .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy",
+          "of a body part"
+        ],
+        "label_groups": "anatomy , of a body part"
+      },
+      {
+        "definition": "Built-in .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a function or operator"
+        ],
+        "label_groups": "programming , of a function or operator"
+      }
+    ],
+    "main_definition": "Innate , inherent , inseparable from the thing itself, essential .",
+    "secondary_definitions": [
+      "( anatomy , of a body part ) Situated, produced, secreted in, or coming from inside an organ , tissue , muscle or member .",
+      "( programming , of a function or operator ) Built-in ."
+    ]
+  }
+]

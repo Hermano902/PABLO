@@ -1,0 +1,95 @@
+[
+  {
+    "word": "fuzz",
+    "lemma": "fuzz",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fʌz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fuzzes",
+          "PT": "fuzzed",
+          "PAP": "fuzzed",
+          "PRP": "fuzzing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make fuzzy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become fuzzy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make drunk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      },
+      {
+        "definition": "To test a software component by running it on randomly generated input.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To fly off in minute particles with a fizzing sound, like water from hot metal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      }
+    ],
+    "main_definition": "( transitive ) To make fuzzy .",
+    "secondary_definitions": [
+      "( intransitive ) To become fuzzy .",
+      "( transitive , dated ) To make drunk .",
+      "( computing ) To test a software component by running it on randomly generated input.",
+      "( intransitive , dated ) To fly off in minute particles with a fizzing sound, like water from hot metal."
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "resident",
+    "lemma": "resident",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛzɪd(ə)nt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more resident",
+          "SUP": "most resident"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate.",
+        "examples": [
+          "resident in the city or in the country"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Based in a particular place; on hand ; local .",
+        "examples": [
+          "He is our resident computer expert."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Fixed; stable; certain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Currently loaded into RAM ; contrasted with virtual memory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of memory"
+        ],
+        "label_groups": "computing , of memory"
+      }
+    ],
+    "main_definition": "Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate.",
+    "secondary_definitions": [
+      "Based in a particular place; on hand ; local .",
+      "( obsolete ) Fixed; stable; certain.",
+      "( computing , of memory ) Currently loaded into RAM ; contrasted with virtual memory ."
+    ]
+  }
+]

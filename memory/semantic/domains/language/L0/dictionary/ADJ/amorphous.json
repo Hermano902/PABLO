@@ -1,0 +1,95 @@
+[
+  {
+    "word": "amorphous",
+    "lemma": "amorphous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈmɔ(ɹ)fəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more amorphous",
+          "SUP": "most amorphous"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking a definite form or clear shape .",
+        "examples": [
+          "The enormous pile of spaghetti landed on the floor in an amorphous heap."
+        ],
+        "synonyms": [
+          "formless",
+          "shapeless"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Being without definite character or nature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "Lacking organization or unity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "In the non-crystalline solid state of, or being a non-crystalline counterpart to, a crystalline solid.",
+        "examples": [
+          "Glass is an amorphous solid, but some glass is called \"crystal\" because it looks crystalline and has been called crystal since before humans even understood molecular structure at all."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "crystalline",
+          "crystal"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Infinite and not the disjoint union of two infinite subsets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "of a set"
+        ],
+        "label_groups": "set theory , of a set"
+      }
+    ],
+    "main_definition": "Lacking a definite form or clear shape .",
+    "secondary_definitions": [
+      "( by extension ) Being without definite character or nature .",
+      "( by extension ) Lacking organization or unity .",
+      "( physics ) In the non-crystalline solid state of, or being a non-crystalline counterpart to, a crystalline solid.",
+      "( set theory , of a set ) Infinite and not the disjoint union of two infinite subsets ."
+    ]
+  }
+]

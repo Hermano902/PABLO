@@ -1,0 +1,69 @@
+[
+  {
+    "word": "individual",
+    "lemma": "individual",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪndɪˈvɪd͡ʒʊəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "individuals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person considered alone, rather than as belonging to a group of people .",
+        "examples": [
+          "He is an unusual individual ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A single physical human being as a legal subject, as opposed to a legal person such as a corporation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "An object , be it a thing or an agent, as contrasted to a class .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An element belonging to a population.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A person considered alone, rather than as belonging to a group of people .",
+    "secondary_definitions": [
+      "( law ) A single physical human being as a legal subject, as opposed to a legal person such as a corporation .",
+      "An object , be it a thing or an agent, as contrasted to a class .",
+      "( statistics ) An element belonging to a population."
+    ]
+  }
+]

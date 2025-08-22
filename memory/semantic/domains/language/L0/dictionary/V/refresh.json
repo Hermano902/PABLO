@@ -1,0 +1,108 @@
+[
+  {
+    "word": "refresh",
+    "lemma": "refresh",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiˈfɹɛʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "refreshes",
+          "PT": "refreshed",
+          "PAP": "refreshed",
+          "PRP": "refreshing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To renew or revitalize .",
+        "examples": [
+          "Sleep refreshes the body and the mind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become fresh again; to be revitalized.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To reload (a document , especially a webpage ) and show any new changes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To cause (a web browser or similar software) to refresh its display.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To perform the periodic energizing required to maintain the contents of computer memory , the display luminance of a computer screen, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To take refreshment ; to eat or drink.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "colloquial",
+          "dated"
+        ],
+        "label_groups": "intransitive , colloquial , dated"
+      }
+    ],
+    "main_definition": "( transitive ) To renew or revitalize .",
+    "secondary_definitions": [
+      "( intransitive ) To become fresh again; to be revitalized.",
+      "( computing , ambitransitive ) To reload (a document , especially a webpage ) and show any new changes.",
+      "( computing , ambitransitive ) To cause (a web browser or similar software) to refresh its display.",
+      "To perform the periodic energizing required to maintain the contents of computer memory , the display luminance of a computer screen, etc.",
+      "( intransitive , colloquial , dated ) To take refreshment ; to eat or drink."
+    ]
+  }
+]

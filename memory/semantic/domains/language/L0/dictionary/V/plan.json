@@ -1,0 +1,88 @@
+[
+  {
+    "word": "plan",
+    "lemma": "plan",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/plæn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "plans",
+          "PT": "planned",
+          "PAP": "planned",
+          "PRP": "planning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To design (a building, machine, etc.).",
+        "examples": [
+          "The architect planned the building for the client."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To create a plan for.",
+        "examples": [
+          "They jointly planned the project in phases, with good detail for the first month."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To intend .",
+        "examples": [
+          "He planned to go, but work intervened."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make a plan.",
+        "examples": [
+          "They planned for the worst, bringing lots of emergency supplies."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To design (a building, machine, etc.).",
+    "secondary_definitions": [
+      "( transitive ) To create a plan for.",
+      "( intransitive ) To intend .",
+      "( intransitive ) To make a plan."
+    ]
+  }
+]

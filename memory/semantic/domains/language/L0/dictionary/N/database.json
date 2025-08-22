@@ -1,0 +1,85 @@
+[
+  {
+    "word": "database",
+    "lemma": "database",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdeɪtəˌbeɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "databases"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer .",
+        "examples": [
+          "I have a database of all my contacts in my personal organizer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "general"
+        ],
+        "label_groups": "general"
+      },
+      {
+        "definition": "A set of tables and other objects (queries, reports, forms) in the form of a structured data set.",
+        "examples": [
+          "The \"books\" database will have three tables, and the \"customers\" database will have two tables."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A software program (application) for storing, retrieving and manipulating such a structured data set.",
+        "examples": [
+          "Which database do you use: MySQL or Oracle?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "loosely",
+          "metonymic"
+        ],
+        "label_groups": "computing , loosely , metonymic"
+      },
+      {
+        "definition": "A combination of such data sets and the programs for using them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "loosely",
+          "metonymic"
+        ],
+        "label_groups": "computing , loosely , metonymic"
+      }
+    ],
+    "main_definition": "( general ) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer .",
+    "secondary_definitions": [
+      "( computing ) A set of tables and other objects (queries, reports, forms) in the form of a structured data set.",
+      "( computing , loosely , metonymic ) A software program (application) for storing, retrieving and manipulating such a structured data set.",
+      "( computing , loosely , metonymic ) A combination of such data sets and the programs for using them."
+    ]
+  }
+]

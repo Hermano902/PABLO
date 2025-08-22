@@ -1,0 +1,57 @@
+[
+  {
+    "word": "supervise",
+    "lemma": "supervise",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsuː.pə.vaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "supervises",
+          "PT": "supervised",
+          "PAP": "supervised",
+          "PRP": "supervising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To oversee or direct a task or organization .",
+        "examples": [
+          "Without someone to supervise them, the group will lack direction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To look over so as to read ; to peruse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To oversee or direct a task or organization .",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To look over so as to read ; to peruse ."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "pagination",
+    "lemma": "pagination",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpæd͡ʒəˈneɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "paginations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of creating pages for a document, book, etc., or determining when to truncate text on the pages.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of numbering pages for a document, book, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The separation of data into batches , so that it can be retrieved with a number of smaller requests .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act of creating pages for a document, book, etc., or determining when to truncate text on the pages.",
+    "secondary_definitions": [
+      "The act of numbering pages for a document, book, etc.",
+      "( computing ) The separation of data into batches , so that it can be retrieved with a number of smaller requests ."
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "immerse",
+    "lemma": "immerse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈmɜːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "immerses",
+          "PT": "immersed",
+          "PAP": "immersed",
+          "PRP": "immersing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place within a fluid (generally a liquid , but also a gas ).",
+        "examples": [
+          "Archimedes determined the volume of objects by immersing them in water."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To involve or engage deeply.",
+        "examples": [
+          "The sculptor immersed himself in anatomic studies."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To map into an immersion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To place within a fluid (generally a liquid , but also a gas ).",
+    "secondary_definitions": [
+      "( transitive ) To involve or engage deeply.",
+      "( transitive , mathematics ) To map into an immersion ."
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "discredit",
+    "lemma": "discredit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈkɹɛd.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "discredits",
+          "PT": "discredited",
+          "PAP": "discredited",
+          "PRP": "discrediting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To harm the good reputation of (a person).",
+        "examples": [
+          "The candidate tried to discredit his opponent."
+        ],
+        "synonyms": [
+          "demean",
+          "disgrace",
+          "dishonour"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (an idea or piece of evidence) to seem false or unreliable .",
+        "examples": [
+          "The evidence would tend to discredit such a theory."
+        ],
+        "synonyms": [
+          "disprove",
+          "falsify",
+          "invalidate",
+          "tell against"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To harm the good reputation of (a person).",
+    "secondary_definitions": [
+      "( transitive ) To cause (an idea or piece of evidence) to seem false or unreliable ."
+    ]
+  }
+]

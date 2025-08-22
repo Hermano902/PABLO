@@ -1,0 +1,68 @@
+[
+  {
+    "word": "dictionary",
+    "lemma": "dictionary",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪk.ʃə.nə.ɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dictionaries",
+          "PT": "dictionaried",
+          "PAP": "dictionaried",
+          "PRP": "dictionarying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To look up in a dictionary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add to a dictionary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To compile a dictionary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To look up in a dictionary.",
+    "secondary_definitions": [
+      "( transitive ) To add to a dictionary.",
+      "( intransitive , rare ) To compile a dictionary."
+    ]
+  }
+]

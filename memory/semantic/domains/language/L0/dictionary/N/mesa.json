@@ -1,0 +1,49 @@
+[
+  {
+    "word": "mesa",
+    "lemma": "mesa",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmeɪ.sə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mesas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+        "examples": [
+          "A few more miles of hot sand and gravel and red stone brought us around a low mesa to the Little Colorado River."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "a structure with components rising above the insulating substrate that surrounds it",
+        "examples": [
+          "The ohmic contacts were deposited at the edge of the mesa ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "Flat area of land or plateau higher than other land, with one or more clifflike edges.",
+    "secondary_definitions": [
+      "( electronics ) a structure with components rising above the insulating substrate that surrounds it"
+    ]
+  }
+]

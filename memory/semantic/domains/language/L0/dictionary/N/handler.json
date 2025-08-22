@@ -1,0 +1,81 @@
+[
+  {
+    "word": "handler",
+    "lemma": "handler",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhænd.lə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "handlers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who handles something (especially manually ) or someone.",
+        "examples": [
+          "The handler of a weapon gets a symbolic sensation of deadly power."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literally"
+        ],
+        "label_groups": "literally"
+      },
+      {
+        "definition": "A controller , trainer , someone who handles a specified thing, animal or person (especially a prizefighter ).",
+        "examples": [
+          "The spy's handler told him to approach the subject by posing as a dog handler ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in combination"
+        ],
+        "label_groups": "in combination"
+      },
+      {
+        "definition": "An advisor or manager providing guidance to a person occupying public office or a prominent position.",
+        "examples": [
+          "The governor received guidance on how to best disseminate key information to the public from her handler ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in combination"
+        ],
+        "label_groups": "in combination"
+      },
+      {
+        "definition": "A subroutine that handles a particular situation such as an event or exception .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( literally ) One who handles something (especially manually ) or someone.",
+    "secondary_definitions": [
+      "( in combination ) A controller , trainer , someone who handles a specified thing, animal or person (especially a prizefighter ).",
+      "( in combination ) An advisor or manager providing guidance to a person occupying public office or a prominent position.",
+      "( programming ) A subroutine that handles a particular situation such as an event or exception ."
+    ]
+  }
+]

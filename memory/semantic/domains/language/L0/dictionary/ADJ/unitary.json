@@ -1,0 +1,79 @@
+[
+  {
+    "word": "unitary",
+    "lemma": "unitary",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/juːnɪt(ə)ɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having the quality of oneness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That concentrates power in a single body, rather than sharing it with more local bodies.",
+        "examples": [
+          "a unitary authority",
+          "a unitary state"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "government",
+          "of a system of government or administration"
+        ],
+        "label_groups": "government , of a system of government or administration"
+      },
+      {
+        "definition": "That contains an identity element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of an algebra"
+        ],
+        "label_groups": "mathematics , of an algebra"
+      },
+      {
+        "definition": "Whose inverse is equal to its adjoint .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "linear algebra",
+          "mathematical analysis",
+          "of a matrix or operator"
+        ],
+        "label_groups": "mathematics , linear algebra , mathematical analysis , of a matrix or operator"
+      }
+    ],
+    "main_definition": "Having the quality of oneness .",
+    "secondary_definitions": [
+      "( government , of a system of government or administration ) That concentrates power in a single body, rather than sharing it with more local bodies.",
+      "( mathematics , of an algebra ) That contains an identity element .",
+      "( mathematics , linear algebra , mathematical analysis , of a matrix or operator ) Whose inverse is equal to its adjoint ."
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "depressing",
+    "lemma": "depressing",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈpɹɛsɪŋ(ɡ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more depressing",
+          "SUP": "most depressing"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Causing depression or sadness .",
+        "examples": [
+          "The television news was depressing , so rather than start crying I turned it off."
+        ],
+        "synonyms": [
+          "distressing",
+          "saddening",
+          "unpleasant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing a reduction in economic activity .",
+        "examples": [
+          "The policy may have a depressing effect on some branches of industry."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Causing depression or sadness .",
+    "secondary_definitions": [
+      "Causing a reduction in economic activity ."
+    ]
+  }
+]

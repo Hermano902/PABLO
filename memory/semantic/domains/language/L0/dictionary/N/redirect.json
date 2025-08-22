@@ -1,0 +1,58 @@
+[
+  {
+    "word": "redirect",
+    "lemma": "redirect",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-ɛkt",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "redirects"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A redirection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An examination of a witness , following cross-examination , by the party that conducted the direct examination, re-examination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "The substitution of one address or identifier for another one, so as to navigate to a different location.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A redirection .",
+    "secondary_definitions": [
+      "( law ) An examination of a witness , following cross-examination , by the party that conducted the direct examination, re-examination .",
+      "( computing ) The substitution of one address or identifier for another one, so as to navigate to a different location."
+    ]
+  }
+]

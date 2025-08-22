@@ -1,0 +1,90 @@
+[
+  {
+    "word": "data",
+    "lemma": "data",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-ɑːtə",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "plural of datum",
+        "examples": [],
+        "synonyms": [
+          "data points"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "plural of datum",
+    "secondary_definitions": []
+  },
+  {
+    "word": "data",
+    "lemma": "data",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "-ɑːtə",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A representation of information in a computer (as symbols , quantities , sound , images or videos ) which is stored , processed or transmitted in the form of electrical signals , records on magnetic tape or punched cards , etc.",
+        "examples": [
+          "Data can be sent through email."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "collective",
+          "computing"
+        ],
+        "label_groups": "collective , computing"
+      },
+      {
+        "definition": "Material recorded and known or assumed as facts and used as a basis for reasoning , discussion , or calculation , represented especially in the form of numbers , and is usually structured (such as statistics ).",
+        "examples": [
+          "This data shows that X is correlated with Y."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "collective"
+        ],
+        "label_groups": "collective"
+      },
+      {
+        "definition": "Ellipsis of mobile data ( “ digital information transmitted using the cellular telephone network rather than Wi-Fi ” ) .",
+        "examples": [
+          "run out of data"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mobile telephony"
+        ],
+        "label_groups": "mobile telephony"
+      }
+    ],
+    "main_definition": "( collective , computing ) A representation of information in a computer (as symbols , quantities , sound , images or videos ) which is stored , processed or transmitted in the form of electrical signals , records on magnetic tape or punched cards , etc.",
+    "secondary_definitions": [
+      "( collective ) Material recorded and known or assumed as facts and used as a basis for reasoning , discussion , or calculation , represented especially in the form of numbers , and is usually structured (such as statistics ).",
+      "( mobile telephony ) Ellipsis of mobile data ( “ digital information transmitted using the cellular telephone network rather than Wi-Fi ” ) ."
+    ]
+  }
+]

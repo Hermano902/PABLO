@@ -1,0 +1,71 @@
+[
+  {
+    "word": "latent",
+    "lemma": "latent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪ.tənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Existing or present but concealed or inactive .",
+        "examples": [],
+        "synonyms": [
+          "hidden",
+          "invisible"
+        ],
+        "antonyms": [
+          "apparent",
+          "patent",
+          "visible",
+          "active"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Remaining in an inactive or hidden phase; dormant.",
+        "examples": [],
+        "synonyms": [
+          "dormant"
+        ],
+        "antonyms": [
+          "active"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pathology",
+          "of a virus"
+        ],
+        "label_groups": "pathology , of a virus"
+      },
+      {
+        "definition": "Lying dormant or hidden until circumstances are suitable for development or manifestation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "Existing or present but concealed or inactive .",
+    "secondary_definitions": [
+      "( pathology , of a virus ) Remaining in an inactive or hidden phase; dormant.",
+      "( biology ) Lying dormant or hidden until circumstances are suitable for development or manifestation ."
+    ]
+  }
+]

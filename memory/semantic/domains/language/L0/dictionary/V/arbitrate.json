@@ -1,0 +1,62 @@
+[
+  {
+    "word": "arbitrate",
+    "lemma": "arbitrate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɑːbɪtɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "arbitrates",
+          "PT": "arbitrated",
+          "PAP": "arbitrated",
+          "PRP": "arbitrating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a judgment (on a dispute ) as an arbitrator or arbiter",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To submit (a dispute) to such judgment",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To assign an arbitrary value to, or otherwise determine arbitrarily.",
+        "examples": [
+          "We wish to show f is continuous. Arbitrate epsilon greater than zero..."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "rare"
+        ],
+        "label_groups": "mathematics , rare"
+      }
+    ],
+    "main_definition": "To make a judgment (on a dispute ) as an arbitrator or arbiter",
+    "secondary_definitions": [
+      "To submit (a dispute) to such judgment",
+      "( mathematics , rare ) To assign an arbitrary value to, or otherwise determine arbitrarily."
+    ]
+  }
+]

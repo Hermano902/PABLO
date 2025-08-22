@@ -1,0 +1,67 @@
+[
+  {
+    "word": "outlier",
+    "lemma": "outlier",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaʊtˌlaɪə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "outliers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or thing situated away from the main body or outside its proper place .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An exception .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A part of a formation separated from the rest of the formation by erosion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "A value in a statistical sample which does not fit a pattern that describes most other data points ; specifically, a value that lies 1.5 IQR beyond the upper or lower quartile .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A person or thing situated away from the main body or outside its proper place .",
+    "secondary_definitions": [
+      "An exception .",
+      "( geology ) A part of a formation separated from the rest of the formation by erosion .",
+      "( statistics ) A value in a statistical sample which does not fit a pattern that describes most other data points ; specifically, a value that lies 1.5 IQR beyond the upper or lower quartile ."
+    ]
+  }
+]

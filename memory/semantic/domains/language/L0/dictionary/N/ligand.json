@@ -1,0 +1,79 @@
+[
+  {
+    "word": "ligand",
+    "lemma": "ligand",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪɡ.ənd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ligands"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A molecule or moiety ( ion , functional group , or radical ) that binds to another chemical entity to form a larger complex ; as, especially:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such an entity that binds to a central metal atom to form a coordination complex .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "coordination chemistry"
+            ],
+            "label_groups": "coordination chemistry"
+          },
+          {
+            "definition": "Such an entity that forms a complex with a biomolecule to serve a biological purpose.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biochemistry",
+              "physiology",
+              "pharmacology",
+              "medicine"
+            ],
+            "label_groups": "biochemistry , physiology , pharmacology , medicine"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "inorganic chemistry",
+          "organic chemistry",
+          "physical chemistry"
+        ],
+        "label_groups": "inorganic chemistry , organic chemistry , physical chemistry"
+      },
+      {
+        "definition": "A letter that orthography requires or allows to be ligated with one or more other letters to form a ligature , such as a in æ or o in œ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      }
+    ],
+    "main_definition": "( inorganic chemistry , organic chemistry , physical chemistry ) A molecule or moiety ( ion , functional group , or radical ) that binds to another chemical entity to form a larger complex ; as, especially:",
+    "secondary_definitions": [
+      "( typography ) A letter that orthography requires or allows to be ligated with one or more other letters to form a ligature , such as a in æ or o in œ ."
+    ]
+  }
+]

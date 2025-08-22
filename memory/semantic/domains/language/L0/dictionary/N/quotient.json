@@ -1,0 +1,78 @@
+[
+  {
+    "word": "quotient",
+    "lemma": "quotient",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwəʊʃənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quotients"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number ( either a fraction or an integer ) resulting from the division of one number by another.",
+        "examples": [
+          "Dividing 12 by 4 yields a quotient of 3."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      },
+      {
+        "definition": "By analogy, the result of any process that is the inverse of multiplication as defined for any mathematical entities other than numbers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A quotum or quota .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      },
+      {
+        "definition": "The number of runs scored per wicket lost when batting , divided by the number of runs conceded per wicket taken when bowling — used as a league table tiebreaker in some first-class tournaments.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "( arithmetic ) The number ( either a fraction or an integer ) resulting from the division of one number by another.",
+    "secondary_definitions": [
+      "( mathematics ) By analogy, the result of any process that is the inverse of multiplication as defined for any mathematical entities other than numbers.",
+      "( obsolete , rare ) A quotum or quota .",
+      "( cricket ) The number of runs scored per wicket lost when batting , divided by the number of runs conceded per wicket taken when bowling — used as a league table tiebreaker in some first-class tournaments."
+    ]
+  }
+]

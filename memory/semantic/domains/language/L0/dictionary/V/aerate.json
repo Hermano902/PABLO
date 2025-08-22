@@ -1,0 +1,73 @@
+[
+  {
+    "word": "aerate",
+    "lemma": "aerate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛːɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "aerates",
+          "PT": "aerated",
+          "PAP": "aerated",
+          "PRP": "aerating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To supply with oxygen or air .",
+        "examples": [
+          "Blood is aerated in the lungs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bubble or sparge with a gas, especially oxygen or air .",
+        "examples": [
+          "Carbon dioxide aerated the drink and made it fizzy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To incorporate a gas, especially oxygen or air , into a solid or semisolid material.",
+        "examples": [
+          "The mousse was aerated by beating rapidly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To supply with oxygen or air .",
+    "secondary_definitions": [
+      "( ambitransitive ) To bubble or sparge with a gas, especially oxygen or air .",
+      "( transitive ) To incorporate a gas, especially oxygen or air , into a solid or semisolid material."
+    ]
+  }
+]

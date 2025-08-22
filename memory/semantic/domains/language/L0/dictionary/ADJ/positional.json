@@ -1,0 +1,71 @@
+[
+  {
+    "word": "positional",
+    "lemma": "positional",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Relating to the position of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having or pertaining to a value that is a function of its social desirability , as opposed to its utility .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      },
+      {
+        "definition": "Based on long-term strategy , on gaining and exploiting small advantages , and on analyzing the larger position, rather than calculating more immediate tactics .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      },
+      {
+        "definition": "An argument that is passed to a subroutine according to its position in the invocation code, rather than on its name; compare with named .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Relating to the position of something.",
+    "secondary_definitions": [
+      "( economics ) Having or pertaining to a value that is a function of its social desirability , as opposed to its utility .",
+      "( chess ) Based on long-term strategy , on gaining and exploiting small advantages , and on analyzing the larger position, rather than calculating more immediate tactics .",
+      "( programming ) An argument that is passed to a subroutine according to its position in the invocation code, rather than on its name; compare with named ."
+    ]
+  }
+]

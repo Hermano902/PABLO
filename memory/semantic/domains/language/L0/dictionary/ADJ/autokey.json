@@ -1,0 +1,35 @@
+[
+  {
+    "word": "autokey",
+    "lemma": "autokey",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Being a cipher that incorporates the plaintext into the key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "( cryptography ) Being a cipher that incorporates the plaintext into the key .",
+    "secondary_definitions": []
+  }
+]

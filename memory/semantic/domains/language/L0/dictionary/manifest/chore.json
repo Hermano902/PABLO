@@ -1,0 +1,30 @@
+{
+  "word": "chore",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\chore.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\chore.json"
+  },
+  "timestamp": "2025-08-18T23:49:52.593813Z"
+}

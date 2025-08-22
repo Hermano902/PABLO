@@ -1,0 +1,30 @@
+{
+  "word": "smooch",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\smooch.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\smooch.json"
+  },
+  "timestamp": "2025-08-19T17:22:44.844225Z"
+}

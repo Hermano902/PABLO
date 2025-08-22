@@ -1,0 +1,46 @@
+[
+  {
+    "word": "delimit",
+    "lemma": "delimit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈlɪmɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "delimits",
+          "PT": "delimited",
+          "PAP": "delimited",
+          "PRP": "delimiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark or fix the limits of.",
+        "examples": [
+          "Data items in the computer file were delimited by commas.",
+          "The square brackets delimit the list, and individual elements are separated by commas.",
+          "The possibilities for new automotive features are vast but are practically delimited by costs of development and manufacturing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "literal",
+          "figurative"
+        ],
+        "label_groups": "transitive , literal , figurative"
+      }
+    ],
+    "main_definition": "( transitive , literal , figurative ) To mark or fix the limits of.",
+    "secondary_definitions": []
+  }
+]

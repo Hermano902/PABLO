@@ -1,0 +1,73 @@
+[
+  {
+    "word": "inquire",
+    "lemma": "inquire",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkwaɪə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inquires",
+          "PT": "inquired",
+          "PAP": "inquired",
+          "PRP": "inquiring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ask (about something).",
+        "examples": [
+          "May I inquire to whom I have the honor of speaking?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "Canada",
+          "Australia"
+        ],
+        "label_groups": "intransitive , US , Canada , Australia"
+      },
+      {
+        "definition": "To make an inquiry or an investigation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To call ; to name .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( intransitive , US , Canada , Australia ) To ask (about something).",
+    "secondary_definitions": [
+      "( intransitive ) To make an inquiry or an investigation .",
+      "( transitive , obsolete ) To call ; to name ."
+    ]
+  }
+]

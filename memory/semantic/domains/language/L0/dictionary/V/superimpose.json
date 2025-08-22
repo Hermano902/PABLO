@@ -1,0 +1,55 @@
+[
+  {
+    "word": "superimpose",
+    "lemma": "superimpose",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsuː.pəɹ.ɪmˌpəʊ̯z/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "superimposes",
+          "PT": "superimposed",
+          "PAP": "superimposed",
+          "PRP": "superimposing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place an object over another object, usually in such a way that both will be visible.",
+        "examples": [
+          "He superimposed the company logo over the image."
+        ],
+        "synonyms": [
+          "overlay",
+          "superpose"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To establish a structural system over, independently of underlying structures.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      }
+    ],
+    "main_definition": "To place an object over another object, usually in such a way that both will be visible.",
+    "secondary_definitions": [
+      "( geology ) To establish a structural system over, independently of underlying structures."
+    ]
+  }
+]

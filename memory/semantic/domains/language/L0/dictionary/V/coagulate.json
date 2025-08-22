@@ -1,0 +1,58 @@
+[
+  {
+    "word": "coagulate",
+    "lemma": "coagulate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəʊˈæɡ.jʊ.leɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "coagulates",
+          "PT": "coagulated",
+          "PAP": "coagulated",
+          "PRP": "coagulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To become congealed ; to convert from a liquid to a semisolid mass.",
+        "examples": [
+          "In cheese making, milk coagulates into curds that become cheese."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to congeal .",
+        "examples": [
+          "Rennet coagulates milk; heat coagulates the white of an egg."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To become congealed ; to convert from a liquid to a semisolid mass.",
+    "secondary_definitions": [
+      "( transitive ) To cause to congeal ."
+    ]
+  }
+]

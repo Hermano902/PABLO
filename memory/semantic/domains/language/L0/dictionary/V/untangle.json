@@ -1,0 +1,60 @@
+[
+  {
+    "word": "untangle",
+    "lemma": "untangle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈtæŋ.ɡəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "untangles",
+          "PT": "untangled",
+          "PAP": "untangled",
+          "PRP": "untangling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove tangles or knots from.",
+        "examples": [
+          "With gentle combing, untangle your hair."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove confusion or mystery from.",
+        "examples": [
+          "It took a while, but he finally untangled the problem."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension",
+          "figurative"
+        ],
+        "label_groups": "transitive , by extension , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To remove tangles or knots from.",
+    "secondary_definitions": [
+      "( transitive , by extension , figurative ) To remove confusion or mystery from."
+    ]
+  }
+]

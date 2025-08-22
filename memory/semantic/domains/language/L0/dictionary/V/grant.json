@@ -1,0 +1,89 @@
+[
+  {
+    "word": "grant",
+    "lemma": "grant",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡɹɑːnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "grants",
+          "PT": "granted",
+          "PAP": "granted",
+          "PRP": "granting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give ( permission or wish ).",
+        "examples": [
+          "He was granted permission to attend the meeting.",
+          "The genie granted him three wishes"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "deny"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To give ( bestow upon or confer , particularly in answer to prayer or request ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To agree with (someone) on (something); to accept (something) for the sake of argument ; to admit to (someone) that (something) is true .",
+        "examples": [],
+        "synonyms": [
+          "concur",
+          "concede",
+          "allow"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assent ; to consent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( ditransitive ) To give ( permission or wish ).",
+    "secondary_definitions": [
+      "( ditransitive ) To give ( bestow upon or confer , particularly in answer to prayer or request ).",
+      "( transitive ) To agree with (someone) on (something); to accept (something) for the sake of argument ; to admit to (someone) that (something) is true .",
+      "( intransitive ) To assent ; to consent ."
+    ]
+  }
+]

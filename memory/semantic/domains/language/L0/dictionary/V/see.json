@@ -1,0 +1,290 @@
+[
+  {
+    "word": "see",
+    "lemma": "see",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sees",
+          "PT": "saw",
+          "PAP": "seen",
+          "PRP": "seeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perceive or detect someone or something with the eyes , or as if by sight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To witness or observe by personal experience .",
+            "examples": [
+              "Now I've seen it all!",
+              "I'm seeing much better since I got my eyeglasses recalibrated.",
+              "I have been blind since birth and I love to read Braille. When the books arrive in from the library, I can’t wait to see what stories they have sent me."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To watch (a movie) at a cinema , or a show on television etc.",
+            "examples": [
+              "I saw the latest Tarantino flick last week."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form a mental picture of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To understand .",
+            "examples": [
+              "Do you see what I mean?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figuratively"
+            ],
+            "label_groups": "figuratively"
+          },
+          {
+            "definition": "To come to a realization of having been mistaken or misled.",
+            "examples": [
+              "They're blind to the damage they do, but someday they'll see ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To foresee , predict , or prophesy .",
+            "examples": [
+              "The oracle saw the destruction of the city."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "Used to emphasise a proposition.",
+            "examples": [
+              "You see , Johnny, your Dad isn't your real father.",
+              "You're not welcome here any more, see ?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "used in the imperative"
+            ],
+            "label_groups": "used in the imperative"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To meet, to visit.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To have an interview with; especially, to make a call upon; to visit.",
+            "examples": [
+              "You'd better see about that with the boss."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To date frequently.",
+            "examples": [
+              "I've been seeing her for two months."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To visit for a medical appointment.",
+            "examples": [
+              "You should see a doctor about that rash on your arm.",
+              "I've been seeing a therapist for three years now."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "social"
+        ],
+        "label_groups": "social"
+      },
+      {
+        "definition": "To be the setting or time of.",
+        "examples": [
+          "The 20th century saw humanity's first space exploration.",
+          "1999 saw the release of many great films."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative"
+        ],
+        "label_groups": "ergative"
+      },
+      {
+        "definition": "Chiefly followed by that : to ensure that something happens, especially by personally witnessing it.",
+        "examples": [
+          "I'll see you hang for this",
+          "I was the docks seeing that the goods got properly unloaded.",
+          "I saw that they didn't make any more trouble."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "To wait upon ; attend , escort .",
+        "examples": [
+          "I saw the old lady safely across the road.",
+          "You can see yourself out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To respond to another player's bet with a bet of equal value.",
+        "examples": [
+          "I'll see your twenty dollars and raise you ten."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gambling",
+          "transitive"
+        ],
+        "label_groups": "gambling , transitive"
+      },
+      {
+        "definition": "To determine by trial or experiment ; to find out ( if or whether ).",
+        "examples": [
+          "I'll come over later and see if I can fix your computer.",
+          "You think I can't beat you in a race, eh? We'll see .",
+          "Look to see if these jeans still fit you."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reference or to study for further details .",
+        "examples": [
+          "Step 4: In the system, check out the laptop to the student ( see : \"Logging Resources\" in the Tutor Manual ).",
+          "Tutor Manual",
+          "For a complete proof of the Poincaré conjecture, see Appendix C."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "used in the imperative"
+        ],
+        "label_groups": "used in the imperative"
+      },
+      {
+        "definition": "To examine something closely, or to utilize something, often as a temporary alternative.",
+        "examples": [
+          "Can I see that lighter for a second? Mine just quit working."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To include as one of something's experiences.",
+        "examples": [
+          "The equipment has not seen usage outside of our projects.",
+          "I saw military service in Vietnam."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To perceive or detect someone or something with the eyes , or as if by sight .",
+    "secondary_definitions": [
+      "To form a mental picture of.",
+      "( social ) To meet, to visit.",
+      "( ergative ) To be the setting or time of.",
+      "( by extension ) Chiefly followed by that : to ensure that something happens, especially by personally witnessing it.",
+      "( transitive ) To wait upon ; attend , escort .",
+      "( gambling , transitive ) To respond to another player's bet with a bet of equal value.",
+      "To determine by trial or experiment ; to find out ( if or whether ).",
+      "( used in the imperative ) To reference or to study for further details .",
+      "To examine something closely, or to utilize something, often as a temporary alternative.",
+      "To include as one of something's experiences."
+    ]
+  }
+]

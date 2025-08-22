@@ -1,0 +1,92 @@
+[
+  {
+    "word": "fragment",
+    "lemma": "fragment",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹæɡmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fragments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A part broken off; a small, detached portion; an imperfect part, either physically or not",
+        "examples": [
+          "a fragment of an ancient writing",
+          "I heard a small fragment of the conversation."
+        ],
+        "synonyms": [
+          "chip",
+          "lump"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sentence not containing a subject or a predicate; a sentence fragment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "An incomplete portion of code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A portion of a URL referring to a subordinate resource or anchor (such as a specific point on a web page ), introduced by the # sign.",
+        "examples": [
+          "The URL www.example.com/home#recent ends with a fragment ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "A split piece of an organism that has undergone the asexual reproduction process where the organism spilts into one or more pieces, then those pieces become new individuals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "A part broken off; a small, detached portion; an imperfect part, either physically or not",
+    "secondary_definitions": [
+      "( grammar ) A sentence not containing a subject or a predicate; a sentence fragment .",
+      "( computing ) An incomplete portion of code .",
+      "( Internet ) A portion of a URL referring to a subordinate resource or anchor (such as a specific point on a web page ), introduced by the # sign.",
+      "( biology ) A split piece of an organism that has undergone the asexual reproduction process where the organism spilts into one or more pieces, then those pieces become new individuals."
+    ]
+  }
+]

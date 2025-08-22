@@ -1,0 +1,51 @@
+[
+  {
+    "word": "neural",
+    "lemma": "neural",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈnʊɹəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, or relating to the nerves , neurons or the nervous system .",
+        "examples": [],
+        "synonyms": [
+          "neuronal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "Modelled on the arrangement of neurons in the brain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( biology ) Of, or relating to the nerves , neurons or the nervous system .",
+    "secondary_definitions": [
+      "( computing ) Modelled on the arrangement of neurons in the brain ."
+    ]
+  }
+]

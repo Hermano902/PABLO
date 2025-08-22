@@ -1,0 +1,81 @@
+[
+  {
+    "word": "cardinality",
+    "lemma": "cardinality",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɑːdɪnælɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cardinalities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number of elements a given set contains.",
+        "examples": [
+          "The empty set has a cardinality of zero."
+        ],
+        "synonyms": [
+          "power"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "of a set"
+        ],
+        "label_groups": "set theory , of a set"
+      },
+      {
+        "definition": "The number of terms that can inhabit a type ; the possible values of a type.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "type theory"
+        ],
+        "label_groups": "type theory"
+      },
+      {
+        "definition": "The property of a relationship between a database table and another one, specifying whether it is one-to-one, one-to-many, many-to-one, or many-to-many.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "data modeling",
+          "databases"
+        ],
+        "label_groups": "data modeling , databases"
+      },
+      {
+        "definition": "The status of being cardinalitial",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "religion"
+        ],
+        "label_groups": "religion"
+      }
+    ],
+    "main_definition": "( set theory , of a set ) The number of elements a given set contains.",
+    "secondary_definitions": [
+      "( type theory ) The number of terms that can inhabit a type ; the possible values of a type.",
+      "( data modeling , databases ) The property of a relationship between a database table and another one, specifying whether it is one-to-one, one-to-many, many-to-one, or many-to-many.",
+      "( religion ) The status of being cardinalitial"
+    ]
+  }
+]

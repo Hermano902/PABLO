@@ -1,0 +1,90 @@
+[
+  {
+    "word": "gradient",
+    "lemma": "gradient",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɹeɪdiənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gradients"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A slope or incline .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rate of inclination or declination of a slope.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The ratio of the rates of change of a dependent variable and an independent variable, the slope of a curve's tangent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus",
+          "of a function"
+        ],
+        "label_groups": "calculus , of a function"
+      },
+      {
+        "definition": "The rate at which a physical quantity increases or decreases relative to change in a given variable , especially distance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "A differential operator that maps each point of a scalar field to a vector pointed in the direction of the greatest rate of change of the scalar. Notation for a scalar field φ: ∇φ",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      },
+      {
+        "definition": "A gradual change in color ; a color gradient ; gradation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A slope or incline .",
+    "secondary_definitions": [
+      "A rate of inclination or declination of a slope.",
+      "( calculus , of a function ) The ratio of the rates of change of a dependent variable and an independent variable, the slope of a curve's tangent .",
+      "( sciences ) The rate at which a physical quantity increases or decreases relative to change in a given variable , especially distance .",
+      "( calculus ) A differential operator that maps each point of a scalar field to a vector pointed in the direction of the greatest rate of change of the scalar. Notation for a scalar field φ: ∇φ",
+      "A gradual change in color ; a color gradient ; gradation ."
+    ]
+  }
+]

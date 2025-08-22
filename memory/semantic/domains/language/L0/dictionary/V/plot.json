@@ -1,0 +1,75 @@
+[
+  {
+    "word": "plot",
+    "lemma": "plot",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/plɒt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "plots",
+          "PT": "plotted",
+          "PAP": "plotted",
+          "PRP": "plotting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To conceive (a crime , misdeed etc).",
+        "examples": [
+          "They had plotted a robbery.",
+          "They were plotting against the king."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To trace out (a graph or diagram).",
+        "examples": [
+          "They plotted the number of edits per day."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mark (a point on a graph, chart, etc).",
+        "examples": [
+          "Every five minutes they plotted their position."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To conceive (a crime , misdeed etc).",
+    "secondary_definitions": [
+      "( transitive ) To trace out (a graph or diagram).",
+      "( transitive ) To mark (a point on a graph, chart, etc)."
+    ]
+  }
+]

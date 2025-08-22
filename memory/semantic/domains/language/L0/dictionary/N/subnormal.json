@@ -1,0 +1,58 @@
+[
+  {
+    "word": "subnormal",
+    "lemma": "subnormal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subnormals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person whose abilities are less than normal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That part of the axis of a curved line which is intercepted between the ordinate and the normal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Synonym of denormal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "A person whose abilities are less than normal.",
+    "secondary_definitions": [
+      "( geometry ) That part of the axis of a curved line which is intercepted between the ordinate and the normal .",
+      "( computing theory ) Synonym of denormal ."
+    ]
+  }
+]

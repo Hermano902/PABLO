@@ -1,0 +1,28 @@
+{
+  "word": "awake",
+  "pos_order": [
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 5,
+      "antonyms": 4,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 5,
+      "antonyms": 2,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\awake.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\awake.json"
+  },
+  "timestamp": "2025-08-18T21:37:05.823031Z"
+}

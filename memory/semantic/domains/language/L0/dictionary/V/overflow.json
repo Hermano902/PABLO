@@ -1,0 +1,130 @@
+[
+  {
+    "word": "overflow",
+    "lemma": "overflow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈəʊvəˌfləʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overflows",
+          "PT": "overflowed",
+          "PAP": "overflowed",
+          "PRP": "overflowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To flow over the brim of (a container ).",
+        "examples": [
+          "The river overflowed the levee into the road."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cover with a liquid , literally or figuratively .",
+        "examples": [
+          "The flash flood overflowed most of the parkland and some homes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause an overflow . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To flow over the edge of a container .",
+        "examples": [
+          "The waters overflowed into the Ninth Ward."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To exceed limits or capacity .",
+        "examples": [
+          "The hospital ER was overflowing with flu cases."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To (cause to) exceed the available numeric range .",
+            "examples": [
+              "Calculating 255+1 will overflow an eight-bit byte."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "ambitransitive"
+            ],
+            "label_groups": "computing , ambitransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be superabundant ; to abound ; to ooze.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To flow over the brim of (a container ).",
+    "secondary_definitions": [
+      "( transitive ) To cover with a liquid , literally or figuratively .",
+      "( transitive ) To cause an overflow . (Can we add an example for this sense?)",
+      "( intransitive ) To flow over the edge of a container .",
+      "( intransitive ) To exceed limits or capacity .",
+      "( intransitive ) To be superabundant ; to abound ; to ooze."
+    ]
+  }
+]

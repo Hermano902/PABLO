@@ -1,0 +1,55 @@
+[
+  {
+    "word": "prospect",
+    "lemma": "prospect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɒspɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prospects",
+          "PT": "prospected",
+          "PAP": "prospected",
+          "PRP": "prospecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To search, as for gold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To determine which minerals or metals are present in a location.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology",
+          "mining"
+        ],
+        "label_groups": "geology , mining"
+      }
+    ],
+    "main_definition": "( intransitive ) To search, as for gold .",
+    "secondary_definitions": [
+      "( geology , mining ) To determine which minerals or metals are present in a location."
+    ]
+  }
+]

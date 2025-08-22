@@ -1,0 +1,69 @@
+[
+  {
+    "word": "wise",
+    "lemma": "wise",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/waɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more wise",
+          "SUP": "most wise"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Showing good judgement or the benefit of experience.",
+        "examples": [
+          "Storing extra food for the winter was a wise decision .",
+          "They were considered the wise old men of the administration ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "improvident"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Disrespectful.",
+        "examples": [
+          "Don't get wise with me!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "ironic",
+          "sarcastic"
+        ],
+        "label_groups": "colloquial , ironic , sarcastic"
+      },
+      {
+        "definition": "Aware, informed ( to something).",
+        "examples": [
+          "Be careful: the boss is wise to your plan to call out sick."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      }
+    ],
+    "main_definition": "Showing good judgement or the benefit of experience.",
+    "secondary_definitions": [
+      "( colloquial , ironic , sarcastic ) Disrespectful.",
+      "( colloquial ) Aware, informed ( to something)."
+    ]
+  }
+]

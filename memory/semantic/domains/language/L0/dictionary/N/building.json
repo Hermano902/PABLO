@@ -1,0 +1,71 @@
+[
+  {
+    "word": "building",
+    "lemma": "building",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɪl.dɪŋ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "buildings"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act or process by which something is built ; construction .",
+        "examples": [
+          "The building of the bridge will be completed in a couple of weeks."
+        ],
+        "synonyms": [
+          "construction"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A closed structure with walls and a roof .",
+        "examples": [
+          "My sister lives in that apartment building ."
+        ],
+        "synonyms": [
+          "edifice"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Synonym of Tits building .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( uncountable ) The act or process by which something is built ; construction .",
+    "secondary_definitions": [
+      "( countable ) A closed structure with walls and a roof .",
+      "( mathematics ) Synonym of Tits building ."
+    ]
+  }
+]

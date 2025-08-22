@@ -1,0 +1,76 @@
+[
+  {
+    "word": "excision",
+    "lemma": "excision",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈsɪʒən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "excisions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The removal of some text during editing.",
+        "examples": [],
+        "synonyms": [
+          "deletion"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The removal of something (a tumor or body part ) by cutting .",
+        "examples": [],
+        "synonyms": [
+          "resection",
+          "-ectomy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "surgery"
+        ],
+        "label_groups": "surgery"
+      },
+      {
+        "definition": "The removal of a gene from a section of genetic material.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "The fact that, under certain hypotheses, the homology of a space relative to a subspace is unchanged by the identification of a subspace of the latter to a point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      }
+    ],
+    "main_definition": "The removal of some text during editing.",
+    "secondary_definitions": [
+      "( surgery ) The removal of something (a tumor or body part ) by cutting .",
+      "( genetics ) The removal of a gene from a section of genetic material.",
+      "( topology ) The fact that, under certain hypotheses, the homology of a space relative to a subspace is unchanged by the identification of a subspace of the latter to a point."
+    ]
+  }
+]

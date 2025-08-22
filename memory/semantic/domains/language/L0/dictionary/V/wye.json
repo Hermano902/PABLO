@@ -1,0 +1,60 @@
+[
+  {
+    "word": "wye",
+    "lemma": "wye",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wyes",
+          "PT": "wyed",
+          "PAP": "wyed",
+          "PRP": "wyeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make something into a wye (letter Y) shape.",
+        "examples": [
+          "When a hose line is divided into two or more lines, these lines are known as wyed lines."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reverse the direction of a train using a wye .",
+        "examples": [
+          "Since the train didn't have a control cab at the other end, they wyed the train to turn it around for the trip back to the city.",
+          "Committee contend that when these trains are wyed at Springfield, the road passenger crews are performing yard work at that point to eliminate switching by yard crews."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "rail transport"
+        ],
+        "label_groups": "transitive , rail transport"
+      }
+    ],
+    "main_definition": "( transitive ) To make something into a wye (letter Y) shape.",
+    "secondary_definitions": [
+      "( transitive , rail transport ) To reverse the direction of a train using a wye ."
+    ]
+  }
+]

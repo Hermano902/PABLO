@@ -1,0 +1,105 @@
+[
+  {
+    "word": "coalesce",
+    "lemma": "coalesce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌkəʊ.əˈlɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "coalesces",
+          "PT": "coalesced",
+          "PAP": "coalesced",
+          "PRP": "coalescing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To join into a single mass or whole .",
+        "examples": [
+          "The droplets coalesced into a puddle."
+        ],
+        "synonyms": [
+          "amalgamate",
+          "combine",
+          "join",
+          "merge",
+          "unite",
+          "fuse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of separate elements"
+        ],
+        "label_groups": "of separate elements"
+      },
+      {
+        "definition": "To form from different pieces or elements .",
+        "examples": [
+          "The puddle coalesced from the droplets as they ran together."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a whole or a unit"
+        ],
+        "label_groups": "of a whole or a unit"
+      },
+      {
+        "definition": "To bond pieces of metal into a continuous whole by liquefying parts of each piece, bringing the liquids into contact, and allowing the combined liquid to solidify.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "To merge , to intermingle freely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of separate groups or persons"
+        ],
+        "label_groups": "of separate groups or persons"
+      },
+      {
+        "definition": "To convert a null value to a defined value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases",
+          "SQL"
+        ],
+        "label_groups": "databases , SQL"
+      }
+    ],
+    "main_definition": "( of separate elements ) To join into a single mass or whole .",
+    "secondary_definitions": [
+      "( of a whole or a unit ) To form from different pieces or elements .",
+      "( engineering ) To bond pieces of metal into a continuous whole by liquefying parts of each piece, bringing the liquids into contact, and allowing the combined liquid to solidify.",
+      "( of separate groups or persons ) To merge , to intermingle freely.",
+      "( databases , SQL ) To convert a null value to a defined value ."
+    ]
+  }
+]

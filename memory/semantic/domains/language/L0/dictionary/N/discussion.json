@@ -1,0 +1,63 @@
+[
+  {
+    "word": "discussion",
+    "lemma": "discussion",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈskʌʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "discussions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Conversation or debate concerning a particular topic.",
+        "examples": [
+          "There was then a long discussion of whether to capitalize words like \"east\".",
+          "This topic is not open to discussion .",
+          "My discussion with the professor was very enlightening."
+        ],
+        "synonyms": [
+          "discourse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Text giving further detail on a subject.",
+        "examples": [
+          "Under each heading, you will find a discussion ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The dispersion of a tumour .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "obsolete"
+        ],
+        "label_groups": "medicine , obsolete"
+      }
+    ],
+    "main_definition": "Conversation or debate concerning a particular topic.",
+    "secondary_definitions": [
+      "Text giving further detail on a subject.",
+      "( medicine , obsolete ) The dispersion of a tumour ."
+    ]
+  }
+]

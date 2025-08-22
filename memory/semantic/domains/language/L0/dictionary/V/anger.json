@@ -1,0 +1,72 @@
+[
+  {
+    "word": "anger",
+    "lemma": "anger",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæŋɡə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "angers",
+          "PT": "angered",
+          "PAP": "angered",
+          "PRP": "angering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause such a feeling of antagonism in.",
+        "examples": [
+          "He who angers you conquers you."
+        ],
+        "synonyms": [
+          "enrage",
+          "infuriate",
+          "annoy",
+          "vex",
+          "grill",
+          "displease",
+          "aggravate",
+          "irritate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become angry .",
+        "examples": [
+          "You anger too easily."
+        ],
+        "synonyms": [
+          "angry",
+          "angry",
+          "bristle",
+          "flare"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cause such a feeling of antagonism in.",
+    "secondary_definitions": [
+      "( intransitive ) To become angry ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "fred",
+    "lemma": "fred",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/fɹɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A short version of Frederick , Alfred , or Wilfred , also used as a formal male given name .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( military , slang ) The Lockheed C-5 Galaxy , a military transport aircraft widely used by USAF aircrews.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A short version of Frederick , Alfred , or Wilfred , also used as a formal male given name .",
+    "secondary_definitions": [
+      "( military , slang ) The Lockheed C-5 Galaxy , a military transport aircraft widely used by USAF aircrews."
+    ]
+  },
+  {
+    "word": "fred",
+    "lemma": "fred",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/fɹɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Freds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A novice cyclist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cycling",
+          "slang",
+          "derogatory"
+        ],
+        "label_groups": "cycling , slang , derogatory"
+      }
+    ],
+    "main_definition": "( cycling , slang , derogatory ) A novice cyclist .",
+    "secondary_definitions": []
+  }
+]

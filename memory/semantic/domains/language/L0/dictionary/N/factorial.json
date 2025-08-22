@@ -1,0 +1,36 @@
+[
+  {
+    "word": "factorial",
+    "lemma": "factorial",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fækˈtɔːɹi.əl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "factorials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The result of multiplying a given number of consecutive integers from 1 to the given number. In equations, it is symbolized by an exclamation mark (!). For example, 5! = 1 × 2 × 3 × 4 × 5 = 120.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "combinatorics"
+        ],
+        "label_groups": "mathematics , combinatorics"
+      }
+    ],
+    "main_definition": "( mathematics , combinatorics ) The result of multiplying a given number of consecutive integers from 1 to the given number. In equations, it is symbolized by an exclamation mark (!). For example, 5! = 1 × 2 × 3 × 4 × 5 = 120.",
+    "secondary_definitions": []
+  }
+]

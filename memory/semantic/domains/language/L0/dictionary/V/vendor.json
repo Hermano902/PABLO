@@ -1,0 +1,60 @@
+[
+  {
+    "word": "vendor",
+    "lemma": "vendor",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɛn.də/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "vendors",
+          "PT": "vendored",
+          "PAP": "vendored",
+          "PRP": "vendoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bundle third-party dependencies with the source code for one's own program.",
+        "examples": [
+          "I distributed my application with a vendored copy of Perl so that it wouldn't use the system copies of Perl where it is installed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software engineering"
+        ],
+        "label_groups": "transitive , software engineering"
+      },
+      {
+        "definition": "As the software vendor, to bundle one's own, possibly modified version of dependencies with a standard program.",
+        "examples": [
+          "Strawberry Perl contains vendored copies of some CPAN modules, designed to allow them to run on Windows."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "software engineering"
+        ],
+        "label_groups": "transitive , software engineering"
+      }
+    ],
+    "main_definition": "( transitive , software engineering ) To bundle third-party dependencies with the source code for one's own program.",
+    "secondary_definitions": [
+      "( transitive , software engineering ) As the software vendor, to bundle one's own, possibly modified version of dependencies with a standard program."
+    ]
+  }
+]

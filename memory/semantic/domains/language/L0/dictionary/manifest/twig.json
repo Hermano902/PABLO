@@ -1,0 +1,30 @@
+{
+  "word": "twig",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\twig.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\twig.json"
+  },
+  "timestamp": "2025-08-19T19:42:58.019649Z"
+}

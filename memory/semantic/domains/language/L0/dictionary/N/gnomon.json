@@ -1,0 +1,81 @@
+[
+  {
+    "word": "gnomon",
+    "lemma": "gnomon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈnəʊˌmɒn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gnomons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An object such as a pillar or a rod that is used to tell time by the shadow it casts when the sun shines on it, especially the pointer on a sundial .",
+        "examples": [],
+        "synonyms": [
+          "cock",
+          "style"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from mid 16th c."
+      },
+      {
+        "definition": "An object such as a pillar used by an observer to calculate the meridian altitude of the sun (that is, the altitude of the sun when it reaches the observer's meridian), for the purpose of determining the observer's latitude .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The index of the hour circle of a globe .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A plane figure formed by removing a parallelogram from a corner of a larger parallelogram.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A number representing the increment between two figurate numbers ( “ numbers equal to the numbers of dots in geometric figures formed of dots ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "by extension"
+        ],
+        "label_groups": "mathematics , by extension"
+      }
+    ],
+    "main_definition": "An object such as a pillar or a rod that is used to tell time by the shadow it casts when the sun shines on it, especially the pointer on a sundial . [from mid 16th c.]",
+    "secondary_definitions": [
+      "An object such as a pillar used by an observer to calculate the meridian altitude of the sun (that is, the altitude of the sun when it reaches the observer's meridian), for the purpose of determining the observer's latitude .",
+      "The index of the hour circle of a globe .",
+      "( geometry ) A plane figure formed by removing a parallelogram from a corner of a larger parallelogram.",
+      "( mathematics , by extension ) A number representing the increment between two figurate numbers ( “ numbers equal to the numbers of dots in geometric figures formed of dots ” ) ."
+    ]
+  }
+]

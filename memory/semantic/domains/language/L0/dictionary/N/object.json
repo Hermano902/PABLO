@@ -1,0 +1,123 @@
+[
+  {
+    "word": "object",
+    "lemma": "object",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒb.d͡ʒɛkt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "objects"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A thing that has physical existence but is not alive.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Objective ; goal , end or purpose of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The noun phrase which is an internal complement of a verb phrase or a prepositional phrase . In a verb phrase with a transitive action verb, it is typically the receiver of the action.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A person or thing toward which an emotion is directed.",
+        "examples": [
+          "Mary Jane had been the object of Peter's affection for years.",
+          "The convertible, once the object of his desire, was now the object of his hatred.",
+          "Where's your object of ridicule now?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A cause for attention or concern .",
+            "examples": [
+              "Money is no object to him."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly in the negative"
+            ],
+            "label_groups": "chiefly in the negative"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An instantiation of a class or structure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "An instance of one of the two kinds of entities that form a category , the other kind being the arrow s (also called morphism s).",
+        "examples": [
+          "Similarly, there is a category whose objects are groups and whose arrows are the homomorphisms from one group to another."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "Sight; show; appearance; aspect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "A thing that has physical existence but is not alive.",
+    "secondary_definitions": [
+      "Objective ; goal , end or purpose of something.",
+      "( grammar ) The noun phrase which is an internal complement of a verb phrase or a prepositional phrase . In a verb phrase with a transitive action verb, it is typically the receiver of the action.",
+      "A person or thing toward which an emotion is directed.",
+      "( object-oriented programming ) An instantiation of a class or structure .",
+      "( category theory ) An instance of one of the two kinds of entities that form a category , the other kind being the arrow s (also called morphism s).",
+      "( obsolete ) Sight; show; appearance; aspect."
+    ]
+  }
+]

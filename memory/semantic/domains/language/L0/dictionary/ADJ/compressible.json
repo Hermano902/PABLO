@@ -1,0 +1,46 @@
+[
+  {
+    "word": "compressible",
+    "lemma": "compressible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more compressible",
+          "SUP": "most compressible"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "able to be compressed",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Containing a circle that does not serve as the boundary of a disk that lies in the surface, but does serve as boundary of a disk that lies in the ambient manifold.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology",
+          "of a surface embedded in a 3 -dimensional manifold"
+        ],
+        "label_groups": "topology , of a surface embedded in a 3 -dimensional manifold"
+      }
+    ],
+    "main_definition": "able to be compressed",
+    "secondary_definitions": [
+      "( topology , of a surface embedded in a 3 -dimensional manifold ) Containing a circle that does not serve as the boundary of a disk that lies in the surface, but does serve as boundary of a disk that lies in the ambient manifold."
+    ]
+  }
+]

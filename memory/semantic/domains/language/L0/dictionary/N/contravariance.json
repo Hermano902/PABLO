@@ -1,0 +1,62 @@
+[
+  {
+    "word": "contravariance",
+    "lemma": "contravariance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "contravariances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The reversal of the order of data types acted upon by an operator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A functor which reverses composition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "Of vectors, the property of scaling inversely with a change of basis, as opposed to covariance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      }
+    ],
+    "main_definition": "( object-oriented programming ) The reversal of the order of data types acted upon by an operator .",
+    "secondary_definitions": [
+      "( category theory ) A functor which reverses composition .",
+      "( linear algebra ) Of vectors, the property of scaling inversely with a change of basis, as opposed to covariance."
+    ]
+  }
+]

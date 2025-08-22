@@ -1,0 +1,88 @@
+[
+  {
+    "word": "adjourn",
+    "lemma": "adjourn",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈd͡ʒɝn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "adjourns",
+          "PT": "adjourned",
+          "PAP": "adjourned",
+          "PRP": "adjourning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To postpone .",
+        "examples": [
+          "The trial was adjourned for a week."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To defer ; to put off temporarily or indefinitely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To end or suspend an event.",
+        "examples": [
+          "The court will adjourn for lunch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move as a group from one place to another.",
+        "examples": [
+          "After the dinner, we will adjourn to the bar."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "formal",
+          "uncommon"
+        ],
+        "label_groups": "intransitive , formal , uncommon"
+      }
+    ],
+    "main_definition": "( transitive ) To postpone .",
+    "secondary_definitions": [
+      "( transitive ) To defer ; to put off temporarily or indefinitely.",
+      "( intransitive ) To end or suspend an event.",
+      "( intransitive , formal , uncommon ) To move as a group from one place to another."
+    ]
+  }
+]

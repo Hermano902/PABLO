@@ -1,0 +1,37 @@
+{
+  "word": "dark",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 14,
+      "examples": 13,
+      "synonyms": 35,
+      "antonyms": 8,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\dark.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dark.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dark.json"
+  },
+  "timestamp": "2025-08-19T01:22:17.967594Z"
+}

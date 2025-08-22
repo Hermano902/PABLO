@@ -1,0 +1,78 @@
+[
+  {
+    "word": "doppler",
+    "lemma": "doppler",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dopplers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Ellipsis of Doppler ultrasonography : Any of various types of ultrasonography that use the Doppler effect ; especially, medical versions thereof.",
+        "examples": [
+          "Hypomotility was visible on doppler ."
+        ],
+        "synonyms": [
+          "DUS"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "by ellipsis",
+          "informal"
+        ],
+        "label_groups": "medicine , by ellipsis , informal"
+      },
+      {
+        "definition": "Ellipsis of Doppler radar .",
+        "examples": [
+          "An incipient storm cell was visible on doppler ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology",
+          "military",
+          "by ellipsis",
+          "informal"
+        ],
+        "label_groups": "meteorology , military , by ellipsis , informal"
+      },
+      {
+        "definition": "Ellipsis of Doppler sonar .",
+        "examples": [
+          "A school of herring was visible on doppler ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fishing",
+          "military",
+          "by ellipsis",
+          "informal"
+        ],
+        "label_groups": "fishing , military , by ellipsis , informal"
+      }
+    ],
+    "main_definition": "( medicine , by ellipsis , informal ) Ellipsis of Doppler ultrasonography : Any of various types of ultrasonography that use the Doppler effect ; especially, medical versions thereof.",
+    "secondary_definitions": [
+      "( meteorology , military , by ellipsis , informal ) Ellipsis of Doppler radar .",
+      "( fishing , military , by ellipsis , informal ) Ellipsis of Doppler sonar ."
+    ]
+  }
+]

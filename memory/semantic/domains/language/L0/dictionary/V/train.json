@@ -1,0 +1,200 @@
+[
+  {
+    "word": "train",
+    "lemma": "train",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹeɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trains",
+          "PT": "trained",
+          "PAP": "trained",
+          "PRP": "training",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( intransitive ) To practice an ability .",
+        "examples": [
+          "She trained seven hours a day to prepare for the Olympics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To teach and form (someone) by practice; to educate (someone).",
+        "examples": [
+          "You can't train a pig to write poetry."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To improve one's fitness .",
+        "examples": [
+          "I trained with weights all winter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To proceed in sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To move (a gun ) laterally so that it points in a different direction .",
+        "examples": [
+          "The assassin had trained his gun on the minister."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , horticulture ) To encourage (a plant or branch ) to grow in a particular direction or shape , usually by pruning and bending .",
+        "examples": [
+          "The vine had been trained over the pergola ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , machine learning ) To feed data into an algorithm , usually based on a neural network , to create a machine learning model that can perform some task.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To transport (something) by train.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , mining ) To trace (a lode or any mineral appearance) to its head .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , video games ) To create a trainer ( cheat patch ) for; to apply cheats to (a game).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , obsolete ) To draw (something) along; to trail, to drag (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , obsolete , of clothing ) To trail down or along the ground .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive ) To practice an ability .",
+    "secondary_definitions": [
+      "( transitive ) To teach and form (someone) by practice; to educate (someone).",
+      "( intransitive ) To improve one's fitness .",
+      "( intransitive ) To proceed in sequence .",
+      "( transitive ) To move (a gun ) laterally so that it points in a different direction .",
+      "( transitive , horticulture ) To encourage (a plant or branch ) to grow in a particular direction or shape , usually by pruning and bending .",
+      "( transitive , machine learning ) To feed data into an algorithm , usually based on a neural network , to create a machine learning model that can perform some task.",
+      "( transitive ) To transport (something) by train.",
+      "( transitive , mining ) To trace (a lode or any mineral appearance) to its head .",
+      "( transitive , video games ) To create a trainer ( cheat patch ) for; to apply cheats to (a game).",
+      "( transitive , obsolete ) To draw (something) along; to trail, to drag (something).",
+      "( intransitive , obsolete , of clothing ) To trail down or along the ground ."
+    ]
+  },
+  {
+    "word": "train",
+    "lemma": "train",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/tɹeɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trains",
+          "PT": "trained",
+          "PAP": "trained",
+          "PRP": "training",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw by persuasion, artifice, or the like; to attract by stratagem; to entice; to allure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To be on intimate terms with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "colloquial"
+        ],
+        "label_groups": "obsolete , colloquial"
+      }
+    ],
+    "main_definition": "( transitive , obsolete ) To draw by persuasion, artifice, or the like; to attract by stratagem; to entice; to allure.",
+    "secondary_definitions": [
+      "( obsolete , colloquial ) To be on intimate terms with."
+    ]
+  }
+]

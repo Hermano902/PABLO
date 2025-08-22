@@ -1,0 +1,62 @@
+[
+  {
+    "word": "reliability",
+    "lemma": "reliability",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reliabilities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being reliable , dependable , or trustworthy .",
+        "examples": [],
+        "synonyms": [
+          "dependability"
+        ],
+        "antonyms": [
+          "unreliability"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the ability to measure the same thing consistently (of a measurement indicating the degree to which the measure is consistent); that is, repeated measurements would give the same result (See also validity ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "education"
+        ],
+        "label_groups": "education"
+      },
+      {
+        "definition": "measurable time of work before failure",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      }
+    ],
+    "main_definition": "The quality of being reliable , dependable , or trustworthy .",
+    "secondary_definitions": [
+      "( education ) the ability to measure the same thing consistently (of a measurement indicating the degree to which the measure is consistent); that is, repeated measurements would give the same result (See also validity ).",
+      "( engineering ) measurable time of work before failure"
+    ]
+  }
+]

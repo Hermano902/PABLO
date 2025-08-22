@@ -1,0 +1,83 @@
+[
+  {
+    "word": "dilute",
+    "lemma": "dilute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈljuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dilutes",
+          "PT": "diluted",
+          "PAP": "diluted",
+          "PRP": "diluting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make thinner by adding solvent to a solution , especially by adding water .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To weaken , especially by adding a foreign substance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause the value of individual shares or the stake of a shareholder to decrease by increasing the total number of shares.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "stock market"
+        ],
+        "label_groups": "transitive , stock market"
+      },
+      {
+        "definition": "To become attenuated, thin, or weak .",
+        "examples": [
+          "It dilutes easily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make thinner by adding solvent to a solution , especially by adding water .",
+    "secondary_definitions": [
+      "( transitive ) To weaken , especially by adding a foreign substance.",
+      "( transitive , stock market ) To cause the value of individual shares or the stake of a shareholder to decrease by increasing the total number of shares.",
+      "( intransitive ) To become attenuated, thin, or weak ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "treasure",
+    "lemma": "treasure",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹɛʒə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "treasures",
+          "PT": "treasured",
+          "PAP": "treasured",
+          "PRP": "treasuring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To consider to be precious ; to value highly.",
+        "examples": [
+          "Oh, this ring is beautiful! I’ll treasure it forever."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a person or thing"
+        ],
+        "label_groups": "transitive , of a person or thing"
+      },
+      {
+        "definition": "To store or stow in a safe place.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enrich .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive , of a person or thing ) To consider to be precious ; to value highly.",
+    "secondary_definitions": [
+      "( transitive ) To store or stow in a safe place.",
+      "( transitive , obsolete ) To enrich ."
+    ]
+  }
+]

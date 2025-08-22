@@ -1,0 +1,37 @@
+{
+  "word": "certain",
+  "pos_order": [
+    "ADJ",
+    "DET",
+    "PRON"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 10,
+      "examples": 9,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "DET": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PRON": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\certain.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\certain.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\certain.json"
+  },
+  "timestamp": "2025-08-18T23:31:33.720942Z"
+}

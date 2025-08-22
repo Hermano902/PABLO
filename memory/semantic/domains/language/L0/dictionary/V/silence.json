@@ -1,0 +1,102 @@
+[
+  {
+    "word": "silence",
+    "lemma": "silence",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪl(ə)ns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "silences",
+          "PT": "silenced",
+          "PAP": "silenced",
+          "PRP": "silencing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make (someone or something) silent .",
+        "examples": [
+          "Can you silence the crowd, so we can start the show?"
+        ],
+        "synonyms": [
+          "mute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To repress the expression of something.",
+        "examples": [
+          "Women, as well as children, have their thoughts or emotions routinely silenced ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To suppress criticism , etc.",
+        "examples": [
+          "Silence the critics.",
+          "Silence the doubters."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To block gene expression .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "molecular biology"
+        ],
+        "label_groups": "molecular biology"
+      },
+      {
+        "definition": "To murder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "euphemistic"
+        ],
+        "label_groups": "euphemistic"
+      }
+    ],
+    "main_definition": "( transitive ) To make (someone or something) silent .",
+    "secondary_definitions": [
+      "( transitive ) To repress the expression of something.",
+      "( transitive ) To suppress criticism , etc.",
+      "( molecular biology ) To block gene expression .",
+      "( euphemistic ) To murder ."
+    ]
+  }
+]

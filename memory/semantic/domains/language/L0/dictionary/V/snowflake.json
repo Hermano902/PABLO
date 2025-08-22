@@ -1,0 +1,51 @@
+[
+  {
+    "word": "snowflake",
+    "lemma": "snowflake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsnəʊ.fleɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "snowflakes",
+          "PT": "snowflaked",
+          "PAP": "snowflaked",
+          "PRP": "snowflaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fall in the manner of a snowflake.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To arrange (data) into a snowflake schema .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      }
+    ],
+    "main_definition": "To fall in the manner of a snowflake.",
+    "secondary_definitions": [
+      "( computing , databases ) To arrange (data) into a snowflake schema ."
+    ]
+  }
+]

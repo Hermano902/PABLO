@@ -1,0 +1,47 @@
+{
+  "word": "meh",
+  "pos_order": [
+    "ADJ",
+    "INTJ",
+    "N",
+    "PART",
+    "INTJ:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "INTJ": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PART": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\meh.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\meh.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\meh.json",
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\meh.json"
+  },
+  "timestamp": "2025-08-19T08:50:45.729903Z"
+}

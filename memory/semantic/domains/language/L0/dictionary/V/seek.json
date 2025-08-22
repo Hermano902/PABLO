@@ -1,0 +1,137 @@
+[
+  {
+    "word": "seek",
+    "lemma": "seek",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/siːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "seeks",
+          "PT": "sought",
+          "PAP": "sought",
+          "PRP": "seeking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To try to find ; to look for ; to search for .",
+        "examples": [
+          "I seek wisdom."
+        ],
+        "synonyms": [
+          "look for",
+          "search for"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To ask for; to solicit ; to beseech .",
+        "examples": [
+          "I seek forgiveness through repentance."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To try to acquire or gain ; to strive after; to aim at.",
+        "examples": [
+          "I sought my fortune on the goldfields."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To go , move , travel (in a given direction).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To try to reach or come to; to go to; to resort to.",
+        "examples": [
+          "When the alarm went off I sought the exit in a panic."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attempt , endeavour , try",
+        "examples": [
+          "Our company does not seek to limit its employees from using the internet or engaging in social networking."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "sometimes proscribed"
+        ],
+        "label_groups": "intransitive , sometimes proscribed"
+      },
+      {
+        "definition": "To navigate through a stream .",
+        "examples": [],
+        "synonyms": [
+          "scrub"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To try to find ; to look for ; to search for .",
+    "secondary_definitions": [
+      "( transitive ) To ask for; to solicit ; to beseech .",
+      "( transitive ) To try to acquire or gain ; to strive after; to aim at.",
+      "( intransitive , obsolete ) To go , move , travel (in a given direction).",
+      "( transitive ) To try to reach or come to; to go to; to resort to.",
+      "( intransitive , sometimes proscribed ) To attempt , endeavour , try",
+      "( intransitive , computing ) To navigate through a stream ."
+    ]
+  }
+]

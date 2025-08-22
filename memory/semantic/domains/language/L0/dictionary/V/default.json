@@ -1,0 +1,99 @@
+[
+  {
+    "word": "default",
+    "lemma": "default",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɒlt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "defaults",
+          "PT": "defaulted",
+          "PAP": "defaulted",
+          "PRP": "defaulting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fail to meet an obligation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To fail to appear and answer a summons and complaint.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "law"
+            ],
+            "label_groups": "intransitive , law"
+          },
+          {
+            "definition": "To fail to fulfill a financial obligation.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "finance"
+            ],
+            "label_groups": "intransitive , finance"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To lose a competition by failing to compete.",
+        "examples": [],
+        "synonyms": [
+          "forfeit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To assume a value when none was given; to presume a tentative value or standard.",
+        "examples": [
+          "If you don't specify a color, it defaults to red."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "computing"
+        ],
+        "label_groups": "ambitransitive , computing"
+      }
+    ],
+    "main_definition": "( intransitive ) To fail to meet an obligation.",
+    "secondary_definitions": [
+      "( intransitive ) To lose a competition by failing to compete.",
+      "( ambitransitive , computing ) To assume a value when none was given; to presume a tentative value or standard."
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "word": "taint",
+    "lemma": "taint",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/teɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "taints",
+          "PT": "tainted",
+          "PAP": "tainted",
+          "PRP": "tainting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To contaminate or corrupt (something) with an external agent , either physically or morally .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To spoil (food) by contamination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To be infected or corrupted; to be touched by something corrupting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To be affected with incipient putrefaction .",
+        "examples": [
+          "Meat soon taints in warm weather."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , computing , programming ) To mark (a variable ) as unsafe , so that operations involving it are subject to additional security checks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , Australia , finance ) To invalidate (a share capital account) by transferring profits into it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To contaminate or corrupt (something) with an external agent , either physically or morally .",
+    "secondary_definitions": [
+      "( transitive ) To spoil (food) by contamination .",
+      "( intransitive ) To be infected or corrupted; to be touched by something corrupting.",
+      "( intransitive ) To be affected with incipient putrefaction .",
+      "( transitive , computing , programming ) To mark (a variable ) as unsafe , so that operations involving it are subject to additional security checks .",
+      "( transitive , Australia , finance ) To invalidate (a share capital account) by transferring profits into it."
+    ]
+  },
+  {
+    "word": "taint",
+    "lemma": "taint",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/teɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "taints",
+          "PT": "tainted",
+          "PAP": "tainted",
+          "PRP": "tainting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To damage, as a lance, without breaking it; also, to break, as a lance, but usually in an unknightly or unscientific manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To thrust ineffectually with a lance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To damage, as a lance, without breaking it; also, to break, as a lance, but usually in an unknightly or unscientific manner.",
+    "secondary_definitions": [
+      "( intransitive ) To thrust ineffectually with a lance."
+    ]
+  }
+]

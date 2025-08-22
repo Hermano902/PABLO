@@ -1,0 +1,55 @@
+{
+  "word": "short",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V",
+    "PREP"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 18,
+      "examples": 9,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 5,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 11,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "PREP": {
+      "definitions": 2,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\short.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\short.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\short.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\short.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\short.json"
+  },
+  "timestamp": "2025-08-19T16:59:45.405340Z"
+}

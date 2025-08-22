@@ -1,0 +1,62 @@
+[
+  {
+    "word": "truncation",
+    "lemma": "truncation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹʌŋˈkeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "truncations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of truncating or shortening (for example, words are shortened to form blend words or portmanteaus ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "The removal of the least significant digits from a decimal number .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An operation in any dimension that cuts a regular polytope at its vertices , creating a new facet in place of each vertex.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( linguistics ) The act of truncating or shortening (for example, words are shortened to form blend words or portmanteaus ).",
+    "secondary_definitions": [
+      "( mathematics ) The removal of the least significant digits from a decimal number .",
+      "( geometry ) An operation in any dimension that cuts a regular polytope at its vertices , creating a new facet in place of each vertex."
+    ]
+  }
+]

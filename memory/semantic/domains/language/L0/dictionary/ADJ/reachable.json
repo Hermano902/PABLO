@@ -1,0 +1,49 @@
+[
+  {
+    "word": "reachable",
+    "lemma": "reachable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiːtʃəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more reachable",
+          "SUP": "most reachable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Within easy reach ; accessible",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That may be reached from another node in a graph by passing along one or more lines",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a node"
+        ],
+        "label_groups": [
+          "mathematics",
+          "of a node"
+        ]
+      }
+    ],
+    "main_definition": "Within easy reach ; accessible",
+    "secondary_definitions": [
+      "( mathematics ) ( of a node ) That may be reached from another node in a graph by passing along one or more lines"
+    ]
+  }
+]

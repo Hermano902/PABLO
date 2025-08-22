@@ -1,0 +1,86 @@
+[
+  {
+    "word": "dual",
+    "lemma": "dual",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʒuː.əl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "duals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of an item that is one of a pair, the other item in the pair.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a regular polyhedron with V vertices and F faces, the regular polyhedron having F vertices and V faces.",
+        "examples": [
+          "The octahedron is the dual of the cube."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The dual number .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "Of a vector in an inner product space , the linear functional corresponding to taking the inner product with that vector. The set of all duals is a vector space called the dual space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A head-to-head match or meet between two teams, such as two high schools or colleges.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "wrestling"
+        ],
+        "label_groups": "wrestling"
+      }
+    ],
+    "main_definition": "Of an item that is one of a pair, the other item in the pair.",
+    "secondary_definitions": [
+      "( geometry ) Of a regular polyhedron with V vertices and F faces, the regular polyhedron having F vertices and V faces.",
+      "( grammar ) The dual number .",
+      "( mathematics ) Of a vector in an inner product space , the linear functional corresponding to taking the inner product with that vector. The set of all duals is a vector space called the dual space .",
+      "( wrestling ) A head-to-head match or meet between two teams, such as two high schools or colleges."
+    ]
+  }
+]

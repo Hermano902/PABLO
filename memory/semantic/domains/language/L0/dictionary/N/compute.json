@@ -1,0 +1,32 @@
+[
+  {
+    "word": "compute",
+    "lemma": "compute",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-uːt",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Computational processing power.",
+        "examples": [
+          "The GPU does not have enough on-chip SRAM memory for the parameters, and doesn't have enough compute for the entire model."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly cloud computing"
+        ],
+        "label_groups": "chiefly cloud computing"
+      }
+    ],
+    "main_definition": "( chiefly cloud computing ) Computational processing power.",
+    "secondary_definitions": []
+  }
+]

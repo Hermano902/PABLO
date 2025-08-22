@@ -1,0 +1,47 @@
+[
+  {
+    "word": "jackknife",
+    "lemma": "jackknife",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jackknives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Alternative spelling of jack-knife .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A resampling method that applies estimators to all subsamples that each omit a single different group (possibly of a single datapoint) of the original sample to provide a sample distribution of the estimate.",
+        "examples": [],
+        "synonyms": [
+          "leave-one-out"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "Alternative spelling of jack-knife .",
+    "secondary_definitions": [
+      "( statistics ) A resampling method that applies estimators to all subsamples that each omit a single different group (possibly of a single datapoint) of the original sample to provide a sample distribution of the estimate."
+    ]
+  }
+]

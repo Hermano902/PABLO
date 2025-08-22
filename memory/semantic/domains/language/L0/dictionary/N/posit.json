@@ -1,0 +1,58 @@
+[
+  {
+    "word": "posit",
+    "lemma": "posit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɒzɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "posits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that is posited; a postulate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Abbreviation of position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "A number format representing a real number consisting of a sign bit , a variable-size \"regime\" part (which modifies the exponent), up to two exponent bits, and a fraction part, proposed as a more efficient alternative to IEEE 754 floats in AI applications.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Something that is posited; a postulate .",
+    "secondary_definitions": [
+      "( aviation ) Abbreviation of position .",
+      "( computing ) A number format representing a real number consisting of a sign bit , a variable-size \"regime\" part (which modifies the exponent), up to two exponent bits, and a fraction part, proposed as a more efficient alternative to IEEE 754 floats in AI applications."
+    ]
+  }
+]

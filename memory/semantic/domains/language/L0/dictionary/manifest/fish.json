@@ -1,0 +1,30 @@
+{
+  "word": "fish",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 23,
+      "examples": 8,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 7,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fish.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fish.json"
+  },
+  "timestamp": "2025-08-19T03:44:51.558164Z"
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "guilt",
+    "lemma": "guilt",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡɪlt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "guilts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Responsibility for wrongdoing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "innocence"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of having been found guilty or admitted guilt in legal proceedings.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "innocence"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "Regret for having done wrong.",
+        "examples": [],
+        "synonyms": [
+          "remorse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Responsibility for wrongdoing .",
+    "secondary_definitions": [
+      "( law ) The state of having been found guilty or admitted guilt in legal proceedings.",
+      "Regret for having done wrong."
+    ]
+  }
+]

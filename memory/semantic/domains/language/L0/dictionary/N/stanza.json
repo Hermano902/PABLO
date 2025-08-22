@@ -1,0 +1,101 @@
+[
+  {
+    "word": "stanza",
+    "lemma": "stanza",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstænzə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "stanzas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A unit of a poem , written or printed as a paragraph ; equivalent to a verse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poetry"
+        ],
+        "label_groups": "poetry"
+      },
+      {
+        "definition": "An apartment or division in a building .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "An XML element which acts as basic unit of meaning in XMPP .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A section of a configuration file consisting of a related group of lines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A segment ; a portion of a broadcast devoted to a particular topic.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "broadcasting"
+        ],
+        "label_groups": "broadcasting"
+      },
+      {
+        "definition": "A period ; an interval into which a sporting event is divided.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      }
+    ],
+    "main_definition": "( poetry ) A unit of a poem , written or printed as a paragraph ; equivalent to a verse .",
+    "secondary_definitions": [
+      "( architecture ) An apartment or division in a building .",
+      "( computing ) An XML element which acts as basic unit of meaning in XMPP .",
+      "( computing ) A section of a configuration file consisting of a related group of lines.",
+      "( broadcasting ) A segment ; a portion of a broadcast devoted to a particular topic.",
+      "( sports ) A period ; an interval into which a sporting event is divided."
+    ]
+  }
+]

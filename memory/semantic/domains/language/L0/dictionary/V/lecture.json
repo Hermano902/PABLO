@@ -1,0 +1,58 @@
+[
+  {
+    "word": "lecture",
+    "lemma": "lecture",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛk.t͡ʃə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lectures",
+          "PT": "lectured",
+          "PAP": "lectured",
+          "PRP": "lecturing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To teach (somebody) by giving a speech on a given topic.",
+        "examples": [
+          "The professor lectured to two classes this morning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To preach , to berate , to scold .",
+        "examples": [
+          "Emily's father lectured her about the importance of being home before midnight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To teach (somebody) by giving a speech on a given topic.",
+    "secondary_definitions": [
+      "( transitive ) To preach , to berate , to scold ."
+    ]
+  }
+]

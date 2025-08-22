@@ -1,0 +1,51 @@
+[
+  {
+    "word": "downstream",
+    "lemma": "downstream",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌdaʊnˈstɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "downstreams",
+          "PT": "downstreamed",
+          "PAP": "downstreamed",
+          "PRP": "downstreaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stream downward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of the original developers: to make available (a version or patch) to downstream developers and users of the software.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "open-source software",
+          "transitive"
+        ],
+        "label_groups": "open-source software , transitive"
+      }
+    ],
+    "main_definition": "To stream downward.",
+    "secondary_definitions": [
+      "( open-source software , transitive ) Of the original developers: to make available (a version or patch) to downstream developers and users of the software."
+    ]
+  }
+]

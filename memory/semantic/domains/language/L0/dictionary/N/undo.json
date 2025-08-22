@@ -1,0 +1,37 @@
+[
+  {
+    "word": "undo",
+    "lemma": "undo",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈduː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "undos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An operation that reverses a previous action.",
+        "examples": [
+          "How many undos does this program support?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) An operation that reverses a previous action.",
+    "secondary_definitions": []
+  }
+]

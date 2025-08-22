@@ -1,0 +1,32 @@
+{
+  "word": "bark",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 7,
+      "examples": 5,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 12,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bark.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bark.json"
+  },
+  "timestamp": "2025-08-18T21:50:41.342962Z"
+}

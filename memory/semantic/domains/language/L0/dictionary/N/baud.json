@@ -1,0 +1,51 @@
+[
+  {
+    "word": "baud",
+    "lemma": "baud",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/bɔːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bauds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A unit of data transmission symbol rate; the number of signalling events per second.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "telecommunications"
+        ],
+        "label_groups": "computing , telecommunications"
+      },
+      {
+        "definition": "bps (bits per second), regardless of how many bits are represented by each symbol.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      }
+    ],
+    "main_definition": "( computing , telecommunications ) A unit of data transmission symbol rate; the number of signalling events per second.",
+    "secondary_definitions": [
+      "( computing , informal ) bps (bits per second), regardless of how many bits are represented by each symbol."
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "word": "compile",
+    "lemma": "compile",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpaɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "compiles",
+          "PT": "compiled",
+          "PAP": "compiled",
+          "PRP": "compiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make by gathering pieces from various sources .",
+        "examples": [
+          "Samuel Johnson compiled one of the most influential dictionaries of the English language."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To construct ; to build .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To achieve (a break ) by making a sequence of shots .",
+        "examples": [
+          "Steve Davis compiled a 147."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "snooker"
+        ],
+        "label_groups": "transitive , snooker"
+      },
+      {
+        "definition": "To use a compiler to process source code and produce executable code .",
+        "examples": [
+          "After I compile this program I’ll run it and see if it works."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To be successfully processed by a compiler into executable code .",
+        "examples": [
+          "There must be an error in my source code because it won’t compile ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "programming"
+        ],
+        "label_groups": "intransitive , programming"
+      },
+      {
+        "definition": "To contain or comprise .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To write ; to compose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To make by gathering pieces from various sources .",
+    "secondary_definitions": [
+      "( obsolete ) To construct ; to build .",
+      "( transitive , snooker ) To achieve (a break ) by making a sequence of shots .",
+      "( transitive , programming ) To use a compiler to process source code and produce executable code .",
+      "( intransitive , programming ) To be successfully processed by a compiler into executable code .",
+      "( obsolete , transitive ) To contain or comprise .",
+      "( obsolete ) To write ; to compose ."
+    ]
+  }
+]

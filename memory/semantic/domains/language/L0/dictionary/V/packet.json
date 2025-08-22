@@ -1,0 +1,81 @@
+[
+  {
+    "word": "packet",
+    "lemma": "packet",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpækɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "packets",
+          "PT": "packeted",
+          "PAP": "packeted",
+          "PRP": "packeting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make up into a packet or bundle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To send in a packet or dispatch vessel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ply with a packet or dispatch boat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To subject to a denial-of-service attack in which a large number of data packets are sent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Internet"
+        ],
+        "label_groups": "transitive , Internet"
+      }
+    ],
+    "main_definition": "( transitive ) To make up into a packet or bundle.",
+    "secondary_definitions": [
+      "( transitive ) To send in a packet or dispatch vessel.",
+      "( intransitive ) To ply with a packet or dispatch boat.",
+      "( transitive , Internet ) To subject to a denial-of-service attack in which a large number of data packets are sent."
+    ]
+  }
+]

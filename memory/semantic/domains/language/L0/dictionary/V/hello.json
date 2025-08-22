@@ -1,0 +1,40 @@
+[
+  {
+    "word": "hello",
+    "lemma": "hello",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/həˈləʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hellos",
+          "PT": "helloed",
+          "PAP": "helloed",
+          "PRP": "helloing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To greet with \"hello\".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To greet with \"hello\".",
+    "secondary_definitions": []
+  }
+]

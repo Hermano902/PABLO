@@ -1,0 +1,78 @@
+[
+  {
+    "word": "contest",
+    "lemma": "contest",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.tɛst/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "contests"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Controversy ; debate .",
+        "examples": [
+          "no contest"
+        ],
+        "synonyms": [
+          "controversy",
+          "debate",
+          "discussion"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Struggle for superiority ; combat .",
+        "examples": [],
+        "synonyms": [
+          "battle",
+          "combat",
+          "fight"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A competition .",
+        "examples": [
+          "The child entered the spelling contest ."
+        ],
+        "synonyms": [
+          "competition",
+          "pageant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Controversy ; debate .",
+    "secondary_definitions": [
+      "( uncountable ) Struggle for superiority ; combat .",
+      "( countable ) A competition ."
+    ]
+  }
+]

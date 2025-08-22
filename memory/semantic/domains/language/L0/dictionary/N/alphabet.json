@@ -1,0 +1,107 @@
+[
+  {
+    "word": "alphabet",
+    "lemma": "alphabet",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæl.fəˌbɛt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "alphabets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The set of letters used when writing in a language .",
+        "examples": [
+          "The Greek alphabet has only twenty-four letters.",
+          "In the first year of school, pupils are taught to recite the alphabet ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A writing system in which letters represent phonemes . ( Contrast e.g. logography , a writing system in which each character represents a word, and syllabary , in which each character represents a syllable. )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A writing system in which there are letters for the consonant and vowel phonemes . ( Contrast e.g. abjad . )",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A typically finite set of distinguishable symbols .",
+        "examples": [
+          "Let L {\\displaystyle L} be a regular language over the alphabet Σ {\\displaystyle \\Sigma } ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "An individual letter of an alphabet; an alphabetic character.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "India",
+          "Hong Kong",
+          "Singapore",
+          "Malaysia"
+        ],
+        "label_groups": "India , Hong Kong , Singapore , Malaysia"
+      },
+      {
+        "definition": "The simplest rudiments ; elements .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An agent of the FBI , the CIA , or another such government agency.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet slang",
+          "politics"
+        ],
+        "label_groups": "Internet slang , politics"
+      }
+    ],
+    "main_definition": "The set of letters used when writing in a language .",
+    "secondary_definitions": [
+      "A writing system in which letters represent phonemes . ( Contrast e.g. logography , a writing system in which each character represents a word, and syllabary , in which each character represents a syllable. )",
+      "( computer science ) A typically finite set of distinguishable symbols .",
+      "( India , Hong Kong , Singapore , Malaysia ) An individual letter of an alphabet; an alphabetic character.",
+      "The simplest rudiments ; elements .",
+      "( Internet slang , politics ) An agent of the FBI , the CIA , or another such government agency."
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "dilation",
+    "lemma": "dilation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈleɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dilations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of dilating .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "State of being dilated; expansion ; dilatation .",
+        "examples": [],
+        "synonyms": [
+          "expansion",
+          "dilatation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Delay .",
+        "examples": [],
+        "synonyms": [
+          "cunctation",
+          "hold-up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "In morphology , a basic operation (denoted ⊕) that usually uses a structuring element for probing and expanding the shapes contained in the input image .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "The act of dilating .",
+    "secondary_definitions": [
+      "State of being dilated; expansion ; dilatation .",
+      "( obsolete ) Delay .",
+      "( mathematics ) In morphology , a basic operation (denoted ⊕) that usually uses a structuring element for probing and expanding the shapes contained in the input image ."
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "dispatch",
+    "lemma": "dispatch",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈspætʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dispatches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A message sent quickly , as a shipment , a prompt settlement of a business , or an important official message sent by a diplomat , government official , military officer , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of doing something quickly.",
+        "examples": [
+          "We must act with dispatch in this matter."
+        ],
+        "synonyms": [
+          "haste",
+          "hurry",
+          "rapidity"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mission by an emergency response service , typically involving attending to an emergency in the field .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The passing on of a message for further processing , especially through a dispatch table .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A dismissal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "A message sent quickly , as a shipment , a prompt settlement of a business , or an important official message sent by a diplomat , government official , military officer , etc.",
+    "secondary_definitions": [
+      "The act of doing something quickly.",
+      "A mission by an emergency response service , typically involving attending to an emergency in the field .",
+      "( computing ) The passing on of a message for further processing , especially through a dispatch table .",
+      "( obsolete ) A dismissal ."
+    ]
+  }
+]

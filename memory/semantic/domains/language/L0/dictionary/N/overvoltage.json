@@ -1,0 +1,47 @@
+[
+  {
+    "word": "overvoltage",
+    "lemma": "overvoltage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overvoltages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The difference between the electric potential of an electrode or cell under the passage of a current and the thermodynamic value of the electrode or cell potential in the absence of electrolysis .",
+        "examples": [],
+        "synonyms": [
+          "overpotential"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The hazardous condition that occurs when the voltage in a circuit is raised above that for which it was designed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( physics ) The difference between the electric potential of an electrode or cell under the passage of a current and the thermodynamic value of the electrode or cell potential in the absence of electrolysis .",
+    "secondary_definitions": [
+      "The hazardous condition that occurs when the voltage in a circuit is raised above that for which it was designed."
+    ]
+  }
+]

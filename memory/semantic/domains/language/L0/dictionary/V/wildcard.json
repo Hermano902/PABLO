@@ -1,0 +1,40 @@
+[
+  {
+    "word": "wildcard",
+    "lemma": "wildcard",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wildcards",
+          "PT": "wildcarded",
+          "PAP": "wildcarded",
+          "PRP": "wildcarding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To replace or supplement with a wildcard character to allow matching against a range of possible values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) To replace or supplement with a wildcard character to allow matching against a range of possible values.",
+    "secondary_definitions": []
+  }
+]

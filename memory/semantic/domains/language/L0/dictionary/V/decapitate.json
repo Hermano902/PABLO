@@ -1,0 +1,56 @@
+[
+  {
+    "word": "decapitate",
+    "lemma": "decapitate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkap.ɪt.eɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decapitates",
+          "PT": "decapitated",
+          "PAP": "decapitated",
+          "PRP": "decapitating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove the head of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "literal"
+        ],
+        "label_groups": "transitive , literal"
+      },
+      {
+        "definition": "To oust or destroy the leadership or ruling body of (a government etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive , literal ) To remove the head of.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To oust or destroy the leadership or ruling body of (a government etc.)."
+    ]
+  }
+]

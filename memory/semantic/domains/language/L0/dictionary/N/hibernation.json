@@ -1,0 +1,70 @@
+[
+  {
+    "word": "hibernation",
+    "lemma": "hibernation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌhaɪ.bəːˈneɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hibernations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A state of minimum power consumption, inactivity and metabolic depression in some animals during winter .",
+        "examples": [
+          "The bears are in hibernation .",
+          "The bears come out of hibernation in March."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "sleep"
+        ],
+        "label_groups": "biology , sleep"
+      },
+      {
+        "definition": "A hypothetical state of minimum power consumption, inactivity and metabolic depression in humans during long space flights.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "sleep",
+          "space science"
+        ],
+        "label_groups": "biology , sleep , space science"
+      },
+      {
+        "definition": "A standby state which conserves power by writing the contents of the memory to disk and completely power off the computer , in order that one will resume the session from the disk .",
+        "examples": [],
+        "synonyms": [
+          "suspension to disk"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( biology , sleep ) A state of minimum power consumption, inactivity and metabolic depression in some animals during winter .",
+    "secondary_definitions": [
+      "( biology , sleep , space science ) A hypothetical state of minimum power consumption, inactivity and metabolic depression in humans during long space flights.",
+      "( computing ) A standby state which conserves power by writing the contents of the memory to disk and completely power off the computer , in order that one will resume the session from the disk ."
+    ]
+  }
+]

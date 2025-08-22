@@ -1,0 +1,97 @@
+[
+  {
+    "word": "converse",
+    "lemma": "converse",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈvɜːs/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "( now literary ) Free verbal interchange of thoughts or views ; conversation ; chat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( now literary ) Free verbal interchange of thoughts or views ; conversation ; chat .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "converse",
+    "lemma": "converse",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/kənˈvɜːs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "converses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The opposite or reverse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a proposition or theorem consisting of a statement of the form \"If A is true, then B is true\", the statement \"If B is true, then A is true\" which need not be equivalent to the first one.",
+        "examples": [
+          "All trout are fish, but the converse , that all fish are trout, is not true."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "One of a pair of terms that name or describe a relationship from opposite perspectives; converse antonym ; relational antonym .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      },
+      {
+        "definition": "Synonym of transpose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "The opposite or reverse .",
+    "secondary_definitions": [
+      "( logic ) Of a proposition or theorem consisting of a statement of the form \"If A is true, then B is true\", the statement \"If B is true, then A is true\" which need not be equivalent to the first one.",
+      "( semantics ) One of a pair of terms that name or describe a relationship from opposite perspectives; converse antonym ; relational antonym .",
+      "( graph theory ) Synonym of transpose ."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "airway",
+    "lemma": "airway",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛə.weɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "airways"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The trachea .",
+        "examples": [],
+        "synonyms": [
+          "trachea",
+          "windpipe"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "A flight path used by aeroplanes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "A roadway used for ventilation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      }
+    ],
+    "main_definition": "( anatomy ) The trachea .",
+    "secondary_definitions": [
+      "( aviation ) A flight path used by aeroplanes .",
+      "( mining ) A roadway used for ventilation ."
+    ]
+  }
+]

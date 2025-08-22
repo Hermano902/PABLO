@@ -1,0 +1,58 @@
+[
+  {
+    "word": "summarize",
+    "lemma": "summarize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌməˌɹaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "summarizes",
+          "PT": "summarized",
+          "PAP": "summarized",
+          "PRP": "summarizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To prepare a summary of (something).",
+        "examples": [
+          "Jim was asked to summarize the document by Wednesday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To give a recapitulation of the salient facts ; to recapitulate or review .",
+        "examples": [
+          "After the meeting, Jim summarized the major decisions made."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To prepare a summary of (something).",
+    "secondary_definitions": [
+      "( ambitransitive ) To give a recapitulation of the salient facts ; to recapitulate or review ."
+    ]
+  }
+]

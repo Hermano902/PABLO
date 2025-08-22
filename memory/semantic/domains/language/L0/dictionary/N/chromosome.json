@@ -1,0 +1,38 @@
+[
+  {
+    "word": "chromosome",
+    "lemma": "chromosome",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɹəʊ.məˌsəʊm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chromosomes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A linear arrangement of condensed DNA and associated proteins (such as chaperone proteins) which contains the genetic material (genome) of an organism.",
+        "examples": [
+          "Chromosomes store genetic information."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cytology",
+          "genetics"
+        ],
+        "label_groups": "cytology , genetics"
+      }
+    ],
+    "main_definition": "( cytology , genetics ) A linear arrangement of condensed DNA and associated proteins (such as chaperone proteins) which contains the genetic material (genome) of an organism.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "tofu",
+    "lemma": "tofu",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtoʊfu/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tofus"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A protein - rich food made from curdled soy milk .",
+        "examples": [],
+        "synonyms": [
+          "bean curd",
+          "soycheese",
+          "dubu",
+          "doufu"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A box or rectangle , empty or with a question mark or hexadecimal code inside, displayed by some systems in place of a character not supported by available fonts. ( such as □ or 𐕪 )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "typography"
+        ],
+        "label_groups": "computing , typography"
+      }
+    ],
+    "main_definition": "A protein - rich food made from curdled soy milk .",
+    "secondary_definitions": [
+      "( computing , typography ) A box or rectangle , empty or with a question mark or hexadecimal code inside, displayed by some systems in place of a character not supported by available fonts. ( such as □ or 𐕪 )"
+    ]
+  }
+]

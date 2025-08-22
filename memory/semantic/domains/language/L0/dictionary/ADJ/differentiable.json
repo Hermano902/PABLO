@@ -1,0 +1,51 @@
+[
+  {
+    "word": "differentiable",
+    "lemma": "differentiable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌdɪf.ə(ɹ)ˈɛn.ʃə.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more differentiable",
+          "SUP": "most differentiable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a derivative , said of a function whose domain and codomain are manifolds .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus",
+          "not comparable"
+        ],
+        "label_groups": "calculus , not comparable"
+      },
+      {
+        "definition": "able to be differentiated ; distinguishable , as for example by differing appearance or measurable characteristics.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable",
+          "of multiple items"
+        ],
+        "label_groups": "comparable , of multiple items"
+      }
+    ],
+    "main_definition": "( calculus , not comparable ) Having a derivative , said of a function whose domain and codomain are manifolds .",
+    "secondary_definitions": [
+      "( comparable , of multiple items ) able to be differentiated ; distinguishable , as for example by differing appearance or measurable characteristics."
+    ]
+  }
+]

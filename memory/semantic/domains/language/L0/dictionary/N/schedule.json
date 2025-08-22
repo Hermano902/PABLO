@@ -1,0 +1,130 @@
+[
+  {
+    "word": "schedule",
+    "lemma": "schedule",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛdjuːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "schedules"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A procedural plan , usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur.",
+        "examples": [
+          "To complete on time, we must follow the schedule ."
+        ],
+        "synonyms": [
+          "timeline",
+          "timetable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "A serial record of items , systematically arranged.",
+        "examples": [],
+        "synonyms": [
+          "catalog",
+          "list",
+          "listing",
+          "register",
+          "registry",
+          "table"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract.",
+        "examples": [
+          "schedule of tribes"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "One of the five divisions into which controlled substances are classified, or the restrictions denoted by such classification.",
+            "examples": [
+              "Heroin is a Schedule I drug with a high potential for abuse."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US",
+              "law",
+              "often capitalized"
+            ],
+            "label_groups": "US , law , often capitalized",
+            "dating_raw": "from 20th c."
+          },
+          {
+            "definition": "One of the nine schedules of the Standard for the Uniform Scheduling of Medicines and Poisons . Identical to the American usage above.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Australia",
+              "law",
+              "medicine"
+            ],
+            "label_groups": "Australia , law , medicine"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "An allocation or ordering of a set of tasks on one or several resources.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "A slip of paper; a short note .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "14th–17th c."
+      }
+    ],
+    "main_definition": "A procedural plan , usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur. [from 19th c.]",
+    "secondary_definitions": [
+      "A serial record of items , systematically arranged.",
+      "( law ) A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract. [from 15th c.]",
+      "( computer science ) An allocation or ordering of a set of tasks on one or several resources. [from 20th c.]",
+      "( obsolete ) A slip of paper; a short note . [14th–17th c.]"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "rewrite",
+    "lemma": "rewrite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiː.ɹaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rewrites",
+          "PT": "rewrote",
+          "PAP": "rewritten",
+          "PRP": "rewriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To write again , differently ; to modify ; to revise .",
+        "examples": [
+          "The editor asked me to rewrite my article for a non-technical audience."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To write again (without changes).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To replace subterms of a formula with other terms , according to certain rules , by way of transformation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computing"
+        ],
+        "label_groups": "mathematics , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To write again , differently ; to modify ; to revise .",
+    "secondary_definitions": [
+      "( transitive ) To write again (without changes).",
+      "( mathematics , computing ) To replace subterms of a formula with other terms , according to certain rules , by way of transformation ."
+    ]
+  }
+]

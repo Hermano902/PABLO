@@ -1,0 +1,63 @@
+[
+  {
+    "word": "disagree",
+    "lemma": "disagree",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsəˈɡɹiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disagrees",
+          "PT": "disagreed",
+          "PAP": "disagreed",
+          "PRP": "disagreeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fail to agree ; to have a different opinion or belief.",
+        "examples": [
+          "John disagreed with Mary frequently.",
+          "Bob says cats are friendlier than dogs, but I disagree ."
+        ],
+        "synonyms": [
+          "beg to differ",
+          "quarrel",
+          "dispute"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To fail to conform or correspond with.",
+        "examples": [
+          "My results in the laboratory consistently disagree with yours."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To fail to agree ; to have a different opinion or belief.",
+    "secondary_definitions": [
+      "( intransitive ) To fail to conform or correspond with."
+    ]
+  }
+]

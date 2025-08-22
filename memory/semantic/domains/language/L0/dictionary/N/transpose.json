@@ -1,0 +1,77 @@
+[
+  {
+    "word": "transpose",
+    "lemma": "transpose",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈpəʊz/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transposes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( linear algebra ) The matrix derived from performing a transpose operation on a given matrix.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( graph theory ) A graph whose every edge has had its direction reversed.",
+        "examples": [],
+        "synonyms": [
+          "converse",
+          "reverse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( linear algebra ) The matrix derived from performing a transpose operation on a given matrix.",
+    "secondary_definitions": [
+      "( graph theory ) A graph whose every edge has had its direction reversed."
+    ]
+  },
+  {
+    "word": "transpose",
+    "lemma": "transpose",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/tɹænsˈpəʊz/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transposes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of rearranging elements in a matrix , by interchanging their respective row and column positional indicators.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      }
+    ],
+    "main_definition": "( linear algebra ) The process of rearranging elements in a matrix , by interchanging their respective row and column positional indicators.",
+    "secondary_definitions": []
+  }
+]

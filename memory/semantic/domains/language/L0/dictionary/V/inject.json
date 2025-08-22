@@ -1,0 +1,133 @@
+[
+  {
+    "word": "inject",
+    "lemma": "inject",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈd͡ʒɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "injects",
+          "PT": "injected",
+          "PAP": "injected",
+          "PRP": "injecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To push or pump (something, especially fluids) into a cavity or passage .",
+        "examples": [
+          "The nurse injected a painkilling drug into the veins of my forearm."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To introduce (something) suddenly or violently.",
+        "examples": [
+          "Punk injected a much-needed sense of urgency into the British music scene."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To administer an injection to (someone or something), especially of medicine or drugs.",
+        "examples": [
+          "Now lie back while we inject you with the anesthetic.",
+          "to inject the blood vessels"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take or be administered something by means of injection, especially medicine or drugs.",
+        "examples": [
+          "It's been a week since I stopped injecting , and I'm still in withdrawal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To introduce ( code ) into an existing program or its memory space, often without tight integration and sometimes through a security vulnerability .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To cast or throw; used with on .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To introduce or add (something that is different or foreign).",
+        "examples": [
+          "inject something into orbit",
+          "inject some spice into my life"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To push or pump (something, especially fluids) into a cavity or passage .",
+    "secondary_definitions": [
+      "( transitive ) To introduce (something) suddenly or violently.",
+      "( transitive ) To administer an injection to (someone or something), especially of medicine or drugs.",
+      "( intransitive ) To take or be administered something by means of injection, especially medicine or drugs.",
+      "( transitive , computing ) To introduce ( code ) into an existing program or its memory space, often without tight integration and sometimes through a security vulnerability .",
+      "( obsolete , transitive ) To cast or throw; used with on .",
+      "( transitive ) To introduce or add (something that is different or foreign)."
+    ]
+  }
+]

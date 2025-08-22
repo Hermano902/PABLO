@@ -1,0 +1,49 @@
+[
+  {
+    "word": "implementation",
+    "lemma": "implementation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪmplɪmənˈteɪʃn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "implementations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of moving an idea from concept to reality . In business , engineering and other fields, implementation refers to the building process rather than the design process.",
+        "examples": [
+          "Now that the requirements are complete we can move on to implementation ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A result of implementing something; a finished product , system or device .",
+        "examples": [
+          "His implementation works, but it needs some fine-tuning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "The process of moving an idea from concept to reality . In business , engineering and other fields, implementation refers to the building process rather than the design process.",
+    "secondary_definitions": [
+      "( electronics ) A result of implementing something; a finished product , system or device ."
+    ]
+  }
+]

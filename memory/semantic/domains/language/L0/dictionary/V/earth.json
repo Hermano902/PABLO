@@ -1,0 +1,85 @@
+[
+  {
+    "word": "earth",
+    "lemma": "earth",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɜːθ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "earths",
+          "PT": "earthed",
+          "PAP": "earthed",
+          "PRP": "earthing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To connect electrically to the earth.",
+        "examples": [
+          "That noise is because the amplifier is not properly earthed ."
+        ],
+        "synonyms": [
+          "ground"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "transitive"
+        ],
+        "label_groups": "UK , transitive"
+      },
+      {
+        "definition": "To bury .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hide , or cause to hide, in the earth; to chase into a burrow or den .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To burrow .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( UK , transitive ) To connect electrically to the earth.",
+    "secondary_definitions": [
+      "( transitive ) To bury .",
+      "( transitive ) To hide , or cause to hide, in the earth; to chase into a burrow or den .",
+      "( intransitive ) To burrow ."
+    ]
+  }
+]

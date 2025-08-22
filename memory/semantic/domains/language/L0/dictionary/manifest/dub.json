@@ -1,0 +1,38 @@
+{
+  "word": "dub",
+  "pos_order": [
+    "V",
+    "V:2",
+    "N",
+    "N:2",
+    "V:3",
+    "N:3",
+    "N:4",
+    "N:5",
+    "V:4",
+    "N:6",
+    "N:7",
+    "N:8"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 18,
+      "examples": 1,
+      "synonyms": 7,
+      "antonyms": 0,
+      "inflections": 16
+    },
+    "N": {
+      "definitions": 16,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dub.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dub.json"
+  },
+  "timestamp": "2025-08-19T02:27:27.556117Z"
+}

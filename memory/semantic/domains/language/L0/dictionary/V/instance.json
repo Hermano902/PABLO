@@ -1,0 +1,81 @@
+[
+  {
+    "word": "instance",
+    "lemma": "instance",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnstəns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "instances",
+          "PT": "instanced",
+          "PAP": "instanced",
+          "PRP": "instancing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mention as a case or example ; to refer to; to cite",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cite an example as proof ; to exemplify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To duplicate (a dungeon or other area) for each player , or each party of players, that enters it, so that each player or party has a private copy of the area, isolated from other players.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "massively multiplayer online games"
+        ],
+        "label_groups": "massively multiplayer online games"
+      },
+      {
+        "definition": "To render (an object) as part of a batch , using the same geometry data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer graphics"
+        ],
+        "label_groups": "transitive , computer graphics"
+      }
+    ],
+    "main_definition": "( transitive ) To mention as a case or example ; to refer to; to cite",
+    "secondary_definitions": [
+      "( intransitive ) To cite an example as proof ; to exemplify .",
+      "( massively multiplayer online games ) To duplicate (a dungeon or other area) for each player , or each party of players, that enters it, so that each player or party has a private copy of the area, isolated from other players.",
+      "( transitive , computer graphics ) To render (an object) as part of a batch , using the same geometry data ."
+    ]
+  }
+]

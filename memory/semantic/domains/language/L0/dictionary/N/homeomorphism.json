@@ -1,0 +1,49 @@
+[
+  {
+    "word": "homeomorphism",
+    "lemma": "homeomorphism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "homeomorphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "a continuous bijection from one topological space to another, with continuous inverse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "a similarity in the crystal structure of unrelated compounds",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "( topology ) a continuous bijection from one topological space to another, with continuous inverse .",
+    "secondary_definitions": [
+      "( chemistry ) a similarity in the crystal structure of unrelated compounds"
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "word": "shadow",
+    "lemma": "shadow",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃædəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shadows",
+          "PT": "shadowed",
+          "PAP": "shadowed",
+          "PRP": "shadowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To shade , cloud , or darken .",
+        "examples": [
+          "The artist chose to shadow this corner of the painting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To block light or radio transmission from.",
+        "examples": [
+          "Looks like that cloud's going to shadow us."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To secretly or discreetly track or follow another, to keep under surveillance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "particularly espionage"
+        ],
+        "label_groups": "particularly espionage"
+      },
+      {
+        "definition": "To represent faintly and imperfectly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hide ; to conceal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To accompany (a professional ) during the working day, so as to learn about an occupation one intends to take up.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (an identifier , usually a variable ) inaccessible by declaring another of the same name within the scope of the first.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To apply the shadowing process to (the contents of ROM ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To shade , cloud , or darken .",
+    "secondary_definitions": [
+      "( transitive ) To block light or radio transmission from.",
+      "( particularly espionage ) To secretly or discreetly track or follow another, to keep under surveillance .",
+      "( transitive ) To represent faintly and imperfectly.",
+      "( transitive ) To hide ; to conceal .",
+      "( transitive ) To accompany (a professional ) during the working day, so as to learn about an occupation one intends to take up.",
+      "( transitive , programming ) To make (an identifier , usually a variable ) inaccessible by declaring another of the same name within the scope of the first.",
+      "( transitive , computing ) To apply the shadowing process to (the contents of ROM )."
+    ]
+  }
+]

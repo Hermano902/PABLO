@@ -1,0 +1,113 @@
+[
+  {
+    "word": "exogenous",
+    "lemma": "exogenous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɛkˈsɒd͡ʒ.ɪ.nəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having an external cause.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Produced or originating outside of the referent organism .",
+            "examples": [],
+            "synonyms": [
+              "xenobiotic"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology"
+            ],
+            "label_groups": "biology"
+          },
+          {
+            "definition": "Growing as an exogen , by successive additions to the outside.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology"
+            ],
+            "label_groups": "biology"
+          },
+          {
+            "definition": "Having a cause external to the infected organism.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a disease"
+            ],
+            "label_groups": "medicine , of a disease"
+          },
+          {
+            "definition": "Being or relating to a change that comes from outside the model and is not explained by the model.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "economics",
+              "of a model"
+            ],
+            "label_groups": "economics , of a model"
+          },
+          {
+            "definition": "Having no meaning in itself, such as an automatically generated sequential identifier.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "databases",
+              "of a key"
+            ],
+            "label_groups": "databases , of a key"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Related to the exogen growth phase.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "dermatology",
+          "uncommon"
+        ],
+        "label_groups": "biology , dermatology , uncommon"
+      }
+    ],
+    "main_definition": "Having an external cause.",
+    "secondary_definitions": [
+      "( biology , dermatology , uncommon ) Related to the exogen growth phase."
+    ]
+  }
+]

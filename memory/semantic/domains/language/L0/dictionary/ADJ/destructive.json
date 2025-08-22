@@ -1,0 +1,58 @@
+[
+  {
+    "word": "destructive",
+    "lemma": "destructive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈstɹʌktɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more destructive",
+          "SUP": "most destructive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Causing destruction ; damaging .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing breakdown or disassembly .",
+        "examples": [
+          "Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Lossy ; causing irreversible change .",
+        "examples": [
+          "Blurring an image is a destructive operation, but rotating an image is not."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Causing destruction ; damaging .",
+    "secondary_definitions": [
+      "Causing breakdown or disassembly .",
+      "( computing ) Lossy ; causing irreversible change ."
+    ]
+  }
+]

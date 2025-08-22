@@ -1,0 +1,41 @@
+{
+  "word": "stick",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "ADJ",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 61,
+      "examples": 21,
+      "synonyms": 23,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 26,
+      "examples": 13,
+      "synonyms": 35,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stick.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stick.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\stick.json"
+  },
+  "timestamp": "2025-08-19T17:59:57.834974Z"
+}

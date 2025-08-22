@@ -1,0 +1,51 @@
+[
+  {
+    "word": "sublanguage",
+    "lemma": "sublanguage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sublanguages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A subset of a language , in particular of a programming language .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A language restricted to a specific context, such as a particular subject area.",
+        "examples": [
+          "the sublanguage of weather bulletins"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "( computing ) A subset of a language , in particular of a programming language .",
+    "secondary_definitions": [
+      "( linguistics ) A language restricted to a specific context, such as a particular subject area."
+    ]
+  }
+]

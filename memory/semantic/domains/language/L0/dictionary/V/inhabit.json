@@ -1,0 +1,62 @@
+[
+  {
+    "word": "inhabit",
+    "lemma": "inhabit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhæbɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inhabits",
+          "PT": "inhabited",
+          "PAP": "inhabited",
+          "PRP": "inhabiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To live or reside in.",
+        "examples": [
+          "The Inuit inhabit the Arctic."
+        ],
+        "synonyms": [
+          "bedwell"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be present in.",
+        "examples": [
+          "Strange thoughts inhabit my mind."
+        ],
+        "synonyms": [
+          "occupy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To live or reside in.",
+    "secondary_definitions": [
+      "( transitive ) To be present in."
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "tailgate",
+    "lemma": "tailgate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈteɪlˌɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tailgates",
+          "PT": "tailgated",
+          "PAP": "tailgated",
+          "PRP": "tailgating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To drive dangerously close behind another vehicle .",
+        "examples": [
+          "That idiot has been tailgating me for the last five minutes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive",
+          "intransitive",
+          "transitive"
+        ],
+        "label_groups": "automotive , intransitive , transitive"
+      },
+      {
+        "definition": "To follow another person through access control on their access, rather than on one’s own credentials , especially when entering a door controlled by a card reader .",
+        "examples": [],
+        "synonyms": [
+          "piggyback",
+          "draft"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To privately purchase or sell a security immediately after trading in the same security for a client.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance",
+          "of a broker"
+        ],
+        "label_groups": "finance , of a broker"
+      },
+      {
+        "definition": "To have a tailgate party .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "intransitive"
+        ],
+        "label_groups": "US , intransitive"
+      }
+    ],
+    "main_definition": "( automotive , intransitive , transitive ) To drive dangerously close behind another vehicle .",
+    "secondary_definitions": [
+      "To follow another person through access control on their access, rather than on one’s own credentials , especially when entering a door controlled by a card reader .",
+      "( finance , of a broker ) To privately purchase or sell a security immediately after trading in the same security for a client.",
+      "( US , intransitive ) To have a tailgate party ."
+    ]
+  }
+]

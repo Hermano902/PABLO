@@ -1,0 +1,123 @@
+[
+  {
+    "word": "continuous",
+    "lemma": "continuous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɪn.juː.əs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Without stopping; without a break , cessation , or interruption .",
+        "examples": [
+          "a continuous current of electricity"
+        ],
+        "synonyms": [
+          "perpetual",
+          "nonstop",
+          "incessant",
+          "ongoing"
+        ],
+        "antonyms": [
+          "broken",
+          "discontinuous",
+          "discrete",
+          "intermittent",
+          "interrupted"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Without intervening space; continued .",
+        "examples": [
+          "a continuous line of railroad"
+        ],
+        "synonyms": [
+          "protracted",
+          "extended",
+          "connected",
+          "continued",
+          "unbroken"
+        ],
+        "antonyms": [
+          "broken",
+          "disconnected",
+          "disjoint"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not deviating or varying from uniformity ; not interrupted; not joined or articulated.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "Such that, for every x in the domain , for each small open interval D about f ( x ), there's an interval containing x whose image is in D .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "of a function"
+        ],
+        "label_groups": "mathematical analysis , of a function"
+      },
+      {
+        "definition": "Such that each open set in the target space has an open preimage (in the domain space, with respect to the given function).",
+        "examples": [
+          "Each continuous function from the real line to the rationals is constant, since the rationals are totally disconnected."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "more generally",
+          "of a function between two topological spaces"
+        ],
+        "label_groups": "mathematics , more generally , of a function between two topological spaces"
+      },
+      {
+        "definition": "Expressing an ongoing action or state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "Without stopping; without a break , cessation , or interruption .",
+    "secondary_definitions": [
+      "Without intervening space; continued .",
+      "( botany ) Not deviating or varying from uniformity ; not interrupted; not joined or articulated.",
+      "( mathematical analysis , of a function ) Such that, for every x in the domain , for each small open interval D about f ( x ), there's an interval containing x whose image is in D .",
+      "( mathematics , more generally , of a function between two topological spaces ) Such that each open set in the target space has an open preimage (in the domain space, with respect to the given function).",
+      "( grammar ) Expressing an ongoing action or state."
+    ]
+  }
+]

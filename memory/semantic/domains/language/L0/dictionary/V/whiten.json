@@ -1,0 +1,74 @@
+[
+  {
+    "word": "whiten",
+    "lemma": "whiten",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈ(h)waɪ̯.tən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "whitens",
+          "PT": "whitened",
+          "PAP": "whitened",
+          "PRP": "whitening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to become white or whiter ; to bleach or blanch .",
+        "examples": [
+          "Age had whitened his hair.",
+          "The trees in spring whiten with blossoms."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative",
+          "To cause"
+        ],
+        "label_groups": [
+          "ergative",
+          "To cause"
+        ]
+      },
+      {
+        "definition": "To increase the security of an iterated block cipher by steps that combine the data with portions of the key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "To normalize data so that the covariance matrix becomes the identity matrix ; i.e., to remove correlations so each variable has unit variance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( ergative ) (To cause) to become white or whiter ; to bleach or blanch .",
+    "secondary_definitions": [
+      "( cryptography ) To increase the security of an iterated block cipher by steps that combine the data with portions of the key .",
+      "( statistics ) To normalize data so that the covariance matrix becomes the identity matrix ; i.e., to remove correlations so each variable has unit variance."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "word": "crowd",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 9,
+      "examples": 4,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\crowd.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\crowd.json"
+  },
+  "timestamp": "2025-08-19T01:06:07.349051Z"
+}

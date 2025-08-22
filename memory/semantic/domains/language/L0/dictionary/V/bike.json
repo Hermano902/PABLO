@@ -1,0 +1,73 @@
+[
+  {
+    "word": "bike",
+    "lemma": "bike",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/baɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bikes",
+          "PT": "biked",
+          "PAP": "biked",
+          "PRP": "biking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ride a bike.",
+        "examples": [
+          "I biked so much yesterday that I'm very sore today."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To travel by bike.",
+        "examples": [
+          "It was such a nice day I decided to bike to the store, though it's far enough I usually take my car."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transport by bicycle.",
+        "examples": [
+          "I biked them the letters."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To ride a bike.",
+    "secondary_definitions": [
+      "( intransitive ) To travel by bike.",
+      "( transitive ) To transport by bicycle."
+    ]
+  }
+]

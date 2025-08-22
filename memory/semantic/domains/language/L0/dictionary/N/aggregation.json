@@ -1,0 +1,102 @@
+[
+  {
+    "word": "aggregation",
+    "lemma": "aggregation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/æɡɹəˈɡeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "aggregations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of collecting together, of aggregating .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being collected into a mass, assemblage , or (aggregated) sum.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A collection of particulars; an aggregate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Summarizing multiple routes into one route.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "The majority of the parasite population concentrated into a minority of the host population.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "epidemiology"
+        ],
+        "label_groups": "epidemiology"
+      },
+      {
+        "definition": "Kind of object composition which does not imply ownership.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A component of natural language generation that entails combining syntactic elements.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "The act of collecting together, of aggregating .",
+    "secondary_definitions": [
+      "The state of being collected into a mass, assemblage , or (aggregated) sum.",
+      "A collection of particulars; an aggregate .",
+      "( networking ) Summarizing multiple routes into one route.",
+      "( epidemiology ) The majority of the parasite population concentrated into a minority of the host population.",
+      "( object-oriented programming ) Kind of object composition which does not imply ownership.",
+      "( linguistics ) A component of natural language generation that entails combining syntactic elements."
+    ]
+  }
+]

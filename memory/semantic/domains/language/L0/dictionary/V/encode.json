@@ -1,0 +1,77 @@
+[
+  {
+    "word": "encode",
+    "lemma": "encode",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkoʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "encodes",
+          "PT": "encoded",
+          "PAP": "encoded",
+          "PRP": "encoding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert ( plain text ) into code .",
+        "examples": [
+          "encode a secret message to be sent"
+        ],
+        "synonyms": [
+          "encipher",
+          "encrypt"
+        ],
+        "antonyms": [
+          "decode",
+          "decipher",
+          "decrypt"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To convert source information into another form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "communication"
+        ],
+        "label_groups": "transitive , communication"
+      },
+      {
+        "definition": "To constitute the code necessary for the biosynthesis of a protein by means of a matrix so as to transcribe DNA material .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "( transitive ) To convert ( plain text ) into code .",
+    "secondary_definitions": [
+      "( transitive , communication ) To convert source information into another form.",
+      "( biology ) To constitute the code necessary for the biosynthesis of a protein by means of a matrix so as to transcribe DNA material ."
+    ]
+  }
+]

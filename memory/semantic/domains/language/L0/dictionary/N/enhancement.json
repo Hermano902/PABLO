@@ -1,0 +1,49 @@
+[
+  {
+    "word": "enhancement",
+    "lemma": "enhancement",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhɑːns.mənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "enhancements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An improvement or supplement that tends to increase a sense of esteem.",
+        "examples": [
+          "The original product, with its simplistic design, has undergone many enhancements over the years."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "dehancement"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The degree to which the image of a scan stands out as a bright area.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radiology"
+        ],
+        "label_groups": "radiology"
+      }
+    ],
+    "main_definition": "An improvement or supplement that tends to increase a sense of esteem.",
+    "secondary_definitions": [
+      "( radiology ) The degree to which the image of a scan stands out as a bright area."
+    ]
+  }
+]

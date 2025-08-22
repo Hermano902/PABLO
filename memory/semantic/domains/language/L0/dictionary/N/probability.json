@@ -1,0 +1,65 @@
+[
+  {
+    "word": "probability",
+    "lemma": "probability",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɹɒbəˈbɪlɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "probabilities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state of being probable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An event that is likely to occur.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The relative likelihood of an event happening.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A number , between 0 and 1, expressing the precise likelihood of an event happening.",
+        "examples": [
+          "The probability of an event A occurring is denoted P(A)."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "The state of being probable .",
+    "secondary_definitions": [
+      "An event that is likely to occur.",
+      "The relative likelihood of an event happening.",
+      "( mathematics ) A number , between 0 and 1, expressing the precise likelihood of an event happening."
+    ]
+  }
+]

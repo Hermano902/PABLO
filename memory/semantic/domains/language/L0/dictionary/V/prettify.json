@@ -1,0 +1,56 @@
+[
+  {
+    "word": "prettify",
+    "lemma": "prettify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɪtɪfʌɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prettifies",
+          "PT": "prettified",
+          "PAP": "prettified",
+          "PRP": "prettifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make pretty or prettier, to make more attractive , especially only in a superficial way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "Synonym of pretty-print .",
+        "examples": [],
+        "synonyms": [
+          "beautify"
+        ],
+        "antonyms": [
+          "minify",
+          "uglify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "To make pretty or prettier, to make more attractive , especially only in a superficial way. [from 17th c.]",
+    "secondary_definitions": [
+      "( programming ) Synonym of pretty-print ."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "word": "waste",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADJ:2",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\waste.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\waste.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\waste.json"
+  },
+  "timestamp": "2025-08-19T20:45:50.731603Z"
+}

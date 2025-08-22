@@ -1,0 +1,41 @@
+{
+  "word": "grave",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "N:3",
+    "V:2",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 10,
+      "antonyms": 4,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\grave.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\grave.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\grave.json"
+  },
+  "timestamp": "2025-08-19T04:43:30.777950Z"
+}

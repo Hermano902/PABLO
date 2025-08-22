@@ -1,0 +1,99 @@
+[
+  {
+    "word": "plead",
+    "lemma": "plead",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pliːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pleads",
+          "PT": "pleaded",
+          "PAP": "pleaded",
+          "PRP": "pleading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To present (an argument or a plea ), especially in a legal case.",
+        "examples": [
+          "The defendant has decided to plead not guilty."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "copulative"
+        ],
+        "label_groups": "ambitransitive , copulative"
+      },
+      {
+        "definition": "To beg, beseech, or implore, especially emotionally.",
+        "examples": [
+          "He pleaded with me not to leave the house.",
+          "He was pleading for mercy."
+        ],
+        "synonyms": [
+          "appeal",
+          "ask",
+          "beg",
+          "request"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To offer by way of excuse .",
+        "examples": [
+          "Not wishing to attend the banquet, I pleaded illness.",
+          "It is no defence to plead that you were only obeying orders."
+        ],
+        "synonyms": [
+          "allege",
+          "claim",
+          "cry",
+          "maintain"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To discuss by arguments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive , copulative ) To present (an argument or a plea ), especially in a legal case.",
+    "secondary_definitions": [
+      "( intransitive ) To beg, beseech, or implore, especially emotionally.",
+      "( transitive ) To offer by way of excuse .",
+      "( transitive ) To discuss by arguments ."
+    ]
+  }
+]

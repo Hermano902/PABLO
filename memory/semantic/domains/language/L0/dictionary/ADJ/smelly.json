@@ -1,0 +1,67 @@
+[
+  {
+    "word": "smelly",
+    "lemma": "smelly",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsmɛli/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "smellier",
+          "SUP": "smelliest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a bad smell .",
+        "examples": [
+          "She was hesitant to remove her shoes, as her socks were rather smelly ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a quality that arouses suspicion .",
+        "examples": [
+          "The detective read the documents and thought, \"Something sure is smelly about this case.\""
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Having signs that suggest a design problem; having a code smell .",
+        "examples": [
+          "That smelly code needs to be refactored."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively",
+          "computing",
+          "slang",
+          "in extreme programming"
+        ],
+        "label_groups": "figuratively , computing , slang , in extreme programming"
+      }
+    ],
+    "main_definition": "Having a bad smell .",
+    "secondary_definitions": [
+      "( figuratively ) Having a quality that arouses suspicion .",
+      "( figuratively , computing , slang , in extreme programming ) Having signs that suggest a design problem; having a code smell ."
+    ]
+  }
+]

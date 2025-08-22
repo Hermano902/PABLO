@@ -1,0 +1,76 @@
+[
+  {
+    "word": "disavow",
+    "lemma": "disavow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsəˈvaʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disavows",
+          "PT": "disavowed",
+          "PAP": "disavowed",
+          "PRP": "disavowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strongly and solemnly refuse to own or acknowledge ; to deny responsibility for, approbation of, and the like.",
+        "examples": [
+          "He was charged with embezzlement, but he disavows the crime."
+        ],
+        "synonyms": [
+          "abjure",
+          "deny",
+          "disclaim",
+          "disown",
+          "reject"
+        ],
+        "antonyms": [
+          "accept",
+          "own up"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deny ; to show the contrary of; to deny legitimacy or achievement of any kind.",
+        "examples": [
+          "Because of her dissatisfaction, she now disavows the merits of fascism."
+        ],
+        "synonyms": [
+          "disprove",
+          "deny",
+          "impugn",
+          "reject",
+          "repudiate"
+        ],
+        "antonyms": [
+          "accept",
+          "prove"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To strongly and solemnly refuse to own or acknowledge ; to deny responsibility for, approbation of, and the like.",
+    "secondary_definitions": [
+      "( transitive ) To deny ; to show the contrary of; to deny legitimacy or achievement of any kind."
+    ]
+  }
+]

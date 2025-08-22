@@ -1,0 +1,111 @@
+[
+  {
+    "word": "remote",
+    "lemma": "remote",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "[ɹɪˈməʊt]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "remoter",
+          "SUP": "remotest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "At a distance ; disconnected .",
+        "examples": [
+          "A remote operator may control the vehicle with a wireless handset.",
+          "remote workers"
+        ],
+        "synonyms": [
+          "disconnected",
+          "hands-free",
+          "wireless"
+        ],
+        "antonyms": [
+          "attached",
+          "connected",
+          "contiguous",
+          "direct",
+          "presential"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Distant or otherwise inaccessible .",
+        "examples": [
+          "After his fall from the emperor's favor, the general was posted to a remote outpost."
+        ],
+        "synonyms": [
+          "far",
+          "hidden"
+        ],
+        "antonyms": [
+          "close",
+          "near",
+          "proximate"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Slight .",
+        "examples": [
+          "There was only a remote possibility that we would be rescued as we were far outside of the regular shipping lanes.",
+          "They have a very remote chance of winning.",
+          "You have a remote resemblance to my grandmother."
+        ],
+        "synonyms": [
+          "distant",
+          "faint",
+          "small"
+        ],
+        "antonyms": [
+          "considerable",
+          "great",
+          "reasonable",
+          "sure"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially with respect to likelihood"
+        ],
+        "label_groups": "especially with respect to likelihood"
+      },
+      {
+        "definition": "Emotionally detached .",
+        "examples": [
+          "After her mother's death, my friend grew remote for a time while she dealt with her grief."
+        ],
+        "synonyms": [
+          "aloof",
+          "dispassionate",
+          "distant",
+          "removed",
+          "withdrawn"
+        ],
+        "antonyms": [
+          "companionable",
+          "intimate",
+          "involved",
+          "passionate"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "At a distance ; disconnected .",
+    "secondary_definitions": [
+      "Distant or otherwise inaccessible .",
+      "( especially with respect to likelihood ) Slight .",
+      "Emotionally detached ."
+    ]
+  }
+]

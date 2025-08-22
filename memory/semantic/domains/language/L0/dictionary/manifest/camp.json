@@ -1,0 +1,40 @@
+{
+  "word": "camp",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "ADJ",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 4,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\camp.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\camp.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\camp.json"
+  },
+  "timestamp": "2025-08-18T23:04:26.401174Z"
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "word": "font",
+    "lemma": "font",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fɒnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fonts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( Christianity ) A receptacle in a church for holy water , especially one used in baptism .",
+        "examples": [
+          "She dipped her fingers in the font and crossed herself ."
+        ],
+        "synonyms": [
+          "stoup"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A receptacle for lamp oil in a lamp .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( Christianity ) A receptacle in a church for holy water , especially one used in baptism .",
+    "secondary_definitions": [
+      "A receptacle for lamp oil in a lamp ."
+    ]
+  },
+  {
+    "word": "font",
+    "lemma": "font",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/fɒnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fonts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( typography ) A set of glyphs of unified design, belonging to one typeface (e.g., Helvetica), style (e.g., italic ), and weight (e.g., bold ). Usually representing the letters of an alphabet and its supplementary characters .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In metal typesetting , a set of type sorts in one size.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "In phototypesetting , a set of patterns forming glyphs of any size, or the film they are stored on.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "In digital typesetting, a set of glyphs in a single style, representing one or more alphabets or writing systems , or the computer code representing it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( originally computing , typography , informal ) A typeface .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing , typography , metonymic ) A computer file containing the code used to draw and compose the glyphs of one or more typographic fonts on a computer display or printer .",
+        "examples": [
+          "They bought a license for the Gulliver font and installed that font on several machines."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( typography ) A set of glyphs of unified design, belonging to one typeface (e.g., Helvetica), style (e.g., italic ), and weight (e.g., bold ). Usually representing the letters of an alphabet and its supplementary characters .",
+    "secondary_definitions": [
+      "( originally computing , typography , informal ) A typeface .",
+      "( computing , typography , metonymic ) A computer file containing the code used to draw and compose the glyphs of one or more typographic fonts on a computer display or printer ."
+    ]
+  },
+  {
+    "word": "font",
+    "lemma": "font",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 3,
+    "pronunciation": "/fɒnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fonts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A source , wellspring , fount .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( figuratively ) A source , wellspring , fount .",
+    "secondary_definitions": []
+  }
+]

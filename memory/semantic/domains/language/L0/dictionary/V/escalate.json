@@ -1,0 +1,88 @@
+[
+  {
+    "word": "escalate",
+    "lemma": "escalate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛs.kə.leɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "escalates",
+          "PT": "escalated",
+          "PAP": "escalated",
+          "PRP": "escalating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To increase (something) in extent or intensity ; to intensify or step up .",
+        "examples": [
+          "Violence escalated during the election.",
+          "The shooting escalated the existing hostility.",
+          "A small fight escalated into a big fight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "In technical support, to transfer a customer, a problem, etc. to the next higher level of authority",
+        "examples": [
+          "The tech 1 escalated the caller to a tech 2."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To climb .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncommon"
+        ],
+        "label_groups": "uncommon"
+      },
+      {
+        "definition": "To move by escalator .",
+        "examples": [],
+        "synonyms": [
+          "escalator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To increase (something) in extent or intensity ; to intensify or step up .",
+    "secondary_definitions": [
+      "( transitive ) In technical support, to transfer a customer, a problem, etc. to the next higher level of authority",
+      "( uncommon ) To climb .",
+      "( rare ) To move by escalator ."
+    ]
+  }
+]

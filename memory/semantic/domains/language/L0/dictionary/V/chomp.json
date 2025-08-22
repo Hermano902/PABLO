@@ -1,0 +1,58 @@
+[
+  {
+    "word": "chomp",
+    "lemma": "chomp",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tʃɒmp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "chomps",
+          "PT": "chomped",
+          "PAP": "chomped",
+          "PRP": "chomping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bite or chew loudly or heavily.",
+        "examples": [
+          "The dog chomped on the treat and swallowed it in one gulp."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To remove the final character from (a text string ) if it is a newline (or, less commonly, some other programmer-specified character).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive",
+          "Perl"
+        ],
+        "label_groups": "computing , transitive , Perl"
+      }
+    ],
+    "main_definition": "( intransitive ) To bite or chew loudly or heavily.",
+    "secondary_definitions": [
+      "( computing , transitive , Perl ) To remove the final character from (a text string ) if it is a newline (or, less commonly, some other programmer-specified character)."
+    ]
+  }
+]

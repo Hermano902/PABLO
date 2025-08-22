@@ -1,0 +1,81 @@
+[
+  {
+    "word": "disturb",
+    "lemma": "disturb",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈstɜːb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disturbs",
+          "PT": "disturbed",
+          "PAP": "disturbed",
+          "PRP": "disturbing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to confuse a quiet , constant state or a calm , continuous flow , in particular: thoughts , actions or liquids .",
+        "examples": [
+          "The noisy ventilation disturbed me during the exam.",
+          "The performance was disturbed twice by a ringing mobile phone.",
+          "A school of fish disturbed the water."
+        ],
+        "synonyms": [
+          "perturb",
+          "unsettle",
+          "agitate",
+          "muddle",
+          "roil",
+          "trouble"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to divert , redirect , or alter by disturbing.",
+        "examples": [
+          "A mudslide disturbed the course of the river.",
+          "The trauma disturbed his mind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to have a negative emotional impact ; to cause emotional distress or confusion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) to confuse a quiet , constant state or a calm , continuous flow , in particular: thoughts , actions or liquids .",
+    "secondary_definitions": [
+      "( transitive ) to divert , redirect , or alter by disturbing.",
+      "( intransitive ) to have a negative emotional impact ; to cause emotional distress or confusion ."
+    ]
+  }
+]

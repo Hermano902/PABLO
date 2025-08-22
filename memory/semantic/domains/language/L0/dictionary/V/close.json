@@ -1,0 +1,433 @@
+[
+  {
+    "word": "close",
+    "lemma": "close",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kləʊz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "closes",
+          "PT": "closed",
+          "PAP": "closed",
+          "PRP": "closing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove or block an opening , gap or passage through.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To move a thing, or part of a thing, nearer to another so that the gap or opening between the two is removed .",
+            "examples": [
+              "Close the door behind you when you leave.",
+              "Many flowers close at night.",
+              "Jim closed his eyes and reclined back in his chair.",
+              "The runner in second place is closing the gap on the leader."
+            ],
+            "synonyms": [
+              "close up",
+              "shut"
+            ],
+            "antonyms": [
+              "open"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ambitransitive"
+            ],
+            "label_groups": "ambitransitive"
+          },
+          {
+            "definition": "To obstruct or block .",
+            "examples": [
+              "They closed the road for the festival.",
+              "Ice has closed the channel to shipping."
+            ],
+            "synonyms": [
+              "close off",
+              "close up",
+              "shut",
+              "shut off"
+            ],
+            "antonyms": [
+              "open"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To become denser or more crowded with objects.",
+            "examples": [
+              "As we penetrated further, the forest closed around us."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To make or become unreceptive .",
+            "examples": [
+              "He has closed his mind to new ideas."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figuratively",
+              "transitive",
+              "intransitive"
+            ],
+            "label_groups": "figuratively , transitive , intransitive"
+          },
+          {
+            "definition": "To move to a position preventing fluid from flowing.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "engineering",
+              "gas",
+              "liquid flow",
+              "of valve or damper"
+            ],
+            "label_groups": "transitive , intransitive , engineering , gas and liquid flow , of valve or damper"
+          },
+          {
+            "definition": "To move to a position allowing electricity to flow.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "electricity",
+              "of a switch",
+              "fuse or circuit breaker"
+            ],
+            "label_groups": "transitive , intransitive , electricity , of a switch, fuse or circuit breaker"
+          },
+          {
+            "definition": "To grapple ; to engage in close combat .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To angle (a club , bat or other hitting implement) downwards and/or  (for a right-hander ) anticlockwise of straight.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "especially sports"
+            ],
+            "label_groups": "transitive , intransitive , especially sports"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physical"
+        ],
+        "label_groups": "physical"
+      },
+      {
+        "definition": "To finish.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To end or conclude .",
+            "examples": [
+              "The committee chairman made a few concluding remarks and then closed the session.",
+              "to close a bargain;   to close a course of instruction"
+            ],
+            "synonyms": [
+              "complete",
+              "end",
+              "finish",
+              "wind up",
+              "wrap up"
+            ],
+            "antonyms": [
+              "begin",
+              "commence",
+              "initiate",
+              "start"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To finish; to come to an end.",
+            "examples": [
+              "The debate closed at six o'clock."
+            ],
+            "synonyms": [
+              "end",
+              "finish",
+              "wind up",
+              "wrap up"
+            ],
+            "antonyms": [
+              "begin",
+              "commence",
+              "start"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To conclude (a sale ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ergative",
+              "marketing"
+            ],
+            "label_groups": "ergative , marketing"
+          },
+          {
+            "definition": "To perform as the final act at (a show etc.).",
+            "examples": [
+              "Nirvana closed the festival."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To make the final outs , usually three, of a game.",
+            "examples": [
+              "He has closed the last two games for his team."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "baseball",
+              "pitching"
+            ],
+            "label_groups": "transitive , baseball , pitching"
+          },
+          {
+            "definition": "To cancel or reverse (a trading position).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "finance"
+            ],
+            "label_groups": "transitive , finance"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To make or become non-operational or unavailable for use.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To put out of use or operation.",
+            "examples": [
+              "We are closing the phone lines at 9 pm.",
+              "Your account has been closed because of non-payment.",
+              "They closed the airport because of a bomb scare."
+            ],
+            "synonyms": [
+              "close down"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To cease operation or cease to be available.",
+            "examples": [
+              "Phone lines will close in ten minutes.",
+              "Our options are closing fast."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To cease trading for the day, or permanently.",
+            "examples": [
+              "The supermarket closes at eight o'clock.",
+              "Lots of shops in the town centre have closed because of the recession.",
+              "The FTSE 100 closed up 1.2%."
+            ],
+            "synonyms": [
+              "shut"
+            ],
+            "antonyms": [
+              "open"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "of a business",
+              "market etc."
+            ],
+            "label_groups": "intransitive , of a business , market etc."
+          },
+          {
+            "definition": "To do the tasks (putting things away, locking doors, etc.) required to prepare a store or other establishment to shut down for the night.",
+            "examples": [
+              "Whoever closed last night forgot to turn off the closet light."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To terminate an application , window , file or database connection , etc.",
+            "examples": [
+              "Close the file when you have finished reading data.",
+              "This app has a bug: when you try to sort a large spreadsheet, it closes ."
+            ],
+            "synonyms": [
+              "exit"
+            ],
+            "antonyms": [
+              "launch",
+              "open",
+              "start"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ergative",
+              "computing"
+            ],
+            "label_groups": "ergative , computing"
+          },
+          {
+            "definition": "To turn off ; to switch off .",
+            "examples": [
+              "Please close the lights, the (electric) fan, the TV."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Philippines",
+              "Quebec",
+              "Greece",
+              "Cyprus"
+            ],
+            "label_groups": "Philippines , Quebec , Greece , Cyprus"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To come or gather around ; to enclose .",
+        "examples": [],
+        "synonyms": [
+          "encompass",
+          "confine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly figurative"
+        ],
+        "label_groups": "chiefly figurative"
+      },
+      {
+        "definition": "To have a vector sum of 0; that is, to form a closed polygon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "surveying"
+        ],
+        "label_groups": "surveying"
+      }
+    ],
+    "main_definition": "( physical ) To remove or block an opening , gap or passage through.",
+    "secondary_definitions": [
+      "To finish.",
+      "To make or become non-operational or unavailable for use.",
+      "( chiefly figurative ) To come or gather around ; to enclose .",
+      "( surveying ) To have a vector sum of 0; that is, to form a closed polygon ."
+    ]
+  }
+]

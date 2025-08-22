@@ -1,0 +1,38 @@
+{
+  "word": "fallow",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "ADJ:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fallow.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\fallow.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fallow.json"
+  },
+  "timestamp": "2025-08-19T03:28:16.843423Z"
+}

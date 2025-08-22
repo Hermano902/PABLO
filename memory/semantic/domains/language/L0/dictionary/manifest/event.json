@@ -1,0 +1,29 @@
+{
+  "word": "event",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\event.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\event.json"
+  },
+  "timestamp": "2025-08-19T03:13:04.421360Z"
+}

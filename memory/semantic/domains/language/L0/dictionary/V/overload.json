@@ -1,0 +1,81 @@
+[
+  {
+    "word": "overload",
+    "lemma": "overload",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌəʊvəˈləʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overloads",
+          "PT": "overloaded",
+          "PAP": "overloaded",
+          "PRP": "overloading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To load excessively .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To provide too much power to a circuit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To create different functions for the same name , to be used in different contexts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "object-oriented programming"
+        ],
+        "label_groups": "transitive , object-oriented programming"
+      },
+      {
+        "definition": "To fail due to excessive load .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To load excessively .",
+    "secondary_definitions": [
+      "( transitive ) To provide too much power to a circuit .",
+      "( transitive , object-oriented programming ) To create different functions for the same name , to be used in different contexts .",
+      "( intransitive ) To fail due to excessive load ."
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "word": "desaturate",
+    "lemma": "desaturate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈsætʃəɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "desaturates",
+          "PT": "desaturated",
+          "PAP": "desaturated",
+          "PRP": "desaturating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to become less saturated or unsaturated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To lessen the saturation of (a colour ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To convert (a saturated compound ) to an unsaturated one.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry"
+            ],
+            "label_groups": "chemistry"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become less saturated or unsaturated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To decrease in saturation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a colour"
+            ],
+            "label_groups": "of a colour"
+          },
+          {
+            "definition": "Of the oxygen saturation level in one's hemoglobin : to decrease , to drop .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine"
+            ],
+            "label_groups": "medicine"
+          },
+          {
+            "definition": "To undergo a decrease in the oxygen saturation level in the hemoglobin .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a person"
+            ],
+            "label_groups": "medicine , of a person"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to become less saturated or unsaturated .",
+    "secondary_definitions": [
+      "( intransitive ) To become less saturated or unsaturated ."
+    ]
+  }
+]

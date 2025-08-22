@@ -1,0 +1,125 @@
+[
+  {
+    "word": "hoist",
+    "lemma": "hoist",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hɔɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hoists",
+          "PT": "hoisted",
+          "PAP": "hoisted",
+          "PRP": "hoisting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To raise ; to lift ; to elevate (especially, to raise or lift to a desired elevation , by means of tackle or pulley , said of a sail , a flag , a heavy package or weight ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lift a trophy or similar prize into the air in celebration of a victory.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports",
+          "often figurative"
+        ],
+        "label_groups": "transitive , sports , often figurative"
+      },
+      {
+        "definition": "To lift someone up to be flogged .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "historical"
+        ],
+        "label_groups": "transitive , historical"
+      },
+      {
+        "definition": "To be lifted up.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To extract (code) from a loop construct as part of optimization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing theory"
+        ],
+        "label_groups": "transitive , computing theory"
+      },
+      {
+        "definition": "To steal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To rob .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To raise ; to lift ; to elevate (especially, to raise or lift to a desired elevation , by means of tackle or pulley , said of a sail , a flag , a heavy package or weight ).",
+    "secondary_definitions": [
+      "( transitive , sports , often figurative ) To lift a trophy or similar prize into the air in celebration of a victory.",
+      "( transitive , historical ) To lift someone up to be flogged .",
+      "( intransitive ) To be lifted up.",
+      "( transitive , computing theory ) To extract (code) from a loop construct as part of optimization .",
+      "( transitive , slang ) To steal .",
+      "( transitive , slang ) To rob ."
+    ]
+  }
+]

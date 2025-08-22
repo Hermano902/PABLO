@@ -1,0 +1,95 @@
+[
+  {
+    "word": "convolution",
+    "lemma": "convolution",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-uːʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "convolutions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A twist or fold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any of the folds on the surface of the brain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The shape of something rotating ; a vortex .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state or condition of being convoluted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mathematical operation on two functions that produces a third that expresses how the shape of one is modified by the other; the integral of the product of the two functions after one is reflected about the y -axis and shifted along the x -axis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "functional analysis"
+        ],
+        "label_groups": "mathematics , functional analysis"
+      },
+      {
+        "definition": "A function which maps a tuple of sequences into a sequence of tuples.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "One 360° turn in a spring or similar helix.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A twist or fold .",
+    "secondary_definitions": [
+      "Any of the folds on the surface of the brain .",
+      "The shape of something rotating ; a vortex .",
+      "The state or condition of being convoluted .",
+      "( mathematics , functional analysis ) A mathematical operation on two functions that produces a third that expresses how the shape of one is modified by the other; the integral of the product of the two functions after one is reflected about the y -axis and shifted along the x -axis.",
+      "( computing ) A function which maps a tuple of sequences into a sequence of tuples.",
+      "One 360° turn in a spring or similar helix."
+    ]
+  }
+]

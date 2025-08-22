@@ -1,0 +1,84 @@
+[
+  {
+    "word": "twiddle",
+    "lemma": "twiddle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtwɪdəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "twiddles",
+          "PT": "twiddled",
+          "PAP": "twiddled",
+          "PRP": "twiddling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wiggle , fidget or play with; to move around.",
+        "examples": [
+          "She sat and nervously twiddled her hair while she waited."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To flip or switch two adjacent bits ( binary digits ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To be in an equivalence relation with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To play with anything; hence, to be busy about trifles.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To wiggle , fidget or play with; to move around.",
+    "secondary_definitions": [
+      "( transitive , computing ) To flip or switch two adjacent bits ( binary digits ) .",
+      "( transitive , mathematics ) To be in an equivalence relation with.",
+      "( intransitive ) To play with anything; hence, to be busy about trifles."
+    ]
+  }
+]

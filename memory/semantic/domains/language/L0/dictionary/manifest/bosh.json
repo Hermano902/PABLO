@@ -1,0 +1,41 @@
+{
+  "word": "bosh",
+  "pos_order": [
+    "N",
+    "INTJ",
+    "N:2",
+    "N:3",
+    "INTJ:2",
+    "V",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "INTJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bosh.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\bosh.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bosh.json"
+  },
+  "timestamp": "2025-08-18T22:31:36.417483Z"
+}

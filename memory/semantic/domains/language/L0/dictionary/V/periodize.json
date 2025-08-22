@@ -1,0 +1,68 @@
+[
+  {
+    "word": "periodize",
+    "lemma": "periodize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɪəɹɪəˌdaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "periodizes",
+          "PT": "periodized",
+          "PAP": "periodized",
+          "PRP": "periodizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To divide (history) into periods .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To split (a training program) into segments of a few weeks or months, so that training begins at lower intensity and is gradually increased to high intensity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "weightlifting",
+          "sports"
+        ],
+        "label_groups": "weightlifting , sports"
+      },
+      {
+        "definition": "To form a periodic function from a non-periodic function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To divide (history) into periods .",
+    "secondary_definitions": [
+      "( weightlifting , sports ) To split (a training program) into segments of a few weeks or months, so that training begins at lower intensity and is gradually increased to high intensity.",
+      "( mathematics ) To form a periodic function from a non-periodic function."
+    ]
+  }
+]

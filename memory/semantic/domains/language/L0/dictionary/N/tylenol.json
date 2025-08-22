@@ -1,0 +1,53 @@
+[
+  {
+    "word": "tylenol",
+    "lemma": "tylenol",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪləˌnɑl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tylenols"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The pharmaceutical drug acetaminophen ( “ paracetamol ” )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "US",
+          "uncountable"
+        ],
+        "label_groups": "Canada , US , uncountable"
+      },
+      {
+        "definition": "A tablet containing this drug",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "US",
+          "countable"
+        ],
+        "label_groups": "Canada , US , countable"
+      }
+    ],
+    "main_definition": "( Canada , US , uncountable ) The pharmaceutical drug acetaminophen ( “ paracetamol ” )",
+    "secondary_definitions": [
+      "( Canada , US , countable ) A tablet containing this drug"
+    ]
+  }
+]

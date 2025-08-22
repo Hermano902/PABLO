@@ -1,0 +1,75 @@
+[
+  {
+    "word": "constructor",
+    "lemma": "constructor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈstɹʌktɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "constructors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who, or thing that, constructs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "destructor"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A company which, or individual who, builds racing vehicles. In Formula One , constructor status is strictly defined by the rules, but in other motorsports the term is merely a descriptor. Depending on the racing rules, some constructors (e.g. Cosworth ) may provide vehicles to racing teams who are not themselves constructors, while others are both teams and constructors ( Ducati Corse , Scuderia Ferrari ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      },
+      {
+        "definition": "A class method that creates and initializes each instance of an object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "destructor"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A person who creates crossword puzzles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crosswording"
+        ],
+        "label_groups": "crosswording"
+      }
+    ],
+    "main_definition": "A person who, or thing that, constructs .",
+    "secondary_definitions": [
+      "( automotive ) A company which, or individual who, builds racing vehicles. In Formula One , constructor status is strictly defined by the rules, but in other motorsports the term is merely a descriptor. Depending on the racing rules, some constructors (e.g. Cosworth ) may provide vehicles to racing teams who are not themselves constructors, while others are both teams and constructors ( Ducati Corse , Scuderia Ferrari ).",
+      "( object-oriented programming ) A class method that creates and initializes each instance of an object .",
+      "( crosswording ) A person who creates crossword puzzles ."
+    ]
+  }
+]

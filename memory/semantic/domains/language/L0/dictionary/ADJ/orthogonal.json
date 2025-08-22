@@ -1,0 +1,175 @@
+[
+  {
+    "word": "orthogonal",
+    "lemma": "orthogonal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɔːˈθɒɡ.ə.nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( geometry ) Of two objects, at right angles ; perpendicular to each other.",
+        "examples": [
+          "A chord and the radius that bisects it are orthogonal ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( mathematics )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a pair of vectors: having a zero inner product ; perpendicular .",
+            "examples": [
+              "The normal vector and tangent vector at a given point are orthogonal ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of a square matrix : such that its transpose is equal to its inverse .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of a linear transformation : preserving its angles .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of grid graphs, board games and polyominoes: vertical or horizontal but not diagonal .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of a pair of elements in an ortholattice : each less than or equal to the orthocomplement of the other.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( statistics ) Statistically independent , with reference to variates.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( software engineering ) Of two or more aspects of a problem, able to be treated separately; of a design, exhibiting consistency and composability .",
+        "examples": [
+          "The content of the message should be orthogonal to the means of its delivery."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of two or more problems or subjects, independent of or irrelevant to each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( geometry ) Of two objects, at right angles ; perpendicular to each other.",
+    "secondary_definitions": [
+      "( mathematics )",
+      "( statistics ) Statistically independent , with reference to variates.",
+      "( software engineering ) Of two or more aspects of a problem, able to be treated separately; of a design, exhibiting consistency and composability .",
+      "Of two or more problems or subjects, independent of or irrelevant to each other."
+    ]
+  },
+  {
+    "word": "orthogonal",
+    "lemma": "orthogonal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ɔːˈθɒɡ.ə.nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "orthogonal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "orthogonal",
+    "secondary_definitions": []
+  },
+  {
+    "word": "orthogonal",
+    "lemma": "orthogonal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 3,
+    "pronunciation": "/ɔːˈθɒɡ.ə.nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "orthogonal",
+        "examples": [],
+        "synonyms": [
+          "senkrecht"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "orthogonal",
+    "secondary_definitions": []
+  }
+]

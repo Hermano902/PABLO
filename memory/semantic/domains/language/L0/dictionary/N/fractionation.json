@@ -1,0 +1,76 @@
+[
+  {
+    "word": "fractionation",
+    "lemma": "fractionation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fractionations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A separation process in which a certain quantity of a mixture is divided up into smaller quantities ( fractions ) in which the composition changes according to a gradient ; an instance of this process.",
+        "examples": [
+          "Methane is separated from other hydrocarbons in a gas fractionation plant.",
+          "After several fractionations , we had a usable product."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "uncountable",
+          "countable"
+        ],
+        "label_groups": "chemistry , uncountable , countable"
+      },
+      {
+        "definition": "The division of a total dose of radiation into fractions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radiotherapy"
+        ],
+        "label_groups": "radiotherapy"
+      },
+      {
+        "definition": "A preliminary stage of encryption that divides each plaintext symbol into several ciphertext symbols.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A form of hypnosis where the patient is made to enter and leave a trance state many times in quick succession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( chemistry , uncountable , countable ) A separation process in which a certain quantity of a mixture is divided up into smaller quantities ( fractions ) in which the composition changes according to a gradient ; an instance of this process.",
+    "secondary_definitions": [
+      "( radiotherapy ) The division of a total dose of radiation into fractions .",
+      "( cryptography ) A preliminary stage of encryption that divides each plaintext symbol into several ciphertext symbols.",
+      "A form of hypnosis where the patient is made to enter and leave a trance state many times in quick succession."
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "word": "dim",
+    "lemma": "dim",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "dimmer",
+          "SUP": "dimmest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not bright or colorful.",
+        "examples": [
+          "The lighting was too dim for me to make out his facial features."
+        ],
+        "synonyms": [
+          "dull",
+          "dingy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial ) Not smart or intelligent.",
+        "examples": [
+          "He may be a bit dim , but he's not entirely stupid."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Indistinct , hazy or unclear.",
+        "examples": [
+          "His vision grew dimmer as he aged."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Disapproving , unfavorable: rarely used outside the phrase take a dim view of .",
+        "examples": [],
+        "synonyms": [
+          "deprecative",
+          "improbatory",
+          "reprobative",
+          "reprobatory"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Not bright or colorful.",
+    "secondary_definitions": [
+      "( colloquial ) Not smart or intelligent.",
+      "Indistinct , hazy or unclear.",
+      "Disapproving , unfavorable: rarely used outside the phrase take a dim view of ."
+    ]
+  },
+  {
+    "word": "dim",
+    "lemma": "dim",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/dɪm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Clipping of diminished .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "( music ) Clipping of diminished .",
+    "secondary_definitions": []
+  }
+]

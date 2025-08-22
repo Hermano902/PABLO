@@ -1,0 +1,84 @@
+[
+  {
+    "word": "deterministic",
+    "lemma": "deterministic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˌtɜː.mɪˈnɪs.tɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more deterministic",
+          "SUP": "most deterministic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, or relating to determinism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "indeterministic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "Having at most one instruction associated with any given internal state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nondeterministic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a Turing machine"
+        ],
+        "label_groups": "mathematics , of a Turing machine"
+      },
+      {
+        "definition": "Having exactly predictable time evolution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "of a system"
+        ],
+        "label_groups": "physics , of a system"
+      },
+      {
+        "definition": "For a given particular input , always producing the same output through the same sequence of states .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nondeterministic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of an algorithm"
+        ],
+        "label_groups": "computing , of an algorithm"
+      }
+    ],
+    "main_definition": "( philosophy ) Of, or relating to determinism .",
+    "secondary_definitions": [
+      "( mathematics , of a Turing machine ) Having at most one instruction associated with any given internal state.",
+      "( physics , of a system ) Having exactly predictable time evolution.",
+      "( computing , of an algorithm ) For a given particular input , always producing the same output through the same sequence of states ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "word": "mixing",
+    "lemma": "mixing",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪksɪŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more mixing",
+          "SUP": "most mixing"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a stochastic process , to be asymptotically independent (in a precise mathematical sense).",
+        "examples": [
+          "A strictly stationary and mixing process with finite expectation satisfies a Law of Large Numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( statistics ) Of a stochastic process , to be asymptotically independent (in a precise mathematical sense).",
+    "secondary_definitions": []
+  }
+]

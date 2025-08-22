@@ -1,0 +1,67 @@
+[
+  {
+    "word": "landlord",
+    "lemma": "landlord",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlænd.lɔːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "landlords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person that leases real property ; a lessor .",
+        "examples": [],
+        "synonyms": [
+          "lessor",
+          "lease provider",
+          "leaser"
+        ],
+        "antonyms": [
+          "tenant",
+          "lessee"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The owner or manager of a public house .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly British"
+        ],
+        "label_groups": "chiefly British"
+      },
+      {
+        "definition": "A shark , imagined as the owner of the surf to be avoided.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "surfing",
+          "slang",
+          "with \"the\""
+        ],
+        "label_groups": "surfing , slang , with \"the\""
+      }
+    ],
+    "main_definition": "A person that leases real property ; a lessor .",
+    "secondary_definitions": [
+      "( chiefly British ) The owner or manager of a public house .",
+      "( surfing , slang , with \"the\" ) A shark , imagined as the owner of the surf to be avoided."
+    ]
+  }
+]

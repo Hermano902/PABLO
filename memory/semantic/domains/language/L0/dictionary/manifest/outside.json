@@ -1,0 +1,55 @@
+{
+  "word": "outside",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADV",
+    "PREP",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 10,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PREP": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\outside.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\outside.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\outside.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\outside.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\outside.json"
+  },
+  "timestamp": "2025-08-19T10:53:07.010904Z"
+}

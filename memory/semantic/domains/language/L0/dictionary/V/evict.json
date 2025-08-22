@@ -1,0 +1,55 @@
+[
+  {
+    "word": "evict",
+    "lemma": "evict",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɨˈvɪkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "evicts",
+          "PT": "evicted",
+          "PAP": "evicted",
+          "PRP": "evicting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To expel (one or more people) from their property; to force (one or more people) to move out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To eject from a memory cache to reduce the cache's size.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To expel (one or more people) from their property; to force (one or more people) to move out .",
+    "secondary_definitions": [
+      "( computing , transitive ) To eject from a memory cache to reduce the cache's size."
+    ]
+  }
+]

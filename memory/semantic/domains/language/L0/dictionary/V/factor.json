@@ -1,0 +1,82 @@
+[
+  {
+    "word": "factor",
+    "lemma": "factor",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfæk.tə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "factors",
+          "PT": "factored",
+          "PAP": "factored",
+          "PRP": "factoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To find all the factors of (a number or other mathematical object) (the objects that divide it evenly).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rewrite an expression as the product of its factors.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be a product of other objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a number or other mathematical object",
+          "intransitive"
+        ],
+        "label_groups": "of a number or other mathematical object , intransitive"
+      },
+      {
+        "definition": "To sell a debt or debts to an agent (the factor) to collect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commercial",
+          "transitive"
+        ],
+        "label_groups": "commercial , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To find all the factors of (a number or other mathematical object) (the objects that divide it evenly).",
+    "secondary_definitions": [
+      "( transitive ) To rewrite an expression as the product of its factors.",
+      "( of a number or other mathematical object , intransitive ) To be a product of other objects.",
+      "( commercial , transitive ) To sell a debt or debts to an agent (the factor) to collect."
+    ]
+  }
+]

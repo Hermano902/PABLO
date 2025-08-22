@@ -1,0 +1,88 @@
+[
+  {
+    "word": "speak",
+    "lemma": "speak",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/spiːk/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "speaks"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable ) Language , jargon , or terminology used uniquely in a particular environment or group.",
+        "examples": [
+          "corporate speak ; IT speak"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable ) Speech , conversation . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable , informal ) Clipping of speaker point .",
+        "examples": [
+          "We will deduct speaks for hesitation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) Language , jargon , or terminology used uniquely in a particular environment or group.",
+    "secondary_definitions": [
+      "( countable ) Speech , conversation . (Can we add an example for this sense?)",
+      "( countable , informal ) Clipping of speaker point ."
+    ]
+  },
+  {
+    "word": "speak",
+    "lemma": "speak",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/spiːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "speaks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "a low class bar , a speakeasy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      }
+    ],
+    "main_definition": "( dated ) a low class bar , a speakeasy .",
+    "secondary_definitions": []
+  }
+]

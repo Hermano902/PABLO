@@ -1,0 +1,65 @@
+[
+  {
+    "word": "quantify",
+    "lemma": "quantify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɒn.tɪˌfaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quantifies",
+          "PT": "quantified",
+          "PAP": "quantified",
+          "PRP": "quantifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assign a quantity to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To determine the value of (a variable or expression).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To relate a statement (called a predicate ) to a given set using a quantifier —either for all (denoted ∀ ) or there exists (denoted ∃ ).",
+        "examples": [
+          "The statement ( ∀ x ∈ R ) 2 x = x + x {\\displaystyle (\\forall x\\in \\mathbb {R} )\\,2x=x+x} quantifies over the real numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( transitive ) To assign a quantity to.",
+    "secondary_definitions": [
+      "To determine the value of (a variable or expression).",
+      "( logic ) To relate a statement (called a predicate ) to a given set using a quantifier —either for all (denoted ∀ ) or there exists (denoted ∃ )."
+    ]
+  }
+]

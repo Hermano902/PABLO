@@ -1,0 +1,90 @@
+[
+  {
+    "word": "evergreen",
+    "lemma": "evergreen",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛvəɡɹiːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of plants, especially trees, that do not shed their leaves seasonally.",
+        "examples": [],
+        "synonyms": [
+          "sempervirent",
+          "still-green"
+        ],
+        "antonyms": [
+          "deciduous"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Continually fresh or self-renewing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Being a clause which causes an automatic renewal of a contract unless action is taken.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "contracts"
+            ],
+            "label_groups": "contracts"
+          },
+          {
+            "definition": "Of a document, a piece of software , or a data set: kept continually up to date (as opposed to being published at regular intervals and outdated in the meantime)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "often figuratively"
+        ],
+        "label_groups": "often figuratively"
+      },
+      {
+        "definition": "Suitable for transmission at any time; not urgent or time-dependent .",
+        "examples": [],
+        "synonyms": [
+          "timeless"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "broadcasting"
+        ],
+        "label_groups": "broadcasting"
+      }
+    ],
+    "main_definition": "Of plants, especially trees, that do not shed their leaves seasonally.",
+    "secondary_definitions": [
+      "( often figuratively ) Continually fresh or self-renewing .",
+      "( broadcasting ) Suitable for transmission at any time; not urgent or time-dependent ."
+    ]
+  }
+]

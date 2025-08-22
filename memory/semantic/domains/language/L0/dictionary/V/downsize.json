@@ -1,0 +1,77 @@
+[
+  {
+    "word": "downsize",
+    "lemma": "downsize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnsaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "downsizes",
+          "PT": "downsized",
+          "PAP": "downsized",
+          "PRP": "downsizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce in size or number.",
+        "examples": [
+          "Joe and Edna moved to a bungalow after deciding to downsize when the children had left home.",
+          "The company chose to downsize by laying off half of its workers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To reduce the workforce of.",
+        "examples": [
+          "They downsized the division by offering attractive early-retirement packages and selling off an office building."
+        ],
+        "synonyms": [
+          "rightsize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To terminate the employment of.",
+        "examples": [
+          "Joe got downsized and became a plumber."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "euphemistic"
+        ],
+        "label_groups": "transitive , euphemistic"
+      }
+    ],
+    "main_definition": "( intransitive ) To reduce in size or number.",
+    "secondary_definitions": [
+      "( transitive ) To reduce the workforce of.",
+      "( transitive , euphemistic ) To terminate the employment of."
+    ]
+  }
+]

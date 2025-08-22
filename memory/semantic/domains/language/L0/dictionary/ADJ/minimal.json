@@ -1,0 +1,80 @@
+[
+  {
+    "word": "minimal",
+    "lemma": "minimal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪn.ɪ.məl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more minimal",
+          "SUP": "most minimal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The smallest possible amount, quantity, or degree.",
+        "examples": [
+          "With minimal effort, you won't be able to achieve all your dreams."
+        ],
+        "synonyms": [
+          "minimum"
+        ],
+        "antonyms": [
+          "maximal"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Among elements of some collection , such that no other element is greater (with respect to some given partial order ).",
+            "examples": [
+              "With respect to the ordering induced by set-theoretic inclusion, the power set of the set of natural numbers has a unique minimal element: the empty set."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "technical"
+            ],
+            "label_groups": "mathematics , technical"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Characterised by the use of simple form or structures.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art"
+        ],
+        "label_groups": "art"
+      },
+      {
+        "definition": "Characterised by the repetition and gradual alteration of short phrases.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "The smallest possible amount, quantity, or degree.",
+    "secondary_definitions": [
+      "( art ) Characterised by the use of simple form or structures.",
+      "( music ) Characterised by the repetition and gradual alteration of short phrases."
+    ]
+  }
+]

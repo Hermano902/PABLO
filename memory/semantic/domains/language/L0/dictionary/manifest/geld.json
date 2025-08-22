@@ -1,0 +1,30 @@
+{
+  "word": "geld",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\geld.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\geld.json"
+  },
+  "timestamp": "2025-08-19T04:21:50.908347Z"
+}

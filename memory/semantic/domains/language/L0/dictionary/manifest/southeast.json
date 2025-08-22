@@ -1,0 +1,37 @@
+{
+  "word": "southeast",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADV"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\southeast.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\southeast.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\southeast.json"
+  },
+  "timestamp": "2025-08-19T17:35:33.969962Z"
+}

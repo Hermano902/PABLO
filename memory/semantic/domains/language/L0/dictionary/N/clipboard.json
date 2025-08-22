@@ -1,0 +1,45 @@
+[
+  {
+    "word": "clipboard",
+    "lemma": "clipboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "clipboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A flat piece of rigid material, such as card or plastic, with a clip at one end under which papers can be held.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A buffer in memory where the user can store data temporarily while transferring it from one place within an application to another or between applications.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A flat piece of rigid material, such as card or plastic, with a clip at one end under which papers can be held.",
+    "secondary_definitions": [
+      "( computing ) A buffer in memory where the user can store data temporarily while transferring it from one place within an application to another or between applications."
+    ]
+  }
+]

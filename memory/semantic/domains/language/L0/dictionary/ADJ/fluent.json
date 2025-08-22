@@ -1,0 +1,60 @@
+[
+  {
+    "word": "fluent",
+    "lemma": "fluent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈfluːənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more fluent",
+          "SUP": "most fluent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That flows ; flowing, liquid .",
+        "examples": [
+          "fluent handwriting"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to use a language accurately , rapidly, and confidently .",
+        "examples": [
+          "She's fluent in French."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Being or relating to a fluent interface .",
+        "examples": [
+          "The payment processor offers a fluent API ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "That flows ; flowing, liquid .",
+    "secondary_definitions": [
+      "Able to use a language accurately , rapidly, and confidently .",
+      "( programming ) Being or relating to a fluent interface ."
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "reusable",
+    "lemma": "reusable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more reusable",
+          "SUP": "most reusable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be used again ; especially after salvaging or special treatment or processing",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be executed by several tasks without being reloaded ; either reentrant or serially reusable",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a program"
+        ],
+        "label_groups": [
+          "computing",
+          "of a program"
+        ]
+      }
+    ],
+    "main_definition": "Able to be used again ; especially after salvaging or special treatment or processing",
+    "secondary_definitions": [
+      "( computing ) ( of a program ) Able to be executed by several tasks without being reloaded ; either reentrant or serially reusable"
+    ]
+  }
+]

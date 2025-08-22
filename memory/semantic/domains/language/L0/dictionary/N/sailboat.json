@@ -1,0 +1,50 @@
+[
+  {
+    "word": "sailboat",
+    "lemma": "sailboat",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈseɪlˌbəʊt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sailboats"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A boat propelled by a sail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "A playing card with the rank of four.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "card games"
+        ],
+        "label_groups": "slang , card games"
+      }
+    ],
+    "main_definition": "( nautical ) A boat propelled by a sail .",
+    "secondary_definitions": [
+      "( slang , card games ) A playing card with the rank of four."
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "orchestration",
+    "lemma": "orchestration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "orchestrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The arrangement of music for performance by an orchestra .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "music"
+        ],
+        "label_groups": "uncountable , music"
+      },
+      {
+        "definition": "A composition that has been orchestrated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "music"
+        ],
+        "label_groups": "countable , music"
+      },
+      {
+        "definition": "The control of diverse elements .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "by extension"
+        ],
+        "label_groups": "uncountable , by extension"
+      },
+      {
+        "definition": "The automated arrangement , coordination , and management of computer systems , middleware , and services.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "by extension",
+          "computing"
+        ],
+        "label_groups": "uncountable , by extension , computing"
+      }
+    ],
+    "main_definition": "( uncountable , music ) The arrangement of music for performance by an orchestra .",
+    "secondary_definitions": [
+      "( countable , music ) A composition that has been orchestrated .",
+      "( uncountable , by extension ) The control of diverse elements .",
+      "( uncountable , by extension , computing ) The automated arrangement , coordination , and management of computer systems , middleware , and services."
+    ]
+  }
+]

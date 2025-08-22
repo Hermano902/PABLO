@@ -1,0 +1,55 @@
+[
+  {
+    "word": "basket",
+    "lemma": "basket",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɑːskɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "baskets",
+          "PT": "basketed",
+          "PAP": "basketed",
+          "PRP": "basketing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place in a basket or baskets.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cross-collateralize the royalty advances for multiple works so that the creator is not paid until all of those works have achieved a certain level of success.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "publishing"
+        ],
+        "label_groups": "transitive , publishing"
+      }
+    ],
+    "main_definition": "( transitive ) To place in a basket or baskets.",
+    "secondary_definitions": [
+      "( transitive , publishing ) To cross-collateralize the royalty advances for multiple works so that the creator is not paid until all of those works have achieved a certain level of success."
+    ]
+  }
+]

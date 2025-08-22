@@ -1,0 +1,185 @@
+[
+  {
+    "word": "limit",
+    "lemma": "limit",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪm.ɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "limits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A restriction; a bound beyond which one may not go.",
+        "examples": [
+          "There are several existing limits to executive power.",
+          "Two drinks is my limit tonight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A value to which a sequence converges . Equivalently, the common value of the upper limit and the lower limit of a sequence: if the upper and lower limits are different, then the sequence has no limit (i.e., does not converge).",
+        "examples": [
+          "The sequence of reciprocals has zero as its limit ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Any of several abstractions of this concept of limit.",
+        "examples": [
+          "Category theory defines a very general concept of limit ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The cone of a diagram through which any other cone of that same diagram can factor uniquely.",
+        "examples": [],
+        "synonyms": [
+          "inverse limit",
+          "projective limit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "Fixed limit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poker"
+        ],
+        "label_groups": "poker"
+      },
+      {
+        "definition": "The final , utmost , or furthest point ; the border or edge.",
+        "examples": [
+          "the limit of a walk, of a town, or of a country"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The space or thing defined by limits.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "That which terminates a period of time; hence, the period itself; the full time or extent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A restriction; a check or curb; a hindrance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A determining feature; a distinguishing characteristic.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "metaphysics"
+        ],
+        "label_groups": "logic , metaphysics"
+      },
+      {
+        "definition": "The first group of riders to depart in a handicap race.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cycling"
+        ],
+        "label_groups": "cycling"
+      },
+      {
+        "definition": "A person who is exasperating , intolerable , astounding , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "as \"the limit\""
+        ],
+        "label_groups": "colloquial , as \"the limit\""
+      }
+    ],
+    "main_definition": "A restriction; a bound beyond which one may not go.",
+    "secondary_definitions": [
+      "( mathematics ) A value to which a sequence converges . Equivalently, the common value of the upper limit and the lower limit of a sequence: if the upper and lower limits are different, then the sequence has no limit (i.e., does not converge).",
+      "( mathematics ) Any of several abstractions of this concept of limit.",
+      "( category theory ) The cone of a diagram through which any other cone of that same diagram can factor uniquely.",
+      "( poker ) Fixed limit .",
+      "The final , utmost , or furthest point ; the border or edge.",
+      "( obsolete ) The space or thing defined by limits.",
+      "( obsolete ) That which terminates a period of time; hence, the period itself; the full time or extent.",
+      "( obsolete ) A restriction; a check or curb; a hindrance.",
+      "( logic , metaphysics ) A determining feature; a distinguishing characteristic.",
+      "( cycling ) The first group of riders to depart in a handicap race.",
+      "( colloquial , as \"the limit\" ) A person who is exasperating , intolerable , astounding , etc."
+    ]
+  }
+]

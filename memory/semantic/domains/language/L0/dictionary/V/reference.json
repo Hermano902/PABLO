@@ -1,0 +1,84 @@
+[
+  {
+    "word": "reference",
+    "lemma": "reference",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛf.(ə)ɹəns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "references",
+          "PT": "referenced",
+          "PAP": "referenced",
+          "PRP": "referencing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide a list of references for (a text).",
+        "examples": [
+          "You must thoroughly reference your paper before submitting it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To cite , to use as a reference.",
+        "examples": [
+          "Reference the dictionary for word meanings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "occasionally proscribed"
+        ],
+        "label_groups": "occasionally proscribed"
+      },
+      {
+        "definition": "To mention , to refer to.",
+        "examples": [
+          "In his speech, the candidate obliquely referenced the past failures of his opponent."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sometimes proscribed"
+        ],
+        "label_groups": "sometimes proscribed"
+      },
+      {
+        "definition": "To contain the value that is a memory address of some value stored in memory.",
+        "examples": [
+          "The given pointer will reference the actual generated data."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "To provide a list of references for (a text).",
+    "secondary_definitions": [
+      "( occasionally proscribed ) To cite , to use as a reference.",
+      "( sometimes proscribed ) To mention , to refer to.",
+      "( programming ) To contain the value that is a memory address of some value stored in memory."
+    ]
+  }
+]

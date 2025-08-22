@@ -1,0 +1,73 @@
+[
+  {
+    "word": "interrogate",
+    "lemma": "interrogate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɛɹ.ə.ɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interrogates",
+          "PT": "interrogated",
+          "PAP": "interrogated",
+          "PRP": "interrogating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to question or quiz , especially in a thorough and/or aggressive manner",
+        "examples": [
+          "The police interrogated the suspect at some length before they let him go."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to query ; to request information from.",
+        "examples": [
+          "to interrogate a database"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "to examine critically.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "literary"
+        ],
+        "label_groups": "transitive , literary"
+      }
+    ],
+    "main_definition": "( transitive ) to question or quiz , especially in a thorough and/or aggressive manner",
+    "secondary_definitions": [
+      "( transitive , computing ) to query ; to request information from.",
+      "( transitive , literary ) to examine critically."
+    ]
+  }
+]

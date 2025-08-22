@@ -1,0 +1,89 @@
+[
+  {
+    "word": "iterate",
+    "lemma": "iterate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪtəɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "iterates",
+          "PT": "iterated",
+          "PAP": "iterated",
+          "PRP": "iterating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform or repeat an action on each item in a set.",
+        "examples": [
+          "The max() function iterates through the data to find the highest value."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To perform or repeat an action on the results of each such prior action.",
+        "examples": [
+          "In mathematics, an iterated function is a function which is composed with itself, possibly ad infinitum, in a process called iteration."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "mathematics"
+        ],
+        "label_groups": "computing , mathematics"
+      },
+      {
+        "definition": "To utter or do a second time or many times; to repeat.",
+        "examples": [
+          "to iterate advice"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To repeat an activity, making incremental changes each time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "design",
+          "ambitransitive"
+        ],
+        "label_groups": "design , ambitransitive"
+      }
+    ],
+    "main_definition": "( computing ) To perform or repeat an action on each item in a set.",
+    "secondary_definitions": [
+      "( computing , mathematics ) To perform or repeat an action on the results of each such prior action.",
+      "( transitive , archaic ) To utter or do a second time or many times; to repeat.",
+      "( design , ambitransitive ) To repeat an activity, making incremental changes each time."
+    ]
+  }
+]

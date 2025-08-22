@@ -1,0 +1,98 @@
+[
+  {
+    "word": "sanitize",
+    "lemma": "sanitize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsænətaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sanitizes",
+          "PT": "sanitized",
+          "PAP": "sanitized",
+          "PRP": "sanitizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To rid of microorganisms by cleaning or disinfecting .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make something, such as a dramatic work, more acceptable by removing potentially offensive material.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To filter ( text ) to ensure it does not contain any characters that will cause problems for or be interpreted in an adverse way by the receiving system.",
+        "examples": [
+          "Remember to sanitize your query parameters to avoid SQL injection exploits."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To remove sensitive or personal data from (a database or file ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To revise (a document ) in order to prevent identification of the sources .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To rid of microorganisms by cleaning or disinfecting .",
+    "secondary_definitions": [
+      "( transitive , by extension ) To make something, such as a dramatic work, more acceptable by removing potentially offensive material.",
+      "( transitive , computing ) To filter ( text ) to ensure it does not contain any characters that will cause problems for or be interpreted in an adverse way by the receiving system.",
+      "( transitive , computing ) To remove sensitive or personal data from (a database or file ).",
+      "( transitive ) To revise (a document ) in order to prevent identification of the sources ."
+    ]
+  }
+]

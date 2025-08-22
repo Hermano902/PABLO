@@ -1,0 +1,80 @@
+[
+  {
+    "word": "watermark",
+    "lemma": "watermark",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɔːtəmɑːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "watermarks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A translucent design impressed on the surface of paper and visible when the paper is held to the light.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A logo superimposed on a digital image , a television broadcast , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "A value stored in a datafile to ensure its integrity , so that if the file's contents are changed then the watermark will no longer match the contents.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A default hint caption displayed in a text box prior to the user inputting any text.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      },
+      {
+        "definition": "A mark indicating the level to which water has risen.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A translucent design impressed on the surface of paper and visible when the paper is held to the light.",
+    "secondary_definitions": [
+      "( by extension ) A logo superimposed on a digital image , a television broadcast , etc.",
+      "( computing ) A value stored in a datafile to ensure its integrity , so that if the file's contents are changed then the watermark will no longer match the contents.",
+      "( graphical user interface ) A default hint caption displayed in a text box prior to the user inputting any text.",
+      "A mark indicating the level to which water has risen."
+    ]
+  }
+]

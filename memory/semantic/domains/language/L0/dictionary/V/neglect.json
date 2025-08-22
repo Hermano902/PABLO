@@ -1,0 +1,88 @@
+[
+  {
+    "word": "neglect",
+    "lemma": "neglect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/nɪˈɡlɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "neglects",
+          "PT": "neglected",
+          "PAP": "neglected",
+          "PRP": "neglecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fail to care for or attend to something.",
+        "examples": [
+          "to neglect duty or business;  to neglect to pay debts"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To omit to notice ; to forbear to treat with attention or respect ; to slight .",
+        "examples": [
+          "to neglect strangers"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fail to do or carry out something due to oversight or carelessness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ignore for the sake of simplifying calculations without significantly affecting accuracy .",
+        "examples": [
+          "We can neglect this term, as it approaches zero in the limit anyway.",
+          "This problem says to neglect air resistance."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To fail to care for or attend to something.",
+    "secondary_definitions": [
+      "( transitive ) To omit to notice ; to forbear to treat with attention or respect ; to slight .",
+      "( transitive ) To fail to do or carry out something due to oversight or carelessness .",
+      "( transitive , mathematics ) To ignore for the sake of simplifying calculations without significantly affecting accuracy ."
+    ]
+  }
+]

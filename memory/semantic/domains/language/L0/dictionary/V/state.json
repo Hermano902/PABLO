@@ -1,0 +1,58 @@
+[
+  {
+    "word": "state",
+    "lemma": "state",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/steɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "states",
+          "PT": "stated",
+          "PAP": "stated",
+          "PRP": "stating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To declare to be a fact .",
+        "examples": [
+          "He stated that he was willing to help."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make known .",
+        "examples": [
+          "State your intentions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To declare to be a fact .",
+    "secondary_definitions": [
+      "( transitive ) To make known ."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "egress",
+    "lemma": "egress",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːɡɹɛs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "egresses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An exit or way out .",
+        "examples": [
+          "The window provides an egress in the event of an emergency."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "ingress",
+          "entrance",
+          "way in"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of exiting or leaving .",
+        "examples": [],
+        "synonyms": [
+          "departure"
+        ],
+        "antonyms": [
+          "entering",
+          "entrance"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The end of the transit of a celestial body through the disk of an apparently larger one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "An exit or way out .",
+    "secondary_definitions": [
+      "The process of exiting or leaving .",
+      "( astronomy ) The end of the transit of a celestial body through the disk of an apparently larger one."
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "word": "boat",
+    "lemma": "boat",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bəʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "boats",
+          "PT": "boated",
+          "PAP": "boated",
+          "PRP": "boating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To travel by boat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transport in a boat.",
+        "examples": [
+          "to boat goods"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To transport ( deport to a penal colony ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "obsolete"
+        ],
+        "label_groups": "transitive , slang , obsolete"
+      },
+      {
+        "definition": "To place in a boat.",
+        "examples": [
+          "to boat oars"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To travel by boat.",
+    "secondary_definitions": [
+      "( transitive ) To transport in a boat.",
+      "( transitive , slang , obsolete ) To transport ( deport to a penal colony ) .",
+      "( transitive ) To place in a boat."
+    ]
+  }
+]

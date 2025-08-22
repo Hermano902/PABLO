@@ -1,0 +1,58 @@
+[
+  {
+    "word": "output",
+    "lemma": "output",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈaʊtpʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "outputs",
+          "PT": "output",
+          "PAP": "output",
+          "PRP": "outputting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To produce, create , or complete .",
+        "examples": [
+          "We output 1400 units last year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      },
+      {
+        "definition": "To send data out of a computer, as to an output device such as a monitor or printer , or to send data from one program on the computer to another.",
+        "examples": [
+          "When I hit enter, it outputs a bunch of numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( economics ) To produce, create , or complete .",
+    "secondary_definitions": [
+      "( computing ) To send data out of a computer, as to an output device such as a monitor or printer , or to send data from one program on the computer to another."
+    ]
+  }
+]

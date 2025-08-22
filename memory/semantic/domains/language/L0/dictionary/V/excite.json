@@ -1,0 +1,97 @@
+[
+  {
+    "word": "excite",
+    "lemma": "excite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈsaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "excites",
+          "PT": "excited",
+          "PAP": "excited",
+          "PRP": "exciting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stir the emotions of.",
+        "examples": [
+          "The fireworks which opened the festivities excited anyone present."
+        ],
+        "synonyms": [
+          "affect",
+          "move",
+          "touch"
+        ],
+        "antonyms": [
+          "relax",
+          "calm"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To arouse or bring out (e.g. feelings); to stimulate .",
+        "examples": [
+          "Favoritism tends to excite jealousy in the ones not being favored.",
+          "The political reforms excited unrest among the population.",
+          "There are drugs designed to excite certain nerves in our body."
+        ],
+        "synonyms": [
+          "instigate",
+          "provoke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause an electron to move to a higher than normal state ; to promote an electron to an outer level .",
+        "examples": [
+          "By applying electric potential to the neon atoms, the electrons become excited , then emit a photon when returning to normal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physics"
+        ],
+        "label_groups": "transitive , physics"
+      },
+      {
+        "definition": "To energize (an electromagnet ); to produce a magnetic field in.",
+        "examples": [
+          "to excite a dynamo"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To stir the emotions of.",
+    "secondary_definitions": [
+      "( transitive ) To arouse or bring out (e.g. feelings); to stimulate .",
+      "( transitive , physics ) To cause an electron to move to a higher than normal state ; to promote an electron to an outer level .",
+      "To energize (an electromagnet ); to produce a magnetic field in."
+    ]
+  }
+]

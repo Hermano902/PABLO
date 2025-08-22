@@ -1,0 +1,52 @@
+[
+  {
+    "word": "intrinsic",
+    "lemma": "intrinsic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɹɪn.zɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "intrinsics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A built-in function that is implemented directly by the compiler , without any intermediate call to a library .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      },
+      {
+        "definition": "An ability possessed by a character and not requiring any external equipment .",
+        "examples": [
+          "You can acquire the fire-resistance intrinsic by eating dragon meat."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( computing , programming ) A built-in function that is implemented directly by the compiler , without any intermediate call to a library .",
+    "secondary_definitions": [
+      "( video games ) An ability possessed by a character and not requiring any external equipment ."
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "word": "automatic",
+    "lemma": "automatic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌɔː.təˈmæt.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more automatic",
+          "SUP": "most automatic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of operating without external control or intervention .",
+        "examples": [
+          "The automatic clothes washer was a great labor-saving device."
+        ],
+        "synonyms": [
+          "self-operating"
+        ],
+        "antonyms": [
+          "manual",
+          "non-automatic"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Done out of habit or without conscious thought .",
+        "examples": [
+          "The reaction was automatic : flight!",
+          "Absent-minded doodling is a form of automatic art."
+        ],
+        "synonyms": [
+          "instinctive",
+          "perfunctory",
+          "thoughtless"
+        ],
+        "antonyms": [
+          "voluntary"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Necessary , inevitable , prescribed by logic, law, etc.",
+        "examples": [
+          "Spitting at another player means an automatic red card."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Firing continuously as long as the trigger is pressed until ammunition is exhausted.",
+        "examples": [
+          "Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a firearm such as a machine gun"
+        ],
+        "label_groups": "of a firearm such as a machine gun"
+      },
+      {
+        "definition": "An autoloader ; a semi-automatic or self-loading pistol , as opposed to a revolver or other manually actuated handgun, which fires one shot per pull of the trigger; distinct from machine guns.",
+        "examples": [
+          "The US Army adopted John Browning's M1911 pistol as its sidearm , chambered in .45 ACP ( Automatic Colt Pistol)."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a handgun"
+        ],
+        "label_groups": "of a handgun"
+      },
+      {
+        "definition": "Automatically added to and removed from the stack during the course of function calls .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a local variable"
+        ],
+        "label_groups": "programming , of a local variable"
+      },
+      {
+        "definition": "Having one or more finite-state automata .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a group"
+        ],
+        "label_groups": "mathematics , of a group"
+      }
+    ],
+    "main_definition": "Capable of operating without external control or intervention .",
+    "secondary_definitions": [
+      "Done out of habit or without conscious thought .",
+      "Necessary , inevitable , prescribed by logic, law, etc.",
+      "( of a firearm such as a machine gun ) Firing continuously as long as the trigger is pressed until ammunition is exhausted.",
+      "( of a handgun ) An autoloader ; a semi-automatic or self-loading pistol , as opposed to a revolver or other manually actuated handgun, which fires one shot per pull of the trigger; distinct from machine guns.",
+      "( programming , of a local variable ) Automatically added to and removed from the stack during the course of function calls .",
+      "( mathematics , of a group ) Having one or more finite-state automata ."
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "attractor",
+    "lemma": "attractor",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-æktə(ɹ)",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "attractors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something which attracts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of points or states to which a dynamical system evolves after a long enough time. That is, points that get close enough to the attractor remain close even if slightly disturbed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "physics"
+        ],
+        "label_groups": "mathematics , physics"
+      }
+    ],
+    "main_definition": "Something which attracts .",
+    "secondary_definitions": [
+      "( mathematics , physics ) A set of points or states to which a dynamical system evolves after a long enough time. That is, points that get close enough to the attractor remain close even if slightly disturbed."
+    ]
+  }
+]

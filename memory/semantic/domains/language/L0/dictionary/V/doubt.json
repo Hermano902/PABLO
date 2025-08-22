@@ -1,0 +1,103 @@
+[
+  {
+    "word": "doubt",
+    "lemma": "doubt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "doubts",
+          "PT": "doubted",
+          "PAP": "doubted",
+          "PRP": "doubting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be undecided about; to lack confidence in; to disbelieve , to question .",
+        "examples": [
+          "He doubted that was really what you meant.",
+          "I had no wish to go, though I doubt if they would have noticed me even if I had."
+        ],
+        "synonyms": [
+          "distrust",
+          "mistrust"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To harbour suspicion about; suspect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic outside Scotland"
+        ],
+        "label_groups": "transitive , archaic outside Scotland"
+      },
+      {
+        "definition": "To anticipate with dread or fear ; to apprehend .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To fill with fear; to affright .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To dread , to fear .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "obsolete"
+        ],
+        "label_groups": "ambitransitive , obsolete"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To be undecided about; to lack confidence in; to disbelieve , to question .",
+    "secondary_definitions": [
+      "( transitive , archaic outside Scotland ) To harbour suspicion about; suspect .",
+      "( transitive , archaic ) To anticipate with dread or fear ; to apprehend .",
+      "( transitive , obsolete ) To fill with fear; to affright .",
+      "( ambitransitive , obsolete ) To dread , to fear ."
+    ]
+  }
+]

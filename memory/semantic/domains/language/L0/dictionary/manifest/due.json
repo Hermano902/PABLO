@@ -1,0 +1,37 @@
+{
+  "word": "due",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 6,
+      "examples": 11,
+      "synonyms": 7,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\due.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\due.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\due.json"
+  },
+  "timestamp": "2025-08-19T02:28:21.329440Z"
+}

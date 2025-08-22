@@ -1,0 +1,66 @@
+[
+  {
+    "word": "diaphoresis",
+    "lemma": "diaphoresis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌdaɪ.ə.fəˈɹiː.sɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diaphoreses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The formation and excretion of sweat .",
+        "examples": [],
+        "synonyms": [
+          "sweating",
+          "perspiration",
+          "hidrosis",
+          "sudation",
+          "sudoresis"
+        ],
+        "antonyms": [
+          "adiaphoresis",
+          "anhidrosis",
+          "ischidrosis"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Excessive sweating ; excessive perspiration (more than would be expected in response to a given stimulus; especially when profuse as a symptom of disease or a side effect of a drug ).",
+            "examples": [],
+            "synonyms": [
+              "hyperhidrosis",
+              "hidrosis"
+            ],
+            "antonyms": [
+              "hypohidrosis"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physiology",
+              "medicine",
+              "sometimes more particularly"
+            ],
+            "label_groups": "physiology , medicine , sometimes more particularly"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physiology",
+          "medicine"
+        ],
+        "label_groups": "physiology , medicine"
+      }
+    ],
+    "main_definition": "( physiology , medicine ) The formation and excretion of sweat .",
+    "secondary_definitions": []
+  }
+]

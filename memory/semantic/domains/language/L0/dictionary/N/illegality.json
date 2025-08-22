@@ -1,0 +1,54 @@
+[
+  {
+    "word": "illegality",
+    "lemma": "illegality",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "illegalities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "the state of being illegal",
+        "examples": [
+          "The criminal was aware of the illegality of his act."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "a defense to the validity of a contract because it was in violation of the law",
+        "examples": [
+          "When sued for refusing to pay for services provided by a prostitute , the customer raised the defense of illegality ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "uncountable"
+        ],
+        "label_groups": "law , uncountable"
+      }
+    ],
+    "main_definition": "( law ) the state of being illegal",
+    "secondary_definitions": [
+      "( law , uncountable ) a defense to the validity of a contract because it was in violation of the law"
+    ]
+  }
+]

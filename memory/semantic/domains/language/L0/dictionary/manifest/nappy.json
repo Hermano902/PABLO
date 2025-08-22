@@ -1,0 +1,41 @@
+{
+  "word": "nappy",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "ADJ:2",
+    "N:3",
+    "ADJ:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 6
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\nappy.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\nappy.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\nappy.json"
+  },
+  "timestamp": "2025-08-19T09:52:33.374687Z"
+}

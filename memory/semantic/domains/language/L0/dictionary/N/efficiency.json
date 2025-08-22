@@ -1,0 +1,94 @@
+[
+  {
+    "word": "efficiency",
+    "lemma": "efficiency",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈfɪʃ.ən.si/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "efficiencies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The extent to which a resource is used for the intended purpose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "inefficiency",
+          "wastefulness"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The ratio of useful work to energy expended . Often given the symbol η .",
+            "examples": [
+              "The efficiency of this loudspeaker is 40%."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering",
+              "physics"
+            ],
+            "label_groups": "engineering , physics"
+          },
+          {
+            "definition": "The extent to which time is well used for the intended task .",
+            "examples": [
+              "The efficiency of the planning department is deplorable."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The quality of producing an effect or effects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "A one-room apartment .",
+        "examples": [
+          "I have an efficiency available June through July.",
+          "fully-furnished efficiencies"
+        ],
+        "synonyms": [
+          "efficiency apartment",
+          "studio apartment",
+          "bedsit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      }
+    ],
+    "main_definition": "The extent to which a resource is used for the intended purpose .",
+    "secondary_definitions": [
+      "( dated ) The quality of producing an effect or effects.",
+      "( US ) A one-room apartment ."
+    ]
+  }
+]

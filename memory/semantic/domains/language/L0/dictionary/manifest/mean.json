@@ -1,0 +1,38 @@
+{
+  "word": "mean",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "ADJ:2",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 13,
+      "examples": 19,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 14,
+      "examples": 13,
+      "synonyms": 16,
+      "antonyms": 3,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 7,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mean.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\mean.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mean.json"
+  },
+  "timestamp": "2025-08-19T08:46:03.551802Z"
+}

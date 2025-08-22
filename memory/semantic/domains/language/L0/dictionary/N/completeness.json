@@ -1,0 +1,45 @@
+[
+  {
+    "word": "completeness",
+    "lemma": "completeness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "completenesses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state or condition of being complete .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The property of a logical theory that whenever a wff is valid then it must also be a theorem . Symbolically, letting T represent a theory within logic L , this can be represented as the property that whenever T ⊨ ϕ {\\displaystyle T\\vDash \\phi } is true, then T ⊢ ϕ {\\displaystyle T\\vdash \\phi } must also be true, for any wff φ of logic L .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "The state or condition of being complete .",
+    "secondary_definitions": [
+      "( logic ) The property of a logical theory that whenever a wff is valid then it must also be a theorem . Symbolically, letting T represent a theory within logic L , this can be represented as the property that whenever T ⊨ ϕ {\\displaystyle T\\vDash \\phi } is true, then T ⊢ ϕ {\\displaystyle T\\vdash \\phi } must also be true, for any wff φ of logic L ."
+    ]
+  }
+]

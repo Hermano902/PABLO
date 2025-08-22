@@ -1,0 +1,60 @@
+[
+  {
+    "word": "fission",
+    "lemma": "fission",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fissions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process whereby one item splits to become two.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "nuclear fission : The process of splitting the nucleus of an atom into smaller particles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nuclear physics"
+        ],
+        "label_groups": "nuclear physics"
+      },
+      {
+        "definition": "The process by which a bacterium splits to form two daughter cells .",
+        "examples": [],
+        "synonyms": [
+          "fissiparism"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "The process whereby one item splits to become two.",
+    "secondary_definitions": [
+      "( nuclear physics ) nuclear fission : The process of splitting the nucleus of an atom into smaller particles .",
+      "( biology ) The process by which a bacterium splits to form two daughter cells ."
+    ]
+  }
+]

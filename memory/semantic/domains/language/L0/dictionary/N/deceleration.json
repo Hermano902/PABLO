@@ -1,0 +1,54 @@
+[
+  {
+    "word": "deceleration",
+    "lemma": "deceleration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/diːsɛləˈɹeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "decelerations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of decelerating .",
+        "examples": [
+          "The rocket is now in deceleration ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The amount by which a speed or velocity decreases (and so a scalar quantity or a vector quantity ), an acceleration having a negative numerical value .",
+        "examples": [
+          "The brakes produce a deceleration of 10 metres per second."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The act or process of decelerating .",
+    "secondary_definitions": [
+      "( countable ) The amount by which a speed or velocity decreases (and so a scalar quantity or a vector quantity ), an acceleration having a negative numerical value ."
+    ]
+  }
+]

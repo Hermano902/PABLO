@@ -1,0 +1,56 @@
+[
+  {
+    "word": "mutate",
+    "lemma": "mutate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mjuːˈteɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mutates",
+          "PT": "mutated",
+          "PAP": "mutated",
+          "PRP": "mutating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To undergo mutation .",
+        "examples": [
+          "The virus has mutated into a more resilient version."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause mutation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To undergo mutation .",
+    "secondary_definitions": [
+      "( transitive ) To cause mutation ."
+    ]
+  }
+]

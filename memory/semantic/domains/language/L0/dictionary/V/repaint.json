@@ -1,0 +1,54 @@
+[
+  {
+    "word": "repaint",
+    "lemma": "repaint",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈpeɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "repaints",
+          "PT": "repainted",
+          "PAP": "repainted",
+          "PRP": "repainting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To paint anew or again, especially if recently painted.",
+        "examples": [
+          "to repaint a house ; to repaint the ground of a picture",
+          ";"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To draw or render again on the display.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      }
+    ],
+    "main_definition": "To paint anew or again, especially if recently painted.",
+    "secondary_definitions": [
+      "( computing , ambitransitive ) To draw or render again on the display."
+    ]
+  }
+]

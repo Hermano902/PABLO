@@ -1,0 +1,94 @@
+[
+  {
+    "word": "materialize",
+    "lemma": "materialize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "materializes",
+          "PT": "materialized",
+          "PAP": "materialized",
+          "PRP": "materializing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to take physical form, or to cause an object to appear.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take physical form, to appear seemingly from nowhere.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To become real (of a plan, idea, etc.); to come to fruition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To regard as matter; to consider or explain by the laws or principles which are appropriate to matter.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform materialization ; to save the results of a database query as a temporary table or materialized view .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "databases"
+        ],
+        "label_groups": "transitive , databases"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to take physical form, or to cause an object to appear.",
+    "secondary_definitions": [
+      "( intransitive ) To take physical form, to appear seemingly from nowhere.",
+      "( intransitive ) To become real (of a plan, idea, etc.); to come to fruition .",
+      "( transitive ) To regard as matter; to consider or explain by the laws or principles which are appropriate to matter.",
+      "( transitive , databases ) To perform materialization ; to save the results of a database query as a temporary table or materialized view ."
+    ]
+  }
+]

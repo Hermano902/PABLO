@@ -1,0 +1,40 @@
+{
+  "word": "beat",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "ADJ",
+    "N:2",
+    "ADJ:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 6,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 21,
+      "examples": 16,
+      "synonyms": 10,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 6,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\beat.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\beat.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\beat.json"
+  },
+  "timestamp": "2025-08-18T21:58:03.267723Z"
+}

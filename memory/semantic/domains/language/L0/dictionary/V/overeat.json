@@ -1,0 +1,72 @@
+[
+  {
+    "word": "overeat",
+    "lemma": "overeat",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌoʊvɚˈit/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overeats",
+          "PT": "overate",
+          "PAP": "overeaten",
+          "PRP": "overeating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To eat too much.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "To eat too much of.",
+        "examples": [],
+        "synonyms": [
+          "overconsume"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To surfeit with eating.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive",
+          "dated"
+        ],
+        "label_groups": "reflexive , dated",
+        "dating_raw": "from 17th c."
+      }
+    ],
+    "main_definition": "( intransitive ) To eat too much. [from 16th c.]",
+    "secondary_definitions": [
+      "( ambitransitive ) To eat too much of.",
+      "( reflexive , dated ) To surfeit with eating. [from 17th c.]"
+    ]
+  }
+]

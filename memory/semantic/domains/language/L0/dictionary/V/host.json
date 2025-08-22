@@ -1,0 +1,71 @@
+[
+  {
+    "word": "host",
+    "lemma": "host",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/həʊst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hosts",
+          "PT": "hosted",
+          "PAP": "hosted",
+          "PRP": "hosting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform the role of a host.",
+        "examples": [
+          "Our company will host the annual conference this year.",
+          "I was terrible at hosting that show.",
+          "I’ll be hosting tonight. I hope I’m not terrible."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To lodge at an inn .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      },
+      {
+        "definition": "To run software made available to a remote user or process .",
+        "examples": [
+          "Kremvax hosts a variety of services."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "computing , Internet"
+      }
+    ],
+    "main_definition": "To perform the role of a host.",
+    "secondary_definitions": [
+      "( obsolete , intransitive ) To lodge at an inn .",
+      "( computing , Internet ) To run software made available to a remote user or process ."
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "subsonic",
+    "lemma": "subsonic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ɒnɪk",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "having a frequency too low to be audible",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a sound",
+          "scientific"
+        ],
+        "label_groups": "of a sound, scientific"
+      },
+      {
+        "definition": "very quiet, almost inaudible",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a sound",
+          "literary"
+        ],
+        "label_groups": "of a sound, literary"
+      },
+      {
+        "definition": "less than the speed of sound (in the same medium , and at the same temperature and pressure )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a speed",
+          "aviation"
+        ],
+        "label_groups": [
+          "of a speed",
+          "aviation"
+        ]
+      },
+      {
+        "definition": "with a Mach number such that 0.3 < Ma < 0.8 (approximately - the exact limits vary between sources)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fluid mechanics",
+          "of a flow"
+        ],
+        "label_groups": "fluid mechanics , of a flow"
+      }
+    ],
+    "main_definition": "( of a sound, scientific ) having a frequency too low to be audible",
+    "secondary_definitions": [
+      "( of a sound, literary ) very quiet, almost inaudible",
+      "( of a speed ) ( aviation ) less than the speed of sound (in the same medium , and at the same temperature and pressure )",
+      "( fluid mechanics , of a flow ) with a Mach number such that 0.3 < Ma < 0.8 (approximately - the exact limits vary between sources)"
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "level",
+    "lemma": "level",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛv.əl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "levels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A tool for finding whether a surface is level , or for creating a horizontal or vertical line of reference.",
+        "examples": [
+          "Hand me the level so I can tell if this is correctly installed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A distance relative to a given reference elevation.",
+        "examples": [
+          "By the end of the day, we'd dug down to the level of the old basement floor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Degree or amount .",
+        "examples": [
+          "The sound level is much too high; this hurts my ears.   We've reached a new level of success."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Achievement or qualification .",
+        "examples": [
+          "She achieved a high level of distinction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Distance from the root node of a tree structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "One of several discrete segments of a game, generally increasing in difficulty and representing different locations in the game world.",
+        "examples": [
+          "It took me weeks to get to level seven.   Watch out for the next level ; the bad guys there are really overpowered."
+        ],
+        "synonyms": [
+          "stage",
+          "zone",
+          "world"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      },
+      {
+        "definition": "A numeric value given to a character (or other element of a game ) that represents its relative power , challenge or eligibility to do things, used as a game mechanic to govern progression through a game .",
+        "examples": [
+          "My half-orc barbarian reached fifth level before he was squashed by a troll."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "roleplaying games",
+          "video games"
+        ],
+        "label_groups": "roleplaying games , video games"
+      },
+      {
+        "definition": "A floor of a multi- storey building.",
+        "examples": [
+          "Take the elevator and get off at the promenade level ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An area of almost perfectly flat land.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British"
+        ],
+        "label_groups": "British"
+      },
+      {
+        "definition": "A school grade or year .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Singapore",
+          "education"
+        ],
+        "label_groups": "Singapore , education"
+      },
+      {
+        "definition": "One of the specific values which may be taken by a categorical variable .",
+        "examples": [
+          "The most common level of the colour variable is red . The other levels are blue and green .",
+          "colour",
+          "red",
+          "blue",
+          "green"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A tool for finding whether a surface is level , or for creating a horizontal or vertical line of reference.",
+    "secondary_definitions": [
+      "A distance relative to a given reference elevation.",
+      "Degree or amount .",
+      "Achievement or qualification .",
+      "( computer science ) Distance from the root node of a tree structure.",
+      "( video games ) One of several discrete segments of a game, generally increasing in difficulty and representing different locations in the game world.",
+      "( roleplaying games , video games ) A numeric value given to a character (or other element of a game ) that represents its relative power , challenge or eligibility to do things, used as a game mechanic to govern progression through a game .",
+      "A floor of a multi- storey building.",
+      "( British ) An area of almost perfectly flat land.",
+      "( Singapore , education ) A school grade or year .",
+      "( statistics ) One of the specific values which may be taken by a categorical variable ."
+    ]
+  }
+]

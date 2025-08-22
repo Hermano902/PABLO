@@ -1,0 +1,49 @@
+[
+  {
+    "word": "debit",
+    "lemma": "debit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛb.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "debits",
+          "PT": "debited",
+          "PAP": "debited",
+          "PRP": "debiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make an entry on the debit side of an account.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To record a receivable in the bookkeeping.",
+        "examples": [
+          "We shall debit your account for the amount of the purchase.",
+          "We shall debit the amount of your purchase to your account."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To make an entry on the debit side of an account.",
+    "secondary_definitions": [
+      "To record a receivable in the bookkeeping."
+    ]
+  }
+]

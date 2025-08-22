@@ -1,0 +1,34 @@
+{
+  "word": "bitcoin",
+  "lemma": "bitcoin",
+  "pos": "N",
+  "variants": [
+    {
+      "etymology": "Etymology",
+      "pos_index": 1,
+      "forms": {
+        "N.TYPE": "PROPER"
+      },
+      "pronunciation": "/ˈbɪtkɔɪn/",
+      "definitions": [
+        {
+          "definition": "A decentralized cryptocurrency using blockchain technology .",
+          "examples": [
+            "We do not accept bitcoin at this store."
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "subdefinitions": [],
+          "senses": [],
+          "labels": [
+            "uncountable",
+            "computing",
+            "finance"
+          ],
+          "label_groups": "uncountable , computing , finance",
+          "dating_raw": "from 2008"
+        }
+      ]
+    }
+  ]
+}

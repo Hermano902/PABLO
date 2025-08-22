@@ -1,0 +1,155 @@
+[
+  {
+    "word": "random",
+    "lemma": "random",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹændəm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more random",
+          "SUP": "most random"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Occurring for no particular reason; haphazard , unpredictable .",
+        "examples": [
+          "Our city is plagued by random acts of violence.",
+          "random acts of kindness"
+        ],
+        "synonyms": [
+          "desultory"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Involving an outcome which is impossible to predict, but which may be represented by a probability distribution ; in the ideal case, involving outcomes which are equally likely .",
+        "examples": [
+          "The flip of a fair coin is purely random .",
+          "The newspaper conducted a random sample of five hundred American teenagers.",
+          "The results of the field survey look random by several different measures.",
+          "A toss of a loaded die is still random , though biased."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "Pseudorandom ; mimicking the result of random selection.",
+        "examples": [
+          "The rand function generates a random number from a seed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Selected for no particular reason; arbitrary ; unspecified .",
+        "examples": [
+          "A random American off the street couldn't tell the difference.",
+          "You're just going to trust the word of random people on the Internet?",
+          "I didn't have time to peruse the resturant's menu, so I just ordered some random dish.",
+          "Whatever random hobby you're into, there's an Internet community for it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Being (part of) a varied , unrelated , and apparently arbitrary collection of things; diverse , heterogeneous .",
+        "examples": [
+          "My notebook has turned into a random collection of thoughts.",
+          "I brought a bunch of random snacks, but nothing nutritious.",
+          "I mixed a bunch of random vegetables into a salad, and it actually turned out pretty good."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Apropos of nothing ; lacking context , relevance , or any connection to the previous situation; unexpected .",
+        "examples": [
+          "This random guy just came up to me to say that he was a fan of my work.",
+          "Thank you for that completely random comment... now, let's get back to our actual topic of discussion.",
+          "The teacher's bartending story was interesting, but very random .",
+          "I feel like pineapple is a very random thing to put on a pizza."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Of a person: characterized by or often saying random things; habitually using non sequiturs .",
+        "examples": [
+          "You're so random ! I never know what you're going to do next."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Being out of the ordinary ; unusual or unexpected ; odd , strange , bizarre .",
+        "examples": [
+          "That's a rather random fact!",
+          "I can't believe he would say that. That's so random !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "slang"
+        ],
+        "label_groups": "UK , slang"
+      }
+    ],
+    "main_definition": "Occurring for no particular reason; haphazard , unpredictable .",
+    "secondary_definitions": [
+      "( statistics ) Involving an outcome which is impossible to predict, but which may be represented by a probability distribution ; in the ideal case, involving outcomes which are equally likely .",
+      "( computing ) Pseudorandom ; mimicking the result of random selection.",
+      "( informal ) Selected for no particular reason; arbitrary ; unspecified .",
+      "( informal ) Being (part of) a varied , unrelated , and apparently arbitrary collection of things; diverse , heterogeneous .",
+      "( informal ) Apropos of nothing ; lacking context , relevance , or any connection to the previous situation; unexpected .",
+      "( informal ) Of a person: characterized by or often saying random things; habitually using non sequiturs .",
+      "( UK , slang ) Being out of the ordinary ; unusual or unexpected ; odd , strange , bizarre ."
+    ]
+  }
+]

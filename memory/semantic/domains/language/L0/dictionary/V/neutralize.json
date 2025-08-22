@@ -1,0 +1,88 @@
+[
+  {
+    "word": "neutralize",
+    "lemma": "neutralize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnjuːtɹəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "neutralizes",
+          "PT": "neutralized",
+          "PAP": "neutralized",
+          "PRP": "neutralizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make even , inactive or ineffective .",
+        "examples": [
+          "The antidote neutralised the toxin."
+        ],
+        "synonyms": [
+          "counteract",
+          "counterweigh"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (a territory, etc.) politically neutral.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (an acidic or alkaline substance) chemically neutral .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To kill .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military",
+          "euphemistic"
+        ],
+        "label_groups": "transitive , military , euphemistic"
+      }
+    ],
+    "main_definition": "( transitive ) To make even , inactive or ineffective .",
+    "secondary_definitions": [
+      "( transitive ) To make (a territory, etc.) politically neutral.",
+      "( transitive , chemistry ) To make (an acidic or alkaline substance) chemically neutral .",
+      "( transitive , military , euphemistic ) To kill ."
+    ]
+  }
+]

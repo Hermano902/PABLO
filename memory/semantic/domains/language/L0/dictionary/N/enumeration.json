@@ -1,0 +1,80 @@
+[
+  {
+    "word": "enumeration",
+    "lemma": "enumeration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "enumerations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of enumerating , making separate mention, or recounting .",
+        "examples": [],
+        "synonyms": [
+          "listing",
+          "numbering",
+          "telling"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A detailed account, in which each thing is specially noticed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A list ; especially, a numbered list .",
+        "examples": [
+          "using the serial comma in enumerations"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A recapitulation , in the peroration, of the heads of an argument.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A data type that allows variables to have any of a predefined set of values.",
+        "examples": [],
+        "synonyms": [
+          "enum"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "The act of enumerating , making separate mention, or recounting .",
+    "secondary_definitions": [
+      "A detailed account, in which each thing is specially noticed.",
+      "A list ; especially, a numbered list .",
+      "A recapitulation , in the peroration, of the heads of an argument.",
+      "( programming ) A data type that allows variables to have any of a predefined set of values."
+    ]
+  }
+]

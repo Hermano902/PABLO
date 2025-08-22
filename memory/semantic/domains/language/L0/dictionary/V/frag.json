@@ -1,0 +1,75 @@
+[
+  {
+    "word": "frag",
+    "lemma": "frag",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɹæɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "frags",
+          "PT": "fragged",
+          "PAP": "fragged",
+          "PRP": "fragging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deliberately kill (one's superior officer) with a fragmentation grenade .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US military slang"
+        ],
+        "label_groups": "transitive , US military slang"
+      },
+      {
+        "definition": "To hit with the explosion of a fragmentation grenade.",
+        "examples": [
+          "I fragged him once and then meleed him for the kill."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military",
+          "video games",
+          "slang"
+        ],
+        "label_groups": "transitive , military and video games , slang"
+      },
+      {
+        "definition": "To kill.",
+        "examples": [
+          "I fragged him but he fell off the ledge afterwards."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( transitive , US military slang ) To deliberately kill (one's superior officer) with a fragmentation grenade .",
+    "secondary_definitions": [
+      "( transitive , military and video games , slang ) To hit with the explosion of a fragmentation grenade.",
+      "( video games ) To kill."
+    ]
+  }
+]

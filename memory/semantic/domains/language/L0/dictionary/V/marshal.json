@@ -1,0 +1,82 @@
+[
+  {
+    "word": "marshal",
+    "lemma": "marshal",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɑːʃəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "marshals",
+          "PT": "marshalled",
+          "PAP": "marshalled",
+          "PRP": "marshalling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arrange ( troops, etc. ) in line for inspection or a parade .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To arrange ( facts, etc. ) in some methodical order.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "To ceremoniously guide , conduct or usher .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To gather data for transmission.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To serialize an object into a marshalled state represented by a sequence of bytes that can later be converted back into an object with equivalent properties.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "To arrange ( troops, etc. ) in line for inspection or a parade .",
+    "secondary_definitions": [
+      "( by extension ) To arrange ( facts, etc. ) in some methodical order.",
+      "To ceremoniously guide , conduct or usher .",
+      "To gather data for transmission.",
+      "( computing , transitive ) To serialize an object into a marshalled state represented by a sequence of bytes that can later be converted back into an object with equivalent properties."
+    ]
+  }
+]

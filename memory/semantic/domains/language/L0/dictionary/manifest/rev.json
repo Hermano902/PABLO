@@ -1,0 +1,30 @@
+{
+  "word": "rev",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\rev.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\rev.json"
+  },
+  "timestamp": "2025-08-19T13:42:30.920272Z"
+}

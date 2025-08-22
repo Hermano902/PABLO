@@ -1,0 +1,57 @@
+[
+  {
+    "word": "brief",
+    "lemma": "brief",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹiːf/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "briefs",
+          "PT": "briefed",
+          "PAP": "briefed",
+          "PRP": "briefing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To summarize a recent development to some person with decision-making power.",
+        "examples": [
+          "The U.S. president was briefed on the military coup and its implications on African stability."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To write a legal argument and submit it to a court .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      }
+    ],
+    "main_definition": "( transitive ) To summarize a recent development to some person with decision-making power.",
+    "secondary_definitions": [
+      "( transitive , law ) To write a legal argument and submit it to a court ."
+    ]
+  }
+]

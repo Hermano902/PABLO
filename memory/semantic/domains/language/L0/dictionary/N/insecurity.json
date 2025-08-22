@@ -1,0 +1,70 @@
+[
+  {
+    "word": "insecurity",
+    "lemma": "insecurity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "insecurities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A lack of security ; uncertainty .",
+        "examples": [],
+        "synonyms": [
+          "insecureness"
+        ],
+        "antonyms": [
+          "security"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "A lack of confidence in oneself.",
+            "examples": [],
+            "synonyms": [
+              "insecureness",
+              "self-doubt"
+            ],
+            "antonyms": [
+              "security",
+              "self-assurance",
+              "self-confidence"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The state of being subject to danger (physical, economic, or otherwise).",
+            "examples": [
+              "economic insecurity"
+            ],
+            "synonyms": [
+              "exposure",
+              "insecureness",
+              "precariousness",
+              "precarity",
+              "vulnerability"
+            ],
+            "antonyms": [
+              "safety",
+              "security"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "A lack of security ; uncertainty .",
+    "secondary_definitions": []
+  }
+]

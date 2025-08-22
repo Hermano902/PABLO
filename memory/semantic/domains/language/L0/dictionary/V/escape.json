@@ -1,0 +1,121 @@
+[
+  {
+    "word": "escape",
+    "lemma": "escape",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈskeɪp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "escapes",
+          "PT": "escaped",
+          "PAP": "escaped",
+          "PRP": "escaping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To get free; to free oneself.",
+        "examples": [
+          "The prisoners escaped by jumping over a wall.",
+          "The factory was evacuated after toxic gases escaped from a pipe."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To avoid (any unpleasant person or thing); to elude , get away from.",
+        "examples": [
+          "He only got a fine and so escaped going to jail.",
+          "The children climbed out of the window to escape the fire."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To avoid capture; to get away with something, avoid punishment.",
+        "examples": [
+          "Luckily, I escaped with only a fine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To elude the observation or notice of; to not be seen or remembered by.",
+        "examples": [
+          "The name of the hotel escapes me at present.",
+          "The detective examined the crime scene, but one clue escaped his notice."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (a single character , or all such characters in a string ) to be interpreted literally, instead of with any special meaning it would usually have in the same context , often by prefixing with another character.",
+        "examples": [
+          "When using the \"bash\" shell, you can escape the ampersand character with a backslash.",
+          "Brion escaped the double quote character on Windows by adding a second double quote within the literal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To halt a program or command by pressing a key (such as the \"Esc\" key) or combination of keys.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( intransitive ) To get free; to free oneself.",
+    "secondary_definitions": [
+      "( transitive ) To avoid (any unpleasant person or thing); to elude , get away from.",
+      "( intransitive ) To avoid capture; to get away with something, avoid punishment.",
+      "( transitive ) To elude the observation or notice of; to not be seen or remembered by.",
+      "( transitive , computing ) To cause (a single character , or all such characters in a string ) to be interpreted literally, instead of with any special meaning it would usually have in the same context , often by prefixing with another character.",
+      "( computing ) To halt a program or command by pressing a key (such as the \"Esc\" key) or combination of keys."
+    ]
+  }
+]

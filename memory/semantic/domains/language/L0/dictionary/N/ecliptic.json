@@ -1,0 +1,65 @@
+[
+  {
+    "word": "ecliptic",
+    "lemma": "ecliptic",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈklɪp.tɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ecliptics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The great circle on the celestial sphere that is the mean apparent path of the sun as viewed from the earth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "The plane in which this great circle lies.",
+        "examples": [],
+        "synonyms": [
+          "ecliptic plane",
+          "plane of the ecliptic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "A great circle drawn on a terrestrial globe , used for illustrating and solving astronomical problems.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( astronomy ) The great circle on the celestial sphere that is the mean apparent path of the sun as viewed from the earth .",
+    "secondary_definitions": [
+      "( astronomy ) The plane in which this great circle lies.",
+      "( geometry ) A great circle drawn on a terrestrial globe , used for illustrating and solving astronomical problems."
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "profile",
+    "lemma": "profile",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹəʊfaɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "profiles",
+          "PT": "profiled",
+          "PAP": "profiled",
+          "PRP": "profiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a summary or collection of information about (a person, etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To act based on such a summary, especially one that is a stereotype ; to engage in profiling .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To draw in profile or outline.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give a definite form by chiselling, milling, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "engineering"
+        ],
+        "label_groups": "transitive , engineering"
+      },
+      {
+        "definition": "To measure the performance of various parts of (a program) so as to locate bottlenecks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To create a summary or collection of information about (a person, etc.).",
+    "secondary_definitions": [
+      "To act based on such a summary, especially one that is a stereotype ; to engage in profiling .",
+      "( transitive ) To draw in profile or outline.",
+      "( transitive , engineering ) To give a definite form by chiselling, milling, etc.",
+      "( computing , transitive ) To measure the performance of various parts of (a program) so as to locate bottlenecks ."
+    ]
+  }
+]

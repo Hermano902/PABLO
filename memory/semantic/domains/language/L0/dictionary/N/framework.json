@@ -1,0 +1,103 @@
+[
+  {
+    "word": "framework",
+    "lemma": "framework",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹeɪm.wɜːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "frameworks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literally"
+        ],
+        "label_groups": "literally"
+      },
+      {
+        "definition": "The arrangement of support beams that represent a building's general shape and size.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literally"
+        ],
+        "label_groups": "literally"
+      },
+      {
+        "definition": "The larger branches of a tree that determine its shape .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "A basic conceptual structure .",
+        "examples": [
+          "These ‘three principles of connexion’ compose the framework of principles in Hume's account of the association of ideas."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "A reusable piece of code (and, sometimes, other utilities) providing a standard environment within which an application can be implemented .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      },
+      {
+        "definition": "An established and structured system of rules and principles used for analyzing and describing the structure of a language.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "( literally ) A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size.",
+    "secondary_definitions": [
+      "( literally ) The arrangement of support beams that represent a building's general shape and size.",
+      "( figuratively ) The larger branches of a tree that determine its shape .",
+      "( figuratively ) A basic conceptual structure .",
+      "( software engineering ) A reusable piece of code (and, sometimes, other utilities) providing a standard environment within which an application can be implemented .",
+      "( grammar ) An established and structured system of rules and principles used for analyzing and describing the structure of a language."
+    ]
+  }
+]

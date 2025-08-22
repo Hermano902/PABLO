@@ -1,0 +1,59 @@
+[
+  {
+    "word": "carbohydrate",
+    "lemma": "carbohydrate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɑːbəʊˈhaɪdɹeɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "carbohydrates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sugar , starch , or cellulose that is a food source of energy for an animal or plant .",
+        "examples": [
+          "These microbes are primarily responsible for breaking down cellulose and other carbohydrates into volatile fatty acids (VFAs)."
+        ],
+        "synonyms": [
+          "carb",
+          "saccharide"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry",
+          "nutrition"
+        ],
+        "label_groups": "organic chemistry , nutrition"
+      },
+      {
+        "definition": "Any food rich in starch or other carbohydrates.",
+        "examples": [
+          "I'm cutting down on carbohydrates like bread and pasta."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "by extension",
+          "metonymic"
+        ],
+        "label_groups": "colloquial , by extension , metonymic"
+      }
+    ],
+    "main_definition": "( organic chemistry , nutrition ) A sugar , starch , or cellulose that is a food source of energy for an animal or plant .",
+    "secondary_definitions": [
+      "( colloquial , by extension , metonymic ) Any food rich in starch or other carbohydrates."
+    ]
+  }
+]

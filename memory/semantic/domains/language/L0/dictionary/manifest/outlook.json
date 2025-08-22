@@ -1,0 +1,29 @@
+{
+  "word": "outlook",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 5,
+      "examples": 3,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\outlook.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\outlook.json"
+  },
+  "timestamp": "2025-08-19T10:52:19.736384Z"
+}

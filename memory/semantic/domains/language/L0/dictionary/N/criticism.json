@@ -1,0 +1,58 @@
+[
+  {
+    "word": "criticism",
+    "lemma": "criticism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɹɪtɪsɪzəm/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "criticisms"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of criticising ; a critical judgment passed or expressed",
+        "examples": [
+          "The politician received a lot of public criticism for his controversial stance on the issue."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A critical observation or detailed examination and review.",
+        "examples": [
+          "The politician received several detailed criticisms of his stance on the issue."
+        ],
+        "synonyms": [
+          "critique",
+          "animadversion",
+          "censure"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of criticising ; a critical judgment passed or expressed",
+    "secondary_definitions": [
+      "( countable ) A critical observation or detailed examination and review."
+    ]
+  }
+]

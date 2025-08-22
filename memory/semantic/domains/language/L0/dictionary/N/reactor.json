@@ -1,0 +1,90 @@
+[
+  {
+    "word": "reactor",
+    "lemma": "reactor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹiˈæktɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reactors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who responds to a suggestion, stimulation or other influence.",
+        "examples": [],
+        "synonyms": [
+          "reacter"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A structure used to contain chemical or other reactions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "engineering"
+        ],
+        "label_groups": "chemistry , engineering"
+      },
+      {
+        "definition": "A device which uses atomic energy to produce heat.",
+        "examples": [],
+        "synonyms": [
+          "nuclear reactor",
+          "atomic reactor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nuclear physics"
+        ],
+        "label_groups": "nuclear physics"
+      },
+      {
+        "definition": "A chemical substance which responds to the presence of, or contact with, another substance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "An electrical component with reactance",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "A person who responds to a suggestion, stimulation or other influence.",
+    "secondary_definitions": [
+      "( chemistry , engineering ) A structure used to contain chemical or other reactions .",
+      "( nuclear physics ) A device which uses atomic energy to produce heat.",
+      "( chemistry ) A chemical substance which responds to the presence of, or contact with, another substance.",
+      "( electronics ) An electrical component with reactance"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "persist",
+    "lemma": "persist",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɚˈsɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "persists",
+          "PT": "persisted",
+          "PAP": "persisted",
+          "PRP": "persisting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To go on stubbornly or resolutely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To repeat an utterance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To continue to exist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To continue to be; to remain .",
+        "examples": [],
+        "synonyms": [
+          "hold"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , copulative , obsolete"
+      },
+      {
+        "definition": "To cause to persist; make permanent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To go on stubbornly or resolutely.",
+    "secondary_definitions": [
+      "( intransitive ) To repeat an utterance.",
+      "( intransitive ) To continue to exist .",
+      "( intransitive , copulative , obsolete ) To continue to be; to remain .",
+      "( computing , transitive ) To cause to persist; make permanent."
+    ]
+  }
+]

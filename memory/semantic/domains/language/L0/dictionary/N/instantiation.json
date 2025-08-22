@@ -1,0 +1,64 @@
+[
+  {
+    "word": "instantiation",
+    "lemma": "instantiation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˌstænʃiˈeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "instantiations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The production of an instance , example , or specific application of a general classification, principle, theory, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Something resulting from the act of instantiating ; an instance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Creation of an instance of some class or template .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "object-oriented programming"
+        ],
+        "label_groups": "by extension , object-oriented programming"
+      }
+    ],
+    "main_definition": "( uncountable ) The production of an instance , example , or specific application of a general classification, principle, theory, etc.",
+    "secondary_definitions": [
+      "( countable ) Something resulting from the act of instantiating ; an instance.",
+      "( by extension , object-oriented programming ) Creation of an instance of some class or template ."
+    ]
+  }
+]

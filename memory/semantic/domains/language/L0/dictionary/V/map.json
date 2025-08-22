@@ -1,0 +1,122 @@
+[
+  {
+    "word": "map",
+    "lemma": "map",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "maps",
+          "PT": "mapped",
+          "PAP": "mapped",
+          "PRP": "mapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To represent by means of a map.",
+        "examples": [
+          "This large atlas maps the whole world in very great detail.",
+          "Figure 3 maps the pressure distribution within the human circulatory system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To create a map of; to examine or survey in order to gather information for a map.",
+        "examples": [
+          "The team is mapping the route of the new railway line.",
+          "The space probe is mapping the Earth's gravitational field.",
+          "This equipment is designed to map the neurons of the human brain in three dimensions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have a direct relationship; to correspond .",
+        "examples": [
+          "This doesn't map to my understanding of how things should work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "followed by a \" to \" phrase"
+        ],
+        "label_groups": "intransitive , followed by a \" to \" phrase"
+      },
+      {
+        "definition": "To create a direct relationship to; to create a correspondence with.",
+        "examples": [
+          "Map \"volume down\" to the F2 key."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "followed by a \" to \" phrase"
+        ],
+        "label_groups": "transitive , followed by a \" to \" phrase"
+      },
+      {
+        "definition": "To act as a function on something, taking it to something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "transitive",
+          "followed by a \" to \" phrase"
+        ],
+        "label_groups": "mathematics , transitive , followed by a \" to \" phrase"
+      },
+      {
+        "definition": "To assign a drive letter to a shared folder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To represent by means of a map.",
+    "secondary_definitions": [
+      "( transitive ) To create a map of; to examine or survey in order to gather information for a map.",
+      "( intransitive , followed by a \" to \" phrase ) To have a direct relationship; to correspond .",
+      "( transitive , followed by a \" to \" phrase ) To create a direct relationship to; to create a correspondence with.",
+      "( mathematics , transitive , followed by a \" to \" phrase ) To act as a function on something, taking it to something else.",
+      "( transitive , computing ) To assign a drive letter to a shared folder ."
+    ]
+  }
+]

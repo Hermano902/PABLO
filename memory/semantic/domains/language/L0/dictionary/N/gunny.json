@@ -1,0 +1,76 @@
+[
+  {
+    "word": "gunny",
+    "lemma": "gunny",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡʌni/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gunnies"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable ) A coarse heavy fabric made of jute or hemp.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( countable ) Clipping of gunny sack",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) A coarse heavy fabric made of jute or hemp.",
+    "secondary_definitions": [
+      "( countable ) Clipping of gunny sack"
+    ]
+  },
+  {
+    "word": "gunny",
+    "lemma": "gunny",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈɡʌni/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gunnies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A gunnery sergeant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "informal"
+        ],
+        "label_groups": "countable , informal"
+      }
+    ],
+    "main_definition": "( countable , informal ) A gunnery sergeant .",
+    "secondary_definitions": []
+  }
+]

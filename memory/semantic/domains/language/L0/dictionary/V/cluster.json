@@ -1,0 +1,76 @@
+[
+  {
+    "word": "cluster",
+    "lemma": "cluster",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈklʌstə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "clusters",
+          "PT": "clustered",
+          "PAP": "clustered",
+          "PRP": "clustering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To collect ( animals , people , objects , data points, etc) into clusters (noun sense 1 ) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To cover (with clusters); to scatter or strew in clusters (within); to distribute (objects) within such that they form clusters.",
+            "examples": [
+              "The sea is clustered with islands."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chiefly passive voice"
+        ],
+        "label_groups": "transitive , chiefly passive voice"
+      },
+      {
+        "definition": "To form a cluster or group ; to assemble , to gather .",
+        "examples": [
+          "The children clustered around the puppy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , chiefly passive voice )",
+    "secondary_definitions": [
+      "( intransitive ) To form a cluster or group ; to assemble , to gather ."
+    ]
+  }
+]

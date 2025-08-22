@@ -1,0 +1,69 @@
+[
+  {
+    "word": "fifth",
+    "lemma": "fifth",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɪfθ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fifths",
+          "PT": "fifthed",
+          "PAP": "fifthed",
+          "PRP": "fifthing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sing in the fifth voice in a polyphonic melody.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To support something fifth, after four others have already done so.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To divide by five.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , nonstandard"
+      }
+    ],
+    "main_definition": "( music ) To sing in the fifth voice in a polyphonic melody.",
+    "secondary_definitions": [
+      "( transitive , informal ) To support something fifth, after four others have already done so.",
+      "( transitive , nonstandard ) To divide by five."
+    ]
+  }
+]

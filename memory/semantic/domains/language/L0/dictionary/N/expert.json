@@ -1,0 +1,48 @@
+[
+  {
+    "word": "expert",
+    "lemma": "expert",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛk.spɜːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "experts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person with extensive knowledge or ability in a given subject.",
+        "examples": [
+          "If an expert says it can't be done, get another expert . - David Ben-Gurion",
+          "We called in several experts on the subject, but they couldn't reach an agreement."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A player ranking just below master .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      }
+    ],
+    "main_definition": "A person with extensive knowledge or ability in a given subject.",
+    "secondary_definitions": [
+      "( chess ) A player ranking just below master ."
+    ]
+  }
+]

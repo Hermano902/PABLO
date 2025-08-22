@@ -1,0 +1,76 @@
+[
+  {
+    "word": "subscript",
+    "lemma": "subscript",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbskɹɪpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subscripts",
+          "PT": "subscripted",
+          "PAP": "subscripted",
+          "PRP": "subscripting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide with a subscript.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "sciences",
+          "typography",
+          "transitive",
+          "of a variable"
+        ],
+        "label_groups": "mathematics , sciences , typography , transitive , of a variable"
+      },
+      {
+        "definition": "To convert to a subscript form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "sciences",
+          "typography",
+          "transitive",
+          "of a text"
+        ],
+        "label_groups": "mathematics , sciences , typography , transitive , of a text"
+      },
+      {
+        "definition": "To access (an array element) by its index.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "( mathematics , sciences , typography , transitive , of a variable ) To provide with a subscript.",
+    "secondary_definitions": [
+      "( mathematics , sciences , typography , transitive , of a text ) To convert to a subscript form.",
+      "( programming , transitive ) To access (an array element) by its index."
+    ]
+  }
+]

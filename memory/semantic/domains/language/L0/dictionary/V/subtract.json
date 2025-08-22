@@ -1,0 +1,43 @@
+[
+  {
+    "word": "subtract",
+    "lemma": "subtract",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/səbˈtɹækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subtracts",
+          "PT": "subtracted",
+          "PAP": "subtracted",
+          "PRP": "subtracting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove or reduce ; especially to reduce a quantity or number",
+        "examples": [
+          "If you subtract the $100 for gas from the total cost, it was a fairly inexpensive trip."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "arithmetic"
+        ],
+        "label_groups": "transitive , arithmetic"
+      }
+    ],
+    "main_definition": "( transitive , arithmetic ) To remove or reduce ; especially to reduce a quantity or number",
+    "secondary_definitions": []
+  }
+]

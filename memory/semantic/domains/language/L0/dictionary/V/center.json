@@ -1,0 +1,98 @@
+[
+  {
+    "word": "center",
+    "lemma": "center",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛn.tə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "centers",
+          "PT": "centered",
+          "PAP": "centered",
+          "PRP": "centering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause (an object) to occupy the center of an area.",
+        "examples": [
+          "He centered the heading of the document."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (some attribute , such as a mood or voltage ) to be adjusted to a value which is midway between the extremes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give (something) a central basis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To concentrate on (something), to pay close attention to (something).",
+        "examples": [
+          "The plot centers on the life of a working-class family.",
+          "The discussion centered around the recent issues."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To form a recess or indentation for the reception of a center.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      }
+    ],
+    "main_definition": "( transitive ) To cause (an object) to occupy the center of an area.",
+    "secondary_definitions": [
+      "( transitive ) To cause (some attribute , such as a mood or voltage ) to be adjusted to a value which is midway between the extremes .",
+      "( transitive ) To give (something) a central basis .",
+      "( intransitive ) To concentrate on (something), to pay close attention to (something).",
+      "( engineering ) To form a recess or indentation for the reception of a center."
+    ]
+  }
+]

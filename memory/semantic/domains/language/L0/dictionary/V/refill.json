@@ -1,0 +1,53 @@
+[
+  {
+    "word": "refill",
+    "lemma": "refill",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiː.fɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "refills",
+          "PT": "refilled",
+          "PAP": "refilled",
+          "PRP": "refilling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fill up once again.",
+        "examples": [
+          "Can you refill my cup please? I've finished my coffee."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To repeat a prescription .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "pharmacy"
+        ],
+        "label_groups": "medicine , pharmacy"
+      }
+    ],
+    "main_definition": "To fill up once again.",
+    "secondary_definitions": [
+      "( medicine , pharmacy ) To repeat a prescription ."
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "word": "coordinate",
+    "lemma": "coordinate",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/koʊˈɔɹdənət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "coordinates",
+          "PT": "coordinated",
+          "PAP": "coordinated",
+          "PRP": "coordinating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place in the same order or rank .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "subordinate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To synchronize (activities).",
+        "examples": [
+          "It can be difficult to coordinate movement of both legs after an operation.",
+          "I was playing tennis for the first time, and it was difficult to coordinate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To match (objects, especially clothes).",
+        "examples": [
+          "The outfit you're wearing doesn't coordinate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To place in the same order or rank .",
+    "secondary_definitions": [
+      "( ambitransitive ) To synchronize (activities).",
+      "( ambitransitive ) To match (objects, especially clothes)."
+    ]
+  }
+]

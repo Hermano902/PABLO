@@ -1,0 +1,374 @@
+[
+  {
+    "word": "bounce",
+    "lemma": "bounce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/baʊns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bounces",
+          "PT": "bounced",
+          "PAP": "bounced",
+          "PRP": "bouncing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change the direction of motion after hitting an obstacle .",
+        "examples": [
+          "The tennis ball bounced off the wall before coming to rest in the ditch."
+        ],
+        "synonyms": [
+          "bounce back",
+          "rebound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move quickly up and then down (or vice versa ), once or repeatedly .",
+        "examples": [
+          "He bounces nervously on his chair."
+        ],
+        "synonyms": [
+          "bob"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to move quickly up and down, or back and forth, once or repeatedly.",
+        "examples": [
+          "He bounced the child on his knee.",
+          "The children were bouncing a ball against a wall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To suggest or introduce (an idea , etc.) to ( off or by ) someone, in order to gain feedback .",
+        "examples": [
+          "I'm meeting Bob later to bounce some ideas off him about the new product range."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To leap or spring suddenly or unceremoniously; to bound .",
+        "examples": [
+          "She bounced happily into the room."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move rapidly (between).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be refused by a bank because it is drawn on insufficient funds .",
+        "examples": [
+          "We can’t accept further checks from you, as your last one bounced ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "informal",
+          "of a cheque",
+          "check"
+        ],
+        "label_groups": "intransitive , informal , of a cheque / check"
+      },
+      {
+        "definition": "To fail to cover ( have sufficient funds for ) (a cheque / check drawn on one's account).",
+        "examples": [
+          "He tends to bounce a check or two toward the end of each month, before his payday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To leave .",
+        "examples": [
+          "Let’s wrap this up, I gotta bounce ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang"
+        ],
+        "label_groups": "intransitive , slang"
+      },
+      {
+        "definition": "To eject violently , as from a room; to discharge unceremoniously , as from employment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "slang",
+          "dated"
+        ],
+        "label_groups": "transitive , US , slang , dated"
+      },
+      {
+        "definition": "To have sexual intercourse .",
+        "examples": [],
+        "synonyms": [
+          "bang",
+          "do it",
+          "have sex"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang",
+          "African-American Vernacular",
+          "sometimes followed by with"
+        ],
+        "label_groups": "intransitive , slang , African-American Vernacular , sometimes followed by with"
+      },
+      {
+        "definition": "To attack unexpectedly .",
+        "examples": [
+          "The squadron was bounced north of the town."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "air combat"
+        ],
+        "label_groups": "transitive , air combat"
+      },
+      {
+        "definition": "To turn power to (a device) off and back on; to reset ; to reboot .",
+        "examples": [
+          "See if it helps to bounce the router."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "electronics",
+          "computing"
+        ],
+        "label_groups": "transitive , electronics , computing"
+      },
+      {
+        "definition": "To return undelivered .",
+        "examples": [
+          "What’s your new email address? The old one bounces .",
+          "The girl in the bar told me her address was thirsty@example.com, but my mail to that address was bounced back by the server."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative",
+          "Internet",
+          "of an e-mail message"
+        ],
+        "label_groups": "ergative , Internet , of an e-mail message"
+      },
+      {
+        "definition": "To land hard and lift off again due to excess momentum .",
+        "examples": [
+          "The student pilot bounced several times during his landing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "aviation"
+        ],
+        "label_groups": "intransitive , aviation"
+      },
+      {
+        "definition": "To land hard at unsurvivable velocity with fatal results.",
+        "examples": [
+          "After the mid-air collision, his rig failed and he bounced ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "skydiving"
+        ],
+        "label_groups": "intransitive , skydiving"
+      },
+      {
+        "definition": "To mix (two or more tracks of a multi-track audio recording) and record the result onto a single track, in order to free up tracks for further material to be added.",
+        "examples": [
+          "Bounce tracks two and three to track four, then record the cowbell on track two."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music",
+          "sound recording"
+        ],
+        "label_groups": "transitive , music , sound recording"
+      },
+      {
+        "definition": "To render two or more tracks to computer storage so that they can be played back and re-recorded with further material added.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "technology"
+        ],
+        "label_groups": "music , technology"
+      },
+      {
+        "definition": "To bully ; to scold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "archaic"
+        ],
+        "label_groups": "slang , archaic"
+      },
+      {
+        "definition": "To boast ; to bluster .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "archaic"
+        ],
+        "label_groups": "slang , archaic"
+      },
+      {
+        "definition": "To strike or thump , so as to make a sudden noise upon rebound ; to knock loudly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "To race poorly after a successful race.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "horse racing",
+          "slang"
+        ],
+        "label_groups": "horse racing , slang"
+      }
+    ],
+    "main_definition": "( intransitive ) To change the direction of motion after hitting an obstacle .",
+    "secondary_definitions": [
+      "( intransitive ) To move quickly up and then down (or vice versa ), once or repeatedly .",
+      "( transitive ) To cause to move quickly up and down, or back and forth, once or repeatedly.",
+      "( transitive , colloquial ) To suggest or introduce (an idea , etc.) to ( off or by ) someone, in order to gain feedback .",
+      "( intransitive ) To leap or spring suddenly or unceremoniously; to bound .",
+      "To move rapidly (between).",
+      "( intransitive , informal , of a cheque / check ) To be refused by a bank because it is drawn on insufficient funds .",
+      "( transitive , informal ) To fail to cover ( have sufficient funds for ) (a cheque / check drawn on one's account).",
+      "( intransitive , slang ) To leave .",
+      "( transitive , US , slang , dated ) To eject violently , as from a room; to discharge unceremoniously , as from employment.",
+      "( intransitive , slang , African-American Vernacular , sometimes followed by with ) To have sexual intercourse .",
+      "( transitive , air combat ) To attack unexpectedly .",
+      "( transitive , electronics , computing ) To turn power to (a device) off and back on; to reset ; to reboot .",
+      "( ergative , Internet , of an e-mail message ) To return undelivered .",
+      "( intransitive , aviation ) To land hard and lift off again due to excess momentum .",
+      "( intransitive , skydiving ) To land hard at unsurvivable velocity with fatal results.",
+      "( transitive , music , sound recording ) To mix (two or more tracks of a multi-track audio recording) and record the result onto a single track, in order to free up tracks for further material to be added.",
+      "( music , technology ) To render two or more tracks to computer storage so that they can be played back and re-recorded with further material added.",
+      "( slang , archaic ) To bully ; to scold .",
+      "( slang , archaic ) To boast ; to bluster .",
+      "( archaic ) To strike or thump , so as to make a sudden noise upon rebound ; to knock loudly.",
+      "( horse racing , slang ) To race poorly after a successful race."
+    ]
+  }
+]

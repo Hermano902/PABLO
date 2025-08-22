@@ -1,0 +1,117 @@
+[
+  {
+    "word": "equivalence",
+    "lemma": "equivalence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈkwɪv.ə.ləns/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "equivalences"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The condition of being equivalent or essentially equal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An equivalence relation ; ≡ ; ~",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mathematics"
+        ],
+        "label_groups": "countable , mathematics"
+      },
+      {
+        "definition": "The relationship between two propositions that are either both true or both false .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "logic"
+        ],
+        "label_groups": "uncountable , logic"
+      },
+      {
+        "definition": "The quantity of the combining power of an atom , expressed in hydrogen units ; the number of hydrogen atoms can combine with, or be exchanged for; valency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A Boolean operation that is TRUE when both input variables are TRUE or both input variables are FALSE, but otherwise FALSE ; the XNOR function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A number in intersection theory. A positive-dimensional variety sometimes behaves formally as if it were a finite number of points; this number is its equivalence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The degree to which a term or text in one language is semantically similar to its translated counterpart.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "translation studies"
+        ],
+        "label_groups": "translation studies"
+      }
+    ],
+    "main_definition": "( uncountable ) The condition of being equivalent or essentially equal .",
+    "secondary_definitions": [
+      "( countable , mathematics ) An equivalence relation ; ≡ ; ~",
+      "( uncountable , logic ) The relationship between two propositions that are either both true or both false .",
+      "( chemistry ) The quantity of the combining power of an atom , expressed in hydrogen units ; the number of hydrogen atoms can combine with, or be exchanged for; valency .",
+      "( mathematics ) A Boolean operation that is TRUE when both input variables are TRUE or both input variables are FALSE, but otherwise FALSE ; the XNOR function.",
+      "( geometry ) A number in intersection theory. A positive-dimensional variety sometimes behaves formally as if it were a finite number of points; this number is its equivalence.",
+      "( translation studies ) The degree to which a term or text in one language is semantically similar to its translated counterpart."
+    ]
+  }
+]

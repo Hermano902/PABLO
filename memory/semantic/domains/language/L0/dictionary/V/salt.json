@@ -1,0 +1,183 @@
+[
+  {
+    "word": "salt",
+    "lemma": "salt",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɒlt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "salts",
+          "PT": "salted",
+          "PAP": "salted",
+          "PRP": "salting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To add salt to.",
+        "examples": [],
+        "synonyms": [
+          "salt down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deposit salt as a saline solution .",
+        "examples": [
+          "The brine begins to salt ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To fill with salt between the timbers and planks for the preservation of the timber .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "of a ship"
+        ],
+        "label_groups": "nautical , of a ship"
+      },
+      {
+        "definition": "To insert or inject something into an object to give it properties it would not naturally have.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To blast metal into ( as a portion of a mine ) in order to cause to appear to be a productive seam .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mining"
+            ],
+            "label_groups": "mining"
+          },
+          {
+            "definition": "To add bogus evidence to an archaeological site.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaeology"
+            ],
+            "label_groups": "archaeology"
+          },
+          {
+            "definition": "To add certain chemical elements to (a nuclear or conventional weapon) so that it generates more radiation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To sprinkle throughout .",
+        "examples": [
+          "They salted the document with arcane language."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "To render a thing useless .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To sow with salt (of land) , symbolizing a curse on its re-inhabitation.",
+            "examples": [
+              "In this place were put to the ground and salted the houses of José Mascarenhas."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "military",
+              "transitive"
+            ],
+            "label_groups": "military , transitive"
+          },
+          {
+            "definition": "To lock a page title so it cannot be created .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "wiki jargon"
+            ],
+            "label_groups": "wiki jargon"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To add salt to.",
+    "secondary_definitions": [
+      "( intransitive ) To deposit salt as a saline solution .",
+      "( nautical , of a ship ) To fill with salt between the timbers and planks for the preservation of the timber .",
+      "To insert or inject something into an object to give it properties it would not naturally have.",
+      "( transitive ) To sprinkle throughout .",
+      "( cryptography ) To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.",
+      "To render a thing useless ."
+    ]
+  }
+]

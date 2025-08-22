@@ -1,0 +1,86 @@
+[
+  {
+    "word": "mirror",
+    "lemma": "mirror",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪɹə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mirrors",
+          "PT": "mirrored",
+          "PAP": "mirrored",
+          "PRP": "mirroring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reflect , as in a mirror.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To act as a reflection of, either by being identical to, or by being identical but reversed.",
+        "examples": [
+          "The placement of the paintings mirrored the positions of the windows on the opposite wall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of an event , activity , behavior , to be identical to; to be a copy of; to imitate closely.",
+        "examples": [
+          "He tried to mirror Elvis's life by copying his fashion and mannerisms."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To create something identical to (a website , etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "transitive , computing , Internet"
+      }
+    ],
+    "main_definition": "( transitive ) To reflect , as in a mirror.",
+    "secondary_definitions": [
+      "( transitive ) To act as a reflection of, either by being identical to, or by being identical but reversed.",
+      "( transitive ) Of an event , activity , behavior , to be identical to; to be a copy of; to imitate closely.",
+      "( transitive , computing , Internet ) To create something identical to (a website , etc.)."
+    ]
+  }
+]

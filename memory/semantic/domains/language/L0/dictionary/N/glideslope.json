@@ -1,0 +1,65 @@
+[
+  {
+    "word": "glideslope",
+    "lemma": "glideslope",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡlaɪdˌsloʊp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "glideslopes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The portion of an instrument landing system which provides vertical guidance to an aircraft during an approach to landing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The vertical descent profile produced by the ILS glideslope transmitters.",
+            "examples": [
+              "Staying on the glideslope is vitally important for a safe, stabilized approach and landing."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "aviation",
+              "by extension"
+            ],
+            "label_groups": "aviation , by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "The approach path of an aircraft as it comes in to land .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      }
+    ],
+    "main_definition": "( aviation ) The portion of an instrument landing system which provides vertical guidance to an aircraft during an approach to landing .",
+    "secondary_definitions": [
+      "( aviation ) The approach path of an aircraft as it comes in to land ."
+    ]
+  }
+]

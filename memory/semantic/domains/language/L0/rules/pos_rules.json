@@ -1,0 +1,661 @@
+{
+  "concepts": {
+    "PRON": {
+      "FORM": {
+        "SIMPLE": "single-word pronoun",
+        "COMPOUND": "multi-word (e.g. each other, one another)"
+      },
+      "ROLE": {
+        "SUBJ": "subject",
+        "OBJ": "object",
+        "POSS": "possessor",
+        "COMP": "complement",
+        "PREP": "object of preposition",
+        "EMPH": "emphatic"
+      },
+      "FUNCTION": {
+        "WH": "wh-pronoun (who, what, which)",
+        "DUMMY": "syntactic placeholder (e.g. it, there)",
+        "LOG": "logical/pronominal clause reference (e.g. which I mentioned)"
+      },
+      "TYPE": {
+        "PER": {
+          "SUBJ": "personal subject pronoun (e.g. I, you, they)",
+          "OBJ": "personal object pronoun (e.g. me, him, us)"
+        },
+        "IMPERS": "impersonal (e.g. dummy 'it', weather/abstract)",
+        "POS": {
+          "DEP": "dependent possessive (e.g. my, your, his)",
+          "INDEP": "independent possessive (e.g. mine, yours)"
+        },
+        "REF": {
+          "STD": "reflexive (e.g. myself, yourself)",
+          "EMPH": "emphatic reflexive"
+        },
+        "REC": "reciprocal (e.g. each other, one another)",
+        "DEM": {
+          "NEAR": "proximal demonstrative (e.g. this, these)",
+          "FAR": "distal demonstrative (e.g. that, those)"
+        },
+        "INT": "interrogative (e.g. who, what, which)",
+        "REL": "relative (e.g. who, which, that)",
+        "IND": {
+          "GEN": "general indefinite (e.g. someone, anybody)",
+          "NEG": "negative indefinite (e.g. nobody, none)",
+          "UNIV": "universal indefinite (e.g. everyone, all)"
+        }
+      },
+      "REFERENCE": {
+        "HUMAN": "refers to people",
+        "NONHUMAN": "refers to things, concepts",
+        "BOTH": "can refer to either"
+      },
+      "PERSON": {
+        "1": "first person",
+        "2": "second person",
+        "3": "third person",
+        "X": "non-personal"
+      },
+      "NUMBER": {
+        "SG": "singular",
+        "PL": "plural",
+        "BOTH": "can be singular or plural"
+      },
+      "GENDER": {
+        "M": "masculine",
+        "F": "feminine",
+        "N": "neuter",
+        "ANY": "unspecified or universal"
+      },
+      "CASE": {
+        "NOM": "nominative (subjective)",
+        "ACC": "accusative (objective)",
+        "GEN": "genitive (possessive)"
+      }
+    },
+    "N": {
+      "FORM": {
+        "SIMPLE": "single-word noun",
+        "COMPOUND": "multi-word noun",
+        "CLIPPED": "abbreviated form (e.g. exam from examination)",
+        "BLENDED": "merged forms (e.g. brunch from breakfast + lunch)",
+        "DERIVED": "formed by affixation (e.g. happiness from happy)"
+      },
+      "ROLE": {
+        "SUBJ": "subject of clause",
+        "OBJ": "object of verb",
+        "COMP": "complement (e.g. She is a teacher)",
+        "PREP": "object of preposition (e.g. in the park)",
+        "ATTR": "used attributively (modifying another noun)",
+        "APPOS": "appositive (renaming another noun)",
+        "VOC": "vocative (direct address, e.g. John!)"
+      },
+      "FUNCTION": {
+        "HEAD": "head of noun phrase (main noun)",
+        "ATTR": "used attributively (modifying another noun)",
+        "CLASS": "classifying noun (e.g. car in 'car engine')",
+        "GENERIC": "generic reference (e.g. 'Dogs are friendly')",
+        "PROPER": "proper noun (specific name, e.g. London)"
+      },
+      "TYPE": {
+        "COMMON": "refers to general entities (e.g. dog, book)",
+        "PROPER": "specific named entities (e.g. London, Einstein)",
+        "COLLECTIVE": "groups treated as one unit (e.g. team, flock)",
+        "MASS": "uncountable substances or concepts (e.g. water, furniture)",
+        "UNCOUNT": "uncountable nouns (e.g. information, advice)",
+        "COUNT": "can be pluralized and counted (e.g. chair, apple)",
+        "ABSTRACT": "intangible ideas or qualities (e.g. love, freedom)",
+        "CONCRETE": "perceivable physical objects (e.g. rock, pen)"
+      },
+      "CLASS": {
+        "ANIMATE": "refers to living beings",
+        "INANIMATE": "refers to non-living entities"
+      },
+      "NUMBER": {
+        "SG": "singular",
+        "PL": "plural",
+        "BOTH": "can act as either"
+      },
+      "GENDER": {
+        "M": "masculine",
+        "F": "feminine",
+        "N": "neuter",
+        "ANY": "neutral or unspecified"
+      },
+      "CASE": {
+        "NOM": "nominative (subject)",
+        "ACC": "accusative (object)",
+        "GEN": "genitive (possessive)"
+      },
+      "INFLECTION": {
+        "REG": "regular plural (e.g. cats)",
+        "IRREG": "irregular plural (e.g. children, mice)",
+        "ZERO": "zero plural (e.g. sheep, deer)"
+      }
+    },
+    "V": {
+      "FORM": {
+        "1PSP": "1st person singular present simple",
+        "2PSP": "2nd person singular present simple",
+        "3PSP": "3rd person singular present simple",
+        "PLSP": "plural present simple",
+        "1PST": "1st person singular past simple",
+        "2PST": "2nd person singular past simple",
+        "3PST": "3rd person singular past simple",
+        "PLPT": "plural past simple",
+        "SIMPLE": "base form",
+        "PAP": "past participle",
+        "PRP": "present participle",
+        "INF": "infinitive",
+        "GER": "gerund"
+      },
+      "NON_LEXICAL_TAGS": [
+        "AUX",
+        "MOD"
+      ],
+      "TYPE": {
+        "MAIN": "main (lexical) verb",
+        "AUX": "auxiliary verb (e.g., be, have, do)",
+        "MOD": "modal verb (e.g., can, will, may)",
+        "LIGHT": "semantically weak verb (e.g., have a look)",
+        "CATENATIVE": "verb that can be followed by another verb (e.g., want to go)",
+        "CAUSATIVE": "causes an action (e.g., make, let)",
+        "ERGATIVE": "used transitively and intransitively with same subject (e.g., break)",
+        "REFLEXIVE": "requires a reflexive pronoun (e.g., enjoy oneself)"
+      },
+      "TRANSITIVITY": {
+        "INTR": "intransitive (no object)",
+        "MONO": "monotransitive (1 object)",
+        "DI": "ditransitive (2 objects)",
+        "COMP": "complex transitive (object + complement)",
+        "LINK": "linking verb (complement, not object)"
+      },
+      "VOICE": {
+        "ACT": "active",
+        "PASS": "passive"
+      },
+      "MOOD": {
+        "IND": "indicative",
+        "IMP": "imperative",
+        "SUBJ": "subjunctive",
+        "COND": "conditional",
+        "INT": "interrogative"
+      },
+      "ASPECT": {
+        "SMP": "simple",
+        "PRF": "perfect",
+        "PROG": "progressive",
+        "PRFPROG": "perfect progressive"
+      },
+      "V.TENSE": {
+        "PRES": "present",
+        "PAST": "past",
+        "FUT": "future"
+      },
+      "POLARITY": {
+        "POS": "affirmative",
+        "NEG": "negative"
+      },
+      "SEMANTIC": {
+        "ST": "stative",
+        "ACT": "action",
+        "LNK": "linking (copular)"
+      },
+      "LEX": {
+        "BE": "to be",
+        "DO": "to do",
+        "HAVE": "to have",
+        "WILL": "will/would (future modals)",
+        "CAN": "can/could",
+        "SHALL": "shall/should",
+        "MAY": "may/might",
+        "MUST": "must",
+        "DARE": "dare",
+        "NEED": "need",
+        "OUGHT": "ought"
+      }
+    },
+    "ADJ": {
+      "FORM": {
+        "SIMPLE": "basic adjective form (e.g., tall, quick)",
+        "COMPOUND": "hyphenated or multi-word (e.g., open-minded, world-famous)",
+        "DERIVED": "from noun/verb (e.g., national, spoken)"
+      },
+      "ROLE": {
+        "ATTR": "attributive (before noun, e.g., tall building)",
+        "PRE":"pre-nominal (before noun, e.g., the book)",
+        "POST": "postpositive (after noun, e.g., the president elect)",
+        "PRED": "predicative (follows a linking verb)"  
+
+      },
+      "FUNCTION": {
+        "DESCR": "descriptive (describes quality, state, appearance)",
+        "CLASS": "classifying (categorizes: chemical, legal, medical)",
+        "EMPH": "emphasizing (e.g., utter nonsense, sheer luck)",
+        "INTENS": "intensifying (e.g., absolute fool, complete idiot)",
+        "LIMIT": "limiting/restrictive (e.g., only, main, mere)",
+        "NUMERAL": "numeral (e.g., first, two, several)"
+      },
+      "COMPARISON": {
+        "POS": "positive",
+        "COMP": "comparative (e.g., taller)",
+        "SUP": "superlative (e.g., tallest)",
+        "INCOMP": "incomparable (e.g., unique, perfect)"
+      },
+      "GRADABILITY": {
+        "GR": "gradable (e.g., very tall)",
+        "NGR": "non-gradable (e.g., dead, perfect)"
+      },
+      "SEMANTIC": {
+        "COLOR": "describes color",
+        "SIZE": "describes size or dimension",
+        "AGE": "describes age (e.g., old, young)",
+        "SHAPE": "describes shape (e.g., round)",
+        "ORIGIN": "describes origin/nationality (e.g., Italian)",
+        "OPINION": "subjective judgment (e.g., beautiful, boring)"
+      },
+      "ORDER": {
+        "SEQ": [
+          "OPINION",
+          "SIZE",
+          "AGE",
+          "SHAPE",
+          "COLOR",
+          "ORIGIN",
+          "MATERIAL",
+          "PURPOSE"
+        ]
+      }
+    },
+    "ADV": {
+      "FORM": {
+        "SIMPLE": "primary (not derived, e.g., soon, fast)",
+        "DERIV": "morphologically derived (e.g., quickly)",
+        "FIXED": "fixed expressions (e.g., by the way, at once)",
+        "COMPOUND": "compound (e.g., upside-down, far away)"
+      },
+      "ROLE": {
+        "SENT": "sentence adverb (modifies the entire sentence)",
+        "CLAUSE": "modifies entire clause (e.g., luckily, unfortunately)",
+        "VP": "verb phrase adverb",
+        "ADJ": "modifies an adjective",
+        "ADV": "modifies another adverb",
+        "DET": "modifies a determiner or noun phrase (e.g., almost every)",
+        "NUM": "modifies numeral (e.g., nearly ten)"
+      },
+      "FUNCTION": {
+        "MAN": "manner (how)",
+        "TIME": {
+          "WHEN": "point in time (e.g., yesterday, soon)",
+          "DUR": "duration (e.g., briefly, forever)",
+          "FREQ": "frequency (e.g., often, rarely)"
+        },
+        "PLACE": "location or direction (e.g., here, outside)",
+        "DEG": {
+          "MOD": "moderate degree (e.g., quite, rather)",
+          "HIGH": "high degree (e.g., extremely, absolutely)",
+          "LOW": "low degree (e.g., slightly, barely)"
+        },
+        "CERT": "certainty (e.g., definitely, probably)",
+        "CAUSE": "cause or result (e.g., therefore, thus)",
+        "FOC": "focus (e.g., even, only, also)",
+        "NEG": "negation (e.g., not, never)",
+        "INT": "interrogative adverb (e.g., when, why)",
+        "REL": "relative adverb (e.g., where, when)",
+        "CONJ": "conjunctive adverb (e.g., however, moreover)",
+        "EMPH": "emphatic adverb (e.g., indeed, surely)",
+        "DISJ": "disjunctive/evaluative (e.g., luckily, unfortunately)",
+        "DUMMY": "filler or dummy (e.g., well, now)"
+      },
+      "COMPARISON": {
+        "COMP": "comparative",
+        "SUP": "superlative",
+        "REDUP": "reduplicated form (e.g., slowly-slowly)"
+      },
+      "MODIFIABILITY": {
+        "GR": "gradable",
+        "NGR": "non-gradable"
+      },
+      "POSITION": {
+        "INIT": "initial (sentence/clause-initial)",
+        "MID": "mid-position (before main verb or after auxiliary)",
+        "END": "end-position (after verb or clause)",
+        "FLEX": "flexible position"
+      },
+      "AGREEMENT": {
+        "COUNT": {
+          "YES": "can modify countable nouns (e.g., almost every cat)",
+          "NO": "cannot modify noun phrases"
+        }
+      }
+    },
+    "DET": {
+      "FORM": {
+        "SIMPLE": "single-word determiner",
+        "COMPOUND": "multi-word determiner (e.g., a few, a little)"
+      },
+      "ROLE": {
+        "PRE": "pre-nominal (before noun, e.g., the book)",
+        "POST": "post-nominal (after noun, e.g., the president elect)",
+        "PRED": "predicative (after copula, e.g., mine)",
+        "HEAD": "head of noun phrase (main determiner)"
+      },
+      "FUNCTION": {
+        "DEFN": "expresses definiteness or specificity",
+        "QUANT": "quantifies noun (e.g., some, many)",
+        "POS": "indicates possession (e.g., my, your)",
+        "DEM": "demonstrates noun (e.g., that, those)",
+        "INT": "introduces interrogative noun phrase (e.g., which, what)",
+        "REL": "introduces relative clause (e.g., whichever, whatever)",
+        "PART": "partitive determiner (e.g., some of, any of)",
+        "DISJ": "distributive determiner (e.g., either, each)",
+        "EXCL": "exclusive determiner (e.g., only, just)",
+        "FOC": "focusing determiner (e.g., even, also)",
+        "EMPH": "adds focus or restriction to the noun"
+      },
+      "TYPE": {
+        "ART": "article (e.g., a, the)",
+        "DEF": "definite (e.g., the)",
+        "INDEF": "indefinite (e.g., a, an)",
+        "DEM": "demonstrative (this, that, those)",
+        "POS": "possessive (my, his, our)",
+        "INT": "interrogative (which, what)",
+        "REL": "relative (whichever, whatever)",
+        "PART": "partitive (some of, any of)",
+        "MULT": "multiplicative (e.g., each, every)",
+        "FRACT": "fractional (e.g., half, third)",
+        "INTENS": "intensifying (e.g., such, what)",
+        "DIST":"distributive (either, each)",
+        "EXCL": "exclusive (only, just)",
+        "FOC": "focusing (even, also)",
+        "SEQ": "sequential (first, second, last)",
+        "QUANT": {
+          "QUANT": "quantifier (e.g., some, many, few)",
+          "GEN": "general quantity (some, many)",
+          "NUM": "numeral quantity (one, three)",
+          "EXACT": "exact quantity (exactly five)",
+          "APPROX": "approximate quantity (a few, several)",
+          "NEG": "negative quantifier (no, none)",
+          "UNIV": "universal quantifier (every, all)",
+          "FREQ": "frequency quantifier (each, occasional)"
+        }
+      },
+      "AGREEMENT": {
+        "NUM": {
+          "SG": "singular agreement",
+          "PL": "plural agreement",
+          "BOTH": "can apply to both"
+        },
+        "COUNT": {
+          "CNT": "countable nouns only",
+          "UNC": "uncountable nouns only",
+          "BOTH": "both countable and uncountable"
+        }
+      }
+    },
+    "PREP": {
+      "FORM": {
+        "INFLECT": "inflected form (rare, archaic)",
+        "SIMPLE": "standard non-inflected form"
+      },
+      "ROLE": {
+        "COMP": "complementizer (acts like a subordinator, e.g., before, after)",
+        "MARKER": "marks non-core arguments (e.g., of, for)",
+        "INTRO": "introduces PP adjuncts or modifiers (e.g., in, on, at)",
+        "LINK": "links noun or clause to other sentence elements",
+        "ARG": "introduces prepositional arguments or complements"
+      },
+      "FUNCTION": {
+        "LOC": "locative preposition (place-related)",
+        "TMP": "temporal preposition (time-related)",
+        "MNR": "manner or means",
+        "GOAL": "indicates purpose or destination",
+        "SOURCE": "starting point (e.g., from)",
+        "CAUSE": "indicates cause or reason",
+        "DISCOURSE": "contributes discourse organization (e.g., with regard to)"
+      },
+      "TYPE": {
+        "SIMPLE": "single-word preposition (e.g., in, at, on)",
+        "COMPOUND": "multi-word prepositional phrases (e.g., because of, in front of)",
+        "PARTICIPIAL": "derived from participles (e.g., considering, regarding)",
+        "DISCONTINUOUS": "spans non-contiguous parts (e.g., from...to, between...and)",
+        "POSTPOSITION": "follows the complement (e.g., ago, apart)"
+      },
+      "SEMANTIC": {
+        "TIME": {
+          "POINT": "specific time reference (e.g., at 5pm)",
+          "DURATION": "length of time (e.g., for two hours)",
+          "FREQ": "frequency (e.g., every week, on weekends)"
+        },
+        "PLACE": {
+          "POS": "location or position (e.g., on the table)",
+          "DIR": "direction or movement (e.g., into the room)"
+        },
+        "CAUSE": "reason or cause (e.g., because of, due to)",
+        "PURPOSE": "goal, intended result (e.g., for, in order to)",
+        "MEANS": "means or method (e.g., by bus, with a knife)",
+        "CONDITION": "conditional context (e.g., in case of, under)",
+        "CONCESSION": "contrastive idea (e.g., despite, in spite of)",
+        "COMPARISON": "comparison or similarity (e.g., like, as)",
+        "AGENT": "agent in passive constructions (e.g., by)",
+        "TOPIC": "subject or reference (e.g., about, regarding)",
+        "EXCEPTION": "exceptions/exclusions (e.g., except for, but for)",
+        "ACCOMPANIMENT": "in company with (e.g., with, along with)"
+      },
+      "GRAMMATICAL_FUNCTION": {
+        "COMP": "complementizer (acts like a subordinator; e.g., before, after)",
+        "MARKER": "marks non-core arguments (e.g., of, for)",
+        "INTRO": "introduces PP adjuncts or modifiers (e.g., in, on, at)"
+      },
+      "POSITION": {
+        "PRE": "pre-head standard position (before NP or clause)",
+        "POST": "post-head (follows object, e.g., 'three days ago')",
+        "FLEX": "can appear pre or post (e.g., long ago / ago long?)"
+      },
+      "POS": {}
+    },
+    "CONJ": {
+      "FORM": {
+        "SIMPLE": "single-word conjunction (e.g., and, because, if)",
+        "PHRASE": "multi-word or compound (e.g., as long as, in case, provided that)",
+        "CORREL": "paired conjunctions (e.g., either...or, neither...nor)"
+      },
+      "ROLE": {
+        "COORD": "coordinating (joins two equal syntactic units, e.g., and, but)",
+        "SUBORD": "subordinating (connects dependent clauses, e.g., because, although)",
+        "PHRASE": "phrase-level conjunction (e.g., as long as, in case)",
+        "CLAUSE": "clause introducer (e.g., that, whether)",
+        "SENT": "sentence connector (e.g., however, therefore)",
+        "REDUP": "reduplicated form (e.g., so...that, such...that)",
+        "TRANS": "transitional function across sentences or discourse",
+        "CONJ_ADV": "conjunctive adverb (e.g., however, therefore, moreover)"
+      },
+      "FUNCTION": {
+        "ADD": "addition (e.g., and, also, moreover)",
+        "ALT": "alternative/choice (e.g., or, either...or)",
+        "ADV": "adversative/contrast (e.g., but, however, whereas)",
+        "RES": "result/consequence (e.g., so, therefore, thus)",
+        "COND": "condition (e.g., if, unless, in case)",
+        "TIME": "temporal relation (e.g., before, after, while)",
+        "CAUSE": "cause or reason (e.g., because, since, as)",
+        "PURP": "purpose (e.g., so that, in order that)",
+        "CONC": "concession (e.g., although, even though, though)",
+        "EXPL": "explanation/clarification (e.g., namely, in other words, that is)",
+        "SEQ": "sequence (e.g., then, next, afterward)"
+      },
+      "POSITION": {
+        "FRONT": "introduces a clause or sentence (e.g., Although she tried...)",
+        "MID": "joins two sentence parts (e.g., She tried, but failed.)",
+        "END": "appears clause-final in rare constructions (e.g., He did not win, although.)"
+      }
+    },
+    "PART": {
+      "FORM": {
+        "SIMPLE": "single-word particle (e.g., not, to, up)",
+        "COMPOUND": "multi-word particle expressions (e.g., as if, even though)"
+      },
+      "ROLE": {
+        "PRE": "pre-nominal (before noun, e.g., the only way)",
+        "POST": "post-nominal (after noun, e.g., the way up)",
+        "PRED": "predicative (follows a linking verb, e.g., it is up to you)",
+        "ADJUNCT": "adverbial adjunct (modifies verb or clause, e.g., run up quickly)",
+        "NOM": "nominal use (e.g., the dying are many",
+        "MODIFIER": "modifies verb or clause aspect/polarity",
+        "AUXILIARY_EXT": "extends or sharpens auxiliary meaning (e.g., not, even)",
+        "LEX_SEP": "forms part of phrasal verb or idiom",
+        "EMPHATIC": "adds emphasis or attitude"
+      },
+      "FUNCTION": {
+        "DESC": "Descriptive (adjective-like)",
+        "TEMP": "Temporal (action relative to verb)",
+        "CAUSE": "Cause (reason for action)",
+        "COND": "Conditional (if, unless)",
+        "PURP": "Purpose (intended result)",
+        "CONC": "Concessive (despite, although)",
+        "INTENS": "Emphatic (intensifies meaning)",
+        "ASPECT": "adds emphasis or aspectual nuance"
+      },
+      "TYPE": {
+        "NEG": "negative particle (e.g., not, never)",
+        "INF": "infinitive marker (e.g., to in 'to go')",
+        "PRTCL": "verb particle (e.g., up in 'pick up', off in 'take off')",
+        "EMP": "emphatic particle (e.g., just, even, really)",
+        "Q": "question marker (e.g., ever, at all in questions)",
+        "FOC": "focus particle (e.g., only, even, too)",
+        "MOD": "modality/attitude particle (e.g., indeed, surely)"
+      },
+      "POSITION": {
+        "PREV": "pre-verbal (e.g., not go, never saw)",
+        "POSTV": "post-verbal (e.g., come up, run off)",
+        "END": "clause-final (e.g., finish it off)",
+        "FLEX": "flexible position (e.g., really can occur in multiple spots)"
+      }
+    },
+    "WH": {
+      "FORM": {
+        "SIMPLE": "single-word (who, where, why)",
+        "COMPOUND": "complex wh-phrase (e.g., how long, how much)"
+      },
+      "ROLE": {
+        "SUBJ": "subject of question (e.g., Who is coming?)",
+        "OBJ": "object of question (e.g., What did you see?)",
+        "POSS": "possessive (e.g., Whose book is this?)",
+        "PREP": "object of preposition (e.g., To whom did you speak?)",
+        "DET": "determiner in noun phrase (e.g., Which book do you prefer?)",
+        "ADV.MNR": "adverbial of manner (e.g., How did you do that?)",
+        "ADV.TMP": "adverbial of time (e.g., When will you arrive?)",
+        "ADV.LOC": "adverbial of place (e.g., Where are you going?)",
+        "ADV.CAUSE": "adverbial of cause (e.g., Why did you leave?)",
+        "INTJ": "interjection in question (e.g., How wonderful!)",
+        "COMP": "complement of verb (e.g., What made you stay?)"
+      },
+      "FUNCTION": {
+        "INT": "interrogative (used in wh-questions)",
+        "REL": "relative (used to introduce relative clauses)",
+        "EXCL": "exclamative (e.g., What a day!)",
+        "FOCUS": "focus (e.g., who does that?)",
+        "POL": "polar (yes/no questions, e.g., Is it true?)",
+        "DISCOURSE": "discourse marker (e.g., you know, I mean)",
+        "LOG": "logical connector (e.g., whatever, whoever)"
+      },
+      "TYPE": {
+        "PRON": "wh-pronoun (what, who, which, whose, whom)",
+        "ADV": "wh-adverb (when, where, why, how)",
+        "DET": "wh-determiner (which, what in front of a noun)",
+        "COMP": "wh-complementizer (that, whether, if in embedded questions)"
+      },
+      "SEMANTIC": {
+        "PERSON": "refers to people (who, whom, whose)",
+        "THING": "refers to objects or concepts (what, which)",
+        "PLACE": "location (where)",
+        "TIME": "time (when)",
+        "REASON": "cause or reason (why)",
+        "MANNER": "method or style (how)",
+        "CHOICE": "selection from alternatives (which)"
+      }
+    },
+    "INTJ": {
+      "FORM": {
+        "SIMPLE": "single word (e.g., ouch, hey)",
+        "COMPOUND": "fixed phrase (e.g., oh my God, thank goodness)"
+      },
+      "ROLE": {
+        "DISCOURSE": "manages discourse (e.g., well, okay)",
+        "CLAUSE": "can stand alone as a clause (e.g., ouch!, wow!)",
+        "SENT": "can function as a complete sentence (e.g., hello, goodbye)",
+        "CALL": "attention-getters (e.g., hey!, yo!)",
+        "RESPONSE": "reacts to something said or done"
+      },
+      "FUNCTION": {
+        "EMOTION": "expresses feelings (e.g., anger, surprise, joy)",
+        "ATTITUDE": "conveys speaker's attitude (e.g., frankly, honestly)",
+        "EVAL": "evaluative comment",
+        "BACKCH": "backchanneling (e.g., uh-huh, mm-hmm)",
+        "TURN": "turn-taking (e.g., right, okay)",
+        "GREET": "greetings or farewells (e.g., hi, bye, cheers)",
+        "VOC": "vocative (direct address, e.g., John!)",
+        "REACTION": "responds to stimuli (e.g., ouch!, wow!)",
+        "DISCOURSE": "manages conversation (e.g., well, okay, right)",
+        "EXCL": "used as strong exclamations (e.g., wow!, yikes!)",
+        "CALL": "attention-getters (e.g., hey!, yo!)",
+        "HESITATION": "fills silence or delay (e.g., um, uh)"
+      },
+      "TYPE": {
+        "PRIMARY": "pure interjections (standalone expressions like wow, ouch)",
+        "SECONDARY": "derived from other word classes (e.g., damn, oh boy)",
+        "FORMULAIC": "fixed social expressions (e.g., hello, goodbye, thank you)",
+        "SOUND": "onomatopoeic expressions (e.g., ugh, ah, shh)",
+        "MILD": "soft exclamations (e.g., well, hmm)",
+        "EMPHATIC": "emphasizing expressions (e.g., indeed, absolutely)"
+      },
+      "REGISTER": {
+        "FORMAL": "appropriate for professional or academic use",
+        "NEUTRAL": "general-purpose language",
+        "INFORMAL": "casual use in friendly settings",
+        "SLANG": "nonstandard colloquial expressions",
+        "VULGAR": "explicit, offensive or taboo language",
+        "EUPHEMISM": "mild substitutes for harsh or taboo expressions"
+      },
+      "POSITION": {
+        "INITIAL": "typically at the start of a sentence or utterance",
+        "STANDALONE": "can appear as an independent sentence",
+        "INSERTED": "can be inserted parenthetically into sentences"
+      }
+    },
+    "NUM": {
+      "FORM": {
+        "SIMPLE": "single-word (e.g., ten, fifth)",
+        "COMPOUND": "multi-word (e.g., twenty-one, one hundred)"
+      },
+      "ROLE": {
+        "MOD": "modifies noun (e.g., two dogs)",
+        "HEAD": "acts as noun head (e.g., the first, the three)",
+        "PRED": "predicative (e.g., It is five o'clock)",
+        "DET": "determiner in noun phrase (e.g., three apples)",
+        "PRON": "acts as pronoun (e.g., I have two, I saw the first)",
+        "ADV": "adverbial use (e.g., He runs twice as fast)"
+      },
+      "TYPE": {
+        "CARD": "cardinal (e.g., one, two, thirty)",
+        "ORD": "ordinal (e.g., first, second, third)",
+        "FRAC": "fractional (e.g., half, quarter)",
+        "FREQ": "frequency (e.g., once, twice, thrice)",
+        "MULT": "multiplicative (e.g., double, triple)",
+        "COLL": "collective (e.g., dozen, score)",
+        "ROMAN": "Roman numerals (e.g., I, II, III)",
+        "MIXED": "mixed numerals (e.g., 1 1/2, 2 3/4)",
+        "DECIMAL": "decimal numbers (e.g., 3.14, 0.5)",
+        "PERCENT": "percentage (e.g., 50%, one-third)",
+        "RATIO": "ratio (e.g., 2:1, three to one)",
+        "NEG": "negative numbers (e.g., minus five, negative two)",
+        "RANGE": "range (e.g., between five and ten, from one to twenty)"
+      },
+      "FUNCTION": {
+        "EXACT": "exact numbers (e.g., exactly five, precisely ten)",
+        "UNIV": "universal (e.g., all, every)",
+        "DISTR": "distributive (e.g., each, every)",
+        "APPROX": "approximate numbers (e.g., about ten, roughly twenty)"
+      }
+    }
+  }
+}

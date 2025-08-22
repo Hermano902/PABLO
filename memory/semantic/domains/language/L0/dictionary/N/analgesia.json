@@ -1,0 +1,74 @@
+[
+  {
+    "word": "analgesia",
+    "lemma": "analgesia",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌæn.əlˈd͡ʒiː.zi.ə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "analgesias"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The inability to feel pain .",
+        "examples": [],
+        "synonyms": [
+          "analgia"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A process of temporarily reducing the ability to feel pain; the provision of this service.",
+        "examples": [
+          "This office procedure is quick and straightforward, but it does require some analgesia ."
+        ],
+        "synonyms": [
+          "pain relief"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A medication that performs this action: one that relieves pain.",
+        "examples": [
+          "She was able to take analgesia orally."
+        ],
+        "synonyms": [
+          "analgesic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely",
+          "metonymic",
+          "often proscribed"
+        ],
+        "label_groups": "loosely , metonymic , often proscribed"
+      }
+    ],
+    "main_definition": "( medicine ) The inability to feel pain .",
+    "secondary_definitions": [
+      "( medicine ) A process of temporarily reducing the ability to feel pain; the provision of this service.",
+      "( loosely , metonymic , often proscribed ) A medication that performs this action: one that relieves pain."
+    ]
+  }
+]

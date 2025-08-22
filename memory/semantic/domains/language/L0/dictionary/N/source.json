@@ -1,0 +1,107 @@
+[
+  {
+    "word": "source",
+    "lemma": "source",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/sɔːs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sources"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The person , place , or thing from which something (information, goods, etc.) comes or is acquired .",
+        "examples": [
+          "The accused refused to reveal the source of the illegal drugs she was selling."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Spring ; fountainhead ; wellhead ; any collection of water on or under the surface of the ground in which a stream originates.",
+        "examples": [
+          "The main sources of the Euphrates River are the Karasu and Murat Rivers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A reporter's informant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Source code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The name of one terminal of a field effect transistor ( FET ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "A node in a directed graph whose edges all go out from it; one with no entering edges.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "The domain of a function; the object which a morphism points from.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory"
+        ],
+        "label_groups": "mathematics , category theory"
+      }
+    ],
+    "main_definition": "The person , place , or thing from which something (information, goods, etc.) comes or is acquired .",
+    "secondary_definitions": [
+      "Spring ; fountainhead ; wellhead ; any collection of water on or under the surface of the ground in which a stream originates.",
+      "A reporter's informant .",
+      "( computing ) Source code .",
+      "( electronics ) The name of one terminal of a field effect transistor ( FET ).",
+      "( graph theory ) A node in a directed graph whose edges all go out from it; one with no entering edges.",
+      "( mathematics , category theory ) The domain of a function; the object which a morphism points from."
+    ]
+  }
+]

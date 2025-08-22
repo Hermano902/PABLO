@@ -1,0 +1,71 @@
+[
+  {
+    "word": "tube",
+    "lemma": "tube",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tjuːb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tubes",
+          "PT": "tubed",
+          "PAP": "tubed",
+          "PRP": "tubing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To supply with, or enclose in, a tube.",
+        "examples": [
+          "She tubes lipstick in the cosmetics factory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ride an inner tube .",
+        "examples": [
+          "They tubed down the Colorado River."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To intubate .",
+        "examples": [
+          "The patient was tubed ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "medicine , transitive , colloquial"
+      }
+    ],
+    "main_definition": "( transitive ) To supply with, or enclose in, a tube.",
+    "secondary_definitions": [
+      "To ride an inner tube .",
+      "( medicine , transitive , colloquial ) To intubate ."
+    ]
+  }
+]

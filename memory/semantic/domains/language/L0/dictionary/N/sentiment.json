@@ -1,0 +1,52 @@
+[
+  {
+    "word": "sentiment",
+    "lemma": "sentiment",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛn.tɪ.mənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sentiments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A general thought, feeling , or sense.",
+        "examples": [
+          "The sentiment emerged that we were acting too soon."
+        ],
+        "synonyms": [
+          "emotion",
+          "affect"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Feelings, especially tender feelings, as apart from reason or judgment, or of a weak or foolish kind.",
+        "examples": [
+          "Good decision-making is not governed by mere sentiment ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "A general thought, feeling , or sense.",
+    "secondary_definitions": [
+      "( uncountable ) Feelings, especially tender feelings, as apart from reason or judgment, or of a weak or foolish kind."
+    ]
+  }
+]

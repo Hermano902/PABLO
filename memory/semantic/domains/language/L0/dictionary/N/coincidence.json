@@ -1,0 +1,70 @@
+[
+  {
+    "word": "coincidence",
+    "lemma": "coincidence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəʊˈɪnsɪdəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "coincidences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of objects, the property of being coincident ; occurring at the same time or place .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of events , the appearance of a meaningful connection when there is none.",
+        "examples": [
+          "That the two writers were born and died on the same day is just a coincidence , although there are many conspiracy theories about it.",
+          "It is sheer coincidence that the cartoon resembles the local politician."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A coincidence point .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematical analysis"
+      },
+      {
+        "definition": "A fixed point of a correspondence ; a point of a variety corresponding to itself under a correspondence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "Of objects, the property of being coincident ; occurring at the same time or place .",
+    "secondary_definitions": [
+      "Of events , the appearance of a meaningful connection when there is none.",
+      "( mathematical analysis ) A coincidence point .",
+      "( geometry ) A fixed point of a correspondence ; a point of a variety corresponding to itself under a correspondence."
+    ]
+  }
+]

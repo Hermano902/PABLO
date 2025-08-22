@@ -1,0 +1,45 @@
+[
+  {
+    "word": "subobject",
+    "lemma": "subobject",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subobjects"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An object that is part of another object.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An object and a monomorphism from it to another object, which monomorphism is interpreted as an inclusion . Actually it is an equivalence class of monomorphisms to the same object, where the equivalence relation is the ability of a pair of monomorphisms to factor through each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "An object that is part of another object.",
+    "secondary_definitions": [
+      "( category theory ) An object and a monomorphism from it to another object, which monomorphism is interpreted as an inclusion . Actually it is an equivalence class of monomorphisms to the same object, where the equivalence relation is the ability of a pair of monomorphisms to factor through each other."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "word": "voltage",
+    "lemma": "voltage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvəʊltɪd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "voltages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The difference in electrostatic potential between two points in space , especially between live and neutral conductors or the earth .",
+        "examples": [
+          "The voltage between the wires is too low to produce a spark.",
+          "Be careful when opening high- voltage equipment."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electricity"
+        ],
+        "label_groups": "electricity"
+      }
+    ],
+    "main_definition": "( electricity ) The difference in electrostatic potential between two points in space , especially between live and neutral conductors or the earth .",
+    "secondary_definitions": []
+  }
+]

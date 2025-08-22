@@ -1,0 +1,34 @@
+{
+  "word": "noodle",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "V:2",
+    "V:3",
+    "N:3",
+    "V:4",
+    "V:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 15,
+      "examples": 5,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 20
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\noodle.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\noodle.json"
+  },
+  "timestamp": "2025-08-19T10:15:32.835672Z"
+}

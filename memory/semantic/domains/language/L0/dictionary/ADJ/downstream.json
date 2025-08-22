@@ -1,0 +1,72 @@
+[
+  {
+    "word": "downstream",
+    "lemma": "downstream",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌdaʊnˈstɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "furtherdownstream",
+          "SUP": "furthestdownstream"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Further along in the flow of current , in relation to a river, stream, bloodstream, or other flow of fluid.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Occurring later than something else; ( also, usually, especially ) influenced by something else; being a consequence of something else.",
+        "examples": [
+          "Input validation is downstream of input entry in the runtime process."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In the direction from the server to the client .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer networking"
+            ],
+            "label_groups": "computer networking"
+          },
+          {
+            "definition": "Towards the 3′ end of a DNA molecule.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology"
+            ],
+            "label_groups": "biology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "Further along in the flow of current , in relation to a river, stream, bloodstream, or other flow of fluid.",
+    "secondary_definitions": [
+      "( figurative ) Occurring later than something else; ( also, usually, especially ) influenced by something else; being a consequence of something else."
+    ]
+  }
+]

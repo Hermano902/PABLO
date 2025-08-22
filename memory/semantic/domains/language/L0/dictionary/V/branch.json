@@ -1,0 +1,108 @@
+[
+  {
+    "word": "branch",
+    "lemma": "branch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹɑːnt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "branches",
+          "PT": "branched",
+          "PAP": "branched",
+          "PRP": "branching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arise from the trunk or a larger branch of a tree.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To produce branches.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To (cause to) divide into separate parts or subdivisions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To jump to a different location in a program , especially as the result of a conditional statement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , computing"
+      },
+      {
+        "definition": "To strip of branches.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To discipline (a union member) at a branch meeting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      }
+    ],
+    "main_definition": "( intransitive ) To arise from the trunk or a larger branch of a tree.",
+    "secondary_definitions": [
+      "( intransitive ) To produce branches.",
+      "( ambitransitive ) To (cause to) divide into separate parts or subdivisions.",
+      "( intransitive , computing ) To jump to a different location in a program , especially as the result of a conditional statement .",
+      "( transitive ) To strip of branches.",
+      "( transitive , colloquial ) To discipline (a union member) at a branch meeting."
+    ]
+  }
+]

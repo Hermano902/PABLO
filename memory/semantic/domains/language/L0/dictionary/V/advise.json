@@ -1,0 +1,137 @@
+[
+  {
+    "word": "advise",
+    "lemma": "advise",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ədˈvaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "advises",
+          "PT": "advised",
+          "PAP": "advised",
+          "PRP": "advising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give advice to; to offer an opinion to, as worthy or expedient to be followed .",
+        "examples": [
+          "The dentist advised me to brush three times a day.",
+          "The lawyer advised me to drop the case, since there was no chance of winning."
+        ],
+        "synonyms": [
+          "counsel",
+          "warn"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To recommend ; to offer as advice.",
+        "examples": [
+          "The dentist advised brushing three times a day."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To formally give information or notice to; to inform or counsel .",
+        "examples": [
+          "We were advised of the risk."
+        ],
+        "synonyms": [
+          "inform",
+          "notify"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "with of ‘what is communicated’"
+      },
+      {
+        "definition": "To consider , to deliberate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive",
+        "dating_raw": "with of"
+      },
+      {
+        "definition": "To look at, watch ; to see .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To consult (with).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive",
+        "dating_raw": "with with"
+      },
+      {
+        "definition": "To deliver judgment after a case has been reserved for further consideration.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Scots law"
+        ],
+        "label_groups": "Scots law"
+      }
+    ],
+    "main_definition": "( transitive ) To give advice to; to offer an opinion to, as worthy or expedient to be followed .",
+    "secondary_definitions": [
+      "( transitive ) To recommend ; to offer as advice.",
+      "( transitive ) To formally give information or notice to; to inform or counsel . [ with of ‘what is communicated’ ]",
+      "( intransitive ) To consider , to deliberate . [ with of ]",
+      "( obsolete , transitive ) To look at, watch ; to see .",
+      "( obsolete , intransitive ) To consult (with). [ with with ]",
+      "( Scots law ) To deliver judgment after a case has been reserved for further consideration."
+    ]
+  }
+]

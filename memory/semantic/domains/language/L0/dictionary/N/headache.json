@@ -1,0 +1,54 @@
+[
+  {
+    "word": "headache",
+    "lemma": "headache",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɛdeɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "headaches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A pain or ache in the head .",
+        "examples": [
+          "I have a splitting headache after that party last night.",
+          "I advise you to take some painkillers for the headache , it's probably nothing serious."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "A nuisance or unpleasant problem .",
+        "examples": [
+          "The clumsy filing system has been a huge headache ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "( medicine ) A pain or ache in the head .",
+    "secondary_definitions": [
+      "( figurative ) A nuisance or unpleasant problem ."
+    ]
+  }
+]

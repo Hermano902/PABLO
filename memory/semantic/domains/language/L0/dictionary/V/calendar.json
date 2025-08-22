@@ -1,0 +1,57 @@
+[
+  {
+    "word": "calendar",
+    "lemma": "calendar",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæl.ən.də/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "calendars",
+          "PT": "calendared",
+          "PAP": "calendared",
+          "PRP": "calendaring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To set a date for a proceeding in court , usually done by a judge at a calendar call .",
+        "examples": [
+          "The judge agreed to calendar a hearing for pretrial motions for the week of May 15, but did not agree to calendar the trial itself on a specific date."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "transitive"
+        ],
+        "label_groups": "law , transitive"
+      },
+      {
+        "definition": "To enter or write in a calendar; to register.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( law , transitive ) To set a date for a proceeding in court , usually done by a judge at a calendar call .",
+    "secondary_definitions": [
+      "( transitive ) To enter or write in a calendar; to register."
+    ]
+  }
+]

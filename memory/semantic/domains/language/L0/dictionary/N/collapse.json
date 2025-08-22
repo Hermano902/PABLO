@@ -1,0 +1,56 @@
+[
+  {
+    "word": "collapse",
+    "lemma": "collapse",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/k(ə)ˈlæps/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "collapses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of collapsing .",
+        "examples": [
+          "She suffered a terrible collapse after slipping on the wet floor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Constant function, one-valued function (in automata theory) (in particular application causing a reset ). (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ellipsis of batting collapse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "The act of collapsing .",
+    "secondary_definitions": [
+      "Constant function, one-valued function (in automata theory) (in particular application causing a reset ). (Can we add an example for this sense?)",
+      "( cricket ) Ellipsis of batting collapse ."
+    ]
+  }
+]

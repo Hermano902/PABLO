@@ -1,0 +1,66 @@
+[
+  {
+    "word": "kilobit",
+    "lemma": "kilobit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "kilobits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One thousand (10 , or 1,000) bits .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "a kibibit",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "rare"
+        ],
+        "label_groups": "computing , rare"
+      },
+      {
+        "definition": "one kilobit per second",
+        "examples": [],
+        "synonyms": [
+          "kbps"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      }
+    ],
+    "main_definition": "( computing ) One thousand (10 , or 1,000) bits .",
+    "secondary_definitions": [
+      "( computing , rare ) a kibibit",
+      "( computing , informal ) one kilobit per second"
+    ]
+  }
+]

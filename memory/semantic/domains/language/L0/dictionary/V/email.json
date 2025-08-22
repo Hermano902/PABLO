@@ -1,0 +1,75 @@
+[
+  {
+    "word": "email",
+    "lemma": "email",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːmeɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "emails",
+          "PT": "emailed",
+          "PAP": "emailed",
+          "PRP": "emailing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send an email or emails to.",
+        "examples": [
+          "She emailed me last week, asking about the status of the project."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To send (data) through email.",
+        "examples": [
+          "I’ll email you the link.",
+          "He emailed the file out to everyone."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "transitive , ditransitive"
+      },
+      {
+        "definition": "To send, or compose and then send, one or more emails.",
+        "examples": [
+          "Most teenagers seem to spend almost the whole day emailing and surfing the Web."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To send an email or emails to.",
+    "secondary_definitions": [
+      "( transitive , ditransitive ) To send (data) through email.",
+      "( intransitive ) To send, or compose and then send, one or more emails."
+    ]
+  }
+]

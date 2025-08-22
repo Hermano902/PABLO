@@ -1,0 +1,75 @@
+[
+  {
+    "word": "epicycle",
+    "lemma": "epicycle",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛpɪˌsaɪkəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "epicycles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small circle whose centre is on the circumference of a larger circle; in Ptolemaic astronomy it was seen as the basis of revolution of the \"seven planets\", given a fixed central Earth.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "Any circle whose circumference rolls around that of another circle, thus creating a hypocycloid or epicycloid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A ring of atoms joining parts of an already cyclic compound",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry"
+        ],
+        "label_groups": "organic chemistry"
+      },
+      {
+        "definition": "An ad hoc complication added to a model to make it fit the known data",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( astronomy ) A small circle whose centre is on the circumference of a larger circle; in Ptolemaic astronomy it was seen as the basis of revolution of the \"seven planets\", given a fixed central Earth.",
+    "secondary_definitions": [
+      "( geometry ) Any circle whose circumference rolls around that of another circle, thus creating a hypocycloid or epicycloid .",
+      "( organic chemistry ) A ring of atoms joining parts of an already cyclic compound",
+      "( figuratively ) An ad hoc complication added to a model to make it fit the known data"
+    ]
+  }
+]

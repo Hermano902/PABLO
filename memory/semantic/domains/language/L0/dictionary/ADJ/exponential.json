@@ -1,0 +1,83 @@
+[
+  {
+    "word": "exponential",
+    "lemma": "exponential",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛk.spəˈnɛn.t͡ʃəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Relating to an exponent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Can we verify this sense?"
+        ],
+        "label_groups": "Can we verify this sense?"
+      },
+      {
+        "definition": "Expressed in terms of an exponent ( power of a base), the base often being 10 or e .",
+        "examples": [
+          "In base-10 exponential form, 1,000,000 is written as 10 .",
+          "If not otherwise specified, \"the\" exponential function is normally understood to mean e .",
+          "e"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Characterised by a rate of change that is proportional to the value of the varying quantity, or, equivalently, by a doubling or halving over successive fixed intervals of time or other parameter, described as exponential growth or exponential decay .",
+        "examples": [
+          "There were two deaths on Monday, four on Tuesday, and eight on Wednesday. The rate of increase seems exponential ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Characterised by a very rapid rate of change, especially increase, or merely a very large amount or degree.",
+        "examples": [
+          "There's been an exponential rise in the number of crimes reported this year, compared to last year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      }
+    ],
+    "main_definition": "( Can we verify this sense?) Relating to an exponent .",
+    "secondary_definitions": [
+      "( mathematics ) Expressed in terms of an exponent ( power of a base), the base often being 10 or e .",
+      "( mathematics ) Characterised by a rate of change that is proportional to the value of the varying quantity, or, equivalently, by a doubling or halving over successive fixed intervals of time or other parameter, described as exponential growth or exponential decay .",
+      "( loosely ) Characterised by a very rapid rate of change, especially increase, or merely a very large amount or degree."
+    ]
+  }
+]

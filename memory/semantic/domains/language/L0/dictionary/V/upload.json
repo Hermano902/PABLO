@@ -1,0 +1,60 @@
+[
+  {
+    "word": "upload",
+    "lemma": "upload",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əpˈləʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "uploads",
+          "PT": "uploaded",
+          "PAP": "uploaded",
+          "PRP": "uploading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transfer data to a computer on a network , especially to a server on the Internet .",
+        "examples": [
+          "You will have to convert your photograph to a jpg format if you wish to upload it."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "download"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "computing"
+        ],
+        "label_groups": "transitive , intransitive , computing"
+      },
+      {
+        "definition": "To transfer jurisdiction and responsibility of a government asset or service to a higher level of government.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada"
+        ],
+        "label_groups": "Canada"
+      }
+    ],
+    "main_definition": "( transitive , intransitive , computing ) To transfer data to a computer on a network , especially to a server on the Internet .",
+    "secondary_definitions": [
+      "( Canada ) To transfer jurisdiction and responsibility of a government asset or service to a higher level of government."
+    ]
+  }
+]

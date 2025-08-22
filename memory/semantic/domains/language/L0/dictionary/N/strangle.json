@@ -1,0 +1,35 @@
+[
+  {
+    "word": "strangle",
+    "lemma": "strangle",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstɹæŋɡ(ə)l/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "strangles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A trading strategy using options , constructed through taking equal positions in a put and a call with different strike prices , such that there is a payoff if the underlying asset 's value moves beyond the range of the two strike prices.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( finance ) A trading strategy using options , constructed through taking equal positions in a put and a call with different strike prices , such that there is a payoff if the underlying asset 's value moves beyond the range of the two strike prices.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "chernobyl",
+    "lemma": "chernobyl",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/tʃɜːˈnɒbəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A partially abandoned city and ghost town in northern Ukraine , known as the site of a nuclear disaster .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( by extension ) The 1986 nuclear accident which resulted in the abandonment of the aforementioned city.",
+        "examples": [
+          "After Chernobyl , very few nuclear power plants were built for years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A partially abandoned city and ghost town in northern Ukraine , known as the site of a nuclear disaster .",
+    "secondary_definitions": [
+      "( by extension ) The 1986 nuclear accident which resulted in the abandonment of the aforementioned city."
+    ]
+  },
+  {
+    "word": "chernobyl",
+    "lemma": "chernobyl",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/tʃɜːˈnɒbəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Chernobyls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A major nuclear-energy accident.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "( by extension ) A major nuclear-energy accident.",
+    "secondary_definitions": []
+  }
+]

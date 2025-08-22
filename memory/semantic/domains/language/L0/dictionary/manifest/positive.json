@@ -1,0 +1,28 @@
+{
+  "word": "positive",
+  "pos_order": [
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 23,
+      "examples": 12,
+      "synonyms": 5,
+      "antonyms": 7,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\positive.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\positive.json"
+  },
+  "timestamp": "2025-08-19T12:15:00.511887Z"
+}

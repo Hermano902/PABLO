@@ -1,0 +1,188 @@
+[
+  {
+    "word": "commit",
+    "lemma": "commit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəˈmɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "commits",
+          "PT": "committed",
+          "PAP": "committed",
+          "PRP": "committing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give in trust ; to put into charge or keeping ; to entrust ; to consign ; used with to or formerly unto .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To imprison : to forcibly place in a jail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To forcibly evaluate and treat in a medical facility , particularly for presumed mental illness .",
+        "examples": [
+          "Tony should be committed to a nuthouse!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To do (something bad ); to perpetrate , as a crime , sin , or fault .",
+        "examples": [
+          "to commit murder",
+          "to commit a series of heinous crimes",
+          "to commit suicide"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pledge or bind ; to compromise , expose , or endanger by some decisive act or preliminary step. ( Traditionally used only reflexively but now also without oneself etc. )",
+        "examples": [
+          "to commit oneself to a certain action",
+          "to commit to a relationship"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make a set of changes permanent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "databases"
+        ],
+        "label_groups": "transitive , computing , databases"
+      },
+      {
+        "definition": "To integrate new revisions into the public or master version of a file in a version control system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To enter into a contest; to match ; often followed by with .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To confound .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete",
+          "Latinism"
+        ],
+        "label_groups": "transitive , obsolete , Latinism"
+      },
+      {
+        "definition": "To commit an offence; especially, to fornicate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      },
+      {
+        "definition": "To be committed or perpetrated; to take place; to occur .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To give in trust ; to put into charge or keeping ; to entrust ; to consign ; used with to or formerly unto .",
+    "secondary_definitions": [
+      "( transitive ) To imprison : to forcibly place in a jail .",
+      "( transitive ) To forcibly evaluate and treat in a medical facility , particularly for presumed mental illness .",
+      "( transitive ) To do (something bad ); to perpetrate , as a crime , sin , or fault .",
+      "( ambitransitive ) To pledge or bind ; to compromise , expose , or endanger by some decisive act or preliminary step. ( Traditionally used only reflexively but now also without oneself etc. )",
+      "( transitive , computing , databases ) To make a set of changes permanent .",
+      "( transitive , programming ) To integrate new revisions into the public or master version of a file in a version control system.",
+      "( intransitive , obsolete ) To enter into a contest; to match ; often followed by with .",
+      "( transitive , obsolete , Latinism ) To confound .",
+      "( obsolete , intransitive ) To commit an offence; especially, to fornicate .",
+      "( obsolete , intransitive ) To be committed or perpetrated; to take place; to occur ."
+    ]
+  }
+]

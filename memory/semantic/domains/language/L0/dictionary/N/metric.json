@@ -1,0 +1,73 @@
+[
+  {
+    "word": "metric",
+    "lemma": "metric",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛt.ɹɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "metrics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A measure for something; a means of deriving a quantitative measurement or approximation for otherwise qualitative phenomena (especially used in engineering).",
+        "examples": [
+          "What metric should be used for performance evaluation?",
+          "What are the most important metrics to track for your business?",
+          "It's the most important single metric that quantifies the predictive performance.",
+          "How to measure marketing? Use these key metrics for measuring marketing effectiveness.",
+          "There is a lack of standard metrics ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A function which satisfies a particular set of formal conditions, created to generalize the notion of the distance between two points . Formally, a real-valued function d {\\displaystyle d} on M × M {\\displaystyle M\\times M} , where M {\\displaystyle M} is a set , is called a metric if (1) d ( x , y ) = 0 {\\displaystyle d(x,y)=0} if and only if x = y {\\displaystyle x=y} , (2) d ( x , y ) = d ( y , x ) {\\displaystyle d(x,y)=d(y,x)} for all pairs ( x , y ) {\\displaystyle (x,y)} , and (3) d {\\displaystyle d} obeys the triangle inequality .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematical analysis"
+      },
+      {
+        "definition": "A metric tensor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Abbreviation of metric system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A measure for something; a means of deriving a quantitative measurement or approximation for otherwise qualitative phenomena (especially used in engineering).",
+    "secondary_definitions": [
+      "( mathematical analysis ) A function which satisfies a particular set of formal conditions, created to generalize the notion of the distance between two points . Formally, a real-valued function d {\\displaystyle d} on M × M {\\displaystyle M\\times M} , where M {\\displaystyle M} is a set , is called a metric if (1) d ( x , y ) = 0 {\\displaystyle d(x,y)=0} if and only if x = y {\\displaystyle x=y} , (2) d ( x , y ) = d ( y , x ) {\\displaystyle d(x,y)=d(y,x)} for all pairs ( x , y ) {\\displaystyle (x,y)} , and (3) d {\\displaystyle d} obeys the triangle inequality .",
+      "( mathematics ) A metric tensor .",
+      "Abbreviation of metric system ."
+    ]
+  }
+]

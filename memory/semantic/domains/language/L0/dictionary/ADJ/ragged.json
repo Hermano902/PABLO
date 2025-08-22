@@ -1,0 +1,115 @@
+[
+  {
+    "word": "ragged",
+    "lemma": "ragged",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹæɡɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more ragged",
+          "SUP": "most ragged"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In tatters , having the texture broken.",
+        "examples": [
+          "a ragged coat",
+          "a ragged sail"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having rough edges; jagged or uneven",
+        "examples": [
+          "ragged rocks"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Harsh-sounding; having an unpleasant noise",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Wearing tattered clothes.",
+        "examples": [
+          "a ragged person"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Rough; shaggy ; rugged .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Faulty ; lacking in skill , reliability , or organization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Performed in a syncopated manner, especially in ragtime .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Of a data structure : having uneven levels .",
+        "examples": [
+          "a ragged hierarchy",
+          "a ragged array , consisting of a number of arrays of varying size"
+        ],
+        "synonyms": [
+          "jagged"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "In tatters , having the texture broken.",
+    "secondary_definitions": [
+      "Having rough edges; jagged or uneven",
+      "Harsh-sounding; having an unpleasant noise",
+      "Wearing tattered clothes.",
+      "Rough; shaggy ; rugged .",
+      "Faulty ; lacking in skill , reliability , or organization .",
+      "( music ) Performed in a syncopated manner, especially in ragtime .",
+      "( computing ) Of a data structure : having uneven levels ."
+    ]
+  }
+]

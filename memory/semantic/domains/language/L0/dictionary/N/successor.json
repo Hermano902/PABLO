@@ -1,0 +1,68 @@
+[
+  {
+    "word": "successor",
+    "lemma": "successor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səkˈsɛsə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "successors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or thing that immediately follows another in holding an office or title .",
+        "examples": [
+          "George W. Bush was successor to Bill Clinton as President of the US."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The next heir in order or succession .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who inherits a title or office .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The integer , ordinal number or cardinal number immediately following another.",
+        "examples": [
+          "A limit ordinal is not the successor of any ordinal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "set theory"
+        ],
+        "label_groups": "arithmetic , set theory"
+      }
+    ],
+    "main_definition": "A person or thing that immediately follows another in holding an office or title .",
+    "secondary_definitions": [
+      "The next heir in order or succession .",
+      "A person who inherits a title or office .",
+      "( arithmetic , set theory ) The integer , ordinal number or cardinal number immediately following another."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "transform",
+    "lemma": "transform",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈfɔːm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transforms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An operation (often an integration ) that converts one function into another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematical analysis"
+      },
+      {
+        "definition": "A function so produced.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "A transform fault .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology",
+          "seismology"
+        ],
+        "label_groups": "geology , seismology"
+      }
+    ],
+    "main_definition": "( mathematical analysis ) An operation (often an integration ) that converts one function into another.",
+    "secondary_definitions": [
+      "( by extension ) A function so produced.",
+      "( geology , seismology ) A transform fault ."
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "word": "save",
+    "lemma": "save",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/seɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "saves"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instance of preventing (further) harm or difficulty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In various sports , a block that prevents an opponent from scoring .",
+            "examples": [
+              "The goaltender made a great save ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A successful attempt by a relief pitcher to preserve the win of another pitcher on one's team.",
+            "examples": [
+              "Jones retired seven to earn the save ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "baseball"
+            ],
+            "label_groups": "baseball"
+          },
+          {
+            "definition": "A point in a professional wrestling match when one or more wrestlers run to the ring to aid a fellow wrestler who is being beaten .",
+            "examples": [
+              "The giant wrestler continued to beat down his smaller opponent, until several wrestlers ran in for the save ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "professional wrestling",
+              "slang"
+            ],
+            "label_groups": "professional wrestling , slang"
+          },
+          {
+            "definition": "An action that brings one back out of an awkward situation .",
+            "examples": [
+              "Nice save ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "informal"
+            ],
+            "label_groups": "informal"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The act, process, or result of saving data to a storage medium .",
+        "examples": [
+          "If you're hit by a power cut, you'll lose all of your changes since your last save .",
+          "The game console can store up to eight saves on a single cartridge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A saving throw .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "roleplaying games"
+        ],
+        "label_groups": "roleplaying games"
+      }
+    ],
+    "main_definition": "An instance of preventing (further) harm or difficulty .",
+    "secondary_definitions": [
+      "( computing ) The act, process, or result of saving data to a storage medium .",
+      "( roleplaying games ) A saving throw ."
+    ]
+  }
+]

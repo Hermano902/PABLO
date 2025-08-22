@@ -1,0 +1,58 @@
+[
+  {
+    "word": "premiere",
+    "lemma": "premiere",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈmɪɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "premieres",
+          "PT": "premiered",
+          "PAP": "premiered",
+          "PRP": "premiering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a film or play, to play for the first time.",
+        "examples": [
+          "The new film premieres this weekend."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To present a film or play for the first time.",
+        "examples": [
+          "The local theatre will premiere its latest play this week."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) Of a film or play, to play for the first time.",
+    "secondary_definitions": [
+      "( transitive ) To present a film or play for the first time."
+    ]
+  }
+]

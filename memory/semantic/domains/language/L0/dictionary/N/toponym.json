@@ -1,0 +1,65 @@
+[
+  {
+    "word": "toponym",
+    "lemma": "toponym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɒpənɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "toponyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A placename .",
+        "examples": [],
+        "synonyms": [
+          "placename",
+          "nomen loci",
+          "geographic name",
+          "geographical name"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A word derived from the name of a place.",
+        "examples": [
+          "‘Tangerine’ is a toponym of Tangier."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "less common"
+        ],
+        "label_groups": "less common"
+      },
+      {
+        "definition": "The technical designation of any region of an animal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      }
+    ],
+    "main_definition": "A placename .",
+    "secondary_definitions": [
+      "( less common ) A word derived from the name of a place.",
+      "( anatomy ) The technical designation of any region of an animal ."
+    ]
+  }
+]

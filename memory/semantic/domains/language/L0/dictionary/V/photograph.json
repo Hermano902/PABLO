@@ -1,0 +1,72 @@
+[
+  {
+    "word": "photograph",
+    "lemma": "photograph",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfəʊ.təˌɡɹɑːf/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "photographs",
+          "PT": "photographed",
+          "PAP": "photographed",
+          "PRP": "photographing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take a photograph (of).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To fix permanently in the memory etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To appear in a photograph.",
+        "examples": [
+          "She photographs well. The camera loves her.",
+          "loves"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To take a photograph (of).",
+    "secondary_definitions": [
+      "( transitive , figurative ) To fix permanently in the memory etc.",
+      "( intransitive ) To appear in a photograph."
+    ]
+  }
+]

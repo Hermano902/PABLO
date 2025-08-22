@@ -1,0 +1,73 @@
+[
+  {
+    "word": "vacuum",
+    "lemma": "vacuum",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvæ.kjuːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "vacuums",
+          "PT": "vacuumed",
+          "PAP": "vacuumed",
+          "PRP": "vacuuming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To clean (something) with a vacuum cleaner .",
+        "examples": [],
+        "synonyms": [
+          "hoover"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To use a vacuum cleaner .",
+        "examples": [],
+        "synonyms": [
+          "hoovering",
+          "hoover"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To optimise a database or database table by physically removing deleted tuples .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "databases"
+        ],
+        "label_groups": "transitive , databases"
+      }
+    ],
+    "main_definition": "( transitive ) To clean (something) with a vacuum cleaner .",
+    "secondary_definitions": [
+      "( intransitive ) To use a vacuum cleaner .",
+      "( transitive , databases ) To optimise a database or database table by physically removing deleted tuples ."
+    ]
+  }
+]

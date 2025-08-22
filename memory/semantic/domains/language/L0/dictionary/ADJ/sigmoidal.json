@@ -1,0 +1,45 @@
+[
+  {
+    "word": "sigmoidal",
+    "lemma": "sigmoidal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ɔɪdəl",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more sigmoidal",
+          "SUP": "most sigmoidal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "sigmoid ; S-shaped .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Characterized by a sigmoid curve or function",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "sigmoid ; S-shaped .",
+    "secondary_definitions": [
+      "( statistics ) Characterized by a sigmoid curve or function"
+    ]
+  }
+]

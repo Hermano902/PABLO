@@ -1,0 +1,45 @@
+[
+  {
+    "word": "methuselah",
+    "lemma": "methuselah",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "methuselahs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large wine bottle with the capacity of about 6 liters , equivalent to 8 standard bottles.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A small pattern that takes many generations to stabilize.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cellular automata"
+        ],
+        "label_groups": "cellular automata"
+      }
+    ],
+    "main_definition": "A large wine bottle with the capacity of about 6 liters , equivalent to 8 standard bottles.",
+    "secondary_definitions": [
+      "( cellular automata ) A small pattern that takes many generations to stabilize."
+    ]
+  }
+]

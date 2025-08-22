@@ -1,0 +1,95 @@
+[
+  {
+    "word": "credit",
+    "lemma": "credit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɹɛdɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "credits",
+          "PT": "credited",
+          "PAP": "credited",
+          "PRP": "crediting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To believe ; to put credence in.",
+        "examples": [
+          "Someone said there were over 100,000 people there, but I can't credit that."
+        ],
+        "synonyms": [
+          "accept",
+          "believe"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add to an account.",
+        "examples": [
+          "Credit accounts receivable with the amount of the invoice.",
+          "For the payroll period credit employees' tips to their wages paid account and debit their minimum wage payable account.",
+          "The full amount of the purchase has been credited to your account."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "debit"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "accounting"
+        ],
+        "label_groups": "transitive , accounting"
+      },
+      {
+        "definition": "To acknowledge the contribution of.",
+        "examples": [
+          "I credit the town council with restoring the shopping district.",
+          "Credit the point guard with another assist."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bring honour or repute upon; to do credit to; to raise the estimation of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To believe ; to put credence in.",
+    "secondary_definitions": [
+      "( transitive , accounting ) To add to an account.",
+      "( transitive ) To acknowledge the contribution of.",
+      "( transitive ) To bring honour or repute upon; to do credit to; to raise the estimation of."
+    ]
+  }
+]

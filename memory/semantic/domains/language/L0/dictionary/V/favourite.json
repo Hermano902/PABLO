@@ -1,0 +1,66 @@
+[
+  {
+    "word": "favourite",
+    "lemma": "favourite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfeɪv.ɹɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "favourites",
+          "PT": "favourited",
+          "PAP": "favourited",
+          "PRP": "favouriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To favour .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To bookmark .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "To add to one's list of favourite items on a website that allows users to compile such lists.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unfavourite",
+          "unfavorite"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "To favour .",
+    "secondary_definitions": [
+      "( Internet ) To bookmark .",
+      "( Internet ) To add to one's list of favourite items on a website that allows users to compile such lists."
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word": "injure",
+    "lemma": "injure",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪn.d͡ʒɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "injures",
+          "PT": "injured",
+          "PAP": "injured",
+          "PRP": "injuring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wound or cause physical harm to a living creature .",
+        "examples": [
+          "The rugby team's star player got injured in a violent collision.",
+          "I injured my ankle playing tennis."
+        ],
+        "synonyms": [
+          "harm",
+          "wound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To damage or impair .",
+        "examples": [],
+        "synonyms": [
+          "disfigure",
+          "mar"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To do injustice to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "benefit",
+          "help",
+          "praise",
+          "preserve"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To wound or cause physical harm to a living creature .",
+    "secondary_definitions": [
+      "( transitive ) To damage or impair .",
+      "( transitive ) To do injustice to."
+    ]
+  }
+]

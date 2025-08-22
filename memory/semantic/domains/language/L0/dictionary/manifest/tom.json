@@ -1,0 +1,31 @@
+{
+  "word": "tom",
+  "pos_order": [
+    "N",
+    "N:2",
+    "N:3",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tom.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tom.json"
+  },
+  "timestamp": "2025-08-19T19:17:28.908875Z"
+}

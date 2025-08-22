@@ -1,0 +1,91 @@
+[
+  {
+    "word": "queue",
+    "lemma": "queue",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kjuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "queues"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line of people, vehicles or other objects, usually one to be dealt with in sequence (i.e., the one at the front end is dealt with first, the one behind is dealt with next, and so on), and which newcomers join at the opposite end (the back ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "Ireland",
+          "Commonwealth",
+          "less common in North America"
+        ],
+        "label_groups": "UK , Ireland , Commonwealth , less common in North America",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "A waiting list or other means of organizing people or objects into a first-come-first-served order.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A data structure in which objects are added to one end, called the tail , and removed from the other, called the head (in the case of a FIFO queue). The term can also refer to a LIFO queue or stack where these ends coincide.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "An animal's tail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "heraldry"
+        ],
+        "label_groups": "heraldry",
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "A men's hairstyle with a braid or ponytail at the back of the head, such as that worn by men in Imperial China .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now historical"
+        ],
+        "label_groups": "now historical",
+        "dating_raw": "from 18th c."
+      }
+    ],
+    "main_definition": "( UK , Ireland , Commonwealth , less common in North America ) A line of people, vehicles or other objects, usually one to be dealt with in sequence (i.e., the one at the front end is dealt with first, the one behind is dealt with next, and so on), and which newcomers join at the opposite end (the back ). [from 19th c.]",
+    "secondary_definitions": [
+      "A waiting list or other means of organizing people or objects into a first-come-first-served order.",
+      "( computing ) A data structure in which objects are added to one end, called the tail , and removed from the other, called the head (in the case of a FIFO queue). The term can also refer to a LIFO queue or stack where these ends coincide. [from 20th c.]",
+      "( heraldry ) An animal's tail . [from 16th c.]",
+      "( now historical ) A men's hairstyle with a braid or ponytail at the back of the head, such as that worn by men in Imperial China . [from 18th c.]"
+    ]
+  }
+]

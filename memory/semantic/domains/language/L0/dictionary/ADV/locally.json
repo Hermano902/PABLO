@@ -1,0 +1,77 @@
+[
+  {
+    "word": "locally",
+    "lemma": "locally",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈləʊkəli/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more locally",
+          "SUP": "most locally"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "With respect to place; in place.",
+        "examples": [
+          "These things are locally separated."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In or from the local area.",
+        "examples": [
+          "We live locally .",
+          "In this shop we only sell products farmed locally ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In a restricted part of the body.",
+        "examples": [
+          "To be applied locally"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Within a sufficiently small sphere (or circle or interval) around a given point (sometimes, around any point).",
+        "examples": [
+          "locally Euclidean"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematics , mathematical analysis"
+      }
+    ],
+    "main_definition": "With respect to place; in place.",
+    "secondary_definitions": [
+      "In or from the local area.",
+      "( medicine ) In a restricted part of the body.",
+      "( mathematics , mathematical analysis ) Within a sufficiently small sphere (or circle or interval) around a given point (sometimes, around any point)."
+    ]
+  }
+]

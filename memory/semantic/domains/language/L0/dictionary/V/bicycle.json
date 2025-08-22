@@ -1,0 +1,56 @@
+[
+  {
+    "word": "bicycle",
+    "lemma": "bicycle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪsɪk(ə)l/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bicycles",
+          "PT": "bicycled",
+          "PAP": "bicycled",
+          "PRP": "bicycling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To travel or exercise using a bicycle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To physically ship (a recorded programme ) to another broadcasting entity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "television",
+          "historical",
+          "transitive"
+        ],
+        "label_groups": "television , historical , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To travel or exercise using a bicycle.",
+    "secondary_definitions": [
+      "( television , historical , transitive ) To physically ship (a recorded programme ) to another broadcasting entity."
+    ]
+  }
+]

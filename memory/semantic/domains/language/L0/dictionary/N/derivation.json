@@ -1,0 +1,170 @@
+[
+  {
+    "word": "derivation",
+    "lemma": "derivation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌdɛ.ɹɪˈveɪ.ʃ(ə)n/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "derivations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A leading or drawing off of water from a stream or source .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of receiving anything from a source ; the act of procuring an effect from a cause , means , or condition , as profits from capital , conclusions or opinions from evidence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of tracing origin or descent ; an instance thereof (for example, an etymology ).",
+        "examples": [
+          "the derivation of a word from an Indo-European root"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genealogy",
+          "linguistics"
+        ],
+        "label_groups": "genealogy , linguistics"
+      },
+      {
+        "definition": "Forming a new word by changing the base of another word or by adding affixes to it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "The state or method of being derived ; the relation of origin when established or asserted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That from which a thing is derived .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which is derived ; a derivative ; the result of a deduction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of deriving one thing from another, especially in logic ; a deduction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A formal proof : a sequence of statements, each of which is logically entailed by those preceding (with respect to some  collection of rules of inference ), the initial statements being taken as axioms .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The process of application of the derivative operator to a function , yielding another function called the derived function of the first.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "calculus"
+        ],
+        "label_groups": "mathematics , calculus"
+      },
+      {
+        "definition": "An algebraic generalization of the derivative operator (from its natural setting in the ring of real-valued functions) to a general associative algebra over a field . Formally, ( given an algebra A {\\displaystyle A} over a field K {\\displaystyle K} ) a K {\\displaystyle K} -linear endomorphism that satisfies Leibnitz's Law .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any of several generalizations of this notion: a Hasse–Schmidt derivation , a graded derivation , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "differential algebra"
+        ],
+        "label_groups": "mathematics , differential algebra"
+      },
+      {
+        "definition": "A drawing of humors or fluids from one part of the body to another , to relieve or lessen a morbid process .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "historical"
+        ],
+        "label_groups": "medicine , historical"
+      }
+    ],
+    "main_definition": "A leading or drawing off of water from a stream or source .",
+    "secondary_definitions": [
+      "The act of receiving anything from a source ; the act of procuring an effect from a cause , means , or condition , as profits from capital , conclusions or opinions from evidence .",
+      "( genealogy , linguistics ) The act of tracing origin or descent ; an instance thereof (for example, an etymology ).",
+      "( grammar ) Forming a new word by changing the base of another word or by adding affixes to it.",
+      "The state or method of being derived ; the relation of origin when established or asserted .",
+      "That from which a thing is derived .",
+      "That which is derived ; a derivative ; the result of a deduction .",
+      "The process of deriving one thing from another, especially in logic ; a deduction .",
+      "( mathematics , calculus ) The process of application of the derivative operator to a function , yielding another function called the derived function of the first.",
+      "( mathematics , differential algebra ) An algebraic generalization of the derivative operator (from its natural setting in the ring of real-valued functions) to a general associative algebra over a field . Formally, ( given an algebra A {\\displaystyle A} over a field K {\\displaystyle K} ) a K {\\displaystyle K} -linear endomorphism that satisfies Leibnitz's Law .",
+      "( medicine , historical ) A drawing of humors or fluids from one part of the body to another , to relieve or lessen a morbid process ."
+    ]
+  }
+]

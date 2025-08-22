@@ -1,0 +1,37 @@
+{
+  "word": "cherry",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cherry.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\cherry.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cherry.json"
+  },
+  "timestamp": "2025-08-18T23:42:50.256330Z"
+}

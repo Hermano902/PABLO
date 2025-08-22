@@ -1,0 +1,37 @@
+{
+  "word": "concentrate",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 4,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\concentrate.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\concentrate.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\concentrate.json"
+  },
+  "timestamp": "2025-08-19T00:25:55.757466Z"
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "volatile",
+    "lemma": "volatile",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɒl.əˌtaɪ.(ə)l/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "volatiles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A chemical or compound that changes into a gas easily.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A variable that is volatile, i.e. has its associated memory immediately updated with any change in value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A chemical or compound that changes into a gas easily.",
+    "secondary_definitions": [
+      "( programming ) A variable that is volatile, i.e. has its associated memory immediately updated with any change in value."
+    ]
+  }
+]

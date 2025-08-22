@@ -1,0 +1,43 @@
+[
+  {
+    "word": "resect",
+    "lemma": "resect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "resects",
+          "PT": "resected",
+          "PAP": "resected",
+          "PRP": "resecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove (some part of an organ or structure ) by surgical means.",
+        "examples": [
+          "The tumor was resected after chemotherapy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "surgery",
+          "transitive"
+        ],
+        "label_groups": "surgery , transitive"
+      }
+    ],
+    "main_definition": "( surgery , transitive ) To remove (some part of an organ or structure ) by surgical means.",
+    "secondary_definitions": []
+  }
+]

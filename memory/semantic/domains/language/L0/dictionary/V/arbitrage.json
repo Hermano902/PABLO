@@ -1,0 +1,56 @@
+[
+  {
+    "word": "arbitrage",
+    "lemma": "arbitrage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɑɹbɪˌtɹɑʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "arbitrages",
+          "PT": "arbitraged",
+          "PAP": "arbitraged",
+          "PRP": "arbitraging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To employ arbitrage",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "finance"
+        ],
+        "label_groups": "intransitive , finance"
+      },
+      {
+        "definition": "To engage in arbitrage in, between, or among",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      }
+    ],
+    "main_definition": "( intransitive , finance ) To employ arbitrage",
+    "secondary_definitions": [
+      "( transitive , finance ) To engage in arbitrage in, between, or among"
+    ]
+  }
+]

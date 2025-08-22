@@ -1,0 +1,111 @@
+[
+  {
+    "word": "filter",
+    "lemma": "filter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɪltə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "filters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device which separates a suspended , dissolved , or particulate matter from a fluid , solution , or other substance ; any device that separates one substance from another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Electronics or software that separates unwanted signals (for example noise ) from wanted signals or that attenuates selected frequencies .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any item , mechanism , device , or procedure that acts to separate or isolate .",
+        "examples": [
+          "He runs an email filter to catch the junk mail."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Self-restraint in speech .",
+        "examples": [
+          "He's got no filter , and he's always offending people as a result."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "A non- empty upper set (of a partially ordered set ) which is closed under binary infima (a.k.a. meets ).",
+        "examples": [
+          "The collection of cofinite subsets of ℝ is a filter under inclusion: it includes the intersection of every pair of its members, and includes every superset of every cofinite set.",
+          "ℝ",
+          "If (1) the universal set (here, the set of natural numbers) were called a \"large\" set, (2) the superset of any \"large\" set were also a \"large\" set, and (3) the intersection of a pair of \"large\" sets were also a \"large\" set, then the set of all \"large\" sets would form a filter ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "order theory"
+        ],
+        "label_groups": "mathematics , order theory"
+      },
+      {
+        "definition": "A translucent object placed in the light path of a camera to remove certain wavelengths (colors), or a computer program that simulates such an effect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "photography"
+        ],
+        "label_groups": "photography"
+      },
+      {
+        "definition": "An appearance-altering digital image effect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "social media"
+        ],
+        "label_groups": "social media"
+      }
+    ],
+    "main_definition": "A device which separates a suspended , dissolved , or particulate matter from a fluid , solution , or other substance ; any device that separates one substance from another.",
+    "secondary_definitions": [
+      "Electronics or software that separates unwanted signals (for example noise ) from wanted signals or that attenuates selected frequencies .",
+      "Any item , mechanism , device , or procedure that acts to separate or isolate .",
+      "( figurative ) Self-restraint in speech .",
+      "( mathematics , order theory ) A non- empty upper set (of a partially ordered set ) which is closed under binary infima (a.k.a. meets ).",
+      "( photography ) A translucent object placed in the light path of a camera to remove certain wavelengths (colors), or a computer program that simulates such an effect .",
+      "( social media ) An appearance-altering digital image effect ."
+    ]
+  }
+]

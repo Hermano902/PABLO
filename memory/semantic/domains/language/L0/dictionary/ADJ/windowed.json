@@ -1,0 +1,48 @@
+[
+  {
+    "word": "windowed",
+    "lemma": "windowed",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Fitted with windows, often of a particular kind or, in ( heraldry ) , of a specified colour.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Occupying only a part of the screen (in a window .)",
+        "examples": [
+          "This game can be played both in windowed mode and in full-screen mode."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graphical user interface"
+        ],
+        "label_groups": "computing , graphical user interface"
+      }
+    ],
+    "main_definition": "Fitted with windows, often of a particular kind or, in ( heraldry ) , of a specified colour.",
+    "secondary_definitions": [
+      "( computing , graphical user interface ) Occupying only a part of the screen (in a window .)"
+    ]
+  }
+]

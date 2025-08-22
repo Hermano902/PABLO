@@ -1,0 +1,69 @@
+[
+  {
+    "word": "vanish",
+    "lemma": "vanish",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvænɪʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "vanishes",
+          "PT": "vanished",
+          "PAP": "vanished",
+          "PRP": "vanishing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To become invisible or to move out of view unnoticed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To become equal to zero .",
+        "examples": [
+          "The function f {\\displaystyle f} such as f ( x ) = x 2 {\\displaystyle f(x)=x^{2}} vanishes at x = 0 {\\displaystyle x=0} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "To disappear ; to kidnap .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To become invisible or to move out of view unnoticed .",
+    "secondary_definitions": [
+      "( mathematics ) To become equal to zero .",
+      "( transitive ) To disappear ; to kidnap ."
+    ]
+  }
+]

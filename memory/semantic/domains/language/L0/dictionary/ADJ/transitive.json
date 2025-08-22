@@ -1,0 +1,119 @@
+[
+  {
+    "word": "transitive",
+    "lemma": "transitive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹænzɪtɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Making a transit or passage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Affected by transference of signification.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Taking a direct object or objects.",
+        "examples": [
+          "The English verb \"to notice\" is a transitive verb, because we say things like \"She noticed a problem \"."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "intransitive"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a verb"
+        ],
+        "label_groups": "grammar , of a verb"
+      },
+      {
+        "definition": "Having the property that if an element a is related to b and b is related to c , then a is necessarily related to c .",
+        "examples": [
+          "\"Is an ancestor of\" is a transitive relation: if Alice is an ancestor of Bob, and Bob is an ancestor of Carol, then Alice is an ancestor of Carol."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "intransitive",
+          "nontransitive"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "of a relation on a set"
+        ],
+        "label_groups": "set theory , of a relation on a set"
+      },
+      {
+        "definition": "Such that, for any two elements of the acted -upon set , some group element maps the first to the second.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a group action"
+        ],
+        "label_groups": "algebra , of a group action"
+      },
+      {
+        "definition": "Such that, for any two vertices there exists an automorphism which maps one to the other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "of a graph"
+        ],
+        "label_groups": "graph theory , of a graph"
+      },
+      {
+        "definition": "Of a set of dice : not having the intransitive property.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "probability"
+        ],
+        "label_groups": "probability"
+      }
+    ],
+    "main_definition": "Making a transit or passage.",
+    "secondary_definitions": [
+      "Affected by transference of signification.",
+      "( grammar , of a verb ) Taking a direct object or objects.",
+      "( set theory , of a relation on a set ) Having the property that if an element a is related to b and b is related to c , then a is necessarily related to c .",
+      "( algebra , of a group action ) Such that, for any two elements of the acted -upon set , some group element maps the first to the second.",
+      "( graph theory , of a graph ) Such that, for any two vertices there exists an automorphism which maps one to the other.",
+      "( probability ) Of a set of dice : not having the intransitive property."
+    ]
+  }
+]

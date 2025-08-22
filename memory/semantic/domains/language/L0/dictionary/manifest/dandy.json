@@ -1,0 +1,29 @@
+{
+  "word": "dandy",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dandy.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\dandy.json"
+  },
+  "timestamp": "2025-08-19T01:21:11.852812Z"
+}

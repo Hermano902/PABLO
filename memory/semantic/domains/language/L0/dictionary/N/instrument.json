@@ -1,0 +1,111 @@
+[
+  {
+    "word": "instrument",
+    "lemma": "instrument",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnstɹəmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "instruments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device used to produce music .",
+        "examples": [
+          "The violinist was a master of her instrument ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A means or agency for achieving an effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measuring or displaying device.",
+        "examples": [
+          "The instrument detected an increase in radioactivity."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A tool , implement used for manipulation or measurement .",
+        "examples": [
+          "The dentist set down his tray of instruments .",
+          "The scientist recorded the temperature with a thermometer, but wished he had a more accurate instrument ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Ellipsis of flight instrument .",
+            "examples": [
+              "Flight within clouds must be made by reference to your instruments ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "aviation",
+              "usually in the plural"
+            ],
+            "label_groups": "aviation , usually in the plural"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A legal document, such as a contract , deed , trust , mortgage , power , indenture , or will .",
+        "examples": [
+          "A bond indenture is the instrument that gives a bond its value.",
+          "Negotiable instruments are the foundation of the debt markets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "A person used as a mere tool for achieving a goal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "A device used to produce music .",
+    "secondary_definitions": [
+      "A means or agency for achieving an effect.",
+      "A measuring or displaying device.",
+      "A tool , implement used for manipulation or measurement .",
+      "( law ) A legal document, such as a contract , deed , trust , mortgage , power , indenture , or will .",
+      "( figuratively ) A person used as a mere tool for achieving a goal."
+    ]
+  }
+]

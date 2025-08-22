@@ -1,0 +1,38 @@
+{
+  "word": "wood",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 9,
+      "examples": 7,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\wood.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\wood.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\wood.json"
+  },
+  "timestamp": "2025-08-19T21:05:59.447736Z"
+}

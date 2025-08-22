@@ -1,0 +1,59 @@
+[
+  {
+    "word": "vera",
+    "lemma": "vera",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɪəɹə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "veras"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( Cockney rhyming slang ) A skin ( rolling paper for cigarettes ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( Cockney rhyming slang ) A skin ( rolling paper for cigarettes ) .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "vera",
+    "lemma": "vera",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈvɪəɹə/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A second-order measure of derivative price sensitivity, expressed as the rate of change of vega with respect to changes in the risk-free interest rate , or equivalently the rate of change of rho with respect to changes in the volatility of the underlying asset .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( finance ) A second-order measure of derivative price sensitivity, expressed as the rate of change of vega with respect to changes in the risk-free interest rate , or equivalently the rate of change of rho with respect to changes in the volatility of the underlying asset .",
+    "secondary_definitions": []
+  }
+]

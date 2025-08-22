@@ -1,0 +1,60 @@
+[
+  {
+    "word": "starvation",
+    "lemma": "starvation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/stɑɹˈveɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "starvations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A condition of severe suffering due to a lack of nutrition .",
+        "examples": [],
+        "synonyms": [
+          "inanition"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Severe shortage of resources .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "A state where a process is perpetually denied necessary resources to process its work.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "A condition of severe suffering due to a lack of nutrition .",
+    "secondary_definitions": [
+      "( figurative ) Severe shortage of resources .",
+      "( computer science ) A state where a process is perpetually denied necessary resources to process its work."
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "stutter",
+    "lemma": "stutter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈstʌtɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stutters",
+          "PT": "stuttered",
+          "PAP": "stuttered",
+          "PRP": "stuttering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To speak ( words ) with a spasmodic repetition of vocal sounds .",
+        "examples": [
+          "He stuttered a few words of thanks."
+        ],
+        "synonyms": [
+          "hacker",
+          "stammer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To expel a gas with difficulty .",
+        "examples": [
+          "I was stuttering after the marathon.",
+          "The engine of the old car stuttered going up the slope."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To speak ( words ) with a spasmodic repetition of vocal sounds .",
+    "secondary_definitions": [
+      "( intransitive ) To expel a gas with difficulty ."
+    ]
+  }
+]

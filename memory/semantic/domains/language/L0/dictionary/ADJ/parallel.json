@@ -1,0 +1,114 @@
+[
+  {
+    "word": "parallel",
+    "lemma": "parallel",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpæɹəlɛl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Equally distant from one another at all points.",
+        "examples": [
+          "The horizontal lines on my notebook paper are parallel ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having the same overall direction ; the comparison is indicated with \"to\".",
+        "examples": [
+          "The two railway lines are parallel ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Either not intersecting , or coinciding .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "perpendicular",
+          "skew"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hyperbolic geometry",
+          "said of a pair of lines"
+        ],
+        "label_groups": "hyperbolic geometry , said of a pair of lines"
+      },
+      {
+        "definition": "Involving the processing of multiple tasks at the same time.",
+        "examples": [
+          "a parallel algorithm"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "serial",
+          "sequential"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Analogous , similar , comparable .",
+        "examples": [
+          "the parallel lives of two citizens"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Coexisting but normally not interacting with the regular reality.",
+        "examples": [
+          "parallel universe"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "science fiction",
+          "of realities",
+          "dimensions",
+          "timelines",
+          "etc."
+        ],
+        "label_groups": "science fiction , of realities, dimensions, timelines, etc."
+      }
+    ],
+    "main_definition": "Equally distant from one another at all points.",
+    "secondary_definitions": [
+      "Having the same overall direction ; the comparison is indicated with \"to\".",
+      "( hyperbolic geometry , said of a pair of lines ) Either not intersecting , or coinciding .",
+      "( computing ) Involving the processing of multiple tasks at the same time.",
+      "( figuratively ) Analogous , similar , comparable .",
+      "( science fiction , of realities, dimensions, timelines, etc. ) Coexisting but normally not interacting with the regular reality."
+    ]
+  }
+]

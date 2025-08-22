@@ -1,0 +1,70 @@
+[
+  {
+    "word": "shield",
+    "lemma": "shield",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʃiːld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shields",
+          "PT": "shielded",
+          "PAP": "shielded",
+          "PRP": "shielding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To protect, to defend.",
+        "examples": [
+          "Sunscreen shields against the harmful effects of solar rays."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To shelter ; to protect oneself.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "intransitive"
+        ],
+        "label_groups": "UK , intransitive"
+      },
+      {
+        "definition": "To protect from the influence of. (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electricity"
+        ],
+        "label_groups": "electricity"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To protect, to defend.",
+    "secondary_definitions": [
+      "( UK , intransitive ) To shelter ; to protect oneself.",
+      "( electricity ) To protect from the influence of. (Can we add an example for this sense?)"
+    ]
+  }
+]

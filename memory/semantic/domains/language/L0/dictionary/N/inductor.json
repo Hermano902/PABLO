@@ -1,0 +1,62 @@
+[
+  {
+    "word": "inductor",
+    "lemma": "inductor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inductors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A passive device that introduces inductance into an electrical circuit .",
+        "examples": [],
+        "synonyms": [
+          "coil"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "An evocator or an organizer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "One who, or that which, inducts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "inductee"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( electronics ) A passive device that introduces inductance into an electrical circuit .",
+    "secondary_definitions": [
+      "( medicine ) An evocator or an organizer .",
+      "One who, or that which, inducts ."
+    ]
+  }
+]

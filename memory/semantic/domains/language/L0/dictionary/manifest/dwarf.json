@@ -1,0 +1,37 @@
+{
+  "word": "dwarf",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 2,
+      "synonyms": 8,
+      "antonyms": 3,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 13,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\dwarf.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\dwarf.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dwarf.json"
+  },
+  "timestamp": "2025-08-19T02:31:44.578117Z"
+}

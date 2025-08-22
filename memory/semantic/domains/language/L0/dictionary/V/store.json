@@ -1,0 +1,94 @@
+[
+  {
+    "word": "store",
+    "lemma": "store",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/stɔː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stores",
+          "PT": "stored",
+          "PAP": "stored",
+          "PRP": "storing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To keep (something) while not in use, generally in a place meant for that purpose.",
+        "examples": [
+          "I'll store these books in the attic."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To contain .",
+        "examples": [
+          "The cabinets store all the food the mice would like."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Have the capacity and capability to contain .",
+        "examples": [
+          "They sell boxes that store 24 mason jars."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To write (something) into memory or registers .",
+        "examples": [
+          "This operation stores the result on the stack."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To stock , to fill (a container, repository, etc.) with things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To keep (something) while not in use, generally in a place meant for that purpose.",
+    "secondary_definitions": [
+      "To contain .",
+      "Have the capacity and capability to contain .",
+      "( transitive , computing ) To write (something) into memory or registers .",
+      "( transitive ) To stock , to fill (a container, repository, etc.) with things."
+    ]
+  }
+]

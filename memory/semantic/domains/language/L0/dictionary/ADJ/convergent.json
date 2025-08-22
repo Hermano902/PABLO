@@ -1,0 +1,46 @@
+[
+  {
+    "word": "convergent",
+    "lemma": "convergent",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ɜː(ɹ)dʒənt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more convergent",
+          "SUP": "most convergent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That converges or focuses ; converging",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a (typically infinite ) sequence or series in a topological space , converging to a ( finite , proper ) limit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "topology"
+        ],
+        "label_groups": "mathematical analysis , topology"
+      }
+    ],
+    "main_definition": "That converges or focuses ; converging",
+    "secondary_definitions": [
+      "( mathematical analysis , topology ) Of a (typically infinite ) sequence or series in a topological space , converging to a ( finite , proper ) limit ."
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "word": "bong",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 9,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 5
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bong.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bong.json"
+  },
+  "timestamp": "2025-08-18T22:28:47.060893Z"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "muscle",
+    "lemma": "muscle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmʌsl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "muscles",
+          "PT": "muscled",
+          "PAP": "muscled",
+          "PRP": "muscling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use force to make progress , especially physical force.",
+        "examples": [
+          "He muscled his way through the crowd."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move forcefully or with great strength.",
+        "examples": [
+          "She muscled through the ruins."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To use force to make progress , especially physical force.",
+    "secondary_definitions": [
+      "( intransitive ) To move forcefully or with great strength."
+    ]
+  }
+]

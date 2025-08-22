@@ -1,0 +1,93 @@
+[
+  {
+    "word": "cull",
+    "lemma": "cull",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kʌl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "culls",
+          "PT": "culled",
+          "PAP": "culled",
+          "PRP": "culling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pick or take someone or something (from a larger group).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To gather , collect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To select animals from a group and then kill them in order to reduce the numbers of the group in a controlled manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To kill (animals etc).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nonstandard",
+          "euphemistic"
+        ],
+        "label_groups": "nonstandard , euphemistic"
+      },
+      {
+        "definition": "To lay off in order to reduce the size of, get rid of .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To selectively not render or process certain objects , such as polygons .",
+        "examples": [
+          "back-face culling"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      }
+    ],
+    "main_definition": "To pick or take someone or something (from a larger group).",
+    "secondary_definitions": [
+      "To gather , collect .",
+      "To select animals from a group and then kill them in order to reduce the numbers of the group in a controlled manner.",
+      "( nonstandard , euphemistic ) To kill (animals etc).",
+      "To lay off in order to reduce the size of, get rid of .",
+      "( computer graphics ) To selectively not render or process certain objects , such as polygons ."
+    ]
+  }
+]

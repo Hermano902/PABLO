@@ -1,0 +1,54 @@
+[
+  {
+    "word": "fluke",
+    "lemma": "fluke",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fluːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flukes",
+          "PT": "fluked",
+          "PAP": "fluked",
+          "PRP": "fluking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To obtain a successful outcome by pure chance.",
+        "examples": [
+          "I fluked a pass in the multiple-choice exam."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To fortuitously pot a ball in an unintended way.",
+        "examples": [
+          "He fluked the other red into the middle pocket, despite the double kiss."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "snooker"
+        ],
+        "label_groups": "snooker"
+      }
+    ],
+    "main_definition": "To obtain a successful outcome by pure chance.",
+    "secondary_definitions": [
+      "( snooker ) To fortuitously pot a ball in an unintended way."
+    ]
+  }
+]

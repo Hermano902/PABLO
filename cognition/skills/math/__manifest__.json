@@ -1,0 +1,16 @@
+{
+  "id": "skill.math",
+  "kind": "skill",
+  "entry": "cognition.skills.math.main:run",
+  "accepts": [
+    "EYE/*",
+    "EAR/*",
+    "SYS/*",
+    "COG/CONTEXT/*"
+  ],
+  "emits": [
+    "COG/REASON/OPTIONS",
+    "COG/PLAN/PROPOSAL"
+  ],
+  "enable": true
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "candle",
+    "lemma": "candle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkændəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "candles",
+          "PT": "candled",
+          "PAP": "candled",
+          "PRP": "candling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To observe the growth of an embryo inside (an egg ), using a bright light source.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "embryology",
+          "transitive"
+        ],
+        "label_groups": "embryology , transitive"
+      },
+      {
+        "definition": "To dry ( greenware ) prior to the firing cycle, setting the kiln at 200° Celsius until all water is removed from the greenware.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pottery",
+          "transitive"
+        ],
+        "label_groups": "pottery , transitive"
+      },
+      {
+        "definition": "To check (an item, such as an envelope) by holding it between a light source and the eye.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( embryology , transitive ) To observe the growth of an embryo inside (an egg ), using a bright light source.",
+    "secondary_definitions": [
+      "( pottery , transitive ) To dry ( greenware ) prior to the firing cycle, setting the kiln at 200° Celsius until all water is removed from the greenware.",
+      "( transitive ) To check (an item, such as an envelope) by holding it between a light source and the eye."
+    ]
+  }
+]

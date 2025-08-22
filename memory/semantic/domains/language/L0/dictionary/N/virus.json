@@ -1,0 +1,141 @@
+[
+  {
+    "word": "virus",
+    "lemma": "virus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvaɪ.ɹəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "viruses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A submicroscopic, non-cellular structure that consists of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate , and that sometimes causes disease in the host organism (such agents are often classed as nonliving infectious particles and less often as microorganisms ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A species thereof.",
+            "examples": [
+              "Some viruses , such as norovirus, cause sporadic outbreaks of gastroenteritis."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An individual particle thereof: synonym of virion .",
+            "examples": [
+              "Under electron microscopy, a few viruses were seen floating near the cells."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "occasionally proscribed"
+            ],
+            "label_groups": "occasionally proscribed"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A quantity of such infectious agents, considered en masse .",
+        "examples": [
+          "Not much virus was detectable on a nucleic acid test; the viral load was very low."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A disease caused by such an infectious agent; a viral illness.",
+        "examples": [
+          "He's got a virus and had to stay home from school."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "metonymic"
+        ],
+        "label_groups": "informal , metonymic"
+      },
+      {
+        "definition": "Venom , as produced by a poisonous animal etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "A type of malware which can covertly transmit itself between computers via networks (especially the Internet) or removable storage such as disks , often causing damage to systems and data; also computer virus .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Any type of malware .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "proscribed"
+        ],
+        "label_groups": "computing , proscribed"
+      },
+      {
+        "definition": "Any malicious or dangerous entity that spreads from one place or person to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "A submicroscopic, non-cellular structure that consists of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate , and that sometimes causes disease in the host organism (such agents are often classed as nonliving infectious particles and less often as microorganisms ) .",
+    "secondary_definitions": [
+      "( uncountable ) A quantity of such infectious agents, considered en masse .",
+      "( informal , metonymic ) A disease caused by such an infectious agent; a viral illness.",
+      "( archaic ) Venom , as produced by a poisonous animal etc.",
+      "( computing ) A type of malware which can covertly transmit itself between computers via networks (especially the Internet) or removable storage such as disks , often causing damage to systems and data; also computer virus .",
+      "( computing , proscribed ) Any type of malware .",
+      "( figurative ) Any malicious or dangerous entity that spreads from one place or person to another."
+    ]
+  }
+]

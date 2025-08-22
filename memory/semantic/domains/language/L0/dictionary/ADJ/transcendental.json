@@ -1,0 +1,85 @@
+[
+  {
+    "word": "transcendental",
+    "lemma": "transcendental",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌtɹænsɛnˈdɛntəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more transcendental",
+          "SUP": "most transcendental"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Concerned with the a priori or intuitive basis of knowledge , independent of experience .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "Superior ; surpassing all others ; extraordinary ; transcendent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Mystical or supernatural .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not algebraic (i.e., not the root of any polynomial that has positive degree and rational coefficients ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "number theory",
+          "field theory",
+          "of a number or an element of an extension field"
+        ],
+        "label_groups": "algebra , number theory , field theory , of a number or an element of an extension field"
+      },
+      {
+        "definition": "That contains elements that are not algebraic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "field theory",
+          "of an extension field"
+        ],
+        "label_groups": "algebra , field theory , of an extension field"
+      }
+    ],
+    "main_definition": "( philosophy ) Concerned with the a priori or intuitive basis of knowledge , independent of experience .",
+    "secondary_definitions": [
+      "Superior ; surpassing all others ; extraordinary ; transcendent .",
+      "Mystical or supernatural .",
+      "( algebra , number theory , field theory , of a number or an element of an extension field ) Not algebraic (i.e., not the root of any polynomial that has positive degree and rational coefficients ).",
+      "( algebra , field theory , of an extension field ) That contains elements that are not algebraic ."
+    ]
+  }
+]

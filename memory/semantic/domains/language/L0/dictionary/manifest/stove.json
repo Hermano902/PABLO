@@ -1,0 +1,29 @@
+{
+  "word": "stove",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stove.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stove.json"
+  },
+  "timestamp": "2025-08-19T18:04:34.429223Z"
+}

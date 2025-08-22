@@ -1,0 +1,72 @@
+[
+  {
+    "word": "disable",
+    "lemma": "disable",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈeɪbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disables",
+          "PT": "disabled",
+          "PAP": "disabled",
+          "PRP": "disabling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To render unable ; to take away an ability of, as by crippling.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To impair the physical or mental abilities of; to cause a serious, permanent injury .",
+        "examples": [
+          "Falling off the horse disabled him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly of a person"
+        ],
+        "label_groups": "chiefly of a person"
+      },
+      {
+        "definition": "To deactivate, to make inoperational (especially of a function of an electronic or mechanical device).",
+        "examples": [
+          "The pilot had to disable the autopilot of his airplane."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly electronics",
+          "computing"
+        ],
+        "label_groups": "chiefly electronics , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To render unable ; to take away an ability of, as by crippling.",
+    "secondary_definitions": [
+      "( chiefly of a person ) To impair the physical or mental abilities of; to cause a serious, permanent injury .",
+      "( chiefly electronics , computing ) To deactivate, to make inoperational (especially of a function of an electronic or mechanical device)."
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "stake",
+    "lemma": "stake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/steɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stakes",
+          "PT": "staked",
+          "PAP": "staked",
+          "PRP": "staking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fasten , support , defend , or delineate with stakes .",
+        "examples": [
+          "to stake vines or plants"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pierce or wound with a stake .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To put at risk upon success in competition , or upon a future contingency .",
+        "examples": [],
+        "synonyms": [
+          "bet",
+          "hazard",
+          "wager"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To provide (another) with money in order to engage in an activity as betting or a business venture.",
+        "examples": [
+          "John went broke, so to keep him playing, Jill had to stake him.",
+          "His family staked him $10,000 to get his business started."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deposit and risk a considerable amount of cryptocurrency in order to participate in the proof of stake process of verification.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptocurrencies"
+        ],
+        "label_groups": "cryptocurrencies"
+      }
+    ],
+    "main_definition": "( transitive ) To fasten , support , defend , or delineate with stakes .",
+    "secondary_definitions": [
+      "( transitive ) To pierce or wound with a stake .",
+      "( transitive ) To put at risk upon success in competition , or upon a future contingency .",
+      "( transitive ) To provide (another) with money in order to engage in an activity as betting or a business venture.",
+      "( cryptocurrencies ) To deposit and risk a considerable amount of cryptocurrency in order to participate in the proof of stake process of verification."
+    ]
+  }
+]

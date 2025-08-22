@@ -1,0 +1,49 @@
+[
+  {
+    "word": "diffraction",
+    "lemma": "diffraction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɹækʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diffractions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The bending of a wave around an obstacle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The breaking up of an electromagnetic wave as it passes a geometric structure (e.g. a slit ), followed by reconstruction of the wave by interference .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "quantum mechanics"
+        ],
+        "label_groups": "quantum mechanics"
+      }
+    ],
+    "main_definition": "( physics ) The bending of a wave around an obstacle.",
+    "secondary_definitions": [
+      "( quantum mechanics ) The breaking up of an electromagnetic wave as it passes a geometric structure (e.g. a slit ), followed by reconstruction of the wave by interference ."
+    ]
+  }
+]

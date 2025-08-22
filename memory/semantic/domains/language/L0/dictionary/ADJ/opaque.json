@@ -1,0 +1,80 @@
+[
+  {
+    "word": "opaque",
+    "lemma": "opaque",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əʊˈpeɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "opaquer",
+          "SUP": "opaquest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Neither reflecting nor emitting light.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Allowing little light to pass through, not translucent or transparent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unclear , unintelligible , hard to get or explain the meaning of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Obtuse , stupid.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Describes a type for which higher-level callers have no knowledge of data values or their representations; all operations are carried out by the type's defined abstract operators.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Neither reflecting nor emitting light.",
+    "secondary_definitions": [
+      "Allowing little light to pass through, not translucent or transparent .",
+      "( figuratively ) Unclear , unintelligible , hard to get or explain the meaning of.",
+      "( figuratively ) Obtuse , stupid.",
+      "( computing ) Describes a type for which higher-level callers have no knowledge of data values or their representations; all operations are carried out by the type's defined abstract operators."
+    ]
+  }
+]

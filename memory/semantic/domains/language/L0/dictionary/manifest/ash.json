@@ -1,0 +1,39 @@
+{
+  "word": "ash",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "ADV"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 8,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ash.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ash.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\ash.json"
+  },
+  "timestamp": "2025-08-18T21:21:36.608415Z"
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "filename",
+    "lemma": "filename",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪ.əl.neɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "filenames"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The name assigned to a file in a file system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The name assigned to a file in a file system .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "dimensionless",
+    "lemma": "dimensionless",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking dimensions .",
+        "examples": [],
+        "synonyms": [
+          "adimensional"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a physical constant : lacking units .",
+        "examples": [
+          "Iron has a density of 7.8 grams per cubic centimeter : its dimensionless relative density is 7.8."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      }
+    ],
+    "main_definition": "Lacking dimensions .",
+    "secondary_definitions": [
+      "( sciences ) Of a physical constant : lacking units ."
+    ]
+  }
+]

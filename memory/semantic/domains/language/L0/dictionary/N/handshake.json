@@ -1,0 +1,45 @@
+[
+  {
+    "word": "handshake",
+    "lemma": "handshake",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhændˌʃeɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "handshakes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The grasping of hands by two people when greeting , leave - taking , or making an agreement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An exchange of signals between two devices when communications begin in order to ensure synchronization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The grasping of hands by two people when greeting , leave - taking , or making an agreement .",
+    "secondary_definitions": [
+      "( computing ) An exchange of signals between two devices when communications begin in order to ensure synchronization ."
+    ]
+  }
+]

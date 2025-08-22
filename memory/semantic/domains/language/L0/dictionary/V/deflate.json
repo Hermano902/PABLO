@@ -1,0 +1,123 @@
+[
+  {
+    "word": "deflate",
+    "lemma": "deflate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈfleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deflates",
+          "PT": "deflated",
+          "PAP": "deflated",
+          "PRP": "deflating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove air or some other gas from within an elastic container, e.g. a balloon or tyre.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause an object to decrease or become smaller in some parameter, e.g. to shrink",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce the amount of available currency or credit and thus lower prices .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "economics"
+        ],
+        "label_groups": "transitive , economics"
+      },
+      {
+        "definition": "To become deflated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To let (someone) down , disappoint them, or put them in their place .",
+        "examples": [
+          "deflate someone's ego"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To compress (data) according to a particular algorithm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To belch or flatulate",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      }
+    ],
+    "main_definition": "( transitive ) To remove air or some other gas from within an elastic container, e.g. a balloon or tyre.",
+    "secondary_definitions": [
+      "( transitive ) To cause an object to decrease or become smaller in some parameter, e.g. to shrink",
+      "( transitive , economics ) To reduce the amount of available currency or credit and thus lower prices .",
+      "( intransitive ) To become deflated .",
+      "( transitive ) To let (someone) down , disappoint them, or put them in their place .",
+      "( transitive , computing ) To compress (data) according to a particular algorithm .",
+      "( slang ) To belch or flatulate"
+    ]
+  }
+]

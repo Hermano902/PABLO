@@ -1,0 +1,77 @@
+[
+  {
+    "word": "distress",
+    "lemma": "distress",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈstɹɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "distresses",
+          "PT": "distressed",
+          "PAP": "distressed",
+          "PRP": "distressing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause strain or anxiety to someone.",
+        "examples": [],
+        "synonyms": [
+          "anguish",
+          "harrow",
+          "trouble",
+          "vex",
+          "torment",
+          "tantalize",
+          "tantalise",
+          "martyr"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To retain someone’s property against the payment of a debt ; to distrain .",
+        "examples": [],
+        "synonyms": [
+          "distrain"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "To treat a new object to give it an appearance of age .",
+        "examples": [
+          "a pair of distressed jeans",
+          "She distressed the new media cabinet so that it fit with the other furniture in the room."
+        ],
+        "synonyms": [
+          "age",
+          "antique",
+          "patinate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To cause strain or anxiety to someone.",
+    "secondary_definitions": [
+      "( law ) To retain someone’s property against the payment of a debt ; to distrain .",
+      "To treat a new object to give it an appearance of age ."
+    ]
+  }
+]

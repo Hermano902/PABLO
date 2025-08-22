@@ -1,0 +1,56 @@
+[
+  {
+    "word": "newt",
+    "lemma": "newt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "newts",
+          "PT": "newted",
+          "PAP": "newted",
+          "PRP": "newting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To turn (someone) into a newt, especially by magic.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To (usually temporarily) expel a user from a MUD or similar system",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "by extension , informal , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To turn (someone) into a newt, especially by magic.",
+    "secondary_definitions": [
+      "( by extension , informal , transitive ) To (usually temporarily) expel a user from a MUD or similar system"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "inverse",
+    "lemma": "inverse",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈvɝs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Opposite in effect, nature or order.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Reverse , opposite in order.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Inverted; having a position or mode of attachment the reverse of that which is usual.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "Having the properties of an inverse ; said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity .",
+        "examples": [
+          "Multiplication is the inverse operation to division."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "That has the property of being an inverse (the result of a circle inversion of a given point or geometrical figure); that is constructed by circle inversion.",
+        "examples": [
+          "A circle inversion maps a given generalized circle to its inverse generalized circle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Whose every element has an inverse ( morphism which is both a left inverse and a right inverse ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "of a category"
+        ],
+        "label_groups": "category theory , of a category"
+      }
+    ],
+    "main_definition": "Opposite in effect, nature or order.",
+    "secondary_definitions": [
+      "Reverse , opposite in order.",
+      "( botany ) Inverted; having a position or mode of attachment the reverse of that which is usual.",
+      "( mathematics ) Having the properties of an inverse ; said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity .",
+      "( geometry ) That has the property of being an inverse (the result of a circle inversion of a given point or geometrical figure); that is constructed by circle inversion.",
+      "( category theory , of a category ) Whose every element has an inverse ( morphism which is both a left inverse and a right inverse )."
+    ]
+  }
+]

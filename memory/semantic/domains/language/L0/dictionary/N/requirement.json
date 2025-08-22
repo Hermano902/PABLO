@@ -1,0 +1,59 @@
+[
+  {
+    "word": "requirement",
+    "lemma": "requirement",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkwʌɪəm(ə)nt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "requirements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A necessity or prerequisite ; something required or obligatory . Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+        "examples": [
+          "The requirements of life as we know it include carbon, oxygen, hydrogen, water, and energy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something asked.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure.",
+        "examples": [
+          "System requirements not met. Go to Settings to learn more."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering",
+          "computing"
+        ],
+        "label_groups": "engineering , computing"
+      }
+    ],
+    "main_definition": "A necessity or prerequisite ; something required or obligatory . Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+    "secondary_definitions": [
+      "Something asked.",
+      "( engineering , computing ) A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure."
+    ]
+  }
+]

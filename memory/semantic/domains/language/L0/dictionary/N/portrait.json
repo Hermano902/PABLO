@@ -1,0 +1,66 @@
+[
+  {
+    "word": "portrait",
+    "lemma": "portrait",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɔːtɹeɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "portraits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A painting or other picture of a person, especially the head and shoulders.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An accurate depiction of a person, a mood, etc.",
+        "examples": [
+          "The author painted a good portrait of urban life in New York in his latest book."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "figuratively"
+        ],
+        "label_groups": "countable , figuratively"
+      },
+      {
+        "definition": "A print orientation where the vertical sides are longer than the horizontal sides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "printing"
+        ],
+        "label_groups": "computing , printing"
+      }
+    ],
+    "main_definition": "( countable ) A painting or other picture of a person, especially the head and shoulders.",
+    "secondary_definitions": [
+      "( countable , figuratively ) An accurate depiction of a person, a mood, etc.",
+      "( computing , printing ) A print orientation where the vertical sides are longer than the horizontal sides."
+    ]
+  }
+]

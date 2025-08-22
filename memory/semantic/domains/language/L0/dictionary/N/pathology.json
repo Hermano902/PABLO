@@ -1,0 +1,93 @@
+[
+  {
+    "word": "pathology",
+    "lemma": "pathology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pəˈθɒləd͡ʒi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pathologies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The study of the nature of disease and its causes, processes, development, and consequences; now usually and especially in the clinical and academic medicine subsenses defined below.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The clinical biomedical specialty that provides microscopy and other laboratory services to clinicians (e.g., cytology , histology , cytopathology , histopathology , cytometry ).",
+            "examples": [
+              "The surgeon sent a specimen of the cyst to the hospital's pathology department for staining and analysis to determine its histologic subtype."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "clinical medicine"
+            ],
+            "label_groups": "clinical medicine"
+          },
+          {
+            "definition": "The academic biomedical specialty that advances the aspects of the biomedical sciences that allow for those clinical applications and their advancements over time.",
+            "examples": [
+              "Those three pioneering pathologists went on to become leaders in building the pathology departments at several universities."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "academic medicine"
+            ],
+            "label_groups": "academic medicine"
+          },
+          {
+            "definition": "Any of several interrelated scientific disciplines that advance the aspects of the life sciences that allow for such technological applications and their advancements over time.",
+            "examples": [
+              "the plant pathology and vertebrate pathology programs of the university's biology department"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology",
+              "life sciences"
+            ],
+            "label_groups": "biology , life sciences"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Pathosis : any deviation from a healthy or normal structure or function; abnormality ; illness or malformation.",
+        "examples": [
+          "Some sort of renal pathology was suspected, but imaging and even biopsy found no discernible pathology , glomerular or otherwise.",
+          "Some sort of mental and social pathology seemed to sweep over the discourse later that autumn."
+        ],
+        "synonyms": [
+          "abnormality",
+          "disease",
+          "illness",
+          "pathosis"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The study of the nature of disease and its causes, processes, development, and consequences; now usually and especially in the clinical and academic medicine subsenses defined below.",
+    "secondary_definitions": [
+      "Pathosis : any deviation from a healthy or normal structure or function; abnormality ; illness or malformation."
+    ]
+  }
+]

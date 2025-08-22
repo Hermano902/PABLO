@@ -1,0 +1,52 @@
+[
+  {
+    "word": "ellipsoid",
+    "lemma": "ellipsoid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈlɪp.sɔɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ellipsoids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A surface , all of whose cross sections are elliptic or circular (including the sphere ), that generalises the ellipse and in Cartesian coordinates ( x, y, z ) is a quadric with equation x /a + y /b + z /c = 1.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "geometry"
+        ],
+        "label_groups": "mathematics , geometry"
+      },
+      {
+        "definition": "Such a surface used as a model of the shape of the earth .",
+        "examples": [
+          "Here the geoid is thirty meters below the ellipsoid ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geography"
+        ],
+        "label_groups": "geography"
+      }
+    ],
+    "main_definition": "( mathematics , geometry ) A surface , all of whose cross sections are elliptic or circular (including the sphere ), that generalises the ellipse and in Cartesian coordinates ( x, y, z ) is a quadric with equation x /a + y /b + z /c = 1.",
+    "secondary_definitions": [
+      "( geography ) Such a surface used as a model of the shape of the earth ."
+    ]
+  }
+]

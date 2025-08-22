@@ -1,0 +1,131 @@
+[
+  {
+    "word": "variety",
+    "lemma": "variety",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vəˈɹaɪ.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "varieties"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A deviation or difference .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A specific variation of something. ( biology , loosely ) An animal or plant (or a group of such animals or plants) with characteristics causing it to differ from other animals or plants of the same species ; a strain or cultivar . ( botany , taxonomy ) A rank in a taxonomic classification below species and (if present ) subspecies , and above form ; hence, an organism of that rank. ( linguistics ) A specific form of a language , neutral to whether that form is an accent , dialect , register , etc., and to its prestige level ; an isolect or lect . ( philately ) A stamp , or set of stamps, which has one or more characteristics (such as colour , paper , etc.) differing from other stamps in the same issue , especially if such differences are intentionally introduced .",
+            "examples": [
+              "Capsicum annuum var. glabriusculum is a variety of Capsicum annuum commonly known as chiltepin or Indian pepper.",
+              "Capsicum annuum",
+              "glabriusculum",
+              "Capsicum annuum"
+            ],
+            "synonyms": [
+              "var."
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A collection or number of different things . ( algebra ) In universal algebra : an equational class ; the class of all algebraic structures of a given signature , satisfying a given set of identities . ( algebraic geometry ) Ellipsis of algebraic variety ( “ the set of solutions of a given system of polynomial equations over the real or complex numbers ; any of certain generalisations of such a set that preserves the geometric intuition implicit in the original definition ” ) . ( cybernetics ) The total number of distinct states of a system; also, the logarithm to the base 2 of the total number of distinct states of a system.",
+            "examples": [],
+            "synonyms": [
+              "array",
+              "assortment",
+              "spread",
+              "equational variety",
+              "variety of algebras"
+            ],
+            "antonyms": [
+              "uniformity"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 1956."
+          },
+          {
+            "definition": "Ellipsis of variety performance or variety show ( “ a type of entertainment featuring a succession of short , unrelated performances by various artistes such as ( depending on the medium ) acrobats , comedians , dancers , magicians , singers , etc. ” ) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "radio",
+              "television",
+              "theater"
+            ],
+            "label_groups": "radio , television , theater"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The quality of being varied ; diversity .",
+            "examples": [
+              "Variety is the spice of life."
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "sameness"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The kind of entertainment given in variety performances or shows ; also, the production of, or performance in, variety performances or shows.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "radio",
+              "television",
+              "theater"
+            ],
+            "label_groups": "radio , television , theater"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "( countable )",
+    "secondary_definitions": [
+      "( uncountable )"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "verbalize",
+    "lemma": "verbalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvəːbəlʌɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "verbalizes",
+          "PT": "verbalized",
+          "PAP": "verbalized",
+          "PRP": "verbalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To speak or to use words to express .",
+        "examples": [
+          "Bill became tongue-tied and could not verbalize his thoughts in the presence of the girl he had a crush on."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To adapt (a word of another part of speech ) as a verb .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      }
+    ],
+    "main_definition": "( transitive ) To speak or to use words to express .",
+    "secondary_definitions": [
+      "( transitive , grammar ) To adapt (a word of another part of speech ) as a verb ."
+    ]
+  }
+]

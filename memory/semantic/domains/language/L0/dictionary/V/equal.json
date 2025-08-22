@@ -1,0 +1,89 @@
+[
+  {
+    "word": "equal",
+    "lemma": "equal",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːkwəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "equals",
+          "PT": "equalled",
+          "PAP": "equalled",
+          "PRP": "equalling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be equal to, to have the same value as; to correspond to.",
+        "examples": [
+          "Two plus two equals four."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "copulative"
+        ],
+        "label_groups": "mathematics , copulative"
+      },
+      {
+        "definition": "To make equivalent to; to cause to match .",
+        "examples": [
+          "David equaled the water levels of the bottles, so they now both contain exactly 1 liter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To match in degree or some other quality , to match up to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have as consequence , to amount to , to mean .",
+        "examples": [
+          "Losing this deal equals losing your job.",
+          "Might does not equal right."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "copulative",
+          "informal"
+        ],
+        "label_groups": "copulative , informal"
+      }
+    ],
+    "main_definition": "( mathematics , copulative ) To be equal to, to have the same value as; to correspond to.",
+    "secondary_definitions": [
+      "( transitive ) To make equivalent to; to cause to match .",
+      "( transitive ) To match in degree or some other quality , to match up to.",
+      "( copulative , informal ) To have as consequence , to amount to , to mean ."
+    ]
+  }
+]

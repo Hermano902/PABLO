@@ -1,0 +1,67 @@
+[
+  {
+    "word": "benchmark",
+    "lemma": "benchmark",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɛn(t)ʃmɑːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "benchmarks",
+          "PT": "benchmarked",
+          "PAP": "benchmarked",
+          "PRP": "benchmarking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To measure the performance or quality of (an item) relative to another similar item in an impartial scientific manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To give certain results in a benchmark test.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "followed by at"
+            ],
+            "label_groups": "intransitive , followed by at"
+          },
+          {
+            "definition": "To use something (e.g., a competitor's product) as a standard to improve one's own thing.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ambitransitive",
+              "followed by against"
+            ],
+            "label_groups": "ambitransitive , followed by against"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To measure the performance or quality of (an item) relative to another similar item in an impartial scientific manner.",
+    "secondary_definitions": []
+  }
+]

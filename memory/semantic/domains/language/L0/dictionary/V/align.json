@@ -1,0 +1,129 @@
+[
+  {
+    "word": "align",
+    "lemma": "align",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "aligns",
+          "PT": "aligned",
+          "PAP": "aligned",
+          "PRP": "aligning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To form a line ; to fall into line.",
+        "examples": [
+          "The pedestrians aligned in such a way that from above they made a pyramidal pattern."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To adjust to a line; to range or form in line; to bring into line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To organize in a consistent , defined way, perhaps in an abstract sense .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To identify (oneself) with, match, or support the behaviour, thoughts, etc. of another person, organization, or country.",
+        "examples": [],
+        "synonyms": [
+          "ally",
+          "support",
+          "side with"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "reflexive"
+        ],
+        "label_groups": "intransitive , reflexive"
+      },
+      {
+        "definition": "To store ( data ) in a way that is consistent with the memory architecture , i.e. by beginning each item at an offset equal to some multiple of the word size .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To organize a linear arrangement of DNA , RNA , or protein sequences which have regions of similarity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "bioinformatics"
+        ],
+        "label_groups": "transitive , bioinformatics"
+      },
+      {
+        "definition": "To identify entities that refer to the same real-world object in different knowledge bases .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "information science"
+        ],
+        "label_groups": "transitive , information science"
+      }
+    ],
+    "main_definition": "( intransitive ) To form a line ; to fall into line.",
+    "secondary_definitions": [
+      "( transitive ) To adjust to a line; to range or form in line; to bring into line.",
+      "( transitive ) To organize in a consistent , defined way, perhaps in an abstract sense .",
+      "( intransitive , reflexive ) To identify (oneself) with, match, or support the behaviour, thoughts, etc. of another person, organization, or country.",
+      "( transitive , computing ) To store ( data ) in a way that is consistent with the memory architecture , i.e. by beginning each item at an offset equal to some multiple of the word size .",
+      "( transitive , bioinformatics ) To organize a linear arrangement of DNA , RNA , or protein sequences which have regions of similarity.",
+      "( transitive , information science ) To identify entities that refer to the same real-world object in different knowledge bases ."
+    ]
+  }
+]

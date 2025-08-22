@@ -1,0 +1,47 @@
+[
+  {
+    "word": "subscriber",
+    "lemma": "subscriber",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/səbˈskɹaɪbɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subscribers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who subscribes to a publication or a service .",
+        "examples": [
+          "Our magazine has over ten thousand subscribers ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A system or component that subscribes to something, such as an event , made available by a publisher .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A person who subscribes to a publication or a service .",
+    "secondary_definitions": [
+      "( programming ) A system or component that subscribes to something, such as an event , made available by a publisher ."
+    ]
+  }
+]

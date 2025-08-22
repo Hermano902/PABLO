@@ -1,0 +1,29 @@
+{
+  "word": "push",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 16,
+      "examples": 8,
+      "synonyms": 13,
+      "antonyms": 4,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 14,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\push.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\push.json"
+  },
+  "timestamp": "2025-08-19T12:51:51.175176Z"
+}

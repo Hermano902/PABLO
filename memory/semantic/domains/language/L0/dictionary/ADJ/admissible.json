@@ -1,0 +1,45 @@
+[
+  {
+    "word": "admissible",
+    "lemma": "admissible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ədˈmɪsəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more admissible",
+          "SUP": "most admissible"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable or deserving to be admitted , accepted or allowed ; allowable , permissible , acceptable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Describing a heuristic that never overestimates the cost of reaching a goal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence"
+        ],
+        "label_groups": "artificial intelligence"
+      }
+    ],
+    "main_definition": "Capable or deserving to be admitted , accepted or allowed ; allowable , permissible , acceptable .",
+    "secondary_definitions": [
+      "( artificial intelligence ) Describing a heuristic that never overestimates the cost of reaching a goal ."
+    ]
+  }
+]

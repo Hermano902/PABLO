@@ -1,0 +1,80 @@
+[
+  {
+    "word": "poor",
+    "lemma": "poor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɔː/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "The poor people of a society or the world collectively , the poor class of a society .",
+        "examples": [
+          "The sun shines on the rich and the poor alike but, come the rain, the rich have better umbrellas.",
+          "The poor are always with us.",
+          "The rich are often so insulated from reality that they think the poor have extra money they could save for more than a short time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The poor people of a society or the world collectively , the poor class of a society .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "poor",
+    "lemma": "poor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/pɔː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "poors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A poor person .",
+        "examples": [
+          "The poors are at it again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "originally chiefly Scotland"
+        ],
+        "label_groups": "countable , originally chiefly Scotland"
+      },
+      {
+        "definition": "Synonym of poor cod .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( countable , originally chiefly Scotland ) A poor person .",
+    "secondary_definitions": [
+      "( obsolete ) Synonym of poor cod ."
+    ]
+  }
+]

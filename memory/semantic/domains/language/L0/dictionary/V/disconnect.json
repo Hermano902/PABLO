@@ -1,0 +1,69 @@
+[
+  {
+    "word": "disconnect",
+    "lemma": "disconnect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪskəˈnɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "disconnects",
+          "PT": "disconnected",
+          "PAP": "disconnected",
+          "PRP": "disconnecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sever or interrupt a connection .",
+        "examples": [
+          "My wi-fi got disconnected ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove the connection between an appliance and an electrical power source .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of a person, to become detached or withdrawn .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To sever or interrupt a connection .",
+    "secondary_definitions": [
+      "( transitive ) To remove the connection between an appliance and an electrical power source .",
+      "( intransitive ) Of a person, to become detached or withdrawn ."
+    ]
+  }
+]

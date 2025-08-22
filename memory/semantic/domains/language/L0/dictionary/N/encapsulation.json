@@ -1,0 +1,59 @@
+[
+  {
+    "word": "encapsulation",
+    "lemma": "encapsulation",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "encapsulations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of enclosing in a capsule; the growth of a membrane around (any part) so as to enclose it in a capsule.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Grouping together an object’s ‘state’ (its data) and the operations that may alter or interrogate it (its methods).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "object-oriented programming"
+        ],
+        "label_groups": "programming , object-oriented programming"
+      },
+      {
+        "definition": "The process of arranging data into packets that can be transmitted using a given protocol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "The act of enclosing in a capsule; the growth of a membrane around (any part) so as to enclose it in a capsule.",
+    "secondary_definitions": [
+      "( programming , object-oriented programming ) Grouping together an object’s ‘state’ (its data) and the operations that may alter or interrogate it (its methods).",
+      "( networking ) The process of arranging data into packets that can be transmitted using a given protocol ."
+    ]
+  }
+]

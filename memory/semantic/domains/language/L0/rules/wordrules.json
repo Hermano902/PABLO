@@ -1,0 +1,402 @@
+{
+    "POS": {
+        "DET": {
+            "restrictions": [
+                {
+                    "target": {
+                        "mode": "central determiner"
+                    },
+                    "conflicts_with": {
+                        "mode": "central determiner"
+                    },
+                    "type": "forbidden"
+                },
+                {
+                    "target": {
+                        "mode": "predeterminer"
+                    },
+                    "conflicts_with": {
+                        "mode": "predeterminer"
+                    },
+                    "type": "forbidden"
+                },
+                {
+                    "target": {
+                        "mode": "postdeterminer",
+                        "types": [
+                            "SEQ"
+                        ]
+                    },
+                    "requires_sequence": [
+                        {
+                            "mode": "postdeterminer",
+                            "types": [
+                                "QUANT.QUANT"
+                            ]
+                        },
+                        {
+                            "pos": "N"
+                        }
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "predeterminer",
+                        "types": [
+                            "DIST"
+                        ]
+                    },
+                    "requires_sequence": [
+                        {
+                            "mode": "central determiner",
+                            "types": [
+                                "POSS"
+                            ]
+                        },
+                        {
+                            "mode": "postdeterminer",
+                            "types": [
+                                "NUM"
+                            ]
+                        },
+                        {
+                            "pos": "N"
+                        }
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "predeterminer",
+                        "types": [
+                            "DIST"
+                        ]
+                    },
+                    "requires_sequence": [
+                        {
+                            "mode": "central determiner",
+                            "types": [
+                                "DEM"
+                            ]
+                        },
+                        {
+                            "mode": "postdeterminer",
+                            "types": [
+                                "NUM"
+                            ]
+                        },
+                        {
+                            "pos": "N"
+                        }
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "predeterminer",
+                        "types": [
+                            "MULT"
+                        ]
+                    },
+                    "requires_sequence": [
+                        {
+                            "mode": "central determiner",
+                            "types": [
+                                "POSS"
+                            ]
+                        },
+                        {
+                            "mode": "postdeterminer",
+                            "types": [
+                                "NUM"
+                            ]
+                        },
+                        {
+                            "pos": "N"
+                        }
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "predeterminer",
+                        "types": [
+                            "DIST"
+                        ]
+                    },
+                    "requires_sequence": [
+                        {
+                            "mode": "central determiner",
+                            "types": [
+                                "ART"
+                            ]
+                        },
+                        {
+                            "mode": "postdeterminer",
+                            "types": [
+                                "NUM"
+                            ]
+                        },
+                        {
+                            "pos": "N"
+                        }
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "postdeterminer",
+                        "types": [
+                            "DIST"
+                        ]
+                    },
+                    "conflicts_with": {
+                        "mode": "central determiner",
+                        "types": [
+                            "ART",
+                            "DEM",
+                            "POSS",
+                            "INT"
+                        ]
+                    },
+                    "type": "forbidden"
+                },
+                {
+                    "target": {
+                        "mode": "postdeterminer",
+                        "types": [
+                            "QUANT.QUANT"
+                        ]
+                    },
+                    "conflicts_with": {
+                        "mode": "central determiner",
+                        "types": [
+                            "POSS",
+                            "INT"
+                        ]
+                    },
+                    "type": "forbidden"
+                },
+                {
+                    "target": {
+                        "mode": "postdeterminer",
+                        "types": [
+                            "NUM"
+                        ]
+                    },
+                    "conflicts_with": {
+                        "mode": "central determiner",
+                        "types": [
+                            "INT"
+                        ]
+                    },
+                    "type": "forbidden"
+                }
+            ],
+            "placement": [
+                {
+                    "mode": "predeterminer",
+                    "requires": [
+                        "N"
+                    ],
+                    "types": [
+                        "MULT",
+                        "FRACT",
+                        "INTENS",
+                        "DIST"
+                    ]
+                },
+                {
+                    "mode": "central determiner",
+                    "requires": [
+                        "N"
+                    ],
+                    "types": [
+                        "POSS",
+                        "DEM",
+                        "ART",
+                        "INT"
+                    ]
+                },
+                {
+                    "mode": "postdeterminer",
+                    "requires": [
+                        "N"
+                    ],
+                    "types": [
+                        "NUM",
+                        "QUANT.NUM",
+                        "QUANT.QUANT",
+                        "SEQ",
+                        "DIST"
+                    ]
+                }
+            ],
+            "order": [
+                "predeterminer",
+                "central determiner",
+                "postdeterminer"
+            ]
+        },
+        "ADJ": {
+            "restrictions": [
+                {
+                    "target": {
+                        "mode": "predicative"
+                    },
+                    "requires_sequence": [
+                        [
+                            {
+                                "pos": "N"
+                            },
+                            {
+                                "pos": "V",
+                                "features": {
+                                    "TYPE": "COP"
+                                }
+                            },
+                            {
+                                "pos": "ADJ",
+                                "mode": "predicative"
+                            }
+                        ]
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "postpositive"
+                    },
+                    "requires_sequence": [
+                        [
+                            {
+                                "pos": "N"
+                            },
+                            {
+                                "pos": "ADJ",
+                                "mode": "postpositive"
+                            }
+                        ],
+                        [
+                            {
+                                "pos": "DET",
+                                "types": [
+                                    "ART"
+                                ]
+                            },
+                            {
+                                "pos": "N"
+                            },
+                            {
+                                "pos": "ADV",
+                                "lemma": "this|that|so"
+                            },
+                            {
+                                "pos": "ADJ",
+                                "mode": "postpositive"
+                            }
+                        ]
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "postpositive"
+                    },
+                    "requires_sequence": [
+                        [
+                            {
+                                "pos": "N"
+                            },
+                            {
+                                "pos": "ADJ",
+                                "mode": "postpositive"
+                            }
+                        ]
+                    ],
+                    "type": "structured"
+                },
+                {
+                    "target": {
+                        "mode": "prepositive"
+                    },
+                    "requires_sequence": [
+                        [
+                            {
+                                "pos": "ADJ",
+                                "mode": "prepositive"
+                            },
+                            {
+                                "pos": "N"
+                            },
+                            {
+                                "pos": "PRON"
+                            }
+                        ]
+                    ],
+                    "type": "structured"
+                }
+            ],
+            "placement": [
+                {
+                    "mode": "prepositive",
+                    "requires": [
+                        "N"
+                    ],
+                    "types": [
+                        "PRE"
+                    ]
+                },
+                {
+                    "mode": "postpositive",
+                    "requires": [
+                        "N"
+                    ],
+                    "types": [
+                        "POST"
+                    ]
+                },
+                {
+                    "mode": "predicative",
+                    "requires": [
+                        "N",
+                        "V"
+                    ],
+                    "types": [
+                        "PRED"
+                    ]
+                }
+            ],
+            "series_order": [
+                {
+                    "category": "opinion"
+                },
+                {
+                    "category": "size"
+                },
+                {
+                    "category": "age"
+                },
+                {
+                    "category": "shape"
+                },
+                {
+                    "category": "color"
+                },
+                {
+                    "category": "origin"
+                },
+                {
+                    "category": "material"
+                },
+                {
+                    "category": "purpose"
+                },
+                {
+                    "category": "noun"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "negate",
+    "lemma": "negate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/nɪˈɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "negates",
+          "PT": "negated",
+          "PAP": "negated",
+          "PRP": "negating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deny the existence, evidence, or truth of; to contradict .",
+        "examples": [
+          "The investigation tending to negate any supernatural influences."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To nullify or cause to be ineffective .",
+        "examples": [
+          "Progress on the study has been negated by the lack of funds.",
+          "Persecution can be negated through exposure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be negative ; bring or cause negative results.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To perform the NOT operation on.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "To deny the existence, evidence, or truth of; to contradict .",
+    "secondary_definitions": [
+      "To nullify or cause to be ineffective .",
+      "To be negative ; bring or cause negative results.",
+      "( computing ) To perform the NOT operation on."
+    ]
+  }
+]

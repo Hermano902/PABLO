@@ -1,0 +1,84 @@
+[
+  {
+    "word": "massage",
+    "lemma": "massage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæsɑː(d)ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "massages",
+          "PT": "massaged",
+          "PAP": "massaged",
+          "PRP": "massaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To rub and knead (someone's body or a part of a body), to perform a massage on (somebody).",
+        "examples": [
+          "My neck doesn't hurt as much as it did last night since my wife massaged me after I got back from the concert."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rub or knead anything.",
+        "examples": [
+          "Massage the kale to soften it before making the salad."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To manipulate ( data , a document etc.) to make it more presentable or more convenient to work with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To falsify (data or accounts).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To rub and knead (someone's body or a part of a body), to perform a massage on (somebody).",
+    "secondary_definitions": [
+      "( transitive ) To rub or knead anything.",
+      "( transitive ) To manipulate ( data , a document etc.) to make it more presentable or more convenient to work with.",
+      "( transitive ) To falsify (data or accounts)."
+    ]
+  }
+]

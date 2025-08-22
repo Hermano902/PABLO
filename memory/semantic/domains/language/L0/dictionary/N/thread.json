@@ -1,0 +1,192 @@
+[
+  {
+    "word": "thread",
+    "lemma": "thread",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/θɹɛd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "threads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A cord formed by spinning or twisting together textile fibers or filaments into one or more continuous strands , typically used in needlework .",
+        "examples": [],
+        "synonyms": [
+          "string"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A piece of yarn , especially said of warps and wefts in a woven fabric .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "weaving"
+        ],
+        "label_groups": "weaving"
+      },
+      {
+        "definition": "Any of various natural (as spiderweb , etc.) or manufactured filaments (as glass , plastic , metal , etc.).",
+        "examples": [
+          "the threads of a spiderweb"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A slender stream of water.",
+        "examples": [
+          "a thread of water"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The line midway between the banks of a stream .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A screw thread .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "The continuing course of life ; thread of life .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An ordered course , that which connects the successive points in a discourse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A line of reasoning , sequence of ideas , or train of thought .",
+            "examples": [
+              "I’ve lost the thread of what you’re saying."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A continuing theme that modifies the whole discourse.",
+            "examples": [
+              "All of these essays have a common thread ."
+            ],
+            "synonyms": [
+              "topic"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A unit of execution, lighter in weight than a process , usually sharing memory and other resources with other threads executing concurrently.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A series of posts or messages , consisting of an initial post and responses to it, generally relating to the same subject , on a newsgroup , Internet forum , or social media platform .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "A sequence of connections .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A precarious condition ; something that which offers no real or otherwise perceived security .",
+        "examples": [
+          "a life hanging by a thread"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The degree of fineness ; quality ; nature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "obsolete"
+        ],
+        "label_groups": "figurative , obsolete"
+      }
+    ],
+    "main_definition": "A cord formed by spinning or twisting together textile fibers or filaments into one or more continuous strands , typically used in needlework .",
+    "secondary_definitions": [
+      "( weaving ) A piece of yarn , especially said of warps and wefts in a woven fabric .",
+      "Any of various natural (as spiderweb , etc.) or manufactured filaments (as glass , plastic , metal , etc.).",
+      "A slender stream of water.",
+      "The line midway between the banks of a stream .",
+      "( engineering ) A screw thread .",
+      "The continuing course of life ; thread of life .",
+      "An ordered course , that which connects the successive points in a discourse .",
+      "( computing ) A unit of execution, lighter in weight than a process , usually sharing memory and other resources with other threads executing concurrently.",
+      "( Internet ) A series of posts or messages , consisting of an initial post and responses to it, generally relating to the same subject , on a newsgroup , Internet forum , or social media platform .",
+      "A sequence of connections .",
+      "A precarious condition ; something that which offers no real or otherwise perceived security .",
+      "( figurative , obsolete ) The degree of fineness ; quality ; nature ."
+    ]
+  }
+]

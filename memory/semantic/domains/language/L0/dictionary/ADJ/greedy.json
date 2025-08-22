@@ -1,0 +1,89 @@
+[
+  {
+    "word": "greedy",
+    "lemma": "greedy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɹiːdi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "greedier",
+          "SUP": "greediest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having greed ; consumed by selfish desires.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Prone to overeat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Tending to match as much text as possible.",
+        "examples": [
+          "This regular expression performs a greedy match."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "lazy",
+          "nongreedy",
+          "reluctant"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "regular expressions"
+        ],
+        "label_groups": "regular expressions"
+      },
+      {
+        "definition": "That tries to find the global optimum by finding the local optimum at each stage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nongreedy"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "of an algorithm"
+        ],
+        "label_groups": "computer science , of an algorithm"
+      },
+      {
+        "definition": "Greedily sought or pursued .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "Having greed ; consumed by selfish desires.",
+    "secondary_definitions": [
+      "Prone to overeat .",
+      "( regular expressions ) Tending to match as much text as possible.",
+      "( computer science , of an algorithm ) That tries to find the global optimum by finding the local optimum at each stage.",
+      "( archaic ) Greedily sought or pursued ."
+    ]
+  }
+]

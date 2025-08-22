@@ -1,0 +1,49 @@
+[
+  {
+    "word": "scalar",
+    "lemma": "scalar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪlə(ɹ)",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scalars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A quantity that has magnitude but not direction; compare vector .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An amplifier whose output is a constant multiple of its input .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( mathematics ) A quantity that has magnitude but not direction; compare vector .",
+    "secondary_definitions": [
+      "( electronics ) An amplifier whose output is a constant multiple of its input ."
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "write",
+    "lemma": "write",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹaɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "writes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or style of writing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The operation of storing data, as in memory or onto disk .",
+        "examples": [
+          "How many writes per second can this hard disk handle?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act or style of writing.",
+    "secondary_definitions": [
+      "( computing ) The operation of storing data, as in memory or onto disk ."
+    ]
+  }
+]

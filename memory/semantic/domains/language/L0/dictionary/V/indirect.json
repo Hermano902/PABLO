@@ -1,0 +1,41 @@
+[
+  {
+    "word": "indirect",
+    "lemma": "indirect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪndaɪˈɹɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "indirects",
+          "PT": "indirected",
+          "PAP": "indirected",
+          "PRP": "indirecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To access by means of indirection ; to dereference .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "( programming , transitive ) To access by means of indirection ; to dereference .",
+    "secondary_definitions": []
+  }
+]

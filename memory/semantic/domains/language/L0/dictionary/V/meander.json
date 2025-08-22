@@ -1,0 +1,75 @@
+[
+  {
+    "word": "meander",
+    "lemma": "meander",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/miˈæn.də(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "meanders",
+          "PT": "meandered",
+          "PAP": "meandered",
+          "PRP": "meandering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wind or turn in a course or passage",
+        "examples": [
+          "The stream meandered through the valley."
+        ],
+        "synonyms": [
+          "wind",
+          "worm",
+          "wander"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be intricate .",
+        "examples": [
+          "His speech meandered through various topics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To wind , turn , or twist ; to make flexuous .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To wind or turn in a course or passage",
+    "secondary_definitions": [
+      "( intransitive ) To be intricate .",
+      "( transitive ) To wind , turn , or twist ; to make flexuous ."
+    ]
+  }
+]

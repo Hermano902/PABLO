@@ -1,0 +1,68 @@
+[
+  {
+    "word": "margin",
+    "lemma": "margin",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɑːd͡ʒɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "margins",
+          "PT": "margined",
+          "PAP": "margined",
+          "PRP": "margining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To add a margin to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enter (notes etc.) into the margin.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To trade ( securities etc.) on margin ( collateral ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      }
+    ],
+    "main_definition": "( transitive ) To add a margin to.",
+    "secondary_definitions": [
+      "( transitive ) To enter (notes etc.) into the margin.",
+      "( transitive , finance ) To trade ( securities etc.) on margin ( collateral )."
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "word": "variable",
+  "pos_order": [
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 13,
+      "antonyms": 12,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 2,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\variable.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\variable.json"
+  },
+  "timestamp": "2025-08-19T20:23:25.538446Z"
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "word": "convex",
+    "lemma": "convex",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.vɛks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more convex",
+          "SUP": "most convex"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Curved or bowed outward like the outside of a bowl , circle , or sphere .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "having an epigraph that is a convex set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "functional analysis",
+          "not comparable",
+          "of a real-valued function on the reals"
+        ],
+        "label_groups": "functional analysis , not comparable , of a real-valued function on the reals"
+      },
+      {
+        "definition": "having no internal angles greater than 180 degrees.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "not comparable",
+          "of a polygon"
+        ],
+        "label_groups": "geometry , not comparable , of a polygon"
+      },
+      {
+        "definition": "arranged such that for any two points in the set, a straight line between the two points is contained within the set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable",
+          "of a set in Euclidean space"
+        ],
+        "label_groups": "mathematics , not comparable , of a set in Euclidean space"
+      }
+    ],
+    "main_definition": "Curved or bowed outward like the outside of a bowl , circle , or sphere .",
+    "secondary_definitions": [
+      "( functional analysis , not comparable , of a real-valued function on the reals ) having an epigraph that is a convex set.",
+      "( geometry , not comparable , of a polygon ) having no internal angles greater than 180 degrees.",
+      "( mathematics , not comparable , of a set in Euclidean space ) arranged such that for any two points in the set, a straight line between the two points is contained within the set."
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "tautology",
+    "lemma": "tautology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɔˈtɒl.ə.d͡ʒi/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tautologies"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Redundant use of words, a pleonasm , an unnecessary and tedious repetition.",
+        "examples": [
+          "It is tautology to say, \"Forward Planning\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An expression that features tautology.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A statement that is true for all truth values of its propositional variables .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "logic",
+          "propositional logic"
+        ],
+        "label_groups": "countable , logic , propositional logic"
+      },
+      {
+        "definition": "A statement that is true for all truth values of its Boolean atoms .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "logic",
+          "first-order logic"
+        ],
+        "label_groups": "countable , logic , first-order logic"
+      }
+    ],
+    "main_definition": "( uncountable ) Redundant use of words, a pleonasm , an unnecessary and tedious repetition.",
+    "secondary_definitions": [
+      "( countable ) An expression that features tautology.",
+      "( countable , logic , propositional logic ) A statement that is true for all truth values of its propositional variables .",
+      "( countable , logic , first-order logic ) A statement that is true for all truth values of its Boolean atoms ."
+    ]
+  }
+]

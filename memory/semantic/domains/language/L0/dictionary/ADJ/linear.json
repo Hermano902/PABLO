@@ -1,0 +1,204 @@
+[
+  {
+    "word": "linear",
+    "lemma": "linear",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪni.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more linear",
+          "SUP": "most linear"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having the form of a line ; straight or roughly straight; following a direct course.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of or relating to lines.",
+        "examples": [],
+        "synonyms": [
+          "lineal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Made, or designed to be used, in a step-by-step , sequential manner.",
+        "examples": [
+          "a linear medium"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Long and narrow, with nearly parallel sides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany",
+          "of leaves"
+        ],
+        "label_groups": "botany , of leaves"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Having degree one; that is, being of the form a 1 x 1 + a 2 x 2 + ⋯ + a n x n + b {\\displaystyle a_{1}x_{1}+a_{2}x_{2}+\\cdots +a_{n}x_{n}+b} , where each x i {\\displaystyle x_{i}} is a variable . See also Linear polynomials on  Wikipedia. Wikipedia",
+            "examples": [
+              "4 x + 5 y + 1 2 z {\\displaystyle 4x+5y+{\\frac {1}{2}}z} is a linear polynomial, but 4 x y + 1 2 z {\\displaystyle 4xy+{\\frac {1}{2}}z} and 4 x + z 2 {\\displaystyle 4x+z^{2}} are not."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a polynomial"
+            ],
+            "label_groups": "of a polynomial"
+          },
+          {
+            "definition": "Involving only linear polynomials. See also Linear equation on  Wikipedia. Wikipedia",
+            "examples": [
+              "The graph of the linear equation y = a x + b {\\displaystyle y=ax+b} is a straight line with slope a {\\displaystyle a} and y-intercept b {\\displaystyle b}"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a polynomial equation"
+            ],
+            "label_groups": "of a polynomial equation"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of polynomials or polynomial equations"
+        ],
+        "label_groups": [
+          "mathematics",
+          "of polynomials or polynomial equations"
+        ]
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An additive , homogeneous mapping ; that is, a function f : V → W {\\displaystyle f:V\\to W} is linear if it distributes over vector addition ( f ( v + w ) = f ( v ) + f ( w ) {\\displaystyle f(\\mathbf {v} +\\mathbf {w} )=f(\\mathbf {v} )+f(\\mathbf {w} )} ) and respects scalar multiplication ( f ( c v ) = c f ( v ) {\\displaystyle f(c\\mathbf {v} )=cf(\\mathbf {v} )} ). If V {\\displaystyle V} and W {\\displaystyle W} are vector spaces over a field K {\\displaystyle K} , f {\\displaystyle f} may also be called a K {\\displaystyle K} -linear map. See also linear map on  Wikipedia. Wikipedia",
+            "examples": [
+              "The map f : R 3 → R 2 {\\displaystyle f:\\mathbb {R} ^{3}\\to \\mathbb {R} ^{2}} taking ( x , y , z ) ↦ ( x + y + z , x − y + 3 z ) {\\displaystyle (x,y,z)\\mapsto (x+y+z,x-y+3z)} is a linear map."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a function between vector spaces"
+            ],
+            "label_groups": "of a function between vector spaces"
+          },
+          {
+            "definition": "A module homomorphism ; that is, a group homomorphism that commutes with scalar multiplication. See also Module homomorphism on  Wikipedia. Wikipedia",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a function over a module"
+            ],
+            "label_groups": "of a function over a module"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of functions or maps"
+        ],
+        "label_groups": [
+          "mathematics",
+          "of functions or maps"
+        ]
+      },
+      {
+        "definition": "A type of length measurement involving only one spatial dimension ( as opposed to area or volume ) .",
+        "examples": [
+          "a linear meter"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Delivered or delivering on a fixed schedule, as opposed to on-demand .",
+        "examples": [
+          "linear TV , linear content, linear video, linear radio",
+          "Linear television is dead or, at least, declining.",
+          "Linear television includes traditional over-the-air broadcasting, as well as much cable and satellite broadcasting."
+        ],
+        "synonyms": [
+          "broadcast",
+          "tune-in"
+        ],
+        "antonyms": [
+          "streaming",
+          "on-demand",
+          "non-linear"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Discuss this sense",
+          "media",
+          "of video",
+          "audio"
+        ],
+        "label_groups": [
+          "Discuss this sense",
+          "media , of video and audio"
+        ],
+        "dating_raw": "From 1980s"
+      }
+    ],
+    "main_definition": "Having the form of a line ; straight or roughly straight; following a direct course.",
+    "secondary_definitions": [
+      "Of or relating to lines.",
+      "Made, or designed to be used, in a step-by-step , sequential manner.",
+      "( botany , of leaves ) Long and narrow, with nearly parallel sides.",
+      "( mathematics ) ( of polynomials or polynomial equations )",
+      "( mathematics ) ( of functions or maps )",
+      "( physics ) A type of length measurement involving only one spatial dimension ( as opposed to area or volume ) .",
+      "( Discuss this sense) ( media , of video and audio ) Delivered or delivering on a fixed schedule, as opposed to on-demand . [From 1980s]"
+    ]
+  }
+]

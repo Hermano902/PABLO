@@ -1,0 +1,133 @@
+[
+  {
+    "word": "scrub",
+    "lemma": "scrub",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skɹʌb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scrubs",
+          "PT": "scrubbed",
+          "PAP": "scrubbed",
+          "PRP": "scrubbing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To rub hard; to wash with rubbing; usually, to rub with a wet brush, or with something coarse or rough, for the purpose of cleaning or brightening",
+        "examples": [
+          "to scrub a floor",
+          "to scrub your fingernails"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rub anything hard, especially with a wet brush; to scour",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be diligent and penurious",
+        "examples": [
+          "to scrub hard for a living"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      },
+      {
+        "definition": "To call off a scheduled event; to cancel .",
+        "examples": [
+          "Engineers had to scrub the satellite launch due to bad weather."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To eliminate or to correct data from a set of records to bring it inline with other similar datasets",
+        "examples": [
+          "The street segment data from the National Post Office will need to be scrubbed before it can be integrated into our system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases",
+          "transitive"
+        ],
+        "label_groups": "databases , transitive"
+      },
+      {
+        "definition": "To move a recording tape back and forth with a scrubbing motion to produce a scratching sound, or to do so by a similar use of a control on an editing system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "audio"
+        ],
+        "label_groups": "audio"
+      },
+      {
+        "definition": "To maneuver the play position on a media editing system by using a scroll bar or touch-based interface .",
+        "examples": [],
+        "synonyms": [
+          "seek"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "audio",
+          "video"
+        ],
+        "label_groups": "audio , video"
+      }
+    ],
+    "main_definition": "( transitive ) To rub hard; to wash with rubbing; usually, to rub with a wet brush, or with something coarse or rough, for the purpose of cleaning or brightening",
+    "secondary_definitions": [
+      "( intransitive ) To rub anything hard, especially with a wet brush; to scour",
+      "( intransitive , figuratively ) To be diligent and penurious",
+      "( transitive ) To call off a scheduled event; to cancel .",
+      "( databases , transitive ) To eliminate or to correct data from a set of records to bring it inline with other similar datasets",
+      "( audio ) To move a recording tape back and forth with a scrubbing motion to produce a scratching sound, or to do so by a similar use of a control on an editing system.",
+      "( audio , video ) To maneuver the play position on a media editing system by using a scroll bar or touch-based interface ."
+    ]
+  }
+]

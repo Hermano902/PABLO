@@ -1,0 +1,37 @@
+{
+  "word": "prompt",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 5,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\prompt.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\prompt.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\prompt.json"
+  },
+  "timestamp": "2025-08-19T12:37:23.512112Z"
+}

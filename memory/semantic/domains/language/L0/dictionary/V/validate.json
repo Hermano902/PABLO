@@ -1,0 +1,69 @@
+[
+  {
+    "word": "validate",
+    "lemma": "validate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvæl.ɪ.deɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "validates",
+          "PT": "validated",
+          "PAP": "validated",
+          "PRP": "validating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To render valid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To check or prove the validity of; verify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have its validity successfully proven.",
+        "examples": [
+          "The data file cannot be imported because it doesn't validate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative"
+        ],
+        "label_groups": "ergative"
+      }
+    ],
+    "main_definition": "( transitive ) To render valid .",
+    "secondary_definitions": [
+      "( transitive ) To check or prove the validity of; verify .",
+      "( ergative ) To have its validity successfully proven."
+    ]
+  }
+]

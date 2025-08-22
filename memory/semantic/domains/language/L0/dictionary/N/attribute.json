@@ -1,0 +1,119 @@
+[
+  {
+    "word": "attribute",
+    "lemma": "attribute",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæt.ɹɪ.bjuːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "attributes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A characteristic or quality of a thing.",
+        "examples": [
+          "His finest attribute is his kindness."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An object that is considered typical of someone or some function, in particular as an artistic convention .",
+        "examples": [
+          "The eagle and the bolt of lightning are attributes of Jove."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A word that qualifies a noun .",
+        "examples": [],
+        "synonyms": [
+          "qualifier"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "That which is predicated or affirmed of a subject; a predicate ; an accident .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "An option or setting belonging to some object .",
+        "examples": [
+          "This packet has its coherency attribute set to zero.",
+          "A file with the read-only attribute set cannot be overwritten."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "object-oriented programming"
+        ],
+        "label_groups": "computing , object-oriented programming"
+      },
+      {
+        "definition": "A semantic item with which a method or other code element may be decorated .",
+        "examples": [
+          "Properties can be marked as obsolete with an attribute , which will cause the compiler to generate a warning if they are used."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A numeric value representing the colours of part of the screen display .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics",
+          "dated"
+        ],
+        "label_groups": "computer graphics , dated"
+      }
+    ],
+    "main_definition": "A characteristic or quality of a thing.",
+    "secondary_definitions": [
+      "An object that is considered typical of someone or some function, in particular as an artistic convention .",
+      "( grammar ) A word that qualifies a noun .",
+      "( logic ) That which is predicated or affirmed of a subject; a predicate ; an accident .",
+      "( computing , object-oriented programming ) An option or setting belonging to some object .",
+      "( programming ) A semantic item with which a method or other code element may be decorated .",
+      "( computer graphics , dated ) A numeric value representing the colours of part of the screen display ."
+    ]
+  }
+]

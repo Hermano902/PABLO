@@ -1,0 +1,47 @@
+[
+  {
+    "word": "search",
+    "lemma": "search",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/sɜːt͡ʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "searches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An attempt to find something.",
+        "examples": [
+          "With only five minutes until we were meant to leave, the search for the keys started in earnest."
+        ],
+        "synonyms": [
+          "sweep"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of searching in general.",
+        "examples": [
+          "Search is a hard problem for computers to solve efficiently."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "An attempt to find something.",
+    "secondary_definitions": [
+      "The act of searching in general."
+    ]
+  }
+]

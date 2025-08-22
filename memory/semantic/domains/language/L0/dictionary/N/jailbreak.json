@@ -1,0 +1,80 @@
+[
+  {
+    "word": "jailbreak",
+    "lemma": "jailbreak",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒeɪlˌbɹeɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jailbreaks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An escape from prison .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A modification to the firmware of an electronic device (typically a mobile phone or tablet ) to allow the installation and use of software not officially supported by the device's manufacturer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A prompt to a large language model which frees it from its ethical restrictions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence"
+        ],
+        "label_groups": "artificial intelligence"
+      },
+      {
+        "definition": "A rule present in some ice hockey leagues that causes a penalty to end if the short-handed team scores.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A goal scored in this situation.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "ice hockey"
+        ],
+        "label_groups": "ice hockey"
+      }
+    ],
+    "main_definition": "An escape from prison .",
+    "secondary_definitions": [
+      "( computing ) A modification to the firmware of an electronic device (typically a mobile phone or tablet ) to allow the installation and use of software not officially supported by the device's manufacturer .",
+      "( artificial intelligence ) A prompt to a large language model which frees it from its ethical restrictions .",
+      "( ice hockey ) A rule present in some ice hockey leagues that causes a penalty to end if the short-handed team scores."
+    ]
+  }
+]

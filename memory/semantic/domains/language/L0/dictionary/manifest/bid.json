@@ -1,0 +1,29 @@
+{
+  "word": "bid",
+  "pos_order": [
+    "V",
+    "V:2",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 10,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 5,
+      "examples": 6,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bid.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bid.json"
+  },
+  "timestamp": "2025-08-18T22:11:28.699172Z"
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "integrity",
+    "lemma": "integrity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɛɡɹəti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "integrities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Steadfast adherence to a strict moral or ethical code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The state of being wholesome ; unimpaired",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The quality or condition of being complete ; pure",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "With regards to data encryption , ensuring that information is not altered by unauthorized persons in a way that is not detectable by authorized users.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "The ability of systems to provide timely warnings to users when they should not be used for navigation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "Trustworthiness ; keeping one's word.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Steadfast adherence to a strict moral or ethical code .",
+    "secondary_definitions": [
+      "The state of being wholesome ; unimpaired",
+      "The quality or condition of being complete ; pure",
+      "( cryptography ) With regards to data encryption , ensuring that information is not altered by unauthorized persons in a way that is not detectable by authorized users.",
+      "( aviation ) The ability of systems to provide timely warnings to users when they should not be used for navigation .",
+      "Trustworthiness ; keeping one's word."
+    ]
+  }
+]

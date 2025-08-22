@@ -1,0 +1,35 @@
+[
+  {
+    "word": "subgraph",
+    "lemma": "subgraph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subgraphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A graph or network that makes up part of a larger graph or network.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( graph theory ) A graph or network that makes up part of a larger graph or network.",
+    "secondary_definitions": []
+  }
+]

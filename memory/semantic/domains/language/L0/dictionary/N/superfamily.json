@@ -1,0 +1,49 @@
+[
+  {
+    "word": "superfamily",
+    "lemma": "superfamily",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "superfamilies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A taxonomic category above family and below order (and its subdivisions ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "A large group of related proteins or other molecules.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "molecular biology"
+        ],
+        "label_groups": "molecular biology"
+      }
+    ],
+    "main_definition": "( taxonomy ) A taxonomic category above family and below order (and its subdivisions ).",
+    "secondary_definitions": [
+      "( molecular biology ) A large group of related proteins or other molecules."
+    ]
+  }
+]

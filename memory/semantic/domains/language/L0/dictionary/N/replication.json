@@ -1,0 +1,82 @@
+[
+  {
+    "word": "replication",
+    "lemma": "replication",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɛplɪˈkeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "replications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process by which an object, person, place or idea may be copied mimicked or reproduced .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Copy ; reproduction .",
+        "examples": [
+          "That painting is an almost exact replication of a famous Rembrandt painting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A response from the plaintiff to the defendant's plea.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "The process of producing replicas of DNA or RNA molecules.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "The process of frequent electronic data copying a one database in one computer or server to a database in another so that all users share the same level of information. Used to improve fault tolerance of the system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The process by which an object, person, place or idea may be copied mimicked or reproduced .",
+    "secondary_definitions": [
+      "Copy ; reproduction .",
+      "( law ) A response from the plaintiff to the defendant's plea.",
+      "( biology ) The process of producing replicas of DNA or RNA molecules.",
+      "( computing ) The process of frequent electronic data copying a one database in one computer or server to a database in another so that all users share the same level of information. Used to improve fault tolerance of the system."
+    ]
+  }
+]

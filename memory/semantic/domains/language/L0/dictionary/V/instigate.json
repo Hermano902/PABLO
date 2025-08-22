@@ -1,0 +1,76 @@
+[
+  {
+    "word": "instigate",
+    "lemma": "instigate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnstəɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "instigates",
+          "PT": "instigated",
+          "PAP": "instigated",
+          "PRP": "instigating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring about by urging or encouraging.",
+        "examples": [
+          "to instigate a riot",
+          "to instigate a change"
+        ],
+        "synonyms": [
+          "foment",
+          "provoke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To goad or urge (a person) forward, especially to wicked actions.",
+        "examples": [
+          "to instigate someone to a crime"
+        ],
+        "synonyms": [
+          "animate",
+          "encourage",
+          "impel",
+          "incite",
+          "provoke",
+          "spur",
+          "stimulate",
+          "tempt",
+          "urge"
+        ],
+        "antonyms": [
+          "halt",
+          "prevent",
+          "stop"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bring about by urging or encouraging.",
+    "secondary_definitions": [
+      "( transitive ) To goad or urge (a person) forward, especially to wicked actions."
+    ]
+  }
+]

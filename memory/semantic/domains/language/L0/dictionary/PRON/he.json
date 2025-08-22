@@ -1,0 +1,76 @@
+[
+  {
+    "word": "he",
+    "lemma": "he",
+    "etymology": "Etymology 1",
+    "pos": "PRON",
+    "raw_label": "Pronoun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who identifies as male , or animal already known or implied.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "personal"
+        ],
+        "label_groups": "personal"
+      },
+      {
+        "definition": "They ; he or she ( a person whose gender is unknown or irrelevant ) .",
+        "examples": [
+          "The rulebook clearly states that \"if any student is caught cheating, he will be expelled\", and you were caught cheating, were you not, Anna?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "personal",
+          "sometimes proscribed",
+          "see usage notes"
+        ],
+        "label_groups": "personal , sometimes proscribed , see usage notes"
+      },
+      {
+        "definition": "It ; an animal whose gender is unknown.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "personal",
+          "sometimes proscribed"
+        ],
+        "label_groups": "personal , sometimes proscribed"
+      },
+      {
+        "definition": "A genderless object regarded as masculine, such as certain stars or planets (e.g. Sun, Mercury, Mars, Jupiter) or certain ships.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "she",
+          "it"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( personal ) A person who identifies as male , or animal already known or implied.",
+    "secondary_definitions": [
+      "( personal , sometimes proscribed , see usage notes ) They ; he or she ( a person whose gender is unknown or irrelevant ) .",
+      "( personal , sometimes proscribed ) It ; an animal whose gender is unknown.",
+      "A genderless object regarded as masculine, such as certain stars or planets (e.g. Sun, Mercury, Mars, Jupiter) or certain ships."
+    ]
+  }
+]

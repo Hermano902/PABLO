@@ -1,0 +1,93 @@
+[
+  {
+    "word": "eager",
+    "lemma": "eager",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/iɡə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more eager",
+          "SUP": "most eager"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Desirous ; keen to do or obtain something.",
+        "examples": [
+          "Stacey is very eager to go cycling this weekend.",
+          "The hounds were eager in the chase.",
+          "I was eager to show my teacher how much I'd learned over the holidays.",
+          "You stayed up all night to get to the front of the queue. You must be very eager to get tickets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not employing lazy evaluation ; calculating results immediately, rather than deferring calculation until they are required.",
+        "examples": [
+          "an eager algorithm"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "Brittle ; inflexible ; not ductile .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Sharp ; sour ; acid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "literal"
+        ],
+        "label_groups": "obsolete , literal"
+      },
+      {
+        "definition": "Sharp; keen ; bitter ; severe .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "figurative"
+        ],
+        "label_groups": "obsolete , figurative"
+      }
+    ],
+    "main_definition": "Desirous ; keen to do or obtain something.",
+    "secondary_definitions": [
+      "( computing theory ) Not employing lazy evaluation ; calculating results immediately, rather than deferring calculation until they are required.",
+      "( dated ) Brittle ; inflexible ; not ductile .",
+      "( obsolete , literal ) Sharp ; sour ; acid .",
+      "( obsolete , figurative ) Sharp; keen ; bitter ; severe ."
+    ]
+  }
+]

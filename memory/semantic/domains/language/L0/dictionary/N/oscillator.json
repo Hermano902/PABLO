@@ -1,0 +1,54 @@
+[
+  {
+    "word": "oscillator",
+    "lemma": "oscillator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "oscillators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A tuned electronic circuit used to generate a continuous output waveform .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An instrument for measuring rigidity by the torsional oscillations of a weighted wire .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pattern that returns to its original state, in the same orientation and position , after a finite number of generations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cellular automata"
+        ],
+        "label_groups": "cellular automata"
+      }
+    ],
+    "main_definition": "A tuned electronic circuit used to generate a continuous output waveform .",
+    "secondary_definitions": [
+      "An instrument for measuring rigidity by the torsional oscillations of a weighted wire .",
+      "( cellular automata ) A pattern that returns to its original state, in the same orientation and position , after a finite number of generations ."
+    ]
+  }
+]

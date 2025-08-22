@@ -1,0 +1,60 @@
+[
+  {
+    "word": "ancilla",
+    "lemma": "ancilla",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ænˈsɪ.lə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ancillae"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A maid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      },
+      {
+        "definition": "An auxiliary or accessory",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An ancilla bit",
+        "examples": [
+          "The circuit uses a single ancilla for each stabilizer generator."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( rare ) A maid .",
+    "secondary_definitions": [
+      "An auxiliary or accessory",
+      "( computing ) An ancilla bit"
+    ]
+  }
+]

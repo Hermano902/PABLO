@@ -1,0 +1,59 @@
+[
+  {
+    "word": "polymerize",
+    "lemma": "polymerize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɒlɨməɹʌɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "polymerizes",
+          "PT": "polymerized",
+          "PAP": "polymerized",
+          "PRP": "polymerizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert a monomer to a polymer by polymerization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "organic chemistry"
+        ],
+        "label_groups": [
+          "transitive",
+          "organic chemistry"
+        ]
+      },
+      {
+        "definition": "To undergo polymerization.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chemistry"
+        ],
+        "label_groups": "intransitive , chemistry"
+      }
+    ],
+    "main_definition": "( transitive ) ( organic chemistry ) To convert a monomer to a polymer by polymerization .",
+    "secondary_definitions": [
+      "( intransitive , chemistry ) To undergo polymerization."
+    ]
+  }
+]

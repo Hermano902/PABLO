@@ -1,0 +1,64 @@
+{
+  "word": "half",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADV",
+    "V",
+    "PREP",
+    "INTJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 9,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 11,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 4,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "PREP": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\half.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\half.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\half.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\half.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\half.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\half.json"
+  },
+  "timestamp": "2025-08-19T04:58:01.099810Z"
+}

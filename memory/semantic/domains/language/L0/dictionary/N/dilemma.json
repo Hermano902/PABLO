@@ -1,0 +1,73 @@
+[
+  {
+    "word": "dilemma",
+    "lemma": "dilemma",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈlɛmə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dilemmas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A circumstance in which a choice must be made between two or more alternatives that seem equally undesirable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any difficult circumstance or problem .",
+        "examples": [],
+        "synonyms": [
+          "bind",
+          "fix",
+          "pickle",
+          "problem",
+          "quandary"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of syllogism of the form \"if A is true then B is true; if C is true then D is true; either A or C is true; therefore either B or D is true\".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "Offering to an opponent a choice between two (equally unfavorable) alternatives.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rhetoric"
+        ],
+        "label_groups": "rhetoric"
+      }
+    ],
+    "main_definition": "A circumstance in which a choice must be made between two or more alternatives that seem equally undesirable .",
+    "secondary_definitions": [
+      "Any difficult circumstance or problem .",
+      "( logic ) A type of syllogism of the form \"if A is true then B is true; if C is true then D is true; either A or C is true; therefore either B or D is true\".",
+      "( rhetoric ) Offering to an opponent a choice between two (equally unfavorable) alternatives."
+    ]
+  }
+]

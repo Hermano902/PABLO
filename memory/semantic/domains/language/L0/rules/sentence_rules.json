@@ -1,0 +1,66 @@
+{
+  "FLAG_PRIORITY": ["REGULAR", "INVERSION", "PASSIVE"],
+  "ST": {
+    "SV": {
+      "DESC": "Subject + Predicate",
+      "SLOTS": ["S", "P"],
+      "FLAGS": ["REGULAR", "INVERSION"]
+    },
+    "SVO": {
+      "DESC": "Subject + Predicate + Object",
+      "SLOTS": ["S", "P", "O"],
+      "FLAGS": ["REGULAR", "INVERSION", "PASSIVE"]
+    },
+    "SVC": {
+      "DESC": "Subject + Predicate + Complement",
+      "SLOTS": ["S", "P", "C"],
+      "FLAGS": ["REGULAR", "INVERSION"]
+    },
+    "SVA": {
+      "DESC": "Subject + Predicate + Adverbial",
+      "SLOTS": ["S", "P", "A"],
+      "FLAGS": ["REGULAR", "INVERSION"]
+    },
+    "SVOO": {
+      "DESC": "Subject + Predicate + Indirect Object + Direct Object",
+      "SLOTS": ["S", "P", "IO", "O"],
+      "FLAGS": ["REGULAR", "INVERSION", "PASSIVE"]
+    },
+    "SVOC": {
+      "DESC": "Subject + Predicate + Object + Complement",
+      "SLOTS": ["S", "P", "O", "C"],
+      "FLAGS": ["REGULAR", "INVERSION", "PASSIVE"]
+    },
+    "SVOA": {
+      "DESC": "Subject + Predicate + Object + Adverbial",
+      "SLOTS": ["S", "P", "O", "A"],
+      "FLAGS": ["REGULAR", "INVERSION", "PASSIVE"]
+    }
+  },
+  "ELE": {
+    "S": {
+      "DESC": "Subject",
+      "CAN_BE": ["PH.N", "PRON", "CL.GERUND", "CL.INF"]
+    },
+    "P": {
+      "DESC": "Predicate",
+      "CAN_BE": ["PH.V"]
+    },
+    "O": {
+      "DESC": "Direct Object",
+      "CAN_BE": ["PH.N", "PRON", "CL.GERUND", "CL.INF"]
+    },
+    "IO": {
+      "DESC": "Indirect Object",
+      "CAN_BE": ["PH.N", "PRON"]
+    },
+    "C": {
+      "DESC": "Complement",
+      "CAN_BE": ["PH.ADJP", "PH.N", "CL.PART", "CL.INF"]
+    },
+    "A": {
+      "DESC": "Adverbial",
+      "CAN_BE": ["PH.ADVP", "PH.PR", "CL.INF"]
+    }
+  }
+}

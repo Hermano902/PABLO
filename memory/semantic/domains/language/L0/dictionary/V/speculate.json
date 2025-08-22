@@ -1,0 +1,84 @@
+[
+  {
+    "word": "speculate",
+    "lemma": "speculate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈspɛk.jʊˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "speculates",
+          "PT": "speculated",
+          "PAP": "speculated",
+          "PRP": "speculating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To think , meditate or reflect on a subject; to consider, to deliberate or cogitate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      },
+      {
+        "definition": "To make an inference based on inconclusive evidence ; to surmise or conjecture .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make a risky trade in the hope of making a profit ; to venture or gamble .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "business",
+          "finance"
+        ],
+        "label_groups": "intransitive , business , finance"
+      },
+      {
+        "definition": "To anticipate which branch of code will be chosen and execute it in advance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "programming"
+        ],
+        "label_groups": "intransitive , programming"
+      }
+    ],
+    "main_definition": "( obsolete , intransitive ) To think , meditate or reflect on a subject; to consider, to deliberate or cogitate .",
+    "secondary_definitions": [
+      "( intransitive ) To make an inference based on inconclusive evidence ; to surmise or conjecture .",
+      "( intransitive , business , finance ) To make a risky trade in the hope of making a profit ; to venture or gamble .",
+      "( intransitive , programming ) To anticipate which branch of code will be chosen and execute it in advance ."
+    ]
+  }
+]

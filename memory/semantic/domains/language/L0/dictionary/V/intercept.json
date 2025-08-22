@@ -1,0 +1,94 @@
+[
+  {
+    "word": "intercept",
+    "lemma": "intercept",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪntəˈsɛpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "intercepts",
+          "PT": "intercepted",
+          "PAP": "intercepted",
+          "PRP": "intercepting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stop , deflect or divert (something in progress or motion ).",
+        "examples": [
+          "The police intercepted the package of stolen goods while it was in transit."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To gain possession of (the ball) in a ball game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a defensive player: to steal a pass thrown by the opposing team, gaining possession of the ball.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "American football"
+            ],
+            "label_groups": "transitive , American football"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To take or comprehend between.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To perform an aeronautical action in which a fighter approaches a suspicious aircraft to escort it away from a prohibited area, or approaches an enemy aircraft to shoot it down.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To stop , deflect or divert (something in progress or motion ).",
+    "secondary_definitions": [
+      "( transitive , sports ) To gain possession of (the ball) in a ball game .",
+      "( transitive , mathematics ) To take or comprehend between.",
+      "To perform an aeronautical action in which a fighter approaches a suspicious aircraft to escort it away from a prohibited area, or approaches an enemy aircraft to shoot it down."
+    ]
+  }
+]

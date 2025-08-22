@@ -1,0 +1,55 @@
+[
+  {
+    "word": "monochrome",
+    "lemma": "monochrome",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒn.əˌkɹəʊm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having only one colour.",
+        "examples": [],
+        "synonyms": [
+          "monochromatic",
+          "monocolor",
+          "monocoloured",
+          "monotone",
+          "unicolor",
+          "unicolored"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Representing colours with shades of gray .",
+        "examples": [],
+        "synonyms": [
+          "grayscale",
+          "greyscale"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "photography"
+        ],
+        "label_groups": "photography"
+      }
+    ],
+    "main_definition": "Having only one colour.",
+    "secondary_definitions": [
+      "( photography ) Representing colours with shades of gray ."
+    ]
+  }
+]

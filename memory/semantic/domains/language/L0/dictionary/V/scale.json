@@ -1,0 +1,210 @@
+[
+  {
+    "word": "scale",
+    "lemma": "scale",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skeɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scales",
+          "PT": "scaled",
+          "PAP": "scaled",
+          "PRP": "scaling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To change the size of something whilst maintaining proportion ; especially to change a process in order to produce much larger amounts of the final product.",
+        "examples": [
+          "We should scale that up by a factor of 10."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To climb to the top of.",
+        "examples": [
+          "Hilary and Norgay were the first known to have scaled Everest."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , computing ) To tolerate significant increases in throughput or other potentially limiting factors.",
+        "examples": [
+          "That architecture won't scale to real-world environments."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To weigh , measure or grade according to a scale or system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( manufacturing , transitive ) To take measurements from (an engineering drawing ), treating them as (or as if ) reliable dimensional instructions. This practice often works but can produce latently incorrect results and is thus usually deprecated .",
+        "examples": [
+          "Every single print that goes out our door has a warning in its title block telling the world, \"Do not scale this drawing.\""
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To change the size of something whilst maintaining proportion ; especially to change a process in order to produce much larger amounts of the final product.",
+    "secondary_definitions": [
+      "( transitive ) To climb to the top of.",
+      "( intransitive , computing ) To tolerate significant increases in throughput or other potentially limiting factors.",
+      "( transitive ) To weigh , measure or grade according to a scale or system.",
+      "( manufacturing , transitive ) To take measurements from (an engineering drawing ), treating them as (or as if ) reliable dimensional instructions. This practice often works but can produce latently incorrect results and is thus usually deprecated ."
+    ]
+  },
+  {
+    "word": "scale",
+    "lemma": "scale",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/skeɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scales",
+          "PT": "scaled",
+          "PAP": "scaled",
+          "PRP": "scaling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove the scales of.",
+        "examples": [
+          "Please scale that fish for dinner."
+        ],
+        "synonyms": [
+          "descale"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become scaly ; to produce or develop scales.",
+        "examples": [
+          "The dry weather is making my skin scale ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To strip or clear of scale; to descale .",
+        "examples": [
+          "to scale the inside of a boiler"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take off in thin layers or scales, as tartar from the teeth; to pare off, as a surface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To separate and come off in thin layers or laminae.",
+        "examples": [
+          "Some sandstone scales by exposure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To scatter ; to spread .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "Scotland",
+          "dialect"
+        ],
+        "label_groups": "UK , Scotland , dialect"
+      },
+      {
+        "definition": "To clean, as the inside of a cannon, by the explosion of a small quantity of powder.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To remove the scales of.",
+    "secondary_definitions": [
+      "( intransitive ) To become scaly ; to produce or develop scales.",
+      "( transitive ) To strip or clear of scale; to descale .",
+      "( transitive ) To take off in thin layers or scales, as tartar from the teeth; to pare off, as a surface.",
+      "( intransitive ) To separate and come off in thin layers or laminae.",
+      "( UK , Scotland , dialect ) To scatter ; to spread .",
+      "( transitive ) To clean, as the inside of a cannon, by the explosion of a small quantity of powder."
+    ]
+  }
+]

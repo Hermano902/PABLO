@@ -1,0 +1,93 @@
+[
+  {
+    "word": "document",
+    "lemma": "document",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɒkjʊmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "documents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any material substance on which the information is represented by writing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A file that contains text .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An object conveying information by whatever means, capable of being indexed alongside other similar objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information science"
+        ],
+        "label_groups": "information science"
+      },
+      {
+        "definition": "That which is taught or authoritatively set forth; precept; instruction; dogma.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An example for instruction or warning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+    "secondary_definitions": [
+      "Any material substance on which the information is represented by writing.",
+      "( computing ) A file that contains text .",
+      "( information science ) An object conveying information by whatever means, capable of being indexed alongside other similar objects.",
+      "( obsolete ) That which is taught or authoritatively set forth; precept; instruction; dogma.",
+      "( obsolete ) An example for instruction or warning."
+    ]
+  }
+]

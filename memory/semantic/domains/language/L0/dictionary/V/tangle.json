@@ -1,0 +1,105 @@
+[
+  {
+    "word": "tangle",
+    "lemma": "tangle",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæŋ.ɡl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tangles",
+          "PT": "tangled",
+          "PAP": "tangled",
+          "PRP": "tangling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mix together or intertwine .",
+        "examples": [],
+        "synonyms": [
+          "entangle",
+          "knot",
+          "mat",
+          "snarl"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become mixed together or intertwined .",
+        "examples": [
+          "Her hair was tangled from a day in the wind."
+        ],
+        "synonyms": [
+          "dishevel",
+          "tousle"
+        ],
+        "antonyms": [
+          "untangle",
+          "unsnarl"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To enter into an argument , conflict , dispute , or fight .",
+        "examples": [
+          "Don't tangle with someone three times your size.",
+          "He tangled with the law."
+        ],
+        "synonyms": [
+          "argue",
+          "conflict",
+          "dispute",
+          "fight"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative"
+        ],
+        "label_groups": "intransitive , figurative"
+      },
+      {
+        "definition": "To catch and hold .",
+        "examples": [],
+        "synonyms": [
+          "ensnare",
+          "entrap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To mix together or intertwine .",
+    "secondary_definitions": [
+      "( intransitive ) To become mixed together or intertwined .",
+      "( intransitive , figurative ) To enter into an argument , conflict , dispute , or fight .",
+      "( transitive ) To catch and hold ."
+    ]
+  }
+]

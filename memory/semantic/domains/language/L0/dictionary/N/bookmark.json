@@ -1,0 +1,64 @@
+[
+  {
+    "word": "bookmark",
+    "lemma": "bookmark",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʊk.mɑː(ɹ)k/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bookmarks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A strip of material used to mark a place in a book .",
+        "examples": [
+          "He placed a bookmark on page 234, which had an interesting footnote from the author."
+        ],
+        "synonyms": [
+          "bookmarker"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A record of the address of a file or Internet page, serving as a shortcut to it.",
+        "examples": [],
+        "synonyms": [
+          "favourites"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A pointer found in a nonclustered index to a row in a clustered index or a table heap",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "A strip of material used to mark a place in a book .",
+    "secondary_definitions": [
+      "( computing ) A record of the address of a file or Internet page, serving as a shortcut to it.",
+      "( databases ) A pointer found in a nonclustered index to a row in a clustered index or a table heap"
+    ]
+  }
+]

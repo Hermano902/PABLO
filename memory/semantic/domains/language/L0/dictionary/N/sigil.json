@@ -1,0 +1,54 @@
+[
+  {
+    "word": "sigil",
+    "lemma": "sigil",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪd͡ʒɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sigils"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A seal , signature or signet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An occult or magical sign , image or symbol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A nonalphanumeric symbol affixed to a term (such as a variable ) to indicate a property such as type or scope .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A seal , signature or signet .",
+    "secondary_definitions": [
+      "An occult or magical sign , image or symbol .",
+      "( programming ) A nonalphanumeric symbol affixed to a term (such as a variable ) to indicate a property such as type or scope ."
+    ]
+  }
+]

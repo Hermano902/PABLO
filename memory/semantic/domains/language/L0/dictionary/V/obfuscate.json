@@ -1,0 +1,65 @@
+[
+  {
+    "word": "obfuscate",
+    "lemma": "obfuscate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒbfəskeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "obfuscates",
+          "PT": "obfuscated",
+          "PAP": "obfuscated",
+          "PRP": "obfuscating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make dark ; to overshadow .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To deliberately make more confusing in order to conceal the truth.",
+        "examples": [
+          "obfuscate facts",
+          "Can weakness be really obfuscated ?",
+          "Before leaving the scene, the murderer set a fire in order to obfuscate any evidence of his identity."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To alter code while preserving its behavior but concealing its structure and intent.",
+        "examples": [
+          "We need to obfuscate these classes before we ship the final release."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "To make dark ; to overshadow .",
+    "secondary_definitions": [
+      "To deliberately make more confusing in order to conceal the truth.",
+      "( computing ) To alter code while preserving its behavior but concealing its structure and intent."
+    ]
+  }
+]

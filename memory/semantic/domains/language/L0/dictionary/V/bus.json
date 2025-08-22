@@ -1,0 +1,115 @@
+[
+  {
+    "word": "bus",
+    "lemma": "bus",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bʌs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "busses",
+          "PT": "bussed",
+          "PAP": "bussed",
+          "PRP": "bussing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive , automotive , transport ) To transport via a motor bus.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , automotive , transport , chiefly US ) To transport students to school, often to a more distant school for the purposes of achieving racial integration.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , automotive , transport ) To travel by bus.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , automotive , transport ) To transport via a motor bus.",
+    "secondary_definitions": [
+      "( transitive , automotive , transport , chiefly US ) To transport students to school, often to a more distant school for the purposes of achieving racial integration.",
+      "( intransitive , automotive , transport ) To travel by bus."
+    ]
+  },
+  {
+    "word": "bus",
+    "lemma": "bus",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bʌs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "busses",
+          "PT": "bussed",
+          "PAP": "bussed",
+          "PRP": "bussing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To clear meal remains from.",
+        "examples": [
+          "He bussed tables as the restaurant emptied out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "food service"
+        ],
+        "label_groups": "transitive , US , food service"
+      },
+      {
+        "definition": "To work at clearing the remains of meals from tables or counters; to work as a busboy .",
+        "examples": [
+          "He’s been bussing for minimum wage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "food service"
+        ],
+        "label_groups": "intransitive , US , food service"
+      }
+    ],
+    "main_definition": "( transitive , US , food service ) To clear meal remains from.",
+    "secondary_definitions": [
+      "( intransitive , US , food service ) To work at clearing the remains of meals from tables or counters; to work as a busboy ."
+    ]
+  }
+]

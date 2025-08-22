@@ -1,0 +1,1463 @@
+[
+  {
+    "word": "take",
+    "lemma": "take",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/teɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "takes",
+          "PT": "took",
+          "PAP": "taken",
+          "PRP": "taking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To get into one's hands, possession , or control , with or without force .",
+        "examples": [
+          "They took Charlton's gun from his cold, dead hands.",
+          "I'll take that plate off the table."
+        ],
+        "synonyms": [
+          "confiscate",
+          "seize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To seize or capture .",
+            "examples": [
+              "After a bloody battle, they were able to take the city."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To catch or get possession of (fish or game).",
+            "examples": [
+              "took ten catfish in one afternoon"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To catch the ball; especially as a wicket-keeper and after the batsman has missed or edged it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "cricket"
+            ],
+            "label_groups": "transitive , cricket"
+          },
+          {
+            "definition": "To appropriate or transfer into one's own possession, sometimes by physically carrying off.",
+            "examples": [
+              "Billy took her pencil."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To exact .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To capture or win (a piece or trick ) in a game .",
+            "examples": [
+              "took the next two tricks",
+              "took Smith's rook"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To receive or accept (something, especially something which was given ).",
+        "examples": [
+          "took third place",
+          "took bribes",
+          "The camera takes 35mm film."
+        ],
+        "synonyms": [
+          "garner",
+          "get",
+          "obtain",
+          "win"
+        ],
+        "antonyms": [
+          "give"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To receive or accept (something) as payment or compensation .",
+            "examples": [
+              "The store doesn't take checks.",
+              "She wouldn't take any money for her help.",
+              "Do you take plastic?",
+              "The vending machine only takes bills, it doesn't take coins."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To accept and follow (advice , etc.).",
+            "examples": [
+              "take my advice"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To receive into some relationship.",
+            "examples": [
+              "The school only takes new students in the fall.",
+              "The therapist wouldn't take him as a client."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To receive or acquire (property) by law (e.g. as an heir).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "law"
+            ],
+            "label_groups": "transitive , intransitive , law"
+          },
+          {
+            "definition": "To accept , be given (rightly or wrongly), or assume (especially as if by right ).",
+            "examples": [
+              "He took all the credit for the project, although he had done almost none of the work.",
+              "She took the blame, in the public's eyes, although the debacle was more her husband's fault than her own."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove .",
+        "examples": [
+          "take two eggs from the carton"
+        ],
+        "synonyms": [
+          "knock off",
+          "subduct"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To remove or end by death ; to kill .",
+            "examples": [
+              "The earthquake took many lives.",
+              "The plague took rich and poor alike.",
+              "Cancer took her life.",
+              "He took his life last night."
+            ],
+            "synonyms": [
+              "do in",
+              "terminate"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To subtract .",
+            "examples": [
+              "Take one from three and you are left with two."
+            ],
+            "synonyms": [
+              "take away"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have sex with.",
+        "examples": [],
+        "synonyms": [
+          "have",
+          "sleep with"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To defeat (someone or something) in a fight .",
+        "examples": [
+          "Don't try to take that guy. He's bigger than you.",
+          "The woman guarding us looks like a professional, but I can take her!"
+        ],
+        "synonyms": [
+          "beat"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To grasp or grip .",
+        "examples": [
+          "He took her hand in his."
+        ],
+        "synonyms": [
+          "grab",
+          "nim"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To select or choose ; to pick .",
+        "examples": [
+          "Take whichever bag you like.",
+          "She took the best men with her and left the rest to garrison the city.",
+          "I'll take the blue plates.",
+          "I'll take two sugars in my coffee, please."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To adopt ( select ) as one's own.",
+            "examples": [
+              "She took his side in every argument."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry or lead (something or someone).",
+        "examples": [
+          "She took her sword with her everywhere she went.",
+          "I'll take the plate with me."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "bring"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To transport or carry ; to convey to another place.",
+            "examples": [
+              "The next bus will take you to Metz.",
+              "I took him for a ride",
+              "I took him down to London."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "especially of a vehicle"
+            ],
+            "label_groups": "transitive , especially of a vehicle"
+          },
+          {
+            "definition": "To lead (to a place); to serve as a means of reaching.",
+            "examples": [
+              "These stairs take you down to the basement.",
+              "Stone Street took us right past the store."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "of a path",
+              "road",
+              "etc."
+            ],
+            "label_groups": "transitive , of a path, road , etc."
+          },
+          {
+            "definition": "To pass (or attempt to pass) through or around.",
+            "examples": [
+              "She took the steps two or three at a time.",
+              "He took the curve / corner too fast.",
+              "The pony took every hedge and fence in its path."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To escort or conduct (a person).",
+            "examples": [
+              "He took her to lunch at the new restaurant, took her to the movies, and then took her home."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To go .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "reflexive"
+            ],
+            "label_groups": "reflexive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To use as a means of transportation .",
+        "examples": [
+          "take the ferry",
+          "I took a plane.",
+          "He took the bus to London, and then took a train to Manchester.",
+          "He's 96 but he still takes the stairs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To obtain for use by payment or lease .",
+        "examples": [
+          "She took a condo at the beach for the summer.",
+          "He took a full-page ad in the Times .",
+          "Times"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To obtain or receive regularly by (paid) subscription .",
+            "examples": [
+              "They took two magazines.",
+              "I used to take The Sunday Times .",
+              "The Sunday Times"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To receive ( medicine or drugs ) into one's body , e.g. by inhalation or swallowing ; to ingest .",
+        "examples": [
+          "take two of these and call me in the morning",
+          "take the blue pill",
+          "I take aspirin every day to thin my blood."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To consume (food or drink).",
+        "examples": [
+          "The general took dinner at seven o'clock."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To undergo ; to put oneself into, to be subjected to.",
+        "examples": [
+          "She made the decision to take chemotherapy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To experience or feel .",
+        "examples": [
+          "She takes pride in her work.",
+          "I take offence at that."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To submit to; to endure (without ill humor , resentment , or physical failure ).",
+        "examples": [
+          "took a pay cut",
+          "If you're in an abusive relationship, don't just sit and take it; you can get help.",
+          "The hull took a lot of punishment before it broke.",
+          "I can take the noise, but I can't take the smell.",
+          "That truck bed will only take two tons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To suffer ; to endure (a hardship or damage ).",
+        "examples": [
+          "The ship took a direct hit and was destroyed.",
+          "Her career took a hit."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To participate in.",
+        "examples": [
+          "She took a vacation to France but spent the whole time feeling miserable that her husband couldn't be there with her.",
+          "Aren't you supposed to take your math final today?",
+          "Despite my misgivings, I decided to take a meeting with the Russian lawyer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause to change to a specified state or condition .",
+        "examples": [
+          "He had to take it apart to fix it.",
+          "She took down her opponent in two minutes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To regard in a specified way.",
+        "examples": [
+          "He took the news badly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To conclude or form (a decision or an opinion) in the mind.",
+        "examples": [
+          "took the decision to close its last remaining outlet",
+          "took a dim view of city officials"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To understand (especially in a specified way).",
+        "examples": [
+          "Don't take my comments as an insult.",
+          "if she took my meaning"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To believe , to accept the statements of.",
+        "examples": [
+          "take her word for it",
+          "take him at his word"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assume or suppose ; to reckon ; to regard or consider .",
+        "examples": [
+          "I took him to be a person of honor.",
+          "He was often taken to be a man of means.",
+          "Do you take me for a fool?",
+          "Do you take me to be stupid?",
+          "Looking at him as he came into the room, I took him for his father."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To draw , derive , or deduce (a meaning from something).",
+        "examples": [
+          "take it from her comments she won't be there.",
+          "I'm not sure what moral to take from that story."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To derive (as a title); to obtain from a source .",
+        "examples": [
+          "\"As I Lay Dying\" takes its title from Book XI of Homer's \"Odyssey\""
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To catch or contract (an illness , etc.).",
+        "examples": [
+          "took a chill",
+          "to take cold"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come upon or catch (in a particular state or situation).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To captivate or charm ; to gain or secure the interest or affection of.",
+        "examples": [
+          "took her fancy",
+          "took her attention"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To absorb or be impregnated by (dye, ink , etc.); to be susceptible to being treated by (polish , etc.).",
+        "examples": [
+          "cloth that takes dye well",
+          "The flu shot didn't take (on me).",
+          "the leather that takes a certain kind of polish"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a material"
+        ],
+        "label_groups": "transitive , of a material"
+      },
+      {
+        "definition": "To let in (water).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "of a ship"
+        ],
+        "label_groups": "transitive , of a ship"
+      },
+      {
+        "definition": "To require ( a person, resource or thing in order to achieve an outcome ) .",
+        "examples": [
+          "Looks like it's gonna take a taller person to get that down.",
+          "Finishing this on schedule will take a lot of overtime."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To proceed to fill.",
+        "examples": [
+          "He took a seat in the front row."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fill , occupy , require, or use up (space).",
+        "examples": [
+          "His collection takes a lot of space."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fill or require: to last or expend (an amount of time).",
+        "examples": [
+          "Unloading the moving truck took us half a day, but this mess of a house will take us all weekend to tidy up. It takes ages to finish house moving!",
+          "Hunting that whale takes most of his free time.",
+          "The trip will take about ten minutes.",
+          "It takes a while to get used to the smell."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To avail oneself of; to exploit .",
+        "examples": [
+          "He took that opportunity to leave France."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To practice ; perform ; execute ; carry out ; do .",
+        "examples": [
+          "take a walk",
+          "take action/steps/measures to fight drug abuse",
+          "take a trip",
+          "take aim",
+          "take the tempo slowly",
+          "The kick is taken from where the foul occurred.",
+          "Pirès ran in to take the kick.",
+          "The throw-in is taken from the point where the ball crossed the touch-line."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assume or perform (a form or role).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To assume (a form).",
+            "examples": [
+              "took the form of a duck",
+              "took shape",
+              "a god taking the likeness of a bird"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To perform (a role).",
+            "examples": [
+              "take the part of the villain/hero"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To assume and undertake the duties of (a job, an office , etc.).",
+            "examples": [
+              "take office",
+              "take the throne"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bind oneself by.",
+        "examples": [
+          "he took the oath of office last night"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To go into, through, or along.",
+        "examples": [
+          "go down two blocks and take the next left",
+          "take the path of least resistance"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To go or move into.",
+            "examples": [
+              "the witness took the stand",
+              "the next team took the field"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have and use one's recourse to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ascertain or determine by measurement , examination or inquiry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To write down; to get in, or as if in, writing.",
+        "examples": [
+          "He took a mental inventory of his supplies.",
+          "She took careful notes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (a photograph, film, or other reproduction of something).",
+        "examples": [
+          "She took a video of their encounter.",
+          "Could you take a picture of us?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make a picture, photograph , etc. of (a person, scene , etc.).",
+        "examples": [
+          "The photographer will take you sitting down.",
+          "to take a group/scene"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      },
+      {
+        "definition": "To obtain money from, especially by swindling .",
+        "examples": [
+          "took me for ten grand"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply oneself to the study of.",
+        "examples": [
+          "As a child, she took ballet.",
+          "Next semester, I plan to take math, physics, literature, and art history."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "now chiefly by enrolling in a class or course"
+        ],
+        "label_groups": "transitive , now chiefly by enrolling in a class or course"
+      },
+      {
+        "definition": "To deal with.",
+        "examples": [
+          "take matters as they arise"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To consider in a particular way, or to consider as an example.",
+        "examples": [
+          "I've had a lot of problems recently: take last Monday, for example. My car broke down on the way to work. Then [ … ] etc."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To decline to swing at (a pitched ball); to refrain from hitting at, and allow to pass.",
+        "examples": [
+          "He'll probably take this one."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "baseball"
+        ],
+        "label_groups": "transitive , baseball"
+      },
+      {
+        "definition": "To accept as an input to a relation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To have to be used with (a certain grammatical form , etc.).",
+            "examples": [
+              "This verb takes the dative; that verb takes the genitive."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "grammar"
+            ],
+            "label_groups": "transitive , grammar"
+          },
+          {
+            "definition": "To accept (zero or more arguments ).",
+            "examples": [
+              "The function takes two arguments, an array of size n and an integer k .",
+              "n",
+              "k"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "mathematics",
+              "computing"
+            ],
+            "label_groups": "transitive , mathematics , computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To buy .",
+        "examples": [
+          "take a ticket"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Greece",
+          "Cyprus",
+          "informal"
+        ],
+        "label_groups": "transitive , Greece , Cyprus , informal"
+      },
+      {
+        "definition": "To get or accept (something) into one's possession .",
+        "examples": [
+          "My husband and I have a dysfunctional marriage. He just takes and takes ; he never gives."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To engage, take hold or have effect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To adhere or be absorbed properly.",
+            "examples": [
+              "the dye didn't take",
+              "Boiling pasta with a bit of the sauce in the water will help the sauce \" take .\""
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of ink",
+              "dye",
+              "etc."
+            ],
+            "label_groups": "of ink, dye , etc."
+          },
+          {
+            "definition": "To begin to grow after being grafted or planted; to ( literally or figuratively ) take root , take hold.",
+            "examples": [
+              "not all grafts take",
+              "I started some tomato seeds last spring, but they didn't take ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a plant",
+              "etc."
+            ],
+            "label_groups": "of a plant , etc."
+          },
+          {
+            "definition": "To catch; to engage.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a mechanical device"
+            ],
+            "label_groups": "of a mechanical device"
+          },
+          {
+            "definition": "To win acceptance, favor or favorable reception; to charm people.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "possibly dated"
+            ],
+            "label_groups": "possibly dated"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To become; to be affected in a specified way.",
+        "examples": [
+          "They took ill within 3 hours.",
+          "She took sick with the flu."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative"
+        ],
+        "label_groups": "intransitive , copulative"
+      },
+      {
+        "definition": "To be able to be accurately or beautifully photographed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "possibly dated"
+        ],
+        "label_groups": "intransitive , possibly dated"
+      },
+      {
+        "definition": "An intensifier.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dialectal",
+          "proscribed"
+        ],
+        "label_groups": "intransitive , dialectal , proscribed"
+      },
+      {
+        "definition": "To deliver , bring , give (something) to (someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To give or deliver (a blow, to someone); to strike or hit.",
+        "examples": [
+          "He took me a blow on the head."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete outside dialects",
+          "slang"
+        ],
+        "label_groups": "transitive , obsolete outside dialects and slang"
+      },
+      {
+        "definition": "To visit ; to include in a course of travel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "To portray in a painting .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      },
+      {
+        "definition": "Used in phrasal verbs: take in , take off , take on , take out , take to , take something to , take up .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To get into one's hands, possession , or control , with or without force .",
+    "secondary_definitions": [
+      "( transitive ) To receive or accept (something, especially something which was given ).",
+      "( transitive ) To remove .",
+      "( transitive ) To have sex with.",
+      "( transitive ) To defeat (someone or something) in a fight .",
+      "( transitive ) To grasp or grip .",
+      "( transitive ) To select or choose ; to pick .",
+      "( transitive ) To carry or lead (something or someone).",
+      "( transitive ) To use as a means of transportation .",
+      "( transitive ) To obtain for use by payment or lease .",
+      "( transitive ) To receive ( medicine or drugs ) into one's body , e.g. by inhalation or swallowing ; to ingest .",
+      "( transitive ) To consume (food or drink).",
+      "( transitive ) To undergo ; to put oneself into, to be subjected to.",
+      "( transitive ) To experience or feel .",
+      "( transitive ) To submit to; to endure (without ill humor , resentment , or physical failure ).",
+      "( transitive ) To suffer ; to endure (a hardship or damage ).",
+      "( transitive ) To participate in.",
+      "( transitive ) To cause to change to a specified state or condition .",
+      "( transitive ) To regard in a specified way.",
+      "( transitive ) To conclude or form (a decision or an opinion) in the mind.",
+      "( transitive ) To understand (especially in a specified way).",
+      "( transitive ) To believe , to accept the statements of.",
+      "( transitive ) To assume or suppose ; to reckon ; to regard or consider .",
+      "( transitive ) To draw , derive , or deduce (a meaning from something).",
+      "( transitive ) To derive (as a title); to obtain from a source .",
+      "( transitive ) To catch or contract (an illness , etc.).",
+      "( transitive ) To come upon or catch (in a particular state or situation).",
+      "( transitive ) To captivate or charm ; to gain or secure the interest or affection of.",
+      "( transitive , of a material ) To absorb or be impregnated by (dye, ink , etc.); to be susceptible to being treated by (polish , etc.).",
+      "( transitive , of a ship ) To let in (water).",
+      "( transitive ) To require ( a person, resource or thing in order to achieve an outcome ) .",
+      "( transitive ) To proceed to fill.",
+      "( transitive ) To fill , occupy , require, or use up (space).",
+      "( transitive ) To fill or require: to last or expend (an amount of time).",
+      "( transitive ) To avail oneself of; to exploit .",
+      "( transitive ) To practice ; perform ; execute ; carry out ; do .",
+      "( transitive ) To assume or perform (a form or role).",
+      "( transitive ) To bind oneself by.",
+      "( transitive ) To go into, through, or along.",
+      "( transitive ) To have and use one's recourse to.",
+      "( transitive ) To ascertain or determine by measurement , examination or inquiry .",
+      "( transitive ) To write down; to get in, or as if in, writing.",
+      "( transitive ) To make (a photograph, film, or other reproduction of something).",
+      "( transitive , dated ) To make a picture, photograph , etc. of (a person, scene , etc.).",
+      "( transitive ) To obtain money from, especially by swindling .",
+      "( transitive , now chiefly by enrolling in a class or course ) To apply oneself to the study of.",
+      "( transitive ) To deal with.",
+      "( transitive ) To consider in a particular way, or to consider as an example.",
+      "( transitive , baseball ) To decline to swing at (a pitched ball); to refrain from hitting at, and allow to pass.",
+      "( transitive ) To accept as an input to a relation.",
+      "( transitive , Greece , Cyprus , informal ) To buy .",
+      "( intransitive ) To get or accept (something) into one's possession .",
+      "( intransitive ) To engage, take hold or have effect.",
+      "( intransitive , copulative ) To become; to be affected in a specified way.",
+      "( intransitive , possibly dated ) To be able to be accurately or beautifully photographed.",
+      "( intransitive , dialectal , proscribed ) An intensifier.",
+      "( transitive , obsolete ) To deliver , bring , give (something) to (someone).",
+      "( transitive , obsolete outside dialects and slang ) To give or deliver (a blow, to someone); to strike or hit.",
+      "( archaic ) To visit ; to include in a course of travel.",
+      "( obsolete , rare ) To portray in a painting .",
+      "Used in phrasal verbs: take in , take off , take on , take out , take to , take something to , take up ."
+    ]
+  }
+]

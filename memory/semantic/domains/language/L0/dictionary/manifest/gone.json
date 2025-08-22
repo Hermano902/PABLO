@@ -1,0 +1,37 @@
+{
+  "word": "gone",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "PREP"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 13,
+      "examples": 10,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PREP": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\gone.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\gone.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\gone.json"
+  },
+  "timestamp": "2025-08-19T04:37:25.152901Z"
+}

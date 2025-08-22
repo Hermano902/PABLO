@@ -1,0 +1,77 @@
+[
+  {
+    "word": "impersonate",
+    "lemma": "impersonate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpɜːsəneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "impersonates",
+          "PT": "impersonated",
+          "PAP": "impersonated",
+          "PRP": "impersonating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pretend to be (a different person); to assume the identity of, especially when there is an intent to deceive .",
+        "examples": [
+          "The conman managed to impersonate several executives.",
+          "Evil can and will always impersonate goodness."
+        ],
+        "synonyms": [
+          "personate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To operate with the permissions of a different user account.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To manifest in corporeal form; to personify .",
+        "examples": [],
+        "synonyms": [
+          "embody",
+          "impersonize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To pretend to be (a different person); to assume the identity of, especially when there is an intent to deceive .",
+    "secondary_definitions": [
+      "( transitive , computing ) To operate with the permissions of a different user account.",
+      "( obsolete , transitive ) To manifest in corporeal form; to personify ."
+    ]
+  }
+]

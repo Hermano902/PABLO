@@ -1,0 +1,112 @@
+[
+  {
+    "word": "cloudy",
+    "lemma": "cloudy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈklaʊdi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "cloudier",
+          "SUP": "cloudiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Covered with or characterised by clouds .",
+        "examples": [],
+        "synonyms": [
+          "clouded",
+          "overcast"
+        ],
+        "antonyms": [
+          "cloudless",
+          "noncloudy",
+          "unclouded",
+          "uncloudy"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not transparent or clear.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Containing pith",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of fruit juice"
+            ],
+            "label_groups": "of fruit juice"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Uncertain; unclear .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Using or relating to cloud computing .",
+        "examples": [
+          "a cloudy infrastructure"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      },
+      {
+        "definition": "shady ; sketchy ; suspicious",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "archaic"
+        ],
+        "label_groups": "slang , archaic"
+      },
+      {
+        "definition": "Having cloudlike markings.",
+        "examples": [
+          "cloudy marble"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Covered with or characterised by clouds .",
+    "secondary_definitions": [
+      "Not transparent or clear.",
+      "Uncertain; unclear .",
+      "( computing , informal ) Using or relating to cloud computing .",
+      "( slang , archaic ) shady ; sketchy ; suspicious",
+      "Having cloudlike markings."
+    ]
+  }
+]

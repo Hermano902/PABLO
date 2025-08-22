@@ -1,0 +1,59 @@
+[
+  {
+    "word": "sandbox",
+    "lemma": "sandbox",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsænd.bɒks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sandboxes",
+          "PT": "sandboxed",
+          "PAP": "sandboxed",
+          "PRP": "sandboxing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restrict (a program, etc.) by placing it in a sandbox .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To brainstorm ; to prototype .",
+        "examples": [
+          "Their team has been sandboxing some ideas recently."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "by extension , transitive , intransitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To restrict (a program, etc.) by placing it in a sandbox .",
+    "secondary_definitions": [
+      "( by extension , transitive , intransitive ) To brainstorm ; to prototype ."
+    ]
+  }
+]

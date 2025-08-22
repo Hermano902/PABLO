@@ -1,0 +1,85 @@
+[
+  {
+    "word": "uniform",
+    "lemma": "uniform",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈjunɪˌfɔɹm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more uniform",
+          "SUP": "most uniform"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unvarying ; all the same .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Consistent ; conforming to one standard .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "with speed of convergence not depending on choice of function argument; as in uniform continuity , uniform convergence",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Composed of a single macromolecular species .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "of a polymer"
+        ],
+        "label_groups": "chemistry , of a polymer"
+      },
+      {
+        "definition": "That is isogonal and whose faces are regular polygons ; ( of an n-dimensional (n>3) polytope ) that is isogonal and whose bounding (n-1)-dimensional facets are uniform polytopes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a polyhedron"
+        ],
+        "label_groups": [
+          "geometry",
+          "of a polyhedron"
+        ]
+      }
+    ],
+    "main_definition": "Unvarying ; all the same .",
+    "secondary_definitions": [
+      "Consistent ; conforming to one standard .",
+      "( mathematics ) with speed of convergence not depending on choice of function argument; as in uniform continuity , uniform convergence",
+      "( chemistry , of a polymer ) Composed of a single macromolecular species .",
+      "( geometry ) ( of a polyhedron ) That is isogonal and whose faces are regular polygons ; ( of an n-dimensional (n>3) polytope ) that is isogonal and whose bounding (n-1)-dimensional facets are uniform polytopes."
+    ]
+  }
+]

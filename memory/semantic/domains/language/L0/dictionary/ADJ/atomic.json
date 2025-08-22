@@ -1,0 +1,151 @@
+[
+  {
+    "word": "atomic",
+    "lemma": "atomic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈtɒm.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or relating to atoms ; composed of atoms; monatomic .",
+        "examples": [
+          "A stream of atomic hydrogen is emitted."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "molecular"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "chemistry"
+        ],
+        "label_groups": "physics , chemistry"
+      },
+      {
+        "definition": "Employing or relating to nuclear energy or processes .",
+        "examples": [
+          "atomic energy; atomic bombs",
+          "Some nutjob once built a small atomic pile in his back yard."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Very strong and overpowering.",
+            "examples": [],
+            "synonyms": [
+              "nuclear"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "colloquial",
+              "by extension"
+            ],
+            "label_groups": "colloquial , by extension"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Infinitesimally small .",
+        "examples": [
+          "The hairs on a dust mite are almost atomic ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unable to be split or made any smaller .",
+        "examples": [
+          "A bit is an atomic item of data."
+        ],
+        "synonyms": [
+          "indivisible",
+          "unatomizable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Containing a single change , as opposed to involving numerous unrelated changes.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming",
+              "of a commit in a VCS"
+            ],
+            "label_groups": "programming , of a commit in a VCS"
+          },
+          {
+            "definition": "Lacking logical operators ; unable to be made simpler in logical form .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "logic",
+              "of a proposition"
+            ],
+            "label_groups": "logic , of a proposition"
+          },
+          {
+            "definition": "Such that for every element b > 0 {\\displaystyle b>0} there exists an atom a {\\displaystyle a} such that b ≥ a > 0 {\\displaystyle b\\geq a>0} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "order theory",
+              "of a partially ordered set with a least element 0"
+            ],
+            "label_groups": "order theory , of a partially ordered set with a least element 0"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Guaranteed to complete either fully or not at all while waiting in a pause, and running synchronously when called by multiple asynchronous threads .",
+        "examples": [
+          "In order to avoid race conditions, this operation has to be atomic .",
+          "Whenever possible, use atomic types instead of mutexes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of an operation"
+        ],
+        "label_groups": "computing , of an operation"
+      }
+    ],
+    "main_definition": "( physics , chemistry ) Of or relating to atoms ; composed of atoms; monatomic .",
+    "secondary_definitions": [
+      "Employing or relating to nuclear energy or processes .",
+      "Infinitesimally small .",
+      "Unable to be split or made any smaller .",
+      "( computing , of an operation ) Guaranteed to complete either fully or not at all while waiting in a pause, and running synchronously when called by multiple asynchronous threads ."
+    ]
+  }
+]

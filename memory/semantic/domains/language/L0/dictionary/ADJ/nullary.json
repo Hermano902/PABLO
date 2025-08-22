@@ -1,0 +1,54 @@
+[
+  {
+    "word": "nullary",
+    "lemma": "nullary",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Taking no entries; having trivial domain ; having the arity of zero.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a function"
+        ],
+        "label_groups": "mathematics , of a function"
+      },
+      {
+        "definition": "Taking no arguments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a function",
+          "procedure",
+          "command",
+          "etc."
+        ],
+        "label_groups": "programming , of a function , procedure, command, etc."
+      }
+    ],
+    "main_definition": "( mathematics , of a function ) Taking no entries; having trivial domain ; having the arity of zero.",
+    "secondary_definitions": [
+      "( programming , of a function , procedure, command, etc. ) Taking no arguments ."
+    ]
+  }
+]

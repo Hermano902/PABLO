@@ -1,0 +1,55 @@
+[
+  {
+    "word": "parse",
+    "lemma": "parse",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɑːz/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of parsing ; a parsing .",
+        "examples": [
+          "The parse will fail if the program contains an unrecognised keyword."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "linguistics"
+        ],
+        "label_groups": "computing , linguistics"
+      },
+      {
+        "definition": "The result of such an act; a parsing .",
+        "examples": [
+          "This parse is incorrect and indicates a fault in the parser."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "linguistics"
+        ],
+        "label_groups": "computing , linguistics"
+      }
+    ],
+    "main_definition": "( computing , linguistics ) An act of parsing ; a parsing .",
+    "secondary_definitions": [
+      "( computing , linguistics ) The result of such an act; a parsing ."
+    ]
+  }
+]

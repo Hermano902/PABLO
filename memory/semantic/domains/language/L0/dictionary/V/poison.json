@@ -1,0 +1,123 @@
+[
+  {
+    "word": "poison",
+    "lemma": "poison",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɔɪ.zən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "poisons",
+          "PT": "poisoned",
+          "PAP": "poisoned",
+          "PRP": "poisoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use poison to kill or paralyse (somebody).",
+        "examples": [
+          "The assassin poisoned the king."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pollute ; to cause to become poisonous .",
+        "examples": [
+          "That factory is poisoning the river."
+        ],
+        "synonyms": [
+          "contaminate",
+          "pollute",
+          "taint"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause to become much worse .",
+        "examples": [
+          "Suspicion will poison their relationship.",
+          "He poisoned the mood in the room with his non-stop criticism."
+        ],
+        "synonyms": [
+          "corrupt",
+          "taint"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause (someone) to hate or to have unfair negative opinions .",
+        "examples": [
+          "She's poisoned him against all his old friends."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inhibit the catalytic activity of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "To place false or malicious data into (a cache , etc.) as part of an exploit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To use poison to kill or paralyse (somebody).",
+    "secondary_definitions": [
+      "( transitive ) To pollute ; to cause to become poisonous .",
+      "( transitive ) To cause to become much worse .",
+      "( transitive ) To cause (someone) to hate or to have unfair negative opinions .",
+      "( chemistry ) To inhibit the catalytic activity of.",
+      "( transitive , computing ) To place false or malicious data into (a cache , etc.) as part of an exploit ."
+    ]
+  }
+]

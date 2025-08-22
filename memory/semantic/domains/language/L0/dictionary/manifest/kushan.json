@@ -1,0 +1,30 @@
+{
+  "word": "kushan",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\kushan.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\kushan.json"
+  },
+  "timestamp": "2025-08-19T07:12:47.323046Z"
+}

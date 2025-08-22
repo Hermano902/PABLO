@@ -1,0 +1,53 @@
+[
+  {
+    "word": "rhinitis",
+    "lemma": "rhinitis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹaɪˈnaɪtɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rhinitides"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Inflammation of the mucous membranes of the nose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "finding"
+        ],
+        "label_groups": "medicine , finding"
+      },
+      {
+        "definition": "cold ; common cold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "loosely",
+          "metonymic",
+          "disease entity"
+        ],
+        "label_groups": "medicine , loosely , metonymic , disease entity"
+      }
+    ],
+    "main_definition": "( medicine , finding ) Inflammation of the mucous membranes of the nose .",
+    "secondary_definitions": [
+      "( medicine , loosely , metonymic , disease entity ) cold ; common cold ."
+    ]
+  }
+]

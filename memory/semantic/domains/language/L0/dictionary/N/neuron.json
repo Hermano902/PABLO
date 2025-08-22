@@ -1,0 +1,65 @@
+[
+  {
+    "word": "neuron",
+    "lemma": "neuron",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈn(j)ʊɹɑn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "neurons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A cell of the nervous system , which conducts nerve impulses ; consisting of an axon and several dendrites . Neurons are connected by synapses .",
+        "examples": [],
+        "synonyms": [
+          "neurocyte",
+          "nerve cell"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cytology"
+        ],
+        "label_groups": "cytology"
+      },
+      {
+        "definition": "A nervure of an insect 's wing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      },
+      {
+        "definition": "an artificial neuron ( mathematical function serving as an essential unit of an artificial neural network )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence"
+        ],
+        "label_groups": "artificial intelligence"
+      }
+    ],
+    "main_definition": "( cytology ) A cell of the nervous system , which conducts nerve impulses ; consisting of an axon and several dendrites . Neurons are connected by synapses .",
+    "secondary_definitions": [
+      "( zoology ) A nervure of an insect 's wing .",
+      "( artificial intelligence ) an artificial neuron ( mathematical function serving as an essential unit of an artificial neural network )"
+    ]
+  }
+]

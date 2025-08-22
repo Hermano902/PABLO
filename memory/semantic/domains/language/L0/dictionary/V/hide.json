@@ -1,0 +1,108 @@
+[
+  {
+    "word": "hide",
+    "lemma": "hide",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/haɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hides",
+          "PT": "hid",
+          "PAP": "hidden",
+          "PRP": "hiding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To put (something) in a place where it will be out of sight or harder to discover .",
+        "examples": [
+          "He hides his magazines under the bed.",
+          "The politicians were accused of keeping information hidden from the public."
+        ],
+        "synonyms": [
+          "conceal",
+          "occult",
+          "hide away",
+          "secrete",
+          "veil",
+          "disguise",
+          "bury"
+        ],
+        "antonyms": [
+          "disclose",
+          "expose",
+          "reveal",
+          "show",
+          "uncover",
+          "visiblize",
+          "visualize"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To put oneself in a place where one will be out of sight or harder to find .",
+        "examples": [],
+        "synonyms": [
+          "go undercover",
+          "hide away",
+          "hide out",
+          "lie low",
+          "hole up"
+        ],
+        "antonyms": [
+          "reveal",
+          "show"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To put (something) in a place where it will be out of sight or harder to discover .",
+    "secondary_definitions": [
+      "( intransitive ) To put oneself in a place where one will be out of sight or harder to find ."
+    ]
+  },
+  {
+    "word": "hide",
+    "lemma": "hide",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/haɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hides",
+          "PT": "hided",
+          "PAP": "hided",
+          "PRP": "hiding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To beat with a whip made from hide .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To beat with a whip made from hide .",
+    "secondary_definitions": []
+  }
+]

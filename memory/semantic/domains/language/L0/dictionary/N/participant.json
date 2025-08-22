@@ -1,0 +1,51 @@
+[
+  {
+    "word": "participant",
+    "lemma": "participant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɑːˈtɪsɪpənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "participants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who participates .",
+        "examples": [
+          "All participants must adhere to the rules of the competition."
+        ],
+        "synonyms": [
+          "participator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A human subject in a scientific experiment , such as a clinical trial : a research participant.",
+            "examples": [
+              "In this study, participants were randomly assigned to either a control arm or a treatment arm."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sciences",
+              "medicine"
+            ],
+            "label_groups": "sciences , medicine"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "One who participates .",
+    "secondary_definitions": []
+  }
+]

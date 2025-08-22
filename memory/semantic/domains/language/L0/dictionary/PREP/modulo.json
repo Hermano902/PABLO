@@ -1,0 +1,78 @@
+[
+  {
+    "word": "modulo",
+    "lemma": "modulo",
+    "etymology": "Etymology",
+    "pos": "PREP",
+    "raw_label": "Preposition",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒd͡ʒələʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Given a specified modulus of.",
+        "examples": [
+          "21 and 84 are congruent to each other modulo 9, since both numbers leave the same remainder, 3, when divided by 9.",
+          "Thus 21 modulo 9 is 3, because when 21 is divided by 9, the remainder is 3.",
+          "21 is congruent to 3 modulo 9."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Except for differences accounted for by.",
+        "examples": [
+          "\"A is the same as B modulo C\" means A is the same as B except for differences accounted for by C."
+        ],
+        "synonyms": [
+          "up to"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "technical"
+        ],
+        "label_groups": "technical"
+      },
+      {
+        "definition": "With due allowance for (a specified exception or particular detail).",
+        "examples": [
+          "In the Lisp programming language, the \"tail recursion modulo cons\" technique allows functions that would be tail recursive but for a cons call to be transformed into a tail recursive form.",
+          "All mammals, modulo the monotremes, give birth to live young."
+        ],
+        "synonyms": [
+          "barring",
+          "except for",
+          "save for"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "The addition of quotations indicative of this usage is being sought:",
+          "extended use"
+        ],
+        "label_groups": [
+          "The addition of quotations indicative of this usage is being sought:",
+          "extended use"
+        ]
+      }
+    ],
+    "main_definition": "( mathematics ) Given a specified modulus of.",
+    "secondary_definitions": [
+      "( technical ) Except for differences accounted for by.",
+      "(The addition of quotations indicative of this usage is being sought:) ( extended use ) With due allowance for (a specified exception or particular detail)."
+    ]
+  }
+]

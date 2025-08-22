@@ -1,0 +1,66 @@
+[
+  {
+    "word": "animate",
+    "lemma": "animate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæn.ɪ.mət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "animates",
+          "PT": "animated",
+          "PAP": "animated",
+          "PRP": "animating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To impart motion or the appearance of motion to.",
+        "examples": [
+          "If we animate the model, we can see the complexity of the action."
+        ],
+        "synonyms": [
+          "get going",
+          "impel"
+        ],
+        "antonyms": [
+          "halt",
+          "stop",
+          "stay"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give spirit or vigour to; to stimulate or enliven ; to inspirit .",
+        "examples": [],
+        "synonyms": [
+          "enliven",
+          "vitalise"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To impart motion or the appearance of motion to.",
+    "secondary_definitions": [
+      "( transitive ) To give spirit or vigour to; to stimulate or enliven ; to inspirit ."
+    ]
+  }
+]

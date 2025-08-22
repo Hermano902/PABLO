@@ -1,0 +1,69 @@
+[
+  {
+    "word": "mortise",
+    "lemma": "mortise",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɔː(ɹ).tɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mortises",
+          "PT": "mortised",
+          "PAP": "mortised",
+          "PRP": "mortising",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut a mortise in.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "woodworking"
+        ],
+        "label_groups": "transitive , woodworking"
+      },
+      {
+        "definition": "To join by a mortise and tenon.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "woodworking"
+        ],
+        "label_groups": "transitive , woodworking"
+      },
+      {
+        "definition": "To adjust the horizontal space between selected pairs of letters; to kern .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      }
+    ],
+    "main_definition": "( transitive , woodworking ) To cut a mortise in.",
+    "secondary_definitions": [
+      "( transitive , woodworking ) To join by a mortise and tenon.",
+      "( typography ) To adjust the horizontal space between selected pairs of letters; to kern ."
+    ]
+  }
+]

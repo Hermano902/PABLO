@@ -1,0 +1,105 @@
+[
+  {
+    "word": "acquire",
+    "lemma": "acquire",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈkwaɪɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "acquires",
+          "PT": "acquired",
+          "PAP": "acquired",
+          "PRP": "acquiring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To get .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To gain , usually by one's own exertions ; to get as one's own.",
+        "examples": [
+          "to acquire a skill",
+          "to acquire decent habits and manners",
+          "He acquired a title.",
+          "All the riches he acquired were from hard work.",
+          "One should acquire as much knowledge as possible from reading."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become affected by an illness.",
+        "examples": [],
+        "synonyms": [
+          "contract",
+          "catch",
+          "get"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "To sample signals and convert them into digital values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To begin tracking a mobile target with a particular detector or sight, generally with the implication that an attack on the target thereby becomes possible.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "US",
+          "military"
+        ],
+        "label_groups": "Canada , US , military"
+      }
+    ],
+    "main_definition": "( transitive ) To get .",
+    "secondary_definitions": [
+      "( transitive ) To gain , usually by one's own exertions ; to get as one's own.",
+      "( medicine ) To become affected by an illness.",
+      "( computing ) To sample signals and convert them into digital values.",
+      "( Canada , US , military ) To begin tracking a mobile target with a particular detector or sight, generally with the implication that an attack on the target thereby becomes possible."
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "word": "namespace",
+    "lemma": "namespace",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪmspeɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "namespaces",
+          "PT": "namespaced",
+          "PAP": "namespaced",
+          "PRP": "namespacing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To categorize by placing into a namespace .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) To categorize by placing into a namespace .",
+    "secondary_definitions": []
+  }
+]

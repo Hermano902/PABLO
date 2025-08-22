@@ -1,0 +1,80 @@
+[
+  {
+    "word": "consent",
+    "lemma": "consent",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈsɛnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "consents",
+          "PT": "consented",
+          "PAP": "consented",
+          "PRP": "consenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To express willingness , to give permission .",
+        "examples": [
+          "After reflecting a little bit, I've decided to consent to her practising the piano in the house."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to sign a consent form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      },
+      {
+        "definition": "To grant ; to allow ; to assent to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To agree in opinion or sentiment ; to be of the same mind ; to accord ; to concur .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive ) To express willingness , to give permission .",
+    "secondary_definitions": [
+      "( transitive , medicine ) To cause to sign a consent form.",
+      "( transitive , obsolete ) To grant ; to allow ; to assent to.",
+      "To agree in opinion or sentiment ; to be of the same mind ; to accord ; to concur ."
+    ]
+  }
+]

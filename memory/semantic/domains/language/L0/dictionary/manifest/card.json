@@ -1,0 +1,32 @@
+{
+  "word": "card",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 31,
+      "examples": 11,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\card.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\card.json"
+  },
+  "timestamp": "2025-08-18T23:13:16.940363Z"
+}

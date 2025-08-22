@@ -1,0 +1,60 @@
+[
+  {
+    "word": "ghostwrite",
+    "lemma": "ghostwrite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ghostwrites",
+          "PT": "ghostwrote",
+          "PAP": "ghostwritten",
+          "PRP": "ghostwriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To write under the name of another (especially literary works).",
+        "examples": [
+          "Mariana would rather not ghostwrite for a living because she finds it a thankless task."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "authorship",
+          "intransitive"
+        ],
+        "label_groups": "authorship , intransitive"
+      },
+      {
+        "definition": "To author a literary work or speech in the place of another.",
+        "examples": [
+          "The president has someone to ghostwrite his addresses."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "authorship",
+          "transitive"
+        ],
+        "label_groups": "authorship , transitive"
+      }
+    ],
+    "main_definition": "( authorship , intransitive ) To write under the name of another (especially literary works).",
+    "secondary_definitions": [
+      "( authorship , transitive ) To author a literary work or speech in the place of another."
+    ]
+  }
+]

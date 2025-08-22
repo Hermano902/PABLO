@@ -1,0 +1,176 @@
+[
+  {
+    "word": "ping",
+    "lemma": "ping",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɪŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pings",
+          "PT": "pinged",
+          "PAP": "pinged",
+          "PRP": "pinging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a high-pitched, short and somewhat sharp sound.",
+        "examples": [
+          "My car was pinging until my last oil change."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To emit a signal and then listen for its echo in order to detect objects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "submarine navigation"
+        ],
+        "label_groups": "submarine navigation"
+      },
+      {
+        "definition": "To send a packet in order to determine whether a host is present, particularly by use of the ping utility.",
+        "examples": [
+          "I'm pinging their server.",
+          "The server pings its affiliates periodically."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "To send an email or other message to someone in hopes of eliciting a response.",
+        "examples": [
+          "I'll ping the insurance company again to see if they've received our claim."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "To flick .",
+        "examples": [
+          "I pinged the crumb off the table with my finger."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "To bounce .",
+        "examples": [
+          "The ball pinged off the wall and came hurtling back."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "sports",
+          "intransitive"
+        ],
+        "label_groups": "colloquial , sports , intransitive"
+      },
+      {
+        "definition": "To cause something to bounce.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "sports",
+          "transitive"
+        ],
+        "label_groups": "colloquial , sports , transitive"
+      },
+      {
+        "definition": "To call out audibly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "sports"
+        ],
+        "label_groups": "colloquial , sports"
+      },
+      {
+        "definition": "To penalize .",
+        "examples": [
+          "Gary Ablett was pinged for holding the ball and gave away a free kick."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "To trigger a person's gaydar ; to look or act obviously homosexual .",
+        "examples": [
+          "Bob has two kids, but he really pings ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "LGBTQ",
+          "slang"
+        ],
+        "label_groups": "ambitransitive , LGBTQ , slang"
+      }
+    ],
+    "main_definition": "To make a high-pitched, short and somewhat sharp sound.",
+    "secondary_definitions": [
+      "( submarine navigation ) To emit a signal and then listen for its echo in order to detect objects.",
+      "( networking ) To send a packet in order to determine whether a host is present, particularly by use of the ping utility.",
+      "( by extension ) To send an email or other message to someone in hopes of eliciting a response.",
+      "( colloquial ) To flick .",
+      "( colloquial , sports , intransitive ) To bounce .",
+      "( colloquial , sports , transitive ) To cause something to bounce.",
+      "( colloquial , sports ) To call out audibly.",
+      "( colloquial ) To penalize .",
+      "( ambitransitive , LGBTQ , slang ) To trigger a person's gaydar ; to look or act obviously homosexual ."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "irrational",
+    "lemma": "irrational",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈɹæʃ.(ə.)nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more irrational",
+          "SUP": "most irrational"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not rational ; unfounded , nonsensical or wrong-headed .",
+        "examples": [
+          "an irrational decision"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a real number , that cannot be written as the ratio of two integers .",
+        "examples": [
+          "The number π is irrational .",
+          "π"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "rational"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "arithmetic",
+          "number theory",
+          "not comparable"
+        ],
+        "label_groups": "mathematics , arithmetic , number theory , not comparable"
+      }
+    ],
+    "main_definition": "Not rational ; unfounded , nonsensical or wrong-headed .",
+    "secondary_definitions": [
+      "( mathematics , arithmetic , number theory , not comparable ) Of a real number , that cannot be written as the ratio of two integers ."
+    ]
+  }
+]

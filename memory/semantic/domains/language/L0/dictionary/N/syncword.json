@@ -1,0 +1,36 @@
+[
+  {
+    "word": "syncword",
+    "lemma": "syncword",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "syncwords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short marker used to synchronize a transmission by indicating the end of the header information and the start of the data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "rare"
+        ],
+        "label_groups": "computing , rare"
+      }
+    ],
+    "main_definition": "( computing , rare ) A short marker used to synchronize a transmission by indicating the end of the header information and the start of the data .",
+    "secondary_definitions": []
+  }
+]

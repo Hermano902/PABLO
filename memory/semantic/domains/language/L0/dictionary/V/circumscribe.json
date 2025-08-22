@@ -1,0 +1,59 @@
+[
+  {
+    "word": "circumscribe",
+    "lemma": "circumscribe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɜː.kəm.skɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "circumscribes",
+          "PT": "circumscribed",
+          "PAP": "circumscribed",
+          "PRP": "circumscribing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw a line around ; to encircle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To limit narrowly; to restrict .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To draw the smallest circle or higher-dimensional sphere that has (a polyhedron, polygon, etc.) in its interior.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "To draw a line around ; to encircle .",
+    "secondary_definitions": [
+      "To limit narrowly; to restrict .",
+      "( geometry ) To draw the smallest circle or higher-dimensional sphere that has (a polyhedron, polygon, etc.) in its interior."
+    ]
+  }
+]

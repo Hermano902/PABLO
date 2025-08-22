@@ -1,0 +1,29 @@
+{
+  "word": "forge",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\forge.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\forge.json"
+  },
+  "timestamp": "2025-08-19T03:59:36.846389Z"
+}

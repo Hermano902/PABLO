@@ -1,0 +1,31 @@
+{
+  "word": "cap",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 31,
+      "examples": 15,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 16,
+      "examples": 5,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\cap.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\cap.json"
+  },
+  "timestamp": "2025-08-18T23:08:54.951239Z"
+}

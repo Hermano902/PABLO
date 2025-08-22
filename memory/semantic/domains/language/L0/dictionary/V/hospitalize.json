@@ -1,0 +1,84 @@
+[
+  {
+    "word": "hospitalize",
+    "lemma": "hospitalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɒspɪtəˌlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hospitalizes",
+          "PT": "hospitalized",
+          "PAP": "hospitalized",
+          "PRP": "hospitalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send to hospital ; to admit (a person) to hospital.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To render (a building) unfit for habitation , by long continued use as a hospital .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "archaic"
+        ],
+        "label_groups": "medicine , archaic"
+      },
+      {
+        "definition": "To cause (a person) to require hospitalization.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Said of an injury or illness.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Said of an assailant or other person.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "of an injury",
+          "illness",
+          "event",
+          "or person"
+        ],
+        "label_groups": "of an injury, illness, event, or person"
+      }
+    ],
+    "main_definition": "To send to hospital ; to admit (a person) to hospital.",
+    "secondary_definitions": [
+      "( medicine , archaic ) To render (a building) unfit for habitation , by long continued use as a hospital .",
+      "( of an injury, illness, event, or person ) To cause (a person) to require hospitalization."
+    ]
+  }
+]

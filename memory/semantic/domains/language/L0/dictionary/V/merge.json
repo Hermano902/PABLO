@@ -1,0 +1,59 @@
+[
+  {
+    "word": "merge",
+    "lemma": "merge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɜːd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "merges",
+          "PT": "merged",
+          "PAP": "merged",
+          "PRP": "merging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To combine into a whole .",
+        "examples": [
+          "Headquarters merged the operations of the three divisions.",
+          "The two companies merged ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "divide",
+          "split"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To blend gradually into something else.",
+        "examples": [
+          "The lanes of traffic merged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To combine into a whole .",
+    "secondary_definitions": [
+      "To blend gradually into something else."
+    ]
+  }
+]

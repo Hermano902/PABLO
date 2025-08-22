@@ -1,0 +1,75 @@
+[
+  {
+    "word": "compactification",
+    "lemma": "compactification",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "compactifications"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of various procedures of enlarging a topological space to make it compact .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "The space resulting from any such procedure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "Any modification of a theory such that an infinite parameter becomes finite .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The reduction of the number of large spacetime dimensions of a physical theory by making some of them compact .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( topology ) Any of various procedures of enlarging a topological space to make it compact .",
+    "secondary_definitions": [
+      "( topology ) The space resulting from any such procedure.",
+      "( physics ) Any modification of a theory such that an infinite parameter becomes finite .",
+      "( physics ) The reduction of the number of large spacetime dimensions of a physical theory by making some of them compact ."
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "sass",
+    "lemma": "sass",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sæs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sasses",
+          "PT": "sassed",
+          "PAP": "sassed",
+          "PRP": "sassing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To talk , to talk back .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "informal"
+        ],
+        "label_groups": "intransitive , US , informal"
+      },
+      {
+        "definition": "To speak insolently to.",
+        "examples": [
+          "Don’t sass your teachers!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "US",
+          "informal"
+        ],
+        "label_groups": "transitive , US , informal"
+      }
+    ],
+    "main_definition": "( intransitive , US , informal ) To talk , to talk back .",
+    "secondary_definitions": [
+      "( transitive , US , informal ) To speak insolently to."
+    ]
+  }
+]

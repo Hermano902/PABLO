@@ -1,0 +1,40 @@
+[
+  {
+    "word": "lowercase",
+    "lemma": "lowercase",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈloʊ.ɚˌkeɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lowercases",
+          "PT": "lowercased",
+          "PAP": "lowercased",
+          "PRP": "lowercasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert (text) to lower case.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To convert (text) to lower case.",
+    "secondary_definitions": []
+  }
+]

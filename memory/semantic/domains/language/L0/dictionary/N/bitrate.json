@@ -1,0 +1,36 @@
+[
+  {
+    "word": "bitrate",
+    "lemma": "bitrate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bitrates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The frequency at which bits (binary digits) pass a given physical or metaphorical point, measured in bps (bits per second).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "telecommunications"
+        ],
+        "label_groups": "computing , telecommunications"
+      }
+    ],
+    "main_definition": "( computing , telecommunications ) The frequency at which bits (binary digits) pass a given physical or metaphorical point, measured in bps (bits per second).",
+    "secondary_definitions": []
+  }
+]

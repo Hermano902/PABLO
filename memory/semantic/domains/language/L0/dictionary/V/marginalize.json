@@ -1,0 +1,54 @@
+[
+  {
+    "word": "marginalize",
+    "lemma": "marginalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "marginalizes",
+          "PT": "marginalized",
+          "PAP": "marginalized",
+          "PRP": "marginalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To relegate (something, especially a topic or a group of people) to the margins or to a lower limit ; to exclude socially or otherwise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To find a marginal distribution of a joint probability distribution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To relegate (something, especially a topic or a group of people) to the margins or to a lower limit ; to exclude socially or otherwise.",
+    "secondary_definitions": [
+      "( mathematics ) To find a marginal distribution of a joint probability distribution ."
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "recapitulate",
+    "lemma": "recapitulate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːkəˈpɪtʃʊleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "recapitulates",
+          "PT": "recapitulated",
+          "PAP": "recapitulated",
+          "PRP": "recapitulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To summarize or repeat in concise form.",
+        "examples": [
+          "The entire symphony was recapitulated in the last four bars.",
+          "We still have five minutes left, so let's recapitulate the lecture."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To reproduce or closely resemble (as in structure or function).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mirror or repeat in analogous form, especially in reference to an individual's development passing through stages corresponding to the species' stages of evolutionary development.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "biology",
+          "of an organism"
+        ],
+        "label_groups": [
+          "transitive",
+          "biology , of an organism"
+        ]
+      }
+    ],
+    "main_definition": "( ambitransitive ) To summarize or repeat in concise form.",
+    "secondary_definitions": [
+      "( transitive ) To reproduce or closely resemble (as in structure or function).",
+      "( transitive ) ( biology , of an organism ) To mirror or repeat in analogous form, especially in reference to an individual's development passing through stages corresponding to the species' stages of evolutionary development."
+    ]
+  }
+]

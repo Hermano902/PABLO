@@ -1,0 +1,61 @@
+[
+  {
+    "word": "succinct",
+    "lemma": "succinct",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/səkˈsɪŋkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more succinct",
+          "SUP": "most succinct"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Brief and to the point .",
+        "examples": [
+          "You should give clear, succinct information to the clients."
+        ],
+        "synonyms": [
+          "concise",
+          "laconic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Compressed into a tiny area.",
+        "examples": [
+          "Unlike general lossless data compression algorithms, succinct data structures retain the ability to use them in-place, without decompressing them first."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Wrapped by, or as if by a girdle ; closely fitting, wound or wrapped or drawn up tightly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "Brief and to the point .",
+    "secondary_definitions": [
+      "Compressed into a tiny area.",
+      "( archaic ) Wrapped by, or as if by a girdle ; closely fitting, wound or wrapped or drawn up tightly."
+    ]
+  }
+]

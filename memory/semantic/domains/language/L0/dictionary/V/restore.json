@@ -1,0 +1,123 @@
+[
+  {
+    "word": "restore",
+    "lemma": "restore",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈstɔː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "restores",
+          "PT": "restored",
+          "PAP": "restored",
+          "PRP": "restoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reestablish , or bring back into existence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bring back to good condition from a state of decay or ruin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give or bring back (that which has been lost or taken); to bring back to the owner; to replace.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give in place of, or as restitution for.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To recover (data, etc.) from a backup .",
+        "examples": [
+          "There was a crash last night, and we're still restoring the file system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To bring (a note) back to its original signification.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "To make good; to make amends for.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To reestablish , or bring back into existence .",
+    "secondary_definitions": [
+      "( transitive ) To bring back to good condition from a state of decay or ruin .",
+      "( transitive ) To give or bring back (that which has been lost or taken); to bring back to the owner; to replace.",
+      "( transitive ) To give in place of, or as restitution for.",
+      "( transitive , computing ) To recover (data, etc.) from a backup .",
+      "( transitive , music ) To bring (a note) back to its original signification.",
+      "( obsolete ) To make good; to make amends for."
+    ]
+  }
+]

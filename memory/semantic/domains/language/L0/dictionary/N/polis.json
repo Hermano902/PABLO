@@ -1,0 +1,84 @@
+[
+  {
+    "word": "polis",
+    "lemma": "polis",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɒ.lɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "poleis"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( historical ) A Greek city-state .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( historical ) A Greek city-state .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "polis",
+    "lemma": "polis",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈpɒ.lɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polises"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The police .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "Scotland",
+          "Ireland",
+          "Geordie"
+        ],
+        "label_groups": "uncountable , Scotland , Ireland , Geordie"
+      },
+      {
+        "definition": "A police officer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "Scotland",
+          "Ireland",
+          "Geordie"
+        ],
+        "label_groups": "countable , Scotland , Ireland , Geordie"
+      }
+    ],
+    "main_definition": "( uncountable , Scotland , Ireland , Geordie ) The police .",
+    "secondary_definitions": [
+      "( countable , Scotland , Ireland , Geordie ) A police officer ."
+    ]
+  }
+]

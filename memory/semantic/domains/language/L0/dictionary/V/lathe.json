@@ -1,0 +1,84 @@
+[
+  {
+    "word": "lathe",
+    "lemma": "lathe",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/leɪð/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lathes",
+          "PT": "lathed",
+          "PAP": "lathed",
+          "PRP": "lathing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive , UK dialectal ) To invite ; bid ; ask .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , UK dialectal ) To invite ; bid ; ask .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "lathe",
+    "lemma": "lathe",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/leɪð/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lathes",
+          "PT": "lathed",
+          "PAP": "lathed",
+          "PRP": "lathing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To shape with a lathe.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To produce a three-dimensional model by rotating a set of points around a fixed axis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      }
+    ],
+    "main_definition": "To shape with a lathe.",
+    "secondary_definitions": [
+      "( computer graphics ) To produce a three-dimensional model by rotating a set of points around a fixed axis ."
+    ]
+  }
+]

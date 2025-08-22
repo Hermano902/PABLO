@@ -1,0 +1,68 @@
+[
+  {
+    "word": "playground",
+    "lemma": "playground",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpleɪɡɹaʊnd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "playgrounds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large open space for children to play in, usually having dedicated play equipment (such as swings and slides ).",
+        "examples": [
+          "The kids have to go to the playground during recess, no matter the weather.",
+          "The local council have set up a new playground , equipped with slides , swings , and a climbing wall ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "outdoors"
+        ],
+        "label_groups": "outdoors",
+        "dating_raw": "1780"
+      },
+      {
+        "definition": "Any physical or metaphysical space in which a person or organization has free rein to do as they please.",
+        "examples": [
+          "The exclusive tropical island was a millionaire's playground ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "A sandbox for testing calls to an application programming interface .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( outdoors ) A large open space for children to play in, usually having dedicated play equipment (such as swings and slides ). [1780 ]",
+    "secondary_definitions": [
+      "( figuratively ) Any physical or metaphysical space in which a person or organization has free rein to do as they please.",
+      "( programming ) A sandbox for testing calls to an application programming interface ."
+    ]
+  }
+]

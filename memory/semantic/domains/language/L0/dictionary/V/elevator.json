@@ -1,0 +1,43 @@
+[
+  {
+    "word": "elevator",
+    "lemma": "elevator",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛləˌveɪtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "elevators",
+          "PT": "elevatored",
+          "PAP": "elevatored",
+          "PRP": "elevatoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move in an elevator.",
+        "examples": [
+          "He elevatored up to the third floor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "intransitive"
+        ],
+        "label_groups": "informal , intransitive"
+      }
+    ],
+    "main_definition": "( informal , intransitive ) To move in an elevator.",
+    "secondary_definitions": []
+  }
+]

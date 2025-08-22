@@ -1,0 +1,615 @@
+[
+  {
+    "word": "do",
+    "lemma": "do",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dy/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "does",
+          "PT": "did",
+          "PAP": "done",
+          "PRP": "doing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A syntactic marker .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A syntactic marker in a question whose main verb is not another auxiliary verb or be .",
+            "examples": [
+              "Do you go there often?",
+              "You seldom work on Sats, do you?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "auxiliary"
+            ],
+            "label_groups": "auxiliary"
+          },
+          {
+            "definition": "A syntactic marker in negations with the indicative and imperative moods.",
+            "examples": [
+              "I do not go there often.",
+              "Do not listen to him."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "auxiliary"
+            ],
+            "label_groups": "auxiliary"
+          },
+          {
+            "definition": "A syntactic marker for emphasis with the indicative, imperative, and subjunctive moods.",
+            "examples": [
+              "But I do go sometimes.",
+              "Do tell us.",
+              "Boy, did I make a mistake!",
+              "That's not true: I always do say please and thank-you.",
+              "So who did marry the Princess in the end?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "auxiliary"
+            ],
+            "label_groups": "auxiliary"
+          },
+          {
+            "definition": "A syntactic marker that refers back to an earlier verb and allows the speaker to avoid repeating the verb; in most dialects, not used with auxiliaries such as be , though it can be in AAVE .",
+            "examples": [
+              "I play tennis; she does too.",
+              "Likes her capuccino, Mary does .",
+              "Your remarks piqued my curiosity, as it did my mom's too.",
+              "They don't think it be like it is, but it do ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "pro-verb"
+            ],
+            "label_groups": "pro-verb"
+          },
+          {
+            "definition": "Used to form the present progressive of verbs.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "auxiliary",
+              "archaic",
+              "dialectal"
+            ],
+            "label_groups": "auxiliary , archaic , dialectal"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "auxiliary"
+        ],
+        "label_groups": "auxiliary"
+      },
+      {
+        "definition": "To perform ; to execute .",
+        "examples": [
+          "If you want something done, do it yourself.",
+          "All you ever do is surf the Internet. What will you do this afternoon?"
+        ],
+        "synonyms": [
+          "accomplish",
+          "carry out",
+          "functionate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause or make (someone) (do something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To suffice .",
+        "examples": [
+          "it’s not the best broom, but it will have to do ;  this will do me, thanks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive"
+        ],
+        "label_groups": "intransitive , transitive"
+      },
+      {
+        "definition": "To be reasonable or acceptable .",
+        "examples": [
+          "It simply will not do to have dozens of children running around such a quiet event."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To have (as an effect).",
+        "examples": [
+          "The fresh air did him some good."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To fare , perform (well or poorly).",
+        "examples": [
+          "Our relationship isn't doing very well;  how do you do ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To fare well; to thrive ; to prosper ; (of livestock) to fatten .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "especially England",
+              "intransitive"
+            ],
+            "label_groups": "especially England , intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To have as one's job.",
+        "examples": [
+          "What does Bob do ? — He's a plumber."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chiefly in questions"
+        ],
+        "label_groups": "transitive , chiefly in questions"
+      },
+      {
+        "definition": "To perform the tasks or actions associated with (something).",
+        "examples": [
+          "Don't forget to do your report!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cook .",
+        "examples": [
+          "I'll just do some eggs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To travel in or through, to tour , to make a circuit of.",
+        "examples": [
+          "Let’s do New York also."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To treat in a certain way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To work for or on, by way of caring for, looking after, preparing, cleaning, keeping in order, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To act or behave in a certain manner; to conduct oneself.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To spend (time) in jail . ( See also do time )",
+        "examples": [
+          "I did five years for armed robbery."
+        ],
+        "synonyms": [
+          "serve"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To impersonate or depict .",
+        "examples": [
+          "They really laughed when he did Clinton, with a perfect accent and a leer."
+        ],
+        "synonyms": [
+          "imitate",
+          "personate",
+          "take off"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To copy or emulate the actions or behaviour that is associated with the person or thing mentioned.",
+        "examples": [
+          "He did a Henry VIII and got married six times.",
+          "He was planning to do a 9/11 ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "with 'a'",
+          "the name of a person",
+          "place",
+          "event",
+          "etc."
+        ],
+        "label_groups": "transitive , with 'a' and the name of a person, place, event, etc."
+      },
+      {
+        "definition": "To kill .",
+        "examples": [],
+        "synonyms": [
+          "do in",
+          "murder",
+          "off",
+          "rub out"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To deal with for good and all; to finish up; to undo; to ruin ; to do for .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To punish for a misdemeanor .",
+        "examples": [
+          "He got done for speeding.",
+          "Teacher'll do you for that!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To have sex with. ( See also do it )",
+        "examples": [],
+        "synonyms": [
+          "go to bed with",
+          "sleep with"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To cheat or swindle .",
+        "examples": [
+          "That guy just did me out of two hundred bucks!"
+        ],
+        "synonyms": [
+          "defraud",
+          "diddle",
+          "mug off",
+          "rip off",
+          "scam"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To convert into a certain form; especially, to translate .",
+        "examples": [
+          "the novel has just been done into English;  I'm going to do this play into a movie"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To finish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To cash or to advance money for, as a bill or note.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "stock exchange"
+        ],
+        "label_groups": "stock exchange"
+      },
+      {
+        "definition": "To make or provide .",
+        "examples": [
+          "Do they do haircuts there?",
+          "Could you do me a burger with mayonnaise instead of ketchup?"
+        ],
+        "synonyms": [
+          "furnish",
+          "give",
+          "supply"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "informal , transitive , ditransitive"
+      },
+      {
+        "definition": "To injure (one's own body part).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "informal , transitive"
+      },
+      {
+        "definition": "To take (a drug ).",
+        "examples": [
+          "I do cocaine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To exist with a purpose or for a reason.",
+        "examples": [
+          "What's that car doing in our swimming pool?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "in the form be doing [somewhere]"
+        ],
+        "label_groups": "transitive , in the form be doing [somewhere]"
+      },
+      {
+        "definition": "To drive a vehicle at a certain speed , especially in regard to a speed limit .",
+        "examples": [
+          "He was doing 50 [miles per hour] in a school zone."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "informal , transitive"
+      },
+      {
+        "definition": "This term needs a definition. Please help out and add a definition , then remove the text  .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "DoggoLingo",
+          "chiefly used with verbs"
+        ],
+        "label_groups": "DoggoLingo , chiefly used with verbs"
+      }
+    ],
+    "main_definition": "( auxiliary ) A syntactic marker .",
+    "secondary_definitions": [
+      "( transitive ) To perform ; to execute .",
+      "( obsolete , transitive ) To cause or make (someone) (do something).",
+      "( intransitive , transitive ) To suffice .",
+      "( intransitive ) To be reasonable or acceptable .",
+      "( ditransitive ) To have (as an effect).",
+      "( intransitive ) To fare , perform (well or poorly).",
+      "( transitive , chiefly in questions ) To have as one's job.",
+      "( transitive ) To perform the tasks or actions associated with (something).",
+      "( transitive ) To cook .",
+      "( transitive ) To travel in or through, to tour , to make a circuit of.",
+      "( transitive ) To treat in a certain way.",
+      "( transitive ) To work for or on, by way of caring for, looking after, preparing, cleaning, keeping in order, etc.",
+      "( intransitive , obsolete ) To act or behave in a certain manner; to conduct oneself.",
+      "( transitive ) To spend (time) in jail . ( See also do time )",
+      "( transitive ) To impersonate or depict .",
+      "( transitive , with 'a' and the name of a person, place, event, etc. ) To copy or emulate the actions or behaviour that is associated with the person or thing mentioned.",
+      "( transitive , slang ) To kill .",
+      "( transitive , slang ) To deal with for good and all; to finish up; to undo; to ruin ; to do for .",
+      "( transitive , informal ) To punish for a misdemeanor .",
+      "( transitive , slang ) To have sex with. ( See also do it )",
+      "( transitive ) To cheat or swindle .",
+      "( transitive ) To convert into a certain form; especially, to translate .",
+      "( transitive , intransitive ) To finish .",
+      "( stock exchange ) To cash or to advance money for, as a bill or note.",
+      "( informal , transitive , ditransitive ) To make or provide .",
+      "( informal , transitive ) To injure (one's own body part).",
+      "( transitive ) To take (a drug ).",
+      "( transitive , in the form be doing [somewhere] ) To exist with a purpose or for a reason.",
+      "( informal , transitive ) To drive a vehicle at a certain speed , especially in regard to a speed limit .",
+      "( DoggoLingo , chiefly used with verbs ) This term needs a definition. Please help out and add a definition , then remove the text  ."
+    ]
+  }
+]

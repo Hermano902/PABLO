@@ -1,0 +1,84 @@
+[
+  {
+    "word": "repeat",
+    "lemma": "repeat",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈpiːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "repeats"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An iteration ; a repetition .",
+        "examples": [
+          "We gave up after the third repeat because it got boring."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A television program shown after its initial presentation; a rerun .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A refill of a prescription .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "pharmacy"
+        ],
+        "label_groups": "medicine , pharmacy"
+      },
+      {
+        "definition": "A pattern of nucleic acids that occur in multiple copies throughout a genome (or of amino acids in a protein ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "biochemistry"
+        ],
+        "label_groups": "genetics , biochemistry"
+      },
+      {
+        "definition": "A mark in music notation directing a part to be repeated.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "An iteration ; a repetition .",
+    "secondary_definitions": [
+      "A television program shown after its initial presentation; a rerun .",
+      "( medicine , pharmacy ) A refill of a prescription .",
+      "( genetics , biochemistry ) A pattern of nucleic acids that occur in multiple copies throughout a genome (or of amino acids in a protein ).",
+      "( music ) A mark in music notation directing a part to be repeated."
+    ]
+  }
+]

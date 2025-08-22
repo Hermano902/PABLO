@@ -1,0 +1,377 @@
+[
+  {
+    "word": "drive",
+    "lemma": "drive",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɹaɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "drives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Planned , usually long-lasting , effort to achieve something; ability coupled with ambition , determination , and motivation .",
+        "examples": [
+          "Crassus had wealth and wit, but Pompey had drive and Caesar as much again."
+        ],
+        "synonyms": [
+          "ambition",
+          "grit",
+          "push",
+          "verve",
+          "motivation",
+          "get-up-and-go",
+          "self-motivation"
+        ],
+        "antonyms": [
+          "inertia",
+          "lack of motivation",
+          "laziness",
+          "phlegm",
+          "sloth"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Violent or rapid motion ; a rushing onward or away ; ( especially ) a forced or hurried dispatch of business .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An act of driving ( prompting ) animals forward .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An act of driving game animals forward, to be captured or hunted .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An act of driving livestock animals forward, to transport a herd .",
+            "examples": [],
+            "synonyms": [
+              "drove",
+              "drift"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A sustained advance in the face of the enemy to take an objective .",
+        "examples": [
+          "Napoleon's drive on Moscow was as determined as it was disastrous ."
+        ],
+        "synonyms": [
+          "attack",
+          "push"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      },
+      {
+        "definition": "A mechanism used to power or give motion to a vehicle or other machine or machine part.",
+        "examples": [
+          "a typical steam drive",
+          "a nuclear drive",
+          "chain drive",
+          "front-wheel drive",
+          "Some old model trains have clockwork drives ."
+        ],
+        "synonyms": [
+          "gear",
+          "engine",
+          "motor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A trip made in a vehicle (now generally in a motor vehicle ).",
+        "examples": [
+          "It was a long drive ."
+        ],
+        "synonyms": [
+          "ride",
+          "spin",
+          "trip"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A driveway .",
+        "examples": [
+          "The mansion had a long, tree-lined drive ."
+        ],
+        "synonyms": [
+          "approach",
+          "driveway"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of public roadway .",
+        "examples": [
+          "Beverly Hills’ most famous street is Rodeo Drive ."
+        ],
+        "synonyms": [
+          "avenue",
+          "boulevard",
+          "road",
+          "street"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The gear into which one usually shifts an automatic transmission when one is driving a car or truck. (Denoted with symbol D on a shifter's labeling.)",
+        "examples": [
+          "Normally you should be in drive , although you can select a lower gear such as 2 or 1 for certain conditions, such as prolonged downhill stretches."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      },
+      {
+        "definition": "A place suitable or agreeable for driving; a road prepared for driving.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Desire or interest .",
+        "examples": [],
+        "synonyms": [
+          "desire",
+          "impetus",
+          "impulse",
+          "urge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      },
+      {
+        "definition": "An apparatus for reading and writing data to or from a mass storage device such as a disk .",
+        "examples": [],
+        "synonyms": [
+          "disk drive"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer hardware"
+        ],
+        "label_groups": "computer hardware"
+      },
+      {
+        "definition": "A mass storage device in which the mechanism for reading and writing data is integrated with the mechanism for storing data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer hardware"
+        ],
+        "label_groups": "computer hardware"
+      },
+      {
+        "definition": "A stroke made with a driver .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "golf"
+        ],
+        "label_groups": "golf"
+      },
+      {
+        "definition": "A ball struck in a flat trajectory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "baseball",
+          "tennis"
+        ],
+        "label_groups": "baseball , tennis"
+      },
+      {
+        "definition": "A type of shot played by swinging the bat in a vertical arc , through the line of the ball, and hitting it along the ground, normally between cover and midwicket .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      },
+      {
+        "definition": "A straight level shot or pass .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "soccer"
+        ],
+        "label_groups": "soccer"
+      },
+      {
+        "definition": "An offensive possession, generally one consisting of several plays and/ or first downs , often leading to a scoring opportunity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American football"
+        ],
+        "label_groups": "American football"
+      },
+      {
+        "definition": "A charity event such as a fundraiser , bake sale , or toy drive .",
+        "examples": [
+          "a whist drive",
+          "a beetle drive"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philanthropy"
+        ],
+        "label_groups": "philanthropy"
+      },
+      {
+        "definition": "A campaign aimed at selling more of a certain product or promoting a public service.",
+        "examples": [
+          "vaccination drive"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "retail"
+        ],
+        "label_groups": "retail"
+      },
+      {
+        "definition": "An impression or matrix formed by a punch drift .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      },
+      {
+        "definition": "A collection of objects that are driven; a mass of logs to be floated down a river .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Friendly term of address for a bus driver .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "especially Bristol",
+          "Wales",
+          "slang"
+        ],
+        "label_groups": "UK , especially Bristol and Wales , slang"
+      }
+    ],
+    "main_definition": "Planned , usually long-lasting , effort to achieve something; ability coupled with ambition , determination , and motivation .",
+    "secondary_definitions": [
+      "Violent or rapid motion ; a rushing onward or away ; ( especially ) a forced or hurried dispatch of business .",
+      "An act of driving ( prompting ) animals forward .",
+      "( military ) A sustained advance in the face of the enemy to take an objective .",
+      "A mechanism used to power or give motion to a vehicle or other machine or machine part.",
+      "A trip made in a vehicle (now generally in a motor vehicle ).",
+      "A driveway .",
+      "A type of public roadway .",
+      "( automotive ) The gear into which one usually shifts an automatic transmission when one is driving a car or truck. (Denoted with symbol D on a shifter's labeling.)",
+      "( dated ) A place suitable or agreeable for driving; a road prepared for driving.",
+      "( psychology ) Desire or interest .",
+      "( computer hardware ) An apparatus for reading and writing data to or from a mass storage device such as a disk .",
+      "( computer hardware ) A mass storage device in which the mechanism for reading and writing data is integrated with the mechanism for storing data.",
+      "( golf ) A stroke made with a driver .",
+      "( baseball , tennis ) A ball struck in a flat trajectory .",
+      "( cricket ) A type of shot played by swinging the bat in a vertical arc , through the line of the ball, and hitting it along the ground, normally between cover and midwicket .",
+      "( soccer ) A straight level shot or pass .",
+      "( American football ) An offensive possession, generally one consisting of several plays and/ or first downs , often leading to a scoring opportunity.",
+      "( philanthropy ) A charity event such as a fundraiser , bake sale , or toy drive .",
+      "( retail ) A campaign aimed at selling more of a certain product or promoting a public service.",
+      "( typography ) An impression or matrix formed by a punch drift .",
+      "A collection of objects that are driven; a mass of logs to be floated down a river .",
+      "( UK , especially Bristol and Wales , slang ) Friendly term of address for a bus driver ."
+    ]
+  }
+]

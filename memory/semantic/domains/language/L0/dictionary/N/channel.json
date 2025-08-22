@@ -1,0 +1,280 @@
+[
+  {
+    "word": "channel",
+    "lemma": "channel",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈt͡ʃænəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "channels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The hollow bed of running waters; ( also ) the bed of the sea or other body of water .",
+        "examples": [
+          "The water coming out of the waterwheel created a standing wave in the channel ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The natural or man-made deeper course through a reef , bar , bay , or any shallow body of water .",
+        "examples": [
+          "A channel was dredged to allow ocean-going vessels to reach the city."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The navigable part of a river.",
+        "examples": [
+          "We were careful to keep our boat in the channel ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A narrow body of water between two land masses.",
+        "examples": [
+          "The English Channel lies between France and England."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something through which another thing passes; a means of conveying or transmitting.",
+        "examples": [
+          "The news was conveyed to us by different channels ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( biochemistry ) An ion channel : pore-forming proteins located in a cell membrane that allow specific ions to pass through.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A gutter; a groove, as in a fluted column.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( construction , mechanical engineering ) A structural member with a cross section shaped like a squared-off letter C.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( electronics ) A connection between initiating and terminating nodes of a circuit .",
+        "examples": [
+          "The guard-rail provided the channel between the downed wire and the tree."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( electronics ) The narrow conducting portion of a MOSFET transistor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( communication ) The part that connects a data source to a data sink .",
+        "examples": [
+          "A channel stretches between them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( communication ) A path for conveying electrical or electromagnetic signals , usually distinguished from other parallel paths.",
+        "examples": [
+          "We are using one of the 24 channels ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( communication ) A single path provided by a transmission medium via physical separation , such as by multipair cable.",
+        "examples": [
+          "The channel is created by bonding the signals from these four pairs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( communication ) A single path provided by a transmission medium via spectral or protocol separation, such as by frequency or time-division multiplexing .",
+        "examples": [
+          "Their call is being carried on channel 6 of the T-1 line."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( broadcasting ) A specific radio frequency or band of frequencies, usually in conjunction with a predetermined letter, number, or codeword, and allocated by international agreement.",
+        "examples": [
+          "KNDD is the channel at 107.7 MHz in Seattle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( broadcasting ) A specific radio frequency or band of frequencies used for transmitting television .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( storage ) The portion of a storage medium, such as a track or a band, that is accessible to a given reading or writing station or head.",
+        "examples": [
+          "This chip in this disk drive is the channel device."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The part of a turbine pump where the pressure is built up.",
+        "examples": [
+          "The liquid is pressurized in the lateral channel ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( business , marketing ) A distribution channel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Internet ) A particular area for conversations on an IRC or similar network, analogous to a chat room and often dedicated to a specific topic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Internet , historical ) A means of delivering up-to-date Internet content via a push mechanism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A psychic or medium who temporarily takes on the personality of somebody else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The hollow bed of running waters; ( also ) the bed of the sea or other body of water .",
+    "secondary_definitions": [
+      "The natural or man-made deeper course through a reef , bar , bay , or any shallow body of water .",
+      "The navigable part of a river.",
+      "A narrow body of water between two land masses.",
+      "Something through which another thing passes; a means of conveying or transmitting.",
+      "( biochemistry ) An ion channel : pore-forming proteins located in a cell membrane that allow specific ions to pass through.",
+      "A gutter; a groove, as in a fluted column.",
+      "( construction , mechanical engineering ) A structural member with a cross section shaped like a squared-off letter C.",
+      "( electronics ) A connection between initiating and terminating nodes of a circuit .",
+      "( electronics ) The narrow conducting portion of a MOSFET transistor.",
+      "( communication ) The part that connects a data source to a data sink .",
+      "( communication ) A path for conveying electrical or electromagnetic signals , usually distinguished from other parallel paths.",
+      "( communication ) A single path provided by a transmission medium via physical separation , such as by multipair cable.",
+      "( communication ) A single path provided by a transmission medium via spectral or protocol separation, such as by frequency or time-division multiplexing .",
+      "( broadcasting ) A specific radio frequency or band of frequencies, usually in conjunction with a predetermined letter, number, or codeword, and allocated by international agreement.",
+      "( broadcasting ) A specific radio frequency or band of frequencies used for transmitting television .",
+      "( storage ) The portion of a storage medium, such as a track or a band, that is accessible to a given reading or writing station or head.",
+      "The part of a turbine pump where the pressure is built up.",
+      "( business , marketing ) A distribution channel .",
+      "( Internet ) A particular area for conversations on an IRC or similar network, analogous to a chat room and often dedicated to a specific topic .",
+      "( Internet , historical ) A means of delivering up-to-date Internet content via a push mechanism.",
+      "A psychic or medium who temporarily takes on the personality of somebody else."
+    ]
+  },
+  {
+    "word": "channel",
+    "lemma": "channel",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈt͡ʃænəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "channels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The wale of a sailing ship which projects beyond the gunwale and to which the shrouds attach via the chains. One of the flat ledges of heavy plank bolted edgewise to the outside of a vessel, to increase the spread of the shrouds and carry them clear of the bulwarks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      }
+    ],
+    "main_definition": "( nautical ) The wale of a sailing ship which projects beyond the gunwale and to which the shrouds attach via the chains. One of the flat ledges of heavy plank bolted edgewise to the outside of a vessel, to increase the spread of the shrouds and carry them clear of the bulwarks.",
+    "secondary_definitions": []
+  }
+]

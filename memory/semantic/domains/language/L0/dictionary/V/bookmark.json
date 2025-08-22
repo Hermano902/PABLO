@@ -1,0 +1,41 @@
+[
+  {
+    "word": "bookmark",
+    "lemma": "bookmark",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʊk.mɑː(ɹ)k/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bookmarks",
+          "PT": "bookmarked",
+          "PAP": "bookmarked",
+          "PRP": "bookmarking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a bookmark.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To create a bookmark.",
+    "secondary_definitions": []
+  }
+]

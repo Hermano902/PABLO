@@ -1,0 +1,79 @@
+[
+  {
+    "word": "hormone",
+    "lemma": "hormone",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɔːməʊn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hormones"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any substance produced by one tissue and conveyed by the bloodstream to another to effect physiological activity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physiology"
+        ],
+        "label_groups": "physiology"
+      },
+      {
+        "definition": "A synthetic compound with the same activity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Sex hormones , as used in hormone replacement therapy for transgender or intersex people.",
+            "examples": [
+              "I'm going to be going to slightly higher doses of hormones soon."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "LGBTQ",
+              "colloquial",
+              "usually in the plural"
+            ],
+            "label_groups": "LGBTQ , colloquial , usually in the plural"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "pharmacology"
+        ],
+        "label_groups": "pharmacology"
+      },
+      {
+        "definition": "Any similar substance in plants .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      }
+    ],
+    "main_definition": "( physiology ) Any substance produced by one tissue and conveyed by the bloodstream to another to effect physiological activity .",
+    "secondary_definitions": [
+      "( pharmacology ) A synthetic compound with the same activity.",
+      "( botany ) Any similar substance in plants ."
+    ]
+  }
+]

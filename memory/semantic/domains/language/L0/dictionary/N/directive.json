@@ -1,0 +1,80 @@
+[
+  {
+    "word": "directive",
+    "lemma": "directive",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈɹɛk.tɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "directives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instruction or guideline that indicates how to perform an action or reach a goal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A construct in source code that indicates how it should be processed but is not necessarily part of the program to be run.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "An authoritative decision from an official body , which may or may not have binding force .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A form of legislative act addressed to the member states . The directive binds the member state to reach certain objectives in their national legislation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "European Union law"
+        ],
+        "label_groups": "European Union law"
+      },
+      {
+        "definition": "The directive case .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "An instruction or guideline that indicates how to perform an action or reach a goal .",
+    "secondary_definitions": [
+      "( programming ) A construct in source code that indicates how it should be processed but is not necessarily part of the program to be run.",
+      "An authoritative decision from an official body , which may or may not have binding force .",
+      "( European Union law ) A form of legislative act addressed to the member states . The directive binds the member state to reach certain objectives in their national legislation.",
+      "( grammar ) The directive case ."
+    ]
+  }
+]

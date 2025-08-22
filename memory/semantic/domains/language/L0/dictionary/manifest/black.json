@@ -1,0 +1,37 @@
+{
+  "word": "black",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 22,
+      "examples": 14,
+      "synonyms": 4,
+      "antonyms": 5,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 16,
+      "examples": 3,
+      "synonyms": 1,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\black.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\black.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\black.json"
+  },
+  "timestamp": "2025-08-18T22:18:01.987766Z"
+}

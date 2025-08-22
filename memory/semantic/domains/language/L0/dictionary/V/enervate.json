@@ -1,0 +1,73 @@
+[
+  {
+    "word": "enervate",
+    "lemma": "enervate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛn.ə(ɹ)ˈveɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "enervates",
+          "PT": "enervated",
+          "PAP": "enervated",
+          "PRP": "enervating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce strength or energy ; debilitate .",
+        "examples": [
+          "After being laid off three times in a row, she felt too enervated to look for another job."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To weaken morally or mentally .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To partially or completely remove a nerve .",
+        "examples": [],
+        "synonyms": [
+          "denervate",
+          "deinnervate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "uncommon"
+        ],
+        "label_groups": "medicine , uncommon"
+      }
+    ],
+    "main_definition": "( transitive ) To reduce strength or energy ; debilitate .",
+    "secondary_definitions": [
+      "( transitive ) To weaken morally or mentally .",
+      "( medicine , uncommon ) To partially or completely remove a nerve ."
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "word": "partial",
+    "lemma": "partial",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɑɹʃəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more partial",
+          "SUP": "most partial"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "existing as a part or portion ; incomplete",
+        "examples": [
+          "So far, I have only pieced together a partial account of the incident."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "describing a property that holds only when an algorithm terminates",
+        "examples": [
+          "It's easy to prove partial correctness, but it's not obvious that it is also totally correct."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "biased in favor of a person, side, or point of view , especially when dealing with a competition or dispute",
+        "examples": [
+          "The referee is blatantly partial !",
+          "God is not partial ; he does not play favorites."
+        ],
+        "synonyms": [
+          "nonimpartial"
+        ],
+        "antonyms": [
+          "impartial"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "having a predilection for something",
+        "examples": [],
+        "synonyms": [
+          "fond"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "followed by the preposition to"
+        ],
+        "label_groups": "followed by the preposition to"
+      },
+      {
+        "definition": "of or relating to a partial derivative or partial differential",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "subordinate",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "Having a wordplay element, but no definition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crosswording",
+          "of a clue"
+        ],
+        "label_groups": "crosswording , of a clue"
+      }
+    ],
+    "main_definition": "existing as a part or portion ; incomplete",
+    "secondary_definitions": [
+      "( computer science ) describing a property that holds only when an algorithm terminates",
+      "biased in favor of a person, side, or point of view , especially when dealing with a competition or dispute",
+      "( followed by the preposition to ) having a predilection for something",
+      "( mathematics ) of or relating to a partial derivative or partial differential",
+      "( botany ) subordinate",
+      "( crosswording , of a clue ) Having a wordplay element, but no definition."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "wireless",
+    "lemma": "wireless",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwaɪə.ləs/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wirelesses"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The medium of radio communication.",
+        "examples": [
+          "Only about a hundred years ago, wireless was a new technology."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Wireless connectivity to a computer network .",
+        "examples": [
+          "If your wireless stops working, try restarting the router."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "networking"
+        ],
+        "label_groups": "uncountable , networking"
+      },
+      {
+        "definition": "A radio set.",
+        "examples": [
+          "Let's switch on the wireless and listen to the news."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "chiefly British"
+        ],
+        "label_groups": "dated , chiefly British"
+      }
+    ],
+    "main_definition": "( uncountable ) The medium of radio communication.",
+    "secondary_definitions": [
+      "( uncountable , networking ) Wireless connectivity to a computer network .",
+      "( dated , chiefly British ) A radio set."
+    ]
+  }
+]

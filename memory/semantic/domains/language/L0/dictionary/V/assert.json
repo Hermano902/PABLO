@@ -1,0 +1,98 @@
+[
+  {
+    "word": "assert",
+    "lemma": "assert",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈsɜːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "asserts",
+          "PT": "asserted",
+          "PAP": "asserted",
+          "PRP": "asserting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To declare with assurance or plainly and strongly; to state positively.",
+        "examples": [
+          "He would often assert that there was life on other planets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To use or exercise and thereby prove the existence of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To maintain or defend , as a cause or a claim , by words or measures; to vindicate a claim or title to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To insist on the legitimacy of one's rights, opinion, etc; not to allow oneself to be dismissed ; to ensure that one is taken into consideration; to make oneself respected; to be assertive . See assert oneself .",
+        "examples": [
+          "Since going to therapy, I've found it much easier to assert myself."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive"
+        ],
+        "label_groups": "reflexive"
+      },
+      {
+        "definition": "To declare that a condition or expression must be true at a certain point in the source code (in some cases causing the program to fail if it is not, as a safeguard ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "To set a signal on a line using a voltage or electric current.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "To declare with assurance or plainly and strongly; to state positively.",
+    "secondary_definitions": [
+      "To use or exercise and thereby prove the existence of.",
+      "To maintain or defend , as a cause or a claim , by words or measures; to vindicate a claim or title to.",
+      "( reflexive ) To insist on the legitimacy of one's rights, opinion, etc; not to allow oneself to be dismissed ; to ensure that one is taken into consideration; to make oneself respected; to be assertive . See assert oneself .",
+      "( programming ) To declare that a condition or expression must be true at a certain point in the source code (in some cases causing the program to fail if it is not, as a safeguard ).",
+      "( electronics ) To set a signal on a line using a voltage or electric current."
+    ]
+  }
+]

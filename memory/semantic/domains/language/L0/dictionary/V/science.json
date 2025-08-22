@@ -1,0 +1,57 @@
+[
+  {
+    "word": "science",
+    "lemma": "science",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪ.əns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sciences",
+          "PT": "scienced",
+          "PAP": "scienced",
+          "PRP": "sciencing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to become versed in science ; to make skilled ; to instruct .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      },
+      {
+        "definition": "To use science to solve a problem .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial",
+          "humorous"
+        ],
+        "label_groups": "transitive , colloquial , humorous"
+      }
+    ],
+    "main_definition": "( transitive , dated ) To cause to become versed in science ; to make skilled ; to instruct .",
+    "secondary_definitions": [
+      "( transitive , colloquial , humorous ) To use science to solve a problem ."
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "insert",
+    "lemma": "insert",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈsɜːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inserts",
+          "PT": "inserted",
+          "PAP": "inserted",
+          "PRP": "inserting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put in between or into.",
+        "examples": [
+          "In order to withdraw money from a cash machine, you have to insert your debit card.",
+          "To make your proof easier to understand, I recommend you insert a few more steps."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To put in between or into.",
+    "secondary_definitions": []
+  }
+]

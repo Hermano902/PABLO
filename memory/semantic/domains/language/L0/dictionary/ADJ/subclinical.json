@@ -1,0 +1,69 @@
+[
+  {
+    "word": "subclinical",
+    "lemma": "subclinical",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Without signs and symptoms that are detectable by physical examination or laboratory test; not clinically manifest.",
+        "examples": [
+          "Some conditions may remain subclinical until they resolve without intervention, whereas others worsen from subclinical to clinical status."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "of a disease or injury"
+        ],
+        "label_groups": "medicine , of a disease or injury"
+      },
+      {
+        "definition": "Where some criteria are met but not enough to reach the status of a clinical diagnosis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "in diagnosis"
+        ],
+        "label_groups": "medicine , in diagnosis"
+      },
+      {
+        "definition": "Less than is needed for clinical reasons.",
+        "examples": [
+          "Off-label use of certain drugs at subclinical dosages has been a theme in realms of activity such as metabolic optimization, weight loss, body hacking, and neurohacking (e.g., nootropics); such drugs include metformin, beta-blockers, and others."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "of a dosage"
+        ],
+        "label_groups": "medicine , of a dosage"
+      }
+    ],
+    "main_definition": "( medicine , of a disease or injury ) Without signs and symptoms that are detectable by physical examination or laboratory test; not clinically manifest.",
+    "secondary_definitions": [
+      "( medicine , in diagnosis ) Where some criteria are met but not enough to reach the status of a clinical diagnosis .",
+      "( medicine , of a dosage ) Less than is needed for clinical reasons."
+    ]
+  }
+]

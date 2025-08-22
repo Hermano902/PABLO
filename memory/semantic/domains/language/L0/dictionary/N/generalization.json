@@ -1,0 +1,78 @@
+[
+  {
+    "word": "generalization",
+    "lemma": "generalization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "generalizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act or instance of generalizing ; concluding that something true of a subclass is true of the entire class.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The formulation of general concepts from specific instances by abstracting common properties .",
+        "examples": [],
+        "synonyms": [
+          "universalization"
+        ],
+        "antonyms": [
+          "specialization"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Inductive reasoning from detailed facts to general principles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An oversimplified or exaggerated conception, opinion, or image of the members of a group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A proof, axiom, problem, or definition that includes another's cases, and also some additional cases; a conclusion reached by inferring from specific cases to more general cases or principles.",
+        "examples": [
+          "A hypersphere is a generalization of a sphere across more than three dimensions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "An act or instance of generalizing ; concluding that something true of a subclass is true of the entire class.",
+    "secondary_definitions": [
+      "The formulation of general concepts from specific instances by abstracting common properties .",
+      "Inductive reasoning from detailed facts to general principles .",
+      "An oversimplified or exaggerated conception, opinion, or image of the members of a group.",
+      "( mathematics ) A proof, axiom, problem, or definition that includes another's cases, and also some additional cases; a conclusion reached by inferring from specific cases to more general cases or principles."
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "word": "signal",
+    "lemma": "signal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪɡnəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "signals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sequence of states representing an encoded message in a communication channel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any variation of a quantity or change in an entity over time that conveys information upon detection.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An on-off light, semaphore , or other device used to give an indication to another person.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An electromagnetic action, normally a voltage that is a function of time, that conveys the information of the radio or TV program or of communication with another party.",
+        "examples": [
+          "My mobile phone can't get a signal in the railway station."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a radio",
+          "TV",
+          "telephone",
+          "internet",
+          "etc."
+        ],
+        "label_groups": "of a radio, TV, telephone, internet, etc."
+      },
+      {
+        "definition": "An action, change or process done to convey information and thus reduce uncertainty.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A token ; an indication ; a foreshadowing ; a sign .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Useful information , as opposed to noise .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A simple interprocess communication used to notify a process or thread of an occurrence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Unix"
+        ],
+        "label_groups": "computing , Unix"
+      },
+      {
+        "definition": "A signalling interaction between cells",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      }
+    ],
+    "main_definition": "A sequence of states representing an encoded message in a communication channel.",
+    "secondary_definitions": [
+      "Any variation of a quantity or change in an entity over time that conveys information upon detection.",
+      "A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.",
+      "An on-off light, semaphore , or other device used to give an indication to another person.",
+      "( of a radio, TV, telephone, internet, etc. ) An electromagnetic action, normally a voltage that is a function of time, that conveys the information of the radio or TV program or of communication with another party.",
+      "An action, change or process done to convey information and thus reduce uncertainty.",
+      "A token ; an indication ; a foreshadowing ; a sign .",
+      "Useful information , as opposed to noise .",
+      "( computing , Unix ) A simple interprocess communication used to notify a process or thread of an occurrence.",
+      "( biochemistry ) A signalling interaction between cells"
+    ]
+  }
+]

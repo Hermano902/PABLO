@@ -1,0 +1,49 @@
+[
+  {
+    "word": "hemorrhage",
+    "lemma": "hemorrhage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɛm(ə)ɹɪd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hemorrhages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A heavy release of blood within or from the body.",
+        "examples": [
+          "We got news that he died of a hemorrhage ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sudden or significant loss",
+        "examples": [
+          "the fiscal hemorrhage that has resulted from financial globalization"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "A heavy release of blood within or from the body.",
+    "secondary_definitions": [
+      "( figurative ) A sudden or significant loss"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "immutable",
+    "lemma": "immutable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unable to be changed without exception .",
+        "examples": [
+          "The government has enacted an immutable law."
+        ],
+        "synonyms": [
+          "unchangeable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not able to be altered in the memory after its value is set initially .",
+        "examples": [
+          "Constants are immutable ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a variable"
+        ],
+        "label_groups": "programming , of a variable"
+      }
+    ],
+    "main_definition": "Unable to be changed without exception .",
+    "secondary_definitions": [
+      "( programming , of a variable ) Not able to be altered in the memory after its value is set initially ."
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "word": "flag",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "N:3",
+    "V:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 22,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 19,
+      "examples": 11,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\flag.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\flag.json"
+  },
+  "timestamp": "2025-08-19T03:46:45.174380Z"
+}

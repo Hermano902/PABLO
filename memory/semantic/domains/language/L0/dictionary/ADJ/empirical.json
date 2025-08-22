@@ -1,0 +1,64 @@
+[
+  {
+    "word": "empirical",
+    "lemma": "empirical",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpɪɹɪkəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more empirical",
+          "SUP": "most empirical"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pertaining to or based on experience , as opposed to theory .",
+        "examples": [
+          "The lengths were calculated according to the empirical rules of the trade.",
+          "For some presumptive diagnoses, empirical antibiotic therapy begins immediately, whereas specific antibiotic therapy must await the results of the culture and sensitivity test."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "theoretical"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Pertaining to, derived from, or testable by observations made using the physical senses or using instruments which extend the senses.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Verifiable by means of scientific experimentation .",
+        "examples": [
+          "demonstrable with empirical evidence"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "anecdotal",
+          "theoretical"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy of science"
+        ],
+        "label_groups": "philosophy of science"
+      }
+    ],
+    "main_definition": "Pertaining to or based on experience , as opposed to theory .",
+    "secondary_definitions": [
+      "Pertaining to, derived from, or testable by observations made using the physical senses or using instruments which extend the senses.",
+      "( philosophy of science ) Verifiable by means of scientific experimentation ."
+    ]
+  }
+]

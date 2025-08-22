@@ -1,0 +1,92 @@
+[
+  {
+    "word": "untie",
+    "lemma": "untie",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈtaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unties",
+          "PT": "untied",
+          "PAP": "untied",
+          "PRP": "untying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To loosen , as something interlaced or knotted ; to disengage the parts of.",
+        "examples": [
+          "to untie a knot"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To free from fastening or from restraint; to let loose; to unbind .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To resolve ; to unfold; to clear.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To become untied or loosed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "In the Perl programming language , to undo the process of tying , so that a variable uses default instead of custom functionality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To loosen , as something interlaced or knotted ; to disengage the parts of.",
+    "secondary_definitions": [
+      "( transitive ) To free from fastening or from restraint; to let loose; to unbind .",
+      "To resolve ; to unfold; to clear.",
+      "( intransitive ) To become untied or loosed.",
+      "( programming , transitive ) In the Perl programming language , to undo the process of tying , so that a variable uses default instead of custom functionality."
+    ]
+  }
+]

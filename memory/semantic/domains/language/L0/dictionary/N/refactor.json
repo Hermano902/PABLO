@@ -1,0 +1,37 @@
+[
+  {
+    "word": "refactor",
+    "lemma": "refactor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "refactors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process by which source code is refactored.",
+        "examples": [
+          "We don't have time for a major refactor : we're shipping in two weeks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) The process by which source code is refactored.",
+    "secondary_definitions": []
+  }
+]

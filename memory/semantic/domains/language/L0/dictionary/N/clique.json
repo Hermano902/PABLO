@@ -1,0 +1,62 @@
+[
+  {
+    "word": "clique",
+    "lemma": "clique",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kliːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cliques"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small, exclusive group of individuals, usually according to lifestyle or social status; a cabal .",
+        "examples": [
+          "This school used to be really friendly, but now everyone keeps to their own cliques ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A subgraph isomorphic to a complete graph .",
+        "examples": [
+          "The problem of finding the largest clique in an arbitrary graph is NP-complete."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      },
+      {
+        "definition": "A group of related web sites that link to each other, like a webring but with exclusive membership determined by the clique owner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "A small, exclusive group of individuals, usually according to lifestyle or social status; a cabal .",
+    "secondary_definitions": [
+      "( graph theory ) A subgraph isomorphic to a complete graph .",
+      "( Internet ) A group of related web sites that link to each other, like a webring but with exclusive membership determined by the clique owner."
+    ]
+  }
+]

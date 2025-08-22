@@ -1,0 +1,68 @@
+[
+  {
+    "word": "dine",
+    "lemma": "dine",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dines",
+          "PT": "dined",
+          "PAP": "dined",
+          "PRP": "dining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To eat ; to eat dinner or supper .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To give a dinner to; to furnish with the chief meal; to feed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To dine upon; to have to eat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( intransitive ) To eat ; to eat dinner or supper .",
+    "secondary_definitions": [
+      "( transitive ) To give a dinner to; to furnish with the chief meal; to feed .",
+      "( transitive , obsolete ) To dine upon; to have to eat."
+    ]
+  }
+]

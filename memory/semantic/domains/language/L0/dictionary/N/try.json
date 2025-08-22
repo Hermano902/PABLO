@@ -1,0 +1,114 @@
+[
+  {
+    "word": "try",
+    "lemma": "try",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹaɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An attempt .",
+        "examples": [
+          "I gave unicycling a try but I couldn’t do it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An act of tasting or sampling.",
+        "examples": [
+          "I gave sushi a try but I didn’t like it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A score in rugby league and rugby union , analogous to a touchdown in American football.",
+        "examples": [
+          "Today I scored my first try ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rugby"
+        ],
+        "label_groups": "rugby"
+      },
+      {
+        "definition": "A screen, or sieve, for grain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "dialect",
+          "obsolete"
+        ],
+        "label_groups": "UK , dialect , obsolete"
+      },
+      {
+        "definition": "A field goal or extra point",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American football"
+        ],
+        "label_groups": "American football"
+      },
+      {
+        "definition": "A move that almost solves a chess problem , except that Black has a unique defense.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      },
+      {
+        "definition": "A block of code that may trigger exceptions the programmer expects to catch, usually demarcated by the keyword try .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "An attempt .",
+    "secondary_definitions": [
+      "An act of tasting or sampling.",
+      "( rugby ) A score in rugby league and rugby union , analogous to a touchdown in American football.",
+      "( UK , dialect , obsolete ) A screen, or sieve, for grain.",
+      "( American football ) A field goal or extra point",
+      "( chess ) A move that almost solves a chess problem , except that Black has a unique defense.",
+      "( programming ) A block of code that may trigger exceptions the programmer expects to catch, usually demarcated by the keyword try ."
+    ]
+  }
+]

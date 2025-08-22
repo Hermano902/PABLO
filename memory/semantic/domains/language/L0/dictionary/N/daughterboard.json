@@ -1,0 +1,40 @@
+[
+  {
+    "word": "daughterboard",
+    "lemma": "daughterboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɔːtəbɔː(ɹ)d/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "daughterboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A circuit board that is an extension of a motherboard or other card .",
+        "examples": [],
+        "synonyms": [
+          "daughtercard",
+          "mezzanine board",
+          "piggyback board"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "electronics"
+        ],
+        "label_groups": "computing , electronics"
+      }
+    ],
+    "main_definition": "( computing , electronics ) A circuit board that is an extension of a motherboard or other card .",
+    "secondary_definitions": []
+  }
+]

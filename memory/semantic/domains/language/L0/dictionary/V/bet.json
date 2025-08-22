@@ -1,0 +1,74 @@
+[
+  {
+    "word": "bet",
+    "lemma": "bet",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bets",
+          "PT": "bet",
+          "PAP": "bet",
+          "PRP": "betting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stake or pledge upon the outcome of an event; to wager .",
+        "examples": [
+          "I('ll) bet I can run faster than you.",
+          "I bet you dinner at the Ritz that you can't run faster than me.",
+          "I bet (ted) her £5 it wouldn't rain all week."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ditransitive"
+        ],
+        "label_groups": "transitive , ditransitive"
+      },
+      {
+        "definition": "To be sure of something; to be able to count on something.",
+        "examples": [
+          "Fancy going for a drink after work? / You bet I do!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place money into the pot in order to require others do the same, usually only used for the first person to place money in the pot on each round.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poker"
+        ],
+        "label_groups": "poker"
+      }
+    ],
+    "main_definition": "( transitive , ditransitive ) To stake or pledge upon the outcome of an event; to wager .",
+    "secondary_definitions": [
+      "( transitive ) To be sure of something; to be able to count on something.",
+      "( poker ) To place money into the pot in order to require others do the same, usually only used for the first person to place money in the pot on each round."
+    ]
+  }
+]

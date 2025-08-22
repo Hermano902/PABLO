@@ -1,0 +1,77 @@
+[
+  {
+    "word": "computer",
+    "lemma": "computer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpjuːtə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "computers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person employed to perform computations ; one who computes .",
+        "examples": [],
+        "synonyms": [
+          "computator",
+          "mental calculator",
+          "human calculator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A male computer .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by restriction",
+              "chiefly historical"
+            ],
+            "label_groups": "by restriction , chiefly historical"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "now rare",
+          "chiefly historical"
+        ],
+        "label_groups": "now rare , chiefly historical",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A programmable electronic device that performs mathematical calculations and logical operations , especially one that can process , store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media.",
+        "examples": [
+          "I spend around 6 hours a day at the computer .",
+          "As well as saving the photos on my computer , I have them backed up on a USB drive.",
+          "David is a computer expert.",
+          "Janet works at the computer store."
+        ],
+        "synonyms": [
+          "processor",
+          "'puter",
+          "box",
+          "machine",
+          "calculator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 20th c."
+      }
+    ],
+    "main_definition": "( now rare , chiefly historical ) A person employed to perform computations ; one who computes . [from 17th c.]",
+    "secondary_definitions": [
+      "A programmable electronic device that performs mathematical calculations and logical operations , especially one that can process , store and retrieve large amounts of data very quickly; now especially, a small one for personal or home use employed for manipulating text or graphics, accessing the Internet, or playing games or media. [from 20th c.]"
+    ]
+  }
+]

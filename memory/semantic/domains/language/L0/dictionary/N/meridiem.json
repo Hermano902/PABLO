@@ -1,0 +1,51 @@
+[
+  {
+    "word": "meridiem",
+    "lemma": "meridiem",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "meridiems"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Midday , noon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "rare"
+        ],
+        "label_groups": "uncountable , rare"
+      },
+      {
+        "definition": "The property of a timestamp of being either a.m. or p.m.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing"
+        ],
+        "label_groups": "countable , computing"
+      }
+    ],
+    "main_definition": "( uncountable , rare ) Midday , noon .",
+    "secondary_definitions": [
+      "( countable , computing ) The property of a timestamp of being either a.m. or p.m."
+    ]
+  }
+]

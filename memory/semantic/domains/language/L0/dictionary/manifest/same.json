@@ -1,0 +1,47 @@
+{
+  "word": "same",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "PRON",
+    "INTJ",
+    "ADV:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PRON": {
+      "definitions": 4,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\same.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\same.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\same.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\same.json"
+  },
+  "timestamp": "2025-08-19T14:29:58.028297Z"
+}

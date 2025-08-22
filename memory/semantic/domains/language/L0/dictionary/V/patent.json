@@ -1,0 +1,78 @@
+[
+  {
+    "word": "patent",
+    "lemma": "patent",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpeɪtənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "patents",
+          "PT": "patented",
+          "PAP": "patented",
+          "PRP": "patenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To ( successfully ) register (a new invention ) with a government agency to obtain the sole privilege of its manufacture , sale , and use for a specified period .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To obtain (over a piece of real property ) a specific grant of ownership .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US",
+              "historical"
+            ],
+            "label_groups": "US , historical"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To be closely associated or identified with (something); to monopolize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "( transitive , law )",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To be closely associated or identified with (something); to monopolize ."
+    ]
+  }
+]

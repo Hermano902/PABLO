@@ -1,0 +1,100 @@
+[
+  {
+    "word": "hole",
+    "lemma": "hole",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/həʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "holes",
+          "PT": "holed",
+          "PAP": "holed",
+          "PRP": "holing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make holes in (an object or surface).",
+        "examples": [
+          "Shrapnel holed the ship's hull."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To destroy .",
+        "examples": [
+          "She completely holed the argument."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To go into a hole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To drive into a hole, as an animal, or a billiard ball or golf ball.",
+        "examples": [
+          "Woods holed a standard three foot putt"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cut, dig, or bore a hole or holes in.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make holes in (an object or surface).",
+    "secondary_definitions": [
+      "( transitive , by extension ) To destroy .",
+      "( intransitive ) To go into a hole.",
+      "( transitive ) To drive into a hole, as an animal, or a billiard ball or golf ball.",
+      "( transitive ) To cut, dig, or bore a hole or holes in."
+    ]
+  }
+]

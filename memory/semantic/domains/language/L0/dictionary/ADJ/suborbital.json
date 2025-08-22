@@ -1,0 +1,55 @@
+[
+  {
+    "word": "suborbital",
+    "lemma": "suborbital",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ɔː(ɹ)bɪtəl",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not reaching orbit ; having a trajectory that does not reach orbital velocity and so must return to ground eventually.",
+        "examples": [
+          "The first rocket test was suborbital ; it didn't even get off the ground but rather exploded on the launchpad."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "Below the orbit of the eye .",
+        "examples": [],
+        "synonyms": [
+          "infraorbital"
+        ],
+        "antonyms": [
+          "supraorbital"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      }
+    ],
+    "main_definition": "( astronomy ) Not reaching orbit ; having a trajectory that does not reach orbital velocity and so must return to ground eventually.",
+    "secondary_definitions": [
+      "( anatomy ) Below the orbit of the eye ."
+    ]
+  }
+]

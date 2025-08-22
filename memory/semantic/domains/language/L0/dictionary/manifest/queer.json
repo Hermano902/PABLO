@@ -1,0 +1,46 @@
+{
+  "word": "queer",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V",
+    "ADV"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 6,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\queer.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\queer.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\queer.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\queer.json"
+  },
+  "timestamp": "2025-08-19T12:57:50.100608Z"
+}

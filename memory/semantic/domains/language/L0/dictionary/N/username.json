@@ -1,0 +1,44 @@
+[
+  {
+    "word": "username",
+    "lemma": "username",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "usernames"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A name or string of characters used as a person's identification on an individual computer system .",
+        "examples": [
+          "His username and password on his Apple PC is VolvestarcXXX."
+        ],
+        "synonyms": [
+          "access",
+          "access code",
+          "credential",
+          "handle",
+          "identity",
+          "login name"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A name or string of characters used as a person's identification on an individual computer system .",
+    "secondary_definitions": []
+  }
+]

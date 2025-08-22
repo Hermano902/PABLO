@@ -1,0 +1,45 @@
+[
+  {
+    "word": "chronogram",
+    "lemma": "chronogram",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chronograms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sentence or inscription whose letters , when interpreted according to a system (such as Roman numerals ) in which letters correspond to numeric values, stand for a particular date (usually the date of inscription) when rearranged.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A phylogenetic tree that has branch spans proportional to evolutionary time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "A sentence or inscription whose letters , when interpreted according to a system (such as Roman numerals ) in which letters correspond to numeric values, stand for a particular date (usually the date of inscription) when rearranged.",
+    "secondary_definitions": [
+      "( genetics ) A phylogenetic tree that has branch spans proportional to evolutionary time."
+    ]
+  }
+]

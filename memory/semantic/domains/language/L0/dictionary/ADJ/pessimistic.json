@@ -1,0 +1,58 @@
+[
+  {
+    "word": "pessimistic",
+    "lemma": "pessimistic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɛ.səˈmɪs.tɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more pessimistic",
+          "SUP": "most pessimistic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Marked by pessimism and little hopefulness ; expecting the worst .",
+        "examples": [
+          "a pessimistic view of the future"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Pertaining to the worst-case scenario .",
+        "examples": [
+          "a pessimistic estimate"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Taking out exclusive locks on data to prevent conflicts with other processes that might modify it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Marked by pessimism and little hopefulness ; expecting the worst .",
+    "secondary_definitions": [
+      "Pertaining to the worst-case scenario .",
+      "( computing ) Taking out exclusive locks on data to prevent conflicts with other processes that might modify it."
+    ]
+  }
+]

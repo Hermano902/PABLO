@@ -1,0 +1,57 @@
+[
+  {
+    "word": "embedded",
+    "lemma": "embedded",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈbɛdɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more embedded",
+          "SUP": "most embedded"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Part of; firmly , or securely surrounded ; lodged solidly into; deep-rooted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Partially buried in concrete or planted in earth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not minimal with respect to inclusion (among associated primes ), i.e. having a proper sub-ideal which is an associated prime.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "isolated"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of an associated prime of a module"
+        ],
+        "label_groups": "algebra , of an associated prime of a module"
+      }
+    ],
+    "main_definition": "Part of; firmly , or securely surrounded ; lodged solidly into; deep-rooted .",
+    "secondary_definitions": [
+      "Partially buried in concrete or planted in earth .",
+      "( algebra , of an associated prime of a module ) Not minimal with respect to inclusion (among associated primes ), i.e. having a proper sub-ideal which is an associated prime."
+    ]
+  }
+]

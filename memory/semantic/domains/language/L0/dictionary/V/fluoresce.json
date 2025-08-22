@@ -1,0 +1,69 @@
+[
+  {
+    "word": "fluoresce",
+    "lemma": "fluoresce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fləˈɹɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fluoresces",
+          "PT": "fluoresced",
+          "PAP": "fluoresced",
+          "PRP": "fluorescing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To emit electromagnetic radiation , especially visible light, when absorbing radiation of some other wavelength .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physics"
+        ],
+        "label_groups": "intransitive , physics"
+      },
+      {
+        "definition": "To cause to fluoresce; to make fluorescent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physics"
+        ],
+        "label_groups": "transitive , physics"
+      },
+      {
+        "definition": "Of colours, to be very bright ; to be so bright as to appear to radiate as a light source.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive , physics ) To emit electromagnetic radiation , especially visible light, when absorbing radiation of some other wavelength .",
+    "secondary_definitions": [
+      "( transitive , physics ) To cause to fluoresce; to make fluorescent .",
+      "( intransitive ) Of colours, to be very bright ; to be so bright as to appear to radiate as a light source."
+    ]
+  }
+]

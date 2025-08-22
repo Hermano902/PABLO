@@ -1,0 +1,99 @@
+[
+  {
+    "word": "identifier",
+    "lemma": "identifier",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "identifiers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who identifies ; a person who establishes the identity of someone or something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something that identifies or uniquely points to something or someone else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who identifies as a particular type or role; one who says and believes that they are a certain thing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A guidebook that helps determine the specific class of an object (such as a mushroom, herb, fish, bird, drug, or mineral), or its individual identity (such as that of a star).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A formal name used in source code to refer to a variable, function, procedure, package, etc. or in an operating system to refer to a process, user, group, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "operating systems"
+        ],
+        "label_groups": "programming , operating systems"
+      },
+      {
+        "definition": "A code that distinguishes a particular element from all other elements in a document .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "HTML"
+        ],
+        "label_groups": "HTML"
+      },
+      {
+        "definition": "A primary key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "Someone who identifies ; a person who establishes the identity of someone or something.",
+    "secondary_definitions": [
+      "Something that identifies or uniquely points to something or someone else.",
+      "One who identifies as a particular type or role; one who says and believes that they are a certain thing.",
+      "A guidebook that helps determine the specific class of an object (such as a mushroom, herb, fish, bird, drug, or mineral), or its individual identity (such as that of a star).",
+      "( programming , operating systems ) A formal name used in source code to refer to a variable, function, procedure, package, etc. or in an operating system to refer to a process, user, group, etc.",
+      "( HTML ) A code that distinguishes a particular element from all other elements in a document .",
+      "( databases ) A primary key ."
+    ]
+  }
+]

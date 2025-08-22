@@ -1,0 +1,60 @@
+[
+  {
+    "word": "subdomain",
+    "lemma": "subdomain",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪn",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subdomains"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A domain or sphere that is part of a larger domain or sphere.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A domain name that has been prefaced with additional parts separated with periods .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "An additional part prefaced to a domain name .",
+        "examples": [
+          "In en.wiktionary.org , en is a subdomain ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "A domain or sphere that is part of a larger domain or sphere.",
+    "secondary_definitions": [
+      "( Internet ) A domain name that has been prefaced with additional parts separated with periods .",
+      "( Internet ) An additional part prefaced to a domain name ."
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "stoichiometry",
+    "lemma": "stoichiometry",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌstɔɪ.kiˈɒm.ə.tɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "stoichiometries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The study and calculation of quantitative (measurable) relationships of the reactants and products in chemical reactions (chemical equations).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "chemistry"
+        ],
+        "label_groups": "uncountable , chemistry"
+      },
+      {
+        "definition": "The quantitative relationship between the reactants and products of a specific reaction or equation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "chemistry"
+        ],
+        "label_groups": "countable , chemistry"
+      }
+    ],
+    "main_definition": "( uncountable , chemistry ) The study and calculation of quantitative (measurable) relationships of the reactants and products in chemical reactions (chemical equations).",
+    "secondary_definitions": [
+      "( countable , chemistry ) The quantitative relationship between the reactants and products of a specific reaction or equation."
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "obverse",
+    "lemma": "obverse",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "obverses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The heads side of a coin , or the side of a medal or badge that has the principal design .",
+        "examples": [
+          "The medal had a cross on the obverse and had a name inscribed on the reverse."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "reverse"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A proposition obtained by obversion , e.g. All men are mortal => No man is immortal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "The heads side of a coin , or the side of a medal or badge that has the principal design .",
+    "secondary_definitions": [
+      "( logic ) A proposition obtained by obversion , e.g. All men are mortal => No man is immortal ."
+    ]
+  }
+]

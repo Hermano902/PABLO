@@ -1,0 +1,63 @@
+[
+  {
+    "word": "convict",
+    "lemma": "convict",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈvɪkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "convicts",
+          "PT": "convicted",
+          "PAP": "convicted",
+          "PRP": "convicting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To find guilty , as a result of legal proceedings, or ( informal ) in a moral sense.",
+        "examples": [
+          "He was a convicted felon.",
+          "His remarks convicted him of a lack of sensitivity."
+        ],
+        "synonyms": [
+          "sentence",
+          "disapprove"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To convince , persuade ; to cause (someone) to believe in (something).",
+        "examples": [],
+        "synonyms": [
+          "convince"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly religion"
+        ],
+        "label_groups": "chiefly religion"
+      }
+    ],
+    "main_definition": "( transitive , law ) To find guilty , as a result of legal proceedings, or ( informal ) in a moral sense.",
+    "secondary_definitions": [
+      "( chiefly religion ) To convince , persuade ; to cause (someone) to believe in (something)."
+    ]
+  }
+]

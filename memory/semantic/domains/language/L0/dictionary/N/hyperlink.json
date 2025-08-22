@@ -1,0 +1,55 @@
+[
+  {
+    "word": "hyperlink",
+    "lemma": "hyperlink",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhaɪpə(ɹ)ˌlɪŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hyperlinks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action .",
+        "examples": [
+          "Click the hyperlink to go to the next page."
+        ],
+        "synonyms": [
+          "link"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "The URL or other address that defines a hyperlink's target or function .",
+        "examples": [
+          "Copy the hyperlink and paste it into an email."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "( Internet ) Some text or a graphic in an electronic document that can be activated to display another document or trigger an action .",
+    "secondary_definitions": [
+      "( by extension ) The URL or other address that defines a hyperlink's target or function ."
+    ]
+  }
+]

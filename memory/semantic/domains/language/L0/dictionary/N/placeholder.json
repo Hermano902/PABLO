@@ -1,0 +1,47 @@
+[
+  {
+    "word": "placeholder",
+    "lemma": "placeholder",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpleɪsˌhoʊldɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "placeholders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something used or included temporarily or as a substitute for something that is not known or must remain generic ; that which holds , denotes or reserves a place for something to come later.",
+        "examples": [
+          "This data is a placeholder , so you'll want to include the real numbers as soon as you have them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A non-editable caption initially displayed in a blank text box to indicate its function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      }
+    ],
+    "main_definition": "Something used or included temporarily or as a substitute for something that is not known or must remain generic ; that which holds , denotes or reserves a place for something to come later.",
+    "secondary_definitions": [
+      "( graphical user interface ) A non-editable caption initially displayed in a blank text box to indicate its function."
+    ]
+  }
+]

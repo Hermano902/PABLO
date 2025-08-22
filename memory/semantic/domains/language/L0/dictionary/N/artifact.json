@@ -1,0 +1,132 @@
+[
+  {
+    "word": "artifact",
+    "lemma": "artifact",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɑːtɪfækt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "artifacts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An object made or shaped by human hand or labor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An object made or shaped by some agent or intelligence , not necessarily of direct human origin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something viewed as a product of human agency or conception rather than an inherent element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A finding or structure in an experiment or investigation that is not a true feature of the object under observation , but is a result of external action , the test arrangement , or an experimental error .",
+        "examples": [
+          "The spot on his lung turned out to be an artifact of the X-ray process."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An object, such as a tool , ornament , or weapon of archaeological or historical interest , especially such an object found at an archaeological excavation .",
+        "examples": [
+          "The dig produced many Roman artifacts ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaeology"
+        ],
+        "label_groups": "archaeology"
+      },
+      {
+        "definition": "An appearance or structure in protoplasm due to death , the method of preparation of specimens , or the use of reagents , and not present during life .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "A perceptible distortion that appears in an audio or video file or an image as a result of applying a lossy compression or other inexact processing algorithm or of physical interference in an acquisition process.",
+        "examples": [
+          "This JPEG image has been so highly compressed that it has unsightly artifacts , making it unsuitable for the cover of our magazine.",
+          "The opacity in his chest radiograph turned out to be an artifact due to the film."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "radiology"
+        ],
+        "label_groups": "computing , radiology"
+      },
+      {
+        "definition": "Ellipsis of build artifact .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      },
+      {
+        "definition": "Any object in the collection of a museum .  May be used sensu stricto only for human-made objects, or may include ones that are not human-made.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "museology"
+        ],
+        "label_groups": "museology"
+      }
+    ],
+    "main_definition": "An object made or shaped by human hand or labor .",
+    "secondary_definitions": [
+      "An object made or shaped by some agent or intelligence , not necessarily of direct human origin .",
+      "Something viewed as a product of human agency or conception rather than an inherent element .",
+      "A finding or structure in an experiment or investigation that is not a true feature of the object under observation , but is a result of external action , the test arrangement , or an experimental error .",
+      "( archaeology ) An object, such as a tool , ornament , or weapon of archaeological or historical interest , especially such an object found at an archaeological excavation .",
+      "( biology ) An appearance or structure in protoplasm due to death , the method of preparation of specimens , or the use of reagents , and not present during life .",
+      "( computing , radiology ) A perceptible distortion that appears in an audio or video file or an image as a result of applying a lossy compression or other inexact processing algorithm or of physical interference in an acquisition process.",
+      "( software engineering ) Ellipsis of build artifact .",
+      "( museology ) Any object in the collection of a museum .  May be used sensu stricto only for human-made objects, or may include ones that are not human-made."
+    ]
+  }
+]

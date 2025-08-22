@@ -1,0 +1,49 @@
+[
+  {
+    "word": "birthplace",
+    "lemma": "birthplace",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɝθˌpleɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "birthplaces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The location where a person was born .",
+        "examples": [
+          "Portsmouth was Charles Dickens’ birthplace ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The location where something was created or devised.",
+        "examples": [
+          "Coney Island was the birthplace of the hot dog."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "The location where a person was born .",
+    "secondary_definitions": [
+      "( by extension ) The location where something was created or devised."
+    ]
+  }
+]

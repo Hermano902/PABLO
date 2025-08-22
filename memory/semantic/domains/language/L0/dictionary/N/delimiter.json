@@ -1,0 +1,47 @@
+[
+  {
+    "word": "delimiter",
+    "lemma": "delimiter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈlɪmɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "delimiters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which delimits , that separates .",
+        "examples": [
+          "A comma-delimited file has commas as the delimiter , separating each field of the file."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A unique character or series of characters that indicates the beginning or end of a specific statement, string or function body set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "That which delimits , that separates .",
+    "secondary_definitions": [
+      "( computing ) A unique character or series of characters that indicates the beginning or end of a specific statement, string or function body set."
+    ]
+  }
+]

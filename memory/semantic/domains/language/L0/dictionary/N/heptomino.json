@@ -1,0 +1,35 @@
+[
+  {
+    "word": "heptomino",
+    "lemma": "heptomino",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "heptominoes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A polyomino made up of seven squares.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A polyomino made up of seven squares.",
+    "secondary_definitions": []
+  }
+]

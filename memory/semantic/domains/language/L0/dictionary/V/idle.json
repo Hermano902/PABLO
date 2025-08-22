@@ -1,0 +1,82 @@
+[
+  {
+    "word": "idle",
+    "lemma": "idle",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈaɪd(ə)l/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "idles",
+          "PT": "idled",
+          "PAP": "idled",
+          "PRP": "idling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To spend in idleness ; to waste ; to consume .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lose or spend time doing nothing, or without being employed in business .",
+        "examples": [
+          "to idle in an IRC channel"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Of an engine: to run at a slow speed , or out of gear ; to tick over .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause (an engine) to idle(3)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To spend in idleness ; to waste ; to consume .",
+    "secondary_definitions": [
+      "( intransitive ) To lose or spend time doing nothing, or without being employed in business .",
+      "( intransitive ) Of an engine: to run at a slow speed , or out of gear ; to tick over .",
+      "( transitive ) To cause (an engine) to idle(3)"
+    ]
+  }
+]

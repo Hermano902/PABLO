@@ -1,0 +1,55 @@
+[
+  {
+    "word": "handshake",
+    "lemma": "handshake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhændˌʃeɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "handshakes",
+          "PT": "handshaked",
+          "PAP": "handshaked",
+          "PRP": "handshaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform a handshake; to shake hands .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To perform a handshake with another device.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "intransitive"
+        ],
+        "label_groups": "computing , intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To perform a handshake; to shake hands .",
+    "secondary_definitions": [
+      "( computing , intransitive ) To perform a handshake with another device."
+    ]
+  }
+]

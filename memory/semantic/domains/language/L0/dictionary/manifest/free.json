@@ -1,0 +1,46 @@
+{
+  "word": "free",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "V",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 27,
+      "examples": 22,
+      "synonyms": 19,
+      "antonyms": 16,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\free.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\free.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\free.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\free.json"
+  },
+  "timestamp": "2025-08-19T04:05:04.230473Z"
+}

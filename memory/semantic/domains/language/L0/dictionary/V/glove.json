@@ -1,0 +1,72 @@
+[
+  {
+    "word": "glove",
+    "lemma": "glove",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡlʌv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "gloves",
+          "PT": "gloved",
+          "PAP": "gloved",
+          "PRP": "gloving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To catch the ball in a baseball mitt .",
+        "examples": [
+          "He gloved the line drive for the third out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "baseball",
+          "transitive"
+        ],
+        "label_groups": "baseball , transitive"
+      },
+      {
+        "definition": "To put a glove or gloves on.",
+        "examples": [
+          "Maxwell gloved his hand so that he wouldn't leave fingerprints, then pulled the trigger."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To touch (a delivery ) with one's glove while the gloved hand is on the bat. Under the rules of cricket, the batsman is deemed to have hit the ball.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "( baseball , transitive ) To catch the ball in a baseball mitt .",
+    "secondary_definitions": [
+      "( transitive ) To put a glove or gloves on.",
+      "( cricket ) To touch (a delivery ) with one's glove while the gloved hand is on the bat. Under the rules of cricket, the batsman is deemed to have hit the ball."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "publisher",
+    "lemma": "publisher",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpʌblɪʃɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "publishers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or (especially) a company who publishes , especially books.",
+        "examples": [],
+        "synonyms": [
+          "publishing house",
+          "elided",
+          "pubber",
+          "pub"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A system or component that allows other components ( subscribers ) to receive notifications of something, such as an event .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A preacher who is a Jehovah's Witness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Christianity"
+        ],
+        "label_groups": "Christianity"
+      }
+    ],
+    "main_definition": "A person or (especially) a company who publishes , especially books.",
+    "secondary_definitions": [
+      "( programming ) A system or component that allows other components ( subscribers ) to receive notifications of something, such as an event .",
+      "( Christianity ) A preacher who is a Jehovah's Witness ."
+    ]
+  }
+]

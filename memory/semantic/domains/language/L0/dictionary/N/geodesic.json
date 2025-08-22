@@ -1,0 +1,63 @@
+[
+  {
+    "word": "geodesic",
+    "lemma": "geodesic",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌd͡ʒiː.əˈdɛs.ɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "geodesics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The shortest curve between two points on a specific surface .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A segment of a great circle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "spherical geometry"
+        ],
+        "label_groups": "spherical geometry"
+      },
+      {
+        "definition": "A course allowing the parallel-transport of vectors along a course that causes tangent vectors to remain tangent vectors throughout that course ( a straight curve , a line that is straight ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "sciences"
+        ],
+        "label_groups": "mathematics , sciences"
+      }
+    ],
+    "main_definition": "( geometry ) The shortest curve between two points on a specific surface .",
+    "secondary_definitions": [
+      "( spherical geometry ) A segment of a great circle .",
+      "( mathematics , sciences ) A course allowing the parallel-transport of vectors along a course that causes tangent vectors to remain tangent vectors throughout that course ( a straight curve , a line that is straight ) ."
+    ]
+  }
+]

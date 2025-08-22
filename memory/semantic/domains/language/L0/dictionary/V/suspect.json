@@ -1,0 +1,100 @@
+[
+  {
+    "word": "suspect",
+    "lemma": "suspect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌs.pɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "suspects",
+          "PT": "suspected",
+          "PAP": "suspected",
+          "PRP": "suspecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To imagine or suppose (something) to be true , or to exist , without proof .",
+        "examples": [
+          "to suspect the presence of disease"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To distrust or have doubts about (something or someone).",
+        "examples": [
+          "to suspect the truth of a story"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To believe (someone) to be guilty .",
+        "examples": [
+          "I suspect him of being the thief."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have suspicion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To look up to ; to respect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To imagine or suppose (something) to be true , or to exist , without proof .",
+    "secondary_definitions": [
+      "( transitive ) To distrust or have doubts about (something or someone).",
+      "( transitive ) To believe (someone) to be guilty .",
+      "( intransitive ) To have suspicion .",
+      "( transitive , obsolete ) To look up to ; to respect ."
+    ]
+  }
+]

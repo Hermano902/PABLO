@@ -1,0 +1,79 @@
+[
+  {
+    "word": "verb",
+    "lemma": "verb",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vɜːb/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "verbs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word that indicates an action, event, or state of being.",
+        "examples": [
+          "The word “speak” is an English verb ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "Any word ; a vocable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An action as opposed to a trait or thing.",
+        "examples": [
+          "Kindness is a verb , not an adjective. You're only kind if you do kind things."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "A named command that performs a specific operation on an object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( grammar ) A word that indicates an action, event, or state of being.",
+    "secondary_definitions": [
+      "( obsolete ) Any word ; a vocable .",
+      "( figurative ) An action as opposed to a trait or thing.",
+      "( programming ) A named command that performs a specific operation on an object ."
+    ]
+  }
+]

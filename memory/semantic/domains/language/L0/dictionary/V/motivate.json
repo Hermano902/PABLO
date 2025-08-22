@@ -1,0 +1,74 @@
+[
+  {
+    "word": "motivate",
+    "lemma": "motivate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈməʊ.tɪ.veɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "motivates",
+          "PT": "motivated",
+          "PAP": "motivated",
+          "PRP": "motivating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To provide someone with an incentive to do something; to encourage ; to actuate .",
+        "examples": [
+          "The weekly staff meeting was meant to motivate employees."
+        ],
+        "synonyms": [
+          "drive",
+          "spur"
+        ],
+        "antonyms": [
+          "demotivate",
+          "discourage",
+          "dissuade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To animate ; to propel ; to cause to take action.",
+        "examples": [
+          "He was motivated purely by self-interest.",
+          "Steam- motivated pumps are used in manufacturing."
+        ],
+        "synonyms": [
+          "drive",
+          "move",
+          "push"
+        ],
+        "antonyms": [
+          "demotivate",
+          "halt",
+          "stop"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To provide someone with an incentive to do something; to encourage ; to actuate .",
+    "secondary_definitions": [
+      "( transitive ) To animate ; to propel ; to cause to take action."
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "ladle",
+    "lemma": "ladle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪ.dəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ladles",
+          "PT": "ladled",
+          "PAP": "ladled",
+          "PRP": "ladling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pour or serve something with a ladle.",
+        "examples": [
+          "One worker ladled molten steel into the shot sleeve.",
+          "The host ladled the soup into her guests' bowls."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To pour or serve something with a ladle.",
+    "secondary_definitions": []
+  }
+]

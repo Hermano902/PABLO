@@ -1,0 +1,49 @@
+[
+  {
+    "word": "associativity",
+    "lemma": "associativity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "associativities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The condition of being associative .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "The property of an operator which determines how it is grouped with operators of the same precedence in the absence of parentheses.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( algebra ) The condition of being associative .",
+    "secondary_definitions": [
+      "( programming ) The property of an operator which determines how it is grouped with operators of the same precedence in the absence of parentheses."
+    ]
+  }
+]

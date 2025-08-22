@@ -1,0 +1,68 @@
+[
+  {
+    "word": "clang",
+    "lemma": "clang",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/klæŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "clangs",
+          "PT": "clanged",
+          "PAP": "clanged",
+          "PRP": "clanging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strike (objects) together so as to produce a clang .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give out a clang ; to resound .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To utter a word or phrase linked only by sound and not by meaning , characteristic of some mental disorders.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology",
+          "psychiatry"
+        ],
+        "label_groups": "psychology , psychiatry"
+      }
+    ],
+    "main_definition": "( transitive ) To strike (objects) together so as to produce a clang .",
+    "secondary_definitions": [
+      "( intransitive ) To give out a clang ; to resound .",
+      "( psychology , psychiatry ) To utter a word or phrase linked only by sound and not by meaning , characteristic of some mental disorders."
+    ]
+  }
+]

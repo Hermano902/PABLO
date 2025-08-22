@@ -1,0 +1,49 @@
+[
+  {
+    "word": "cladogram",
+    "lemma": "cladogram",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cladograms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A branching treelike graphical representation of the phylogenetic relationships between organisms showing which taxa have branched from common ancestors .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "A phylogenetic tree that is strictly the outcome of a cladistic analysis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phylogenetics"
+        ],
+        "label_groups": "phylogenetics"
+      }
+    ],
+    "main_definition": "( taxonomy ) A branching treelike graphical representation of the phylogenetic relationships between organisms showing which taxa have branched from common ancestors .",
+    "secondary_definitions": [
+      "( phylogenetics ) A phylogenetic tree that is strictly the outcome of a cladistic analysis."
+    ]
+  }
+]

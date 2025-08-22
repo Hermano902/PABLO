@@ -1,0 +1,78 @@
+[
+  {
+    "word": "provoke",
+    "lemma": "provoke",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈvəʊk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "provokes",
+          "PT": "provoked",
+          "PAP": "provoked",
+          "PRP": "provoking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause someone to become annoyed or angry.",
+        "examples": [
+          "Don't provoke the dog; it may try to bite you."
+        ],
+        "synonyms": [
+          "harass",
+          "set off",
+          "vex"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bring about a reaction.",
+        "examples": [],
+        "synonyms": [
+          "incite",
+          "inflame",
+          "instigate",
+          "whip up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To appeal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To cause someone to become annoyed or angry.",
+    "secondary_definitions": [
+      "( transitive ) To bring about a reaction.",
+      "( obsolete ) To appeal ."
+    ]
+  }
+]

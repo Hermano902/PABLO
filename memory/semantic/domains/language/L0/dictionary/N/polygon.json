@@ -1,0 +1,76 @@
+[
+  {
+    "word": "polygon",
+    "lemma": "polygon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɒlɪɡən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polygons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A plane figure bounded by edges that are all straight lines .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The boundary of such a figure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A figure comprising vertices and (not necessarily straight) edges, alternatingly .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "more generally"
+        ],
+        "label_groups": "geometry , more generally"
+      },
+      {
+        "definition": "Such a figure and its interior , taken as a whole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A plane figure bounded by edges that are all straight lines .",
+    "secondary_definitions": [
+      "( geometry ) The boundary of such a figure.",
+      "( geometry , more generally ) A figure comprising vertices and (not necessarily straight) edges, alternatingly .",
+      "( geometry ) Such a figure and its interior , taken as a whole."
+    ]
+  }
+]

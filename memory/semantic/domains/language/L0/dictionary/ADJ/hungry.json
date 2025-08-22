@@ -1,0 +1,78 @@
+[
+  {
+    "word": "hungry",
+    "lemma": "hungry",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈhʌŋ.ɡɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "hungrier",
+          "SUP": "hungriest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Affected by hunger ; having the physical need for food.",
+        "examples": [
+          "My kids go to bed hungry every night because I haven’t got much money for food.",
+          "He was so hungry he could eat two burgers.",
+          "I woke up very hungry and made some toast."
+        ],
+        "synonyms": [
+          "famished",
+          "peckish",
+          "starving"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing hunger.",
+        "examples": [
+          "All this gardening is hungry work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Eager ; having an avid desire or appetite for something.",
+        "examples": [
+          "young and hungry",
+          "the students are hungry to learn"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Not rich or fertile ; poor ; barren ; starved .",
+        "examples": [
+          "a hungry soil"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Affected by hunger ; having the physical need for food.",
+    "secondary_definitions": [
+      "Causing hunger.",
+      "( figuratively ) Eager ; having an avid desire or appetite for something.",
+      "Not rich or fertile ; poor ; barren ; starved ."
+    ]
+  }
+]

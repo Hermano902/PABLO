@@ -1,0 +1,49 @@
+[
+  {
+    "word": "unary",
+    "lemma": "unary",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈjuːnəɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Consisting of or involving a single element or component .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of an operation , function , procedure , or logic gate , taking exactly one operand , argument , parameter , or input ; having domain of dimension 1.",
+        "examples": [
+          "Negation is a unary operation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "programming",
+          "computer engineering"
+        ],
+        "label_groups": "mathematics , programming , computer engineering"
+      }
+    ],
+    "main_definition": "Consisting of or involving a single element or component .",
+    "secondary_definitions": [
+      "( mathematics , programming , computer engineering ) Of an operation , function , procedure , or logic gate , taking exactly one operand , argument , parameter , or input ; having domain of dimension 1."
+    ]
+  }
+]

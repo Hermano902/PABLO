@@ -1,0 +1,77 @@
+[
+  {
+    "word": "queue",
+    "lemma": "queue",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kjuː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "queues",
+          "PT": "queued",
+          "PAP": "queued",
+          "PRP": "queueing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put oneself or itself at the end of a waiting line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To arrange themselves into a physical waiting queue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To add to a queue data structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To fasten the hair into a queue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive ) To put oneself or itself at the end of a waiting line.",
+    "secondary_definitions": [
+      "( intransitive ) To arrange themselves into a physical waiting queue.",
+      "( computing , transitive ) To add to a queue data structure.",
+      "To fasten the hair into a queue."
+    ]
+  }
+]

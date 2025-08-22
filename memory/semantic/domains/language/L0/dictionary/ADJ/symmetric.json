@@ -1,0 +1,60 @@
+[
+  {
+    "word": "symmetric",
+    "lemma": "symmetric",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/sɪˈmɛt.ɹɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more symmetric",
+          "SUP": "most symmetric"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Symmetrical .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a relation R on a set S , such that xRy if and only if yRx for all members x and y of S (that is, if the relation holds between any element and a second, it also holds between the second and the first).",
+        "examples": [
+          "\"Is a sibling of\" is a symmetric relation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      },
+      {
+        "definition": "Using the same key (or keys that are trivially related) for both encryption and decryption .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "Symmetrical .",
+    "secondary_definitions": [
+      "( set theory ) Of a relation R on a set S , such that xRy if and only if yRx for all members x and y of S (that is, if the relation holds between any element and a second, it also holds between the second and the first).",
+      "( cryptography ) Using the same key (or keys that are trivially related) for both encryption and decryption ."
+    ]
+  }
+]

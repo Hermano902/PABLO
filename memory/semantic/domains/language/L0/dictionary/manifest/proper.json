@@ -1,0 +1,37 @@
+{
+  "word": "proper",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 22,
+      "examples": 6,
+      "synonyms": 28,
+      "antonyms": 17,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\proper.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\proper.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\proper.json"
+  },
+  "timestamp": "2025-08-19T12:38:36.682681Z"
+}

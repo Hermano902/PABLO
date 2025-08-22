@@ -1,0 +1,91 @@
+[
+  {
+    "word": "manager",
+    "lemma": "manager",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæn.ɪ.d͡ʒə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "managers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+        "examples": [],
+        "synonyms": [
+          "administrator",
+          "boss",
+          "chief",
+          "controller",
+          "comptroller",
+          "foreman",
+          "head",
+          "head man",
+          "overseer",
+          "organizer",
+          "superintendent",
+          "supervisor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "management"
+        ],
+        "label_groups": "management"
+      },
+      {
+        "definition": "The head coach .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "baseball",
+          "soccer"
+        ],
+        "label_groups": "baseball , soccer"
+      },
+      {
+        "definition": "An administrator , for a singer or group. (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A window or application whose purpose is to give the user the control over some aspect of the system.",
+        "examples": [
+          "a file manager ; a task manager ; Program Manager"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software"
+        ],
+        "label_groups": "software"
+      }
+    ],
+    "main_definition": "( management ) A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+    "secondary_definitions": [
+      "( baseball , soccer ) The head coach .",
+      "( music ) An administrator , for a singer or group. (Can we add an example for this sense?)",
+      "( software ) A window or application whose purpose is to give the user the control over some aspect of the system."
+    ]
+  }
+]

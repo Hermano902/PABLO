@@ -1,0 +1,51 @@
+[
+  {
+    "word": "admittedly",
+    "lemma": "admittedly",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more admittedly",
+          "SUP": "most admittedly"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "As is acknowledged to be true ; by general admission ; confessedly .",
+        "examples": [
+          "Admittedly , vandalism is a bit of a problem.",
+          "She was admittedly the one who killed the baron."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Signals a concession followed by a counterpoint usually headed by but .",
+        "examples": [
+          "It's only a theory, admittedly , but it might work.",
+          "Admittedly he can't swim, but he still loves going to the seaside anyway."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "conjunctive"
+        ],
+        "label_groups": "conjunctive"
+      }
+    ],
+    "main_definition": "As is acknowledged to be true ; by general admission ; confessedly .",
+    "secondary_definitions": [
+      "( conjunctive ) Signals a concession followed by a counterpoint usually headed by but ."
+    ]
+  }
+]

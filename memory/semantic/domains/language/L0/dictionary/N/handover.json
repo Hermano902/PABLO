@@ -1,0 +1,76 @@
+[
+  {
+    "word": "handover",
+    "lemma": "handover",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "handovers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The transference of authority , control , power or knowledge from one agency to another, or from one state to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The information passed on in such a case.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the process of transferring an ongoing call or data session from one channel connected to the core network to another channel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cellular telecommunications"
+        ],
+        "label_groups": "cellular telecommunications"
+      },
+      {
+        "definition": "the process of transferring satellite control responsibility from one earth station to another without loss or interruption of service.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "satellite telecommunications"
+        ],
+        "label_groups": "satellite telecommunications"
+      },
+      {
+        "definition": "The transfer of goods from the dealer to the purchaser, often of illegal goods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The transference of authority , control , power or knowledge from one agency to another, or from one state to another.",
+    "secondary_definitions": [
+      "The information passed on in such a case.",
+      "( cellular telecommunications ) the process of transferring an ongoing call or data session from one channel connected to the core network to another channel.",
+      "( satellite telecommunications ) the process of transferring satellite control responsibility from one earth station to another without loss or interruption of service.",
+      "The transfer of goods from the dealer to the purchaser, often of illegal goods."
+    ]
+  }
+]

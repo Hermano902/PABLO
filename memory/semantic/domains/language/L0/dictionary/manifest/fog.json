@@ -1,0 +1,31 @@
+{
+  "word": "fog",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 1,
+      "synonyms": 9,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 12,
+      "examples": 1,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fog.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fog.json"
+  },
+  "timestamp": "2025-08-19T03:54:25.849736Z"
+}

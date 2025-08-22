@@ -1,0 +1,52 @@
+[
+  {
+    "word": "spectroscopy",
+    "lemma": "spectroscopy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/spɛkˈtɹɒs.kə.piː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spectroscopies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The scientific study of spectra .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy",
+          "physics",
+          "uncountable"
+        ],
+        "label_groups": "astronomy , physics , uncountable"
+      },
+      {
+        "definition": "The use of spectrometers in chemical analysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "analytical chemistry",
+          "countable"
+        ],
+        "label_groups": "analytical chemistry , countable"
+      }
+    ],
+    "main_definition": "( astronomy , physics , uncountable ) The scientific study of spectra .",
+    "secondary_definitions": [
+      "( analytical chemistry , countable ) The use of spectrometers in chemical analysis ."
+    ]
+  }
+]

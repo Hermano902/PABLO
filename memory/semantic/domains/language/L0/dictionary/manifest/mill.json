@@ -1,0 +1,33 @@
+{
+  "word": "mill",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4",
+    "V:2",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 29,
+      "examples": 20,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 17,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mill.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mill.json"
+  },
+  "timestamp": "2025-08-19T09:11:11.798928Z"
+}

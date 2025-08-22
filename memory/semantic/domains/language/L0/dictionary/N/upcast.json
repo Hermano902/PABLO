@@ -1,0 +1,110 @@
+[
+  {
+    "word": "upcast",
+    "lemma": "upcast",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈʌpkæst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "upcasts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A cast; a throw.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bowling"
+        ],
+        "label_groups": "bowling"
+      },
+      {
+        "definition": "The ventilating shaft of a mine out of which the air passes after having circulated through the mine.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "A current of air passed along such a shaft.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "An upset, as from a carriage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Scotland"
+        ],
+        "label_groups": "Scotland"
+      },
+      {
+        "definition": "A taunt; a reproach.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Scotland"
+        ],
+        "label_groups": "Scotland"
+      },
+      {
+        "definition": "A cast from subtype to supertype .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A message transmitted via upcasting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( bowling ) A cast; a throw.",
+    "secondary_definitions": [
+      "( mining ) The ventilating shaft of a mine out of which the air passes after having circulated through the mine.",
+      "( mining ) A current of air passed along such a shaft.",
+      "( Scotland ) An upset, as from a carriage.",
+      "( Scotland ) A taunt; a reproach.",
+      "( computing ) A cast from subtype to supertype .",
+      "A message transmitted via upcasting."
+    ]
+  }
+]

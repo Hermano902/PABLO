@@ -1,0 +1,109 @@
+[
+  {
+    "word": "hurt",
+    "lemma": "hurt",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hɜːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hurts",
+          "PT": "hurt",
+          "PAP": "hurt",
+          "PRP": "hurting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause (a person or animal) physical pain and/or injury .",
+        "examples": [
+          "If anybody hurts my little brother, I will get upset.",
+          "This injection might hurt a little. Your arm will hurting you for a while ."
+        ],
+        "synonyms": [
+          "dere",
+          "injure",
+          "wound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To cause (somebody) emotional pain .",
+        "examples": [
+          "He was deeply hurt he hadn’t been invited.",
+          "The insult hurt ."
+        ],
+        "synonyms": [
+          "affront",
+          "wound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To be painful .",
+        "examples": [
+          "Does your leg still hurt ? / It is starting to feel better."
+        ],
+        "synonyms": [
+          "ache",
+          "smart"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "stative"
+        ],
+        "label_groups": "intransitive , stative"
+      },
+      {
+        "definition": "To damage , harm , impair , undermine , impede .",
+        "examples": [
+          "This latest gaffe hurts the legislator’s reelection prospects still further.",
+          "Copying and pasting identical portions of source code hurts maintainability, because the programmer has to keep all those copies synchronized.",
+          "It wouldn't hurt to check the weather forecast and find out if it's going to rain."
+        ],
+        "synonyms": [
+          "mar",
+          "thwart"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To cause (a person or animal) physical pain and/or injury .",
+    "secondary_definitions": [
+      "( transitive , intransitive ) To cause (somebody) emotional pain .",
+      "( intransitive , stative ) To be painful .",
+      "( transitive , intransitive ) To damage , harm , impair , undermine , impede ."
+    ]
+  }
+]

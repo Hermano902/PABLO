@@ -1,0 +1,46 @@
+{
+  "word": "new",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 12,
+      "examples": 5,
+      "synonyms": 23,
+      "antonyms": 19,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\new.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\new.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\new.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\new.json"
+  },
+  "timestamp": "2025-08-19T10:03:26.195459Z"
+}

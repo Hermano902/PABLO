@@ -1,0 +1,47 @@
+{
+  "word": "piano",
+  "pos_order": [
+    "N",
+    "V",
+    "ADV",
+    "ADJ",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\piano.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\piano.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\piano.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\piano.json"
+  },
+  "timestamp": "2025-08-19T11:49:42.789932Z"
+}

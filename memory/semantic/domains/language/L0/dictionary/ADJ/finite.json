@@ -1,0 +1,65 @@
+[
+  {
+    "word": "finite",
+    "lemma": "finite",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪ.naɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more finite",
+          "SUP": "most finite"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having an end or limit ; ( of a quantity ) constrained by bounds ; ( of a set ) whose number of elements is a natural number .",
+        "examples": [],
+        "synonyms": [
+          "limited"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Limited by (i.e. inflected for) person or number.",
+        "examples": [
+          "The \"goes\" in \"he goes\" is a finite form of a verb, the third-person singular."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "as opposed to infinite or nonfinite"
+        ],
+        "label_groups": "grammar , as opposed to infinite or nonfinite",
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "over a ring ) finitely generated (as a module ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ring theory",
+          "of a module (or algebra"
+        ],
+        "label_groups": "ring theory , of a module (or algebra"
+      }
+    ],
+    "main_definition": "Having an end or limit ; ( of a quantity ) constrained by bounds ; ( of a set ) whose number of elements is a natural number .",
+    "secondary_definitions": [
+      "( grammar , as opposed to infinite or nonfinite ) Limited by (i.e. inflected for) person or number. [from 19th c.]",
+      "( ring theory , of a module (or algebra ) over a ring ) finitely generated (as a module )."
+    ]
+  }
+]

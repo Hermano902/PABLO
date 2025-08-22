@@ -1,0 +1,129 @@
+[
+  {
+    "word": "transpose",
+    "lemma": "transpose",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈpəʊz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "transposes",
+          "PT": "transposed",
+          "PAP": "transposed",
+          "PRP": "transposing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reverse or change the order of (two or more things); to swap or interchange .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rewrite or perform (a piece) in another key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "To move (a term ) from one side of an algebraic equation to the other, reversing the sign of the term.",
+        "examples": [],
+        "synonyms": [
+          "reduce",
+          "cancel"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "algebra"
+        ],
+        "label_groups": "transitive , algebra"
+      },
+      {
+        "definition": "To rearrange elements in a matrix , by interchanging their respective row and column positional indicators.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "linear algebra"
+        ],
+        "label_groups": "transitive , linear algebra"
+      },
+      {
+        "definition": "To reverse the direction of every edge of (a graph).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "graph theory"
+        ],
+        "label_groups": "transitive , graph theory"
+      },
+      {
+        "definition": "To give force to a directive by passing appropriate implementation measures.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "chiefly of the European Union"
+        ],
+        "label_groups": "transitive , law , chiefly of the European Union"
+      },
+      {
+        "definition": "To reach a position that may also be obtained from a different move order .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chess"
+        ],
+        "label_groups": "intransitive , chess"
+      }
+    ],
+    "main_definition": "( transitive ) To reverse or change the order of (two or more things); to swap or interchange .",
+    "secondary_definitions": [
+      "( transitive , music ) To rewrite or perform (a piece) in another key .",
+      "( transitive , algebra ) To move (a term ) from one side of an algebraic equation to the other, reversing the sign of the term.",
+      "( transitive , linear algebra ) To rearrange elements in a matrix , by interchanging their respective row and column positional indicators.",
+      "( transitive , graph theory ) To reverse the direction of every edge of (a graph).",
+      "( transitive , law , chiefly of the European Union ) To give force to a directive by passing appropriate implementation measures.",
+      "( intransitive , chess ) To reach a position that may also be obtained from a different move order ."
+    ]
+  }
+]

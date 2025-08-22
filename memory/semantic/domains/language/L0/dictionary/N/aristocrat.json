@@ -1,0 +1,54 @@
+[
+  {
+    "word": "aristocrat",
+    "lemma": "aristocrat",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæɹɪstəˌkɹæt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "aristocrats"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One of the aristocracy , nobility , or people of rank in a community; one of a ruling class; a noble (originally in Revolutionary France).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A proponent of aristocracy; an advocate of aristocratic government .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cipher in which the original punctuation and spacing are retained.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "One of the aristocracy , nobility , or people of rank in a community; one of a ruling class; a noble (originally in Revolutionary France).",
+    "secondary_definitions": [
+      "A proponent of aristocracy; an advocate of aristocratic government .",
+      "( cryptography ) A cipher in which the original punctuation and spacing are retained."
+    ]
+  }
+]

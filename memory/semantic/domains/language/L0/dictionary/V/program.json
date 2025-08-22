@@ -1,0 +1,101 @@
+[
+  {
+    "word": "program",
+    "lemma": "program",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹəʊˌɡɹæm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "programs",
+          "PT": "programmed",
+          "PAP": "programmed",
+          "PRP": "programming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enter a program or other instructions into (a computer or other electronic device ) to instruct it to do a particular task.",
+        "examples": [
+          "He programmed the DVR to record his favorite show."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To develop (software) by writing program code.",
+        "examples": [
+          "I programmed a small game as a demonstration."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To put together the schedule of an event .",
+        "examples": [
+          "Mary will program Tuesday’s festivities."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To schedule the programming ; to determine what will be broadcast .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "broadcasting"
+        ],
+        "label_groups": "broadcasting"
+      },
+      {
+        "definition": "To cause to automatically behave in a particular way.",
+        "examples": [
+          "The lab rat was programmed to press the lever when the bell rang."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To enter a program or other instructions into (a computer or other electronic device ) to instruct it to do a particular task.",
+    "secondary_definitions": [
+      "( transitive ) To develop (software) by writing program code.",
+      "( transitive ) To put together the schedule of an event .",
+      "( broadcasting ) To schedule the programming ; to determine what will be broadcast .",
+      "( transitive ) To cause to automatically behave in a particular way."
+    ]
+  }
+]

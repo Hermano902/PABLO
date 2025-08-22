@@ -1,0 +1,50 @@
+[
+  {
+    "word": "total",
+    "lemma": "total",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtəʊ.təl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "totals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An amount obtained by the addition of smaller amounts.",
+        "examples": [
+          "A total of £145 was raised by the bring-and-buy stall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Sum .",
+        "examples": [
+          "The total of 4, 5 and 6 is 15."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "mathematics"
+        ],
+        "label_groups": "informal , mathematics"
+      }
+    ],
+    "main_definition": "An amount obtained by the addition of smaller amounts.",
+    "secondary_definitions": [
+      "( informal , mathematics ) Sum ."
+    ]
+  }
+]

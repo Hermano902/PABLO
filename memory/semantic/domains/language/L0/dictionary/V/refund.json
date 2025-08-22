@@ -1,0 +1,90 @@
+[
+  {
+    "word": "refund",
+    "lemma": "refund",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈfʌnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "refunds",
+          "PT": "refunded",
+          "PAP": "refunded",
+          "PRP": "refunding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To return ( money ) to (someone); to reimburse .",
+        "examples": [
+          "If you find this computer for sale anywhere at a lower price, we’ll refund you the difference."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To obtain a refund.",
+        "examples": [
+          "this game sucks, imma refund it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To supply (someone) again with funds .",
+        "examples": [
+          "to refund a railroad loan"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To pour back (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "transitive , obsolete , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To return ( money ) to (someone); to reimburse .",
+    "secondary_definitions": [
+      "( transitive , colloquial ) To obtain a refund.",
+      "( transitive , obsolete ) To supply (someone) again with funds .",
+      "( transitive , obsolete , rare ) To pour back (something)."
+    ]
+  }
+]

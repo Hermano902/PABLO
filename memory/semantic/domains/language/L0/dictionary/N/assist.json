@@ -1,0 +1,74 @@
+[
+  {
+    "word": "assist",
+    "lemma": "assist",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈsɪst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "assists"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A helpful action or an act of giving.",
+        "examples": [
+          "The foundation gave a much needed assist to the shelter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of helping another player score points or goals",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A decisive pass made to the goal scorer",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "soccer"
+            ],
+            "label_groups": "soccer"
+          },
+          {
+            "definition": "A defensive play, allowing a teammate to record a putout.",
+            "examples": [
+              "He had two assists in the game."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "baseball"
+            ],
+            "label_groups": "baseball"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      }
+    ],
+    "main_definition": "A helpful action or an act of giving.",
+    "secondary_definitions": [
+      "( sports ) The act of helping another player score points or goals"
+    ]
+  }
+]

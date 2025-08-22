@@ -1,0 +1,39 @@
+[
+  {
+    "word": "fermion",
+    "lemma": "fermion",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɜːmɪɒn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fermions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any elementary or composite particle that has half-integer spin and thus obeys Fermi–Dirac statistics and the Pauli exclusion principle ( equivalently , a particle for which the wavefunction of any system of identical such particles changes sign whenever two are swapped); a baryon , a lepton or a quark ; ( slightly more loosely ) any such particle or any composite particle composed of fermions.",
+        "examples": [
+          "The fermions treated by the Standard Model are the (composite) baryons and the (elementary) leptons and quarks .",
+          "According to the spin–statistics theorem, the wavefunction of a system of identical fermions (particles of half-integer spin) is antisymmetric under the operation of swapping any two particles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "particle physics",
+          "Standard Model"
+        ],
+        "label_groups": "particle physics , Standard Model"
+      }
+    ],
+    "main_definition": "( particle physics , Standard Model ) Any elementary or composite particle that has half-integer spin and thus obeys Fermi–Dirac statistics and the Pauli exclusion principle ( equivalently , a particle for which the wavefunction of any system of identical such particles changes sign whenever two are swapped); a baryon , a lepton or a quark ; ( slightly more loosely ) any such particle or any composite particle composed of fermions.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "undercook",
+    "lemma": "undercook",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌndɚ.kʊk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "undercooks",
+          "PT": "undercooked",
+          "PAP": "undercooked",
+          "PRP": "undercooking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cook insufficiently .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "overcook",
+          "scorch"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To underdo .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "overdo"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To cook insufficiently .",
+    "secondary_definitions": [
+      "( transitive , figurative ) To underdo ."
+    ]
+  }
+]

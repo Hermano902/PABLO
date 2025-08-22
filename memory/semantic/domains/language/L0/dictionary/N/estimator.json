@@ -1,0 +1,45 @@
+[
+  {
+    "word": "estimator",
+    "lemma": "estimator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛs.tɪˌmeɪ.tə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "estimators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who estimates , especially one who estimates costs",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A function of a random sample of a population used to estimate some parameter of the whole population",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "A person who estimates , especially one who estimates costs",
+    "secondary_definitions": [
+      "( mathematics ) A function of a random sample of a population used to estimate some parameter of the whole population"
+    ]
+  }
+]

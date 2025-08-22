@@ -1,0 +1,35 @@
+[
+  {
+    "word": "diffeology",
+    "lemma": "diffeology",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diffeologies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The set of smooth parametrizations of a given set X {\\displaystyle X} ; the set of smooth maps S → X {\\displaystyle S\\rightarrow X} , where S {\\displaystyle S} is any open set ⊆ R n {\\displaystyle \\subseteq \\mathbb {R} ^{n}} ; the theory of such constructs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "differential geometry"
+        ],
+        "label_groups": "differential geometry"
+      }
+    ],
+    "main_definition": "( differential geometry ) The set of smooth parametrizations of a given set X {\\displaystyle X} ; the set of smooth maps S → X {\\displaystyle S\\rightarrow X} , where S {\\displaystyle S} is any open set ⊆ R n {\\displaystyle \\subseteq \\mathbb {R} ^{n}} ; the theory of such constructs.",
+    "secondary_definitions": []
+  }
+]

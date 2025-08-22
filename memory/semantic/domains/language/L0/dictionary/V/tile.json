@@ -1,0 +1,104 @@
+[
+  {
+    "word": "tile",
+    "lemma": "tile",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/taɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tiles",
+          "PT": "tiled",
+          "PAP": "tiled",
+          "PRP": "tiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To cover with tiles.",
+        "examples": [
+          "The handyman tiled the kitchen.",
+          "White marble tiled the bathroom."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( graphical user interface ) To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing theory ) To optimize (a loop in program code) by means of the tiling technique.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Freemasonry ) To seal a lodge against intrusions from unauthorised people.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To cover with tiles.",
+    "secondary_definitions": [
+      "( graphical user interface ) To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).",
+      "( computing theory ) To optimize (a loop in program code) by means of the tiling technique.",
+      "( Freemasonry ) To seal a lodge against intrusions from unauthorised people."
+    ]
+  },
+  {
+    "word": "tile",
+    "lemma": "tile",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/taɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tiles",
+          "PT": "tiled",
+          "PAP": "tiled",
+          "PRP": "tiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To protect from the intrusion of the uninitiated.",
+        "examples": [
+          "to tile a Masonic lodge",
+          "tile the door"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To protect from the intrusion of the uninitiated.",
+    "secondary_definitions": []
+  }
+]

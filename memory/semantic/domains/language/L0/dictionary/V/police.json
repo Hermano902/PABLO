@@ -1,0 +1,72 @@
+[
+  {
+    "word": "police",
+    "lemma": "police",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pəˈliːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "polices",
+          "PT": "policed",
+          "PAP": "policed",
+          "PRP": "policing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enforce the law and keep order among (a group).",
+        "examples": [
+          "Extra security was hired to police the crowd at the big game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To clean up an area.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "military",
+          "slang"
+        ],
+        "label_groups": "ambitransitive , military , slang"
+      },
+      {
+        "definition": "To enforce norms or standards upon.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To enforce the law and keep order among (a group).",
+    "secondary_definitions": [
+      "( ambitransitive , military , slang ) To clean up an area.",
+      "( transitive , figurative ) To enforce norms or standards upon."
+    ]
+  }
+]

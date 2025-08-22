@@ -1,0 +1,84 @@
+[
+  {
+    "word": "inaccuracy",
+    "lemma": "inaccuracy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈakjʊɹəsi/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inaccuracies"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The property of being inaccurate ; lack of accuracy .",
+        "examples": [],
+        "synonyms": [
+          "imprecision",
+          "incorrectness",
+          "inexactness"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A statement, passage etc. that is inaccurate or false .",
+        "examples": [],
+        "synonyms": [
+          "error",
+          "mistake",
+          "fault"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Incorrect calibration of a measuring device, or incorrect use; lack of precision .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A move that is considered suboptimal , but not as bad as a blunder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      }
+    ],
+    "main_definition": "( uncountable ) The property of being inaccurate ; lack of accuracy .",
+    "secondary_definitions": [
+      "( countable ) A statement, passage etc. that is inaccurate or false .",
+      "( uncountable ) Incorrect calibration of a measuring device, or incorrect use; lack of precision .",
+      "( chess ) A move that is considered suboptimal , but not as bad as a blunder ."
+    ]
+  }
+]

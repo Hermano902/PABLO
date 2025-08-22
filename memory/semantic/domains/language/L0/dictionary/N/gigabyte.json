@@ -1,0 +1,51 @@
+[
+  {
+    "word": "gigabyte",
+    "lemma": "gigabyte",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɪɡəbaɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gigabytes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One billion (10 , or 1,000,000,000) bytes or 1,000 megabytes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "formal"
+        ],
+        "label_groups": "computing , formal"
+      },
+      {
+        "definition": "A gibibyte .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      }
+    ],
+    "main_definition": "( computing , formal ) One billion (10 , or 1,000,000,000) bytes or 1,000 megabytes .",
+    "secondary_definitions": [
+      "( computing , informal ) A gibibyte ."
+    ]
+  }
+]

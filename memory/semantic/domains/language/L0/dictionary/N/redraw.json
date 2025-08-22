@@ -1,0 +1,48 @@
+[
+  {
+    "word": "redraw",
+    "lemma": "redraw",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "redraws"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An update to the screen display.",
+        "examples": [
+          "Redraws need to be synchronised with the screen refresh to avoid a flickery display."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graphical user interface"
+        ],
+        "label_groups": "computing , graphical user interface"
+      },
+      {
+        "definition": "An act of drawing (selecting at random) again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing , graphical user interface ) An update to the screen display.",
+    "secondary_definitions": [
+      "An act of drawing (selecting at random) again."
+    ]
+  }
+]

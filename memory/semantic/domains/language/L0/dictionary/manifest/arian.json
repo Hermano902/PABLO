@@ -1,0 +1,32 @@
+{
+  "word": "arian",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "N:2",
+    "ADJ:2",
+    "N:3",
+    "ADJ:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\arian.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\arian.json"
+  },
+  "timestamp": "2025-08-18T21:14:30.578754Z"
+}

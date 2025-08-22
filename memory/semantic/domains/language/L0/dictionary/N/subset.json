@@ -1,0 +1,51 @@
+[
+  {
+    "word": "subset",
+    "lemma": "subset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbˌsɛt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subsets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A set A such that every element of A is also an element of S .",
+        "examples": [
+          "The set of integers is a subset of the set of real numbers .",
+          "The set { a , b } {\\displaystyle \\lbrace a,b\\rbrace } is a both a subset and a proper subset of { a , b , c } {\\displaystyle \\lbrace a,b,c\\rbrace } while the set { a , b , c } {\\displaystyle \\lbrace a,b,c\\rbrace } is a subset of { a , b , c } {\\displaystyle \\lbrace a,b,c\\rbrace } but not a proper subset of { a , b , c } {\\displaystyle \\lbrace a,b,c\\rbrace } ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "of a set S"
+        ],
+        "label_groups": "set theory , of a set S"
+      },
+      {
+        "definition": "A group of things or people, all of which are in a specified larger group.",
+        "examples": [
+          "We asked a subset of the population of the town for their opinion."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( set theory , of a set S ) A set A such that every element of A is also an element of S .",
+    "secondary_definitions": [
+      "A group of things or people, all of which are in a specified larger group."
+    ]
+  }
+]

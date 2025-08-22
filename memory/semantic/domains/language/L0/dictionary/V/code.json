@@ -1,0 +1,126 @@
+[
+  {
+    "word": "code",
+    "lemma": "code",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "codes",
+          "PT": "coded",
+          "PAP": "coded",
+          "PRP": "coding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( computing ) To write software programs.",
+        "examples": [
+          "I learned to code on an early home computer in the 1980s."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To add codes to (a data set ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To categorise by assigning identifiers from a schedule , for example CPT coding for medical insurance purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( cryptography ) To encode .",
+        "examples": [
+          "We should code the messages we send out on Usenet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( genetics , intransitive ) To encode a protein.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( medicine ) To call a hospital emergency code .",
+        "examples": [
+          "coding in the CT scanner"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing ) To write software programs.",
+    "secondary_definitions": [
+      "( transitive ) To add codes to (a data set ).",
+      "To categorise by assigning identifiers from a schedule , for example CPT coding for medical insurance purposes.",
+      "( cryptography ) To encode .",
+      "( genetics , intransitive ) To encode a protein.",
+      "( medicine ) To call a hospital emergency code ."
+    ]
+  },
+  {
+    "word": "code",
+    "lemma": "code",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/kəʊd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "codes",
+          "PT": "coded",
+          "PAP": "coded",
+          "PRP": "coding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a patient , to suffer a sudden medical emergency ( a code blue ) such as cardiac arrest .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "( medicine ) Of a patient , to suffer a sudden medical emergency ( a code blue ) such as cardiac arrest .",
+    "secondary_definitions": []
+  }
+]

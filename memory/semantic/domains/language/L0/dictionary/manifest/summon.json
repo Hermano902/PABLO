@@ -1,0 +1,30 @@
+{
+  "word": "summon",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\summon.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\summon.json"
+  },
+  "timestamp": "2025-08-19T18:23:06.022512Z"
+}

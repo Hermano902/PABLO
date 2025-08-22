@@ -1,0 +1,37 @@
+{
+  "word": "crisp",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 8,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 9,
+      "examples": 1,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 11,
+      "examples": 2,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\crisp.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\crisp.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\crisp.json"
+  },
+  "timestamp": "2025-08-19T01:03:15.302101Z"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "word": "incredible",
+    "lemma": "incredible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪŋˈkɹɛdɪbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more incredible",
+          "SUP": "most incredible"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Too implausible to be credible ; beyond belief .",
+        "examples": [],
+        "synonyms": [
+          "noncredible",
+          "unbelievable"
+        ],
+        "antonyms": [
+          "believable",
+          "credible"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literal"
+        ],
+        "label_groups": "literal",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "Amazing ; astonishing ; awe -inspiring.",
+        "examples": [
+          "He was so wrapped up in watching the incredible special effects that he couldn't keep track of the story."
+        ],
+        "synonyms": [
+          "awesome",
+          "unbelievable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Marvellous ; profoundly affecting; wonderful ; excellent .",
+        "examples": [
+          "I had such an incredible slice of pizza last night that I simply can't think about anything else."
+        ],
+        "synonyms": [
+          "awesome",
+          "unbelievable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "( literal ) Too implausible to be credible ; beyond belief . [from 15th c.]",
+    "secondary_definitions": [
+      "( figurative ) Amazing ; astonishing ; awe -inspiring.",
+      "( figurative ) Marvellous ; profoundly affecting; wonderful ; excellent ."
+    ]
+  }
+]

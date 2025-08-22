@@ -1,0 +1,97 @@
+[
+  {
+    "word": "hull",
+    "lemma": "hull",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hʌl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hulls",
+          "PT": "hulled",
+          "PAP": "hulled",
+          "PRP": "hulling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove the outer covering of a fruit or seed.",
+        "examples": [
+          "She sat on the back porch hulling peanuts."
+        ],
+        "synonyms": [
+          "peel",
+          "husk",
+          "shell",
+          "shuck"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To remove the outer covering of a fruit or seed.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "hull",
+    "lemma": "hull",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/hʌl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hulls",
+          "PT": "hulled",
+          "PAP": "hulled",
+          "PRP": "hulling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To drift ; to be carried by the impetus of wind or water on the ship's hull alone, with sails furled.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive",
+          "nautical"
+        ],
+        "label_groups": "obsolete , intransitive , nautical"
+      },
+      {
+        "definition": "To hit (a ship) in the hull with cannon fire etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( obsolete , intransitive , nautical ) To drift ; to be carried by the impetus of wind or water on the ship's hull alone, with sails furled.",
+    "secondary_definitions": [
+      "( transitive ) To hit (a ship) in the hull with cannon fire etc."
+    ]
+  }
+]

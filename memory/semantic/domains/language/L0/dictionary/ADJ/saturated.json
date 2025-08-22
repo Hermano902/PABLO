@@ -1,0 +1,120 @@
+[
+  {
+    "word": "saturated",
+    "lemma": "saturated",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more saturated",
+          "SUP": "most saturated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Full ; unable to hold or contain any more .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Soaked or drenched with moisture .",
+        "examples": [],
+        "synonyms": [
+          "drenched",
+          "sodden"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable"
+        ],
+        "label_groups": "comparable"
+      },
+      {
+        "definition": "Containing all the solute that can normally be dissolved at a given temperature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "chemistry",
+          "of a solution"
+        ],
+        "label_groups": "not comparable , chemistry , of a solution"
+      },
+      {
+        "definition": "Having all available valence bonds filled ; especially of any organic compound containing only single bonds between carbon atoms .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Equal to a union of equivalence classes of ≡ {\\displaystyle \\equiv } ; such that if x ∈ S {\\displaystyle x\\in S} and x ≡ y {\\displaystyle x\\equiv y} then y ∈ S {\\displaystyle y\\in S} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Saturated with respect to the equivalence relation x ≡ y ⟺ f ( x ) = f ( y ) {\\displaystyle x\\equiv y\\iff f(x)=f(y)} (the kernel , sense 10 , of f {\\displaystyle f} ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "especially topology",
+              "with respect to a function f {\\displaystyle f}"
+            ],
+            "label_groups": "mathematics , especially topology , with respect to a function f {\\displaystyle f}"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory",
+          "of a set S {\\displaystyle S}",
+          "with respect to an equivalence relation ≡ {\\displaystyle \\equiv }"
+        ],
+        "label_groups": "mathematics , set theory , of a set S {\\displaystyle S} , with respect to an equivalence relation ≡ {\\displaystyle \\equiv }"
+      },
+      {
+        "definition": "Having a high level of saturation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( not comparable ) Full ; unable to hold or contain any more .",
+    "secondary_definitions": [
+      "( comparable ) Soaked or drenched with moisture .",
+      "( not comparable , chemistry , of a solution ) Containing all the solute that can normally be dissolved at a given temperature .",
+      "( chemistry ) Having all available valence bonds filled ; especially of any organic compound containing only single bonds between carbon atoms .",
+      "( mathematics , set theory , of a set S {\\displaystyle S} , with respect to an equivalence relation ≡ {\\displaystyle \\equiv } ) Equal to a union of equivalence classes of ≡ {\\displaystyle \\equiv } ; such that if x ∈ S {\\displaystyle x\\in S} and x ≡ y {\\displaystyle x\\equiv y} then y ∈ S {\\displaystyle y\\in S} .",
+      "Having a high level of saturation ."
+    ]
+  }
+]

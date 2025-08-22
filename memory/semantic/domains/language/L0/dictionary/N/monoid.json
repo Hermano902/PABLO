@@ -1,0 +1,36 @@
+[
+  {
+    "word": "monoid",
+    "lemma": "monoid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒnɔɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "monoids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A set which is closed under an associative binary operation , and which contains an element which is an identity for the operation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "functional programming"
+        ],
+        "label_groups": "algebra , functional programming"
+      }
+    ],
+    "main_definition": "( algebra , functional programming ) A set which is closed under an associative binary operation , and which contains an element which is an identity for the operation.",
+    "secondary_definitions": []
+  }
+]

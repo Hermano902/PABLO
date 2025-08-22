@@ -1,0 +1,35 @@
+{
+  "word": "drill",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3",
+    "V:4",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 14,
+      "examples": 9,
+      "synonyms": 11,
+      "antonyms": 0,
+      "inflections": 16
+    },
+    "N": {
+      "definitions": 13,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 5
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\drill.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\drill.json"
+  },
+  "timestamp": "2025-08-19T02:25:02.074988Z"
+}

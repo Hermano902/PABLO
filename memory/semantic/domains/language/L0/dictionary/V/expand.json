@@ -1,0 +1,191 @@
+[
+  {
+    "word": "expand",
+    "lemma": "expand",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ænd",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "expands",
+          "PT": "expanded",
+          "PAP": "expanded",
+          "PRP": "expanding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change (something) from a smaller form or size to a larger one; to spread out or lay open.",
+        "examples": [
+          "You can expand this compact umbrella to cover a large table."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To increase the extent , number , volume or scope of (something).",
+        "examples": [
+          "A flower expands its leaves."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To express (something) at length and/or in detail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rewrite (an expression) as a longer, yet equivalent , sum of terms.",
+        "examples": [
+          "Use the binomial theorem to expand ( x + 1 ) 4 {\\displaystyle {(x+1)}^{4}} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "algebra"
+        ],
+        "label_groups": "transitive , algebra"
+      },
+      {
+        "definition": "To become, by rewriting , a longer, yet equivalent , sum of terms.",
+        "examples": [
+          "The expression ( x + 1 ) 4 {\\displaystyle {(x+1)}^{4}} expands to x 4 + 4 x 3 + 6 x 2 + 4 x + 1 {\\displaystyle x^{4}+4x^{3}+6x^{2}+4x+1} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "algebra",
+          "of an expression"
+        ],
+        "label_groups": "intransitive , algebra , of an expression"
+      },
+      {
+        "definition": "To multiply both the numerator and the denominator of a fraction by the same (non-zero) number (which yields a fraction of equal value).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "arithmetic"
+        ],
+        "label_groups": "transitive , arithmetic"
+      },
+      {
+        "definition": "To change or grow from smaller to larger in form, number, or size.",
+        "examples": [
+          "Many materials expand when heated.",
+          "This compact umbrella expands to cover a large table."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To increase in extent, number, volume or scope.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To speak or write at length or in detail .",
+        "examples": [
+          "He expanded on his plans for the business."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To feel generous or optimistic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "In a hierarchical list (such as a directory tree or table of contents ), to show the subentries of (an entry ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "collapse"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To change (something) from a smaller form or size to a larger one; to spread out or lay open.",
+    "secondary_definitions": [
+      "( transitive ) To increase the extent , number , volume or scope of (something).",
+      "( transitive ) To express (something) at length and/or in detail .",
+      "( transitive , algebra ) To rewrite (an expression) as a longer, yet equivalent , sum of terms.",
+      "( intransitive , algebra , of an expression ) To become, by rewriting , a longer, yet equivalent , sum of terms.",
+      "( transitive , arithmetic ) To multiply both the numerator and the denominator of a fraction by the same (non-zero) number (which yields a fraction of equal value).",
+      "( intransitive ) To change or grow from smaller to larger in form, number, or size.",
+      "( intransitive ) To increase in extent, number, volume or scope.",
+      "( intransitive ) To speak or write at length or in detail .",
+      "( intransitive ) To feel generous or optimistic .",
+      "( transitive , computing ) In a hierarchical list (such as a directory tree or table of contents ), to show the subentries of (an entry )."
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "word": "bandwidth",
+    "lemma": "bandwidth",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbændwɪdθ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bandwidths"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The width , usually measured in hertz , of a frequency band .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The width of the smallest frequency band within which the signal can fit.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a signal"
+        ],
+        "label_groups": "of a signal"
+      },
+      {
+        "definition": "The rate of data flow in digital networks typically measured in bits per second; the bitrate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking",
+          "informal"
+        ],
+        "label_groups": "networking , informal"
+      },
+      {
+        "definition": "The capacity , energy or time required.",
+        "examples": [
+          "I think it's a worthy project, but I just don't have the bandwidth right now."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "The minimum , over all orderings of vertices of a given graph , of the length of the longest edge .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "The width , usually measured in hertz , of a frequency band .",
+    "secondary_definitions": [
+      "( of a signal ) The width of the smallest frequency band within which the signal can fit.",
+      "( networking , informal ) The rate of data flow in digital networks typically measured in bits per second; the bitrate .",
+      "( informal ) The capacity , energy or time required.",
+      "( graph theory ) The minimum , over all orderings of vertices of a given graph , of the length of the longest edge ."
+    ]
+  }
+]

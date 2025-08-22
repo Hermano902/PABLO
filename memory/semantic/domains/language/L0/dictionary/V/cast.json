@@ -1,0 +1,486 @@
+[
+  {
+    "word": "cast",
+    "lemma": "cast",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kɑːst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "casts",
+          "PT": "cast",
+          "PAP": "cast",
+          "PRP": "casting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move, or be moved, away.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To throw .",
+            "examples": [],
+            "synonyms": [
+              "fling",
+              "hurl"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "now somewhat literary"
+            ],
+            "label_groups": "now somewhat literary",
+            "dating_raw": "from 13th c."
+          },
+          {
+            "definition": "To throw forward (a fishing line , net etc.) into the sea.",
+            "examples": [],
+            "synonyms": [
+              "project"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To throw down or aside .",
+            "examples": [],
+            "synonyms": [
+              "cast down",
+              "throw down"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "To throw off (the skin ) as a process of growth; to shed the hair or fur of the coat .",
+            "examples": [],
+            "synonyms": [
+              "slough"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of an animal"
+            ],
+            "label_groups": "of an animal",
+            "dating_raw": "from 15th c."
+          },
+          {
+            "definition": "To remove , take off (clothes).",
+            "examples": [],
+            "synonyms": [
+              "doff"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete except in set phrases"
+            ],
+            "label_groups": "obsolete except in set phrases",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To heave the lead and line in order to ascertain the depth of water .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          },
+          {
+            "definition": "To vomit .",
+            "examples": [],
+            "synonyms": [
+              "hurl"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          },
+          {
+            "definition": "To throw up, as a mound, or rampart.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          },
+          {
+            "definition": "To throw out or emit; to exhale .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physical"
+        ],
+        "label_groups": "physical"
+      },
+      {
+        "definition": "To direct (one's eyes, gaze etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 13th c."
+      },
+      {
+        "definition": "To add up (a column of figures , accounts etc.); cross-cast refers to adding up a row of figures.",
+        "examples": [],
+        "synonyms": [
+          "sum",
+          "tally"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated outside accounting"
+        ],
+        "label_groups": "dated outside accounting",
+        "dating_raw": "from 14th c."
+      },
+      {
+        "definition": "To predict, to decide, to plan.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To calculate the astrological value of (a horoscope, birth etc.).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "astrology"
+            ],
+            "label_groups": "astrology",
+            "dating_raw": "from 14th c."
+          },
+          {
+            "definition": "To plan , intend .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete",
+            "dating_raw": "14th–19th c."
+          },
+          {
+            "definition": "To assign (a role in a play or performance ).",
+            "examples": [
+              "The director cast the part carefully."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 18th c."
+          },
+          {
+            "definition": "To assign a role in a play or performance to (an actor).",
+            "examples": [
+              "The director cast John Smith as King Lear."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To describe in an opinionated way. Mostly used with a metaphor involving light .",
+            "examples": [
+              "King John cast his predecessor in a negative light to deflect criticism of his own questionable decisions."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To consider; to turn or revolve in the mind; to plan.",
+            "examples": [
+              "to cast about for reasons"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To impose; to bestow; to rest.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          },
+          {
+            "definition": "To defeat in a lawsuit; to decide against; to convict.",
+            "examples": [
+              "to be cast in damages"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          },
+          {
+            "definition": "To turn (the balance or scale); to overbalance; hence, to make preponderate ; to decide.",
+            "examples": [
+              "a casting voice"
+            ],
+            "synonyms": [
+              "decide",
+              "determine"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "social"
+        ],
+        "label_groups": "social"
+      },
+      {
+        "definition": "To perform, bring forth (a magical spell or enchantment).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To throw (light etc.) on or upon something, or in a given direction.",
+        "examples": [],
+        "synonyms": [
+          "pour",
+          "shed"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To give birth to (a child) prematurely ; to miscarry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "To shape (molten metal etc.) by pouring into a mould ; to make (an object) in such a way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To stereotype or electrotype .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "printing",
+              "dated"
+            ],
+            "label_groups": "printing , dated"
+          }
+        ],
+        "senses": [],
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "To twist or warp (of fabric, timber etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "To bring the bows of a sailing ship on to the required tack just as the anchor is weighed by use of the headsail ; to bring (a ship) round.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To deposit (a ballot or voting paper); to formally register (one's vote).",
+        "examples": [
+          "Time to tell all the ballots cast by voters in the box."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 19th c."
+      },
+      {
+        "definition": "To change a variable type from, for example, integer to real , or integer to text.",
+        "examples": [
+          "To display a number, you need to cast it to a string type."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "Of dogs, hunters: to spread out and search for a scent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hunting"
+        ],
+        "label_groups": "hunting",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "To set (a bone etc.) in a cast.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "To open a circle in order to begin a spell or meeting of witches .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Wicca"
+        ],
+        "label_groups": "Wicca"
+      },
+      {
+        "definition": "To broadcast (video) over the Internet or a local network, especially to one's television .",
+        "examples": [
+          "The streamer was the first to cast footage of the new game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "media"
+        ],
+        "label_groups": "media"
+      }
+    ],
+    "main_definition": "( physical ) To move, or be moved, away.",
+    "secondary_definitions": [
+      "To direct (one's eyes, gaze etc.). [from 13th c.]",
+      "( dated outside accounting ) To add up (a column of figures , accounts etc.); cross-cast refers to adding up a row of figures. [from 14th c.]",
+      "( social ) To predict, to decide, to plan.",
+      "To perform, bring forth (a magical spell or enchantment).",
+      "To throw (light etc.) on or upon something, or in a given direction.",
+      "( archaic ) To give birth to (a child) prematurely ; to miscarry . [from 15th c.]",
+      "To shape (molten metal etc.) by pouring into a mould ; to make (an object) in such a way. [from 15th c.]",
+      "To twist or warp (of fabric, timber etc.). [from 16th c.]",
+      "( nautical ) To bring the bows of a sailing ship on to the required tack just as the anchor is weighed by use of the headsail ; to bring (a ship) round. [from 18th c.]",
+      "To deposit (a ballot or voting paper); to formally register (one's vote). [from 19th c.]",
+      "( computing ) To change a variable type from, for example, integer to real , or integer to text. [from 20th c.]",
+      "( hunting ) Of dogs, hunters: to spread out and search for a scent . [from 18th c.]",
+      "( medicine ) To set (a bone etc.) in a cast.",
+      "( Wicca ) To open a circle in order to begin a spell or meeting of witches .",
+      "( media ) To broadcast (video) over the Internet or a local network, especially to one's television ."
+    ]
+  }
+]

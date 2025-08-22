@@ -1,0 +1,60 @@
+[
+  {
+    "word": "reload",
+    "lemma": "reload",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈləʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reloads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process by which something is reloaded.",
+        "examples": [
+          "Each reload of the weapon took about 30 seconds."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An ammunition cartridge prepared from previously fired ammunition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "firearms"
+        ],
+        "label_groups": "firearms"
+      },
+      {
+        "definition": "A repeated track on a DJ set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "The process by which something is reloaded.",
+    "secondary_definitions": [
+      "( firearms ) An ammunition cartridge prepared from previously fired ammunition.",
+      "( music ) A repeated track on a DJ set."
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "word": "router",
+    "lemma": "router",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹuː.tə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "routers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who routes or directs items from one location to another.",
+        "examples": [
+          "The router directed the movement of the company's trucks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( telecommunications ) Any device that directs packets of information using the equivalent of Open Systems Interconnection layer 3 (network layer) information. Most commonly used in reference to Internet Protocol routers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Internet ) A device that connects local area networks to form a larger internet by, at minimum, selectively passing those datagrams having a destination IP address to the network which is able to deliver them to their destination; a network gateway .",
+        "examples": [
+          "The router was configured to forward packets outside of a certain range of IP addresses to its internet uplink port."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( electronics , electronic design automation ) In integrated circuit or printed circuit board design, an algorithm for adding all wires needed to properly connect all of the placed components while obeying all design rules.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Someone who routes or directs items from one location to another.",
+    "secondary_definitions": [
+      "( telecommunications ) Any device that directs packets of information using the equivalent of Open Systems Interconnection layer 3 (network layer) information. Most commonly used in reference to Internet Protocol routers.",
+      "( Internet ) A device that connects local area networks to form a larger internet by, at minimum, selectively passing those datagrams having a destination IP address to the network which is able to deliver them to their destination; a network gateway .",
+      "( electronics , electronic design automation ) In integrated circuit or printed circuit board design, an algorithm for adding all wires needed to properly connect all of the placed components while obeying all design rules."
+    ]
+  },
+  {
+    "word": "router",
+    "lemma": "router",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈɹuː.tə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "routers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A power tool used in carpentry for cutting grooves .",
+        "examples": [
+          "He made an attractive edge on the table with a router ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A plane made like a spokeshave , for working the inside edges of circular sashes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A plane with a hooked tool protruding far below the sole , for smoothing the bottom of a cavity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A power tool used in carpentry for cutting grooves .",
+    "secondary_definitions": [
+      "A plane made like a spokeshave , for working the inside edges of circular sashes .",
+      "A plane with a hooked tool protruding far below the sole , for smoothing the bottom of a cavity ."
+    ]
+  }
+]

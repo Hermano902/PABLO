@@ -1,0 +1,586 @@
+[
+  {
+    "word": "run",
+    "lemma": "run",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹʌn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "runs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Act or instance of running, of moving rapidly using the feet.",
+        "examples": [
+          "I just got back from my morning run ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Act or instance of hurrying (to or from a place) ( not necessarily on foot ) ; dash or errand , trip .",
+        "examples": [
+          "I need to make a run to the store."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pleasure trip.",
+        "examples": [
+          "Let's go for a run in the car."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Flight , instance or period of fleeing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Migration of fish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of fish that migrate, or ascend a river for the purpose of spawning.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A literal or figurative path or course for movement relating to:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A (regular) trip or route .",
+            "examples": [
+              "The bus on the Cherry Street run is always crowded."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The route taken while running or skiing.",
+            "examples": [
+              "Which run did you do today?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A single trip down a hill, as in skiing and bobsledding .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "skiing",
+              "bobsledding"
+            ],
+            "label_groups": "skiing , bobsledding"
+          },
+          {
+            "definition": "The distance sailed by a ship.",
+            "examples": [
+              "a good run ; a run of fifty miles"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A voyage .",
+            "examples": [
+              "a run to China"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A trial .",
+            "examples": [
+              "The data got lost, so I'll have to perform another run of the experiment."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The execution of a program or model",
+            "examples": [
+              "This morning's run of the SHIPS statistical model gave Hurricane Priscilla a 74% chance of gaining at least 30 knots of intensity in 24 hours, reconfirmed by the HMON and GFS dynamical models."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "computing"
+            ],
+            "label_groups": "mathematics , computing"
+          },
+          {
+            "definition": "A playthrough , or attempted playthrough; a session of play.",
+            "examples": [
+              "This was my first successful run without losing any health.",
+              "That NPC bugged out and killed my run ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "video games",
+              "speedrunning"
+            ],
+            "label_groups": "video games , speedrunning"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Unrestricted use. Only used in have the run of .",
+        "examples": [
+          "He can have the run of the house."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An enclosure for an animal; a track or path along which something can travel.",
+        "examples": [
+          "He set up a rabbit run ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rural landholding for farming , usually for running sheep , and operated by a runholder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Australia",
+          "New Zealand"
+        ],
+        "label_groups": "Australia , New Zealand"
+      },
+      {
+        "definition": "State of being current; currency; popularity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something continuous or sequential.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A continuous period (of time) marked by a trend; a period marked by a continuing trend.",
+            "examples": [
+              "I’m having a run of bad luck.",
+              "He went to Las Vegas and spent all his money over a three-day run ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A series of tries in a game that were successful.",
+            "examples": [
+              "If our team can keep up their strong defense, expect them to make a run in this tournament."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A production quantity (such as in a factory).",
+            "examples": [
+              "Yesterday we did a run of 12,000 units.",
+              "The book’s initial press run will be 5,000 copies."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The period of showing of a play, film, TV series, etc.",
+            "examples": [
+              "The run of the show lasted two weeks, and we sold out every night.",
+              "It is the last week of our French cinema run ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A period of extended (usually daily ) drug use.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "slang"
+            ],
+            "label_groups": "slang"
+          },
+          {
+            "definition": "A sequence of cards in a suit in a card game.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "card games"
+            ],
+            "label_groups": "card games"
+          },
+          {
+            "definition": "A rapid passage in music , especially along a scale .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A flow of liquid ; a leak .",
+        "examples": [
+          "The constant run of water from the faucet annoys me.",
+          "a run of must in wine-making",
+          "the first run of sap in a maple orchard"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A small creek or part thereof. ( Compare Southern US branch and New York and New England brook . )",
+        "examples": [
+          "The military campaign near that creek was known as \"The battle of Bull Run \"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly eastern North Midland US",
+          "especially Ohio",
+          "Pennsylvania",
+          "West Virginia"
+        ],
+        "label_groups": "chiefly eastern North Midland US , especially Ohio , Pennsylvania , West Virginia"
+      },
+      {
+        "definition": "A quick pace , faster than a walk .",
+        "examples": [
+          "He broke into a run ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A fast gallop .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of horses"
+            ],
+            "label_groups": "of horses"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A sudden series of demands on a bank or other financial institution, especially characterised by great withdrawals.",
+        "examples": [
+          "Financial insecurity led to a run on the banks, as customers feared for the security of their savings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "banking"
+        ],
+        "label_groups": "banking"
+      },
+      {
+        "definition": "Any sudden large demand for something.",
+        "examples": [
+          "There was a run on Christmas presents."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Various horizontal dimensions or surfaces",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The top of a step on a staircase , also called a tread , as opposed to the rise .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The horizontal length of a set of stairs",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Horizontal dimension of a slope .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "construction"
+            ],
+            "label_groups": "construction"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A standard or unexceptional group or category.",
+        "examples": [
+          "He stood out from the usual run of applicants."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In sports",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A score when a runner touches all bases legally; the act of a runner scoring.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "baseball"
+            ],
+            "label_groups": "baseball"
+          },
+          {
+            "definition": "The act of passing from one wicket to another; the point scored for this.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cricket"
+            ],
+            "label_groups": "cricket"
+          },
+          {
+            "definition": "A running play.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "American football"
+            ],
+            "label_groups": "American football"
+          },
+          {
+            "definition": "The movement communicated to a golf ball by running it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "golf"
+            ],
+            "label_groups": "golf"
+          },
+          {
+            "definition": "The distance a ball travels after touching the ground from a stroke.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "golf"
+            ],
+            "label_groups": "golf"
+          },
+          {
+            "definition": "The distance drilled with a bit , in oil drilling.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A line of knit stitches that have unravelled , particularly in a nylon stocking .",
+        "examples": [
+          "I have a run in my stocking."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The stern of the underwater body of a ship from where it begins to curve upward and inward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "The horizontal distance to which a drift may be carried, either by licence of the proprietor of a mine or by the nature of the formation; also, the direction which a vein of ore or other substance takes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining"
+        ],
+        "label_groups": "mining"
+      },
+      {
+        "definition": "A pair or set of millstones .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One’s gait while running; the way one runs.",
+        "examples": [
+          "I think they only have a weird run because their leg hurts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Act or instance of running, of moving rapidly using the feet.",
+    "secondary_definitions": [
+      "Act or instance of hurrying (to or from a place) ( not necessarily on foot ) ; dash or errand , trip .",
+      "A pleasure trip.",
+      "Flight , instance or period of fleeing .",
+      "Migration of fish .",
+      "A group of fish that migrate, or ascend a river for the purpose of spawning.",
+      "A literal or figurative path or course for movement relating to:",
+      "Unrestricted use. Only used in have the run of .",
+      "An enclosure for an animal; a track or path along which something can travel.",
+      "( Australia , New Zealand ) A rural landholding for farming , usually for running sheep , and operated by a runholder .",
+      "State of being current; currency; popularity.",
+      "Something continuous or sequential.",
+      "A flow of liquid ; a leak .",
+      "( chiefly eastern North Midland US , especially Ohio , Pennsylvania , West Virginia ) A small creek or part thereof. ( Compare Southern US branch and New York and New England brook . )",
+      "A quick pace , faster than a walk .",
+      "( banking ) A sudden series of demands on a bank or other financial institution, especially characterised by great withdrawals.",
+      "Any sudden large demand for something.",
+      "Various horizontal dimensions or surfaces",
+      "A standard or unexceptional group or category.",
+      "In sports",
+      "A line of knit stitches that have unravelled , particularly in a nylon stocking .",
+      "( nautical ) The stern of the underwater body of a ship from where it begins to curve upward and inward.",
+      "( mining ) The horizontal distance to which a drift may be carried, either by licence of the proprietor of a mine or by the nature of the formation; also, the direction which a vein of ore or other substance takes.",
+      "A pair or set of millstones .",
+      "One’s gait while running; the way one runs."
+    ]
+  }
+]

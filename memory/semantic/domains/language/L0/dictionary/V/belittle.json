@@ -1,0 +1,70 @@
+[
+  {
+    "word": "belittle",
+    "lemma": "belittle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪˈlɪt.əl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "belittles",
+          "PT": "belittled",
+          "PAP": "belittled",
+          "PRP": "belittling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To knowingly say that something is smaller or less important than it actually is, especially as a way of showing contempt or deprecation .",
+        "examples": [
+          "Don't belittle your colleagues."
+        ],
+        "synonyms": [
+          "understate",
+          "make light of",
+          "denigrate",
+          "degrade",
+          "deprecate",
+          "disparage",
+          "downplay",
+          "play down",
+          "trivialize",
+          "bagatellize"
+        ],
+        "antonyms": [
+          "exaggerate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 1782"
+      },
+      {
+        "definition": "To make small .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To knowingly say that something is smaller or less important than it actually is, especially as a way of showing contempt or deprecation . [from 1782]",
+    "secondary_definitions": [
+      "( transitive ) To make small ."
+    ]
+  }
+]

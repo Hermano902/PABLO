@@ -1,0 +1,87 @@
+[
+  {
+    "word": "quad",
+    "lemma": "quad",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kwɑd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quads",
+          "PT": "quadded",
+          "PAP": "quadded",
+          "PRP": "quadding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fill spaces in a line of type with quads. Also quad out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography",
+          "letterpress typography",
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "typography , letterpress typography , transitive , intransitive"
+      },
+      {
+        "definition": "To align text with the left or right margin, or centre it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography",
+          "phototypesetting",
+          "digital typesetting",
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "typography , phototypesetting and digital typesetting , transitive , intransitive"
+      },
+      {
+        "definition": "To twist four individually insulated conductors together as two pairs of twisted wires that are then twisted together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ride a quad bike .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( typography , letterpress typography , transitive , intransitive ) To fill spaces in a line of type with quads. Also quad out .",
+    "secondary_definitions": [
+      "( typography , phototypesetting and digital typesetting , transitive , intransitive ) To align text with the left or right margin, or centre it.",
+      "( transitive ) To twist four individually insulated conductors together as two pairs of twisted wires that are then twisted together.",
+      "( intransitive ) To ride a quad bike ."
+    ]
+  }
+]

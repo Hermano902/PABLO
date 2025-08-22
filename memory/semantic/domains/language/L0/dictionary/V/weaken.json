@@ -1,0 +1,59 @@
+[
+  {
+    "word": "weaken",
+    "lemma": "weaken",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwikən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "weakens",
+          "PT": "weakened",
+          "PAP": "weakened",
+          "PRP": "weakening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make weaker or less strong.",
+        "examples": [
+          "weaken a bond",
+          "weaken a joint"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become weaker or less strong.",
+        "examples": [
+          "Over the years my enthusiasm for the job has weakened ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make weaker or less strong.",
+    "secondary_definitions": [
+      "( intransitive ) To become weaker or less strong."
+    ]
+  }
+]

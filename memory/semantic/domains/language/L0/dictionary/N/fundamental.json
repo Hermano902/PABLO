@@ -1,0 +1,79 @@
+[
+  {
+    "word": "fundamental",
+    "lemma": "fundamental",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌfʌndəˈmɛntəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fundamentals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A basic truth, elementary concept, principle, rule, or law. An individual fundamental will often serve as a building block used to form a complex idea.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "generic",
+          "singular"
+        ],
+        "label_groups": "generic, singular"
+      },
+      {
+        "definition": "A collection of essential component ideas that are often grouped together to serve as the foundational basis of a complex idea.",
+        "examples": [
+          "one of the fundamentals of linear algebra"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "generic",
+          "plural"
+        ],
+        "label_groups": "generic, plural"
+      },
+      {
+        "definition": "The lowest frequency of a periodic waveform .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The lowest partial of a complex tone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "( generic, singular ) A basic truth, elementary concept, principle, rule, or law. An individual fundamental will often serve as a building block used to form a complex idea.",
+    "secondary_definitions": [
+      "( generic, plural ) A collection of essential component ideas that are often grouped together to serve as the foundational basis of a complex idea.",
+      "( physics ) The lowest frequency of a periodic waveform .",
+      "( music ) The lowest partial of a complex tone ."
+    ]
+  }
+]

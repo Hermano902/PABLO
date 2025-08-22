@@ -1,0 +1,149 @@
+[
+  {
+    "word": "chord",
+    "lemma": "chord",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɔːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A harmonic set of three or more notes that is heard as if sounding simultaneously.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "A line segment between two points of a curve.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A horizontal member of a truss .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A section of subsidiary railway track that interconnects two primary tracks that cross at different levels , to permit traffic to flow between them.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rail transport"
+            ],
+            "label_groups": "rail transport"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "The distance between the leading and trailing edge of a wing, measured in the direction of the normal airflow.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aeronautics"
+        ],
+        "label_groups": "aeronautics"
+      },
+      {
+        "definition": "An imaginary line from the luff of a sail to its leech .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "A keyboard shortcut that involves two or more distinct keypresses , such as Ctrl+M followed by P.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The string of a musical instrument .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A cord .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "An edge that is not part of a cycle but connects two vertices of the cycle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( music ) A harmonic set of three or more notes that is heard as if sounding simultaneously.",
+    "secondary_definitions": [
+      "( geometry ) A line segment between two points of a curve.",
+      "( engineering ) A horizontal member of a truss .",
+      "( aeronautics ) The distance between the leading and trailing edge of a wing, measured in the direction of the normal airflow.",
+      "( nautical ) An imaginary line from the luff of a sail to its leech .",
+      "( computing ) A keyboard shortcut that involves two or more distinct keypresses , such as Ctrl+M followed by P.",
+      "The string of a musical instrument .",
+      "( anatomy ) A cord .",
+      "( graph theory ) An edge that is not part of a cycle but connects two vertices of the cycle."
+    ]
+  }
+]

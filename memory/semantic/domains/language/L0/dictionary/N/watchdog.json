@@ -1,0 +1,59 @@
+[
+  {
+    "word": "watchdog",
+    "lemma": "watchdog",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɑːt͡ʃˌdɑːɡ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "watchdogs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A guard dog .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An individual or group that monitors the activities of another entity (such as an individual, corporation, non-profit group, or governmental organization) on behalf of the public to ensure that entity does not behave illegally or unethically.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Ellipsis of watchdog timer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics",
+          "computing"
+        ],
+        "label_groups": "electronics , computing"
+      }
+    ],
+    "main_definition": "A guard dog .",
+    "secondary_definitions": [
+      "( figurative ) An individual or group that monitors the activities of another entity (such as an individual, corporation, non-profit group, or governmental organization) on behalf of the public to ensure that entity does not behave illegally or unethically.",
+      "( electronics , computing ) Ellipsis of watchdog timer ."
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "word": "fry",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 9,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 11,
+      "examples": 1,
+      "synonyms": 7,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fry.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fry.json"
+  },
+  "timestamp": "2025-08-19T04:09:34.424983Z"
+}

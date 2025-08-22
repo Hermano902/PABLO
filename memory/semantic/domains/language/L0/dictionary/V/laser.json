@@ -1,0 +1,58 @@
+[
+  {
+    "word": "laser",
+    "lemma": "laser",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪz.ə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lasers",
+          "PT": "lasered",
+          "PAP": "lasered",
+          "PRP": "lasering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut , destroy or treat with a laser .",
+        "examples": [
+          "I'm having my eyes lasered to correct my astigmatism ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To throw or kick with laser -like precision .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "sports , informal , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To cut , destroy or treat with a laser .",
+    "secondary_definitions": [
+      "( sports , informal , transitive ) To throw or kick with laser -like precision ."
+    ]
+  }
+]

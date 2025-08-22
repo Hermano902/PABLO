@@ -1,0 +1,55 @@
+{
+  "word": "when",
+  "pos_order": [
+    "ADV",
+    "CONJ",
+    "PRON",
+    "N",
+    "INTJ"
+  ],
+  "pos": {
+    "ADV": {
+      "definitions": 6,
+      "examples": 13,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "CONJ": {
+      "definitions": 5,
+      "examples": 19,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PRON": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "INTJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\when.json",
+    "CONJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\CONJ\\when.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\when.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\when.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\when.json"
+  },
+  "timestamp": "2025-08-19T20:54:25.432412Z"
+}

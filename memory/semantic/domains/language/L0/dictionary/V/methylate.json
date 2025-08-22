@@ -1,0 +1,63 @@
+[
+  {
+    "word": "methylate",
+    "lemma": "methylate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "methylates",
+          "PT": "methylated",
+          "PAP": "methylated",
+          "PRP": "methylating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To add, or treat with methyl alcohol (see methylated spirits )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To add a methyl group to a compound",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "organic chemistry"
+        ],
+        "label_groups": "organic chemistry"
+      },
+      {
+        "definition": "To add a methyl group to a nucleic acid as part of the process of gene expression",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      }
+    ],
+    "main_definition": "To add, or treat with methyl alcohol (see methylated spirits )",
+    "secondary_definitions": [
+      "( organic chemistry ) To add a methyl group to a compound",
+      "( biochemistry ) To add a methyl group to a nucleic acid as part of the process of gene expression"
+    ]
+  }
+]

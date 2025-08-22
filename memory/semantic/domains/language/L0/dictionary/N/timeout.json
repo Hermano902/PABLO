@@ -1,0 +1,64 @@
+[
+  {
+    "word": "timeout",
+    "lemma": "timeout",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪm.aʊt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "timeouts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The allowed maximal time for a process to end normally.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "communication"
+        ],
+        "label_groups": "communication"
+      },
+      {
+        "definition": "The intentional termination of an incomplete task after a time limit considered long enough for it to end normally.",
+        "examples": [
+          "My connection was so slow that I kept receiving timeouts when trying to view Web pages."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "communication"
+        ],
+        "label_groups": "communication"
+      },
+      {
+        "definition": "Alternative form of time-out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      }
+    ],
+    "main_definition": "( communication ) The allowed maximal time for a process to end normally.",
+    "secondary_definitions": [
+      "( communication ) The intentional termination of an incomplete task after a time limit considered long enough for it to end normally.",
+      "( sports ) Alternative form of time-out ."
+    ]
+  }
+]

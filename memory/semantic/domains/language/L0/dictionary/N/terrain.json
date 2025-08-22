@@ -1,0 +1,64 @@
+[
+  {
+    "word": "terrain",
+    "lemma": "terrain",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/təˈɹeɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "terrains"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single , distinctive rock formation ; an area having a preponderance of a particular rock or group of rocks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "An area of land or the particular features of it.",
+        "examples": [
+          "The race will be run over a variety of terrain , including grass and sand."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The surface of the earth ; the ground .",
+        "examples": [
+          "This approach requires the aircraft to stay at an altitude of at least 3000 feet MSL until crossing the VOR in order to maintain terrain clearance.",
+          "controlled flight into terrain",
+          "TOO LOW, TERRAIN"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly aviation"
+        ],
+        "label_groups": "chiefly aviation"
+      }
+    ],
+    "main_definition": "( geology ) A single , distinctive rock formation ; an area having a preponderance of a particular rock or group of rocks.",
+    "secondary_definitions": [
+      "An area of land or the particular features of it.",
+      "( chiefly aviation ) The surface of the earth ; the ground ."
+    ]
+  }
+]

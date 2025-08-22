@@ -1,0 +1,59 @@
+[
+  {
+    "word": "polling",
+    "lemma": "polling",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pollings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The action of taking a poll.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A technique that continually interrogates a peripheral or service to see if it has data to transfer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "the process of voting in an election .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "politics",
+          "uncountable"
+        ],
+        "label_groups": "politics , uncountable"
+      }
+    ],
+    "main_definition": "The action of taking a poll.",
+    "secondary_definitions": [
+      "( computing ) A technique that continually interrogates a peripheral or service to see if it has data to transfer .",
+      "( politics , uncountable ) the process of voting in an election ."
+    ]
+  }
+]

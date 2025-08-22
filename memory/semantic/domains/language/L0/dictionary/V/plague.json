@@ -1,0 +1,63 @@
+[
+  {
+    "word": "plague",
+    "lemma": "plague",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pleɪɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "plagues",
+          "PT": "plagued",
+          "PAP": "plagued",
+          "PRP": "plaguing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To harass , pester or annoy someone persistently or incessantly .",
+        "examples": [],
+        "synonyms": [
+          "badger",
+          "harry",
+          "hound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To afflict with a disease or other calamity.",
+        "examples": [
+          "Natural catastrophes plagued the colonists till they abandoned the pestilent marshland."
+        ],
+        "synonyms": [
+          "scourge",
+          "torment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To harass , pester or annoy someone persistently or incessantly .",
+    "secondary_definitions": [
+      "( transitive ) To afflict with a disease or other calamity."
+    ]
+  }
+]

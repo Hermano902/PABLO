@@ -1,0 +1,112 @@
+[
+  {
+    "word": "adjoint",
+    "lemma": "adjoint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæd͡ʒ.ɔɪnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "adjoints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The transpose of the cofactor matrix of a given square matrix.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Transpose conjugate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "linear algebra",
+          "of a matrix"
+        ],
+        "label_groups": "mathematics , linear algebra , of a matrix"
+      },
+      {
+        "definition": "Hermitian conjugate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "mathematical analysis",
+          "of an operator"
+        ],
+        "label_groups": "mathematics , mathematical analysis , of an operator"
+      },
+      {
+        "definition": "A functor related to another functor by an adjunction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory"
+        ],
+        "label_groups": "mathematics , category theory"
+      },
+      {
+        "definition": "A curve A such that any point of a given curve C of multiplicity r has multiplicity at least r –1 on A . Sometimes the multiple points of C are required to be ordinary, and if this condition is not satisfied the term sub-adjoint is used.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "algebraic geometry"
+        ],
+        "label_groups": "geometry , algebraic geometry"
+      },
+      {
+        "definition": "An assistant to someone who holds a position in the military or civil service .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An assistant mayor of a French commune .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( mathematics ) The transpose of the cofactor matrix of a given square matrix.",
+    "secondary_definitions": [
+      "( mathematics , linear algebra , of a matrix ) Transpose conjugate .",
+      "( mathematics , mathematical analysis , of an operator ) Hermitian conjugate .",
+      "( mathematics , category theory ) A functor related to another functor by an adjunction .",
+      "( geometry , algebraic geometry ) A curve A such that any point of a given curve C of multiplicity r has multiplicity at least r –1 on A . Sometimes the multiple points of C are required to be ordinary, and if this condition is not satisfied the term sub-adjoint is used.",
+      "An assistant to someone who holds a position in the military or civil service .",
+      "An assistant mayor of a French commune ."
+    ]
+  }
+]

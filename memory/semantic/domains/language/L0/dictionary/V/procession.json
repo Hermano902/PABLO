@@ -1,0 +1,72 @@
+[
+  {
+    "word": "procession",
+    "lemma": "procession",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈsɛʃən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "processions",
+          "PT": "processioned",
+          "PAP": "processioned",
+          "PRP": "processioning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take part in a procession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To honour with a procession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "transitive , dated"
+      },
+      {
+        "definition": "To ascertain, mark, and establish the boundary lines of (lands).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "US",
+          "North Carolina",
+          "Tennessee"
+        ],
+        "label_groups": "transitive , law , US , North Carolina , Tennessee"
+      }
+    ],
+    "main_definition": "( intransitive ) To take part in a procession.",
+    "secondary_definitions": [
+      "( transitive , dated ) To honour with a procession.",
+      "( transitive , law , US , North Carolina , Tennessee ) To ascertain, mark, and establish the boundary lines of (lands)."
+    ]
+  }
+]

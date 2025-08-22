@@ -1,0 +1,58 @@
+[
+  {
+    "word": "permission",
+    "lemma": "permission",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pəˈmɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "permissions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "authorisation ; consent ( especially formal consent from someone in authority )",
+        "examples": [
+          "Sire, do I have your permission to execute this traitor?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of permitting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Flags or access control lists pertaining to a file that dictate who can access it, and how.",
+        "examples": [
+          "I used the \"chmod\" command to change the file's permission ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "authorisation ; consent ( especially formal consent from someone in authority )",
+    "secondary_definitions": [
+      "The act of permitting.",
+      "( computing ) Flags or access control lists pertaining to a file that dictate who can access it, and how."
+    ]
+  }
+]

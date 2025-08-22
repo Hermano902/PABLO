@@ -1,0 +1,84 @@
+[
+  {
+    "word": "arithmetic",
+    "lemma": "arithmetic",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈɹɪθmətɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Increasing or decreasing by an arithmetic progression .",
+        "examples": [
+          "Growth in the most mature markets is likely to be arithmetic ; on what rational basis could one hope for exponential growth there?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Increasing or decreasing by an arithmetic progression .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "arithmetic",
+    "lemma": "arithmetic",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/əˈɹɪθmətɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, relating to, or using arithmetic; arithmetical .",
+        "examples": [
+          "arithmetic geometry"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Of a progression , mean , etc, computed solely using addition.",
+        "examples": [
+          "arithmetic progression"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      }
+    ],
+    "main_definition": "( mathematics ) Of, relating to, or using arithmetic; arithmetical .",
+    "secondary_definitions": [
+      "( arithmetic ) Of a progression , mean , etc, computed solely using addition."
+    ]
+  }
+]

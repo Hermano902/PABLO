@@ -1,0 +1,47 @@
+[
+  {
+    "word": "quadrilateral",
+    "lemma": "quadrilateral",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkwɑd.ɹəˈlæt.ɚ.əl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quadrilaterals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A polygon with four sides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "An area defended by four fortresses supporting each other.",
+        "examples": [
+          "The Venetian quadrilateral comprised Mantua, Peschiera, Verona, and Legnano."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( geometry ) A polygon with four sides.",
+    "secondary_definitions": [
+      "An area defended by four fortresses supporting each other."
+    ]
+  }
+]

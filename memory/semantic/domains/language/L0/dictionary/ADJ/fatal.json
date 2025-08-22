@@ -1,0 +1,90 @@
+[
+  {
+    "word": "fatal",
+    "lemma": "fatal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈfeɪ.təl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more fatal",
+          "SUP": "most fatal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Proceeding from, or appointed by, fate or destiny .",
+        "examples": [],
+        "synonyms": [
+          "inevitable",
+          "necessary"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare",
+          "archaic"
+        ],
+        "label_groups": "rare , archaic"
+      },
+      {
+        "definition": "Foreboding death or great disaster .",
+        "examples": [],
+        "synonyms": [
+          "inauspicious",
+          "portentous"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare",
+          "archaic"
+        ],
+        "label_groups": "rare , archaic"
+      },
+      {
+        "definition": "Causing death or destruction .",
+        "examples": [
+          "a fatal wound; a fatal disease; that fatal day; a fatal mistake"
+        ],
+        "synonyms": [
+          "calamitous",
+          "deadly",
+          "destructive",
+          "lethal",
+          "mortal",
+          "terminal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing a sudden end to the running of a program.",
+        "examples": [
+          "a fatal error; a fatal exception"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( rare , archaic ) Proceeding from, or appointed by, fate or destiny .",
+    "secondary_definitions": [
+      "( rare , archaic ) Foreboding death or great disaster .",
+      "Causing death or destruction .",
+      "( computing ) Causing a sudden end to the running of a program."
+    ]
+  }
+]

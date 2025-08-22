@@ -1,0 +1,91 @@
+[
+  {
+    "word": "epoch",
+    "lemma": "epoch",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːpɒk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "epochs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A particular period of history , or of a person's life , especially one considered noteworthy or remarkable .",
+        "examples": [],
+        "synonyms": [
+          "age",
+          "era"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A notable event which marks the beginning of such a period.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A specific instant in time, chosen as the point of reference or zero value of a system that involves identifying instants of time.",
+        "examples": [
+          "UNIX epoch ; J2000 epoch"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chronology",
+          "astronomy",
+          "computing"
+        ],
+        "label_groups": "chronology , astronomy , computing"
+      },
+      {
+        "definition": "A geochronologic unit of hundreds of thousands to millions of years ; a subdivision of a period , and subdivided into ages (or sometimes subepochs ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "One complete presentation of the training data set to an iterative machine learning algorithm .",
+        "examples": [
+          "The neural network was trained over 500 epochs ."
+        ],
+        "synonyms": [
+          "generation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "machine learning"
+        ],
+        "label_groups": "machine learning"
+      }
+    ],
+    "main_definition": "A particular period of history , or of a person's life , especially one considered noteworthy or remarkable .",
+    "secondary_definitions": [
+      "A notable event which marks the beginning of such a period.",
+      "( chronology , astronomy , computing ) A specific instant in time, chosen as the point of reference or zero value of a system that involves identifying instants of time.",
+      "( geology ) A geochronologic unit of hundreds of thousands to millions of years ; a subdivision of a period , and subdivided into ages (or sometimes subepochs ).",
+      "( machine learning ) One complete presentation of the training data set to an iterative machine learning algorithm ."
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "word": "occurrence",
+    "lemma": "occurrence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈkʌɹ.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "occurrences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An actual instance when a situation occurs ; an event or happening .",
+        "examples": [],
+        "synonyms": [
+          "occurring"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The lexical aspect ( aktionsart ) of verbs or predicates that change in or over time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "state"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "semantics"
+        ],
+        "label_groups": "grammar , semantics"
+      }
+    ],
+    "main_definition": "An actual instance when a situation occurs ; an event or happening .",
+    "secondary_definitions": [
+      "( grammar , semantics ) The lexical aspect ( aktionsart ) of verbs or predicates that change in or over time."
+    ]
+  }
+]

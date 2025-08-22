@@ -1,0 +1,29 @@
+{
+  "word": "palm",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\palm.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\palm.json"
+  },
+  "timestamp": "2025-08-19T11:07:38.439490Z"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "enharmonic",
+    "lemma": "enharmonic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Describing two or more identical or almost identical notes that are written differently when in different keys . (Whether they are identical and what the exact equivalences are depends on the tuning used.)",
+        "examples": [
+          "C sharp is enharmonic to D flat in twelve-tone equal temperament, but in most other tuning systems they are distinct pitches."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Of or pertaining to a tetrachord .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "( music ) Describing two or more identical or almost identical notes that are written differently when in different keys . (Whether they are identical and what the exact equivalences are depends on the tuning used.)",
+    "secondary_definitions": [
+      "( music ) Of or pertaining to a tetrachord ."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "overtake",
+    "lemma": "overtake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əʊvə(ɹ)ˈteɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "overtakes",
+          "PT": "overtook",
+          "PAP": "overtaken",
+          "PRP": "overtaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pass a slower moving object or entity (on the side closest to oncoming traffic).",
+        "examples": [
+          "The racehorse overtook the lead pack on the last turn.",
+          "The car was so slow we were overtaken by a bus."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "undertake",
+          "curbside"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To become greater than something else in quantity, worth, etc.",
+        "examples": [
+          "Grocery sales in the north have overtaken those in the south."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take by surprise ; surprise and overcome ; carry away .",
+        "examples": [
+          "Our plans were overtaken by events."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To pass a slower moving object or entity (on the side closest to oncoming traffic).",
+    "secondary_definitions": [
+      "( transitive ) To become greater than something else in quantity, worth, etc.",
+      "To take by surprise ; surprise and overcome ; carry away ."
+    ]
+  }
+]

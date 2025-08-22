@@ -1,0 +1,146 @@
+[
+  {
+    "word": "color",
+    "lemma": "color",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkʌlə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "colors",
+          "PT": "colored",
+          "PAP": "colored",
+          "PRP": "coloring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give something color.",
+        "examples": [
+          "We could color the walls red."
+        ],
+        "synonyms": [
+          "dye",
+          "paint",
+          "stain",
+          "shade",
+          "tinge",
+          "tint"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To cause (a pipe, especially a meerschaum ) to take on a brown or black color, by smoking.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons.",
+        "examples": [
+          "My kindergartener loves to color ."
+        ],
+        "synonyms": [
+          "color in"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To become red through increased blood flow.",
+        "examples": [
+          "Her face colored as she realized her mistake."
+        ],
+        "synonyms": [
+          "blush"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a person or their face"
+        ],
+        "label_groups": "of a person or their face"
+      },
+      {
+        "definition": "To affect without completely changing.",
+        "examples": [
+          "That interpretation certainly colors my perception of the book."
+        ],
+        "synonyms": [
+          "affect",
+          "influence"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To attribute a quality to; to portray (as).",
+        "examples": [
+          "Color me confused.",
+          "They tried to colour the industrial unrest as a merely local matter."
+        ],
+        "synonyms": [
+          "call"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "To assign colors to the vertices of a graph ( or the regions of a map ) so that no two vertices connected by an edge (regions sharing a border) have the same color.",
+        "examples": [
+          "Can this graph be 2- colored ?",
+          "You can color any map with four colors."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "graph theory"
+        ],
+        "label_groups": "mathematics , graph theory"
+      }
+    ],
+    "main_definition": "( transitive ) To give something color.",
+    "secondary_definitions": [
+      "( intransitive ) To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons.",
+      "( of a person or their face ) To become red through increased blood flow.",
+      "To affect without completely changing.",
+      "( informal ) To attribute a quality to; to portray (as).",
+      "( mathematics , graph theory ) To assign colors to the vertices of a graph ( or the regions of a map ) so that no two vertices connected by an edge (regions sharing a border) have the same color."
+    ]
+  }
+]

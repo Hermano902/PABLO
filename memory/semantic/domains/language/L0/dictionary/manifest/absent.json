@@ -1,0 +1,46 @@
+{
+  "word": "absent",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "PREP",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 3,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 5,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "PREP": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\absent.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\absent.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\absent.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\absent.json"
+  },
+  "timestamp": "2025-08-18T20:05:45.960642Z"
+}

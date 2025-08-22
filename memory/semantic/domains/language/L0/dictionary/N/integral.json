@@ -1,0 +1,102 @@
+[
+  {
+    "word": "integral",
+    "lemma": "integral",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntɪɡɹ(ə)l/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "integrals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One of the two fundamental operations of calculus (the other being differentiation ), whereby a function 's displacement , area , volume , or other qualities arising from the study of infinitesimal change are quantified, usually defined as a limiting process on a sequence of partial sums . Denoted using a long s : ∫ , or a variant thereof.",
+        "examples": [
+          "The integral of a univariate real-valued function is the area under its curve; but be warned! Not all functions are integrable !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any of several analytic formalizations of this operation: the Riemann integral , the Lebesgue integral , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "specifically"
+            ],
+            "label_groups": "specifically"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A definite integral : the result of the application of such an operation onto a function and a suitable subset of the function's domain : either a number or positive or negative infinity . In the former case, the integral is said to be finite or to converge ; in the latter, the integral is said to diverge . In notation, the domain of integration is indicated either below the sign, or, if it is an interval , with its endpoints as sub- and super-scripts, and the function being integrated forming part of the integrand (or, generally, differential form ) appearing in front of the integral sign.",
+        "examples": [
+          "The integral of 1 x {\\displaystyle {\\frac {1}{x}}} on [ 1 2 , 1 ] {\\displaystyle [{\\frac {1}{2}},1]} is ln ⁡ ( 2 ) {\\displaystyle \\ln(2)} , but the integral of the same function on ( 0 , 1 ] {\\displaystyle (0,1]} diverges. In notation, ∫ 1 2 1 1 x d x = ln ⁡ ( 2 ) {\\displaystyle \\int _{\\frac {1}{2}}^{1}{\\frac {1}{x}}dx=\\ln(2)} , but ∫ 0 1 1 x d x = ∞ {\\displaystyle \\int _{0}^{1}{\\frac {1}{x}}dx=\\infty } .",
+          "Stokes' theorem relates the integral over a surface of the curl of a vector field to a line integral around the boundary of that surface: ∫ S ∇ × F ⋅ d S = ∫ ∂ S F ⋅ d r , {\\displaystyle \\int _{S}\\nabla \\times \\mathbf {F} \\cdot d\\mathbf {S} =\\int _{\\partial S}\\mathbf {F} \\cdot d\\mathbf {r} ,} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An indefinite integral : the result of the application of such an operation onto a function together with an indefinite domain, yielding a function; a function's antiderivative ;",
+        "examples": [
+          "The integral of x 2 {\\displaystyle x^{2}} is x 3 3 {\\displaystyle {\\frac {x^{3}}{3}}} plus a constant."
+        ],
+        "synonyms": [
+          "antiderivative",
+          "indefinite integral",
+          "∫"
+        ],
+        "antonyms": [
+          "derivative"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The fluent of a given fluxion in Newtonian calculus.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "historical or obsolete"
+            ],
+            "label_groups": "mathematics , historical or obsolete"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) One of the two fundamental operations of calculus (the other being differentiation ), whereby a function 's displacement , area , volume , or other qualities arising from the study of infinitesimal change are quantified, usually defined as a limiting process on a sequence of partial sums . Denoted using a long s : ∫ , or a variant thereof.",
+    "secondary_definitions": [
+      "( mathematics ) A definite integral : the result of the application of such an operation onto a function and a suitable subset of the function's domain : either a number or positive or negative infinity . In the former case, the integral is said to be finite or to converge ; in the latter, the integral is said to diverge . In notation, the domain of integration is indicated either below the sign, or, if it is an interval , with its endpoints as sub- and super-scripts, and the function being integrated forming part of the integrand (or, generally, differential form ) appearing in front of the integral sign.",
+      "( mathematics ) An indefinite integral : the result of the application of such an operation onto a function together with an indefinite domain, yielding a function; a function's antiderivative ;"
+    ]
+  }
+]

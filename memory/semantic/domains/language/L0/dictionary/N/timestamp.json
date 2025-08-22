@@ -1,0 +1,50 @@
+[
+  {
+    "word": "timestamp",
+    "lemma": "timestamp",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪmˌstæmp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "timestamps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A variable containing the date and time at which an event occurred , often included in a log to track the sequence of events.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially computing"
+        ],
+        "label_groups": "especially computing"
+      },
+      {
+        "definition": "The time at which something in a video occurs.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "video"
+        ],
+        "label_groups": "Internet , video"
+      }
+    ],
+    "main_definition": "( especially computing ) A variable containing the date and time at which an event occurred , often included in a log to track the sequence of events.",
+    "secondary_definitions": [
+      "( Internet , video ) The time at which something in a video occurs."
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "advisory",
+    "lemma": "advisory",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ədˈvaɪzəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "advisories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A warning .",
+        "examples": [
+          "The Coast Guard issued a small craft advisory , warning little boats to watch out for bad weather."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Official information issued by the National Weather Service that highlights special weather conditions that are less serious than a warning. They are for events that may cause significant inconvenience, and if caution is not exercised, it could lead to situations that may threaten life and/or property.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "meteorology"
+            ],
+            "label_groups": "meteorology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Supervision by an advisor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "uncommon",
+          "possibly nonstandard"
+        ],
+        "label_groups": "uncountable , uncommon , possibly nonstandard"
+      }
+    ],
+    "main_definition": "( countable ) A warning .",
+    "secondary_definitions": [
+      "( uncountable , uncommon , possibly nonstandard ) Supervision by an advisor ."
+    ]
+  }
+]

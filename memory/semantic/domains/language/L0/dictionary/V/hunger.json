@@ -1,0 +1,72 @@
+[
+  {
+    "word": "hunger",
+    "lemma": "hunger",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhʌŋɡə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hungers",
+          "PT": "hungered",
+          "PAP": "hungered",
+          "PRP": "hungering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be in need of food .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To have a desire (for); to long ; to yearn .",
+        "examples": [
+          "I hungered for your love."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively",
+          "intransitive",
+          "usually with 'for' or 'after'"
+        ],
+        "label_groups": "figuratively , intransitive , usually with 'for' or 'after'"
+      },
+      {
+        "definition": "To make hungry; to famish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic",
+          "transitive"
+        ],
+        "label_groups": "archaic , transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To be in need of food .",
+    "secondary_definitions": [
+      "( figuratively , intransitive , usually with 'for' or 'after' ) To have a desire (for); to long ; to yearn .",
+      "( archaic , transitive ) To make hungry; to famish ."
+    ]
+  }
+]

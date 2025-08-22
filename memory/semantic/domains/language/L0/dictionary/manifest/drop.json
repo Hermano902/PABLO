@@ -1,0 +1,28 @@
+{
+  "word": "drop",
+  "pos_order": [
+    "N",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 40,
+      "examples": 15,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 50,
+      "examples": 41,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\drop.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\drop.json"
+  },
+  "timestamp": "2025-08-19T02:25:50.991989Z"
+}

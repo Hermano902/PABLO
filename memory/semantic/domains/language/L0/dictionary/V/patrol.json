@@ -1,0 +1,57 @@
+[
+  {
+    "word": "patrol",
+    "lemma": "patrol",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pəˈtɹəʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "patrols",
+          "PT": "patrolled",
+          "PAP": "patrolled",
+          "PRP": "patrolling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To go the rounds along a chain of sentinels; to traverse a police district or beat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To go the rounds of, as a sentry, guard, or policeman",
+        "examples": [
+          "to patrol a frontier",
+          "to patrol a beat"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To go the rounds along a chain of sentinels; to traverse a police district or beat.",
+    "secondary_definitions": [
+      "( transitive ) To go the rounds of, as a sentry, guard, or policeman"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "fine",
+    "lemma": "fine",
+    "etymology": "Etymology 1",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/faɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more fine",
+          "SUP": "most fine"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Well , nicely , in a positive, agreeable way.",
+        "examples": [
+          "Everything worked out fine."
+        ],
+        "synonyms": [
+          "all right",
+          "alright",
+          "OK",
+          "very well"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Finely; elegantly; delicately.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "dialect",
+          "colloquial"
+        ],
+        "label_groups": "dated , dialect , colloquial"
+      },
+      {
+        "definition": "In a manner so that the driven ball strikes the object ball so far to one side as to be barely deflected, the object ball being driven to one side.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pool",
+          "billiards"
+        ],
+        "label_groups": "pool , billiards"
+      }
+    ],
+    "main_definition": "Well , nicely , in a positive, agreeable way.",
+    "secondary_definitions": [
+      "( dated , dialect , colloquial ) Finely; elegantly; delicately.",
+      "( pool , billiards ) In a manner so that the driven ball strikes the object ball so far to one side as to be barely deflected, the object ball being driven to one side."
+    ]
+  }
+]

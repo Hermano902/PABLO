@@ -1,0 +1,71 @@
+[
+  {
+    "word": "walkthrough",
+    "lemma": "walkthrough",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɔːk.θɹuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "walkthroughs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of inspecting algorithms and source code by following paths through the algorithms or code as determined by input conditions and choices made along the way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      },
+      {
+        "definition": "A thorough demonstration that explains or illustrates the steps involved in winning the game.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      },
+      {
+        "definition": "A financial audit that traces a sample transaction through the system to ensure that it is processed and reported correctly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting"
+        ],
+        "label_groups": "accounting"
+      },
+      {
+        "definition": "A theatrical or film rehearsal in which the actors move around the stage or set but are not in costume .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( software engineering ) The process of inspecting algorithms and source code by following paths through the algorithms or code as determined by input conditions and choices made along the way.",
+    "secondary_definitions": [
+      "( video games ) A thorough demonstration that explains or illustrates the steps involved in winning the game.",
+      "( accounting ) A financial audit that traces a sample transaction through the system to ensure that it is processed and reported correctly.",
+      "A theatrical or film rehearsal in which the actors move around the stage or set but are not in costume ."
+    ]
+  }
+]

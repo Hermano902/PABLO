@@ -1,0 +1,56 @@
+[
+  {
+    "word": "simulator",
+    "lemma": "simulator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪmjʊˌleɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "simulators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who simulates or feigns .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A machine or system that simulates an environment (such as an aircraft cockpit), often for training purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A game that attempts to reproduce an experience realistically.",
+        "examples": [
+          "a pinball simulator"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "One who simulates or feigns .",
+    "secondary_definitions": [
+      "A machine or system that simulates an environment (such as an aircraft cockpit), often for training purposes.",
+      "( video games ) A game that attempts to reproduce an experience realistically."
+    ]
+  }
+]

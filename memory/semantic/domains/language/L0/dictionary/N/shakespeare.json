@@ -1,0 +1,130 @@
+[
+  {
+    "word": "shakespeare",
+    "lemma": "shakespeare",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃeɪkspɪɹ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Shakespeares"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A surname .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "William Shakespeare , an English playwright and poet of the late sixteenth and early seventeenth centuries .",
+        "examples": [],
+        "synonyms": [
+          "Bard",
+          "Shakey"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( metonymic ) His works or media adaptations of his works.",
+        "examples": [
+          "He is reading Shakespeare .",
+          "I'm surprised that even the allusion to Hamlet flew over his head. Even someone who barely knows Shakespeare might catch that one!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place name:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A village in Perth East township, Ontario , Canada , named after the playwright.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A ghost town in Hidalgo County , New Mexico , United States .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "A surname .",
+    "secondary_definitions": [
+      "William Shakespeare , an English playwright and poet of the late sixteenth and early seventeenth centuries .",
+      "( metonymic ) His works or media adaptations of his works.",
+      "A place name:"
+    ]
+  },
+  {
+    "word": "shakespeare",
+    "lemma": "shakespeare",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈʃeɪkspɪɹ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Shakespeares"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Any form or style of language that is eloquent , especially in English; poetry .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A playwright of the standing of William Shakespeare .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Any form or style of language that is eloquent , especially in English; poetry .",
+    "secondary_definitions": [
+      "( countable ) A playwright of the standing of William Shakespeare ."
+    ]
+  }
+]

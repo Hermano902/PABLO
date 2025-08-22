@@ -1,0 +1,49 @@
+[
+  {
+    "word": "sulfonamide",
+    "lemma": "sulfonamide",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sulfonamides"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any amide of a sulfonic acid RS(=O) 2 NR' 2",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Any of a group of antibiotics ; a sulfa drug",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pharmacology"
+        ],
+        "label_groups": "pharmacology"
+      }
+    ],
+    "main_definition": "( chemistry ) Any amide of a sulfonic acid RS(=O) 2 NR' 2",
+    "secondary_definitions": [
+      "( pharmacology ) Any of a group of antibiotics ; a sulfa drug"
+    ]
+  }
+]

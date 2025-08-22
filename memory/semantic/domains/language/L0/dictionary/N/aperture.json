@@ -1,0 +1,94 @@
+[
+  {
+    "word": "aperture",
+    "lemma": "aperture",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈap.ə.t͡ʃə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "apertures"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small or narrow opening , gap , slit , or hole .",
+        "examples": [
+          "an aperture in a wall"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A hole which restricts the diameter of the lightpath through one plane in an optical system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The diameter of such a hole which restricts the width of the lightpath through the whole system. For a telescope , this is the diameter of the objective lens .",
+            "examples": [
+              "This telescope has a 100 cm aperture ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "astronomy",
+              "photography"
+            ],
+            "label_groups": "astronomy , photography"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "optics"
+        ],
+        "label_groups": "optics"
+      },
+      {
+        "definition": "The (typically) large- diameter antenna used for receiving and transmitting radio frequency energy containing the data used in communication satellites , especially in the geostationary belt. For a comsat , this is typically a large reflective dish antenna ; sometimes called an array .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "space flight",
+          "communication"
+        ],
+        "label_groups": "space flight , communication"
+      },
+      {
+        "definition": "The maximum angle between the two generatrices .",
+        "examples": [
+          "If the generatrix makes an angle θ to the axis, then the aperture is 2θ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "rare",
+          "of a right circular cone"
+        ],
+        "label_groups": "mathematics , rare , of a right circular cone"
+      }
+    ],
+    "main_definition": "A small or narrow opening , gap , slit , or hole .",
+    "secondary_definitions": [
+      "( optics ) A hole which restricts the diameter of the lightpath through one plane in an optical system.",
+      "( space flight , communication ) The (typically) large- diameter antenna used for receiving and transmitting radio frequency energy containing the data used in communication satellites , especially in the geostationary belt. For a comsat , this is typically a large reflective dish antenna ; sometimes called an array .",
+      "( mathematics , rare , of a right circular cone ) The maximum angle between the two generatrices ."
+    ]
+  }
+]

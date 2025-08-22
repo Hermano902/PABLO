@@ -1,0 +1,68 @@
+[
+  {
+    "word": "eventually",
+    "lemma": "eventually",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈvɛn.t͡ʃuː.ə.li/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In the end ; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks.",
+        "examples": [
+          "Everyone's true colors will be revealed eventually .",
+          "She didn't arrive. Eventually , we started without her.",
+          "He hopes eventually to attend nursing school."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "For some tail ; for all terms beyond some term; with only finitely many exceptions.",
+        "examples": [
+          "Eventually , all prime numbers are odd."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a sequence"
+        ],
+        "label_groups": "mathematics , of a sequence"
+      },
+      {
+        "definition": "Possibly , potentially , perhaps .",
+        "examples": [
+          "I will come eventually , but haven't decided yet."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "proscribed",
+          "non-native speakers ' English"
+        ],
+        "label_groups": "proscribed , non-native speakers ' English"
+      }
+    ],
+    "main_definition": "In the end ; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks.",
+    "secondary_definitions": [
+      "( mathematics , of a sequence ) For some tail ; for all terms beyond some term; with only finitely many exceptions.",
+      "( proscribed , non-native speakers ' English ) Possibly , potentially , perhaps ."
+    ]
+  }
+]

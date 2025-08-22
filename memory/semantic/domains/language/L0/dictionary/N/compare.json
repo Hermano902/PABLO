@@ -1,0 +1,65 @@
+[
+  {
+    "word": "compare",
+    "lemma": "compare",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpɛɚ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "compares"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Comparison .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An instruction or command that compares two values or states.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "programming"
+        ],
+        "label_groups": "countable , programming"
+      },
+      {
+        "definition": "Illustration by comparison; simile .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "obsolete"
+        ],
+        "label_groups": "uncountable , obsolete"
+      }
+    ],
+    "main_definition": "( uncountable ) Comparison .",
+    "secondary_definitions": [
+      "( countable , programming ) An instruction or command that compares two values or states.",
+      "( uncountable , obsolete ) Illustration by comparison; simile ."
+    ]
+  }
+]

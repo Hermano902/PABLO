@@ -1,0 +1,49 @@
+[
+  {
+    "word": "streamline",
+    "lemma": "streamline",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstriːmlaɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "streamlines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line that is tangent to the velocity of flow of a fluid ; equivalent to the path of a specific particle in that flow.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "On a weather chart , a line that is tangent to the flow of the wind.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      }
+    ],
+    "main_definition": "( physics ) A line that is tangent to the velocity of flow of a fluid ; equivalent to the path of a specific particle in that flow.",
+    "secondary_definitions": [
+      "( meteorology ) On a weather chart , a line that is tangent to the flow of the wind."
+    ]
+  }
+]

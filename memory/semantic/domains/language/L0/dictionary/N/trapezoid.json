@@ -1,0 +1,80 @@
+[
+  {
+    "word": "trapezoid",
+    "lemma": "trapezoid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹæpəzɔɪd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "trapezoids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A ( convex ) quadrilateral with two (non-adjacent) parallel sides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "US",
+          "Canada"
+        ],
+        "label_groups": "geometry , US , Canada"
+      },
+      {
+        "definition": "A convex quadrilateral with no sides parallel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "British",
+          "Australia",
+          "New Zealand"
+        ],
+        "label_groups": "geometry , British , Australia , New Zealand"
+      },
+      {
+        "definition": "The trapezoid bone of the wrist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "The marked trapezoidal area immediately behind the goal line and the goal itself within which the goaltender may touch the puck .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ice hockey"
+        ],
+        "label_groups": "ice hockey"
+      }
+    ],
+    "main_definition": "( geometry , US , Canada ) A ( convex ) quadrilateral with two (non-adjacent) parallel sides.",
+    "secondary_definitions": [
+      "( geometry , British , Australia , New Zealand ) A convex quadrilateral with no sides parallel.",
+      "( anatomy ) The trapezoid bone of the wrist .",
+      "( ice hockey ) The marked trapezoidal area immediately behind the goal line and the goal itself within which the goaltender may touch the puck ."
+    ]
+  }
+]

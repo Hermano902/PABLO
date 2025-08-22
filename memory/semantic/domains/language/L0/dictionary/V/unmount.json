@@ -1,0 +1,41 @@
+[
+  {
+    "word": "unmount",
+    "lemma": "unmount",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-aʊnt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unmounts",
+          "PT": "unmounted",
+          "PAP": "unmounted",
+          "PRP": "unmounting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reverse a mount operation; to instruct the operating system that the file system should be disassociated from its mount point, making it no longer accessible.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( computing , transitive ) To reverse a mount operation; to instruct the operating system that the file system should be disassociated from its mount point, making it no longer accessible.",
+    "secondary_definitions": []
+  }
+]

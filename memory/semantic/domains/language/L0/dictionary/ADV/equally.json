@@ -1,0 +1,70 @@
+[
+  {
+    "word": "equally",
+    "lemma": "equally",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈiːkwəli/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more equally",
+          "SUP": "most equally"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In an equal manner; in equal shares or proportion; with equal and impartial justice; evenly",
+        "examples": [
+          "All citizens are equally taxed.",
+          "The pie was divided equally among the guests.",
+          "They shared equally in the spoils."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manner"
+        ],
+        "label_groups": "manner"
+      },
+      {
+        "definition": "In equal degree or extent; just as.",
+        "examples": [
+          "The gas stations are equally far from the highway."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "degree"
+        ],
+        "label_groups": "degree"
+      },
+      {
+        "definition": "Used to link two or more coordinate elements",
+        "examples": [
+          "John suffered setbacks at his job. Equally , Frank's business slowed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "conjunctive"
+        ],
+        "label_groups": "conjunctive"
+      }
+    ],
+    "main_definition": "( manner ) In an equal manner; in equal shares or proportion; with equal and impartial justice; evenly",
+    "secondary_definitions": [
+      "( degree ) In equal degree or extent; just as.",
+      "( conjunctive ) Used to link two or more coordinate elements"
+    ]
+  }
+]

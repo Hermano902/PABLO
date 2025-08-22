@@ -1,0 +1,98 @@
+[
+  {
+    "word": "polymorphism",
+    "lemma": "polymorphism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɒlɪˈmɔːfɪz(ə)m/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polymorphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The ability to assume different forms or shapes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The coexistence , in the same locality, of two or more distinct forms independent of sex, not connected by intermediate gradations, but produced from common parents.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "A feature pertaining to the dynamic treatment of data elements based on their type, allowing for a method to have several definitions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "The property of certain typed formal systems of allowing for the use of type variables and binders/quantifiers over those type variables; likewise, the property of certain expressions (within such typed formal systems) of making use of at least one such typed variable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "type theory"
+        ],
+        "label_groups": "mathematics , type theory"
+      },
+      {
+        "definition": "The ability of a solid material to exist in more than one form or crystal structure; pleomorphism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      },
+      {
+        "definition": "The regular existence of two or more different genotypes within a given species or population; also, variability of amino acid sequences within a gene's protein.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "The ability to assume different forms or shapes .",
+    "secondary_definitions": [
+      "( biology ) The coexistence , in the same locality, of two or more distinct forms independent of sex, not connected by intermediate gradations, but produced from common parents.",
+      "( object-oriented programming ) A feature pertaining to the dynamic treatment of data elements based on their type, allowing for a method to have several definitions.",
+      "( mathematics , type theory ) The property of certain typed formal systems of allowing for the use of type variables and binders/quantifiers over those type variables; likewise, the property of certain expressions (within such typed formal systems) of making use of at least one such typed variable.",
+      "( crystallography ) The ability of a solid material to exist in more than one form or crystal structure; pleomorphism .",
+      "( genetics ) The regular existence of two or more different genotypes within a given species or population; also, variability of amino acid sequences within a gene's protein."
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "corollary",
+    "lemma": "corollary",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɒˈɹɒləɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "corollaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A gift beyond what is actually due; an addition or superfluity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An a fortiori occurrence, as a result of another effort without significant additional effort.",
+        "examples": [
+          "Finally getting that cracked window fixed was a nice corollary of redoing the whole storefront."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A proposition which follows easily from the statement or proof of another proposition.",
+        "examples": [
+          "We have proven that this set is finite and well ordered; as a corollary , we now know that there is an order-preserving map from it to the natural numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "logic"
+        ],
+        "label_groups": "mathematics , logic"
+      }
+    ],
+    "main_definition": "A gift beyond what is actually due; an addition or superfluity .",
+    "secondary_definitions": [
+      "An a fortiori occurrence, as a result of another effort without significant additional effort.",
+      "( mathematics , logic ) A proposition which follows easily from the statement or proof of another proposition."
+    ]
+  }
+]

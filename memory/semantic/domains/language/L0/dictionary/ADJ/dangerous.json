@@ -1,0 +1,64 @@
+[
+  {
+    "word": "dangerous",
+    "lemma": "dangerous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈdeɪnd͡ʒ(ə)ɹəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "dangerouser",
+          "SUP": "dangerousest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Full of danger .",
+        "examples": [
+          "Railway crossings without gates are highly dangerous ."
+        ],
+        "synonyms": [
+          "hazardous",
+          "perilous",
+          "risky",
+          "unsafe"
+        ],
+        "antonyms": [
+          "safe"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing danger; ready to do harm or injury.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In a condition of danger, as from illness ; threatened with death.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "dated"
+        ],
+        "label_groups": "colloquial , dated"
+      }
+    ],
+    "main_definition": "Full of danger .",
+    "secondary_definitions": [
+      "Causing danger; ready to do harm or injury.",
+      "( colloquial , dated ) In a condition of danger, as from illness ; threatened with death."
+    ]
+  }
+]

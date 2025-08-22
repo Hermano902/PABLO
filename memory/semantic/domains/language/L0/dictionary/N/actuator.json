@@ -1,0 +1,69 @@
+[
+  {
+    "word": "actuator",
+    "lemma": "actuator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæk.tjuː.eɪ.tə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "actuators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that actuates something else.",
+        "examples": [
+          "The mind is the actuator of the body."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A usually electric device that causes a mechanical device (i.e., a mechanism ) to be switched on or off. For example; an electric motor that opens and closes a valve .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The mechanism that moves the head assembly on a disk drive .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer hardware"
+        ],
+        "label_groups": "computer hardware"
+      },
+      {
+        "definition": "A relay that controls the flow of electricity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electrical"
+        ],
+        "label_groups": "electrical"
+      }
+    ],
+    "main_definition": "Something that actuates something else.",
+    "secondary_definitions": [
+      "A usually electric device that causes a mechanical device (i.e., a mechanism ) to be switched on or off. For example; an electric motor that opens and closes a valve .",
+      "( computer hardware ) The mechanism that moves the head assembly on a disk drive .",
+      "( electrical ) A relay that controls the flow of electricity."
+    ]
+  }
+]

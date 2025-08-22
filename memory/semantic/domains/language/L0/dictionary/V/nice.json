@@ -1,0 +1,42 @@
+[
+  {
+    "word": "nice",
+    "lemma": "nice",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/naɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "nices",
+          "PT": "niced",
+          "PAP": "niced",
+          "PRP": "nicing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To run a process with a specified (usually lower) priority .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "Unix"
+        ],
+        "label_groups": "transitive , computing , Unix"
+      }
+    ],
+    "main_definition": "( transitive , computing , Unix ) To run a process with a specified (usually lower) priority .",
+    "secondary_definitions": []
+  }
+]

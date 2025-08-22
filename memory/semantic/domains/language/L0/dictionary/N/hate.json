@@ -1,0 +1,83 @@
+[
+  {
+    "word": "hate",
+    "lemma": "hate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/heʔ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An object of hatred.",
+        "examples": [
+          "One of my pet hates is traffic wardens."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Hatred .",
+        "examples": [
+          "He gave me a look filled with pure hate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Negative feedback, abusive behaviour.",
+            "examples": [
+              "There was a lot of hate in the comments on my vlog about Lady Gaga from her fans."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Internet slang"
+            ],
+            "label_groups": "Internet slang"
+          },
+          {
+            "definition": "Bigotry .",
+            "examples": [
+              "The corporation said it would not tolerate hate ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "metonymic"
+        ],
+        "label_groups": "metonymic"
+      }
+    ],
+    "main_definition": "An object of hatred.",
+    "secondary_definitions": [
+      "Hatred .",
+      "( metonymic )"
+    ]
+  }
+]

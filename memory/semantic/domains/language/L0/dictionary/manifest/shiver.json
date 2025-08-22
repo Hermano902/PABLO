@@ -1,0 +1,31 @@
+{
+  "word": "shiver",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 10,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\shiver.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\shiver.json"
+  },
+  "timestamp": "2025-08-19T15:12:36.938128Z"
+}

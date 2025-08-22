@@ -1,0 +1,80 @@
+[
+  {
+    "word": "condense",
+    "lemma": "condense",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈdɛns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "condenses",
+          "PT": "condensed",
+          "PAP": "condensed",
+          "PRP": "condensing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To concentrate toward the essence by making more close , compact , or dense , thereby decreasing size or volume .",
+        "examples": [
+          "An abridged dictionary can be further condensed to pocket size.",
+          "Boiling off water condenses a thin sauce into a soupier mixture."
+        ],
+        "synonyms": [
+          "thicken",
+          "simplify",
+          "reduce"
+        ],
+        "antonyms": [
+          "dilute"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To transform from a gaseous state into a liquid state via condensation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To be transformed from a gaseous state into a liquid state.",
+        "examples": [
+          "Water condenses on the window on cold days because of the warm air inside."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chemistry"
+        ],
+        "label_groups": "intransitive , chemistry"
+      }
+    ],
+    "main_definition": "( transitive ) To concentrate toward the essence by making more close , compact , or dense , thereby decreasing size or volume .",
+    "secondary_definitions": [
+      "( transitive , chemistry ) To transform from a gaseous state into a liquid state via condensation .",
+      "( intransitive , chemistry ) To be transformed from a gaseous state into a liquid state."
+    ]
+  }
+]

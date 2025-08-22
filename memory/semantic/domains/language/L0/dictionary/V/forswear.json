@@ -1,0 +1,62 @@
+[
+  {
+    "word": "forswear",
+    "lemma": "forswear",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fə(ɹ)ˈswɛə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "forswears",
+          "PT": "forswore",
+          "PAP": "forsworn",
+          "PRP": "forswearing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To renounce or deny something , especially under oath .",
+        "examples": [
+          "We forswear allegiance and support for the Economic Freedom Fighters."
+        ],
+        "synonyms": [
+          "swear off"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To commit perjury ; to break an oath .",
+        "examples": [],
+        "synonyms": [
+          "perjure",
+          "manswear",
+          "misswear"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive or reflexive"
+        ],
+        "label_groups": "intransitive or reflexive"
+      }
+    ],
+    "main_definition": "( transitive ) To renounce or deny something , especially under oath .",
+    "secondary_definitions": [
+      "( intransitive or reflexive ) To commit perjury ; to break an oath ."
+    ]
+  }
+]

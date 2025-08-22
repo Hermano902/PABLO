@@ -1,0 +1,81 @@
+[
+  {
+    "word": "storage",
+    "lemma": "storage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstɔː.ɹɪd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "storages"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of storing goods ; the state of being stored .",
+        "examples": [
+          "There's a lot of storage in the loft."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An object or place in which something is stored.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "usually countable"
+        ],
+        "label_groups": "usually countable"
+      },
+      {
+        "definition": "Any computer device , including such as a disk , on which data is stored for a longer term than main memory .",
+        "examples": [
+          "I′d recommend backing up these files to storage before reinstalling the operating system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "usually uncountable",
+          "computer hardware"
+        ],
+        "label_groups": "usually uncountable , computer hardware"
+      },
+      {
+        "definition": "The price charged for storing goods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of storing goods ; the state of being stored .",
+    "secondary_definitions": [
+      "( usually countable ) An object or place in which something is stored.",
+      "( usually uncountable , computer hardware ) Any computer device , including such as a disk , on which data is stored for a longer term than main memory .",
+      "( uncountable ) The price charged for storing goods."
+    ]
+  }
+]

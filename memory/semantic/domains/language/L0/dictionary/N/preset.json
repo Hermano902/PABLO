@@ -1,0 +1,47 @@
+[
+  {
+    "word": "preset",
+    "lemma": "preset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpriːsɛt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "presets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A setting that is set in advance .",
+        "examples": [],
+        "synonyms": [
+          "PR"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A kind of variable resistor designed to have its resistance set while building the circuit, and then left at that value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "A setting that is set in advance .",
+    "secondary_definitions": [
+      "( electronics ) A kind of variable resistor designed to have its resistance set while building the circuit, and then left at that value."
+    ]
+  }
+]

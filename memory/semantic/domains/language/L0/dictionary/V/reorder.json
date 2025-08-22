@@ -1,0 +1,71 @@
+[
+  {
+    "word": "reorder",
+    "lemma": "reorder",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reorders",
+          "PT": "reordered",
+          "PAP": "reordered",
+          "PRP": "reordering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place in a new order; to rearrange .",
+        "examples": [
+          "The books were sorted by title, but I'm going to reorder them by author's surname."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To order (a product, etc.) again.",
+        "examples": [
+          "We reorder printer paper about once a month."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To order or command again; to repeat an instruction to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To place in a new order; to rearrange .",
+    "secondary_definitions": [
+      "( transitive ) To order (a product, etc.) again.",
+      "( transitive ) To order or command again; to repeat an instruction to."
+    ]
+  }
+]

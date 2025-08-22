@@ -1,0 +1,71 @@
+[
+  {
+    "word": "efficient",
+    "lemma": "efficient",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈfɪʃənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more efficient",
+          "SUP": "most efficient"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Making good, thorough , or careful use of resources ; not consuming extra. Especially, making good use of time or energy .",
+        "examples": [
+          "An efficient process would automate all the routine work.",
+          "Our cleaners are almost too efficient : they throw away anything left out on a desk."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Expressing the proportion of consumed energy that was successfully used in a process; the ratio of useful output to total input.",
+        "examples": [
+          "The motor is only 20% efficient at that temperature."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing effects, producing results; bringing into being; initiating change (rare except in philosophical and legal expression efficient cause = causative factor or agent ).",
+        "examples": [
+          "Ownership, maintenance, or use of the automobile need not be the direct and efficient cause of the injury sustained"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "effective , efficacious",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "proscribed",
+          "old use"
+        ],
+        "label_groups": "proscribed , old use"
+      }
+    ],
+    "main_definition": "Making good, thorough , or careful use of resources ; not consuming extra. Especially, making good use of time or energy .",
+    "secondary_definitions": [
+      "Expressing the proportion of consumed energy that was successfully used in a process; the ratio of useful output to total input.",
+      "Causing effects, producing results; bringing into being; initiating change (rare except in philosophical and legal expression efficient cause = causative factor or agent ).",
+      "( proscribed , old use ) effective , efficacious"
+    ]
+  }
+]

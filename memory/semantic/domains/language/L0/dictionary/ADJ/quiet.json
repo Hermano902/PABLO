@@ -1,0 +1,121 @@
+[
+  {
+    "word": "quiet",
+    "lemma": "quiet",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwaɪ.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more quiet",
+          "SUP": "most quiet"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "With little or no sound; free of disturbing noise .",
+        "examples": [
+          "I can't hear the music; it is too quiet ."
+        ],
+        "synonyms": [
+          "hushed",
+          "muffled"
+        ],
+        "antonyms": [
+          "loud"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having little motion or activity ; calm .",
+        "examples": [
+          "the sea was quiet",
+          "a quiet night at home",
+          "all quiet on the Western front"
+        ],
+        "synonyms": [
+          "placid",
+          "serene"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not busy , of low quantity .",
+        "examples": [
+          "The traffic was quiet for a Monday morning.",
+          "Business was quiet for the season."
+        ],
+        "synonyms": [
+          "slow",
+          "unbusy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not talking much or not talking loudly ; reserved .",
+        "examples": [
+          "He's a very quiet man usually, but is very chatty after a few beers."
+        ],
+        "synonyms": [
+          "reticent"
+        ],
+        "antonyms": [
+          "garrulous",
+          "prolix"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not showy ; undemonstrative .",
+        "examples": [
+          "a quiet dress",
+          "quiet colours",
+          "a quiet movement"
+        ],
+        "synonyms": [
+          "modest",
+          "plain",
+          "simple"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Requiring little or no interaction .",
+        "examples": [
+          "a quiet install"
+        ],
+        "synonyms": [
+          "silent",
+          "unattended"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software"
+        ],
+        "label_groups": "software"
+      }
+    ],
+    "main_definition": "With little or no sound; free of disturbing noise .",
+    "secondary_definitions": [
+      "Having little motion or activity ; calm .",
+      "Not busy , of low quantity .",
+      "Not talking much or not talking loudly ; reserved .",
+      "Not showy ; undemonstrative .",
+      "( software ) Requiring little or no interaction ."
+    ]
+  }
+]

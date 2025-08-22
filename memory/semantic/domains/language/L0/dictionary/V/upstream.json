@@ -1,0 +1,57 @@
+[
+  {
+    "word": "upstream",
+    "lemma": "upstream",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌpˈstɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "upstreams",
+          "PT": "upstreamed",
+          "PAP": "upstreamed",
+          "PRP": "upstreaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stream upward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To have (a software library , patch , etc.) accepted by the original developers of the related software, so that they maintain and distribute it.",
+        "examples": [
+          "I'd be more than happy to upstream your patch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "open-source software"
+        ],
+        "label_groups": "transitive , open-source software"
+      }
+    ],
+    "main_definition": "( intransitive ) To stream upward.",
+    "secondary_definitions": [
+      "( transitive , open-source software ) To have (a software library , patch , etc.) accepted by the original developers of the related software, so that they maintain and distribute it."
+    ]
+  }
+]

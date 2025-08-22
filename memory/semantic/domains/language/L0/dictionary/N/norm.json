@@ -1,0 +1,138 @@
+[
+  {
+    "word": "norm",
+    "lemma": "norm",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nɔːm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "norms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is normal or typical .",
+        "examples": [
+          "Unemployment is the norm in this part of the country."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A rule that is imposed by regulations and/or socially enforced by members of a community.",
+        "examples": [
+          "Not eating your children is just one of those societal norms ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sentence with non-descriptive meaning, such as a command , permission , or prohibition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy",
+          "computer science"
+        ],
+        "label_groups": "philosophy , computer science"
+      },
+      {
+        "definition": "A function which satisfies a particular set of formal conditions, created to generalize the notion of the length of a vector . Formally, a real-valued function on a vector space , generally denoted v ↦ | v | {\\displaystyle v\\mapsto \\left|v\\right|} or v ↦ ‖ v ‖ {\\displaystyle v\\mapsto \\left\\|v\\right\\|} , that satisfies the following properties:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "if v ≠ 0 {\\displaystyle v\\neq 0} then ‖ v ‖ ≠ 0 {\\displaystyle \\left\\|v\\right\\|\\neq 0} ;",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "given a scalar k {\\displaystyle k} , ‖ k v ‖ = | k | ⋅ ‖ v ‖ {\\displaystyle \\left\\|kv\\right\\|=\\left|k\\right|\\cdot \\left\\|v\\right\\|} , where | k | {\\displaystyle \\left|k\\right|} is the absolute value of k {\\displaystyle k} ;",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "given two vectors v , w {\\displaystyle v,w} , ‖ v + w ‖ ≤ ‖ v ‖ + ‖ w ‖ {\\displaystyle \\left\\|v+w\\right\\|\\leq \\left\\|v\\right\\|+\\left\\|w\\right\\|} (the triangle inequality ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Any of several generalizations of the above: a field norm , ideal norm , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "An element of the image of some (generalized) norm, the element then said to be from the norm in question, or from the structure which gave rise to the norm .",
+            "examples": [
+              "A quaternion algebra ( a , b ) {\\displaystyle (a,b)} over k {\\displaystyle k} splits if and only if b {\\displaystyle b} is a norm from the field extension k ( a ) / k , {\\displaystyle k({\\sqrt {a}})/k,} i.e. if and only if there is some x {\\displaystyle x} in k ( a ) {\\displaystyle k({\\sqrt {a}})} which has field norm exactly equal to b {\\displaystyle b} ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra"
+            ],
+            "label_groups": "algebra"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A high level of performance in a chess tournament , several of which are required for a player to receive a title .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      }
+    ],
+    "main_definition": "That which is normal or typical .",
+    "secondary_definitions": [
+      "A rule that is imposed by regulations and/or socially enforced by members of a community.",
+      "( philosophy , computer science ) A sentence with non-descriptive meaning, such as a command , permission , or prohibition .",
+      "( mathematics ) A function which satisfies a particular set of formal conditions, created to generalize the notion of the length of a vector . Formally, a real-valued function on a vector space , generally denoted v ↦ | v | {\\displaystyle v\\mapsto \\left|v\\right|} or v ↦ ‖ v ‖ {\\displaystyle v\\mapsto \\left\\|v\\right\\|} , that satisfies the following properties:",
+      "( mathematics ) Any of several generalizations of the above: a field norm , ideal norm , etc.",
+      "( chess ) A high level of performance in a chess tournament , several of which are required for a player to receive a title ."
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "word": "persuade",
+    "lemma": "persuade",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pə(ɹ)ˈsweɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "persuades",
+          "PT": "persuaded",
+          "PAP": "persuaded",
+          "PRP": "persuading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To successfully convince (someone) to agree to, accept , or do something, usually through reasoning and verbal influence.",
+        "examples": [
+          "That salesman was able to persuade me into buying this bottle of lotion."
+        ],
+        "synonyms": [
+          "convince",
+          "draw",
+          "coax",
+          "wheedle"
+        ],
+        "antonyms": [
+          "deter",
+          "dissuade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "To convince of by argument, or by reasons offered or suggested from reflection, etc.; to cause to believe (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete",
+        "dating_raw": "15th–18th c."
+      },
+      {
+        "definition": "To urge , plead ; to try to convince (someone to do something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "now rare",
+          "regional"
+        ],
+        "label_groups": "transitive , now rare , regional",
+        "dating_raw": "from 16th c."
+      }
+    ],
+    "main_definition": "( transitive ) To successfully convince (someone) to agree to, accept , or do something, usually through reasoning and verbal influence. [from 15th c.]",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To convince of by argument, or by reasons offered or suggested from reflection, etc.; to cause to believe (something). [15th–18th c.]",
+      "( transitive , now rare , regional ) To urge , plead ; to try to convince (someone to do something). [from 16th c.]"
+    ]
+  }
+]

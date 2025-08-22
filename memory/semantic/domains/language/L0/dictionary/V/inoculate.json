@@ -1,0 +1,115 @@
+[
+  {
+    "word": "inoculate",
+    "lemma": "inoculate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈnɒkjuleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inoculates",
+          "PT": "inoculated",
+          "PAP": "inoculated",
+          "PRP": "inoculating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To introduce an antigenic substance or vaccine into something (e.g. the body) or someone , such as to produce immunity to a specific disease .",
+        "examples": [],
+        "synonyms": [
+          "immunize",
+          "vaccinate",
+          "vaccine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "immunology"
+        ],
+        "label_groups": "transitive , immunology",
+        "dating_raw": "from c . 1722"
+      },
+      {
+        "definition": "To safeguard or protect something as if by inoculation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To add one substance to another.",
+        "examples": [
+          "The culture medium was inoculated with selenium to investigate the rate of uptake."
+        ],
+        "synonyms": [
+          "spike"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To graft by inserting buds .",
+        "examples": [
+          "to inoculate the bud of one tree or plant into another",
+          "to inoculate a tree"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from c . 1420"
+      },
+      {
+        "definition": "To introduce into the mind (used especially of harmful ideas or principles ).",
+        "examples": [
+          "to inoculate someone with treason or infidelity"
+        ],
+        "synonyms": [
+          "imbue",
+          "implant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "transitive"
+        ],
+        "label_groups": "figurative , transitive",
+        "dating_raw": "from a . 1600"
+      }
+    ],
+    "main_definition": "( transitive , immunology ) To introduce an antigenic substance or vaccine into something (e.g. the body) or someone , such as to produce immunity to a specific disease . [from c . 1722]",
+    "secondary_definitions": [
+      "( transitive , by extension ) To safeguard or protect something as if by inoculation .",
+      "( transitive ) To add one substance to another.",
+      "( transitive ) To graft by inserting buds . [from c . 1420]",
+      "( figurative , transitive ) To introduce into the mind (used especially of harmful ideas or principles ). [from a . 1600]"
+    ]
+  }
+]

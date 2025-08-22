@@ -1,0 +1,56 @@
+[
+  {
+    "word": "derrick",
+    "lemma": "derrick",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛɹɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "derricks",
+          "PT": "derricked",
+          "PAP": "derricked",
+          "PRP": "derricking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hoist with, or as if with, a derrick.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove (a pitcher ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "baseball",
+          "informal"
+        ],
+        "label_groups": "transitive , baseball , informal"
+      }
+    ],
+    "main_definition": "( transitive ) To hoist with, or as if with, a derrick.",
+    "secondary_definitions": [
+      "( transitive , baseball , informal ) To remove (a pitcher )."
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "word": "ana",
+  "pos_order": [
+    "N",
+    "ADV",
+    "N:2",
+    "ADV:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 1,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ana.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\ana.json"
+  },
+  "timestamp": "2025-08-18T20:48:07.317204Z"
+}

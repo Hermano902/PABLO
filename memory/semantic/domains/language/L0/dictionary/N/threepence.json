@@ -1,0 +1,54 @@
+[
+  {
+    "word": "threepence",
+    "lemma": "threepence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈθɹʌpəns/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "threepences"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The amount of money equal to that of three pence (old or new).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A former ( pre-decimalisation ) British or Irish coin worth three old pence .",
+        "examples": [],
+        "synonyms": [
+          "threepenny bit",
+          "thruppence"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "historical"
+        ],
+        "label_groups": "countable , historical"
+      }
+    ],
+    "main_definition": "( uncountable ) The amount of money equal to that of three pence (old or new).",
+    "secondary_definitions": [
+      "( countable , historical ) A former ( pre-decimalisation ) British or Irish coin worth three old pence ."
+    ]
+  }
+]

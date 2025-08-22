@@ -1,0 +1,40 @@
+{
+  "word": "boss",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 7,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\boss.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\boss.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\boss.json"
+  },
+  "timestamp": "2025-08-18T22:31:53.395331Z"
+}

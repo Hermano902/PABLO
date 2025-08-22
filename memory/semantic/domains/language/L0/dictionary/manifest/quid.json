@@ -1,0 +1,30 @@
+{
+  "word": "quid",
+  "pos_order": [
+    "N",
+    "N:2",
+    "N:3",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\quid.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\quid.json"
+  },
+  "timestamp": "2025-08-19T12:58:52.466126Z"
+}

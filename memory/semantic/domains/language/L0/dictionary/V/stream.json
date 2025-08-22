@@ -1,0 +1,97 @@
+[
+  {
+    "word": "stream",
+    "lemma": "stream",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/stɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "streams",
+          "PT": "streamed",
+          "PAP": "streamed",
+          "PRP": "streaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To flow in a continuous or steady manner, like a liquid.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To extend; to stretch out with a wavy motion; to float in the wind.",
+        "examples": [
+          "A flag streams in the wind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To discharge in a stream .",
+        "examples": [
+          "The soldier's wound was streaming blood."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To push continuous data (e.g. music ) from a server to a client computer while it is being used (played) on the client.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "To livestream .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "( intransitive ) To flow in a continuous or steady manner, like a liquid.",
+    "secondary_definitions": [
+      "( intransitive ) To extend; to stretch out with a wavy motion; to float in the wind.",
+      "( transitive ) To discharge in a stream .",
+      "( Internet ) To push continuous data (e.g. music ) from a server to a client computer while it is being used (played) on the client.",
+      "( Internet ) To livestream ."
+    ]
+  }
+]

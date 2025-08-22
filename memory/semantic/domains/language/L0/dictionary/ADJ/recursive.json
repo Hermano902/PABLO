@@ -1,0 +1,92 @@
+[
+  {
+    "word": "recursive",
+    "lemma": "recursive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkɜː(ɹ)sɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more recursive",
+          "SUP": "most recursive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "drawing upon itself, referring back.",
+        "examples": [
+          "The recursive nature of stories which borrow from each other"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "of an expression , each term of which is determined by applying a formula to preceding terms",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "not comparable"
+        ],
+        "label_groups": "mathematics , not comparable"
+      },
+      {
+        "definition": "of a program or function that calls itself",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "not comparable"
+        ],
+        "label_groups": "computing , not comparable"
+      },
+      {
+        "definition": "which can be computed by a theoretical model of a computer, in a finite amount of time",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory",
+          "not comparable",
+          "of a function"
+        ],
+        "label_groups": "computing theory , not comparable , of a function"
+      },
+      {
+        "definition": "whose characteristic function is recursive (4)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory",
+          "not comparable",
+          "of a set"
+        ],
+        "label_groups": "computing theory , not comparable , of a set"
+      }
+    ],
+    "main_definition": "drawing upon itself, referring back.",
+    "secondary_definitions": [
+      "( mathematics , not comparable ) of an expression , each term of which is determined by applying a formula to preceding terms",
+      "( computing , not comparable ) of a program or function that calls itself",
+      "( computing theory , not comparable , of a function ) which can be computed by a theoretical model of a computer, in a finite amount of time",
+      "( computing theory , not comparable , of a set ) whose characteristic function is recursive (4)"
+    ]
+  }
+]

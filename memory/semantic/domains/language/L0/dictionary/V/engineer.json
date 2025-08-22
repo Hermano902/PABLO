@@ -1,0 +1,106 @@
+[
+  {
+    "word": "engineer",
+    "lemma": "engineer",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛn(d)ʒɪˈnɪə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "engineers",
+          "PT": "engineered",
+          "PAP": "engineered",
+          "PRP": "engineering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To employ one's abilities and knowledge as an engineer to design , construct , and/or maintain (something, such as a machine or a structure ), usually for industrial or public use .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To use genetic engineering to alter or construct (a DNA sequence ), or to alter (an organism ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "specifically"
+            ],
+            "label_groups": "specifically"
+          },
+          {
+            "definition": "To plan or achieve (a goal ) by contrivance or guile ; to finagle , to wangle .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To formulate plots or schemes ; to plot , to scheme .",
+            "examples": [],
+            "synonyms": [
+              "machinate"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To work as an engineer.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rare"
+            ],
+            "label_groups": "rare"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive )",
+    "secondary_definitions": [
+      "( intransitive )"
+    ]
+  }
+]

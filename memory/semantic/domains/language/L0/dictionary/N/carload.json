@@ -1,0 +1,53 @@
+[
+  {
+    "word": "carload",
+    "lemma": "carload",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɑːləʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "carloads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The contents of an automobile (passengers, supplies, etc.) for one trip.",
+        "examples": [
+          "I brought a carload of flowers to her.",
+          "We brought a carload of kids and camping gear on our road trip out west."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The quantity of goods that can be carried in a freight car .",
+        "examples": [
+          "less-than- carload freight",
+          "By 1887 the company had grown so large that it was buying its flour and sugar by the carload ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "US",
+          "Canada"
+        ],
+        "label_groups": "rail transport , US , Canada"
+      }
+    ],
+    "main_definition": "The contents of an automobile (passengers, supplies, etc.) for one trip.",
+    "secondary_definitions": [
+      "( rail transport , US , Canada ) The quantity of goods that can be carried in a freight car ."
+    ]
+  }
+]

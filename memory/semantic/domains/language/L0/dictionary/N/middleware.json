@@ -1,0 +1,49 @@
+[
+  {
+    "word": "middleware",
+    "lemma": "middleware",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "middlewares"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Software that functions at an intermediate layer between applications and operating system or database management system , or between client and server .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Networking software or hardware that is deployed in the middle of, as opposed to serviced by, a packet network to enhance or provide some network function, such as caching , filtering , or firewall functionality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Software that functions at an intermediate layer between applications and operating system or database management system , or between client and server .",
+    "secondary_definitions": [
+      "( computing ) Networking software or hardware that is deployed in the middle of, as opposed to serviced by, a packet network to enhance or provide some network function, such as caching , filtering , or firewall functionality."
+    ]
+  }
+]

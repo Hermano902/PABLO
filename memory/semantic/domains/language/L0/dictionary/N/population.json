@@ -1,0 +1,130 @@
+[
+  {
+    "word": "population",
+    "lemma": "population",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɒp.jʊˈleɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "populations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The people living within a political or geographical boundary.",
+        "examples": [
+          "The population of New Jersey will not stand for this!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The people with a given characteristic.",
+        "examples": [
+          "India has the third-largest population of English-speakers in the world."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "A count of the number of residents within a political or geographical boundary such as a town , a nation or the world .",
+        "examples": [
+          "The town’s population is only 243.",
+          "population explosion; population growth"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The number of living cells in a pattern .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cellular automata"
+            ],
+            "label_groups": "cellular automata"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A collection of organisms of a particular species , sharing a particular characteristic of interest, most often that of living in a given area.",
+        "examples": [
+          "A seasonal migration annually changes the populations in two or more biotopes drastically, many twice in opposite senses."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "A group of units (persons, objects, or other items) enumerated in a census or from which a sample is drawn.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "The act of filling initially empty items in a collection .",
+        "examples": [
+          "John clicked the Search button and waited for the population of the list to complete."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "General population .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "prison"
+        ],
+        "label_groups": "prison"
+      }
+    ],
+    "main_definition": "The people living within a political or geographical boundary.",
+    "secondary_definitions": [
+      "( by extension ) The people with a given characteristic.",
+      "A count of the number of residents within a political or geographical boundary such as a town , a nation or the world .",
+      "( biology ) A collection of organisms of a particular species , sharing a particular characteristic of interest, most often that of living in a given area.",
+      "( statistics ) A group of units (persons, objects, or other items) enumerated in a census or from which a sample is drawn.",
+      "( computing ) The act of filling initially empty items in a collection .",
+      "( prison ) General population ."
+    ]
+  }
+]

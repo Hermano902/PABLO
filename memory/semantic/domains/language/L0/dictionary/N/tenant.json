@@ -1,0 +1,102 @@
+[
+  {
+    "word": "tenant",
+    "lemma": "tenant",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛ.nənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tenants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who holds a lease (a tenancy ).",
+        "examples": [],
+        "synonyms": [
+          "renter",
+          "lessee",
+          "rentee",
+          "leaseholder"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( by extension ) One who has possession of any place.",
+        "examples": [],
+        "synonyms": [
+          "dweller",
+          "occupant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) Any of a number of customers serviced through the same instance of an application .",
+        "examples": [
+          "multi- tenant hosting"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chiefly historical ) One who holds a feudal tenure in real property .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( property law , by extension ) One who owns real estate other than via allodial title .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "One who holds a lease (a tenancy ).",
+    "secondary_definitions": [
+      "( by extension ) One who has possession of any place.",
+      "( computing ) Any of a number of customers serviced through the same instance of an application .",
+      "( chiefly historical ) One who holds a feudal tenure in real property .",
+      "( property law , by extension ) One who owns real estate other than via allodial title ."
+    ]
+  },
+  {
+    "word": "tenant",
+    "lemma": "tenant",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈtɛ.nənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Misconstruction of tenet .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Misconstruction of tenet .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "word": "weird",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V",
+    "ADV"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 7,
+      "examples": 4,
+      "synonyms": 20,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 8,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\weird.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\weird.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\weird.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\weird.json"
+  },
+  "timestamp": "2025-08-19T20:50:52.251783Z"
+}

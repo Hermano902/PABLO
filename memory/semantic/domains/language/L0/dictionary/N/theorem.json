@@ -1,0 +1,67 @@
+[
+  {
+    "word": "theorem",
+    "lemma": "theorem",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈθiː.ə.ɹəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "theorems"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A mathematical statement of some importance that has been proven to be true . Minor theorems are often called propositions . Theorems which are not very interesting in themselves but are an essential part of a bigger theorem's proof are called lemmas .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A mathematical statement that is expected to be true .",
+        "examples": [
+          "Fermat's Last Theorem was known thus long before it was proved in the 1990s.",
+          "was known thus long before it was proved in the 1990s."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "colloquial",
+          "nonstandard"
+        ],
+        "label_groups": "mathematics , colloquial , nonstandard"
+      },
+      {
+        "definition": "A syntactically correct expression that is deducible from the given axioms of a deductive system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( mathematics ) A mathematical statement of some importance that has been proven to be true . Minor theorems are often called propositions . Theorems which are not very interesting in themselves but are an essential part of a bigger theorem's proof are called lemmas .",
+    "secondary_definitions": [
+      "( mathematics , colloquial , nonstandard ) A mathematical statement that is expected to be true .",
+      "( logic ) A syntactically correct expression that is deducible from the given axioms of a deductive system ."
+    ]
+  }
+]

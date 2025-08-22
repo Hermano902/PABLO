@@ -1,0 +1,119 @@
+[
+  {
+    "word": "equivalent",
+    "lemma": "equivalent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈkwɪvələnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more equivalent",
+          "SUP": "most equivalent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Similar or identical in value , meaning or effect ; virtually equal .",
+        "examples": [
+          "To burn calories, a thirty-minute jog is equivalent to a couple of hamburgers."
+        ],
+        "synonyms": [
+          "on a par"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of two sets , having a one-to-one correspondence .",
+        "examples": [],
+        "synonyms": [
+          "equinumerous"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Relating to the corresponding elements of an equivalence relation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Of two categories , ( informally ) such that one is essentially a relabeling of the other; ( formally ) related by a pair of functors such the composition of the one with the other is naturally isomorphic to the identity functor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory"
+        ],
+        "label_groups": "mathematics , category theory"
+      },
+      {
+        "definition": "Having the equal ability to combine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Of a map, equal-area .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cartography"
+        ],
+        "label_groups": "cartography"
+      },
+      {
+        "definition": "Equal in measure but not admitting of superposition ; applied to magnitudes .",
+        "examples": [
+          "A square may be equivalent to a triangle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "Similar or identical in value , meaning or effect ; virtually equal .",
+    "secondary_definitions": [
+      "( mathematics ) Of two sets , having a one-to-one correspondence .",
+      "( mathematics ) Relating to the corresponding elements of an equivalence relation .",
+      "( mathematics , category theory ) Of two categories , ( informally ) such that one is essentially a relabeling of the other; ( formally ) related by a pair of functors such the composition of the one with the other is naturally isomorphic to the identity functor.",
+      "( chemistry ) Having the equal ability to combine .",
+      "( cartography ) Of a map, equal-area .",
+      "( geometry ) Equal in measure but not admitting of superposition ; applied to magnitudes ."
+    ]
+  }
+]

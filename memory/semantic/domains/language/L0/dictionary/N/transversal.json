@@ -1,0 +1,58 @@
+[
+  {
+    "word": "transversal",
+    "lemma": "transversal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈvɜːsəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transversals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line which traverses or intersects any system of other lines transversely .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A line intersecting a pair of parallel lines.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A set containing one member from each of a collection of disjoint sets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "A line which traverses or intersects any system of other lines transversely .",
+    "secondary_definitions": [
+      "( mathematics ) A set containing one member from each of a collection of disjoint sets ."
+    ]
+  }
+]

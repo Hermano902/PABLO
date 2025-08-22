@@ -1,0 +1,44 @@
+[
+  {
+    "word": "photolithography",
+    "lemma": "photolithography",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A lithographic procedure in which printing plates are made using a photographic process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "printing"
+        ],
+        "label_groups": "printing"
+      },
+      {
+        "definition": "An optical exposure process used in the manufacture of integrated circuits .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "microelectronics"
+        ],
+        "label_groups": "microelectronics"
+      }
+    ],
+    "main_definition": "( printing ) A lithographic procedure in which printing plates are made using a photographic process.",
+    "secondary_definitions": [
+      "( microelectronics ) An optical exposure process used in the manufacture of integrated circuits ."
+    ]
+  }
+]

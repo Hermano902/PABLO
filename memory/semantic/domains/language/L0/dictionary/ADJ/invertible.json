@@ -1,0 +1,61 @@
+[
+  {
+    "word": "invertible",
+    "lemma": "invertible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being inverted or turned.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be inverted, having an inverse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "especially of a function or matrix"
+        ],
+        "label_groups": "mathematics , especially of a function or matrix"
+      },
+      {
+        "definition": "Capable of being changed or converted.",
+        "examples": [
+          "invertible sugar"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "Capable of being inverted or turned.",
+    "secondary_definitions": [
+      "( mathematics , especially of a function or matrix ) Able to be inverted, having an inverse .",
+      "( chemistry ) Capable of being changed or converted."
+    ]
+  }
+]

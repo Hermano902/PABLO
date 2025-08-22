@@ -1,0 +1,73 @@
+[
+  {
+    "word": "celerity",
+    "lemma": "celerity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/sɪˈlɛɹɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "celerities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Speed , swiftness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The speed of an individual wave (as opposed to the speed of groups of waves); often denoted c .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The speed with which a perturbation to the flow propagates through the flow domain.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "hydrology"
+            ],
+            "label_groups": "hydrology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "oceanography",
+          "meteorology"
+        ],
+        "label_groups": "oceanography , meteorology"
+      },
+      {
+        "definition": "The speed of symbol transmission, now called baud rate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications",
+          "dated"
+        ],
+        "label_groups": "telecommunications , dated"
+      }
+    ],
+    "main_definition": "Speed , swiftness .",
+    "secondary_definitions": [
+      "( oceanography , meteorology ) The speed of an individual wave (as opposed to the speed of groups of waves); often denoted c .",
+      "( telecommunications , dated ) The speed of symbol transmission, now called baud rate."
+    ]
+  }
+]

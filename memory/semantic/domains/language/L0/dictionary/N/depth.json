@@ -1,0 +1,228 @@
+[
+  {
+    "word": "depth",
+    "lemma": "depth",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɛpθ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "depths"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "the vertical distance below a surface ; the degree to which something is deep",
+        "examples": [
+          "Measure the depth of the water in this part of the bay."
+        ],
+        "synonyms": [
+          "deepness",
+          "lowness"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the distance between the front and the back, as the depth of a drawer or closet",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the intensity , complexity, strength, seriousness or importance of an emotion, situation, etc.",
+        "examples": [
+          "The depth of her misery was apparent to everyone.",
+          "The depth of the crisis had been exaggerated.",
+          "We were impressed by the depth of her knowledge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "lowness",
+        "examples": [
+          "the depth of a sound"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the total palette of available colors",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "colors"
+        ],
+        "label_groups": "computing , colors"
+      },
+      {
+        "definition": "the property of appearing three-dimensional",
+        "examples": [
+          "The depth of field in this picture is amazing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art",
+          "photography"
+        ],
+        "label_groups": "art , photography"
+      },
+      {
+        "definition": "the deepest part ( usually of a body of water )",
+        "examples": [
+          "The burning ship finally sunk into the depths ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literary",
+          "usually in the plural"
+        ],
+        "label_groups": "literary , usually in the plural"
+      },
+      {
+        "definition": "a very remote part.",
+        "examples": [
+          "Into the depths of the jungle...",
+          "In the depths of the night,"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literary",
+          "usually in the plural"
+        ],
+        "label_groups": "literary , usually in the plural"
+      },
+      {
+        "definition": "the most severe part",
+        "examples": [
+          "in the depth of the crisis",
+          "in the depths of winter"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the number of simple elements which an abstract conception or notion includes; the comprehension or content",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "a pair of toothed wheels which work together",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "horology"
+        ],
+        "label_groups": "horology"
+      },
+      {
+        "definition": "the perpendicular distance from the chord to the farthest point of an arched surface",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aeronautics"
+        ],
+        "label_groups": "aeronautics"
+      },
+      {
+        "definition": "the lower of the two ranks of a value in an ordered set of values",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "A set of more than one ciphertext enciphered with the same key .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "An invariant of rings and modules , encoding information about dimensionality ; see Depth (ring theory) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "ring theory"
+        ],
+        "label_groups": "algebra , ring theory"
+      }
+    ],
+    "main_definition": "the vertical distance below a surface ; the degree to which something is deep",
+    "secondary_definitions": [
+      "the distance between the front and the back, as the depth of a drawer or closet",
+      "( figuratively ) the intensity , complexity, strength, seriousness or importance of an emotion, situation, etc.",
+      "lowness",
+      "( computing , colors ) the total palette of available colors",
+      "( art , photography ) the property of appearing three-dimensional",
+      "( literary , usually in the plural ) the deepest part ( usually of a body of water )",
+      "( literary , usually in the plural ) a very remote part.",
+      "the most severe part",
+      "( logic ) the number of simple elements which an abstract conception or notion includes; the comprehension or content",
+      "( horology ) a pair of toothed wheels which work together",
+      "( aeronautics ) the perpendicular distance from the chord to the farthest point of an arched surface",
+      "( statistics ) the lower of the two ranks of a value in an ordered set of values",
+      "( cryptography ) A set of more than one ciphertext enciphered with the same key .",
+      "( algebra , ring theory ) An invariant of rings and modules , encoding information about dimensionality ; see Depth (ring theory) ."
+    ]
+  }
+]

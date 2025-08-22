@@ -1,0 +1,48 @@
+[
+  {
+    "word": "literacy",
+    "lemma": "literacy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪtəɹəsi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "literacies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The ability to read and write .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The ability to understand and evaluate something.",
+        "examples": [
+          "computer literacy",
+          "media literacy"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "The ability to read and write .",
+    "secondary_definitions": [
+      "( by extension ) The ability to understand and evaluate something."
+    ]
+  }
+]

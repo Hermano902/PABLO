@@ -1,0 +1,39 @@
+[
+  {
+    "word": "denormal",
+    "lemma": "denormal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Smaller than the smallest normal number but larger than zero , thus serving to fill the underflow gap.",
+        "examples": [],
+        "synonyms": [
+          "denormalized",
+          "subnormal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory",
+          "of a number"
+        ],
+        "label_groups": "computing theory , of a number"
+      }
+    ],
+    "main_definition": "( computing theory , of a number ) Smaller than the smallest normal number but larger than zero , thus serving to fill the underflow gap.",
+    "secondary_definitions": []
+  }
+]

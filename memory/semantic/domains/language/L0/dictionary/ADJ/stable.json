@@ -1,0 +1,78 @@
+[
+  {
+    "word": "stable",
+    "lemma": "stable",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsteɪbl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more stable",
+          "SUP": "most stable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Relatively unchanging , steady, permanent; firmly fixed or established; consistent ; not easily moved, altered, or destroyed.",
+        "examples": [
+          "He was in a stable relationship.",
+          "a stable government"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of software : established to be relatively free of bugs , as opposed to a beta version.",
+        "examples": [
+          "You should download the 1.9 version of that video editing software: it is the latest stable version. The newer beta version has some bugs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "That maintains the relative order of items that compare as equal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "of a sorting algorithm"
+        ],
+        "label_groups": "computer science , of a sorting algorithm"
+      },
+      {
+        "definition": "{\\displaystyle (M_{n})} of a module M {\\displaystyle M} over a ring with respect to an ideal (here I {\\displaystyle I} but often a , m , p {\\displaystyle a,m,p} etc.) of that ring ) Eventually satisfying the identity I M n = M n + 1 {\\displaystyle IM_{n}=M_{n+1}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "commutative algebra",
+          "of a filtration ( M n"
+        ],
+        "label_groups": "commutative algebra , of a filtration ( M n"
+      }
+    ],
+    "main_definition": "Relatively unchanging , steady, permanent; firmly fixed or established; consistent ; not easily moved, altered, or destroyed.",
+    "secondary_definitions": [
+      "( computing ) Of software : established to be relatively free of bugs , as opposed to a beta version.",
+      "( computer science , of a sorting algorithm ) That maintains the relative order of items that compare as equal.",
+      "( commutative algebra , of a filtration ( M n ) {\\displaystyle (M_{n})} of a module M {\\displaystyle M} over a ring with respect to an ideal (here I {\\displaystyle I} but often a , m , p {\\displaystyle a,m,p} etc.) of that ring ) Eventually satisfying the identity I M n = M n + 1 {\\displaystyle IM_{n}=M_{n+1}} ."
+    ]
+  }
+]

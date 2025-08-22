@@ -1,0 +1,30 @@
+{
+  "word": "temporal",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "ADJ:2",
+    "N:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 4,
+      "antonyms": 2,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\temporal.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\temporal.json"
+  },
+  "timestamp": "2025-08-19T18:56:22.798275Z"
+}

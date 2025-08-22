@@ -1,0 +1,66 @@
+[
+  {
+    "word": "dividend",
+    "lemma": "dividend",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪvɪdɛnd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dividends"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A cash payment of money by a company to its shareholders , usually made periodically (e.g., quarterly or annually ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "A number or expression that is to be divided by another.",
+        "examples": [
+          "In \"42 ÷ 3\" the dividend is the 42."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      },
+      {
+        "definition": "Beneficial results from a metaphorical investment (of time , effort , etc.)",
+        "examples": [
+          "His 10,000 hours of practice and recitals eventually paid dividends when he become first-chair violinist."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( finance ) A cash payment of money by a company to its shareholders , usually made periodically (e.g., quarterly or annually ).",
+    "secondary_definitions": [
+      "( arithmetic ) A number or expression that is to be divided by another.",
+      "( figuratively ) Beneficial results from a metaphorical investment (of time , effort , etc.)"
+    ]
+  }
+]

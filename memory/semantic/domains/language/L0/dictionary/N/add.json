@@ -1,0 +1,64 @@
+[
+  {
+    "word": "add",
+    "lemma": "add",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/æd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "adds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The addition of a song to a station's playlist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radio"
+        ],
+        "label_groups": "radio"
+      },
+      {
+        "definition": "An act or instance of adding.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "An additional enemy that joins a fight after the primary target.",
+        "examples": [
+          "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( radio ) The addition of a song to a station's playlist .",
+    "secondary_definitions": [
+      "( computer science ) An act or instance of adding.",
+      "( video games ) An additional enemy that joins a fight after the primary target."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "handicap",
+    "lemma": "handicap",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhændikæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "handicaps",
+          "PT": "handicapped",
+          "PAP": "handicapped",
+          "PRP": "handicapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To encumber with a handicap in any contest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place at disadvantage.",
+        "examples": [
+          "The candidate was handicapped by her lack of experience."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative",
+          "by extension"
+        ],
+        "label_groups": "transitive , figurative , by extension"
+      },
+      {
+        "definition": "To estimate betting odds.",
+        "examples": [
+          "Grandpa Andy would buy the racing form the day ahead of time so he could handicap the race before he even arrived at the track."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To encumber with a handicap in any contest.",
+    "secondary_definitions": [
+      "( transitive , figurative , by extension ) To place at disadvantage.",
+      "To estimate betting odds."
+    ]
+  }
+]

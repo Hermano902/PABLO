@@ -1,0 +1,57 @@
+[
+  {
+    "word": "sync",
+    "lemma": "sync",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sɪŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "syncs",
+          "PT": "synched",
+          "PAP": "synched",
+          "PRP": "synching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To synchronize , especially in the senses of data synchronization, time synchronization, or synchronizing music with video.",
+        "examples": [
+          "Our cloud storage automatically syncs your files to all your devices."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "To flush all pending I/O operations to disk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "computing"
+        ],
+        "label_groups": "informal , computing"
+      }
+    ],
+    "main_definition": "( informal ) To synchronize , especially in the senses of data synchronization, time synchronization, or synchronizing music with video.",
+    "secondary_definitions": [
+      "( informal , computing ) To flush all pending I/O operations to disk ."
+    ]
+  }
+]

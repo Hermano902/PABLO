@@ -1,0 +1,86 @@
+[
+  {
+    "word": "mistake",
+    "lemma": "mistake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɪˈsteɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mistakes",
+          "PT": "mistook",
+          "PAP": "mistaken",
+          "PRP": "mistaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To understand wrongly , taking one thing or person for another.",
+        "examples": [
+          "Sorry, I mistook you for my brother. You look very similar.",
+          "Don't mistake my kindness for weakness."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To misunderstand (someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To commit an unintentional error ; to do or think something wrong.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To take or choose wrongly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To understand wrongly , taking one thing or person for another.",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To misunderstand (someone).",
+      "( intransitive , obsolete ) To commit an unintentional error ; to do or think something wrong.",
+      "( obsolete , rare ) To take or choose wrongly."
+    ]
+  }
+]

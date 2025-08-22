@@ -1,0 +1,63 @@
+[
+  {
+    "word": "officiate",
+    "lemma": "officiate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈfiʃ.i.eɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "officiates",
+          "PT": "officiated",
+          "PAP": "officiated",
+          "PRP": "officiating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform the functions of some office .",
+        "examples": [
+          "She officiated as registrar at the wedding.",
+          "She officiated the wedding as registrar."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive"
+        ],
+        "label_groups": "intransitive , transitive"
+      },
+      {
+        "definition": "To serve as umpire or referee .",
+        "examples": [
+          "This is the second time he has officiated at a cup-final.",
+          "He's never officiated a cup-final before."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "intransitive , transitive , sports"
+      }
+    ],
+    "main_definition": "( intransitive , transitive ) To perform the functions of some office .",
+    "secondary_definitions": [
+      "( intransitive , transitive , sports ) To serve as umpire or referee ."
+    ]
+  }
+]

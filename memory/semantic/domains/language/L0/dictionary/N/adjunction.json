@@ -1,0 +1,107 @@
+[
+  {
+    "word": "adjunction",
+    "lemma": "adjunction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "adjunctions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of joining ; the thing joined or added.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The joining of personal property owned by one to that owned by another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "The process of adjoining elements to an algebraic structure (usually a ring or field ); the result of such a process.",
+        "examples": [
+          "The ring obtained after the adjunction of the elements a , b {\\displaystyle a,b} and y {\\displaystyle y} to the ring R {\\displaystyle R} may be denoted R [ a , b , y ] {\\displaystyle R[a,b,y]} .",
+          "The field adjunction Q ( π ) {\\displaystyle \\mathbb {Q} (\\pi )} can be obtained from Q {\\displaystyle \\mathbb {Q} } by adjoining π {\\displaystyle \\pi } to Q {\\displaystyle \\mathbb {Q} } ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "chiefly algebra",
+          "number theory"
+        ],
+        "label_groups": "mathematics , chiefly algebra and number theory"
+      },
+      {
+        "definition": "A relationship between a pair of categories that makes the pair, in a weak sense, equivalent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "loosely"
+        ],
+        "label_groups": "category theory , loosely"
+      },
+      {
+        "definition": "A natural isomorphism between a pair of functors satisfying certain conditions, whose existence implies a close relationship between the functors and between their ( co ) domains ; the natural isomorphism, functors, and their (co)domains thought of as a single object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "functors F : C → D {\\displaystyle F:{\\mathcal {C}}\\rightarrow {\\mathcal {D}}} and G : D → C {\\displaystyle G:{\\mathcal {D}}\\rightarrow {\\mathcal {C}}} ) A natural isomorphism Φ : Hom C ⁡ ( G ⋅ , ⋅ ) → Hom D ⁡ ( ⋅ , F ⋅ ) {\\displaystyle \\Phi :\\operatorname {Hom} _{\\mathcal {C}}(G\\cdot ,\\cdot )\\to \\operatorname {Hom} _{\\mathcal {D}}(\\cdot ,F\\cdot )} ( where the hom-functors are understood as bifunctors from D op × C {\\displaystyle {\\mathcal {D}}^{\\operatorname {op} }\\times {\\mathcal {C}}} to S e t {\\displaystyle \\mathbf {Set} } ). See Adjoint functors on  Wikipedia. Wikipedia .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "formally",
+              "given two categories C {\\displaystyle {\\mathcal {C}}}",
+              "D {\\displaystyle {\\mathcal {D}}}",
+              "( covariant"
+            ],
+            "label_groups": "formally, given two categories C {\\displaystyle {\\mathcal {C}}} and D {\\displaystyle {\\mathcal {D}}} and ( covariant"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "strictly"
+        ],
+        "label_groups": "category theory , strictly"
+      }
+    ],
+    "main_definition": "The act of joining ; the thing joined or added.",
+    "secondary_definitions": [
+      "( law ) The joining of personal property owned by one to that owned by another.",
+      "( mathematics , chiefly algebra and number theory ) The process of adjoining elements to an algebraic structure (usually a ring or field ); the result of such a process.",
+      "( category theory , loosely ) A relationship between a pair of categories that makes the pair, in a weak sense, equivalent.",
+      "( category theory , strictly ) A natural isomorphism between a pair of functors satisfying certain conditions, whose existence implies a close relationship between the functors and between their ( co ) domains ; the natural isomorphism, functors, and their (co)domains thought of as a single object ."
+    ]
+  }
+]

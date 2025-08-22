@@ -1,0 +1,133 @@
+[
+  {
+    "word": "assembly",
+    "lemma": "assembly",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈsɛmb.lɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "assemblies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A set of pieces that work together in unison as a mechanism or device .",
+        "examples": [
+          "In order to change the bearing, you must first remove the gearbox assembly ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act or process of putting together a set of pieces, fragments, or elements.",
+        "examples": [
+          "instructions for assembly",
+          "some assembly required",
+          "assembly line"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A congregation of people in one place for a purpose.",
+        "examples": [
+          "school assembly",
+          "freedom of assembly"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( politics ) A legislative body.",
+        "examples": [
+          "the General Assembly of the United Nations",
+          "New York State Assembly"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( military ) A beat of the drum or sound of the bugle as a signal to troops to assemble.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) Ellipsis of assembly language .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing , Microsoft .NET ) A building block of an application , similar to a DLL , but containing both executable code and information normally found in a DLL's type library. The type library information in an assembly, called a manifest , describes public functions , data , classes , and version information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A set of pieces that work together in unison as a mechanism or device .",
+    "secondary_definitions": [
+      "The act or process of putting together a set of pieces, fragments, or elements.",
+      "A congregation of people in one place for a purpose.",
+      "( politics ) A legislative body.",
+      "( military ) A beat of the drum or sound of the bugle as a signal to troops to assemble.",
+      "( computing ) Ellipsis of assembly language .",
+      "( computing , Microsoft .NET ) A building block of an application , similar to a DLL , but containing both executable code and information normally found in a DLL's type library. The type library information in an assembly, called a manifest , describes public functions , data , classes , and version information ."
+    ]
+  },
+  {
+    "word": "assembly",
+    "lemma": "assembly",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/əˈsɛmb.lɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "assemblies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "assembly language ( programming language using mnemonics that correspond to processor instructions )",
+        "examples": [],
+        "synonyms": [
+          "linguagem de montagem"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) assembly language ( programming language using mnemonics that correspond to processor instructions )",
+    "secondary_definitions": []
+  }
+]

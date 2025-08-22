@@ -1,0 +1,245 @@
+[
+  {
+    "word": "block",
+    "lemma": "block",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/blɒk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "blocks",
+          "PT": "blocked",
+          "PAP": "blocked",
+          "PRP": "blocking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fill or obstruct (something) so that it is not possible to pass.",
+        "examples": [
+          "The pipe was blocked by leaves.",
+          "You’re blocking the road – I can’t get through!"
+        ],
+        "synonyms": [
+          "stop"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To prevent (something or someone) from passing.",
+        "examples": [
+          "A broken-down car is blocking the traffic."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To prevent (something from happening or someone from doing something).",
+        "examples": [
+          "His plan to take over the business was blocked by the boss."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To impede (an opponent or opponent’s play).",
+        "examples": [
+          "He blocked the basketball player’s shot.",
+          "The offensive linemen tried to block the blitz."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To specify the positions and movements of the actors for (a section of a play or film).",
+        "examples": [
+          "It was very difficult to block this scene convincingly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "theater"
+        ],
+        "label_groups": "transitive , theater"
+      },
+      {
+        "definition": "To hit with a block.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "cricket"
+        ],
+        "label_groups": "transitive , cricket"
+      },
+      {
+        "definition": "To play a block shot.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "cricket"
+        ],
+        "label_groups": "intransitive , cricket"
+      },
+      {
+        "definition": "To bar (a person or bot , etc.) from connecting via telephone , instant messaging , etc., or from accessing an online account or service, or similar.",
+        "examples": [
+          "I tried to send you a message, but you’ve blocked me!",
+          "The user who started the edit war was blocked for a day to cool off."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bar (a message or communication), or bar connection with (an online account or service, a designated telephone number, IP address, etc.).",
+        "examples": [
+          "They’ve blocked all calls to international numbers.",
+          "Most Internet services have been blocked ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To wait for some condition to become true.",
+        "examples": [
+          "When the condition expression is false, the thread blocks on the condition variable."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "intransitive"
+        ],
+        "label_groups": "programming , intransitive"
+      },
+      {
+        "definition": "To stretch or mould (a knitted item, a hat, etc.) into the desired shape.",
+        "examples": [
+          "I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To shape or sketch out roughly.",
+        "examples": [
+          "When drawing a scene, first block the main features, and then fill in the detail."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To experience mental block or creative block .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To knock the hat of (a person) down over their eyes.",
+        "examples": [],
+        "synonyms": [
+          "bonnet"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "obsolete"
+        ],
+        "label_groups": "transitive , slang , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To fill or obstruct (something) so that it is not possible to pass.",
+    "secondary_definitions": [
+      "( transitive ) To prevent (something or someone) from passing.",
+      "( transitive ) To prevent (something from happening or someone from doing something).",
+      "( transitive , sports ) To impede (an opponent or opponent’s play).",
+      "( transitive , theater ) To specify the positions and movements of the actors for (a section of a play or film).",
+      "( transitive , cricket ) To hit with a block.",
+      "( intransitive , cricket ) To play a block shot.",
+      "( transitive ) To bar (a person or bot , etc.) from connecting via telephone , instant messaging , etc., or from accessing an online account or service, or similar.",
+      "( transitive ) To bar (a message or communication), or bar connection with (an online account or service, a designated telephone number, IP address, etc.).",
+      "( programming , intransitive ) To wait for some condition to become true.",
+      "( transitive ) To stretch or mould (a knitted item, a hat, etc.) into the desired shape.",
+      "( transitive ) To shape or sketch out roughly.",
+      "( intransitive ) To experience mental block or creative block .",
+      "( transitive , slang , obsolete ) To knock the hat of (a person) down over their eyes."
+    ]
+  }
+]

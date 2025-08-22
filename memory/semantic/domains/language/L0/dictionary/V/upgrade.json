@@ -1,0 +1,115 @@
+[
+  {
+    "word": "upgrade",
+    "lemma": "upgrade",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʌp.ɡɹeɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "upgrades",
+          "PT": "upgraded",
+          "PAP": "upgraded",
+          "PRP": "upgrading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To improve, usually applied to technology, generally by complete replacement of one or more components.",
+        "examples": [
+          "When you upgrade your standard of living, you become addicted to that standard of living."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "downgrade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To replace with something better.",
+        "examples": [
+          "I had to upgrade my anti-virus software to protect my computer from the newer threats."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "downgrade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To improve the equipment or furnishings of or services rendered to.",
+        "examples": [
+          "They upgraded him to the latest model.",
+          "They were upgraded to first class."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "downgrade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To improve in condition or status.",
+        "examples": [
+          "She upgraded to a more successful husband."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "downgrade"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To replace a program with a later version of itself, a version having a higher version number or marketed under a more recent product name.",
+        "examples": [
+          "She waited a long time to upgrade from Windows 10 to Windows 11, hoping the worst bugs would be worked out before she took the plunge.",
+          "She waited a long time to upgrade Windows, hoping the worst bugs would be worked out before she took the plunge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "intransitive , transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To improve, usually applied to technology, generally by complete replacement of one or more components.",
+    "secondary_definitions": [
+      "( transitive ) To replace with something better.",
+      "( transitive ) To improve the equipment or furnishings of or services rendered to.",
+      "( intransitive ) To improve in condition or status.",
+      "( intransitive , transitive , computing ) To replace a program with a later version of itself, a version having a higher version number or marketed under a more recent product name."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "overwriter",
+    "lemma": "overwriter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overwriters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Software that writes over the contents or unused section of a data store to prevent recovery of sensitive information.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "One who writes too much.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing ) Software that writes over the contents or unused section of a data store to prevent recovery of sensitive information.",
+    "secondary_definitions": [
+      "One who writes too much."
+    ]
+  }
+]

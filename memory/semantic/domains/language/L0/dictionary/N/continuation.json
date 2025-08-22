@@ -1,0 +1,78 @@
+[
+  {
+    "word": "continuation",
+    "lemma": "continuation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˌtɪnjʊˈeɪʃ(ə)n/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "continuations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or state of continuing or being continued; uninterrupted extension or succession",
+        "examples": [],
+        "synonyms": [
+          "prolongation",
+          "propagation"
+        ],
+        "antonyms": [
+          "discontinuation",
+          "termination"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which extends, increases, supplements, or carries on.",
+        "examples": [
+          "the continuation of a story",
+          "The series' continuation was commercially if not artistically successful."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A representation of an execution state of a program at a certain point in time, which may be used at a later time to resume the execution of the program from that point.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "countable"
+        ],
+        "label_groups": "programming , countable"
+      },
+      {
+        "definition": "A successful shot that, despite a foul, is made with a single continuous motion beginning before the foul, and that is therefore valid in certain forms of basketball.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "basketball",
+          "countable"
+        ],
+        "label_groups": "basketball , countable"
+      }
+    ],
+    "main_definition": "The act or state of continuing or being continued; uninterrupted extension or succession",
+    "secondary_definitions": [
+      "That which extends, increases, supplements, or carries on.",
+      "( programming , countable ) A representation of an execution state of a program at a certain point in time, which may be used at a later time to resume the execution of the program from that point.",
+      "( basketball , countable ) A successful shot that, despite a foul, is made with a single continuous motion beginning before the foul, and that is therefore valid in certain forms of basketball."
+    ]
+  }
+]

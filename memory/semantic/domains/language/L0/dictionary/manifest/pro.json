@@ -1,0 +1,41 @@
+{
+  "word": "pro",
+  "pos_order": [
+    "N",
+    "PREP",
+    "N:2",
+    "ADJ",
+    "N:3",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 3,
+      "antonyms": 5,
+      "inflections": 5
+    },
+    "PREP": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pro.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\pro.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\pro.json"
+  },
+  "timestamp": "2025-08-19T12:32:48.152660Z"
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "gateway",
+    "lemma": "gateway",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡeɪtˌweɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gateways"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A passage that can be closed by use of a gate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place regarded as giving access to somewhere.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any point that represents the beginning of a transition from one place or phase to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any thing or area of interest that tends to lead to deeper involvement.",
+            "examples": [
+              "a gateway drug"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "attributive"
+            ],
+            "label_groups": "attributive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A point at which freight moving from one territory to another is interchanged between transportation lines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In wireless internet, an access point with additional software capabilities such as providing NAT and DHCP , which may also provide VPN support, roaming, firewalls , various levels of security, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "networking",
+          "telecommunications"
+        ],
+        "label_groups": "computing , networking , telecommunications"
+      }
+    ],
+    "main_definition": "A passage that can be closed by use of a gate .",
+    "secondary_definitions": [
+      "A place regarded as giving access to somewhere.",
+      "Any point that represents the beginning of a transition from one place or phase to another.",
+      "A point at which freight moving from one territory to another is interchanged between transportation lines.",
+      "( computing , networking , telecommunications ) In wireless internet, an access point with additional software capabilities such as providing NAT and DHCP , which may also provide VPN support, roaming, firewalls , various levels of security, etc."
+    ]
+  }
+]

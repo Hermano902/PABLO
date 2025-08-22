@@ -1,0 +1,82 @@
+[
+  {
+    "word": "pebble",
+    "lemma": "pebble",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɛb.əl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pebbles",
+          "PT": "pebbled",
+          "PAP": "pebbled",
+          "PRP": "pebbling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pave with pebbles.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deposit water droplets on the ice.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "curling"
+        ],
+        "label_groups": "transitive , curling"
+      },
+      {
+        "definition": "To give ( leather ) a rough appearance with small rounded prominences.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place a pebble at (a vertex of a graph ) according to certain rules, in a pebble game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "graph theory"
+        ],
+        "label_groups": "transitive , graph theory"
+      }
+    ],
+    "main_definition": "( transitive ) To pave with pebbles.",
+    "secondary_definitions": [
+      "( transitive , curling ) To deposit water droplets on the ice.",
+      "( transitive ) To give ( leather ) a rough appearance with small rounded prominences.",
+      "( transitive , graph theory ) To place a pebble at (a vertex of a graph ) according to certain rules, in a pebble game ."
+    ]
+  }
+]

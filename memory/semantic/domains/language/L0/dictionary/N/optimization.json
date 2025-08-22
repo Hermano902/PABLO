@@ -1,0 +1,45 @@
+[
+  {
+    "word": "optimization",
+    "lemma": "optimization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɑptəmaɪˈzeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "optimizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The design and operation of a system or process to make it as good as possible in some defined sense .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The reduction of a program or algorithm to its most efficient form, as during compilation , by removing unused portions of code and improving the speed or resource usage of others.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "The design and operation of a system or process to make it as good as possible in some defined sense .",
+    "secondary_definitions": [
+      "( programming ) The reduction of a program or algorithm to its most efficient form, as during compilation , by removing unused portions of code and improving the speed or resource usage of others."
+    ]
+  }
+]

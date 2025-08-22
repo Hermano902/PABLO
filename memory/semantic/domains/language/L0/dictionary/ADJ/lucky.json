@@ -1,0 +1,60 @@
+[
+  {
+    "word": "lucky",
+    "lemma": "lucky",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlʌki/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more lucky",
+          "SUP": "most lucky"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Favoured by luck ; fortunate ; having good success or good fortune .",
+        "examples": [
+          "a lucky adventurer",
+          "The downed pilot is very lucky to be alive."
+        ],
+        "synonyms": [
+          "fortunate",
+          "successful"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of people"
+        ],
+        "label_groups": "of people"
+      },
+      {
+        "definition": "Producing, or resulting in, good fortune",
+        "examples": [
+          "a lucky mistake",
+          "a lucky cast",
+          "a lucky hour"
+        ],
+        "synonyms": [
+          "favorable",
+          "auspicious",
+          "favorable",
+          "fortunate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( of people ) Favoured by luck ; fortunate ; having good success or good fortune .",
+    "secondary_definitions": [
+      "Producing, or resulting in, good fortune"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "bottleneck",
+    "lemma": "bottleneck",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bottlenecks",
+          "PT": "bottlenecked",
+          "PAP": "bottlenecked",
+          "PRP": "bottlenecking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To slow by causing a bottleneck.",
+        "examples": [
+          "The merge bottlenecked the traffic every morning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form a bottleneck.",
+        "examples": [
+          "The traffic bottlenecked at the merge every morning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To slow by causing a bottleneck.",
+    "secondary_definitions": [
+      "( intransitive ) To form a bottleneck."
+    ]
+  }
+]

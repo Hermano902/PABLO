@@ -1,0 +1,58 @@
+[
+  {
+    "word": "parameterize",
+    "lemma": "parameterize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pəˈɹæm.ɪ.təɹ.aɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "parameterizes",
+          "PT": "parameterized",
+          "PAP": "parameterized",
+          "PRP": "parameterizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To describe in terms of parameters.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rewrite (a database query , etc.) as a template into which parameters can be inserted.",
+        "examples": [
+          "Parameterized queries are crucial for avoiding SQL injection ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases",
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "databases , programming , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To describe in terms of parameters.",
+    "secondary_definitions": [
+      "( databases , programming , transitive ) To rewrite (a database query , etc.) as a template into which parameters can be inserted."
+    ]
+  }
+]

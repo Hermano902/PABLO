@@ -1,0 +1,56 @@
+[
+  {
+    "word": "repossess",
+    "lemma": "repossess",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "repossesses",
+          "PT": "repossessed",
+          "PAP": "repossessed",
+          "PRP": "repossessing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reclaim ownership of property for which payment remains due .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "finance"
+        ],
+        "label_groups": "law , finance"
+      },
+      {
+        "definition": "To gain back possession of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "reflexive"
+        ],
+        "label_groups": "dated , reflexive"
+      }
+    ],
+    "main_definition": "( law , finance ) To reclaim ownership of property for which payment remains due .",
+    "secondary_definitions": [
+      "( dated , reflexive ) To gain back possession of."
+    ]
+  }
+]

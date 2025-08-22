@@ -1,0 +1,57 @@
+[
+  {
+    "word": "countrify",
+    "lemma": "countrify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkʌn.tɹɪ.fʌɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "countrifies",
+          "PT": "countrified",
+          "PAP": "countrified",
+          "PRP": "countrifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make rural or rustic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "citify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make more like country music .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "especially of a cover version"
+        ],
+        "label_groups": "transitive , especially of a cover version"
+      }
+    ],
+    "main_definition": "( transitive ) To make rural or rustic .",
+    "secondary_definitions": [
+      "( transitive , especially of a cover version ) To make more like country music ."
+    ]
+  }
+]

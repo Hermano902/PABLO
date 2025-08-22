@@ -1,0 +1,71 @@
+[
+  {
+    "word": "dyadic",
+    "lemma": "dyadic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈæ.dɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more dyadic",
+          "SUP": "most dyadic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pertaining to a dyad , the number two ; of two parts or elements .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "having an arity of two (taking two arguments or operands)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "logic"
+            ],
+            "label_groups": "mathematics , logic"
+          },
+          {
+            "definition": "binary",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "obsolete"
+            ],
+            "label_groups": "mathematics , obsolete"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Pertaining to the physical sex of a person who is exactly male or female in genetics , anatomy and hormone levels; not intersex .",
+        "examples": [],
+        "synonyms": [
+          "endosex",
+          "perisex"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Pertaining to a dyad , the number two ; of two parts or elements .",
+    "secondary_definitions": [
+      "Pertaining to the physical sex of a person who is exactly male or female in genetics , anatomy and hormone levels; not intersex ."
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "word": "banknote",
+    "lemma": "banknote",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbæŋknəʊt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "banknotes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A piece of currency made of paper or polymer .",
+        "examples": [],
+        "synonyms": [
+          "note",
+          "bill",
+          "flimsy",
+          "long-tailed one"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "A promissory note issued by a bank, payable at a given time to a specific beneficiary .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now historical"
+        ],
+        "label_groups": "now historical",
+        "dating_raw": "from 17th c."
+      }
+    ],
+    "main_definition": "A piece of currency made of paper or polymer . [from 18th c.]",
+    "secondary_definitions": [
+      "( now historical ) A promissory note issued by a bank, payable at a given time to a specific beneficiary . [from 17th c.]"
+    ]
+  }
+]

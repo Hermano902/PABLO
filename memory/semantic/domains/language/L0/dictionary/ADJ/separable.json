@@ -1,0 +1,117 @@
+[
+  {
+    "word": "separable",
+    "lemma": "separable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more separable",
+          "SUP": "most separable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be separated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be brought to a form where all occurrences of the dependent and the independent variable are on opposite sides of the equal sign.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a differential equation"
+        ],
+        "label_groups": "mathematics , of a differential equation"
+      },
+      {
+        "definition": "Having a countable dense subset .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "of a topological space"
+        ],
+        "label_groups": "mathematical analysis , of a topological space"
+      },
+      {
+        "definition": "Any of several technical senses relating to the behavior of polynomials or objects over which polynomials can be defined :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Having no repeated roots (where roots are considered in an algebraic closure ) ( Galois theory , obsolete , of a polynomial P {\\displaystyle P} ) Such that none of the irreducible factors of P {\\displaystyle P} have a repeated root.",
+            "examples": [
+              "x 2 + 1 {\\displaystyle x^{2}+1} is separable , since its roots are i {\\displaystyle i} and − i {\\displaystyle -i} ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a polynomial"
+            ],
+            "label_groups": "of a polynomial"
+          },
+          {
+            "definition": "Such that the minimal polynomial of every element of E {\\displaystyle E} is a separable polynomial.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Galois theory",
+              "of an algebraic field extension E",
+              "F {\\displaystyle E",
+              "F}"
+            ],
+            "label_groups": "Galois theory , of an algebraic field extension E / F {\\displaystyle E/F}"
+          },
+          {
+            "definition": "Satisfying any of several technical conditions on the center of the algebra which generalize the situation of field extensions; see Separable algebra on  Wikipedia. Wikipedia",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "abstract algebra",
+              "of an algebra over a ring"
+            ],
+            "label_groups": "abstract algebra , of an algebra over a ring"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "algebra"
+        ],
+        "label_groups": "mathematics , algebra"
+      }
+    ],
+    "main_definition": "Able to be separated .",
+    "secondary_definitions": [
+      "( mathematics , of a differential equation ) Able to be brought to a form where all occurrences of the dependent and the independent variable are on opposite sides of the equal sign.",
+      "( mathematical analysis , of a topological space ) Having a countable dense subset .",
+      "( mathematics , algebra ) Any of several technical senses relating to the behavior of polynomials or objects over which polynomials can be defined :"
+    ]
+  }
+]

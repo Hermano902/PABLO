@@ -1,0 +1,75 @@
+[
+  {
+    "word": "yes",
+    "lemma": "yes",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/jɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "yesses",
+          "PT": "yessed",
+          "PAP": "yessed",
+          "PRP": "yessing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To agree with, affirm , approve .",
+        "examples": [
+          "Did he yes the veto?"
+        ],
+        "synonyms": [
+          "agree",
+          "consent",
+          "nod"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "transitive"
+        ],
+        "label_groups": "colloquial , transitive"
+      },
+      {
+        "definition": "To say “ yes ” .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "intransitive"
+        ],
+        "label_groups": "colloquial , intransitive"
+      },
+      {
+        "definition": "To attempt to flatter someone by habitually agreeing",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      }
+    ],
+    "main_definition": "( colloquial , transitive ) To agree with, affirm , approve .",
+    "secondary_definitions": [
+      "( colloquial , intransitive ) To say “ yes ” .",
+      "( slang ) To attempt to flatter someone by habitually agreeing"
+    ]
+  }
+]

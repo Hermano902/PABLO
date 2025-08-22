@@ -1,0 +1,111 @@
+[
+  {
+    "word": "acceptor",
+    "lemma": "acceptor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əkˈsɛptə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "acceptors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who accepts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who accepts a draft or a bill of exchange; a drawee after he has accepted.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "commerce"
+        ],
+        "label_groups": "law , commerce"
+      },
+      {
+        "definition": "An atom or molecule which can accept an electron to form a chemical bond .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A transfer RNA molecule that can accept a specific amino acid",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      },
+      {
+        "definition": "A chemical acceptor atom forming a positive hole in a semiconductor",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A cluster of skin cells that respond to pain",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physiology"
+        ],
+        "label_groups": "physiology"
+      },
+      {
+        "definition": "A kind of finite-state machine whose binary output indicates whether or not a received input was accepted.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "One who accepts .",
+    "secondary_definitions": [
+      "( law , commerce ) One who accepts a draft or a bill of exchange; a drawee after he has accepted.",
+      "( chemistry ) An atom or molecule which can accept an electron to form a chemical bond .",
+      "( biochemistry ) A transfer RNA molecule that can accept a specific amino acid",
+      "( physics ) A chemical acceptor atom forming a positive hole in a semiconductor",
+      "( physiology ) A cluster of skin cells that respond to pain",
+      "( computing theory ) A kind of finite-state machine whose binary output indicates whether or not a received input was accepted."
+    ]
+  }
+]

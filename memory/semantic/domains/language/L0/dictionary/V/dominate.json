@@ -1,0 +1,85 @@
+[
+  {
+    "word": "dominate",
+    "lemma": "dominate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɒm.ɪ.neɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dominates",
+          "PT": "dominated",
+          "PAP": "dominated",
+          "PRP": "dominating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To govern , rule or control by superior authority or power",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "obey",
+          "submit"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To exert an overwhelming guiding influence over something or someone",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "obey",
+          "submit"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To enjoy a commanding position in some field",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To overlook from a height .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To precede another node of a directed graph in all paths from the start of the graph to the other node.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graph theory",
+          "linguistics"
+        ],
+        "label_groups": "computing , graph theory , linguistics"
+      }
+    ],
+    "main_definition": "To govern , rule or control by superior authority or power",
+    "secondary_definitions": [
+      "To exert an overwhelming guiding influence over something or someone",
+      "To enjoy a commanding position in some field",
+      "To overlook from a height .",
+      "( computing , graph theory , linguistics ) To precede another node of a directed graph in all paths from the start of the graph to the other node."
+    ]
+  }
+]

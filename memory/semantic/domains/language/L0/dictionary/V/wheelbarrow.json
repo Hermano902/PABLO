@@ -1,0 +1,55 @@
+[
+  {
+    "word": "wheelbarrow",
+    "lemma": "wheelbarrow",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʍiːl.bæɹ.əʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wheelbarrows",
+          "PT": "wheelbarrowed",
+          "PAP": "wheelbarrowed",
+          "PRP": "wheelbarrowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convey in a wheelbarrow.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause the weight of an aeroplane to become concentrated around the nosewheel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "aviation"
+        ],
+        "label_groups": "transitive , aviation"
+      }
+    ],
+    "main_definition": "( transitive ) To convey in a wheelbarrow.",
+    "secondary_definitions": [
+      "( transitive , aviation ) To cause the weight of an aeroplane to become concentrated around the nosewheel ."
+    ]
+  }
+]

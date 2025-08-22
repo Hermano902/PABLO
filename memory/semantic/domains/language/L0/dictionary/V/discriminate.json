@@ -1,0 +1,97 @@
+[
+  {
+    "word": "discriminate",
+    "lemma": "discriminate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈskɹɪm.ɪ.neɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "discriminates",
+          "PT": "discriminated",
+          "PAP": "discriminated",
+          "PRP": "discriminating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make distinctions .",
+        "examples": [
+          "Since he was color blind he was unable to discriminate between the blue and green bottles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To treat or affect differently, depending on differences in traits.",
+        "examples": [
+          "Low self-esteem can affect both rich and poor people: it doesn't discriminate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To make decisions harmful to (a person or group) based on prejudice .",
+            "examples": [
+              "The law prohibits discriminating against people based on their skin color."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "construed with against"
+            ],
+            "label_groups": "intransitive , construed with against"
+          },
+          {
+            "definition": "To infringe upon (a person's rights) in a prejudicial manner.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "construed with against",
+              "uncommon"
+            ],
+            "label_groups": "intransitive , construed with against , uncommon"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To make distinctions .",
+    "secondary_definitions": [
+      "To treat or affect differently, depending on differences in traits.",
+      "( transitive ) To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish."
+    ]
+  }
+]

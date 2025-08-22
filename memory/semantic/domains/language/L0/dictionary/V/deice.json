@@ -1,0 +1,56 @@
+[
+  {
+    "word": "deice",
+    "lemma": "deice",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈaɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deices",
+          "PT": "deiced",
+          "PAP": "deiced",
+          "PRP": "deicing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove the ice from something.",
+        "examples": [
+          "They had to move the plane back from the runway to de-ice the wings before takeoff."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lose its ice; to thaw .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To remove the ice from something.",
+    "secondary_definitions": [
+      "( intransitive ) To lose its ice; to thaw ."
+    ]
+  }
+]

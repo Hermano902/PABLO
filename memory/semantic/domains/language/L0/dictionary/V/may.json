@@ -1,0 +1,185 @@
+[
+  {
+    "word": "may",
+    "lemma": "may",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/meɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "may",
+          "PT": "might",
+          "PAP": null,
+          "PRP": "might",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( obsolete , intransitive ) To be strong ; to have power (over). [8th–17th c.]",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( obsolete , auxiliary ) To be able ; can . [8th–17th c.]",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , poetic ) To be able to go . [from 9th c.]",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( modal auxiliary verb , defective ) To have permission to, be allowed . Used in granting permission and in questions to make polite requests. [from 9th c.]",
+        "examples": [
+          "you may smoke outside; may I sit there?"
+        ],
+        "synonyms": [
+          "can",
+          "could",
+          "might"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( modal auxiliary verb , defective ) Granting the admissibility of a supposition , in a way that can be semantically either subjunctive or indicative .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( modal auxiliary verb , defective ) Expressing a present possibility ; possibly . [from 13th c.]",
+            "examples": [
+              "Do you think he may be lying?;   Schrödinger's cat may or may not be in the box",
+              "Sam may be intelligent , but he isn't wise . [This speaker does not know with certainty whether Sam is intelligent, but the speaker allows the possibility.]",
+              "A female crocodile may lay up to fourty eggs. [Typical occurrence.]"
+            ],
+            "synonyms": [
+              "could",
+              "might"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( modal auxiliary verb , defective ) Expressing a disjunctive or contrastive relation between indicative statements.",
+            "examples": [
+              "You may be my boss, but that doesn't mean you can insult me.]",
+              "A: Sigh. I'm bummed that Stephen Hawking died. B: Well, he may have died, but he's still alive in our hearts. [This speaker does not doubt that Stephen has died; nonetheless, the verb inflection is not different.]"
+            ],
+            "synonyms": [
+              "might"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( subjunctive present , defective , chiefly poetic ) Expressing a wish (with present subjunctive effect) . [from 16th c.]",
+        "examples": [
+          "may you win; may the weather be sunny;  long may your reign last",
+          "Let us pray that peace may soon return to our war-torn homeland."
+        ],
+        "synonyms": [
+          "might"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( modal auxiliary verb , defective ) Used in modesty , courtesy , or concession , or to soften a question or remark.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( obsolete , intransitive ) To be strong ; to have power (over). [8th–17th c.]",
+    "secondary_definitions": [
+      "( obsolete , auxiliary ) To be able ; can . [8th–17th c.]",
+      "( intransitive , poetic ) To be able to go . [from 9th c.]",
+      "( modal auxiliary verb , defective ) To have permission to, be allowed . Used in granting permission and in questions to make polite requests. [from 9th c.]",
+      "( modal auxiliary verb , defective ) Granting the admissibility of a supposition , in a way that can be semantically either subjunctive or indicative .",
+      "( subjunctive present , defective , chiefly poetic ) Expressing a wish (with present subjunctive effect) . [from 16th c.]",
+      "( modal auxiliary verb , defective ) Used in modesty , courtesy , or concession , or to soften a question or remark."
+    ]
+  },
+  {
+    "word": "may",
+    "lemma": "may",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/meɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mays",
+          "PT": "mayed",
+          "PAP": "mayed",
+          "PRP": "maying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To gather may, or flowers in general.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poetic",
+          "intransitive"
+        ],
+        "label_groups": "poetic , intransitive"
+      },
+      {
+        "definition": "To celebrate May Day .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poetic",
+          "intransitive"
+        ],
+        "label_groups": "poetic , intransitive"
+      }
+    ],
+    "main_definition": "( poetic , intransitive ) To gather may, or flowers in general.",
+    "secondary_definitions": [
+      "( poetic , intransitive ) To celebrate May Day ."
+    ]
+  }
+]

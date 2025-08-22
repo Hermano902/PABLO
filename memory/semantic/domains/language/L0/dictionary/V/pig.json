@@ -1,0 +1,98 @@
+[
+  {
+    "word": "pig",
+    "lemma": "pig",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɪɡ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pigs",
+          "PT": "pigged",
+          "PAP": "pigged",
+          "PRP": "pigging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give birth .",
+        "examples": [
+          "The black sow pigged at seven this morning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of swine"
+        ],
+        "label_groups": "of swine"
+      },
+      {
+        "definition": "To greedily consume (especially food).",
+        "examples": [
+          "They were pigging on the free food at the bar."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To huddle or lie together like pigs, in one bed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To live together in a crowded filthy manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To clean (a pipeline ) using a pig ( the device ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "engineering"
+        ],
+        "label_groups": "transitive , engineering"
+      }
+    ],
+    "main_definition": "( of swine ) To give birth .",
+    "secondary_definitions": [
+      "( intransitive ) To greedily consume (especially food).",
+      "( intransitive ) To huddle or lie together like pigs, in one bed .",
+      "( intransitive ) To live together in a crowded filthy manner.",
+      "( transitive , engineering ) To clean (a pipeline ) using a pig ( the device ) ."
+    ]
+  }
+]

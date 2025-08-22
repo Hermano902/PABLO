@@ -1,0 +1,63 @@
+[
+  {
+    "word": "palatalize",
+    "lemma": "palatalize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpælətəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "palatalizes",
+          "PT": "palatalized",
+          "PAP": "palatalized",
+          "PRP": "palatalizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pronounce a sound with the tongue against the palate of the mouth when that sound normally would not be so pronounced.",
+        "examples": [
+          "Most English speakers palatalize the letter t in the word \"nature\".",
+          "t"
+        ],
+        "synonyms": [
+          "palatize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "transitive"
+        ],
+        "label_groups": "phonetics , transitive"
+      },
+      {
+        "definition": "To be pronounced with the tongue against the palate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "intransitive",
+          "unaccusative",
+          "of a sound"
+        ],
+        "label_groups": "phonetics , intransitive , unaccusative , of a sound"
+      }
+    ],
+    "main_definition": "( phonetics , transitive ) To pronounce a sound with the tongue against the palate of the mouth when that sound normally would not be so pronounced.",
+    "secondary_definitions": [
+      "( phonetics , intransitive , unaccusative , of a sound ) To be pronounced with the tongue against the palate."
+    ]
+  }
+]

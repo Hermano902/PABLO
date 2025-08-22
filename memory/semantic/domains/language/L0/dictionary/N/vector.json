@@ -1,0 +1,198 @@
+[
+  {
+    "word": "vector",
+    "lemma": "vector",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɛktə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "vectors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A directed quantity , one with both magnitude and direction ; the signed difference between two points .",
+        "examples": [
+          "Velocity is a vector defined by the speed of an object and its direction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any member of a ( generalized ) vector space .",
+            "examples": [
+              "The vectors in Q [ X ] {\\displaystyle {\\mathbb {Q} }[X]} are the single-variable polynomials with rational coefficients: one is x 42 + 1 137 x − 1 {\\displaystyle \\textstyle x^{42}+{\\frac {1}{137}}x-1} ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          },
+          {
+            "definition": "An ordered tuple , originally one representing a directed quantity, but by extension any one-dimensional matrix .",
+            "examples": [
+              "Computers store many types of data as vectors for ease of processing."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "computing"
+            ],
+            "label_groups": "mathematics , computing"
+          },
+          {
+            "definition": "A chosen course or direction for motion , as of an aircraft .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "aviation"
+            ],
+            "label_groups": "aviation"
+          },
+          {
+            "definition": "The way in which the eyes are drawn across the visual text. ( Can we verify this sense?)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "psychology"
+            ],
+            "label_groups": "psychology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "physics"
+        ],
+        "label_groups": "mathematics , physics"
+      },
+      {
+        "definition": "A kind of dynamically resizable array .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A memory address containing the address of a code entry point , usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "operating systems"
+            ],
+            "label_groups": "computing , operating systems"
+          },
+          {
+            "definition": "A graphical representation using outlines ; vector graphics .",
+            "examples": [
+              "a vector image, vector graphics"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer graphics",
+              "attributive"
+            ],
+            "label_groups": "computer graphics , attributive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A carrier of a disease -causing agent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A DNA molecule used to carry genetic information from one organism into another.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "molecular biology"
+            ],
+            "label_groups": "molecular biology"
+          },
+          {
+            "definition": "A person or entity that passes along an urban legend or other meme .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sociology"
+            ],
+            "label_groups": "sociology"
+          },
+          {
+            "definition": "A recurring psychosocial issue that stimulates growth and development in the personality. ( Can we verify this sense?)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "psychology"
+            ],
+            "label_groups": "psychology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "epidemiology"
+        ],
+        "label_groups": "epidemiology"
+      },
+      {
+        "definition": "Forces, developments, phenomena, processes, systems, etc. which influence the trajectory of history (e.g. imperialism)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "history"
+        ],
+        "label_groups": "history"
+      }
+    ],
+    "main_definition": "( mathematics , physics ) A directed quantity , one with both magnitude and direction ; the signed difference between two points .",
+    "secondary_definitions": [
+      "( programming ) A kind of dynamically resizable array .",
+      "( epidemiology ) A carrier of a disease -causing agent .",
+      "( history ) Forces, developments, phenomena, processes, systems, etc. which influence the trajectory of history (e.g. imperialism)"
+    ]
+  }
+]

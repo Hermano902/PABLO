@@ -1,0 +1,65 @@
+[
+  {
+    "word": "mantissa",
+    "lemma": "mantissa",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mænˈtɪsə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mantissas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A minor addition to a text .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "The part of a common logarithm after the decimal point, the fractional part of a logarithm.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The significand ; that part of a floating-point number or number in scientific notation that contains its significant digits .",
+        "examples": [],
+        "synonyms": [
+          "significand"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computing"
+        ],
+        "label_groups": "mathematics , computing"
+      }
+    ],
+    "main_definition": "( obsolete ) A minor addition to a text .",
+    "secondary_definitions": [
+      "( mathematics ) The part of a common logarithm after the decimal point, the fractional part of a logarithm.",
+      "( mathematics , computing ) The significand ; that part of a floating-point number or number in scientific notation that contains its significant digits ."
+    ]
+  }
+]

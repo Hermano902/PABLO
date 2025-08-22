@@ -1,0 +1,68 @@
+[
+  {
+    "word": "interleave",
+    "lemma": "interleave",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interleaves",
+          "PT": "interleaved",
+          "PAP": "interleaved",
+          "PRP": "interleaving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To insert ( pages , which are normally blank) between the pages of a book .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To intersperse (something) at regular intervals between the parts of a thing or between items in a group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To allocate (things such as successive segments of memory ) to different tasks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To insert ( pages , which are normally blank) between the pages of a book .",
+    "secondary_definitions": [
+      "( transitive ) To intersperse (something) at regular intervals between the parts of a thing or between items in a group.",
+      "( computing , transitive ) To allocate (things such as successive segments of memory ) to different tasks ."
+    ]
+  }
+]

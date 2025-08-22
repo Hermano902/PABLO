@@ -1,0 +1,88 @@
+[
+  {
+    "word": "constant",
+    "lemma": "constant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒnstənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more constant",
+          "SUP": "most constant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unchanged through time or space ; permanent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Consistently recurring over time; persistent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Steady in purpose, action, feeling, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Firm ; solid ; not fluid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Consistent ; logical .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Bounded above by a constant.",
+        "examples": [
+          "constant time constant space"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "complexity theory"
+        ],
+        "label_groups": "computing , complexity theory"
+      }
+    ],
+    "main_definition": "Unchanged through time or space ; permanent .",
+    "secondary_definitions": [
+      "Consistently recurring over time; persistent .",
+      "Steady in purpose, action, feeling, etc.",
+      "Firm ; solid ; not fluid .",
+      "( obsolete ) Consistent ; logical .",
+      "( computing , complexity theory ) Bounded above by a constant."
+    ]
+  }
+]

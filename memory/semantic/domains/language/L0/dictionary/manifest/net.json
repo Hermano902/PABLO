@@ -1,0 +1,58 @@
+{
+  "word": "net",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "ADV",
+    "N:2",
+    "V:2",
+    "V:3",
+    "INTJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\net.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\net.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\net.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\net.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\net.json"
+  },
+  "timestamp": "2025-08-19T10:01:33.254311Z"
+}

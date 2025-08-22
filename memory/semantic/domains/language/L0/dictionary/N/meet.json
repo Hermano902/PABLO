@@ -1,0 +1,97 @@
+[
+  {
+    "word": "meet",
+    "lemma": "meet",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/miːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "meets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sports competition , especially for track and field or swimming .",
+        "examples": [
+          "track meet",
+          "swim meet"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      },
+      {
+        "definition": "A gathering of riders , horses and hounds for foxhunting ; a field meet for hunting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hunting"
+        ],
+        "label_groups": "hunting"
+      },
+      {
+        "definition": "A meeting of two trains in opposite directions on a single track, when one is put into a siding to let the other cross.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "pass"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport"
+        ],
+        "label_groups": "rail transport"
+      },
+      {
+        "definition": "A meeting .",
+        "examples": [
+          "OK, let's arrange a meet with Tyler and ask him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "The greatest lower bound, an operation between pairs of elements in a lattice , denoted by the symbol ∧ .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "join"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "( sports ) A sports competition , especially for track and field or swimming .",
+    "secondary_definitions": [
+      "( hunting ) A gathering of riders , horses and hounds for foxhunting ; a field meet for hunting.",
+      "( rail transport ) A meeting of two trains in opposite directions on a single track, when one is put into a siding to let the other cross.",
+      "( informal ) A meeting .",
+      "( algebra ) The greatest lower bound, an operation between pairs of elements in a lattice , denoted by the symbol ∧ ."
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "word": "exception",
+    "lemma": "exception",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əkˈsɛpʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "exceptions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule.",
+        "examples": [
+          "the exception of a rule"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which is excluded from others; a person, thing, or case, specified as distinct, or not included.",
+        "examples": [
+          "That rule is usually true, but there are a few exceptions ."
+        ],
+        "synonyms": [
+          "outlier"
+        ],
+        "antonyms": [
+          "commonness",
+          "generality"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An objection , on legal grounds; also, as in conveyancing, a clause by which the grantor excepts or reserves something before the right is transferred.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "An objection; cavil ; dissent ; disapprobation; offense; cause of offense.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "usually followed by to or against"
+        ],
+        "label_groups": "usually followed by to or against"
+      },
+      {
+        "definition": "An interruption in normal processing , typically caused by an error condition , that can be raised (\" thrown \") by one part of the program and handled (\" caught \") by another part.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule.",
+    "secondary_definitions": [
+      "That which is excluded from others; a person, thing, or case, specified as distinct, or not included.",
+      "( law ) An objection , on legal grounds; also, as in conveyancing, a clause by which the grantor excepts or reserves something before the right is transferred.",
+      "( usually followed by to or against ) An objection; cavil ; dissent ; disapprobation; offense; cause of offense.",
+      "( programming ) An interruption in normal processing , typically caused by an error condition , that can be raised (\" thrown \") by one part of the program and handled (\" caught \") by another part."
+    ]
+  }
+]

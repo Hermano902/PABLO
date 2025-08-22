@@ -1,0 +1,88 @@
+[
+  {
+    "word": "request",
+    "lemma": "request",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkwɛst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "requests"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Act of requesting (with the adposition at in the presence of possessives , and on in their absence).",
+        "examples": [],
+        "synonyms": [
+          "asking",
+          "beseech",
+          "prayer",
+          "wish"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A formal message requesting something.",
+        "examples": [],
+        "synonyms": [
+          "petition",
+          "postulation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Condition of being sought after.",
+        "examples": [],
+        "synonyms": [
+          "demand"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A message sent over a network to a server .",
+        "examples": [
+          "The server returned a 404 error to the HTTP request ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "That which is asked for or requested.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Act of requesting (with the adposition at in the presence of possessives , and on in their absence).",
+    "secondary_definitions": [
+      "A formal message requesting something.",
+      "Condition of being sought after.",
+      "( networking ) A message sent over a network to a server .",
+      "( obsolete ) That which is asked for or requested."
+    ]
+  }
+]

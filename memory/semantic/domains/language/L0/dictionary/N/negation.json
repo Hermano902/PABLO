@@ -1,0 +1,77 @@
+[
+  {
+    "word": "negation",
+    "lemma": "negation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nəˈɡeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "negations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of negating something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A denial or contradiction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A proposition which is the contradictory of another proposition and which can be obtained from that other proposition by the appropriately placed addition/insertion of the word \"not\". (Or, in symbolic logic , by prepending that proposition with the symbol for the logical operator \"not\".)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "countable"
+        ],
+        "label_groups": "logic , countable"
+      },
+      {
+        "definition": "The logical operation which obtains such (negated) propositions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of negating something.",
+    "secondary_definitions": [
+      "( countable ) A denial or contradiction .",
+      "( logic , countable ) A proposition which is the contradictory of another proposition and which can be obtained from that other proposition by the appropriately placed addition/insertion of the word \"not\". (Or, in symbolic logic , by prepending that proposition with the symbol for the logical operator \"not\".)",
+      "( logic ) The logical operation which obtains such (negated) propositions."
+    ]
+  }
+]

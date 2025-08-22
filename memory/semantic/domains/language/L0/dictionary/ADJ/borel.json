@@ -1,0 +1,51 @@
+[
+  {
+    "word": "borel",
+    "lemma": "borel",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "being a member of a Borel σ -algebra ; being a Borel set",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "of a set"
+        ],
+        "label_groups": "mathematical analysis , of a set"
+      },
+      {
+        "definition": "Borel measurable",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "of a function"
+        ],
+        "label_groups": "mathematical analysis , of a function"
+      }
+    ],
+    "main_definition": "( mathematical analysis , of a set ) being a member of a Borel σ -algebra ; being a Borel set",
+    "secondary_definitions": [
+      "( mathematical analysis , of a function ) Borel measurable"
+    ]
+  }
+]

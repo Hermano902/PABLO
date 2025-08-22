@@ -1,0 +1,52 @@
+[
+  {
+    "word": "administrate",
+    "lemma": "administrate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ədˈmɪnɪstɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "administrates",
+          "PT": "administrated",
+          "PAP": "administrated",
+          "PRP": "administrating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to administer",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the act or function of providing maintenance and general housekeeping for computer systems, networks, peripheral equipment, etc.",
+        "examples": [
+          "The job is to administrate the network."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "to administer",
+    "secondary_definitions": [
+      "( computing ) the act or function of providing maintenance and general housekeeping for computer systems, networks, peripheral equipment, etc."
+    ]
+  }
+]

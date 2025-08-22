@@ -1,0 +1,54 @@
+[
+  {
+    "word": "greenfield",
+    "lemma": "greenfield",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a completely new development , without the need to integrate with legacy systems , etc.",
+        "examples": [
+          "a greenfield project"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      },
+      {
+        "definition": "Previously untapped ; free for the taking.",
+        "examples": [
+          "a greenfield market",
+          "a greenfield sales opportunity"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "business"
+        ],
+        "label_groups": "business"
+      }
+    ],
+    "main_definition": "( software engineering ) Of a completely new development , without the need to integrate with legacy systems , etc.",
+    "secondary_definitions": [
+      "( business ) Previously untapped ; free for the taking."
+    ]
+  }
+]

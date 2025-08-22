@@ -1,0 +1,90 @@
+[
+  {
+    "word": "impound",
+    "lemma": "impound",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpaʊ̯nd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "impounds",
+          "PT": "impounded",
+          "PAP": "impounded",
+          "PRP": "impounding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To shut up or place in an enclosure called a pound .",
+        "examples": [
+          "His car was impounded after he parked it illegally."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hold back .",
+        "examples": [
+          "water impounded by a dam"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hold in the custody of a court or its delegate .",
+        "examples": [
+          "to impound stray cattle",
+          "to impound a document for safekeeping."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To collect and hold ( funds ) for payment of property taxes and insurance on property in which one has a security interest .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "banking"
+        ],
+        "label_groups": "transitive , law , banking"
+      }
+    ],
+    "main_definition": "( transitive ) To shut up or place in an enclosure called a pound .",
+    "secondary_definitions": [
+      "( transitive ) To hold back .",
+      "( transitive , law ) To hold in the custody of a court or its delegate .",
+      "( transitive , law , banking ) To collect and hold ( funds ) for payment of property taxes and insurance on property in which one has a security interest ."
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "cod",
+    "lemma": "cod",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kɒd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cods",
+          "PT": "codded",
+          "PAP": "codded",
+          "PRP": "codding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To attempt to deceive or confuse; to kid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dialectal",
+          "slang"
+        ],
+        "label_groups": "transitive , dialectal , slang"
+      },
+      {
+        "definition": "To joke; to kid",
+        "examples": [
+          "I'm only codding !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "Ireland",
+          "slang"
+        ],
+        "label_groups": "intransitive , Ireland , slang"
+      }
+    ],
+    "main_definition": "( transitive , dialectal , slang ) To attempt to deceive or confuse; to kid .",
+    "secondary_definitions": [
+      "( intransitive , Ireland , slang ) To joke; to kid"
+    ]
+  }
+]

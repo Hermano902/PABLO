@@ -1,0 +1,47 @@
+[
+  {
+    "word": "optimal",
+    "lemma": "optimal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒptɪməl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The best , most favourable or desirable , especially under some restriction .",
+        "examples": [
+          "Finding the optimal balance between features and price is a common problem."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Describing a search algorithm that always returns the best result.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence"
+        ],
+        "label_groups": "artificial intelligence"
+      }
+    ],
+    "main_definition": "The best , most favourable or desirable , especially under some restriction .",
+    "secondary_definitions": [
+      "( artificial intelligence ) Describing a search algorithm that always returns the best result."
+    ]
+  }
+]

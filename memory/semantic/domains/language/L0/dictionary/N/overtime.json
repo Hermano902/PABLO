@@ -1,0 +1,81 @@
+[
+  {
+    "word": "overtime",
+    "lemma": "overtime",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈəʊ.və.taɪm/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overtimes"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Working time outside of one's regular hours.",
+        "examples": [
+          "Workers are usually paid extra for working overtime ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The rate of pay, usually higher, for work done outside of or in addition to regular hours.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An extra period of play when a contest has a tie score at the end of regulation .",
+        "examples": [
+          "That last-second shot ties the game 99-99 and sends it to overtime !"
+        ],
+        "synonyms": [
+          "extra time",
+          "OT"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "countable",
+          "US"
+        ],
+        "label_groups": "sports , countable , US"
+      },
+      {
+        "definition": "A period of time longer than scheduled.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) Working time outside of one's regular hours.",
+    "secondary_definitions": [
+      "( uncountable ) The rate of pay, usually higher, for work done outside of or in addition to regular hours.",
+      "( sports , countable , US ) An extra period of play when a contest has a tie score at the end of regulation .",
+      "A period of time longer than scheduled."
+    ]
+  }
+]

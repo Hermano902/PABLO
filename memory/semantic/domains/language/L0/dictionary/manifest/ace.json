@@ -1,0 +1,39 @@
+{
+  "word": "ace",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "ADJ:2",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 16,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ace.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ace.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\ace.json"
+  },
+  "timestamp": "2025-08-18T20:11:12.519311Z"
+}

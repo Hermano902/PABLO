@@ -1,0 +1,75 @@
+[
+  {
+    "word": "breakpoint",
+    "lemma": "breakpoint",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "breakpoints"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A point in a program at which operation may be interrupted during debugging so that the state of the program at that point can be investigated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A location referred to when issuing watches , warnings , or advisories for specific areas .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      },
+      {
+        "definition": "The point where surface water waves are breaking in, e.g., oceans or lakes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A viewport width at which a web page is programmed to adjust the properties (such as position, size, or visibility) of certain elements within the page.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "web development"
+        ],
+        "label_groups": "web development"
+      }
+    ],
+    "main_definition": "( programming ) A point in a program at which operation may be interrupted during debugging so that the state of the program at that point can be investigated .",
+    "secondary_definitions": [
+      "( meteorology ) A location referred to when issuing watches , warnings , or advisories for specific areas .",
+      "( physics ) The point where surface water waves are breaking in, e.g., oceans or lakes .",
+      "( web development ) A viewport width at which a web page is programmed to adjust the properties (such as position, size, or visibility) of certain elements within the page."
+    ]
+  }
+]

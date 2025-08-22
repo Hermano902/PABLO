@@ -1,0 +1,67 @@
+[
+  {
+    "word": "manufacture",
+    "lemma": "manufacture",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌmænjuˈfækt͡ʃɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "manufactures",
+          "PT": "manufactured",
+          "PAP": "manufactured",
+          "PRP": "manufacturing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make things, usually on a large scale, with tools and either physical labor or machinery .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To work (raw or partly wrought materials) into suitable forms for use.",
+        "examples": [
+          "to manufacture wool into blankets"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To fabricate ; to create false evidence to support a point.",
+        "examples": [
+          "The collegian keeps manufacturing new excuses for their tardiness."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "derogatory"
+        ],
+        "label_groups": "derogatory"
+      }
+    ],
+    "main_definition": "To make things, usually on a large scale, with tools and either physical labor or machinery .",
+    "secondary_definitions": [
+      "( transitive ) To work (raw or partly wrought materials) into suitable forms for use.",
+      "( derogatory ) To fabricate ; to create false evidence to support a point."
+    ]
+  }
+]

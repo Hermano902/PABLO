@@ -1,0 +1,141 @@
+[
+  {
+    "word": "derivative",
+    "lemma": "derivative",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹɪvətɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "derivatives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something derived .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A word that derives from another one.",
+        "examples": [],
+        "synonyms": [
+          "descendant",
+          "formative",
+          "reflex"
+        ],
+        "antonyms": [
+          "ancestor",
+          "etymon",
+          "root"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "A financial instrument whose value depends on the valuation of an underlying asset ; such as a warrant , an option etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "A chemical derived from another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "One of the two fundamental objects of study in calculus (the other being integration ), which quantifies the rate of change , tangency , and other qualities arising from the local behavior of a function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "{\\displaystyle f(x)} ) The derived function of f ( x ) {\\displaystyle f(x)} : the function giving the instantaneous rate of change of f {\\displaystyle f} ; equivalently, the function giving the slope of the line tangent to the graph of f {\\displaystyle f} . Written f ′ ( x ) {\\displaystyle f'(x)} or d f d x {\\displaystyle {\\frac {df}{dx}}} in Leibniz's notation , f ˙ ( x ) {\\displaystyle {\\dot {f}}(x)} in Newton's notation (the latter used particularly when the independent variable is time).",
+            "examples": [
+              "The derivative of x 2 {\\displaystyle x^{2}} is 2 x {\\displaystyle 2x} ; if f ( x ) = x 2 {\\displaystyle f(x)=x^{2}} , then f ′ ( x ) = 2 x {\\displaystyle f'(x)=2x}"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a function of a single variable f ( x"
+            ],
+            "label_groups": "of a function of a single variable f ( x"
+          },
+          {
+            "definition": "The value of such a derived function for a given value of its independent variable: the rate of change of a function at a point in its domain .",
+            "examples": [
+              "The derivative of f ( x ) = x 3 {\\displaystyle f(x)=x^{3}} at x = 2 {\\displaystyle x=2} is 12 {\\displaystyle 12} ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Any of several related generalizations of the derivative: the directional derivative , partial derivative , Fréchet derivative , functional derivative , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of more general classes of functions"
+            ],
+            "label_groups": "of more general classes of functions"
+          },
+          {
+            "definition": "The linear operator that maps functions to their derived functions , usually written D {\\displaystyle D} ; the simplest differential operator .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "generally"
+            ],
+            "label_groups": "generally"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      }
+    ],
+    "main_definition": "Something derived .",
+    "secondary_definitions": [
+      "( linguistics ) A word that derives from another one.",
+      "( finance ) A financial instrument whose value depends on the valuation of an underlying asset ; such as a warrant , an option etc.",
+      "( chemistry ) A chemical derived from another.",
+      "( calculus ) One of the two fundamental objects of study in calculus (the other being integration ), which quantifies the rate of change , tangency , and other qualities arising from the local behavior of a function ."
+    ]
+  }
+]

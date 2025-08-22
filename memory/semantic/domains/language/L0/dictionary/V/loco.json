@@ -1,0 +1,56 @@
+[
+  {
+    "word": "loco",
+    "lemma": "loco",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈləʊ.kəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "locos",
+          "PT": "locoed",
+          "PAP": "locoed",
+          "PRP": "locoing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To poison with the loco plant; to affect with locoism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To render insane .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial",
+          "by extension"
+        ],
+        "label_groups": "transitive , colloquial , by extension"
+      }
+    ],
+    "main_definition": "( transitive ) To poison with the loco plant; to affect with locoism .",
+    "secondary_definitions": [
+      "( transitive , colloquial , by extension ) To render insane ."
+    ]
+  }
+]

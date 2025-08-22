@@ -1,0 +1,98 @@
+[
+  {
+    "word": "distillation",
+    "lemma": "distillation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪstɪˈleɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "distillations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of falling in drops , or the act of pouring out in drops.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which falls in drops.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The separation of more volatile parts of a substance from less volatile ones by evaporation and condensation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Purification through repeated or continuous distilling; rectification .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Separation of petroleum into specific hydrocarbon groups; fractionation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "petrochemistry"
+            ],
+            "label_groups": "petrochemistry"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "chemical engineering"
+        ],
+        "label_groups": "chemistry , chemical engineering"
+      },
+      {
+        "definition": "The substance extracted by distilling .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The transformation of a complex large language model into a smaller one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "machine learning"
+        ],
+        "label_groups": "machine learning"
+      }
+    ],
+    "main_definition": "The act of falling in drops , or the act of pouring out in drops.",
+    "secondary_definitions": [
+      "That which falls in drops.",
+      "( chemistry , chemical engineering ) The separation of more volatile parts of a substance from less volatile ones by evaporation and condensation.",
+      "The substance extracted by distilling .",
+      "( machine learning ) The transformation of a complex large language model into a smaller one."
+    ]
+  }
+]

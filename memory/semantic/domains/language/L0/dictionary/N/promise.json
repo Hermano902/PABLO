@@ -1,0 +1,96 @@
+[
+  {
+    "word": "promise",
+    "lemma": "promise",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɒmɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "promises"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "an oath or affirmation ; a vow .",
+        "examples": [
+          "When I make a promise , I always stick to it.",
+          "He broke his promise : he said he'd return my jewellery, but never did."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A transaction between two persons whereby the first person undertakes in the future to render some service or gift to the second person or devotes something valuable now and here to his use.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "law"
+        ],
+        "label_groups": "countable , law"
+      },
+      {
+        "definition": "Reason to expect improvement or success; potential .",
+        "examples": [
+          "She shows great promise as an actress."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A placeholder object representing the eventual result of an asynchronous operation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "programming"
+        ],
+        "label_groups": "countable , programming"
+      },
+      {
+        "definition": "bestowal or fulfillment of what is promised",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "obsolete"
+        ],
+        "label_groups": "countable , obsolete"
+      }
+    ],
+    "main_definition": "( countable ) an oath or affirmation ; a vow .",
+    "secondary_definitions": [
+      "( countable , law ) A transaction between two persons whereby the first person undertakes in the future to render some service or gift to the second person or devotes something valuable now and here to his use.",
+      "( uncountable ) Reason to expect improvement or success; potential .",
+      "( countable , programming ) A placeholder object representing the eventual result of an asynchronous operation.",
+      "( countable , obsolete ) bestowal or fulfillment of what is promised"
+    ]
+  }
+]

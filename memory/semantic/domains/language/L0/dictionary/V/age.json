@@ -1,0 +1,160 @@
+[
+  {
+    "word": "age",
+    "lemma": "age",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/eɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ages",
+          "PT": "aged",
+          "PAP": "aged",
+          "PRP": "ageing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To grow aged; to become old or older; to show marks of age.",
+        "examples": [
+          "He grew fat as he aged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To suffer the passage of time so as to later be viewed or turn out in a certain way.",
+            "examples": [
+              "His prediction that we didn't stand a chance hasn't aged well, now that we've won the cup.",
+              "The sitcom was made in the 1970s and its casual sexism has not aged well."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "of a statement",
+              "prediction",
+              "etc."
+            ],
+            "label_groups": "intransitive , of a statement, prediction, etc."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to grow old; to impart the characteristics of age to.",
+        "examples": [
+          "Grief ages us."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To allow to mature.",
+            "examples": [
+              "We age the whiskey for five years."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To treat or tamper with in order to give a false appearance of age.",
+            "examples": [
+              "This clock is modern, but it has been deliberately aged in an attempt to make it seem antique."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To determine the age of (the length of time that something has been alive or in existence).",
+        "examples": [
+          "There are several ways to age trees."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To indicate or reveal that (a person) has been alive for a certain period of time, especially a long one.",
+        "examples": [
+          "I clearly remember hearing the news of Kennedy's assassination. That ages me."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To allow (something) to persist by postponing an action that would extinguish it, as a debt.",
+        "examples": [
+          "Money's a little tight right now. Let's age our bills for a week or so."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To categorize by age.",
+        "examples": [
+          "One his first assignments was to age the accounts receivable."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "accounting"
+        ],
+        "label_groups": "transitive , accounting"
+      }
+    ],
+    "main_definition": "( intransitive ) To grow aged; to become old or older; to show marks of age.",
+    "secondary_definitions": [
+      "( transitive ) To cause to grow old; to impart the characteristics of age to.",
+      "( transitive ) To determine the age of (the length of time that something has been alive or in existence).",
+      "( transitive ) To indicate or reveal that (a person) has been alive for a certain period of time, especially a long one.",
+      "( transitive , figuratively ) To allow (something) to persist by postponing an action that would extinguish it, as a debt.",
+      "( transitive , accounting ) To categorize by age."
+    ]
+  }
+]

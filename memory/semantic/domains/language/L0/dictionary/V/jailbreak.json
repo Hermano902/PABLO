@@ -1,0 +1,79 @@
+[
+  {
+    "word": "jailbreak",
+    "lemma": "jailbreak",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒeɪlˌbɹeɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "jailbreaks",
+          "PT": "jailbroke",
+          "PAP": "jailbroken",
+          "PRP": "jailbreaking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To escape from prison .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To modify the firmware of an electronic device, especially a mobile phone , in order to remove restrictions that prevent it from running unofficial software.",
+        "examples": [],
+        "synonyms": [
+          "root"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To free a large language model from its ethical restrictions using prompt injection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence"
+        ],
+        "label_groups": "artificial intelligence"
+      },
+      {
+        "definition": "To score while short-handed in a league with the \"jailbreak\" rule.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ice hockey"
+        ],
+        "label_groups": "ice hockey"
+      }
+    ],
+    "main_definition": "To escape from prison .",
+    "secondary_definitions": [
+      "( transitive , computing ) To modify the firmware of an electronic device, especially a mobile phone , in order to remove restrictions that prevent it from running unofficial software.",
+      "( artificial intelligence ) To free a large language model from its ethical restrictions using prompt injection .",
+      "( ice hockey ) To score while short-handed in a league with the \"jailbreak\" rule."
+    ]
+  }
+]

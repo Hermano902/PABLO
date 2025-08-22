@@ -1,0 +1,94 @@
+[
+  {
+    "word": "internet",
+    "lemma": "internet",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntəˌnɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "internets",
+          "PT": "internetted",
+          "PAP": "internetted",
+          "PRP": "internetting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( intransitive , Internet , informal ) To use the internet; specifically, to search for information by using the internet.",
+        "examples": [
+          "Having no idea what that means, I am internetting like mad."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive , Internet , informal ) To use the internet; specifically, to search for information by using the internet.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "internet",
+    "lemma": "internet",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈɪntəˌnɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "internets",
+          "PT": "internetted",
+          "PAP": "internetted",
+          "PRP": "internetting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To entwine or link (several things) together , so as to form a network ; to interconnect , to network .",
+        "examples": [],
+        "synonyms": [
+          "interweave"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic",
+          "rare"
+        ],
+        "label_groups": "archaic , rare"
+      },
+      {
+        "definition": "To connect (a computer , an electronic device , etc.) into a computer network (in particular, the Internet ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "specifically",
+          "networking"
+        ],
+        "label_groups": "specifically , networking"
+      }
+    ],
+    "main_definition": "( archaic , rare ) To entwine or link (several things) together , so as to form a network ; to interconnect , to network .",
+    "secondary_definitions": [
+      "( specifically , networking ) To connect (a computer , an electronic device , etc.) into a computer network (in particular, the Internet )."
+    ]
+  }
+]

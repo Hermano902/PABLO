@@ -1,0 +1,75 @@
+[
+  {
+    "word": "delay",
+    "lemma": "delay",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈleɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "delays"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A period of time before an event occurs; the act of delaying; procrastination ; lingering inactivity.",
+        "examples": [
+          "the delay before the echo of a sound",
+          "Two twenty minutes' delay s."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An audio effects unit that introduces a controlled delay.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Synonym of promise ( “ object representing delayed result ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "Clojure"
+        ],
+        "label_groups": "programming , Clojure"
+      },
+      {
+        "definition": "An amount of time provided on each move before one's clock starts to tick ; a less common time control than increment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      }
+    ],
+    "main_definition": "A period of time before an event occurs; the act of delaying; procrastination ; lingering inactivity.",
+    "secondary_definitions": [
+      "( music ) An audio effects unit that introduces a controlled delay.",
+      "( programming , Clojure ) Synonym of promise ( “ object representing delayed result ” ) .",
+      "( chess ) An amount of time provided on each move before one's clock starts to tick ; a less common time control than increment ."
+    ]
+  }
+]

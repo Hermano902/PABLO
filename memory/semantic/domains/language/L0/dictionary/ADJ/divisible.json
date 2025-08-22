@@ -1,0 +1,59 @@
+[
+  {
+    "word": "divisible",
+    "lemma": "divisible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "[dɪˈvɪzɪbəɫ]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being divided or split .",
+        "examples": [],
+        "synonyms": [
+          "dividable",
+          "splittable",
+          "partible"
+        ],
+        "antonyms": [
+          "indivisible",
+          "nondivisible",
+          "undividable"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Of an integer , that, when divided by another integer, results in another integer still, thus leaving no remainder .",
+            "examples": [
+              "Just as 12 is divisible by 3, so is 48 divisible by 12."
+            ],
+            "synonyms": [
+              "evenly divisible"
+            ],
+            "antonyms": [
+              "indivisible",
+              "nondivisible"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "arithmetic"
+            ],
+            "label_groups": "arithmetic"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Capable of being divided or split .",
+    "secondary_definitions": []
+  }
+]

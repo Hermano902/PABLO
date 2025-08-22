@@ -1,0 +1,55 @@
+[
+  {
+    "word": "ankle",
+    "lemma": "ankle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæŋ.kəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ankles",
+          "PT": "ankled",
+          "PAP": "ankled",
+          "PRP": "ankling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To walk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "ambitransitive"
+        ],
+        "label_groups": "slang , ambitransitive"
+      },
+      {
+        "definition": "To cyclically angle the foot at the ankle while pedaling , to maximize the amount of work applied to the pedal during each revolution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cycling"
+        ],
+        "label_groups": "cycling"
+      }
+    ],
+    "main_definition": "( slang , ambitransitive ) To walk.",
+    "secondary_definitions": [
+      "( cycling ) To cyclically angle the foot at the ankle while pedaling , to maximize the amount of work applied to the pedal during each revolution."
+    ]
+  }
+]

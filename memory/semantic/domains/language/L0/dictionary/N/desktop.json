@@ -1,0 +1,91 @@
+[
+  {
+    "word": "desktop",
+    "lemma": "desktop",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛsktɒp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "desktops"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The top surface of a desk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A desktop computer .",
+        "examples": [
+          "Laptops are often more expensive than desktops ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A personal computer, as opposed to computers for business or server purposes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The main graphical user interface of an operating system , usually displaying icons , windows and background wallpaper .",
+        "examples": [
+          "I installed a new application and it added its icon to my desktop ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graphical user interface"
+        ],
+        "label_groups": "computing , graphical user interface"
+      },
+      {
+        "definition": "The wallpaper of this interface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "graphical user interface",
+          "synecdochically"
+        ],
+        "label_groups": "computing , graphical user interface , synecdochically"
+      }
+    ],
+    "main_definition": "The top surface of a desk.",
+    "secondary_definitions": [
+      "( computing ) A desktop computer .",
+      "( computing ) A personal computer, as opposed to computers for business or server purposes.",
+      "( computing , graphical user interface ) The main graphical user interface of an operating system , usually displaying icons , windows and background wallpaper .",
+      "( computing , graphical user interface , synecdochically ) The wallpaper of this interface."
+    ]
+  }
+]

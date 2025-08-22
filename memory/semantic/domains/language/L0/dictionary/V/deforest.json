@@ -1,0 +1,56 @@
+[
+  {
+    "word": "deforest",
+    "lemma": "deforest",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɒɹɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deforests",
+          "PT": "deforested",
+          "PAP": "deforested",
+          "PRP": "deforesting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To clear (an area) of forest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To disafforest (remove legal status as forest).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "archaic"
+        ],
+        "label_groups": "transitive , law , archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To clear (an area) of forest.",
+    "secondary_definitions": [
+      "( transitive , law , archaic ) To disafforest (remove legal status as forest)."
+    ]
+  }
+]

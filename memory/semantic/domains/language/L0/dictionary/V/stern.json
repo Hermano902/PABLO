@@ -1,0 +1,56 @@
+[
+  {
+    "word": "stern",
+    "lemma": "stern",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/stɜːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sterns",
+          "PT": "sterned",
+          "PAP": "sterned",
+          "PRP": "sterning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To steer , to direct the course of (a ship ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "ambitransitive"
+        ],
+        "label_groups": "obsolete , ambitransitive"
+      },
+      {
+        "definition": "To propel or move backward or stern- first in the water .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "nautical"
+        ],
+        "label_groups": "ambitransitive , nautical"
+      }
+    ],
+    "main_definition": "( obsolete , ambitransitive ) To steer , to direct the course of (a ship ).",
+    "secondary_definitions": [
+      "( ambitransitive , nautical ) To propel or move backward or stern- first in the water ."
+    ]
+  }
+]

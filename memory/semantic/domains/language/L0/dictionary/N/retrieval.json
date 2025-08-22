@@ -1,0 +1,54 @@
+[
+  {
+    "word": "retrieval",
+    "lemma": "retrieval",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈtɹiːvəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "retrievals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "the act of retrieving or something retrieved",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "the operation of accessing data , either from memory or from a storage device",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "the cognitive process of bringing stored information into consciousness",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "the act of retrieving or something retrieved",
+    "secondary_definitions": [
+      "( computing ) the operation of accessing data , either from memory or from a storage device",
+      "the cognitive process of bringing stored information into consciousness"
+    ]
+  }
+]

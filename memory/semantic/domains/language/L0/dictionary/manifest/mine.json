@@ -1,0 +1,47 @@
+{
+  "word": "mine",
+  "pos_order": [
+    "PRON",
+    "DET",
+    "N",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "PRON": {
+      "definitions": 6,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "DET": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\mine.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\mine.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mine.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mine.json"
+  },
+  "timestamp": "2025-08-19T09:13:42.242702Z"
+}

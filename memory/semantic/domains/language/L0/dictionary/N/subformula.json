@@ -1,0 +1,35 @@
+[
+  {
+    "word": "subformula",
+    "lemma": "subformula",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subformulas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A formula that is part of another formula.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "( logic ) A formula that is part of another formula.",
+    "secondary_definitions": []
+  }
+]

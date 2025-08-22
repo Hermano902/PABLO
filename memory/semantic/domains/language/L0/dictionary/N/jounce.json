@@ -1,0 +1,47 @@
+[
+  {
+    "word": "jounce",
+    "lemma": "jounce",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/d͡ʒaʊns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jounces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A movement, such as a jolt or a shake .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The fourth derivative of the position vector with respect to time ; the time derivative of jerk .",
+        "examples": [],
+        "synonyms": [
+          "snap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "A movement, such as a jolt or a shake .",
+    "secondary_definitions": [
+      "( physics ) The fourth derivative of the position vector with respect to time ; the time derivative of jerk ."
+    ]
+  }
+]

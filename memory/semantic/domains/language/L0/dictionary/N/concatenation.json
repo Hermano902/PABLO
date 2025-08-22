@@ -1,0 +1,75 @@
+[
+  {
+    "word": "concatenation",
+    "lemma": "concatenation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɑnˌkæt.ɪˈneɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "concatenations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A series of links united; a series or order of things depending on each other, as if linked together; a chain , a succession .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The application of these series of links.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The operation of joining multiple character strings .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A character string formed by joining multiple character strings .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( countable ) A series of links united; a series or order of things depending on each other, as if linked together; a chain , a succession .",
+    "secondary_definitions": [
+      "( uncountable ) The application of these series of links.",
+      "( programming ) The operation of joining multiple character strings .",
+      "( programming ) A character string formed by joining multiple character strings ."
+    ]
+  }
+]

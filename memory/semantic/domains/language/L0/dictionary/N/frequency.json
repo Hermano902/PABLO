@@ -1,0 +1,95 @@
+[
+  {
+    "word": "frequency",
+    "lemma": "frequency",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹiːkwənsi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "frequencies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The rate of occurrence of anything; the relationship between incidence and time period .",
+        "examples": [
+          "With growing confidence, the Viking’s raids increased in frequency .",
+          "The frequency of bus service has been improved from one every 15 to one every 12 minutes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable or countable"
+        ],
+        "label_groups": "uncountable or countable"
+      },
+      {
+        "definition": "The property of occurring often rather than infrequently .",
+        "examples": [
+          "The FAQ addresses questions that come up with some frequency .",
+          "The frequency of the visits was what annoyed him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The quotient of the number of times n {\\displaystyle n} a periodic phenomenon occurs over the time t {\\displaystyle t} in which it occurs: f = n / t {\\displaystyle f=n/t} .",
+        "examples": [
+          "The frequency of the musical note A above middle C is 440 oscillations per second.",
+          "The frequency of a wave is its velocity v {\\displaystyle v} divided by its wavelength λ {\\displaystyle \\lambda } : f = v / λ {\\displaystyle f=v/\\lambda } .",
+          "Broadcasting live at a frequency of 98.3 megahertz, we’re your rock alternative!",
+          "The frequency for electric power in the Americas is generally 60 Hz rather than 50."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A tone , character , mood , or vibe",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "number of times an event occurred in an experiment ( absolute frequency )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( uncountable or countable ) The rate of occurrence of anything; the relationship between incidence and time period .",
+    "secondary_definitions": [
+      "( uncountable ) The property of occurring often rather than infrequently .",
+      "( countable ) The quotient of the number of times n {\\displaystyle n} a periodic phenomenon occurs over the time t {\\displaystyle t} in which it occurs: f = n / t {\\displaystyle f=n/t} .",
+      "A tone , character , mood , or vibe",
+      "( statistics ) number of times an event occurred in an experiment ( absolute frequency )"
+    ]
+  }
+]

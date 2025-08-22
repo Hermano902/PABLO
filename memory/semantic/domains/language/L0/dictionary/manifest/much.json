@@ -1,0 +1,46 @@
+{
+  "word": "much",
+  "pos_order": [
+    "DET",
+    "ADJ",
+    "ADV",
+    "PRON"
+  ],
+  "pos": {
+    "DET": {
+      "definitions": 4,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 6,
+      "examples": 11,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PRON": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\much.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\much.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\much.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\much.json"
+  },
+  "timestamp": "2025-08-19T09:40:16.104237Z"
+}

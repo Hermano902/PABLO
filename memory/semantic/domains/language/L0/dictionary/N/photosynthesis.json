@@ -1,0 +1,53 @@
+[
+  {
+    "word": "photosynthesis",
+    "lemma": "photosynthesis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌfəʊ.təʊˈsɪn.θə.sɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "photosyntheses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any process by which plants and other photoautotrophs convert light energy into chemical energy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Principally, oxygenic photosynthesis, any process by which plants and algae convert water and carbon dioxide into carbohydrates and waste oxygen using solar energy.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Also, nonoxygenic photosynthesis, used by purple and green bacteria , heliobacteria , and acidobacteria .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "biochemistry",
+          "organic chemistry"
+        ],
+        "label_groups": "biochemistry , organic chemistry"
+      }
+    ],
+    "main_definition": "( biochemistry , organic chemistry ) Any process by which plants and other photoautotrophs convert light energy into chemical energy.",
+    "secondary_definitions": []
+  }
+]

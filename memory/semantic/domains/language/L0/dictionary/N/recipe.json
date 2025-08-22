@@ -1,0 +1,85 @@
+[
+  {
+    "word": "recipe",
+    "lemma": "recipe",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛs.ɪ.pi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "recipes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A formula for preparing or using a medicine ; a prescription ; also, a medicine prepared from such instructions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "archaic"
+        ],
+        "label_groups": "medicine , archaic",
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "Any set of instructions for preparing a mixture of ingredients.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A plan or procedure to obtain a given end result; a prescription .",
+        "examples": [
+          "His new approach is definitely a recipe for success."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "Now especially, a set of instructions for making or preparing food dishes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "A set of conditions and parameters of an industrial process to obtain a given result.",
+        "examples": [
+          "Stepper recipes ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( medicine , archaic ) A formula for preparing or using a medicine ; a prescription ; also, a medicine prepared from such instructions. [from 16th c.]",
+    "secondary_definitions": [
+      "Any set of instructions for preparing a mixture of ingredients. [from 17th c.]",
+      "( by extension ) A plan or procedure to obtain a given end result; a prescription . [from 17th c.]",
+      "Now especially, a set of instructions for making or preparing food dishes. [from 18th c.]",
+      "A set of conditions and parameters of an industrial process to obtain a given result."
+    ]
+  }
+]

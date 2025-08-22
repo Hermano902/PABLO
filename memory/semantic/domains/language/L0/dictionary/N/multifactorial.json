@@ -1,0 +1,35 @@
+[
+  {
+    "word": "multifactorial",
+    "lemma": "multifactorial",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-ɔːɹiəl",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "multifactorials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A generalization of a factorial in which each element to be multiplied differs from the next by an integer (e.g. n(n-3)(n-6)(n-9)...).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) A generalization of a factorial in which each element to be multiplied differs from the next by an integer (e.g. n(n-3)(n-6)(n-9)...).",
+    "secondary_definitions": []
+  }
+]

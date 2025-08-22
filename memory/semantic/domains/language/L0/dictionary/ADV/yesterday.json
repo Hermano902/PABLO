@@ -1,0 +1,54 @@
+[
+  {
+    "word": "yesterday",
+    "lemma": "yesterday",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈjɛstədeɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "On the day before today .",
+        "examples": [
+          "I started to watch the video yesterday , but could only finish it this evening."
+        ],
+        "synonyms": [
+          "the last day"
+        ],
+        "antonyms": [
+          "tomorrow"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "As soon as possible .",
+        "examples": [
+          "I want this done yesterday !",
+          "I need it yesterday !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      }
+    ],
+    "main_definition": "On the day before today .",
+    "secondary_definitions": [
+      "( informal ) As soon as possible ."
+    ]
+  }
+]

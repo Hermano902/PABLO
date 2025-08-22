@@ -1,0 +1,55 @@
+[
+  {
+    "word": "evanesce",
+    "lemma": "evanesce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌiːvəˈnɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "evanesces",
+          "PT": "evanesced",
+          "PAP": "evanesced",
+          "PRP": "evanescing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To disappear into a mist or dissipate in vapor",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transition from the solid state to gaseous state without ever becoming a liquid",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chemistry"
+        ],
+        "label_groups": "intransitive , chemistry"
+      }
+    ],
+    "main_definition": "( intransitive ) To disappear into a mist or dissipate in vapor",
+    "secondary_definitions": [
+      "( intransitive , chemistry ) To transition from the solid state to gaseous state without ever becoming a liquid"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "supertype",
+    "lemma": "supertype",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "supertypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The data type represented by a superclass .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The data type represented by a superclass .",
+    "secondary_definitions": []
+  }
+]

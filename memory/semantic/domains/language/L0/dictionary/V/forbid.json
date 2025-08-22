@@ -1,0 +1,101 @@
+[
+  {
+    "word": "forbid",
+    "lemma": "forbid",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɚˈbɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "forbids",
+          "PT": "forbade",
+          "PAP": "forbidden",
+          "PRP": "forbidding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To disallow ; to proscribe .",
+        "examples": [
+          "Smoking in the restaurant is forbidden ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deny, exclude from, or warn off, by express command.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To oppose, hinder, or prevent, as if by an effectual command.",
+        "examples": [
+          "An impassable river forbids the approach of the army."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To accurse; to blast.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To defy; to challenge.",
+        "examples": [
+          "What part of \"no\" do you forbid to understand?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To disallow ; to proscribe .",
+    "secondary_definitions": [
+      "( ditransitive ) To deny, exclude from, or warn off, by express command.",
+      "( transitive ) To oppose, hinder, or prevent, as if by an effectual command.",
+      "( transitive , obsolete ) To accurse; to blast.",
+      "( transitive , obsolete ) To defy; to challenge."
+    ]
+  }
+]

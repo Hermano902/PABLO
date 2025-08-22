@@ -1,0 +1,37 @@
+[
+  {
+    "word": "monomial",
+    "lemma": "monomial",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "monomials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single term consisting of a product of numbers and variables with positive integer exponents .",
+        "examples": [
+          "5x²y is a monomial"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) A single term consisting of a product of numbers and variables with positive integer exponents .",
+    "secondary_definitions": []
+  }
+]

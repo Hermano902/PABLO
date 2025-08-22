@@ -1,0 +1,75 @@
+[
+  {
+    "word": "genotype",
+    "lemma": "genotype",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdʒɛnəʊˌtaɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "genotypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( genetics ) The part ( DNA sequence ) of the genetic makeup of an organism which determines a specific characteristic ( phenotype ) of that organism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of organisms having the same genetic constitution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( genetics ) The part ( DNA sequence ) of the genetic makeup of an organism which determines a specific characteristic ( phenotype ) of that organism.",
+    "secondary_definitions": [
+      "A group of organisms having the same genetic constitution."
+    ]
+  },
+  {
+    "word": "genotype",
+    "lemma": "genotype",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈdʒɛnəʊˌtaɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "genotypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The type species of a genus; generitype .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy",
+          "obsolete"
+        ],
+        "label_groups": "taxonomy , obsolete"
+      }
+    ],
+    "main_definition": "( taxonomy , obsolete ) The type species of a genus; generitype .",
+    "secondary_definitions": []
+  }
+]

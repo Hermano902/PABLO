@@ -1,0 +1,112 @@
+[
+  {
+    "word": "impute",
+    "lemma": "impute",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "imputes",
+          "PT": "imputed",
+          "PAP": "imputed",
+          "PRP": "imputing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To attribute or ascribe ( responsibility or fault ) to a cause or source .",
+        "examples": [
+          "The teacher imputed the student's failure to his nervousness."
+        ],
+        "synonyms": [
+          "attribute",
+          "insinuate",
+          "charge",
+          "imply"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ascribe ( sin or righteousness ) to someone by substitution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "theology"
+        ],
+        "label_groups": "transitive , theology"
+      },
+      {
+        "definition": "To take into account .",
+        "examples": [],
+        "synonyms": [
+          "consider",
+          "regard",
+          "reckon"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attribute or credit to.",
+        "examples": [
+          "People impute great cleverness to cats."
+        ],
+        "synonyms": [
+          "attribute",
+          "ascribe",
+          "assign"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To replace missing data with substituted values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "statistics"
+        ],
+        "label_groups": "transitive , statistics"
+      }
+    ],
+    "main_definition": "( transitive ) To attribute or ascribe ( responsibility or fault ) to a cause or source .",
+    "secondary_definitions": [
+      "( transitive , theology ) To ascribe ( sin or righteousness ) to someone by substitution.",
+      "( transitive ) To take into account .",
+      "( transitive ) To attribute or credit to.",
+      "( transitive , statistics ) To replace missing data with substituted values."
+    ]
+  }
+]

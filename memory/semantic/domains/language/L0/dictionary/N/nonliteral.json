@@ -1,0 +1,36 @@
+[
+  {
+    "word": "nonliteral",
+    "lemma": "nonliteral",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "nonliterals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is not a literal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "logic"
+        ],
+        "label_groups": "programming , logic"
+      }
+    ],
+    "main_definition": "( programming , logic ) That which is not a literal.",
+    "secondary_definitions": []
+  }
+]

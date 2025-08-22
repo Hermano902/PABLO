@@ -1,0 +1,31 @@
+{
+  "word": "bin",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 9,
+      "examples": 6,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bin.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bin.json"
+  },
+  "timestamp": "2025-08-18T22:13:31.568425Z"
+}

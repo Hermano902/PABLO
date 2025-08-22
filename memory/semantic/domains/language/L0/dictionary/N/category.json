@@ -1,0 +1,62 @@
+[
+  {
+    "word": "category",
+    "lemma": "category",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkætəˌɡɔɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "categories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A group , often named or numbered , to which items are assigned based on similarity or defined criteria .",
+        "examples": [
+          "This steep and dangerous climb belongs to the most difficult category .",
+          "I wouldn’t put this book in the same category as the author’s first novel."
+        ],
+        "synonyms": [
+          "class",
+          "family",
+          "genus",
+          "kingdom",
+          "order",
+          "pigeonhole",
+          "phylum",
+          "race",
+          "tribe",
+          "type"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A collection of objects , together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative .",
+        "examples": [
+          "One well-known category has sets as objects and functions as arrows.",
+          "Just as a monoid consists of an underlying set with a binary operation \"on top of it\" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation \"on top of it\" which is transitively closed, associative, and with an identity at each object. In fact, a category 's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "A group , often named or numbered , to which items are assigned based on similarity or defined criteria .",
+    "secondary_definitions": [
+      "( mathematics ) A collection of objects , together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative ."
+    ]
+  }
+]

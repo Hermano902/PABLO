@@ -1,0 +1,99 @@
+[
+  {
+    "word": "trigger",
+    "lemma": "trigger",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹɪɡə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "triggers",
+          "PT": "triggered",
+          "PAP": "triggered",
+          "PRP": "triggering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fire (a weapon ).",
+        "examples": [],
+        "synonyms": [
+          "activate",
+          "detonate",
+          "fire",
+          "set off"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause , to precipitate , to bring (something) about in response or as a result .",
+        "examples": [
+          "The controversial article triggered a deluge of angry letters from readers."
+        ],
+        "synonyms": [
+          "precipitate",
+          "set off",
+          "cause",
+          "activate",
+          "initiate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To spark a response , especially a negative emotional response , in (a person).",
+        "examples": [
+          "This story contains a rape scene and may be triggering for rape victims."
+        ],
+        "synonyms": [
+          "push someone's buttons"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To activate ; to become active .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "especially electronics"
+        ],
+        "label_groups": "intransitive , especially electronics"
+      }
+    ],
+    "main_definition": "( transitive ) To fire (a weapon ).",
+    "secondary_definitions": [
+      "( transitive ) To cause , to precipitate , to bring (something) about in response or as a result .",
+      "( transitive , figurative ) To spark a response , especially a negative emotional response , in (a person).",
+      "( intransitive , especially electronics ) To activate ; to become active ."
+    ]
+  }
+]

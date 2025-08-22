@@ -1,0 +1,84 @@
+[
+  {
+    "word": "quantize",
+    "lemma": "quantize",
+    "etymology": null,
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quantizes",
+          "PT": "quantized",
+          "PAP": "quantized",
+          "PRP": "quantizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To limit the number of possible values of a quantity , or states of a system , by applying the rules of quantum mechanics",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physics"
+        ],
+        "label_groups": "transitive , physics"
+      },
+      {
+        "definition": "To approximate a continuously varying signal by one whose amplitude can only have a set of discrete values",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "telecommunications"
+        ],
+        "label_groups": "transitive , telecommunications"
+      },
+      {
+        "definition": "To shift each beat in a rhythmic pattern to the nearest beat of a given resolution ( eighth note , sixteenth note, etc.), or to adjust the frequency or pitch of a note to the nearest perfect tone in a given musical scale",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "To associate a given set of numbers with a set of numeric values in another encoding or numerical system (e.g. in a discrete mathematics).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive , physics ) To limit the number of possible values of a quantity , or states of a system , by applying the rules of quantum mechanics",
+    "secondary_definitions": [
+      "( transitive , telecommunications ) To approximate a continuously varying signal by one whose amplitude can only have a set of discrete values",
+      "( transitive , music ) To shift each beat in a rhythmic pattern to the nearest beat of a given resolution ( eighth note , sixteenth note, etc.), or to adjust the frequency or pitch of a note to the nearest perfect tone in a given musical scale",
+      "( transitive , mathematics ) To associate a given set of numbers with a set of numeric values in another encoding or numerical system (e.g. in a discrete mathematics)."
+    ]
+  }
+]

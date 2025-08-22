@@ -1,0 +1,93 @@
+[
+  {
+    "word": "countable",
+    "lemma": "countable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkaʊn.tə.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being counted ; having a quantity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "uncountable",
+          "countless",
+          "numberless",
+          "innumerable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Finite or countably infinite ; having a one-to-one correspondence (bijection) with a subset of the natural numbers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "uncountable",
+          "infinite"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Countably infinite ; having a bijection with the natural numbers .",
+            "examples": [],
+            "synonyms": [
+              "denumerable"
+            ],
+            "antonyms": [
+              "uncountable",
+              "non-denumerable"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "of a set"
+            ],
+            "label_groups": "mathematics , of a set"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a set"
+        ],
+        "label_groups": "mathematics , of a set"
+      },
+      {
+        "definition": "Freely usable with the indefinite article and with numbers.",
+        "examples": [],
+        "synonyms": [
+          "count"
+        ],
+        "antonyms": [
+          "uncountable",
+          "noncount",
+          "non-count"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a noun"
+        ],
+        "label_groups": "grammar , of a noun"
+      }
+    ],
+    "main_definition": "Capable of being counted ; having a quantity .",
+    "secondary_definitions": [
+      "( mathematics , of a set ) Finite or countably infinite ; having a one-to-one correspondence (bijection) with a subset of the natural numbers .",
+      "( grammar , of a noun ) Freely usable with the indefinite article and with numbers."
+    ]
+  }
+]

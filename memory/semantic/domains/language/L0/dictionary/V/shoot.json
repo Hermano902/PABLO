@@ -1,0 +1,580 @@
+[
+  {
+    "word": "shoot",
+    "lemma": "shoot",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʃuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shoots",
+          "PT": "shot",
+          "PAP": "shot",
+          "PRP": "shooting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To launch a projectile.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To fire (a weapon that releases a projectile ).",
+            "examples": [
+              "to shoot a gun"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To fire (a projectile).",
+            "examples": [],
+            "synonyms": [
+              "loose"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To fire a projectile at (a person or target).",
+            "examples": [
+              "The man, in a desperate bid for freedom, grabbed his gun and started shooting anyone he could.",
+              "The hunter shot the deer to harvest its meat."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To cause a weapon to discharge a projectile.",
+            "examples": [
+              "They shot at a target.",
+              "He shoots better than he rides."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To hunt birds, etc. with a gun .",
+            "examples": [
+              "They're coming to shoot with us on Sunday."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To hunt on (a piece of land); to kill game in or on.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To throw dice.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "gambling"
+            ],
+            "label_groups": "gambling"
+          },
+          {
+            "definition": "To ejaculate .",
+            "examples": [
+              "After a very short time, he shot his load over the carpet."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "slang"
+            ],
+            "label_groups": "transitive , slang"
+          },
+          {
+            "definition": "To begin to speak.",
+            "examples": [
+              "\"Can I ask you a question?\"   \" Shoot. \""
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "usually",
+              "as imperative"
+            ],
+            "label_groups": "intransitive , usually, as imperative"
+          },
+          {
+            "definition": "To discharge a missile; said of a weapon.",
+            "examples": [
+              "The gun shoots well."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To dismiss or do away with .",
+            "examples": [
+              "His idea was shot on sight."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "figurative"
+            ],
+            "label_groups": "transitive , figurative"
+          },
+          {
+            "definition": "To photograph .",
+            "examples": [
+              "He shot the couple in a variety of poses.",
+              "He shot seventeen stills."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "analogous"
+            ],
+            "label_groups": "transitive , intransitive , analogous"
+          },
+          {
+            "definition": "To film .",
+            "examples": [
+              "The film was mostly shot in France."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "analogous",
+              "film",
+              "television"
+            ],
+            "label_groups": "transitive , intransitive , analogous , film , television"
+          },
+          {
+            "definition": "To push or thrust a bolt quickly; hence, to open a lock .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To move or act quickly or suddenly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To move very quickly and suddenly .",
+            "examples": [
+              "After an initial lag, the experimental group's scores shot past the control group's scores in the fourth week."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To go over or pass quickly through.",
+            "examples": [
+              "shoot the rapids"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To ride a wave .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "surfing"
+            ],
+            "label_groups": "surfing"
+          },
+          {
+            "definition": "To tip (something, especially coal ) down a chute .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To penetrate, like a missile; to dart with a piercing sensation.",
+            "examples": [
+              "a shooting pain in my leg"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To feel a quick, darting pain; to throb in pain.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete",
+              "intransitive"
+            ],
+            "label_groups": "obsolete , intransitive"
+          },
+          {
+            "definition": "To change form suddenly; especially, to solidify.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          },
+          {
+            "definition": "To send out or forth, especially with a rapid or sudden motion; to cast with the hand; to hurl; to discharge; to emit.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To send to someone.",
+            "examples": [
+              "I'll shoot you an email with all the details"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "informal",
+              "ditransitive"
+            ],
+            "label_groups": "informal , ditransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To act or achieve.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To lunge .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "wrestling"
+            ],
+            "label_groups": "wrestling"
+          },
+          {
+            "definition": "To deviate from kayfabe , either intentionally or accidentally; to actually connect with unchoreographed fighting blows and maneuvers, or speak one's mind (instead of an agreed script).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "professional wrestling"
+            ],
+            "label_groups": "professional wrestling"
+          },
+          {
+            "definition": "To make the stated score.",
+            "examples": [
+              "In my round of golf yesterday I shot a 76."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      },
+      {
+        "definition": "To measure the distance and direction to (a point).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "surveying"
+        ],
+        "label_groups": "surveying"
+      },
+      {
+        "definition": "To inject a drug (such as heroin ) intravenously .",
+        "examples": [],
+        "synonyms": [
+          "fix"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , intransitive , colloquial"
+      },
+      {
+        "definition": "To develop, move forward.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To germinate; to bud; to sprout.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To grow; to advance.",
+            "examples": [
+              "to shoot up rapidly"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To move ahead by force of momentum, as a sailing vessel when the helm is put hard alee .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          },
+          {
+            "definition": "To travel or ride on (breaking waves) rowards the shore.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To push or thrust forward; to project; to protrude; often with out .",
+            "examples": [
+              "A plant shoots out a bud."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To protrude; to jut; to project; to extend.",
+        "examples": [
+          "The land shoots into a promontory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To plane straight; to fit by planing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "carpentry"
+        ],
+        "label_groups": "carpentry"
+      },
+      {
+        "definition": "To variegate as if by sprinkling or intermingling; to color in spots or patches. (See shot silk on Wikipedia)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To shoot the moon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "card games"
+        ],
+        "label_groups": "card games"
+      },
+      {
+        "definition": "To carry out, or attempt to carry out (an approach to an airport runway ).",
+        "examples": [
+          "He tried to shoot the visual approach to runway 12, but the visibility was too low."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      },
+      {
+        "definition": "To carry out a seismic survey with geophones in an attempt to detect oil .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To drink (a shot of an alcoholic beverage ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To launch a projectile.",
+    "secondary_definitions": [
+      "To move or act quickly or suddenly.",
+      "( sports ) To act or achieve.",
+      "( surveying ) To measure the distance and direction to (a point).",
+      "( transitive , intransitive , colloquial ) To inject a drug (such as heroin ) intravenously .",
+      "To develop, move forward.",
+      "To protrude; to jut; to project; to extend.",
+      "( carpentry ) To plane straight; to fit by planing.",
+      "To variegate as if by sprinkling or intermingling; to color in spots or patches. (See shot silk on Wikipedia)",
+      "( card games ) To shoot the moon .",
+      "( aviation ) To carry out, or attempt to carry out (an approach to an airport runway ).",
+      "To carry out a seismic survey with geophones in an attempt to detect oil .",
+      "To drink (a shot of an alcoholic beverage )."
+    ]
+  }
+]

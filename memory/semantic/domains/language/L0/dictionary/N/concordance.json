@@ -1,0 +1,92 @@
+[
+  {
+    "word": "concordance",
+    "lemma": "concordance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈkɔːdəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "concordances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Agreement ; accordance ; consonance .",
+        "examples": [],
+        "synonyms": [
+          "accordance",
+          "agreement",
+          "consonance"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Agreement of words with one another; concord .",
+        "examples": [],
+        "synonyms": [
+          "agreement",
+          "concord"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "obsolete"
+        ],
+        "label_groups": "grammar , obsolete"
+      },
+      {
+        "definition": "An alphabetical verbal index showing the places in the text of a book where each principal word may be found, with its immediate context in each place.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly biblical"
+        ],
+        "label_groups": "chiefly biblical"
+      },
+      {
+        "definition": "A list of occurrences of a word or phrase from a corpus , with the immediate context.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computational linguistics"
+        ],
+        "label_groups": "computational linguistics"
+      },
+      {
+        "definition": "The probability that a pair of individuals will both have a certain characteristic ( phenotypic trait) given that one of the pair has the characteristic.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "Agreement ; accordance ; consonance .",
+    "secondary_definitions": [
+      "( grammar , obsolete ) Agreement of words with one another; concord .",
+      "( chiefly biblical ) An alphabetical verbal index showing the places in the text of a book where each principal word may be found, with its immediate context in each place.",
+      "( computational linguistics ) A list of occurrences of a word or phrase from a corpus , with the immediate context.",
+      "( genetics ) The probability that a pair of individuals will both have a certain characteristic ( phenotypic trait) given that one of the pair has the characteristic."
+    ]
+  }
+]

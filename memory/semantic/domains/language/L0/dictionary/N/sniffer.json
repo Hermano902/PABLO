@@ -1,0 +1,58 @@
+[
+  {
+    "word": "sniffer",
+    "lemma": "sniffer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sniffers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who sniffs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The nose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "A software or hardware tool for intercepting and logging network traffic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "One who sniffs .",
+    "secondary_definitions": [
+      "( informal ) The nose .",
+      "( networking ) A software or hardware tool for intercepting and logging network traffic ."
+    ]
+  }
+]

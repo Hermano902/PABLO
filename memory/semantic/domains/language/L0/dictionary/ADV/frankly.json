@@ -1,0 +1,77 @@
+[
+  {
+    "word": "frankly",
+    "lemma": "frankly",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹæŋkli/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more frankly",
+          "SUP": "most frankly"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a frank or candid manner, especially in a way that may seem too open , excessively honest , or slightly blunt .",
+        "examples": [
+          "to speak frankly",
+          "He spoke frankly about the economy."
+        ],
+        "synonyms": [
+          "candidly",
+          "forthcomingly",
+          "honestly",
+          "truthfully",
+          "bluntly"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In truth , to tell the truth .",
+        "examples": [
+          "Most of what they said was, frankly , a pack of lies."
+        ],
+        "synonyms": [
+          "as a matter of fact",
+          "to be frank",
+          "truth to tell"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sentence adverb"
+        ],
+        "label_groups": "sentence adverb"
+      },
+      {
+        "definition": "To a degree large enough as to be plainly evident .",
+        "examples": [
+          "frankly septic",
+          "frankly psychotic"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences",
+          "medicine"
+        ],
+        "label_groups": "sciences , medicine"
+      }
+    ],
+    "main_definition": "In a frank or candid manner, especially in a way that may seem too open , excessively honest , or slightly blunt .",
+    "secondary_definitions": [
+      "( sentence adverb ) In truth , to tell the truth .",
+      "( sciences , medicine ) To a degree large enough as to be plainly evident ."
+    ]
+  }
+]

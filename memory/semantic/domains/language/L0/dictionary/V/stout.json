@@ -1,0 +1,59 @@
+[
+  {
+    "word": "stout",
+    "lemma": "stout",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/staʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stouts",
+          "PT": "stouted",
+          "PAP": "stouted",
+          "PRP": "stouting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be bold or defiant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "archaic"
+        ],
+        "label_groups": "intransitive , archaic"
+      },
+      {
+        "definition": "To persist , endure .",
+        "examples": [],
+        "synonyms": [
+          "brook",
+          "thole"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dialectal"
+        ],
+        "label_groups": "transitive , dialectal"
+      }
+    ],
+    "main_definition": "( intransitive , archaic ) To be bold or defiant .",
+    "secondary_definitions": [
+      "( transitive , dialectal ) To persist , endure ."
+    ]
+  }
+]

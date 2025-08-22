@@ -1,0 +1,109 @@
+[
+  {
+    "word": "dependency",
+    "lemma": "dependency",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈpɛndənsi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dependencies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A state of dependence; a refusal to exercise initiative.",
+        "examples": [
+          "Frank's sullen dependency was driving his father nuts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something dependent on, or subordinate to, something else:",
+        "examples": [
+          "In the United States' governmental structure, the military is conceived as a dependency under the executive branch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The status of being a legal dependent ; the relationship between a dependent and their provider .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A colony , or a territory subject to rule by an external power .",
+        "examples": [],
+        "synonyms": [
+          "colony",
+          "protectorate",
+          "province",
+          "dominion"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A dependence on a habit - forming substance such as a drug or alcohol .",
+        "examples": [],
+        "synonyms": [
+          "addiction"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Reliance on the functionality provided by some other, external component .",
+        "examples": [
+          "This library has dependencies on a lot of other libraries. We have to compile all of those other libraries first."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An external component whose functionality is relied on.",
+        "examples": [
+          "One of this library's dependencies is very finicky. It can be hard to get it to compile on some systems."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A state of dependence; a refusal to exercise initiative.",
+    "secondary_definitions": [
+      "Something dependent on, or subordinate to, something else:",
+      "The status of being a legal dependent ; the relationship between a dependent and their provider .",
+      "A colony , or a territory subject to rule by an external power .",
+      "A dependence on a habit - forming substance such as a drug or alcohol .",
+      "( computing ) Reliance on the functionality provided by some other, external component .",
+      "( computing ) An external component whose functionality is relied on."
+    ]
+  }
+]

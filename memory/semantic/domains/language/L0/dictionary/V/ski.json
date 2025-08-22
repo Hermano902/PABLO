@@ -1,0 +1,56 @@
+[
+  {
+    "word": "ski",
+    "lemma": "ski",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "skis",
+          "PT": "skied",
+          "PAP": "skied",
+          "PRP": "skiing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move on skis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To travel over (a slope, etc.) on skis; to travel on skis at (a place), ( especially as a sport ) .",
+        "examples": [
+          "We spent the winter holidays skiing the Alps"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To move on skis.",
+    "secondary_definitions": [
+      "( transitive ) To travel over (a slope, etc.) on skis; to travel on skis at (a place), ( especially as a sport ) ."
+    ]
+  }
+]

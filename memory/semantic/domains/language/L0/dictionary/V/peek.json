@@ -1,0 +1,69 @@
+[
+  {
+    "word": "peek",
+    "lemma": "peek",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/piːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "peeks",
+          "PT": "peeked",
+          "PAP": "peeked",
+          "PRP": "peeking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To look slyly , or with the eyes half closed , or through a crevice ; to peep .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "To be only slightly , partially visible , as if peering out from a hiding place .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "To retrieve (a value ) from a memory address .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive",
+          "dated"
+        ],
+        "label_groups": "computing , transitive , dated"
+      }
+    ],
+    "main_definition": "( informal ) To look slyly , or with the eyes half closed , or through a crevice ; to peep .",
+    "secondary_definitions": [
+      "( informal ) To be only slightly , partially visible , as if peering out from a hiding place .",
+      "( computing , transitive , dated ) To retrieve (a value ) from a memory address ."
+    ]
+  }
+]

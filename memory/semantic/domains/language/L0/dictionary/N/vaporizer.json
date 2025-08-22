@@ -1,0 +1,47 @@
+[
+  {
+    "word": "vaporizer",
+    "lemma": "vaporizer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "vaporizers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device with a heating element, used to vaporize a liquid .",
+        "examples": [
+          "Vaporizers are used in electronic cigarettes to simulate smoke."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device with a heating element, used to vaporize a liquid solution with medicine . The produced vapor condensates into fine aerosols , forming a mist inside the device, to be inhaled by the patient for delivery of the medicine into the lungs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "A device with a heating element, used to vaporize a liquid .",
+    "secondary_definitions": [
+      "( medicine ) A device with a heating element, used to vaporize a liquid solution with medicine . The produced vapor condensates into fine aerosols , forming a mist inside the device, to be inhaled by the patient for delivery of the medicine into the lungs ."
+    ]
+  }
+]

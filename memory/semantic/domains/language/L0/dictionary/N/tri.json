@@ -1,0 +1,64 @@
+[
+  {
+    "word": "tri",
+    "lemma": "tri",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹaɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tris"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "triathlon",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly attributive"
+        ],
+        "label_groups": "chiefly attributive"
+      },
+      {
+        "definition": "triangle",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      },
+      {
+        "definition": "triceps",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bodybuilding",
+          "colloquial",
+          "uncommon"
+        ],
+        "label_groups": "bodybuilding , colloquial , uncommon"
+      }
+    ],
+    "main_definition": "( chiefly attributive ) triathlon",
+    "secondary_definitions": [
+      "( computer graphics ) triangle",
+      "( bodybuilding , colloquial , uncommon ) triceps"
+    ]
+  }
+]

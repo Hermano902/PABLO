@@ -1,0 +1,218 @@
+[
+  {
+    "word": "elevate",
+    "lemma": "elevate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛləveɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "elevates",
+          "PT": "elevated",
+          "PAP": "elevated",
+          "PRP": "elevating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To raise (something) to a higher position .",
+        "examples": [
+          "The doctor told me elevating my legs would help reduce the swelling."
+        ],
+        "synonyms": [
+          "lift",
+          "raise"
+        ],
+        "antonyms": [
+          "drop",
+          "lower"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To promote (someone) to a higher rank .",
+        "examples": [],
+        "synonyms": [
+          "exalt",
+          "promote"
+        ],
+        "antonyms": [
+          "demote"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To temporarily grant a program additional security privileges to the system to perform a privileged action (usually on the program's request ).",
+            "examples": [
+              "Did you forget that all programs that modify the registry need to be elevated ?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To confer honor or nobility on (someone).",
+        "examples": [
+          "The traditional worldview elevates man as the pinnacle of creation."
+        ],
+        "synonyms": [
+          "ennoble",
+          "exalt",
+          "honor"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make (something or someone) more worthy or of greater value .",
+        "examples": [
+          "A talented chef can elevate everyday ingredients into gourmet delights."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To direct (the mind , thoughts , etc.) toward more worthy things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To increase the intensity or degree of (something).",
+        "examples": [
+          "Some drugs have the side effect of elevating your blood sugar level."
+        ],
+        "synonyms": [
+          "increase",
+          "raise"
+        ],
+        "antonyms": [
+          "decrease",
+          "diminish",
+          "lower",
+          "reduce"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To increase the loudness of (a sound, especially one's voice).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "dated"
+            ],
+            "label_groups": "dated"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lift the spirits of (someone)",
+        "examples": [],
+        "synonyms": [
+          "cheer up",
+          "elate"
+        ],
+        "antonyms": [
+          "depress",
+          "sadden"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To intoxicate in a slight degree; to make (someone) tipsy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "colloquial",
+          "humorous"
+        ],
+        "label_groups": "dated , colloquial , humorous"
+      },
+      {
+        "definition": "To attempt to make (something) seem less important , remarkable , etc.",
+        "examples": [],
+        "synonyms": [
+          "lessen",
+          "detract",
+          "disparage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "Latinism"
+        ],
+        "label_groups": "obsolete , Latinism"
+      }
+    ],
+    "main_definition": "( transitive ) To raise (something) to a higher position .",
+    "secondary_definitions": [
+      "( transitive ) To promote (someone) to a higher rank .",
+      "( transitive ) To confer honor or nobility on (someone).",
+      "( transitive ) To make (something or someone) more worthy or of greater value .",
+      "( transitive ) To direct (the mind , thoughts , etc.) toward more worthy things.",
+      "( transitive ) To increase the intensity or degree of (something).",
+      "( transitive , obsolete ) To lift the spirits of (someone)",
+      "( dated , colloquial , humorous ) To intoxicate in a slight degree; to make (someone) tipsy .",
+      "( obsolete , Latinism ) To attempt to make (something) seem less important , remarkable , etc."
+    ]
+  }
+]

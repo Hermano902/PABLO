@@ -1,0 +1,50 @@
+[
+  {
+    "word": "remote",
+    "lemma": "remote",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "[ɹɪˈməʊt]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "remotes",
+          "PT": "remoted",
+          "PAP": "remoted",
+          "PRP": "remoting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To connect to a computer from a remote location.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "to remove (from something or someone)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing ) To connect to a computer from a remote location.",
+    "secondary_definitions": [
+      "to remove (from something or someone)"
+    ]
+  }
+]

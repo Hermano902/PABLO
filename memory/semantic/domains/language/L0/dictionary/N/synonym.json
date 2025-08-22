@@ -1,0 +1,96 @@
+[
+  {
+    "word": "synonym",
+    "lemma": "synonym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪn.əˌnɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "synonyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A term ( word or phrase ) which is synonymous with others.",
+        "examples": [
+          "“Happy” is a synonym of “glad”."
+        ],
+        "synonyms": [
+          "poecilonym"
+        ],
+        "antonyms": [
+          "antonym",
+          "opposite"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics"
+        ],
+        "label_groups": "semantics"
+      },
+      {
+        "definition": "Any of the various names that could in theory be used for a taxon in accordance with the relevant rules.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The subset of those names other than the one to be used according to the rules.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "taxonomy",
+              "informal"
+            ],
+            "label_groups": "taxonomy , informal"
+          },
+          {
+            "definition": "Any name that has been applied to a taxon other than the one to be used, including those not allowed by the rules such as misspellings or nomina nuda .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "taxonomy",
+              "by extension"
+            ],
+            "label_groups": "taxonomy , by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "An alternative (often shorter) name defined for an object in a database .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "( semantics ) A term ( word or phrase ) which is synonymous with others.",
+    "secondary_definitions": [
+      "( taxonomy ) Any of the various names that could in theory be used for a taxon in accordance with the relevant rules.",
+      "( databases ) An alternative (often shorter) name defined for an object in a database ."
+    ]
+  }
+]

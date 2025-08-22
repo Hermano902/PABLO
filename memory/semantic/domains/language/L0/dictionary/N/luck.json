@@ -1,0 +1,101 @@
+[
+  {
+    "word": "luck",
+    "lemma": "luck",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/lʌk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lucks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that happens to someone by chance , a chance occurrence.",
+        "examples": [
+          "The raffle is just a matter of luck .",
+          "Gilbert had some bad luck yesterday — he got pick-pocketed and lost fifty dollars."
+        ],
+        "synonyms": [
+          "chance",
+          "fortune"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A favourable chance occurrence.",
+            "examples": [
+              "Sometimes it takes a bit of luck to get success.",
+              "I couldn't believe my luck when I found a fifty dollar bill on the street."
+            ],
+            "synonyms": [
+              "good luck",
+              "hap",
+              "fortune",
+              "fortuitousness"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "especially"
+            ],
+            "label_groups": "especially"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A superstitious feeling that brings fortune or success .",
+        "examples": [
+          "He blew on the dice for luck .",
+          "I wish you lots of luck for the exam tomorrow."
+        ],
+        "synonyms": [
+          "fortune"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Success .",
+        "examples": [
+          "I tried for ages to find a pair of blue suede shoes, but didn't have any luck .",
+          "He has a lot of luck with the ladies. Perhaps it's because of his new motorbike."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The results of a random number generator .",
+        "examples": [
+          "The creators of tool-assisted speedruns often manipulate luck to get the most favorable results in order to save the most time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games",
+          "computing"
+        ],
+        "label_groups": "video games , computing"
+      }
+    ],
+    "main_definition": "Something that happens to someone by chance , a chance occurrence.",
+    "secondary_definitions": [
+      "A superstitious feeling that brings fortune or success .",
+      "Success .",
+      "( video games , computing ) The results of a random number generator ."
+    ]
+  }
+]

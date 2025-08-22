@@ -1,0 +1,47 @@
+[
+  {
+    "word": "rehash",
+    "lemma": "rehash",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈhæʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rehashes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something reworked, or made up from old materials.",
+        "examples": [
+          "He wrote a bad rehash of an earlier essay."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A recomputation of the structure of a hash table , taking into account any newly added items.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Something reworked, or made up from old materials.",
+    "secondary_definitions": [
+      "( computing ) A recomputation of the structure of a hash table , taking into account any newly added items."
+    ]
+  }
+]

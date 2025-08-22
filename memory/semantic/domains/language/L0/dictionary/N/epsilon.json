@@ -1,0 +1,100 @@
+[
+  {
+    "word": "epsilon",
+    "lemma": "epsilon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɛpˈsaɪ.lən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "epsilons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The fifth letter of the Greek alphabet , ε or Ε , preceded by delta ( Δ , δ ) and followed by zeta ( Ζ , ζ ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In IPA , the phonetic symbol ɛ that represents the open-mid front unrounded vowel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics"
+        ],
+        "label_groups": "phonetics"
+      },
+      {
+        "definition": "An arbitrarily small quantity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A small child.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "colloquial"
+            ],
+            "label_groups": "colloquial"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Something negligible or insignificant .",
+        "examples": [
+          "Yes, we have to convert all the symbol names to upper case at startup, but that’s epsilon ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "colloquial"
+        ],
+        "label_groups": "computing , colloquial"
+      },
+      {
+        "definition": "The percentage change in an option value with respect to the underlying dividend yield .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "The fifth letter of the Greek alphabet , ε or Ε , preceded by delta ( Δ , δ ) and followed by zeta ( Ζ , ζ ).",
+    "secondary_definitions": [
+      "( phonetics ) In IPA , the phonetic symbol ɛ that represents the open-mid front unrounded vowel .",
+      "( mathematics ) An arbitrarily small quantity .",
+      "( computing , colloquial ) Something negligible or insignificant .",
+      "( finance ) The percentage change in an option value with respect to the underlying dividend yield ."
+    ]
+  }
+]

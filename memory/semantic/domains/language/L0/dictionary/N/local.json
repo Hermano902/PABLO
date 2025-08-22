@@ -1,0 +1,153 @@
+[
+  {
+    "word": "local",
+    "lemma": "local",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈləʊkl̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "locals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who lives near a given place.",
+        "examples": [
+          "It's easy to tell the locals from the tourists."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A branch of a nationwide organization such as a trade union .",
+        "examples": [
+          "I'm in the TWU, too. Local 6."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Clipping of local train .",
+        "examples": [
+          "The expresses skipped my station, so I had to take a local ."
+        ],
+        "synonyms": [
+          "stopper"
+        ],
+        "antonyms": [
+          "fast",
+          "express"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport"
+        ],
+        "label_groups": "rail transport"
+      },
+      {
+        "definition": "One's nearest or regularly frequented public house or bar .",
+        "examples": [
+          "I got barred from my local , so I've started going all the way into town for a drink."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British"
+        ],
+        "label_groups": "British"
+      },
+      {
+        "definition": "A locally scoped identifier .",
+        "examples": [
+          "Functional programming languages usually don't allow changing the immediate value of locals once they've been initialized, unless they're explicitly marked as being mutable."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "An item of news relating to the place where the newspaper is published.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "slang",
+          "journalism"
+        ],
+        "label_groups": "US , slang , journalism"
+      },
+      {
+        "definition": "Clipping of local anesthetic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "medicine"
+        ],
+        "label_groups": "colloquial , medicine"
+      },
+      {
+        "definition": "An independent trader who acts for themselves rather than on behalf of investors .",
+        "examples": [],
+        "synonyms": [
+          "floor trader"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "A Twitter user who is not a part of Stan Twitter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fandom slang",
+          "derogatory"
+        ],
+        "label_groups": "fandom slang , derogatory"
+      }
+    ],
+    "main_definition": "A person who lives near a given place.",
+    "secondary_definitions": [
+      "A branch of a nationwide organization such as a trade union .",
+      "( rail transport ) Clipping of local train .",
+      "( British ) One's nearest or regularly frequented public house or bar .",
+      "( programming ) A locally scoped identifier .",
+      "( US , slang , journalism ) An item of news relating to the place where the newspaper is published.",
+      "( colloquial , medicine ) Clipping of local anesthetic .",
+      "( finance ) An independent trader who acts for themselves rather than on behalf of investors .",
+      "( fandom slang , derogatory ) A Twitter user who is not a part of Stan Twitter ."
+    ]
+  }
+]

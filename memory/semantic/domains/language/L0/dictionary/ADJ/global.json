@@ -1,0 +1,95 @@
+[
+  {
+    "word": "global",
+    "lemma": "global",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡləʊbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more global",
+          "SUP": "most global"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Concerning all parts of the world .",
+        "examples": [
+          "Pollution is a global problem."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Pertaining to the whole of something; total , universal :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of a variable , accessible by all parts of a program.",
+            "examples": [
+              "Global variables keep support engineers employed."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "not comparable",
+              "computing"
+            ],
+            "label_groups": "not comparable , computing"
+          },
+          {
+            "definition": "Which has to be considered in its entirety .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Spherical , ball -shaped.",
+        "examples": [
+          "In the center was a small, global mass."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of or relating to a globe or sphere .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      }
+    ],
+    "main_definition": "Concerning all parts of the world .",
+    "secondary_definitions": [
+      "( not comparable ) Pertaining to the whole of something; total , universal :",
+      "Spherical , ball -shaped.",
+      "( not comparable ) Of or relating to a globe or sphere ."
+    ]
+  }
+]

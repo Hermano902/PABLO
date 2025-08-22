@@ -1,0 +1,57 @@
+[
+  {
+    "word": "assault",
+    "lemma": "assault",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈsɒlt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "assaults",
+          "PT": "assaulted",
+          "PAP": "assaulted",
+          "PRP": "assaulting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To attack , physically or figuratively; to assail .",
+        "examples": [
+          "Tom was accused of assaulting another man outside a nightclub.",
+          "Loud music assaulted our ears as we entered the building."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To threaten or harass . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To attack , physically or figuratively; to assail .",
+    "secondary_definitions": [
+      "( transitive ) To threaten or harass . (Can we add an example for this sense?)"
+    ]
+  }
+]

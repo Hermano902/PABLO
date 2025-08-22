@@ -1,0 +1,47 @@
+[
+  {
+    "word": "chirp",
+    "lemma": "chirp",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/t͡ʃɜːp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chirps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short , sharp or high note or noise, as of a bird or insect .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pulse of signal whose frequency sweeps through a band of frequencies for the duration of the pulse.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radar",
+          "sonar",
+          "radio telescopy etc."
+        ],
+        "label_groups": "radar , sonar , radio telescopy etc."
+      }
+    ],
+    "main_definition": "A short , sharp or high note or noise, as of a bird or insect .",
+    "secondary_definitions": [
+      "( radar , sonar , radio telescopy etc. ) A pulse of signal whose frequency sweeps through a band of frequencies for the duration of the pulse."
+    ]
+  }
+]

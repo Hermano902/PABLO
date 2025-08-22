@@ -1,0 +1,107 @@
+[
+  {
+    "word": "backup",
+    "lemma": "backup",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbækˌʌp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "backups"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A reserve or substitute .",
+        "examples": [
+          "If the goalkeeper is injured, we have a backup ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A copy of a file or record , stored separately from the original , that can be used to recover the original if it is damaged or destroyed .",
+        "examples": [
+          "After the power failure, we had to restore the database from backup ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An accumulation of material caused by a (partial) obstruction or (complete) blockage of the flow or movement of the material, or an accumulation of material that causes an overflow due to the flow being greater than the maximum possible flow.",
+        "examples": [
+          "The accident caused a mile-long backup on the highway.",
+          "The blockage caused a backup in the plumbing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Reinforcements .",
+        "examples": [
+          "He's got a gun! You'd better send for backup ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law enforcement"
+        ],
+        "label_groups": "law enforcement"
+      },
+      {
+        "definition": "Any support or extra help.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Accompaniment .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Corroboration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A reserve or substitute .",
+    "secondary_definitions": [
+      "( computing ) A copy of a file or record , stored separately from the original , that can be used to recover the original if it is damaged or destroyed .",
+      "An accumulation of material caused by a (partial) obstruction or (complete) blockage of the flow or movement of the material, or an accumulation of material that causes an overflow due to the flow being greater than the maximum possible flow.",
+      "( law enforcement ) Reinforcements .",
+      "Any support or extra help.",
+      "( music ) Accompaniment .",
+      "Corroboration ."
+    ]
+  }
+]

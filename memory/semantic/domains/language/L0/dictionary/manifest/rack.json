@@ -1,0 +1,36 @@
+{
+  "word": "rack",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "V:3",
+    "V:4",
+    "N:3",
+    "N:4",
+    "N:5",
+    "N:6"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 26,
+      "examples": 4,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 18,
+      "examples": 2,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 16
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\rack.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\rack.json"
+  },
+  "timestamp": "2025-08-19T13:01:46.653498Z"
+}

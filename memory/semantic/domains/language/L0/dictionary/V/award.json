@@ -1,0 +1,115 @@
+[
+  {
+    "word": "award",
+    "lemma": "award",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈwɔːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "awards",
+          "PT": "awarded",
+          "PAP": "awarded",
+          "PRP": "awarding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To determine; to make or grant an award.",
+        "examples": [],
+        "synonyms": [
+          "crown"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To give (an award ).",
+        "examples": [
+          "Four or five of these medals are awarded every year.",
+          "He was awarded the Nobel Prize for Literature."
+        ],
+        "synonyms": [
+          "bestow"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give (a person) an award.",
+        "examples": [
+          "He was awarded with the Nobel Prize for Literature."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case.",
+        "examples": [
+          "The arbitrators awarded damages to the complainant."
+        ],
+        "synonyms": [
+          "adjudge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To give marks for a correct answer.",
+        "examples": [
+          "Do not award marks for data from previous questions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "British",
+          "education",
+          "in an examination"
+        ],
+        "label_groups": [
+          "transitive , British , education",
+          "in an examination"
+        ]
+      }
+    ],
+    "main_definition": "( intransitive ) To determine; to make or grant an award.",
+    "secondary_definitions": [
+      "( transitive ) To give (an award ).",
+      "( transitive ) To give (a person) an award.",
+      "( transitive , law ) To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case.",
+      "( transitive , British , education ) (in an examination) To give marks for a correct answer."
+    ]
+  }
+]

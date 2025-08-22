@@ -1,0 +1,58 @@
+[
+  {
+    "word": "scorer",
+    "lemma": "scorer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "scorers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who scores .",
+        "examples": [
+          "Alan Shearer finished among the top ten goal scorers in 10 out of his 14 seasons in the Premier League and won the top scorer title three times.."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who keeps track of scores in a game; a scorekeeper .",
+        "examples": [
+          "The team was making goals so fast the scorer could barely keep up."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Either of a pair of people, one provided by each side, who record in a specially formatted book, every ball bowled, every run scored, and every wicket that falls",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "One who scores .",
+    "secondary_definitions": [
+      "One who keeps track of scores in a game; a scorekeeper .",
+      "( cricket ) Either of a pair of people, one provided by each side, who record in a specially formatted book, every ball bowled, every run scored, and every wicket that falls"
+    ]
+  }
+]

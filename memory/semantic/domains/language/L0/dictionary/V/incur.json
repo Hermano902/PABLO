@@ -1,0 +1,87 @@
+[
+  {
+    "word": "incur",
+    "lemma": "incur",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkɜː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "incurs",
+          "PT": "incurred",
+          "PAP": "incurred",
+          "PRP": "incurring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring upon oneself or expose oneself to, especially something inconvenient , harmful , or onerous ; to become liable or subject to.",
+        "examples": [
+          "Cruelty incurs calamity."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To render (somebody, or oneself) liable or subject to.",
+            "examples": [],
+            "synonyms": [
+              "occasion"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly law",
+              "accounting"
+            ],
+            "label_groups": "chiefly law , accounting"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enter or pass into.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To fall within a period or scope ; to occur ; to run into danger .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bring upon oneself or expose oneself to, especially something inconvenient , harmful , or onerous ; to become liable or subject to.",
+    "secondary_definitions": [
+      "( obsolete , transitive ) To enter or pass into.",
+      "( obsolete , intransitive ) To fall within a period or scope ; to occur ; to run into danger ."
+    ]
+  }
+]

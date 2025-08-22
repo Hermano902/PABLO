@@ -1,0 +1,50 @@
+[
+  {
+    "word": "isopleth",
+    "lemma": "isopleth",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "isopleths"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line drawn on a map through all points having the same value of some measurable quantity .",
+        "examples": [],
+        "synonyms": [
+          "isoline",
+          "isarithm",
+          "isogram",
+          "isopract"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A line in a phase diagram indicating the same mole fraction.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "thermodynamics"
+        ],
+        "label_groups": "thermodynamics"
+      }
+    ],
+    "main_definition": "A line drawn on a map through all points having the same value of some measurable quantity .",
+    "secondary_definitions": [
+      "( thermodynamics ) A line in a phase diagram indicating the same mole fraction."
+    ]
+  }
+]

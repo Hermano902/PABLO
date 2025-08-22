@@ -1,0 +1,72 @@
+[
+  {
+    "word": "decarbonize",
+    "lemma": "decarbonize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈkɑːbənaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decarbonizes",
+          "PT": "decarbonized",
+          "PAP": "decarbonized",
+          "PRP": "decarbonizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove carbon from something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To clean hard sooty deposits from inside an internal combustion engine .",
+            "examples": [
+              "During the overhaul, the cylinder heads were found to be reusable, as long as they got a good cleaning to decarbonize the valve seat areas."
+            ],
+            "synonyms": [
+              "decoke"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To remove carbon content from iron or steel , either intentionally or accidentally, as by (for example) overheating steel in the presence of air, destroying its former temper and hardness.",
+            "examples": [
+              "A blast furnace decarbonizes iron enough that it can be used as input to a steelmaking furnace.",
+              "Repeatedly scorching a case-hardened tool will ruin the case by decarbonizing it."
+            ],
+            "synonyms": [
+              "decarburize"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To reduce or replace fossil fuels by renewable energy in energy production and distribution systems.",
+            "examples": [
+              "Efforts to decarbonize the automotive fleet are challenging, but no one wants nightmare-grade climate change, either."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "To remove carbon from something.",
+    "secondary_definitions": []
+  }
+]

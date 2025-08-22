@@ -1,0 +1,50 @@
+[
+  {
+    "word": "temporary",
+    "lemma": "temporary",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛmpəɹəɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "temporaries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One serving for a limited time; a short-term employee, especially in an office.",
+        "examples": [],
+        "synonyms": [
+          "floater",
+          "temp"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A short-term variable used to store an intermediate result .",
+        "examples": [],
+        "synonyms": [
+          "temp"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "One serving for a limited time; a short-term employee, especially in an office.",
+    "secondary_definitions": [
+      "( programming ) A short-term variable used to store an intermediate result ."
+    ]
+  }
+]

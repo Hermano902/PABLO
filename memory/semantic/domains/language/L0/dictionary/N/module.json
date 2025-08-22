@@ -1,0 +1,146 @@
+[
+  {
+    "word": "module",
+    "lemma": "module",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒd͡ʒuːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "modules"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A self-contained component of a system , often interchangeable , which has a well-defined interface to the other components.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A standard unit of measure used for determining the proportions of a building .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "A section of a program ; a subroutine or group of subroutines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A unit of education covering a single topic .",
+        "examples": [
+          "Which modules are you studying next year?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A pre-prepared adventure scenario with related materials for a role-playing game .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An abelian group equipped with the operation of multiplication by an element of a ring (or another of certain algebraic objects), representing a generalisation of the concept of vector space with scalar multiplication .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "ring theory"
+        ],
+        "label_groups": "algebra , ring theory"
+      },
+      {
+        "definition": "A fractal element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fractal geometry",
+          "mathematics"
+        ],
+        "label_groups": "fractal geometry , mathematics"
+      },
+      {
+        "definition": "A file containing a music sequence that can be played in a tracker (also called mod or music module ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "computing"
+        ],
+        "label_groups": "music , computing"
+      },
+      {
+        "definition": "A contrivance for regulating the supply of water from an irrigation channel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hydraulics"
+        ],
+        "label_groups": "hydraulics"
+      },
+      {
+        "definition": "An independent self-contained unit of a spacecraft .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronautics"
+        ],
+        "label_groups": "astronautics"
+      }
+    ],
+    "main_definition": "A self-contained component of a system , often interchangeable , which has a well-defined interface to the other components.",
+    "secondary_definitions": [
+      "( architecture ) A standard unit of measure used for determining the proportions of a building .",
+      "( programming ) A section of a program ; a subroutine or group of subroutines.",
+      "A unit of education covering a single topic .",
+      "A pre-prepared adventure scenario with related materials for a role-playing game .",
+      "( algebra , ring theory ) An abelian group equipped with the operation of multiplication by an element of a ring (or another of certain algebraic objects), representing a generalisation of the concept of vector space with scalar multiplication .",
+      "( fractal geometry , mathematics ) A fractal element .",
+      "( music , computing ) A file containing a music sequence that can be played in a tracker (also called mod or music module ).",
+      "( hydraulics ) A contrivance for regulating the supply of water from an irrigation channel .",
+      "( astronautics ) An independent self-contained unit of a spacecraft ."
+    ]
+  }
+]

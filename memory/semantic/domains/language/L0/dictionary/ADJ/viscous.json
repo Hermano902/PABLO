@@ -1,0 +1,52 @@
+[
+  {
+    "word": "viscous",
+    "lemma": "viscous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɪs.kəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more viscous",
+          "SUP": "most viscous"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a thick , sticky consistency between solid and liquid (that is, a high viscosity ).",
+        "examples": [],
+        "synonyms": [
+          "syrupy",
+          "viscid",
+          "viscose",
+          "thickflowing"
+        ],
+        "antonyms": [
+          "inviscid"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of or pertaining to viscosity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "Having a thick , sticky consistency between solid and liquid (that is, a high viscosity ).",
+    "secondary_definitions": [
+      "( physics ) Of or pertaining to viscosity ."
+    ]
+  }
+]

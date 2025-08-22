@@ -1,0 +1,81 @@
+[
+  {
+    "word": "furnace",
+    "lemma": "furnace",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɝnɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "furnaces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An industrial heating device, such as for smelting metal or firing ceramics .",
+        "examples": [
+          "Plans for the next phase include furnaces capable of inert atmospheres and partial vacuums."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device that provides heat for a building.",
+        "examples": [
+          "HVAC services include furnace maintenance."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "Canada"
+        ],
+        "label_groups": "US , Canada"
+      },
+      {
+        "definition": "Any area that is excessively hot.",
+        "examples": [
+          "The busy kitchen became a sweltering furnace ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "figurative"
+        ],
+        "label_groups": "colloquial , figurative"
+      },
+      {
+        "definition": "A place or time of punishment, affliction, or great trial; severe experience or discipline.",
+        "examples": [
+          "forged in the furnace of fierce competition"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "An industrial heating device, such as for smelting metal or firing ceramics .",
+    "secondary_definitions": [
+      "( US , Canada ) A device that provides heat for a building.",
+      "( colloquial , figurative ) Any area that is excessively hot.",
+      "( figurative ) A place or time of punishment, affliction, or great trial; severe experience or discipline."
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "octal",
+    "lemma": "octal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒk.təl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "octals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number system that uses the eight digits 0, 1, 2, 3, 4, 5, 6, 7.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "computing",
+          "uncountable"
+        ],
+        "label_groups": "arithmetic , computing , uncountable"
+      },
+      {
+        "definition": "A digit or value in the octal number system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic",
+          "computing",
+          "countable"
+        ],
+        "label_groups": "arithmetic , computing , countable"
+      }
+    ],
+    "main_definition": "( arithmetic , computing , uncountable ) The number system that uses the eight digits 0, 1, 2, 3, 4, 5, 6, 7.",
+    "secondary_definitions": [
+      "( arithmetic , computing , countable ) A digit or value in the octal number system."
+    ]
+  }
+]

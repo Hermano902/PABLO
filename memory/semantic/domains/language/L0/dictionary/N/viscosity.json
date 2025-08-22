@@ -1,0 +1,70 @@
+[
+  {
+    "word": "viscosity",
+    "lemma": "viscosity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vɪsˈkɑsɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "viscosities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state of being viscous .",
+        "examples": [],
+        "synonyms": [
+          "viscousness"
+        ],
+        "antonyms": [
+          "runniness",
+          "wateriness",
+          "thinness"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A quantity expressing the magnitude of internal friction in a fluid , as measured by the force per unit area resisting uniform flow .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "physics"
+        ],
+        "label_groups": "countable , physics"
+      },
+      {
+        "definition": "A tendency to prolong interpersonal encounters.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "psychology"
+        ],
+        "label_groups": "uncountable , psychology"
+      }
+    ],
+    "main_definition": "( uncountable ) The state of being viscous .",
+    "secondary_definitions": [
+      "( countable , physics ) A quantity expressing the magnitude of internal friction in a fluid , as measured by the force per unit area resisting uniform flow .",
+      "( uncountable , psychology ) A tendency to prolong interpersonal encounters."
+    ]
+  }
+]

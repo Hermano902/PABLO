@@ -1,0 +1,67 @@
+[
+  {
+    "word": "notification",
+    "lemma": "notification",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌnəʊtɪfɪˈkeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "notifications"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of notifying .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A specific piece of information that serves to notify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A message, alert, or signal displayed by a system or application to inform the user of an event, update, new message, etc.",
+        "examples": [
+          "A notification popped up on my computer.",
+          "I received an e-mail notification on my phone."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "computing"
+        ],
+        "label_groups": "countable , computing"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of notifying .",
+    "secondary_definitions": [
+      "( countable ) A specific piece of information that serves to notify .",
+      "( countable , computing ) A message, alert, or signal displayed by a system or application to inform the user of an event, update, new message, etc."
+    ]
+  }
+]

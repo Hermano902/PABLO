@@ -1,0 +1,58 @@
+[
+  {
+    "word": "tournament",
+    "lemma": "tournament",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtʊənəmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tournaments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "During the Middle Ages , a series of battles and other contests designed to prepare knights for war.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "A series of games; either the same game played many times, or a succession of games related by a single theme; played competitively to determine a single winning team or individual.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A digraph obtained by assigning a direction to each edge in an undirected complete graph .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( historical ) During the Middle Ages , a series of battles and other contests designed to prepare knights for war.",
+    "secondary_definitions": [
+      "A series of games; either the same game played many times, or a succession of games related by a single theme; played competitively to determine a single winning team or individual.",
+      "( graph theory ) A digraph obtained by assigning a direction to each edge in an undirected complete graph ."
+    ]
+  }
+]

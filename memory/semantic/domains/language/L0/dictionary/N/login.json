@@ -1,0 +1,65 @@
+[
+  {
+    "word": "login",
+    "lemma": "login",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɒɡ.ɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "logins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Credentials : the combination of a user 's identification and password used to enter a computer , program , network , etc.",
+        "examples": [
+          "I've forgotten my login again."
+        ],
+        "synonyms": [
+          "logon",
+          "sign-in",
+          "sign-on"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The process or an instance of logging in.",
+        "examples": [
+          "Your login failed because you weren't connected to the office network."
+        ],
+        "synonyms": [
+          "logon",
+          "log-on",
+          "sign-in",
+          "sign-on"
+        ],
+        "antonyms": [
+          "logoff",
+          "logout"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Credentials : the combination of a user 's identification and password used to enter a computer , program , network , etc.",
+    "secondary_definitions": [
+      "( computing ) The process or an instance of logging in."
+    ]
+  }
+]

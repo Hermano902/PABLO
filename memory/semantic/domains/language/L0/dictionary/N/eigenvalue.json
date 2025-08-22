@@ -1,0 +1,37 @@
+[
+  {
+    "word": "eigenvalue",
+    "lemma": "eigenvalue",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaɪɡənˌvæljuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "eigenvalues"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A scalar , λ {\\displaystyle \\lambda } , such that there exists a non-zero vector x {\\displaystyle x} (a corresponding eigenvector ) for which the image of x {\\displaystyle x} under a given linear operator A {\\displaystyle \\mathrm {A} } is equal to the image of x {\\displaystyle x} under multiplication by λ {\\displaystyle \\lambda } ; i.e. A x = λ x {\\displaystyle \\mathrm {A} x=\\lambda x} .",
+        "examples": [
+          "The eigenvalues λ {\\displaystyle \\lambda } of a square transformation matrix M {\\displaystyle \\mathrm {M} } may be found by solving det ( M − λ I ) = 0 {\\displaystyle \\det(\\mathrm {M} -\\lambda \\mathrm {I} )=0} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      }
+    ],
+    "main_definition": "( linear algebra ) A scalar , λ {\\displaystyle \\lambda } , such that there exists a non-zero vector x {\\displaystyle x} (a corresponding eigenvector ) for which the image of x {\\displaystyle x} under a given linear operator A {\\displaystyle \\mathrm {A} } is equal to the image of x {\\displaystyle x} under multiplication by λ {\\displaystyle \\lambda } ; i.e. A x = λ x {\\displaystyle \\mathrm {A} x=\\lambda x} .",
+    "secondary_definitions": []
+  }
+]

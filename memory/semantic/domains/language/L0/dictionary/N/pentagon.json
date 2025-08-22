@@ -1,0 +1,49 @@
+[
+  {
+    "word": "pentagon",
+    "lemma": "pentagon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɛn.təˌɡɑn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pentagons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A polygon with five sides and five angles.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A fort with five bastions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      }
+    ],
+    "main_definition": "( geometry ) A polygon with five sides and five angles.",
+    "secondary_definitions": [
+      "( military ) A fort with five bastions ."
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "maximal",
+    "lemma": "maximal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæksɪməl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Largest , greatest (in magnitude ), highest , most .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Larger than any previous term in the sequence.",
+        "examples": [
+          "In the sequence (1, 2, 10, 5, 12, 6), the fifth term, f(5) = 12, is a maximal term, as each of the first 4 terms are smaller than 12."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a sequence"
+        ],
+        "label_groups": "mathematics , of a sequence"
+      },
+      {
+        "definition": "Such that no other element is greater (with respect to the given partial order ).",
+        "examples": [
+          "With respect to the ordering induced by set-theoretic inclusion, the set { { 2 } , { 1 , 2 } , { 2 , 3 } } {\\displaystyle \\{\\{2\\},\\{1,2\\},\\{2,3\\}\\}} has two maximal elements: { 1 , 2 } {\\displaystyle \\{1,2\\}} and { 2 , 3 } {\\displaystyle \\{2,3\\}}"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of an element of a poset"
+        ],
+        "label_groups": "mathematics , of an element of a poset"
+      }
+    ],
+    "main_definition": "Largest , greatest (in magnitude ), highest , most .",
+    "secondary_definitions": [
+      "( mathematics , of a sequence ) Larger than any previous term in the sequence.",
+      "( mathematics , of an element of a poset ) Such that no other element is greater (with respect to the given partial order )."
+    ]
+  }
+]

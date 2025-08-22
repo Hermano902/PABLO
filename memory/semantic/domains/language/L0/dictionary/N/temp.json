@@ -1,0 +1,74 @@
+[
+  {
+    "word": "temp",
+    "lemma": "temp",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɛmp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "temps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Clipping of temperature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Clipping of temperature .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "temp",
+    "lemma": "temp",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/tɛmp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "temps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Synonym of temporary ( “ short-term employee ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Synonym of temporary ( “ short-term variable ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Synonym of temporary ( “ short-term employee ” ) .",
+    "secondary_definitions": [
+      "( programming ) Synonym of temporary ( “ short-term variable ” ) ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "word": "narrow",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 10,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\narrow.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\narrow.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\narrow.json"
+  },
+  "timestamp": "2025-08-19T09:53:03.189193Z"
+}

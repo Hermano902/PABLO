@@ -1,0 +1,69 @@
+[
+  {
+    "word": "reboot",
+    "lemma": "reboot",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiːbuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reboots",
+          "PT": "rebooted",
+          "PAP": "rebooted",
+          "PRP": "rebooting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To execute a computer's boot process, effectively resetting the computer and causing the operating system to reload, commonly after a system failure .",
+        "examples": [
+          "We need to reboot the system after installing these updates.",
+          "The system reboots every weekend after updates are installed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ergative"
+        ],
+        "label_groups": "computing , ergative"
+      },
+      {
+        "definition": "To start afresh.",
+        "examples": [
+          "They rebooted the TV series, but it's even worse than the original."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      },
+      {
+        "definition": "Restart ; to return to an initial configuration or state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing , ergative ) To execute a computer's boot process, effectively resetting the computer and causing the operating system to reload, commonly after a system failure .",
+    "secondary_definitions": [
+      "( by extension ) To start afresh.",
+      "Restart ; to return to an initial configuration or state."
+    ]
+  }
+]

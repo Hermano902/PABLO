@@ -1,0 +1,45 @@
+[
+  {
+    "word": "auction",
+    "lemma": "auction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔːkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "auctions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A public event where goods or property are sold to the highest bidder.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The first stage of a deal, in which players bid to determine the final contract.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bridge"
+        ],
+        "label_groups": "bridge"
+      }
+    ],
+    "main_definition": "A public event where goods or property are sold to the highest bidder.",
+    "secondary_definitions": [
+      "( bridge ) The first stage of a deal, in which players bid to determine the final contract."
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "word": "valuation",
+    "lemma": "valuation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌvæ.ljuːˈeɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "valuations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An estimation of something's worth.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of estimating the value of a financial asset or liability .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance",
+          "insurance"
+        ],
+        "label_groups": "finance , insurance"
+      },
+      {
+        "definition": "An assignment of truth values to propositional variables , with a corresponding assignment of truth values to all propositional formulas with those variables (obtained through the recursive application of truth-valued functions corresponding to the logical connectives making up those formulas).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "propositional logic",
+          "model theory"
+        ],
+        "label_groups": "logic , propositional logic , model theory"
+      },
+      {
+        "definition": "A structure , and the corresponding assignment of a truth value to each sentence in the language for that structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "first-order logic",
+          "model theory"
+        ],
+        "label_groups": "logic , first-order logic , model theory"
+      },
+      {
+        "definition": "A measure of size or multiplicity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "A map from the class of open sets of a topological space to the set of positive real numbers including infinity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "measure theory",
+          "domain theory"
+        ],
+        "label_groups": "measure theory , domain theory"
+      }
+    ],
+    "main_definition": "An estimation of something's worth.",
+    "secondary_definitions": [
+      "( finance , insurance ) The process of estimating the value of a financial asset or liability .",
+      "( logic , propositional logic , model theory ) An assignment of truth values to propositional variables , with a corresponding assignment of truth values to all propositional formulas with those variables (obtained through the recursive application of truth-valued functions corresponding to the logical connectives making up those formulas).",
+      "( logic , first-order logic , model theory ) A structure , and the corresponding assignment of a truth value to each sentence in the language for that structure.",
+      "( algebra ) A measure of size or multiplicity.",
+      "( measure theory , domain theory ) A map from the class of open sets of a topological space to the set of positive real numbers including infinity ."
+    ]
+  }
+]

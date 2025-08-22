@@ -1,0 +1,45 @@
+[
+  {
+    "word": "subtype",
+    "lemma": "subtype",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subtypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A group of specific things within a larger, more general group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The data type represented by a subclass .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A group of specific things within a larger, more general group.",
+    "secondary_definitions": [
+      "( programming ) The data type represented by a subclass ."
+    ]
+  }
+]

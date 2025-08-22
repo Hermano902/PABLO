@@ -1,0 +1,91 @@
+[
+  {
+    "word": "sleepy",
+    "lemma": "sleepy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsliːpi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "sleepier",
+          "SUP": "sleepiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Tired ; feeling the need for sleep .",
+        "examples": [],
+        "synonyms": [
+          "tired"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Suggesting tiredness .",
+        "examples": [],
+        "synonyms": [
+          "jaded",
+          "weary"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Tending to induce sleep.",
+        "examples": [
+          "a sleepy drink or potion"
+        ],
+        "synonyms": [
+          "hypnotic",
+          "soporific"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Dull ; lazy .",
+        "examples": [],
+        "synonyms": [
+          "heavy",
+          "sluggish"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Quiet; without bustle or activity.",
+        "examples": [
+          "a sleepy English village"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "Tired ; feeling the need for sleep .",
+    "secondary_definitions": [
+      "Suggesting tiredness .",
+      "Tending to induce sleep.",
+      "( figurative ) Dull ; lazy .",
+      "( figurative ) Quiet; without bustle or activity."
+    ]
+  }
+]

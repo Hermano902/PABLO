@@ -1,0 +1,114 @@
+[
+  {
+    "word": "torus",
+    "lemma": "torus",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɔː.ɹəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tori"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The standard representation of such a space in 3-dimensional Euclidean space: a surface or solid formed by rotating a closed curve , especially a circle , about a line which lies in the same plane but does not intersect it (e.g. like a ring doughnut ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A topological space which is a product of two circles . ( topology , in combination , n -torus , 4-torus , etc. ) The product of the specified number of circles .",
+            "examples": [
+              "A 4-variable Karnaugh map can be thought of, topologically, as being a torus ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology"
+            ],
+            "label_groups": "topology"
+          },
+          {
+            "definition": "A ring-shaped object, especially a large ring-shaped chamber used in physical research .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A large convex molding , typically semicircular in cross section , which commonly projects at the base of a column and above the plinth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "A rounded ridge of bone or muscle , especially one on the occipital bone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "The end of the peduncle or flower stalk to which the floral parts (or in the Asteraceae , the florets of a flower head ) are attached.",
+        "examples": [],
+        "synonyms": [
+          "receptacle",
+          "thalamus"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "The thickening of a membrane closing a wood - cell pit (as of gymnosperm tracheids ) having the secondary cell wall arched over the pit cavity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      }
+    ],
+    "main_definition": "( geometry ) The standard representation of such a space in 3-dimensional Euclidean space: a surface or solid formed by rotating a closed curve , especially a circle , about a line which lies in the same plane but does not intersect it (e.g. like a ring doughnut ).",
+    "secondary_definitions": [
+      "( architecture ) A large convex molding , typically semicircular in cross section , which commonly projects at the base of a column and above the plinth .",
+      "( anatomy ) A rounded ridge of bone or muscle , especially one on the occipital bone .",
+      "( botany ) The end of the peduncle or flower stalk to which the floral parts (or in the Asteraceae , the florets of a flower head ) are attached.",
+      "( botany ) The thickening of a membrane closing a wood - cell pit (as of gymnosperm tracheids ) having the secondary cell wall arched over the pit cavity ."
+    ]
+  }
+]

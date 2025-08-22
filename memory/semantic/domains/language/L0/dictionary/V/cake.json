@@ -1,0 +1,72 @@
+[
+  {
+    "word": "cake",
+    "lemma": "cake",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/keɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cakes",
+          "PT": "caked",
+          "PAP": "caked",
+          "PRP": "caking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Coat (something) with a crust of solid material.",
+        "examples": [
+          "His shoes are caked with mud."
+        ],
+        "synonyms": [
+          "crust",
+          "encrust"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form into a cake, or mass.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of blood or other liquid, to dry out and become hard.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) Coat (something) with a crust of solid material.",
+    "secondary_definitions": [
+      "( transitive ) To form into a cake, or mass.",
+      "( intransitive ) Of blood or other liquid, to dry out and become hard."
+    ]
+  }
+]

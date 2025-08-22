@@ -1,0 +1,55 @@
+[
+  {
+    "word": "thumbnail",
+    "lemma": "thumbnail",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈθʌm.neɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "thumbnails",
+          "PT": "thumbnailed",
+          "PAP": "thumbnailed",
+          "PRP": "thumbnailing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To describe concisely .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To create a smaller representation of (a larger image).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To describe concisely .",
+    "secondary_definitions": [
+      "( transitive , computing ) To create a smaller representation of (a larger image)."
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "permanent",
+    "lemma": "permanent",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɜː.mə.nənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "permanents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A chemical hair treatment imparting or removing curliness , whose effects typically last for a period of weeks; a perm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Given an n × n {\\displaystyle n\\times n} matrix a i j {\\displaystyle a_{ij}\\,} , the sum over all permutations π {\\displaystyle \\pi \\,} of ∏ i = 1 n a i π ( i ) {\\displaystyle \\prod _{i=1}^{n}{a_{i\\pi (i)}}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra",
+          "combinatorics"
+        ],
+        "label_groups": "linear algebra , combinatorics"
+      },
+      {
+        "definition": "A card whose effects persist beyond the turn on which it is played.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "collectible card games"
+        ],
+        "label_groups": "collectible card games"
+      }
+    ],
+    "main_definition": "A chemical hair treatment imparting or removing curliness , whose effects typically last for a period of weeks; a perm .",
+    "secondary_definitions": [
+      "( linear algebra , combinatorics ) Given an n × n {\\displaystyle n\\times n} matrix a i j {\\displaystyle a_{ij}\\,} , the sum over all permutations π {\\displaystyle \\pi \\,} of ∏ i = 1 n a i π ( i ) {\\displaystyle \\prod _{i=1}^{n}{a_{i\\pi (i)}}} .",
+      "( collectible card games ) A card whose effects persist beyond the turn on which it is played."
+    ]
+  }
+]

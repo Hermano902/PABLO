@@ -1,0 +1,93 @@
+[
+  {
+    "word": "intersection",
+    "lemma": "intersection",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntəɹˌsɛkʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "intersections"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The junction of two (or more) paths , streets , highways , or other thoroughfares .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any overlap , confluence , or crossover .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The point or set of points common to two geometrical objects (such as the point where two lines meet or the line where two planes intersect).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The set containing all the elements that are common to two or more sets.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      },
+      {
+        "definition": "The element where two or more straight lines of synchronized skaters pass through each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports"
+        ],
+        "label_groups": "sports"
+      },
+      {
+        "definition": "The pullback of a corner of monics .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      }
+    ],
+    "main_definition": "The junction of two (or more) paths , streets , highways , or other thoroughfares .",
+    "secondary_definitions": [
+      "Any overlap , confluence , or crossover .",
+      "( geometry ) The point or set of points common to two geometrical objects (such as the point where two lines meet or the line where two planes intersect).",
+      "( set theory ) The set containing all the elements that are common to two or more sets.",
+      "( sports ) The element where two or more straight lines of synchronized skaters pass through each other.",
+      "( category theory ) The pullback of a corner of monics ."
+    ]
+  }
+]

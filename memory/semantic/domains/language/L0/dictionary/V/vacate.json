@@ -1,0 +1,78 @@
+[
+  {
+    "word": "vacate",
+    "lemma": "vacate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/veɪˈkeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "vacates",
+          "PT": "vacated",
+          "PAP": "vacated",
+          "PRP": "vacating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move out of a dwelling or other property , either by choice or by eviction .",
+        "examples": [
+          "I have to vacate my house by midday, as the new owner is moving in.",
+          "You are hereby ordered to vacate the premises within 14 days."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To leave an office or position .",
+        "examples": [
+          "He vacated his coaching position because of the corruption scandal."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have a court judgement set aside ; to annul .",
+        "examples": [
+          "The judge vacated the earlier decision when new evidence was presented."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "transitive"
+        ],
+        "label_groups": "law , transitive"
+      },
+      {
+        "definition": "To leave an area , usually as a result of orders from public authorities in the event of a riot or natural disaster .",
+        "examples": [
+          "If you do not immediately vacate the area, we will make you leave with tear gas!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To move out of a dwelling or other property , either by choice or by eviction .",
+    "secondary_definitions": [
+      "To leave an office or position .",
+      "( law , transitive ) To have a court judgement set aside ; to annul .",
+      "To leave an area , usually as a result of orders from public authorities in the event of a riot or natural disaster ."
+    ]
+  }
+]

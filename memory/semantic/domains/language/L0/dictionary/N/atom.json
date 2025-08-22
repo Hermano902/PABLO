@@ -1,0 +1,192 @@
+[
+  {
+    "word": "atom",
+    "lemma": "atom",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈætəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "atoms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The smallest possible amount of matter which still retains its identity as a chemical element , now known to consist of a nucleus surrounded by electrons .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "physics"
+        ],
+        "label_groups": "chemistry , physics",
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "history of science"
+        ],
+        "label_groups": "history of science",
+        "dating_raw": "from 15th c."
+      },
+      {
+        "definition": "The smallest, indivisible constituent part or unit of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now generally regarded figuratively"
+        ],
+        "label_groups": "now generally regarded figuratively",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "In logical atomism , a fundamental fact that cannot be further broken down.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "The smallest medieval unit of time , equal to fifteen ninety-fourths of a second .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical",
+        "dating_raw": "from 10th c."
+      },
+      {
+        "definition": "A mote of dust in a sunbeam.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 16th c."
+      },
+      {
+        "definition": "A very small amount; a whit .",
+        "examples": [],
+        "synonyms": [
+          "particle",
+          "speck"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "An individual number or symbol , as opposed to a list ; a scalar value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "Lisp"
+        ],
+        "label_groups": "programming , Lisp",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "An integer representing a particular string .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "Microsoft Windows"
+        ],
+        "label_groups": "programming , Microsoft Windows"
+      },
+      {
+        "definition": "A non-zero member of a partially ordered set that has only zero below it (assuming that the poset has a least element, its \"zero\").",
+        "examples": [
+          "In a Venn diagram, an atom is depicted as an area circumscribed by lines but not cut by any line."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "coatom"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "An element of a set that is not itself a set; an urelement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory"
+        ],
+        "label_groups": "mathematics , set theory",
+        "dating_raw": "from 20th c."
+      },
+      {
+        "definition": "An age group division in hockey for nine- to eleven-year-olds.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "usually attributive"
+        ],
+        "label_groups": "Canada , usually attributive"
+      }
+    ],
+    "main_definition": "( chemistry , physics ) The smallest possible amount of matter which still retains its identity as a chemical element , now known to consist of a nucleus surrounded by electrons . [from 16th c.]",
+    "secondary_definitions": [
+      "( history of science ) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter . [from 15th c.]",
+      "( now generally regarded figuratively ) The smallest, indivisible constituent part or unit of something. [from 17th c.]",
+      "( philosophy ) In logical atomism , a fundamental fact that cannot be further broken down.",
+      "( historical ) The smallest medieval unit of time , equal to fifteen ninety-fourths of a second . [from 10th c.]",
+      "A mote of dust in a sunbeam. [from 16th c.]",
+      "A very small amount; a whit . [from 17th c.]",
+      "( programming , Lisp ) An individual number or symbol , as opposed to a list ; a scalar value. [from 20th c.]",
+      "( programming , Microsoft Windows ) An integer representing a particular string .",
+      "( mathematics ) A non-zero member of a partially ordered set that has only zero below it (assuming that the poset has a least element, its \"zero\"). [from 20th c.]",
+      "( mathematics , set theory ) An element of a set that is not itself a set; an urelement . [from 20th c.]",
+      "( Canada , usually attributive ) An age group division in hockey for nine- to eleven-year-olds."
+    ]
+  }
+]

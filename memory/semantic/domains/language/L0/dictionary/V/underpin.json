@@ -1,0 +1,61 @@
+[
+  {
+    "word": "underpin",
+    "lemma": "underpin",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌʌn.dəˈpɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "underpins",
+          "PT": "underpinned",
+          "PAP": "underpinned",
+          "PRP": "underpinning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To support from below with props or masonry .",
+        "examples": [
+          "You should underpin the mine roof to prevent further collapse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give support to; to form a basis of; to corroborate .",
+        "examples": [
+          "Public confidence in politicians must underpin our democracy."
+        ],
+        "synonyms": [
+          "underlie"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "( transitive ) To support from below with props or masonry .",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To give support to; to form a basis of; to corroborate ."
+    ]
+  }
+]

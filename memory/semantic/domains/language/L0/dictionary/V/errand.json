@@ -1,0 +1,58 @@
+[
+  {
+    "word": "errand",
+    "lemma": "errand",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛɹənd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "errands",
+          "PT": "erranded",
+          "PAP": "erranded",
+          "PRP": "erranding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send someone on an errand.",
+        "examples": [
+          "All the servants were on holiday or erranded out of the house."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To go on an errand.",
+        "examples": [
+          "She spent an enjoyable afternoon erranding in the city."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To send someone on an errand.",
+    "secondary_definitions": [
+      "( intransitive ) To go on an errand."
+    ]
+  }
+]

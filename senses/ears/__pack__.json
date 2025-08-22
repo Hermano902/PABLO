@@ -1,0 +1,10 @@
+{
+  "id": "ears.pack",
+  "kind": "pack",
+  "entry": "io.ears.__pack__:run",
+  "provides": [
+    "EAR/*"
+  ],
+  "enable": true,
+  "notes": "Ears capability pack."
+}

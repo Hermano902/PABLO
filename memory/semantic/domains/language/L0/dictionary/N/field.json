@@ -1,0 +1,220 @@
+[
+  {
+    "word": "field",
+    "lemma": "field",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fiːld/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fields"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A land area free of woodland , cities, and towns; an area of open country.",
+        "examples": [
+          "There are several species of wild flowers growing in this field ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The open country near or belonging to a town or city.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "usually in the plural"
+            ],
+            "label_groups": "usually in the plural"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A wide, open space that is used to grow crops or to hold farm animals , usually enclosed by a fence, hedge or other barrier.",
+        "examples": [
+          "There were some cows grazing in a field .",
+          "A crop circle was made in a corn field ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A region containing a particular mineral.",
+        "examples": [
+          "an oil field ; a gold field"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "An airfield , airport or air base ; especially, one with unpaved runways .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place where competitive matches are carried out.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A place where a battle is fought; a battlefield .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An area reserved for playing a game or race with one’s physical force. ( baseball , obsolete ) The team in a match that throws the ball and tries to catch it when it is hit by the other team (the bat ). ( baseball ) The outfield .",
+            "examples": [
+              "soccer field",
+              "Substitutes are only allowed onto the field after their boots are checked."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A place where competitive matches are carried out with figures , or playing area in a board game or a computer game .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A competitive situation , circumstance in which one faces conflicting moves of rivals.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "All of the competitors in any outdoor contest or trial, or all except the favourites in the betting.",
+            "examples": [
+              "This racehorse is the strongest in a weak field ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "metonymic"
+            ],
+            "label_groups": "metonymic"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Any of various figurative meanings, often dead metaphors .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A physical phenomenon (such as force , potential or fluid velocity ) that pervades a region ; a mathematical model of such a phenomenon that associates each point and time with a scalar , vector or tensor quantity.",
+            "examples": [
+              "magnetic field ; gravitational field ; scalar field"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics"
+            ],
+            "label_groups": "physics"
+          },
+          {
+            "definition": "Any of certain structures serving cognition. The extent of a given perception. A realm of practical, direct or natural operation, contrasted with an office, classroom, or laboratory . A domain of study, knowledge or practice . An unrestricted or favourable opportunity for action, operation, or achievement. ( algebra ) A non- zero commutative ring in which all non-zero elements are invertible ; a simple commutative ring.",
+            "examples": [
+              "field of view",
+              "The design needs to be field -tested before we commit to manufacture.",
+              "Field work traditionally distinguishes true archaeologists from armchair archaeologists.",
+              "He needs some time in the field before his judgment can be trusted.",
+              "He was an expert in the field of Chinese history.",
+              "The set of rational numbers, Q {\\displaystyle \\mathbb {Q} } , is the prototypical field .",
+              "Whereas a ring has three binary operators: (1) an additive operator, (2) a subtractive operator, and (3) a multiplicative operator, a field has four binary operators: the three ring binary operators and (4) a divisive operator. ( N.B. : Only the additive and multiplicative operators are axiomatic. The subtractive operator may be derived by combining the additive and the unary negative operators; the divisive operator may be derived by combining the multiplicative and the unary inversive operators.)",
+              "N.B."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A physical or virtual location for the input of information in the form of symbols. ( heraldry ) The background of the shield . ( vexillology ) The background of the flag . ( numismatics ) The part of a coin left unoccupied by the main device . A section of a form which is supposed to be filled with data . A component of a database in which a single unit of information is stored. ( computing , object-oriented programming ) An area of memory or storage reserved for a particular value, subject to virtual access controls.",
+            "examples": [
+              "The form has fields for each element of the customer's home address and shipping address."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Part (usually one half) of a frame in an interlaced signal.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "electronics",
+              "film",
+              "animation"
+            ],
+            "label_groups": "electronics , film , animation"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Archaic form of fielder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      }
+    ],
+    "main_definition": "A land area free of woodland , cities, and towns; an area of open country.",
+    "secondary_definitions": [
+      "A wide, open space that is used to grow crops or to hold farm animals , usually enclosed by a fence, hedge or other barrier.",
+      "( geology ) A region containing a particular mineral.",
+      "An airfield , airport or air base ; especially, one with unpaved runways .",
+      "A place where competitive matches are carried out.",
+      "Any of various figurative meanings, often dead metaphors .",
+      "( cricket ) Archaic form of fielder ."
+    ]
+  }
+]

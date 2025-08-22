@@ -1,0 +1,57 @@
+[
+  {
+    "word": "cruelty",
+    "lemma": "cruelty",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɹuː(ə)lti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cruelties"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "An indifference to suffering or pleasure in inflicting suffering.",
+        "examples": [],
+        "synonyms": [
+          "mercilessness",
+          "barbarism",
+          "ruthlessness"
+        ],
+        "antonyms": [
+          "mercy",
+          "clemency"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A cruel act.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) An indifference to suffering or pleasure in inflicting suffering.",
+    "secondary_definitions": [
+      "( countable ) A cruel act."
+    ]
+  }
+]

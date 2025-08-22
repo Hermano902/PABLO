@@ -1,0 +1,40 @@
+{
+  "word": "leer",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "ADJ",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 9,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADJ": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\leer.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\leer.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\leer.json"
+  },
+  "timestamp": "2025-08-19T07:33:52.859403Z"
+}

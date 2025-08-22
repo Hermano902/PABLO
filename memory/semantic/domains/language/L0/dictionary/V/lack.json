@@ -1,0 +1,86 @@
+[
+  {
+    "word": "lack",
+    "lemma": "lack",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/læk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "lacks",
+          "PT": "lacked",
+          "PAP": "lacked",
+          "PRP": "lacking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be without , not to have, to need, to require .",
+        "examples": [
+          "My life lacks excitement."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "stative"
+        ],
+        "label_groups": "transitive , stative"
+      },
+      {
+        "definition": "To be short ( of or for something).",
+        "examples": [
+          "He'll never lack for company while he's got all that money."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be in want .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "To see the deficiency in (someone or something); to find fault with, to malign , reproach .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive , stative ) To be without , not to have, to need, to require .",
+    "secondary_definitions": [
+      "( intransitive ) To be short ( of or for something).",
+      "( intransitive , obsolete ) To be in want .",
+      "( obsolete ) To see the deficiency in (someone or something); to find fault with, to malign , reproach ."
+    ]
+  }
+]

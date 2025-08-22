@@ -1,0 +1,78 @@
+[
+  {
+    "word": "disintegration",
+    "lemma": "disintegration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪs.ɪn.tɪˈɡɹeɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "disintegrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A process by which anything disintegrates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The condition of anything which has disintegrated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The wearing away or falling to pieces of rocks or strata , produced by atmospheric action, frost , ice , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "The process of radioactive decay .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The radioactive decay of a single atom .",
+            "examples": [
+              "The sample exhibited an activity of three disintegrations per second."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "nuclear physics"
+        ],
+        "label_groups": "nuclear physics"
+      }
+    ],
+    "main_definition": "A process by which anything disintegrates .",
+    "secondary_definitions": [
+      "The condition of anything which has disintegrated .",
+      "( geology ) The wearing away or falling to pieces of rocks or strata , produced by atmospheric action, frost , ice , etc.",
+      "( nuclear physics ) The process of radioactive decay ."
+    ]
+  }
+]

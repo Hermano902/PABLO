@@ -1,0 +1,70 @@
+[
+  {
+    "word": "shortcut",
+    "lemma": "shortcut",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈʃɔːtkʌt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "shortcuts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A path between two points that is faster than the commonly used paths.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A method to accomplish something that omits one or more steps .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A file that points to the location of another file and serves as a quick way to access it.",
+        "examples": [
+          "There are shortcuts to some of my favourite applications on my desktop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "in the Microsoft family of operating systems"
+        ],
+        "label_groups": "computing , in the Microsoft family of operating systems"
+      },
+      {
+        "definition": "Ellipsis of keyboard shortcut .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A path between two points that is faster than the commonly used paths.",
+    "secondary_definitions": [
+      "A method to accomplish something that omits one or more steps .",
+      "( computing , in the Microsoft family of operating systems ) A file that points to the location of another file and serves as a quick way to access it.",
+      "( computing ) Ellipsis of keyboard shortcut ."
+    ]
+  }
+]

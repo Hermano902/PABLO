@@ -1,0 +1,76 @@
+[
+  {
+    "word": "variant",
+    "lemma": "variant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɛəɹi.ənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "variants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that is slightly different from a type or norm .",
+        "examples": [
+          "All breeds of dog are variants of the species “Canis lupus familiaris”."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A different sequence of a gene ( locus ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "A variable that can hold any of various unrelated data types .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "One of a set of words or other linguistic forms that conveys the same meaning or serves the same function.",
+        "examples": [
+          "The word \"kerosine\" is a variant of “kerosene”."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "lexicography"
+        ],
+        "label_groups": "linguistics , lexicography"
+      }
+    ],
+    "main_definition": "Something that is slightly different from a type or norm .",
+    "secondary_definitions": [
+      "( genetics ) A different sequence of a gene ( locus ).",
+      "( programming ) A variable that can hold any of various unrelated data types .",
+      "( linguistics , lexicography ) One of a set of words or other linguistic forms that conveys the same meaning or serves the same function."
+    ]
+  }
+]

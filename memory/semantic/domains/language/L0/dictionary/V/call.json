@@ -1,0 +1,560 @@
+[
+  {
+    "word": "call",
+    "lemma": "call",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "[qʰu]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "calls",
+          "PT": "called",
+          "PAP": "called",
+          "PRP": "calling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reach out with one's voice .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To request , summon , or beckon .",
+            "examples": [
+              "That person is hurt; call for help!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To cry or shout .",
+            "examples": [],
+            "synonyms": [
+              "holler",
+              "yell"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To utter in a loud or distinct voice.",
+            "examples": [
+              "to call the roll of a military company"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To contact by telephone .",
+            "examples": [
+              "Why don’t you call me in the morning?",
+              "Why don’t you call tomorrow?"
+            ],
+            "synonyms": [
+              "drop a line",
+              "ring",
+              "get on the horn",
+              "give someone a ring",
+              "give someone a bell"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ambitransitive"
+            ],
+            "label_groups": "ambitransitive"
+          },
+          {
+            "definition": "To rouse from sleep ; to awaken .",
+            "examples": [],
+            "synonyms": [
+              "wake up"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To request that one's band play (a particular tune ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "jazz"
+            ],
+            "label_groups": "transitive , jazz"
+          },
+          {
+            "definition": "To scold .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Yorkshire",
+              "transitive"
+            ],
+            "label_groups": "Yorkshire , transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To visit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To pay a ( social ) visit ( often used with \"on\", \"round\", or \"at\"; used by salespeople with \"again\" to invite customers to come again ) .",
+            "examples": [
+              "We could always call on a friend.",
+              "The engineer called round whilst you were away."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To stop at a station or port .",
+            "examples": [
+              "This train calls at Reading, Slough and London Paddington.",
+              "Our cruise ship called at Bristol Harbour."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To come to pass ; to afflict .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading",
+          "intransitive"
+        ],
+        "label_groups": "heading , intransitive"
+      },
+      {
+        "definition": "To name , identify , or describe .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To name or refer to.",
+            "examples": [
+              "Why don’t we dispense with the formalities? Please call me Al.",
+              "Don't call me a liar."
+            ],
+            "synonyms": [
+              "designate",
+              "dub",
+              "name"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ditransitive"
+            ],
+            "label_groups": "ditransitive"
+          },
+          {
+            "definition": "Of a person, to have as one's name; of a thing, to have as its name.",
+            "examples": [
+              "I’m called John.",
+              "A very tall building is called a skyscraper."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "in passive"
+            ],
+            "label_groups": "in passive"
+          },
+          {
+            "definition": "To state, or estimate, approximately or loosely; to characterize without strict regard to fact.",
+            "examples": [
+              "They call the distance ten miles.",
+              "That’s enough work. Let's call it a day and go home."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To claim the existence of some malfeasance ; to denounce as.",
+            "examples": [
+              "I call bullshit.",
+              "She called foul on their scheme."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To disclose the class or character of; to identify.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To declare , or declare in favor of , a predicted or actual result .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To declare in advance .",
+            "examples": [
+              "The captains call the coin toss."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To predict .",
+            "examples": [
+              "He called twelve of the last three recessions."
+            ],
+            "synonyms": [
+              "augur",
+              "foretell"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To formally recognise a death: especially to announce and record the time, place and fact of a person’s death.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To declare (an effort or project) to be a failure.",
+            "examples": [
+              "After the third massive failure, John called the whole initiative."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To make a decision as a referee or umpire .",
+            "examples": [
+              "The goal was called offside."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "sports"
+            ],
+            "label_groups": "sports"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "Direct or indirect use of the voice.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": ": To shout directions to the other batsman on whether or not they should take a run.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cricket",
+              "of a batsman"
+            ],
+            "label_groups": [
+              "cricket",
+              "of a batsman"
+            ]
+          },
+          {
+            "definition": ": To shout to other fielders that he intends to take a catch (thus avoiding collisions ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "baseball",
+              "cricket",
+              "of a fielder"
+            ],
+            "label_groups": [
+              "baseball , cricket",
+              "of a fielder"
+            ]
+          },
+          {
+            "definition": "To tell in advance which shot one is attempting.",
+            "examples": [
+              "Every shot must be called ."
+            ],
+            "synonyms": [
+              "name",
+              "nominate"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "cue sports"
+            ],
+            "label_groups": "cue sports"
+          },
+          {
+            "definition": "To equal the same amount that other players are currently betting.",
+            "examples": [
+              "I bet $800 and Jane raised to $1600. My options: call (match her $1600 bet), reraise , or fold."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "poker"
+            ],
+            "label_groups": "intransitive , poker"
+          },
+          {
+            "definition": "To match the current bet amount, in preparation for a raise in the same turn. (Usually, players are forbidden to announce one's play this way.)",
+            "examples": [
+              "I’ll call your 300, and raise to 600!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "poker",
+              "proscribed"
+            ],
+            "label_groups": "intransitive , poker , proscribed"
+          },
+          {
+            "definition": "To state , or invoke a rule , in many games such as bridge , craps , jacks , and so on.",
+            "examples": [
+              "My partner called two spades."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading",
+          "sports"
+        ],
+        "label_groups": "heading , sports"
+      },
+      {
+        "definition": "To require , demand .",
+        "examples": [
+          "He felt called to help the old man."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sometimes with for"
+        ],
+        "label_groups": "transitive , sometimes with for"
+      },
+      {
+        "definition": "To cause to be verbally subjected to.",
+        "examples": [
+          "The basis for his conclusion was called into doubt"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "with into"
+        ],
+        "label_groups": "transitive , with into"
+      },
+      {
+        "definition": "To lay claim to an object or role which is up for grabs .",
+        "examples": [
+          "I call the comfy chair!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To announce the early extinction of a debt by prepayment , usually at a premium .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      },
+      {
+        "definition": "To demand repayment of a loan .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "banking"
+        ],
+        "label_groups": "transitive , banking"
+      },
+      {
+        "definition": "To jump to (another part of a program ); to perform some operation , returning to the original point on completion .",
+        "examples": [
+          "A recursive function is one that calls itself."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( heading ) To reach out with one's voice .",
+    "secondary_definitions": [
+      "( heading , intransitive ) To visit .",
+      "( heading ) To name , identify , or describe .",
+      "( heading ) To declare , or declare in favor of , a predicted or actual result .",
+      "( heading , sports ) Direct or indirect use of the voice.",
+      "( transitive , sometimes with for ) To require , demand .",
+      "( transitive , with into ) To cause to be verbally subjected to.",
+      "( transitive , colloquial ) To lay claim to an object or role which is up for grabs .",
+      "( transitive , finance ) To announce the early extinction of a debt by prepayment , usually at a premium .",
+      "( transitive , banking ) To demand repayment of a loan .",
+      "( transitive , computing ) To jump to (another part of a program ); to perform some operation , returning to the original point on completion ."
+    ]
+  }
+]

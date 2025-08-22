@@ -1,0 +1,63 @@
+[
+  {
+    "word": "synchronous",
+    "lemma": "synchronous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪŋkɹənəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more synchronous",
+          "SUP": "most synchronous"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "At the same time , at the same frequency .",
+        "examples": [],
+        "synonyms": [
+          "simultaneous",
+          "in phase",
+          "in sync",
+          "in step",
+          "synchronised",
+          "nonasynchronous",
+          "metachronous"
+        ],
+        "antonyms": [
+          "asynchronous",
+          "antisynchronous"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Single-threaded; blocking; occurring in the same thread as other computations, thereby preventing those computations from resuming until the communication is complete.",
+        "examples": [],
+        "synonyms": [
+          "blocking",
+          "modal",
+          "single-threaded"
+        ],
+        "antonyms": [
+          "asynchronous"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of communication"
+        ],
+        "label_groups": "computing , of communication"
+      }
+    ],
+    "main_definition": "At the same time , at the same frequency .",
+    "secondary_definitions": [
+      "( computing , of communication ) Single-threaded; blocking; occurring in the same thread as other computations, thereby preventing those computations from resuming until the communication is complete."
+    ]
+  }
+]

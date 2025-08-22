@@ -1,0 +1,123 @@
+[
+  {
+    "word": "field",
+    "lemma": "field",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fiːld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fields",
+          "PT": "fielded",
+          "PAP": "fielded",
+          "PRP": "fielding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To intercept or catch (a ball) and play it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To be the team catching and throwing the ball, as opposed to hitting it.",
+        "examples": [
+          "The blue team are fielding first, while the reds are batting."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "baseball",
+          "softball",
+          "cricket",
+          "other batting sports"
+        ],
+        "label_groups": "intransitive , baseball , softball , cricket , and other batting sports"
+      },
+      {
+        "definition": "To place ( a team, its players, etc. ) in a game.",
+        "examples": [
+          "The away team fielded two new players and the second-choice goalkeeper."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To answer ; to address .",
+        "examples": [
+          "She will field questions immediately after her presentation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To execute research (in the field).",
+        "examples": [
+          "He fielded the marketing survey about the upcoming product."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deploy in the field.",
+        "examples": [
+          "to field a new land-mine detector"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      }
+    ],
+    "main_definition": "( transitive , sports ) To intercept or catch (a ball) and play it.",
+    "secondary_definitions": [
+      "( intransitive , baseball , softball , cricket , and other batting sports ) To be the team catching and throwing the ball, as opposed to hitting it.",
+      "( transitive , sports ) To place ( a team, its players, etc. ) in a game.",
+      "( transitive ) To answer ; to address .",
+      "( transitive ) To execute research (in the field).",
+      "( transitive , military ) To deploy in the field."
+    ]
+  }
+]

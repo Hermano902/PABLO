@@ -1,0 +1,69 @@
+[
+  {
+    "word": "neighbour",
+    "lemma": "neighbour",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪbə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "neighbours",
+          "PT": "neighboured",
+          "PAP": "neighboured",
+          "PRP": "neighbouring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be adjacent to",
+        "examples": [
+          "Though France neighbours Germany, its culture is significantly different."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be similar to, to be almost the same as.",
+        "examples": [
+          "That sort of talk is neighbouring on treason."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "followed by \"on\"",
+          "figurative"
+        ],
+        "label_groups": "intransitive , followed by \"on\"; figurative"
+      },
+      {
+        "definition": "To associate intimately with; to be close to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To be adjacent to",
+    "secondary_definitions": [
+      "( intransitive , followed by \"on\"; figurative ) To be similar to, to be almost the same as.",
+      "To associate intimately with; to be close to."
+    ]
+  }
+]

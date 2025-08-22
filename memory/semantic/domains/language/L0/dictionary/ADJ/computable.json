@@ -1,0 +1,81 @@
+[
+  {
+    "word": "computable",
+    "lemma": "computable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpjuːtəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being computed , or enumerated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a problem , solvable by a Turing machine or any thereto Turing-equivalent model ; Turing-computable .",
+        "examples": [],
+        "synonyms": [
+          "decidable",
+          "solvable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "of a number , able to be approximated to arbitrary precision by a computable function",
+        "examples": [],
+        "synonyms": [
+          "recursive",
+          "effective"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Of a countably infinite set, having a computable indicator function .",
+        "examples": [],
+        "synonyms": [
+          "recursive",
+          "decidable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory"
+        ],
+        "label_groups": "mathematics , set theory"
+      }
+    ],
+    "main_definition": "Capable of being computed , or enumerated .",
+    "secondary_definitions": [
+      "( computing theory ) Of a problem , solvable by a Turing machine or any thereto Turing-equivalent model ; Turing-computable .",
+      "( mathematics ) of a number , able to be approximated to arbitrary precision by a computable function",
+      "( mathematics , set theory ) Of a countably infinite set, having a computable indicator function ."
+    ]
+  }
+]

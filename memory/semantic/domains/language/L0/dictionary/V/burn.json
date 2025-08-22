@@ -1,0 +1,446 @@
+[
+  {
+    "word": "burn",
+    "lemma": "burn",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɜːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "burns",
+          "PT": "burned",
+          "PAP": "burned",
+          "PRP": "burning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause to be consumed by fire .",
+        "examples": [
+          "He burned his manuscript in the fireplace."
+        ],
+        "synonyms": [
+          "cinder",
+          "forsweal",
+          "incinerate",
+          "singe",
+          "torch"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be consumed by fire , or in flames .",
+        "examples": [
+          "He watched the house burn ."
+        ],
+        "synonyms": [
+          "combust",
+          "go up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To overheat so as to make unusable.",
+        "examples": [
+          "He burned the toast. The blacksmith burned the steel."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become overheated to the point of being unusable.",
+        "examples": [
+          "The grill was too hot and the steak burned ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make or produce by the application of fire or burning heat.",
+        "examples": [
+          "to burn a hole;  to burn letters into a block"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To injure (a person or animal) with heat or chemicals that produce similar damage .",
+        "examples": [
+          "She burned the child with an iron, and was jailed for ten years."
+        ],
+        "synonyms": [
+          "scathe",
+          "vitriolize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cauterize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "surgery"
+        ],
+        "label_groups": "transitive , surgery"
+      },
+      {
+        "definition": "To sunburn .",
+        "examples": [
+          "She forgot to put on sunscreen and burned ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To consume, damage, or change the condition of, as if by action of fire or heat; to affect as fire or heat does.",
+        "examples": [
+          "to burn the mouth with pepper"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be hot , e.g. due to embarrassment .",
+        "examples": [
+          "The child’s forehead was burning with fever.  Her cheeks burned with shame."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to combine with oxygen or other active agent, with evolution of heat; to consume; to oxidize.",
+        "examples": [
+          "to burn iron in oxygen",
+          "A human being burns a certain amount of carbon at each respiration."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "transitive"
+        ],
+        "label_groups": "chemistry , transitive"
+      },
+      {
+        "definition": "To combine energetically, with evolution of heat.",
+        "examples": [
+          "Copper burns in chlorine."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "dated"
+        ],
+        "label_groups": "chemistry , dated"
+      },
+      {
+        "definition": "To write data to a permanent storage medium like a compact disc or a ROM chip.",
+        "examples": [
+          "We’ll burn this program onto an EEPROM one hour before the demo begins."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To render subtitles into a video's content while transcoding it, making the subtitles part of the image ( hardsubs ).",
+        "examples": [
+          "My old DVD player could play DivX files but didn't recognize the subtitle file, so I had to burn them in."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "by extension"
+        ],
+        "label_groups": "transitive , computing , by extension"
+      },
+      {
+        "definition": "To betray .",
+        "examples": [
+          "The informant burned him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To insult or defeat .",
+        "examples": [
+          "I just burned you again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To waste (time); to waste money or other resources.",
+        "examples": [
+          "We have an hour to burn .",
+          "The company has burned more than a million dollars a month this year."
+        ],
+        "synonyms": [
+          "fritter",
+          "squander"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "In certain games, to approach near to a concealed object which is sought.",
+        "examples": [
+          "You’re cold… warm… hot… you’re burning !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To accidentally touch a moving stone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "curling"
+        ],
+        "label_groups": "intransitive , curling"
+      },
+      {
+        "definition": "In pontoon , to swap a pair of cards for another pair, or to deal a dead card.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "card games"
+        ],
+        "label_groups": "transitive , card games"
+      },
+      {
+        "definition": "To increase the exposure for certain areas of a print in order to make them lighter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "photography"
+        ],
+        "label_groups": "photography"
+      },
+      {
+        "definition": "To be converted to another element in a nuclear fusion reaction, especially in a star .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physics",
+          "of an element"
+        ],
+        "label_groups": "intransitive , physics , of an element"
+      },
+      {
+        "definition": "To discard .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang",
+          "card games",
+          "gambling"
+        ],
+        "label_groups": "intransitive , slang , card games , gambling"
+      },
+      {
+        "definition": "To shoot someone with a firearm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To compromise (an agent's cover story ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "espionage"
+        ],
+        "label_groups": "transitive , espionage"
+      },
+      {
+        "definition": "To blackmail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "espionage"
+        ],
+        "label_groups": "transitive , espionage"
+      },
+      {
+        "definition": "To desire or ache for (something); to focus on attaining (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "slang",
+          "US"
+        ],
+        "label_groups": "intransitive , slang , US"
+      }
+    ],
+    "main_definition": "( transitive ) To cause to be consumed by fire .",
+    "secondary_definitions": [
+      "( intransitive ) To be consumed by fire , or in flames .",
+      "( transitive ) To overheat so as to make unusable.",
+      "( intransitive ) To become overheated to the point of being unusable.",
+      "( transitive ) To make or produce by the application of fire or burning heat.",
+      "( transitive ) To injure (a person or animal) with heat or chemicals that produce similar damage .",
+      "( transitive , surgery ) To cauterize .",
+      "( ambitransitive ) To sunburn .",
+      "( transitive ) To consume, damage, or change the condition of, as if by action of fire or heat; to affect as fire or heat does.",
+      "( intransitive ) To be hot , e.g. due to embarrassment .",
+      "( chemistry , transitive ) To cause to combine with oxygen or other active agent, with evolution of heat; to consume; to oxidize.",
+      "( chemistry , dated ) To combine energetically, with evolution of heat.",
+      "( transitive , computing ) To write data to a permanent storage medium like a compact disc or a ROM chip.",
+      "( transitive , computing , by extension ) To render subtitles into a video's content while transcoding it, making the subtitles part of the image ( hardsubs ).",
+      "( transitive , slang ) To betray .",
+      "( transitive , slang ) To insult or defeat .",
+      "( transitive ) To waste (time); to waste money or other resources.",
+      "In certain games, to approach near to a concealed object which is sought.",
+      "( intransitive , curling ) To accidentally touch a moving stone .",
+      "( transitive , card games ) In pontoon , to swap a pair of cards for another pair, or to deal a dead card.",
+      "( photography ) To increase the exposure for certain areas of a print in order to make them lighter .",
+      "( intransitive , physics , of an element ) To be converted to another element in a nuclear fusion reaction, especially in a star .",
+      "( intransitive , slang , card games , gambling ) To discard .",
+      "( transitive , slang ) To shoot someone with a firearm .",
+      "( transitive , espionage ) To compromise (an agent's cover story ).",
+      "( transitive , espionage ) To blackmail .",
+      "( intransitive , slang , US ) To desire or ache for (something); to focus on attaining (something)."
+    ]
+  }
+]

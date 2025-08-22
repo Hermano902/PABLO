@@ -1,0 +1,79 @@
+[
+  {
+    "word": "invisible",
+    "lemma": "invisible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈvɪzəb(ə)l/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unable to be seen ; out of sight ; not visible .",
+        "examples": [],
+        "synonyms": [
+          "unseeable",
+          "unvisible"
+        ],
+        "antonyms": [
+          "apparent",
+          "visible"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not appearing on the surface .",
+        "examples": [],
+        "synonyms": [
+          "invis",
+          "hidden",
+          "latent"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Apparently, but not actually, offline .",
+        "examples": [
+          "I went invisible so that my ex-girlfriend wouldn't send me instant messages."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "That is ignored by a person.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      }
+    ],
+    "main_definition": "Unable to be seen ; out of sight ; not visible .",
+    "secondary_definitions": [
+      "Not appearing on the surface .",
+      "( Internet ) Apparently, but not actually, offline .",
+      "( psychology ) That is ignored by a person."
+    ]
+  }
+]

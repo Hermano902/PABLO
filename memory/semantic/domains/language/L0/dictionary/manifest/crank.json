@@ -1,0 +1,38 @@
+{
+  "word": "crank",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "N:2",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 15,
+      "examples": 7,
+      "synonyms": 6,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\crank.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\crank.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\crank.json"
+  },
+  "timestamp": "2025-08-19T00:58:31.045013Z"
+}

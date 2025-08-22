@@ -1,0 +1,35 @@
+[
+  {
+    "word": "trojan",
+    "lemma": "trojan",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹəʊd͡ʒən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "trojans"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Malware that appears to perform or actually performs a desired task for a user while performing a harmful task without the user's knowledge or consent.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Malware that appears to perform or actually performs a desired task for a user while performing a harmful task without the user's knowledge or consent.",
+    "secondary_definitions": []
+  }
+]

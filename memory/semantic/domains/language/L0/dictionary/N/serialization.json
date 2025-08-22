@@ -1,0 +1,45 @@
+[
+  {
+    "word": "serialization",
+    "lemma": "serialization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "serializations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process or action of converting something in a serial or into serial form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of serializing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The process or action of converting something in a serial or into serial form.",
+    "secondary_definitions": [
+      "( computing ) The process of serializing ."
+    ]
+  }
+]

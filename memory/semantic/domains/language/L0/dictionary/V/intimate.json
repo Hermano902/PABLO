@@ -1,0 +1,59 @@
+[
+  {
+    "word": "intimate",
+    "lemma": "intimate",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪn.tɪ.mət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "intimates",
+          "PT": "intimated",
+          "PAP": "intimated",
+          "PRP": "intimating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To suggest or disclose (something) discreetly .",
+        "examples": [
+          "He intimated that we should leave before the argument escalated."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To notify .",
+        "examples": [
+          "I will intimate you when the details are available."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "India"
+        ],
+        "label_groups": "transitive , India"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To suggest or disclose (something) discreetly .",
+    "secondary_definitions": [
+      "( transitive , India ) To notify ."
+    ]
+  }
+]

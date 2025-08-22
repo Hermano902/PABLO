@@ -1,0 +1,45 @@
+[
+  {
+    "word": "download",
+    "lemma": "download",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnˌləʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "downloads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A file transfer to a given computer or device from a remote one through a network connection .",
+        "examples": [
+          "The download took longer than I expected."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A file that has been or is intended to be transferred in this way .",
+        "examples": [
+          "I got the download but it wouldn't work on my computer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A file transfer to a given computer or device from a remote one through a network connection .",
+    "secondary_definitions": [
+      "A file that has been or is intended to be transferred in this way ."
+    ]
+  }
+]

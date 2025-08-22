@@ -1,0 +1,53 @@
+[
+  {
+    "word": "wander",
+    "lemma": "wander",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɒndə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wanders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act or instance of wandering.",
+        "examples": [
+          "to go for a wander in the park"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Deviation from a correct or normal value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "of a value",
+          "signal or similar"
+        ],
+        "label_groups": "uncountable , of a value, signal or similar"
+      }
+    ],
+    "main_definition": "( countable ) An act or instance of wandering.",
+    "secondary_definitions": [
+      "( uncountable , of a value, signal or similar ) Deviation from a correct or normal value."
+    ]
+  }
+]

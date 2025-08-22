@@ -1,0 +1,70 @@
+[
+  {
+    "word": "competition",
+    "lemma": "competition",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkɒmpəˈtɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "competitions"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The action of competing .",
+        "examples": [
+          "The competition for this job is strong."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A contest for a prize or award.",
+        "examples": [
+          "The newspaper is featuring a competition to win a car."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The competitors in such a contest.",
+        "examples": [
+          "The new stain remover was ten times more effective than the competition ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "collectively"
+        ],
+        "label_groups": "uncountable , collectively"
+      }
+    ],
+    "main_definition": "( uncountable ) The action of competing .",
+    "secondary_definitions": [
+      "( countable ) A contest for a prize or award.",
+      "( uncountable , collectively ) The competitors in such a contest."
+    ]
+  }
+]

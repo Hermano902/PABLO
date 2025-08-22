@@ -1,0 +1,64 @@
+[
+  {
+    "word": "namesake",
+    "lemma": "namesake",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪmseɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "namesakes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An entity that lends its name to another entity.",
+        "examples": [],
+        "synonyms": [
+          "eponym"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A person with the same name as another. One who is named after another, often a child named after the parent or an ancestor. One for whom another is named, often the parent or ancestor who gave the name to a child.",
+            "examples": [
+              "The statesman Winston Churchill has a namesake , the American novelist Winston Churchill .",
+              "Bill Sr's namesake , Bill Jr, is 30 years younger.",
+              "Bill Jr's namesake , Bill Sr, is 30 years older."
+            ],
+            "synonyms": [
+              "eponym"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Something (especially a ship , a building , or a medical condition, symptom , or sign) that is named after someone or something.",
+        "examples": [],
+        "synonyms": [
+          "eponym"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "An entity that lends its name to another entity.",
+    "secondary_definitions": [
+      "( by extension ) Something (especially a ship , a building , or a medical condition, symptom , or sign) that is named after someone or something."
+    ]
+  }
+]

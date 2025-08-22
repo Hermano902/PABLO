@@ -1,0 +1,102 @@
+[
+  {
+    "word": "vietnam",
+    "lemma": "vietnam",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/(ˈ)viːətˈnɑːm/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A country in Southeast Asia . Official name: Socialist Republic of Vietnam . Capital: Hanoi .",
+        "examples": [],
+        "synonyms": [
+          "Socialist Republic of Vietnam",
+          "Nam"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chiefly US , colloquial ) The Vietnam War .",
+        "examples": [],
+        "synonyms": [
+          "Nam"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A country in Southeast Asia . Official name: Socialist Republic of Vietnam . Capital: Hanoi .",
+    "secondary_definitions": [
+      "( chiefly US , colloquial ) The Vietnam War ."
+    ]
+  },
+  {
+    "word": "vietnam",
+    "lemma": "vietnam",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/(ˈ)viːətˈnɑːm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "Vietnams"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A long and protracted war or conflict in which the dominating foreign occupier is unable to secure a victory.",
+        "examples": [
+          "another Vietnam"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A place that is very dangerous, especially if afflicted by violence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "slang"
+        ],
+        "label_groups": "US , slang"
+      },
+      {
+        "definition": "A situation in which one cannot win .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "slang",
+          "by extension"
+        ],
+        "label_groups": "US , slang , by extension"
+      }
+    ],
+    "main_definition": "A long and protracted war or conflict in which the dominating foreign occupier is unable to secure a victory.",
+    "secondary_definitions": [
+      "( US , slang ) A place that is very dangerous, especially if afflicted by violence.",
+      "( US , slang , by extension ) A situation in which one cannot win ."
+    ]
+  }
+]

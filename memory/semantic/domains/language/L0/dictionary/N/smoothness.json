@@ -1,0 +1,63 @@
+[
+  {
+    "word": "smoothness",
+    "lemma": "smoothness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "smoothnesses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The condition of being smooth ; the degree or measure of said condition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The highest order of derivative (the differentiability class ) over a given domain .",
+        "examples": [
+          "Smoothness can vary from 0 (for a nondifferentiable function) to infinity (for a smooth function )."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis",
+          "of a function"
+        ],
+        "label_groups": "mathematical analysis , of a function"
+      },
+      {
+        "definition": "The quantity measured by the modulus of smoothness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "approximation theory",
+          "numerical analysis",
+          "of a function"
+        ],
+        "label_groups": "approximation theory , numerical analysis , of a function"
+      }
+    ],
+    "main_definition": "The condition of being smooth ; the degree or measure of said condition.",
+    "secondary_definitions": [
+      "( mathematical analysis , of a function ) The highest order of derivative (the differentiability class ) over a given domain .",
+      "( approximation theory , numerical analysis , of a function ) The quantity measured by the modulus of smoothness ."
+    ]
+  }
+]

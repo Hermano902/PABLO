@@ -1,0 +1,96 @@
+[
+  {
+    "word": "ignite",
+    "lemma": "ignite",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈnaɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ignites",
+          "PT": "ignited",
+          "PAP": "ignited",
+          "PRP": "igniting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "to set fire to (something), to light (something)",
+        "examples": [],
+        "synonyms": [
+          "inflame",
+          "kindle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to spark off (something), to trigger",
+        "examples": [
+          "ignite curiosity",
+          "ignite someone's interest"
+        ],
+        "synonyms": [
+          "engender",
+          "provoke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to commence burning.",
+        "examples": [],
+        "synonyms": [
+          "catch fire",
+          "combust",
+          "go up in flames"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To subject to the action of intense heat; to heat strongly; often said of incombustible or infusible substances .",
+        "examples": [
+          "to ignite iron or platinum"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "transitive"
+        ],
+        "label_groups": "chemistry , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) to set fire to (something), to light (something)",
+    "secondary_definitions": [
+      "( transitive ) to spark off (something), to trigger",
+      "( intransitive ) to commence burning.",
+      "( chemistry , transitive ) To subject to the action of intense heat; to heat strongly; often said of incombustible or infusible substances ."
+    ]
+  }
+]

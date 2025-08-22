@@ -1,0 +1,71 @@
+[
+  {
+    "word": "constant",
+    "lemma": "constant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒnstənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "constants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which is permanent or invariable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A quantity that remains at a fixed value throughout a given discussion.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "Any property of an experiment, determined numerically, that does not change under given circumstances.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences"
+        ],
+        "label_groups": "sciences"
+      },
+      {
+        "definition": "An identifier that is bound to an invariant value; a fixed value given a name to aid in readability of source code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "That which is permanent or invariable .",
+    "secondary_definitions": [
+      "( algebra ) A quantity that remains at a fixed value throughout a given discussion.",
+      "( sciences ) Any property of an experiment, determined numerically, that does not change under given circumstances.",
+      "( computing ) An identifier that is bound to an invariant value; a fixed value given a name to aid in readability of source code ."
+    ]
+  }
+]

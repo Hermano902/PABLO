@@ -1,0 +1,100 @@
+[
+  {
+    "word": "far",
+    "lemma": "far",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/fɑː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "further",
+          "SUP": "furthermost"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Distant ; remote in space.",
+        "examples": [
+          "He went to a far land."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Remote in time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Long. (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "More remote of two.",
+        "examples": [
+          "See those two mountains? The ogre lives on the far one.",
+          "He moved to the far end of the state. She remained at this end."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Extreme, as measured from some central or neutral position.",
+        "examples": [
+          "They are on the far right on this issue."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Extreme , as a difference in nature or quality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Outside the currently selected segment in a segmented memory architecture .",
+        "examples": [
+          "far heap; far memory; far pointer"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "not comparable"
+        ],
+        "label_groups": "programming , not comparable"
+      }
+    ],
+    "main_definition": "Distant ; remote in space.",
+    "secondary_definitions": [
+      "Remote in time.",
+      "Long. (Can we add an example for this sense?)",
+      "More remote of two.",
+      "Extreme, as measured from some central or neutral position.",
+      "Extreme , as a difference in nature or quality.",
+      "( programming , not comparable ) Outside the currently selected segment in a segmented memory architecture ."
+    ]
+  }
+]

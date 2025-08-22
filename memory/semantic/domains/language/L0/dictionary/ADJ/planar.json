@@ -1,0 +1,73 @@
+[
+  {
+    "word": "planar",
+    "lemma": "planar",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpleɪnɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more planar",
+          "SUP": "most planar"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or pertaining to a plane .",
+        "examples": [
+          "A planar projection of a three-dimensional object is its projection onto a plane."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Flat , two-dimensional .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be embedded in the plane with no edges intersecting .",
+        "examples": [
+          "A complete graph with more than four nodes is never planar ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "of a graph"
+        ],
+        "label_groups": "graph theory , of a graph"
+      },
+      {
+        "definition": "Having a flat profile, not etched into a mesa .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transistor chip",
+          "semiconductor devices"
+        ],
+        "label_groups": "transistor chip , semiconductor devices"
+      }
+    ],
+    "main_definition": "Of or pertaining to a plane .",
+    "secondary_definitions": [
+      "Flat , two-dimensional .",
+      "( graph theory , of a graph ) Able to be embedded in the plane with no edges intersecting .",
+      "( transistor chip , semiconductor devices ) Having a flat profile, not etched into a mesa ."
+    ]
+  }
+]

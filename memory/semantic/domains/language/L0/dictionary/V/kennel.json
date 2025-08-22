@@ -1,0 +1,69 @@
+[
+  {
+    "word": "kennel",
+    "lemma": "kennel",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɛ.nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "kennels",
+          "PT": "kenneled",
+          "PAP": "kenneled",
+          "PRP": "kenneling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To house or board a dog (or less commonly another animal).",
+        "examples": [
+          "While we're away our friends will kennel our pet poodle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lie or lodge; to dwell, as a dog or a fox.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To drive (a fox) to covert in its hole.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To house or board a dog (or less commonly another animal).",
+    "secondary_definitions": [
+      "( intransitive ) To lie or lodge; to dwell, as a dog or a fox.",
+      "( transitive ) To drive (a fox) to covert in its hole."
+    ]
+  }
+]

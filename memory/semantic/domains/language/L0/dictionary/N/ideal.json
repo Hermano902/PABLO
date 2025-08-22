@@ -1,0 +1,108 @@
+[
+  {
+    "word": "ideal",
+    "lemma": "ideal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-iːəl",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ideals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A two-sided ideal ; a subset of a ring which is closed under both left and right multiplication by elements of the ring.",
+        "examples": [
+          "Let Z {\\displaystyle \\mathbb {Z} } be the ring of integers and let 2 Z {\\displaystyle 2\\mathbb {Z} } be its ideal of even integers. Then the quotient ring Z / 2 Z {\\displaystyle \\mathbb {Z} /2\\mathbb {Z} } is a Boolean ring.",
+          "The product of two ideals a {\\displaystyle {\\mathfrak {a}}} and b {\\displaystyle {\\mathfrak {b}}} is an ideal a b {\\displaystyle {\\mathfrak {ab}}} which is a subset of the intersection of a {\\displaystyle {\\mathfrak {a}}} and b {\\displaystyle {\\mathfrak {b}}} . This should help to understand why maximal ideals are prime ideals . Likewise, the union of a {\\displaystyle {\\mathfrak {a}}} and b {\\displaystyle {\\mathfrak {b}}} is a subset of a + b {\\displaystyle {\\mathfrak {a+b}}} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "ring theory"
+        ],
+        "label_groups": "algebra , ring theory"
+      },
+      {
+        "definition": "A non- empty lower set (of a partially ordered set ) which is closed under binary suprema (a.k.a. joins ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "order theory",
+          "lattice theory"
+        ],
+        "label_groups": "algebra , order theory , lattice theory"
+      },
+      {
+        "definition": "A collection of sets, considered small or negligible , such that every subset of each member and the union of any two members are also members of the collection.",
+        "examples": [
+          "Formally, an ideal I {\\displaystyle I} of a given set X {\\displaystyle X} is a nonempty subset of the powerset P ( X ) {\\displaystyle {\\mathcal {P}}(X)} such that: ( 1 ) ∅ ∈ I {\\displaystyle (1)\\ \\emptyset \\in I} , ( 2 ) A ∈ I ∧ B ⊆ A ⟹ B ∈ I {\\displaystyle (2)\\ A\\in I\\land B\\subseteq A\\implies B\\in I} and ( 3 ) A , B ∈ I ⟹ A ∪ B ∈ I {\\displaystyle (3)\\ A,B\\in I\\implies A\\cup B\\in I} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      },
+      {
+        "definition": "A Lie subalgebra (subspace that is closed under the Lie bracket ) 𝖍 of a given Lie algebra 𝖌 such that the Lie bracket [𝖌,𝖍] is a subset of 𝖍.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "Lie theory"
+        ],
+        "label_groups": "algebra , Lie theory"
+      },
+      {
+        "definition": "A subsemigroup with the property that if any semigroup element outside of it is added to any one of its members, the result must lie outside of it.",
+        "examples": [
+          "The set of natural numbers with multiplication as the monoid operation (instead of addition) has multiplicative ideals , such as, for example, the set {1, 3, 9, 27, 81, ...}. If any member of it is multiplied by a number which is not a power of 3 then the result will not be a power of three."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+    "secondary_definitions": [
+      "( algebra , ring theory ) A two-sided ideal ; a subset of a ring which is closed under both left and right multiplication by elements of the ring.",
+      "( algebra , order theory , lattice theory ) A non- empty lower set (of a partially ordered set ) which is closed under binary suprema (a.k.a. joins ).",
+      "( set theory ) A collection of sets, considered small or negligible , such that every subset of each member and the union of any two members are also members of the collection.",
+      "( algebra , Lie theory ) A Lie subalgebra (subspace that is closed under the Lie bracket ) 𝖍 of a given Lie algebra 𝖌 such that the Lie bracket [𝖌,𝖍] is a subset of 𝖍.",
+      "( algebra ) A subsemigroup with the property that if any semigroup element outside of it is added to any one of its members, the result must lie outside of it."
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "cross",
+    "lemma": "cross",
+    "etymology": "Etymology",
+    "pos": "PREP",
+    "raw_label": "Preposition",
+    "pos_index": 1,
+    "pronunciation": "/kɹɒs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Across .",
+        "examples": [
+          "She walked cross the mountains."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "The cross product of the previous vector and the following vector.",
+        "examples": [
+          "The Lorentz force is q times v cross B."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( archaic ) Across .",
+    "secondary_definitions": [
+      "The cross product of the previous vector and the following vector."
+    ]
+  }
+]

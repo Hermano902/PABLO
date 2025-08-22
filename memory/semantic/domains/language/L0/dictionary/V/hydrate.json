@@ -1,0 +1,69 @@
+[
+  {
+    "word": "hydrate",
+    "lemma": "hydrate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/haɪˈdɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hydrates",
+          "PT": "hydrated",
+          "PAP": "hydrated",
+          "PRP": "hydrating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take up, consume or become linked to water.",
+        "examples": [
+          "A lotion can hydrate the skin."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To drink water.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "To load data from a database record into an object 's variables",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( transitive ) To take up, consume or become linked to water.",
+    "secondary_definitions": [
+      "( slang ) To drink water.",
+      "( programming ) To load data from a database record into an object 's variables"
+    ]
+  }
+]

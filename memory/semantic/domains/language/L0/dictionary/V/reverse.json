@@ -1,0 +1,234 @@
+[
+  {
+    "word": "reverse",
+    "lemma": "reverse",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈvɜːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reverses",
+          "PT": "reversed",
+          "PAP": "reversed",
+          "PRP": "reversing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To turn something around so that it faces the opposite direction or runs in the opposite sequence.",
+        "examples": [
+          "to reverse the order of books on a shelf",
+          "to reverse a portion of video footage"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To turn something inside out or upside down .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To transpose the positions of two things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To change totally; to alter to the opposite.",
+        "examples": [
+          "All trends reverse eventually."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To return , come back .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      },
+      {
+        "definition": "To turn away; to cause to depart.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To cause to return; to recall.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To revoke a law, or to change a decision into its opposite.",
+        "examples": [
+          "to reverse a judgment, sentence, or decree"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "To cause a mechanism to operate or move in the opposite direction to normal; to drive a vehicle in the direction the driver has the back .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative",
+          "transport"
+        ],
+        "label_groups": "ergative , transport"
+      },
+      {
+        "definition": "To change the direction of a reaction such that the products become the reactants and vice-versa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "To place (a set of points ) in the reverse position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "transitive"
+        ],
+        "label_groups": "rail transport , transitive"
+      },
+      {
+        "definition": "To move from the normal position to the reverse position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport",
+          "intransitive",
+          "of points"
+        ],
+        "label_groups": "rail transport , intransitive , of points"
+      },
+      {
+        "definition": "To engage reverse thrust on (an engine).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation",
+          "transitive"
+        ],
+        "label_groups": "aviation , transitive"
+      },
+      {
+        "definition": "To overthrow; to subvert.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ellipsis of reverse-engineer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive ) To turn something around so that it faces the opposite direction or runs in the opposite sequence.",
+    "secondary_definitions": [
+      "( transitive ) To turn something inside out or upside down .",
+      "( transitive ) To transpose the positions of two things.",
+      "( transitive ) To change totally; to alter to the opposite.",
+      "( obsolete , intransitive ) To return , come back .",
+      "( obsolete , transitive ) To turn away; to cause to depart.",
+      "( obsolete , transitive ) To cause to return; to recall.",
+      "( law ) To revoke a law, or to change a decision into its opposite.",
+      "( ergative , transport ) To cause a mechanism to operate or move in the opposite direction to normal; to drive a vehicle in the direction the driver has the back .",
+      "( chemistry ) To change the direction of a reaction such that the products become the reactants and vice-versa.",
+      "( rail transport , transitive ) To place (a set of points ) in the reverse position.",
+      "( rail transport , intransitive , of points ) To move from the normal position to the reverse position.",
+      "( aviation , transitive ) To engage reverse thrust on (an engine).",
+      "To overthrow; to subvert.",
+      "( computing ) Ellipsis of reverse-engineer ."
+    ]
+  }
+]

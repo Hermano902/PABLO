@@ -1,0 +1,67 @@
+[
+  {
+    "word": "detonation",
+    "lemma": "detonation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɛtəˈneɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "detonations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An explosion or sudden report made by the near- instantaneous decomposition or combustion of unstable substances. Specifically, combustion that spreads supersonically via shock compression .",
+        "examples": [
+          "the detonation of gun cotton"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any sudden explosion made by an exothermic process (whether chemical or not) that produces a supersonic shock wave .",
+            "examples": [
+              "a nuclear detonation",
+              "carbon detonation"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension"
+            ],
+            "label_groups": "by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Engine knocking , a type of improper combustion in gasoline piston engines.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanical engineering"
+        ],
+        "label_groups": "mechanical engineering"
+      }
+    ],
+    "main_definition": "( chemistry ) An explosion or sudden report made by the near- instantaneous decomposition or combustion of unstable substances. Specifically, combustion that spreads supersonically via shock compression .",
+    "secondary_definitions": [
+      "( mechanical engineering ) Engine knocking , a type of improper combustion in gasoline piston engines."
+    ]
+  }
+]

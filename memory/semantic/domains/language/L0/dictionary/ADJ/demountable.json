@@ -1,0 +1,50 @@
+[
+  {
+    "word": "demountable",
+    "lemma": "demountable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more demountable",
+          "SUP": "most demountable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be removed from its mount ; designed to be dismantled .",
+        "examples": [],
+        "synonyms": [
+          "dismantlable",
+          "dismantleable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Designed to be removed from the read mechanism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a hard drive",
+          "dated"
+        ],
+        "label_groups": "computing , of a hard drive , dated"
+      }
+    ],
+    "main_definition": "Able to be removed from its mount ; designed to be dismantled .",
+    "secondary_definitions": [
+      "( computing , of a hard drive , dated ) Designed to be removed from the read mechanism."
+    ]
+  }
+]

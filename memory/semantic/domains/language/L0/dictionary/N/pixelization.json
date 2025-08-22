@@ -1,0 +1,51 @@
+[
+  {
+    "word": "pixelization",
+    "lemma": "pixelization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pixelizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The result of enlarging a digital image further than the resolution of the monitor device, usually 72 dpi (dots per inch), causing the individual pixels making up the image to become more prominent, thus causing a grainy appearance in the image.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The blurring of part of an image by setting groups of pixels that are close to each other to the same color.",
+        "examples": [],
+        "synonyms": [
+          "mosaic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The result of enlarging a digital image further than the resolution of the monitor device, usually 72 dpi (dots per inch), causing the individual pixels making up the image to become more prominent, thus causing a grainy appearance in the image.",
+    "secondary_definitions": [
+      "( computing ) The blurring of part of an image by setting groups of pixels that are close to each other to the same color."
+    ]
+  }
+]

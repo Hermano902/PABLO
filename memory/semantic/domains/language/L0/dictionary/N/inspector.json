@@ -1,0 +1,58 @@
+[
+  {
+    "word": "inspector",
+    "lemma": "inspector",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈspɛktə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inspectors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person employed to inspect something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A police officer ranking below superintendent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law enforcement"
+        ],
+        "label_groups": "law enforcement"
+      },
+      {
+        "definition": "A software tool used to examine something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A person employed to inspect something.",
+    "secondary_definitions": [
+      "( law enforcement ) A police officer ranking below superintendent .",
+      "( computing ) A software tool used to examine something."
+    ]
+  }
+]

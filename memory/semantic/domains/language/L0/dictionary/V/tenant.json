@@ -1,0 +1,52 @@
+[
+  {
+    "word": "tenant",
+    "lemma": "tenant",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛ.nənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tenants",
+          "PT": "tenanted",
+          "PAP": "tenanted",
+          "PRP": "tenanting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hold as, or be, a tenant.",
+        "examples": [],
+        "synonyms": [
+          "lodge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To inhabit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "To hold as, or be, a tenant.",
+    "secondary_definitions": [
+      "( transitive ) To inhabit ."
+    ]
+  }
+]

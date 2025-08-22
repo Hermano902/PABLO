@@ -1,0 +1,99 @@
+[
+  {
+    "word": "prompt",
+    "lemma": "prompt",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɹɒmpt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "prompts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A reminder or cue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A word, phrase or line supplied by a prompter to an actor who has forgotten the script .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "theater"
+            ],
+            "label_groups": "theater"
+          },
+          {
+            "definition": "A suggestion for inspiration given to an author.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "writing"
+            ],
+            "label_groups": "writing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A time limit given for payment of an account for produce purchased, this limit varying with different goods.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "business",
+          "dated"
+        ],
+        "label_groups": "business , dated"
+      },
+      {
+        "definition": "A sequence of characters that is displayed to indicate that a computer is ready to receive input.",
+        "examples": [
+          "I filled in my name where the prompt appeared on the computer screen but my account wasn't recognized."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Textual input given to a large language model or image model in order to have it generate a desired output.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "machine learning"
+        ],
+        "label_groups": "machine learning"
+      }
+    ],
+    "main_definition": "A reminder or cue .",
+    "secondary_definitions": [
+      "( business , dated ) A time limit given for payment of an account for produce purchased, this limit varying with different goods.",
+      "( computing ) A sequence of characters that is displayed to indicate that a computer is ready to receive input.",
+      "( machine learning ) Textual input given to a large language model or image model in order to have it generate a desired output."
+    ]
+  }
+]

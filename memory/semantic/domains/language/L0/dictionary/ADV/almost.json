@@ -1,0 +1,65 @@
+[
+  {
+    "word": "almost",
+    "lemma": "almost",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔːɫ.məʊst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Very close to , but not quite .",
+        "examples": [
+          "Almost all people went there.",
+          "We almost missed the train.",
+          "Nobody, or almost , noticed anything unusual."
+        ],
+        "synonyms": [
+          "environ"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Up to , except for a negligible set ( where negligible is not universally but contextually defined ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Up to a null set ; except for a set of measure 0.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "measure theory",
+              "probability theory"
+            ],
+            "label_groups": "measure theory , probability theory"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Very close to , but not quite .",
+    "secondary_definitions": [
+      "( mathematics ) Up to , except for a negligible set ( where negligible is not universally but contextually defined ) ."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "subnormal",
+    "lemma": "subnormal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more subnormal",
+          "SUP": "most subnormal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Less than normal .",
+        "examples": [
+          "His intelligence was considered subnormal , but as a musician he was a genius."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "supernormal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "denormal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "idiot , stupid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "derogatory",
+          "offensive"
+        ],
+        "label_groups": "derogatory , offensive"
+      }
+    ],
+    "main_definition": "Less than normal .",
+    "secondary_definitions": [
+      "( computing theory ) denormal",
+      "( derogatory , offensive ) idiot , stupid ."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "supplicant",
+    "lemma": "supplicant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌplɪkənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "supplicants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "one who comes to humbly ask or petition",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device attempting to authenticate itself to an 802.11 network .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "one who comes to humbly ask or petition",
+    "secondary_definitions": [
+      "( networking ) A device attempting to authenticate itself to an 802.11 network ."
+    ]
+  }
+]

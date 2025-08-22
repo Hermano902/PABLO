@@ -1,0 +1,50 @@
+[
+  {
+    "word": "tainted",
+    "lemma": "tainted",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈteɪntɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more tainted",
+          "SUP": "most tainted"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Corrupted or filled with imperfections .",
+        "examples": [
+          "Hey, get that away from me! It was bought with tainted money."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Originating from an untrusted source.",
+        "examples": [
+          "Do not use tainted values in SQL queries."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer security",
+          "of data"
+        ],
+        "label_groups": "computer security , of data"
+      }
+    ],
+    "main_definition": "Corrupted or filled with imperfections .",
+    "secondary_definitions": [
+      "( computer security , of data ) Originating from an untrusted source."
+    ]
+  }
+]

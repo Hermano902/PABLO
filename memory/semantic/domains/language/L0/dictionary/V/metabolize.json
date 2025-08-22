@@ -1,0 +1,84 @@
+[
+  {
+    "word": "metabolize",
+    "lemma": "metabolize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɪˈtæbəˌlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "metabolizes",
+          "PT": "metabolized",
+          "PAP": "metabolized",
+          "PRP": "metabolizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To undergo metabolism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "intransitive"
+        ],
+        "label_groups": "biology , intransitive"
+      },
+      {
+        "definition": "To cause a substance to undergo metabolism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "transitive"
+        ],
+        "label_groups": "biology , transitive"
+      },
+      {
+        "definition": "To produce a substance using metabolism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "transitive"
+        ],
+        "label_groups": "biology , transitive"
+      },
+      {
+        "definition": "To absorb and process as if by metabolism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "transitive"
+        ],
+        "label_groups": "by extension , transitive"
+      }
+    ],
+    "main_definition": "( biology , intransitive ) To undergo metabolism .",
+    "secondary_definitions": [
+      "( biology , transitive ) To cause a substance to undergo metabolism.",
+      "( biology , transitive ) To produce a substance using metabolism.",
+      "( by extension , transitive ) To absorb and process as if by metabolism."
+    ]
+  }
+]

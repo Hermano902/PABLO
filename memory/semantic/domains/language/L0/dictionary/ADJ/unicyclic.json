@@ -1,0 +1,36 @@
+[
+  {
+    "word": "unicyclic",
+    "lemma": "unicyclic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a single cycle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory",
+          "of a graph"
+        ],
+        "label_groups": "graph theory , of a graph"
+      }
+    ],
+    "main_definition": "( graph theory , of a graph ) Having a single cycle .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "arity",
+    "lemma": "arity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæɹɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "arities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number of arguments or operands a function or operation takes. For a relation , the number of domains in the corresponding Cartesian product .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic",
+          "mathematics",
+          "computer science"
+        ],
+        "label_groups": "logic , mathematics , computer science"
+      },
+      {
+        "definition": "The maximum number of child nodes that any node in a given tree (data structure) may have.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computer science"
+        ],
+        "label_groups": "mathematics , computer science"
+      },
+      {
+        "definition": "the number of arguments (in Lojban grammar called sumti ) specified in the definition of a selbri . (the selbri combined with the sumti make up a bridi ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Lojban grammar"
+        ],
+        "label_groups": "Lojban grammar"
+      }
+    ],
+    "main_definition": "( logic , mathematics , computer science ) The number of arguments or operands a function or operation takes. For a relation , the number of domains in the corresponding Cartesian product .",
+    "secondary_definitions": [
+      "( mathematics , computer science ) The maximum number of child nodes that any node in a given tree (data structure) may have.",
+      "( Lojban grammar ) the number of arguments (in Lojban grammar called sumti ) specified in the definition of a selbri . (the selbri combined with the sumti make up a bridi )."
+    ]
+  }
+]

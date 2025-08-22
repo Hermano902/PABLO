@@ -1,0 +1,32 @@
+{
+  "word": "rail",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 13,
+      "examples": 5,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 0,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\rail.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\rail.json"
+  },
+  "timestamp": "2025-08-19T13:04:16.694867Z"
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "word": "owe",
+    "lemma": "owe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "owes",
+          "PT": "owed",
+          "PAP": "owed",
+          "PRP": "owing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "examples": [
+          "We owe it to our children to make our nation a better place to live in the future.",
+          "I owe Kevin five bucks which he lent to me last week.",
+          "This time I'll cover for you, but now you owe me a favour."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To have debt ; to be in debt.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To have as a cause; used with to .",
+        "examples": [
+          "The record owes its success to the outstanding guitar solos."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ditransitive ) To be under an obligation to give something back to someone or to perform some action for someone.",
+    "secondary_definitions": [
+      "( intransitive ) To have debt ; to be in debt.",
+      "( transitive ) To have as a cause; used with to ."
+    ]
+  }
+]

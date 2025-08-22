@@ -1,0 +1,35 @@
+[
+  {
+    "word": "namespace",
+    "lemma": "namespace",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈneɪmspeɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "namespaces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A conceptual space that groups classes , identifiers , etc. in order to avoid conflicts with items in unrelated code that carry the same names .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A conceptual space that groups classes , identifiers , etc. in order to avoid conflicts with items in unrelated code that carry the same names .",
+    "secondary_definitions": []
+  }
+]

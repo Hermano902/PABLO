@@ -1,0 +1,45 @@
+[
+  {
+    "word": "transducer",
+    "lemma": "transducer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/trænzˈdjuːsə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transducers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A device that converts energy from one form into another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A state machine that generates output based on a given input .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "A device that converts energy from one form into another.",
+    "secondary_definitions": [
+      "( computing theory ) A state machine that generates output based on a given input ."
+    ]
+  }
+]

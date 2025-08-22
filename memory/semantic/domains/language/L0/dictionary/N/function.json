@@ -1,0 +1,177 @@
+[
+  {
+    "word": "function",
+    "lemma": "function",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfʌŋ(k)ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "functions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "What something does or is used for.",
+        "examples": [],
+        "synonyms": [
+          "aim",
+          "intention",
+          "purpose",
+          "role",
+          "use"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A professional or official position.",
+        "examples": [],
+        "synonyms": [
+          "occupation",
+          "office",
+          "part",
+          "role"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An official or social occasion .",
+        "examples": [
+          "Our hotel is hosting a function for all the warehouse workers on the night of April 18."
+        ],
+        "synonyms": [
+          "affair",
+          "occasion",
+          "social occasion",
+          "social function"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A party .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "slang"
+            ],
+            "label_groups": "slang"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Something which is dependent on or stems from another thing; a result or concomitant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A relation where one thing is dependent on another for its existence, value, or significance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A relation in which each element of the domain is associated with exactly one element of the codomain .",
+        "examples": [],
+        "synonyms": [
+          "map",
+          "mapping",
+          "mathematical function",
+          "operator",
+          "transformation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A routine that receives zero or more arguments and may return a result.",
+        "examples": [],
+        "synonyms": [
+          "procedure",
+          "routine",
+          "subprogram",
+          "subroutine",
+          "func",
+          "funct"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The physiological activity of an organ or body part.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "The characteristic behavior of a chemical compound.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "The role of a social practice in the continued existence of the group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anthropology"
+        ],
+        "label_groups": "anthropology"
+      }
+    ],
+    "main_definition": "What something does or is used for.",
+    "secondary_definitions": [
+      "A professional or official position.",
+      "An official or social occasion .",
+      "Something which is dependent on or stems from another thing; a result or concomitant .",
+      "A relation where one thing is dependent on another for its existence, value, or significance.",
+      "( mathematics ) A relation in which each element of the domain is associated with exactly one element of the codomain .",
+      "( computing ) A routine that receives zero or more arguments and may return a result.",
+      "( biology ) The physiological activity of an organ or body part.",
+      "( chemistry ) The characteristic behavior of a chemical compound.",
+      "( anthropology ) The role of a social practice in the continued existence of the group."
+    ]
+  }
+]

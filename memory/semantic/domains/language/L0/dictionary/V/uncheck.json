@@ -1,0 +1,68 @@
+[
+  {
+    "word": "uncheck",
+    "lemma": "uncheck",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈt͡ʃɛk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unchecks",
+          "PT": "unchecked",
+          "PAP": "unchecked",
+          "PRP": "unchecking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove a checkmark .",
+        "examples": [
+          "Uncheck the “save my password” box."
+        ],
+        "synonyms": [
+          "unselect",
+          "untick"
+        ],
+        "antonyms": [
+          "check"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface",
+          "US",
+          "Canada"
+        ],
+        "label_groups": "graphical user interface , US , Canada"
+      },
+      {
+        "definition": "To remove a previously checked-in passenger from the check-in system, allowing changes to the ticket .",
+        "examples": [],
+        "synonyms": [
+          "offload"
+        ],
+        "antonyms": [
+          "check"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "travel",
+          "aviation"
+        ],
+        "label_groups": "travel , aviation"
+      }
+    ],
+    "main_definition": "( graphical user interface , US , Canada ) To remove a checkmark .",
+    "secondary_definitions": [
+      "( travel , aviation ) To remove a previously checked-in passenger from the check-in system, allowing changes to the ticket ."
+    ]
+  }
+]

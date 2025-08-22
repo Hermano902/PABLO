@@ -1,0 +1,50 @@
+[
+  {
+    "word": "last",
+    "lemma": "last",
+    "etymology": "Etymology 1",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/lɑːst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Most recently.",
+        "examples": [
+          "When we last met, he was based in Toronto."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "after everything else; finally",
+        "examples": [
+          "As I arrived last of all, I'll go last to add the butter last .",
+          "last but not least"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sequence"
+        ],
+        "label_groups": "sequence"
+      }
+    ],
+    "main_definition": "Most recently.",
+    "secondary_definitions": [
+      "( sequence ) after everything else; finally"
+    ]
+  }
+]

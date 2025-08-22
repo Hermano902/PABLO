@@ -1,0 +1,32 @@
+{
+  "word": "duck",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "N:4",
+    "V:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 9,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 18,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\duck.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\duck.json"
+  },
+  "timestamp": "2025-08-19T02:27:59.870309Z"
+}

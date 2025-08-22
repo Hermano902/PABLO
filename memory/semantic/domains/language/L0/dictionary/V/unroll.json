@@ -1,0 +1,75 @@
+[
+  {
+    "word": "unroll",
+    "lemma": "unroll",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unrolls",
+          "PT": "unrolled",
+          "PAP": "unrolled",
+          "PRP": "unrolling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To straighten something that has been rolled , twisted or curled .",
+        "examples": [
+          "Unroll your sleeping bag and spread it on the floor of the tent."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To emerge , be revealed or become apparent ; to unfold .",
+        "examples": [
+          "We will have to see how the events unroll ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To replace (a loop in a program ) with a repetitive sequence of the individual instructions that the loop would carry out, sometimes used as an optimization .",
+        "examples": [],
+        "synonyms": [
+          "unwind"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming",
+          "software compilation"
+        ],
+        "label_groups": "transitive , programming , software compilation"
+      }
+    ],
+    "main_definition": "( transitive ) To straighten something that has been rolled , twisted or curled .",
+    "secondary_definitions": [
+      "( intransitive ) To emerge , be revealed or become apparent ; to unfold .",
+      "( transitive , programming , software compilation ) To replace (a loop in a program ) with a repetitive sequence of the individual instructions that the loop would carry out, sometimes used as an optimization ."
+    ]
+  }
+]

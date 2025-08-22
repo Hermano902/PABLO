@@ -1,0 +1,892 @@
+{
+  "PH": {
+    "N": {
+      "head": [
+        "N.TYPE.*",
+        "PRON.TYPE.*",
+        "NUM.TYPE.*"
+      ],
+      "premodifiers": [
+        "DET.TYPE.*",
+        "N.ROLE.MOD",
+        "ADJ.POSITION.ATTR.PRE",
+        "NUM.TYPE.*",
+        "PRON.TYPE.POS",
+        "ADJ.FUNCTION.LIMIT"
+      ],
+      "postmodifiers": [
+        "PH.PR",
+        "PH.ADV",
+        "CL.REL",
+        "CL.THAT",
+        "CL.INF",
+        "CL.GERUND",
+        "CL.NOM",
+        "PH.PART",
+        "CL.APPOS"
+      ],
+      "compound": {
+        "COORD": {
+          "with": [
+            "CONJ.TYPE.COORD"
+          ],
+          "allows": [
+            "PH.N"
+          ]
+        }
+      },
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers"
+      ]
+    },
+    "V": {
+      "head": [
+        "V.TYPE.MAIN",
+        "V.TYPE.LIGHT"
+      ],
+      "auxiliaries": [
+        "V.TYPE.AUX.*",
+        "V.TYPE.MOD.*"
+      ],
+      "premodifiers": [
+        "ADV.FUNCTION.VP",
+        "ADV.SEMANTIC_TYPE.DEG",
+        "ADV.SEMANTIC_TYPE.CERT",
+        "ADV.SEMANTIC_TYPE.CAUSE",
+        "ADV.SEMANTIC_TYPE.REL",
+        "PARTICLE.TYPE.NEG"
+      ],
+      "postmodifiers": [
+        "PH.N",
+        "PH.PR",
+        "ADV",
+        "CL.INF",
+        "CL.GERUND",
+        "CL.THAT",
+        "CL.NOM",
+        "CL.COMP",
+        "PRON",
+        "PH.ADJ"
+      ],
+      "compound": {
+        "COORD": {
+          "with": [
+            "CONJ.TYPE.COORD"
+          ],
+          "allows": [
+            "PH.V"
+          ]
+        }
+      },
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "auxiliaries",
+        "premodifiers",
+        "postmodifiers"
+      ]
+    },
+    "ADJ": {
+      "head": [
+        "ADJ"
+      ],
+      "premodifiers": [
+        "ADV.FUNCTION.ADJ",
+        "ADV.SEMANTIC_TYPE.DEG",
+        "ADV.SEMANTIC_TYPE.CERT",
+        "PARTICLE.TYPE.NEG"
+      ],
+      "postmodifiers": [
+        "PH.PR",
+        "CL.INF",
+        "CL.COMP",
+        "ADV.SEMANTIC_TYPE.WH.*"
+      ],
+      "complements": [
+        "PH.N",
+        "CL.THAT",
+        "CL.INF",
+        "CL.WH",
+        "PH.PR"
+      ],
+      "coordination": {
+        "COORD": {
+          "with": [
+            "CONJ.TYPE.COORD"
+          ],
+          "allows": [
+            "PH.ADJ"
+          ]
+        }
+      },
+      "predicative_position_allowed": true,
+      "attributive_position_allowed": true,
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers",
+        "complements"
+      ]
+    },
+    "ADVP": {
+      "head": [
+        "ADV"
+      ],
+      "premodifiers": [
+        "ADV.FUNCTION.ADV",
+        "ADV.MODIFIABILITY.GR",
+        "ADV.SEMANTIC_TYPE.DEG",
+        "PARTICLE.TYPE.NEG"
+      ],
+      "postmodifiers": [
+        "PH.PR",
+        "CL.INF",
+        "CL.WH",
+        "CL.THAT"
+      ],
+      "complements": [
+        "PH.PR",
+        "PH.N",
+        "CL.INF",
+        "CL.COMP"
+      ],
+      "coordination": {
+        "COORD": {
+          "with": [
+            "CONJ.TYPE.COORD"
+          ],
+          "allows": [
+            "PH.ADV"
+          ]
+        }
+      },
+      "function_contexts": [
+        "PH.V",
+        "SENT",
+        "ADJ",
+        "ADV"
+      ],
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers",
+        "complements"
+      ]
+    },
+    "PR": {
+      "head": [
+        "PREP"
+      ],
+      "premodifiers": [
+        "ADV.SEMANTIC_TYPE.DEG",
+        "ADV.FUNCTION.ADJ"
+      ],
+      "postmodifiers": [
+        "PH.N",
+        "PRON",
+        "GERUND",
+        "CL.THAT",
+        "CL.WH",
+        "CL.INF"
+      ],
+      "complements": [
+        "PH.N",
+        "PRON",
+        "CL.INF",
+        "CL.GER",
+        "PH.PR"
+      ],
+      "discontinuous": {
+        "pattern": [
+          "PREP",
+          "...",
+          "PREP"
+        ],
+        "examples": [
+          "from ... to",
+          "between ... and"
+        ]
+      },
+      "coordination": {
+        "COORD": {
+          "with": [
+            "CONJ.TYPE.COORD"
+          ],
+          "allows": [
+            "PH.PR"
+          ]
+        }
+      },
+      "function_contexts": [
+        "PH.N.POSTMOD",
+        "PH.V.ADJUNCT",
+        "PH.ADJ.POSTMOD",
+        "SENT"
+      ],
+      "required": [
+        "head",
+        "complements"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers"
+      ]
+    },
+    "GER": {
+      "head": [
+        "V.FORM.GER"
+      ],
+      "premodifiers": [
+        "ADV",
+        "NEG"
+      ],
+      "postmodifiers": [
+        "PH.N",
+        "PH.PR",
+        "PH.ADV",
+        "CL.INF",
+        "PH.GER"
+      ],
+      "complements": [
+        "PH.N",
+        "PH.PR",
+        "PRON",
+        "PH.ADJ",
+        "PH.GER",
+        "CL.INF"
+      ],
+      "agents": [
+        "N",
+        "PRON",
+        "DET",
+        "PH.N"
+      ],
+      "roles": [
+        "SUBJ",
+        "OBJ",
+        "COMP",
+        "PREP.OBJ"
+      ],
+      "function_contexts": [
+        "subject",
+        "object",
+        "prepositional complement",
+        "subject complement",
+        "reduced clause"
+      ],
+      "examples": [
+        "Swimming every morning improves my health.",
+        "I enjoy reading old novels.",
+        "She talked about going abroad.",
+        "His leaving surprised us."
+      ],
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers",
+        "complements",
+        "agents"
+      ]
+    },
+    "INF": {
+      "head": [
+        "V.FORM.INF"
+      ],
+      "marker": [
+        "PART.INF"
+      ],
+      "premodifiers": [
+        "ADV",
+        "NEG"
+      ],
+      "postmodifiers": [
+        "PH.N",
+        "PH.PR",
+        "PH.ADV",
+        "CL.INF",
+        "PH.ADJ",
+        "PH.GER"
+      ],
+      "complements": [
+        "PH.N",
+        "PRON",
+        "PH.ADJ",
+        "PH.PR",
+        "CL.INF",
+        "PH.GER"
+      ],
+      "agents": [
+        "N",
+        "PRON",
+        "PH.N",
+        "DET"
+      ],
+      "roles": [
+        "SUBJ",
+        "OBJ",
+        "COMP",
+        "PURP",
+        "RESULT",
+        "REASON"
+      ],
+      "function_contexts": [
+        "subject",
+        "direct object",
+        "subject complement",
+        "purpose clause",
+        "result clause",
+        "reason clause"
+      ],
+      "examples": [
+        "To win was her goal.",
+        "He wants to leave.",
+        "She asked him to help.",
+        "To be honest, I disagree.",
+        "They fought to survive."
+      ],
+      "required": [
+        "marker",
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers",
+        "complements",
+        "agents"
+      ]
+    },
+    "PART": {
+      "head": [
+        "V.FORM.PRP",
+        "V.FORM.PAP"
+      ],
+      "premodifiers": [
+        "ADV",
+        "ADV.SEMANTIC_TYPE.DEG",
+        "NEG"
+      ],
+      "postmodifiers": [
+        "PH.N",
+        "PH.PR",
+        "PH.ADV",
+        "CL.INF",
+        "CL.THAT",
+        "CL.REL"
+      ],
+      "agents": [
+        "PH.N",
+        "PRON",
+        "DET"
+      ],
+      "roles": [
+        "MOD",
+        "ADJUNCT",
+        "DESC",
+        "CONDITION",
+        "CAUSE",
+        "TIME"
+      ],
+      "function_contexts": [
+        "noun postmodifier",
+        "sentence modifier (introductory)",
+        "reduced relative clause",
+        "adverbial clause (cause, time, etc.)"
+      ],
+      "examples": [
+        "Running late, he skipped breakfast.",
+        "Shocked by the news, she gasped.",
+        "The man sitting over there is my uncle.",
+        "Covered in mud, the dog wagged its tail."
+      ],
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "premodifiers",
+        "postmodifiers",
+        "agents"
+      ]
+    },
+    "ABS": {
+      "head": [
+        "PH.N"
+      ],
+      "postmodifiers": [
+        "V.FORM.PRP",
+        "V.FORM.PAP",
+        "PH.ADJ",
+        "PH.PR"
+      ],
+      "function_contexts": [
+        "sentence modifier",
+        "adverbial meaning (time, condition, cause, contrast)",
+        "background information"
+      ],
+      "semantic_roles": [
+        "CIRCUMSTANCE",
+        "CONDITION",
+        "REASON",
+        "CONCESSION",
+        "TIME"
+      ],
+      "examples": [
+        "Her arms folded, she waited quietly.",
+        "The meeting over, everyone left the room.",
+        "Weather permitting, we will go hiking."
+      ],
+      "required": [
+        "head"
+      ],
+      "optional": [
+        "postmodifiers"
+      ]
+    }
+  },
+  "CL": {
+    "TYPE": {
+      "INDEPENDENT": {
+        "DESCRIPTION": "Main clause that expresses a complete, self-contained thought and can stand alone as a sentence.",
+        "FORMS": {
+          "DECL": {
+            "DESCRIPTION": "Makes a statement or expresses facts.",
+            "STRUCTURE": "Subject + Predicate",
+            "PUNCTUATION": "period",
+            "EXAMPLES": [
+              "The dog barked.",
+              "She reads every night."
+            ]
+          },
+          "INT": {
+            "DESCRIPTION": "Forms questions; includes yes/no, wh-, and tag questions.",
+            "SUBTYPES": {
+              "YESNO": {
+                "DESCRIPTION": "Begins with an auxiliary/modal verb.",
+                "STRUCTURE": "Aux + Subject + Verb",
+                "PUNCTUATION": "question mark",
+                "EXAMPLES": [
+                  "Did she call you?",
+                  "Is it raining?"
+                ]
+              },
+              "WH": {
+                "DESCRIPTION": "Begins with an interrogative word.",
+                "STRUCTURE": "Wh-word + Aux + Subject + Verb",
+                "PUNCTUATION": "question mark",
+                "EXAMPLES": [
+                  "What did you say?",
+                  "Where are they going?"
+                ]
+              },
+              "TAG": {
+                "DESCRIPTION": "A short question added to the end of a declarative sentence.",
+                "STRUCTURE": "Statement + , + Aux + Pronoun + ?",
+                "EXAMPLES": [
+                  "You’re coming, aren’t you?",
+                  "She didn’t call, did she?"
+                ]
+              }
+            }
+          },
+          "IMP": {
+            "DESCRIPTION": "Gives commands, instructions, or requests.",
+            "STRUCTURE": "Base verb (+ Object/Modifiers)",
+            "SUBJECT": "Usually implied 'you'",
+            "PUNCTUATION": "period or exclamation mark",
+            "EXAMPLES": [
+              "Close the door.",
+              "Please sit down.",
+              "Don’t be late!"
+            ]
+          },
+          "EXCL": {
+            "DESCRIPTION": "Expresses strong emotion or surprise.",
+            "STRUCTURE": "Exclamative expression (+ Subject + Verb)",
+            "PUNCTUATION": "exclamation mark",
+            "EXAMPLES": [
+              "What a beautiful day!",
+              "How quickly time flies!"
+            ]
+          }
+        },
+        "FUNCTION": [
+          "ROOT",
+          "COORD"
+        ],
+        "FEATURES": {
+          "FINITENESS": "finite only",
+          "SELF_CONTAINED": true,
+          "REQUIRES_SUBJECT": true,
+          "ALLOWS_AUXILIARIES": true,
+          "ALLOWS_NEGATION": true
+        },
+        "MARKERS": {
+          "WH": [
+            "what",
+            "where",
+            "why",
+            "who",
+            "how",
+            "which",
+            "when"
+          ],
+          "TAG_AUX": [
+            "do",
+            "does",
+            "did",
+            "is",
+            "are",
+            "was",
+            "were",
+            "has",
+            "have",
+            "will",
+            "won’t",
+            "would",
+            "should"
+          ]
+        },
+        "EXAMPLES": [
+          "I love music.",
+          "Can you help me?",
+          "Sit down.",
+          "What a surprise that was!"
+        ]
+      },
+      "DEPENDENT": {
+        "DESCRIPTION": "Clause that cannot stand alone and functions as part of another clause.",
+        "SUBTYPES": {
+          "FINITE": {
+            "DESCRIPTION": "Dependent clauses with a subject and a tensed verb.",
+            "TYPES": {
+              "SUBORDINATE": {
+                "DESCRIPTION": "A dependent clause introduced by a subordinator, expressing logical relations like time, cause, condition, etc.",
+                "FORMS": {
+                  "CAUSE": {
+                    "MARKERS": [
+                      "because",
+                      "since",
+                      "as"
+                    ],
+                    "DESCRIPTION": "Explains the reason for the action in the main clause.",
+                    "EXAMPLES": [
+                      "We stayed inside because it was raining.",
+                      "As he was tired, he went to bed early."
+                    ]
+                  },
+                  "TIME": {
+                    "MARKERS": [
+                      "when",
+                      "while",
+                      "after",
+                      "before",
+                      "until",
+                      "once",
+                      "as soon as"
+                    ],
+                    "DESCRIPTION": "Specifies the timing of the action in the main clause.",
+                    "EXAMPLES": [
+                      "Call me when you arrive.",
+                      "Before you leave, lock the door."
+                    ]
+                  },
+                  "CONCESSION": {
+                    "MARKERS": [
+                      "although",
+                      "though",
+                      "even though",
+                      "whereas",
+                      "while"
+                    ],
+                    "DESCRIPTION": "Introduces a contrast or unexpected outcome.",
+                    "EXAMPLES": [
+                      "Although it was late, she kept working.",
+                      "Whereas I like tea, he prefers coffee."
+                    ]
+                  },
+                  "PLACE": {
+                    "MARKERS": [
+                      "where",
+                      "wherever"
+                    ],
+                    "DESCRIPTION": "Describes location relative to the main clause.",
+                    "EXAMPLES": [
+                      "Sit where you like.",
+                      "Wherever she goes, trouble follows."
+                    ]
+                  },
+                  "CONDITION": {
+                    "MARKERS": [
+                      "if",
+                      "unless",
+                      "provided that",
+                      "in case"
+                    ],
+                    "DESCRIPTION": "States a condition under which the main clause holds true.",
+                    "EXAMPLES": [
+                      "If it rains, we’ll cancel the picnic.",
+                      "Unless you hurry, you'll miss the train."
+                    ]
+                  },
+                  "PURPOSE": {
+                    "MARKERS": [
+                      "so that",
+                      "in order that",
+                      "lest"
+                    ],
+                    "DESCRIPTION": "Indicates the purpose or goal of an action.",
+                    "EXAMPLES": [
+                      "He studied hard so that he could pass.",
+                      "She left early in order that she might arrive on time."
+                    ]
+                  },
+                  "RESULT": {
+                    "MARKERS": [
+                      "so...that",
+                      "such...that"
+                    ],
+                    "DESCRIPTION": "Expresses the result or consequence of the main clause.",
+                    "EXAMPLES": [
+                      "It was so cold that we stayed inside.",
+                      "She was such a good teacher that everyone loved her."
+                    ]
+                  },
+                  "COMPARATIVE": {
+                    "MARKERS": [
+                      "than",
+                      "as...as",
+                      "more...than",
+                      "less...than"
+                    ],
+                    "DESCRIPTION": "Used to compare clauses or degrees.",
+                    "EXAMPLES": [
+                      "He runs faster than I do.",
+                      "She is as smart as her brother."
+                    ]
+                  }
+                },
+                "FUNCTION": [
+                  "MOD"
+                ],
+                "FEATURES": {
+                  "FINITENESS": "finite",
+                  "EMBEDDED": true,
+                  "REQUIRES_MAIN": true,
+                  "CANNOT_STAND_ALONE": true
+                }
+              },
+              "RELATIVE": {
+                "DESCRIPTION": "A clause that modifies a noun or noun phrase, providing additional information about it. Usually introduced by a relative pronoun.",
+                "TYPES": {
+                  "DEFINING": {
+                    "DESCRIPTION": "Essential to identify the noun it modifies.",
+                    "EXAMPLES": [
+                      "The woman who called is my boss.",
+                      "This is the book that won the award."
+                    ]
+                  },
+                  "NONDEFINING": {
+                    "DESCRIPTION": "Adds extra information that can be omitted without changing the core meaning.",
+                    "EXAMPLES": [
+                      "My brother, who lives in Canada, is visiting.",
+                      "The book, which was on the table, is missing."
+                    ]
+                  },
+                  "REDUCED": {
+                    "DESCRIPTION": "A shorter version that omits the relative pronoun and auxiliary verbs when the meaning remains clear.",
+                    "EXAMPLES": [
+                      "The man working there is my uncle.",
+                      "The books placed on the shelf are mine."
+                    ]
+                  }
+                },
+                "MARKERS": {
+                  "PRONOUNS": [
+                    "who",
+                    "whom",
+                    "whose",
+                    "which",
+                    "that"
+                  ],
+                  "LOCATIVE": [
+                    "where",
+                    "when"
+                  ],
+                  "OMISSION": "Relative pronoun can often be omitted in object position."
+                },
+                "POSITION": {
+                  "AFTER": "Follows the noun it modifies"
+                },
+                "FUNCTION": [
+                  "ATTR"
+                ],
+                "FEATURES": {
+                  "FINITENESS": "finite or reduced (non-finite)",
+                  "EMBEDDED": true,
+                  "DEPENDS_ON_NP": true,
+                  "CANNOT_STAND_ALONE": true
+                }
+              },
+              "THAT": {
+                "DESCRIPTION": "A clause introduced by 'that', usually functioning as a complement to a verb, noun, or adjective.",
+                "FUNCTION": [
+                  "COMP"
+                ],
+                "FORMS": {
+                  "VERB_COMPLEMENT": {
+                    "DESCRIPTION": "Acts as object of the verb.",
+                    "EXAMPLES": [
+                      "She said that she was tired.",
+                      "I believe that he knows the answer."
+                    ]
+                  },
+                  "NOUN_COMPLEMENT": {
+                    "DESCRIPTION": "Completes the meaning of a noun.",
+                    "EXAMPLES": [
+                      "The idea that we can succeed is motivating.",
+                      "I heard the rumor that he quit."
+                    ]
+                  },
+                  "ADJ_COMPLEMENT": {
+                    "DESCRIPTION": "Complements an adjective.",
+                    "EXAMPLES": [
+                      "I’m glad that you came.",
+                      "It’s important that we stay focused."
+                    ]
+                  }
+                },
+                "FEATURES": {
+                  "FINITENESS": "always finite",
+                  "REQUIRES_SUBJECT": true,
+                  "OPTIONAL_THAT": "In informal contexts, 'that' may be omitted",
+                  "EMBEDDED": true,
+                  "TYPICAL_POSITION": "Follows verbs, nouns, or adjectives"
+                },
+                "MARKERS": {
+                  "INTRODUCER": [
+                    "that"
+                  ],
+                  "OMISSIBLE": true
+                }
+              }
+            }
+          }
+        },
+        "NONFINITE": {
+          "DESCRIPTION": "Clauses that do not contain a tensed verb.",
+          "TYPES": {
+            "INFINITIVE": {
+              "DESCRIPTION": "A non-finite clause built around an infinitive verb, often introduced by 'to', functioning as a noun, adjective, or adverb.",
+              "FORM": "to + base form of verb",
+              "VARIANTS": {
+                "BARE": "infinitive without 'to' (after modal verbs, let, make, help)",
+                "PASSIVE": "to + be + past participle (e.g., to be loved)",
+                "PERFECT": "to + have + past participle (e.g., to have finished)"
+              },
+              "FUNCTION": [
+                "SUBJ",
+                "OBJ",
+                "COMP",
+                "MOD"
+              ],
+              "SUBJECT_CONTROL": {
+                "EXPLICIT": "subject of the infinitive clause is stated (e.g., for her to leave)",
+                "IMPLICIT": "subject is understood from main clause (e.g., I want to go)"
+              },
+              "COMMON_PATTERNS": [
+                "Verb + to-infinitive (I want to eat)",
+                "Adjective + to-infinitive (She is eager to learn)",
+                "Noun + to-infinitive (A chance to win)",
+                "It + be + adjective + to-infinitive (It is hard to explain)"
+              ],
+              "MARKERS": [
+                "to",
+                "for (with explicit subject)"
+              ],
+              "FEATURES": {
+                "FINITE": false,
+                "TENSELESS": true,
+                "SUBJECT_OPTIONAL": true,
+                "CAN_BE_REDUCED": false
+              },
+              "EXAMPLES": [
+                "To win the game was his dream.",
+                "She wants to travel abroad.",
+                "It is important to stay focused.",
+                "For him to say that was brave.",
+                "They helped me carry the bags."
+              ]
+            },
+            "PARTICIPLE": {
+              "DESCRIPTION": "A non-finite clause based on a present or past participle, typically used to provide additional information about the subject or action in the main clause.",
+              "FORMS": {
+                "PRESENT": {
+                  "FORM": "verb + ing",
+                  "DESCRIPTION": "Present participle used to indicate simultaneous or ongoing actions.",
+                  "EXAMPLES": [
+                    "Walking down the street, she saw an old friend.",
+                    "Knowing the answer, he raised his hand."
+                  ]
+                },
+                "PAST": {
+                  "FORM": "past participle",
+                  "DESCRIPTION": "Past participle used for passive or completed actions.",
+                  "EXAMPLES": [
+                    "Shocked by the news, she gasped.",
+                    "Built in 1800, the church is still in use."
+                  ]
+                },
+                "PERFECT": {
+                  "FORM": "having + past participle",
+                  "DESCRIPTION": "Perfect participle expressing a completed action prior to the main clause.",
+                  "EXAMPLES": [
+                    "Having finished his homework, he went to bed.",
+                    "Having been warned, they avoided the area."
+                  ]
+                }
+              },
+              "FUNCTION": [
+                "MOD",
+                "COND",
+                "CAUSE",
+                "TIME",
+                "CONC"
+              ],
+              "FEATURES": {
+                "FINITE": false,
+                "TENSELESS": true,
+                "CAN_BE_REDUCED": true,
+                "CAN_OMIT_SUBJECT": true,
+                "SUBJECT_CONTROLLED": "usually refers back to the subject of the main clause"
+              },
+              "COMMON_PATTERNS": [
+                "Participle clause + main clause (Walking quickly, he caught the train.)",
+                "Main clause + participle clause (He caught the train, walking quickly.)"
+              ],
+              "NOTES": [
+                "The implied subject of the participle clause must match the subject of the main clause.",
+                "Perfect participles are often used to show a sequence of events.",
+                "Past participles may imply passive meaning."
+              ],
+              "MARKERS": [
+                "present participle (-ing form)",
+                "past participle",
+                "having + past participle"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

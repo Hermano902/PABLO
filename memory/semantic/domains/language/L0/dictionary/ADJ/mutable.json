@@ -1,0 +1,61 @@
+[
+  {
+    "word": "mutable",
+    "lemma": "mutable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmjuːtəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more mutable",
+          "SUP": "most mutable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Changeable , dynamic , evolutive ; inclined to change , evolve , mutate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a value that is changeable during program execution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a variable"
+        ],
+        "label_groups": "programming , of a variable"
+      },
+      {
+        "definition": "Being one of the signs Gemini , Virgo , Sagittarius and Pisces , associated with adaptability , flexibility and sympathy .",
+        "examples": [],
+        "synonyms": [
+          "bicorporeal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astrology"
+        ],
+        "label_groups": "astrology"
+      }
+    ],
+    "main_definition": "Changeable , dynamic , evolutive ; inclined to change , evolve , mutate .",
+    "secondary_definitions": [
+      "( programming , of a variable ) Having a value that is changeable during program execution .",
+      "( astrology ) Being one of the signs Gemini , Virgo , Sagittarius and Pisces , associated with adaptability , flexibility and sympathy ."
+    ]
+  }
+]

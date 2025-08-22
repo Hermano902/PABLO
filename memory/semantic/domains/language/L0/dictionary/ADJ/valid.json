@@ -1,0 +1,97 @@
+[
+  {
+    "word": "valid",
+    "lemma": "valid",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈvælɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more valid",
+          "SUP": "most valid"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Well grounded or justifiable , pertinent .",
+        "examples": [
+          "I will believe him as soon as he offers a valid answer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Acceptable , proper or correct ; in accordance with the rules.",
+        "examples": [
+          "A valid format for the date is DD/MM/YY.",
+          "Do not drive without a valid license."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Related to the current topic, or presented within context, relevant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a formula or system : such that it evaluates to true regardless of the input values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "Of an argument : whose conclusion is always true whenever its premises are true.",
+        "examples": [
+          "An argument is valid if and only if the set consisting of both (1) all of its premises and (2) the contradictory of its conclusion is inconsistent."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "Genuine - as distinguished from efficient or regular - sacrament .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Christianity",
+          "theology"
+        ],
+        "label_groups": "Christianity , theology"
+      }
+    ],
+    "main_definition": "Well grounded or justifiable , pertinent .",
+    "secondary_definitions": [
+      "Acceptable , proper or correct ; in accordance with the rules.",
+      "Related to the current topic, or presented within context, relevant .",
+      "( logic ) Of a formula or system : such that it evaluates to true regardless of the input values.",
+      "( logic ) Of an argument : whose conclusion is always true whenever its premises are true.",
+      "( Christianity , theology ) Genuine - as distinguished from efficient or regular - sacrament ."
+    ]
+  }
+]

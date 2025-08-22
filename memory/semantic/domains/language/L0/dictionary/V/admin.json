@@ -1,0 +1,42 @@
+[
+  {
+    "word": "admin",
+    "lemma": "admin",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈædˌmɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "admins",
+          "PT": "admined",
+          "PAP": "admined",
+          "PRP": "admining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To serve as an administrator for or of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "informal"
+        ],
+        "label_groups": "transitive , computing , informal"
+      }
+    ],
+    "main_definition": "( transitive , computing , informal ) To serve as an administrator for or of.",
+    "secondary_definitions": []
+  }
+]

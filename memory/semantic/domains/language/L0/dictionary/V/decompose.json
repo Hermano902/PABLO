@@ -1,0 +1,68 @@
+[
+  {
+    "word": "decompose",
+    "lemma": "decompose",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌdiːkəmˈpəʊz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decomposes",
+          "PT": "decomposed",
+          "PAP": "decomposed",
+          "PRP": "decomposing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To separate or break down (something) into its components .",
+        "examples": [
+          "Various fungi can decompose wood.",
+          "Our team decomposed this task into several subtasks that could be successfully distributed."
+        ],
+        "synonyms": [
+          "disintegrate",
+          "fragment"
+        ],
+        "antonyms": [
+          "compose",
+          "assemble",
+          "recompose"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To rot , decay or putrefy .",
+        "examples": [
+          "Plastics can take centuries to decompose ."
+        ],
+        "synonyms": [
+          "break down"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To separate or break down (something) into its components .",
+    "secondary_definitions": [
+      "( intransitive ) To rot , decay or putrefy ."
+    ]
+  }
+]

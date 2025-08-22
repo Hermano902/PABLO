@@ -1,0 +1,38 @@
+{
+  "word": "greet",
+  "pos_order": [
+    "V",
+    "ADJ",
+    "V:2",
+    "N"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\greet.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\greet.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\greet.json"
+  },
+  "timestamp": "2025-08-19T04:45:57.258160Z"
+}

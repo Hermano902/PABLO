@@ -1,0 +1,108 @@
+[
+  {
+    "word": "control",
+    "lemma": "control",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɹəʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "controls",
+          "PT": "controlled",
+          "PAP": "controlled",
+          "PRP": "controlling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To exercise influence over; to suggest or dictate the behavior of.",
+        "examples": [
+          "With a simple remote, he could control the toy truck."
+        ],
+        "synonyms": [
+          "besteer",
+          "bewield",
+          "manage",
+          "puppeteer",
+          "rule"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To design (an experiment ) so that the effects of one or more variables are reduced or eliminated .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "statistics",
+          "construed with for"
+        ],
+        "label_groups": [
+          "transitive , statistics",
+          "construed with for"
+        ]
+      },
+      {
+        "definition": "To verify the accuracy of (something or someone, especially a financial account) by comparison with another account .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To call to account , to take to task , to challenge .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To hold in check , to curb , to restrain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To exercise influence over; to suggest or dictate the behavior of.",
+    "secondary_definitions": [
+      "( transitive , statistics ) ( construed with for ) To design (an experiment ) so that the effects of one or more variables are reduced or eliminated .",
+      "( transitive , archaic ) To verify the accuracy of (something or someone, especially a financial account) by comparison with another account .",
+      "( transitive , obsolete ) To call to account , to take to task , to challenge .",
+      "( transitive ) To hold in check , to curb , to restrain ."
+    ]
+  }
+]

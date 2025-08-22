@@ -1,0 +1,61 @@
+[
+  {
+    "word": "deleterious",
+    "lemma": "deleterious",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌdɛl.ɪˈtɪə̯.ɹi.əs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more deleterious",
+          "SUP": "most deleterious"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Harmful, often in a subtle or unexpected way.",
+        "examples": [
+          "deleterious effects",
+          "deleterious to someone's health"
+        ],
+        "synonyms": [
+          "destructive",
+          "harmful",
+          "hurtful",
+          "injurious",
+          "noxious",
+          "pernicious"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "formal"
+        ],
+        "label_groups": "formal"
+      },
+      {
+        "definition": "Having lower fitness .",
+        "examples": [
+          "A deleterious mutation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "( formal ) Harmful, often in a subtle or unexpected way.",
+    "secondary_definitions": [
+      "( genetics ) Having lower fitness ."
+    ]
+  }
+]

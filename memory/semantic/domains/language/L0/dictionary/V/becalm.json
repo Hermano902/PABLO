@@ -1,0 +1,56 @@
+[
+  {
+    "word": "becalm",
+    "lemma": "becalm",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪˈkɑːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "becalms",
+          "PT": "becalmed",
+          "PAP": "becalmed",
+          "PRP": "becalming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make calm or still ; make quiet ; calm.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To deprive (a ship) of wind , so that it cannot move (usually in passive).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      }
+    ],
+    "main_definition": "( transitive , obsolete ) To make calm or still ; make quiet ; calm.",
+    "secondary_definitions": [
+      "( transitive , nautical ) To deprive (a ship) of wind , so that it cannot move (usually in passive)."
+    ]
+  }
+]

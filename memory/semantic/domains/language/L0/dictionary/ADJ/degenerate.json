@@ -1,0 +1,115 @@
+[
+  {
+    "word": "degenerate",
+    "lemma": "degenerate",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈd͡ʒɛnəɹɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more degenerate",
+          "SUP": "most degenerate"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having deteriorated , degraded or fallen from normal , coherent , balanced and desirable to undesirable and typically abnormal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of qualities"
+        ],
+        "label_groups": "of qualities"
+      },
+      {
+        "definition": "Having lost good or desirable qualities; hence also having bad character or habits , base , immoral , corrupt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a person or system"
+        ],
+        "label_groups": "of a person or system"
+      },
+      {
+        "definition": "Having lost functionality in general.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having multiple domain elements correspond to one element of the range .",
+        "examples": [
+          "The genetic code is degenerate because a single amino acid can be coded by one of several codons ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of an encoding or function"
+        ],
+        "label_groups": "of an encoding or function"
+      },
+      {
+        "definition": "Qualitatively different, usually simpler, than typical objects of its class.",
+        "examples": [
+          "A degenerate circle, having radius zero, consists of a single point."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Having multiple different ( linearly independent ) eigenvectors .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of an eigenvalue"
+        ],
+        "label_groups": "mathematics , of an eigenvalue"
+      },
+      {
+        "definition": "Having the same quantum energy level .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( of qualities ) Having deteriorated , degraded or fallen from normal , coherent , balanced and desirable to undesirable and typically abnormal .",
+    "secondary_definitions": [
+      "( of a person or system ) Having lost good or desirable qualities; hence also having bad character or habits , base , immoral , corrupt .",
+      "Having lost functionality in general.",
+      "( of an encoding or function ) Having multiple domain elements correspond to one element of the range .",
+      "( mathematics ) Qualitatively different, usually simpler, than typical objects of its class.",
+      "( mathematics , of an eigenvalue ) Having multiple different ( linearly independent ) eigenvectors .",
+      "( physics ) Having the same quantum energy level ."
+    ]
+  }
+]

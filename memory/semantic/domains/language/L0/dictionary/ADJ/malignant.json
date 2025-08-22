@@ -1,0 +1,50 @@
+[
+  {
+    "word": "malignant",
+    "lemma": "malignant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/məˈlɪɡnənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more malignant",
+          "SUP": "most malignant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Harmful , malevolent , injurious .",
+        "examples": [
+          "malignant temper; malignant revenge; malignant infection"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Tending to produce death ; threatening a fatal issue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "benign",
+          "non-malignant"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "Harmful , malevolent , injurious .",
+    "secondary_definitions": [
+      "( medicine ) Tending to produce death ; threatening a fatal issue."
+    ]
+  }
+]

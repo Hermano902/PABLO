@@ -1,0 +1,53 @@
+[
+  {
+    "word": "cookbook",
+    "lemma": "cookbook",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkʊkˌbʊk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cookbooks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A book or an encyclopedia of recipes and cookery tips .",
+        "examples": [
+          "They inherited an interesting nineteenth-century cookbook from their grandparents. It tells how to render lard."
+        ],
+        "synonyms": [
+          "cookery book",
+          "recipe book"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any book or set of strategies and tips .",
+        "examples": [
+          "Reading business biographies is interesting, but they are not cookbooks that can teach hacks how to be greats."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "figurative"
+        ],
+        "label_groups": "by extension , figurative"
+      }
+    ],
+    "main_definition": "A book or an encyclopedia of recipes and cookery tips .",
+    "secondary_definitions": [
+      "( by extension , figurative ) Any book or set of strategies and tips ."
+    ]
+  }
+]

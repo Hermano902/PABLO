@@ -1,0 +1,66 @@
+[
+  {
+    "word": "tolerate",
+    "lemma": "tolerate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɒl.ə.ɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tolerates",
+          "PT": "tolerated",
+          "PAP": "tolerated",
+          "PRP": "tolerating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To allow or permit without explicit approval, usually if it is perceived as negative .",
+        "examples": [
+          "The party tolerated corruption within its ranks."
+        ],
+        "synonyms": [
+          "allow"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bear , withstand .",
+        "examples": [
+          "I can tolerate working on Saturday, but not Sunday.",
+          "The elevator can tolerate up to 360 kilograms."
+        ],
+        "synonyms": [
+          "bear",
+          "live with",
+          "put up with",
+          "stand"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To allow or permit without explicit approval, usually if it is perceived as negative .",
+    "secondary_definitions": [
+      "( transitive ) To bear , withstand ."
+    ]
+  }
+]

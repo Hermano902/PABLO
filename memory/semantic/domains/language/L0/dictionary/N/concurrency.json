@@ -1,0 +1,62 @@
+[
+  {
+    "word": "concurrency",
+    "lemma": "concurrency",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəŋˈkʌɹənsi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "concurrencies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property or an instance of being concurrent ; something that happens at the same time as something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A property of systems where several processes execute at the same time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "by extension"
+        ],
+        "label_groups": "computer science , by extension"
+      },
+      {
+        "definition": "A stretch of road that is shared between two or more numbered or named routes .",
+        "examples": [],
+        "synonyms": [
+          "road concurrency"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "road transport",
+          "civil engineering"
+        ],
+        "label_groups": "road transport , civil engineering"
+      }
+    ],
+    "main_definition": "The property or an instance of being concurrent ; something that happens at the same time as something else.",
+    "secondary_definitions": [
+      "( computer science , by extension ) A property of systems where several processes execute at the same time.",
+      "( road transport , civil engineering ) A stretch of road that is shared between two or more numbered or named routes ."
+    ]
+  }
+]

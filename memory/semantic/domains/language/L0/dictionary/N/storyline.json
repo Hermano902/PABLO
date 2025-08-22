@@ -1,0 +1,51 @@
+[
+  {
+    "word": "storyline",
+    "lemma": "storyline",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "storylines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The plot of a story .",
+        "examples": [
+          "That film had a wonderful storyline , but the poor acting let it down."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literature"
+        ],
+        "label_groups": "literature"
+      },
+      {
+        "definition": "A narrative description of a given modeling scenario , highlighting its main characteristics and underlying technical and socioeconomic drivers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "climate science"
+        ],
+        "label_groups": "climate science"
+      }
+    ],
+    "main_definition": "( literature ) The plot of a story .",
+    "secondary_definitions": [
+      "( climate science ) A narrative description of a given modeling scenario , highlighting its main characteristics and underlying technical and socioeconomic drivers ."
+    ]
+  }
+]

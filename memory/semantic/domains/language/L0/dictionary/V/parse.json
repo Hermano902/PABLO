@@ -1,0 +1,103 @@
+[
+  {
+    "word": "parse",
+    "lemma": "parse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɑːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "parses",
+          "PT": "parsed",
+          "PAP": "parsed",
+          "PRP": "parsing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To resolve (a sentence , etc.) into its elements , pointing out the several parts of speech , and their relation to each other by agreement or government ; to analyze and describe grammatically .",
+        "examples": [],
+        "synonyms": [
+          "construe"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "ambitransitive"
+        ],
+        "label_groups": "linguistics , ambitransitive",
+        "dating_raw": "from mid 16th c."
+      },
+      {
+        "definition": "To examine closely ; to scrutinize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To split (a file or other input ) into pieces of data that can be easily manipulated or stored .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To resolve (a string of code or text ) into its elements to determine if it conforms to a particular grammar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "Of a string of code or text, sentence, etc.: to conform to rules of grammar, to be syntactically valid .",
+        "examples": [
+          "This sentence doesn't parse ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "linguistics",
+          "intransitive"
+        ],
+        "label_groups": "computing , linguistics , intransitive"
+      }
+    ],
+    "main_definition": "( linguistics , ambitransitive ) To resolve (a sentence , etc.) into its elements , pointing out the several parts of speech , and their relation to each other by agreement or government ; to analyze and describe grammatically . [from mid 16th c.]",
+    "secondary_definitions": [
+      "( transitive ) To examine closely ; to scrutinize .",
+      "( computing , ambitransitive ) To split (a file or other input ) into pieces of data that can be easily manipulated or stored .",
+      "( computing , transitive ) To resolve (a string of code or text ) into its elements to determine if it conforms to a particular grammar .",
+      "( computing , linguistics , intransitive ) Of a string of code or text, sentence, etc.: to conform to rules of grammar, to be syntactically valid ."
+    ]
+  }
+]

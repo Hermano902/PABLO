@@ -1,0 +1,101 @@
+[
+  {
+    "word": "stipulate",
+    "lemma": "stipulate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈstɪpjuˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stipulates",
+          "PT": "stipulated",
+          "PAP": "stipulated",
+          "PRP": "stipulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To require (something) as a condition of a contract or agreement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To specify , promise or guarantee something in an agreement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To acknowledge the truth of; not to challenge .",
+        "examples": [
+          "The defense stipulates that the witness has identified my client."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "transitive",
+          "formal",
+          "law"
+        ],
+        "label_groups": "US , transitive , formal , law"
+      },
+      {
+        "definition": "To ask for a contractual term .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "followed by for"
+        ],
+        "label_groups": "intransitive , followed by for"
+      },
+      {
+        "definition": "To mutually agree.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "formal",
+          "law"
+        ],
+        "label_groups": "intransitive , formal , law"
+      }
+    ],
+    "main_definition": "( transitive ) To require (something) as a condition of a contract or agreement .",
+    "secondary_definitions": [
+      "( transitive ) To specify , promise or guarantee something in an agreement.",
+      "( US , transitive , formal , law ) To acknowledge the truth of; not to challenge .",
+      "( intransitive , followed by for ) To ask for a contractual term .",
+      "( intransitive , formal , law ) To mutually agree."
+    ]
+  }
+]

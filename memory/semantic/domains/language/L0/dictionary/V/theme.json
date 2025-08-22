@@ -1,0 +1,57 @@
+[
+  {
+    "word": "theme",
+    "lemma": "theme",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/θiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "themes",
+          "PT": "themed",
+          "PAP": "themed",
+          "PRP": "theming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give a theme to.",
+        "examples": [
+          "We themed the birthday party around superheroes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply a theme to; to change the visual appearance and/or layout of (software).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To give a theme to.",
+    "secondary_definitions": [
+      "( computing , transitive ) To apply a theme to; to change the visual appearance and/or layout of (software)."
+    ]
+  }
+]

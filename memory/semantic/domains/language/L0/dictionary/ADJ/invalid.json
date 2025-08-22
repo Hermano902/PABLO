@@ -1,0 +1,73 @@
+[
+  {
+    "word": "invalid",
+    "lemma": "invalid",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈvæl.ɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more invalid",
+          "SUP": "most invalid"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not valid ; not true , correct , acceptable or appropriate .",
+        "examples": [
+          "Your argument is invalid because it uses circular reasoning.",
+          "This invalid contract cannot be legally enforced."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Not valid ; not true , correct , acceptable or appropriate .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "invalid",
+    "lemma": "invalid",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ɪnˈvæl.ɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Suffering from disability or illness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Intended for use by an invalid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Suffering from disability or illness .",
+    "secondary_definitions": [
+      "Intended for use by an invalid ."
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "word": "decay",
+    "lemma": "decay",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkeɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "decays"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process or result of being gradually decomposed ; rot , decomposition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ecology",
+          "medicine"
+        ],
+        "label_groups": "ecology , medicine"
+      },
+      {
+        "definition": "A deterioration of condition ; loss of status , quality , strength , or fortune .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Ellipsis of radioactive decay .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics"
+            ],
+            "label_groups": "physics"
+          },
+          {
+            "definition": "a gradual decrease of a stored charge, magnetic flux, current, etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "progressive change in the path of an earth-orbiting satellite due to atmospheric drag.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Overthrow , downfall , destruction , ruin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "The situation, in programming languages such as C , where an array loses its type and dimensions and is reduced to a pointer , for example by passing it to a function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( ecology , medicine ) The process or result of being gradually decomposed ; rot , decomposition .",
+    "secondary_definitions": [
+      "A deterioration of condition ; loss of status , quality , strength , or fortune .",
+      "( obsolete ) Overthrow , downfall , destruction , ruin .",
+      "( programming ) The situation, in programming languages such as C , where an array loses its type and dimensions and is reduced to a pointer , for example by passing it to a function ."
+    ]
+  }
+]

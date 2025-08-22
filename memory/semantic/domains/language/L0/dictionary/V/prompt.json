@@ -1,0 +1,126 @@
+[
+  {
+    "word": "prompt",
+    "lemma": "prompt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹɒmpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prompts",
+          "PT": "prompted",
+          "PAP": "prompted",
+          "PRP": "prompting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lead (someone) toward what they should say or do.",
+        "examples": [
+          "I prompted him to get a new job."
+        ],
+        "synonyms": [
+          "counsel",
+          "exhort"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To say (something) in order to help or encourage someone to speak.",
+        "examples": [
+          "\"How did you solve the issue then?\" Jason prompted while staring at Lana."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To show or tell (an actor/person) the words they should be saying, or actions they should be doing.",
+        "examples": [
+          "If he forgets his words I will prompt him."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "theater",
+          "television"
+        ],
+        "label_groups": "transitive , theater and television"
+      },
+      {
+        "definition": "To initiate ; to cause or lead to.",
+        "examples": [],
+        "synonyms": [
+          "instigate",
+          "provoke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To request (a user) to provide input or do something on a computer.",
+        "examples": [
+          "The script prompted him to enter his credit account number."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To provide textual input in the form of ordinary language to (an artificial intelligence or language model ) to have it generate a desired output.",
+        "examples": [
+          "I want to prompt this new AI art generator to create an image of a panda riding a bike."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "machine learning"
+        ],
+        "label_groups": "transitive , machine learning"
+      }
+    ],
+    "main_definition": "( transitive ) To lead (someone) toward what they should say or do.",
+    "secondary_definitions": [
+      "( transitive ) To say (something) in order to help or encourage someone to speak.",
+      "( transitive , theater and television ) To show or tell (an actor/person) the words they should be saying, or actions they should be doing.",
+      "( transitive ) To initiate ; to cause or lead to.",
+      "( transitive , computing ) To request (a user) to provide input or do something on a computer.",
+      "( transitive , machine learning ) To provide textual input in the form of ordinary language to (an artificial intelligence or language model ) to have it generate a desired output."
+    ]
+  }
+]

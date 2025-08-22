@@ -1,0 +1,141 @@
+[
+  {
+    "word": "lattice",
+    "lemma": "lattice",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlæt.ɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lattices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A flat panel constructed with widely-spaced crossed thin strips of wood or other material, commonly used as a garden trellis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A bearing with vertical and horizontal bands that cross each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "heraldry"
+        ],
+        "label_groups": "heraldry"
+      },
+      {
+        "definition": "A regular spacing or arrangement of geometric points , often decorated with a motif .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      },
+      {
+        "definition": "A model of the tuning relationships of a just intonation system, comprising an array of points in a periodic multidimensional pattern.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "In any of several technical senses, a substructure with properties analogous to those the set of points with integer coordinates bears in relation to the full Euclidian space these points are contained in .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A discrete subgroup of R which is isomorphic to Z (considered as an additive group) and which spans the real vector space R .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "group theory"
+            ],
+            "label_groups": "group theory"
+          },
+          {
+            "definition": "A discrete subgroup L of a given locally compact group G whose quotient space G / L has finite invariant measure .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology",
+              "Lie theory",
+              "generalizing sense 5.1"
+            ],
+            "label_groups": "topology , Lie theory , generalizing sense 5.1"
+          },
+          {
+            "definition": "A finitely generated R - submodule of V which spans V over F . ( In this case the submodule is called an R -lattice ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "ring theory",
+              "generalizing sense 5.1",
+              "with respect to a vector space V over a field F which is the field of fractions of an integral domain R in F"
+            ],
+            "label_groups": "algebra , ring theory , generalizing sense 5.1 , with respect to a vector space V over a field F which is the field of fractions of an integral domain R in F"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "algebra"
+        ],
+        "label_groups": "mathematics , algebra"
+      },
+      {
+        "definition": "A partially ordered set in which every pair of elements has a unique supremum and a unique infimum .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "order theory"
+        ],
+        "label_groups": "mathematics , order theory"
+      }
+    ],
+    "main_definition": "A flat panel constructed with widely-spaced crossed thin strips of wood or other material, commonly used as a garden trellis .",
+    "secondary_definitions": [
+      "( heraldry ) A bearing with vertical and horizontal bands that cross each other.",
+      "( crystallography ) A regular spacing or arrangement of geometric points , often decorated with a motif .",
+      "( music ) A model of the tuning relationships of a just intonation system, comprising an array of points in a periodic multidimensional pattern.",
+      "( mathematics , algebra ) In any of several technical senses, a substructure with properties analogous to those the set of points with integer coordinates bears in relation to the full Euclidian space these points are contained in .",
+      "( mathematics , order theory ) A partially ordered set in which every pair of elements has a unique supremum and a unique infimum ."
+    ]
+  }
+]

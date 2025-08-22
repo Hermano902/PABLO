@@ -1,0 +1,49 @@
+[
+  {
+    "word": "embezzlement",
+    "lemma": "embezzlement",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪmˈbɛzəlmənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "embezzlements"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The fraudulent conversion of property from a property owner.",
+        "examples": [],
+        "synonyms": [
+          "misappropriation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such conversion from public property .",
+            "examples": [],
+            "synonyms": [
+              "peculation"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "law",
+          "business"
+        ],
+        "label_groups": "law , business"
+      }
+    ],
+    "main_definition": "( law , business ) The fraudulent conversion of property from a property owner.",
+    "secondary_definitions": []
+  }
+]

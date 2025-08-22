@@ -1,0 +1,72 @@
+[
+  {
+    "word": "deselect",
+    "lemma": "deselect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˌdiːsəˈlɛkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deselects",
+          "PT": "deselected",
+          "PAP": "deselected",
+          "PRP": "deselecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To not select ; to rule out of selection .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reject (an incumbent ) as a party's candidate for a forthcoming election.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "British",
+          "politics"
+        ],
+        "label_groups": "transitive , British , politics"
+      },
+      {
+        "definition": "To remove from an existing selection.",
+        "examples": [
+          "Make sure you deselect any files you wish to keep before proceeding with the deletion."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "graphical user interface"
+        ],
+        "label_groups": "transitive , graphical user interface"
+      }
+    ],
+    "main_definition": "( transitive ) To not select ; to rule out of selection .",
+    "secondary_definitions": [
+      "( transitive , British , politics ) To reject (an incumbent ) as a party's candidate for a forthcoming election.",
+      "( transitive , graphical user interface ) To remove from an existing selection."
+    ]
+  }
+]

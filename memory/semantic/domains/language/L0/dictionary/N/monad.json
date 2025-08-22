@@ -1,0 +1,107 @@
+[
+  {
+    "word": "monad",
+    "lemma": "monad",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒnæd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "monads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One thing, one being, one item.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of entites or items treated as one entity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An ultimate atom , or simple, unextended point; something ultimate and indivisible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "A single individual (such as a pollen grain) that is free from others, not united in a group.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "A single-celled organism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "dated"
+        ],
+        "label_groups": "biology , dated"
+      },
+      {
+        "definition": "A monoid object in the category of endofunctors of a fixed category.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A data type which represents a specific form of computation , along with the operations \"return\" and \"bind\".",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "functional programming"
+        ],
+        "label_groups": "functional programming"
+      }
+    ],
+    "main_definition": "One thing, one being, one item.",
+    "secondary_definitions": [
+      "A group of entites or items treated as one entity.",
+      "( philosophy ) An ultimate atom , or simple, unextended point; something ultimate and indivisible .",
+      "( botany ) A single individual (such as a pollen grain) that is free from others, not united in a group.",
+      "( biology , dated ) A single-celled organism.",
+      "( category theory ) A monoid object in the category of endofunctors of a fixed category.",
+      "( functional programming ) A data type which represents a specific form of computation , along with the operations \"return\" and \"bind\"."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "reallocate",
+    "lemma": "reallocate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reallocates",
+          "PT": "reallocated",
+          "PAP": "reallocated",
+          "PRP": "reallocating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To allocate (a resource) to another person or purpose.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To allocate again.",
+        "examples": [
+          "Appending items one at a time is still a better deal than concatenation, which reallocates every time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To allocate (a resource) to another person or purpose.",
+    "secondary_definitions": [
+      "( transitive ) To allocate again."
+    ]
+  }
+]

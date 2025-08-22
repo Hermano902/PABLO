@@ -1,0 +1,114 @@
+[
+  {
+    "word": "solvable",
+    "lemma": "solvable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being solved .",
+        "examples": [
+          "a solvable problem"
+        ],
+        "synonyms": [
+          "soluble"
+        ],
+        "antonyms": [
+          "unsolvable",
+          "insolvable",
+          "insoluble"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "various senses relating to terminating sequences or computability : ( group theory , of a group ) Having terminating derived series ; see Solvable group on  Wikipedia. Wikipedia ( Galois theory , of  a Galois extension ) Having a Galois group which is solvable. ( Lie theory , of a Lie algebra ) Having terminating derived series ( this is a distinct notion from the derived series of a group ); see Solvable Lie algebra on  Wikipedia. Wikipedia",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          },
+          {
+            "definition": "Such that the set of inputs for which the answer is yes is recursively enumerable .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer science",
+              "of a decision problem"
+            ],
+            "label_groups": "computer science , of a decision problem"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Capable of being dissolved or liquefied .",
+        "examples": [],
+        "synonyms": [
+          "soluble"
+        ],
+        "antonyms": [
+          "unsolvable",
+          "insolvable",
+          "insoluble"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Able to pay one's debts .",
+        "examples": [],
+        "synonyms": [
+          "solvent"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Capable of being paid and discharged .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      }
+    ],
+    "main_definition": "Capable of being solved .",
+    "secondary_definitions": [
+      "( obsolete ) Capable of being dissolved or liquefied .",
+      "( obsolete ) Able to pay one's debts .",
+      "( obsolete , rare ) Capable of being paid and discharged ."
+    ]
+  }
+]

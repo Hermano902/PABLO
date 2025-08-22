@@ -1,0 +1,28 @@
+{
+  "word": "singular",
+  "pos_order": [
+    "ADJ",
+    "N"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 10,
+      "examples": 5,
+      "synonyms": 15,
+      "antonyms": 4,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\singular.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\singular.json"
+  },
+  "timestamp": "2025-08-19T17:10:18.632458Z"
+}

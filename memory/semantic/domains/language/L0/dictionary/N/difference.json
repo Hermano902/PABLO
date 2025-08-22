@@ -1,0 +1,169 @@
+[
+  {
+    "word": "difference",
+    "lemma": "difference",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪf(ə)ɹəns/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "differences"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being different .",
+        "examples": [
+          "You need to learn to be more tolerant of difference ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "identity",
+          "sameness"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A characteristic of something that makes it different from something else.",
+        "examples": [
+          "There are three differences between these two pictures."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A disagreement or argument .",
+        "examples": [
+          "We have our little differences , but we are firm friends."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Significant change in or effect on a situation or state.",
+        "examples": [
+          "It just won't make much difference to me.",
+          "It just won't make much of a difference to anyone."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "uncountable"
+        ],
+        "label_groups": "countable , uncountable"
+      },
+      {
+        "definition": "The result of a subtraction ; sometimes the absolute value of this result.",
+        "examples": [
+          "The difference between 3 and 21 is 18."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Choice; preference.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An addition to a coat of arms to distinguish two people's bearings which would otherwise be the same. See augmentation and cadency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "heraldry"
+        ],
+        "label_groups": "heraldry"
+      },
+      {
+        "definition": "The quality or attribute which is added to those of the genus to constitute a species ; a differentia .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "A Boolean operation which is true when the two input variables are different but is otherwise false ; the XOR operation ( A B ¯ + A ¯ B {\\displaystyle \\scriptstyle A{\\overline {B}}+{\\overline {A}}B} ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic circuits"
+        ],
+        "label_groups": "logic circuits"
+      },
+      {
+        "definition": "The set of elements that are in one set but not another ( A B ¯ {\\displaystyle \\scriptstyle A{\\overline {B}}} ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relational algebra"
+        ],
+        "label_groups": "relational algebra"
+      }
+    ],
+    "main_definition": "( uncountable ) The quality of being different .",
+    "secondary_definitions": [
+      "( countable ) A characteristic of something that makes it different from something else.",
+      "( countable ) A disagreement or argument .",
+      "( countable , uncountable ) Significant change in or effect on a situation or state.",
+      "( countable ) The result of a subtraction ; sometimes the absolute value of this result.",
+      "( obsolete ) Choice; preference.",
+      "( heraldry ) An addition to a coat of arms to distinguish two people's bearings which would otherwise be the same. See augmentation and cadency .",
+      "( logic ) The quality or attribute which is added to those of the genus to constitute a species ; a differentia .",
+      "( logic circuits ) A Boolean operation which is true when the two input variables are different but is otherwise false ; the XOR operation ( A B ¯ + A ¯ B {\\displaystyle \\scriptstyle A{\\overline {B}}+{\\overline {A}}B} ).",
+      "( relational algebra ) The set of elements that are in one set but not another ( A B ¯ {\\displaystyle \\scriptstyle A{\\overline {B}}} )."
+    ]
+  }
+]

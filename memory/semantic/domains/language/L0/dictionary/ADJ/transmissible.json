@@ -1,0 +1,67 @@
+[
+  {
+    "word": "transmissible",
+    "lemma": "transmissible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more transmissible",
+          "SUP": "most transmissible"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be transmitted .",
+        "examples": [],
+        "synonyms": [
+          "transmittable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Capable of being transmitted from one person to another.",
+            "examples": [],
+            "synonyms": [
+              "communicable",
+              "spreadable",
+              "catching"
+            ],
+            "antonyms": [
+              "nontransmissible",
+              "noncommunicable"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine",
+              "of a disease"
+            ],
+            "label_groups": "medicine , of a disease"
+          },
+          {
+            "definition": "Capable of being transmitted from a transmitter to a receiver .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "radio communications or broadcasting",
+              "of a message or program"
+            ],
+            "label_groups": "radio communications or broadcasting , of a message or program"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Able to be transmitted .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "word": "arrow",
+    "lemma": "arrow",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæɹəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "arrows",
+          "PT": "arrowed",
+          "PAP": "arrowed",
+          "PRP": "arrowing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move swiftly and directly (like an arrow).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To let fly swiftly and directly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To develop an inflorescence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "botany",
+          "of a sugar cane plant"
+        ],
+        "label_groups": "intransitive , botany , of a sugar cane plant"
+      },
+      {
+        "definition": "To navigate using the arrow keys .",
+        "examples": [
+          "Arrow left until you reach the start of the text you want to delete."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "intransitive"
+        ],
+        "label_groups": "computing , intransitive"
+      },
+      {
+        "definition": "To single out or nominate (someone) to be responsible for something, especially an undesirable task.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Singapore",
+          "Singlish",
+          "transitive",
+          "originally military slang"
+        ],
+        "label_groups": "Singapore , Singlish , transitive , originally military slang"
+      }
+    ],
+    "main_definition": "( intransitive ) To move swiftly and directly (like an arrow).",
+    "secondary_definitions": [
+      "( transitive ) To let fly swiftly and directly.",
+      "( intransitive , botany , of a sugar cane plant ) To develop an inflorescence .",
+      "( computing , intransitive ) To navigate using the arrow keys .",
+      "( Singapore , Singlish , transitive , originally military slang ) To single out or nominate (someone) to be responsible for something, especially an undesirable task."
+    ]
+  }
+]

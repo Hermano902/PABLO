@@ -1,0 +1,49 @@
+{
+  "word": "la",
+  "pos_order": [
+    "N",
+    "INTJ",
+    "INTJ:2",
+    "ADJ",
+    "N:2",
+    "PART",
+    "PART:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "INTJ": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PART": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\la.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\la.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\la.json",
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\la.json"
+  },
+  "timestamp": "2025-08-19T07:13:28.327046Z"
+}

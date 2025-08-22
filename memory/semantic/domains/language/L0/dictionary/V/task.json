@@ -1,0 +1,69 @@
+[
+  {
+    "word": "task",
+    "lemma": "task",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɑːsk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tasks",
+          "PT": "tasked",
+          "PAP": "tasked",
+          "PRP": "tasking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assign a task to, or impose a task on.",
+        "examples": [
+          "On my first day in the office, I was tasked with sorting a pile of invoices."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To oppress with severe or excessive burdens ; to tax",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To charge , as with a fault .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To assign a task to, or impose a task on.",
+    "secondary_definitions": [
+      "( transitive ) To oppress with severe or excessive burdens ; to tax",
+      "( transitive ) To charge , as with a fault ."
+    ]
+  }
+]

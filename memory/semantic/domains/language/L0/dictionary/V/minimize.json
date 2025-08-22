@@ -1,0 +1,89 @@
+[
+  {
+    "word": "minimize",
+    "lemma": "minimize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪn.ɪ.maɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "minimizes",
+          "PT": "minimized",
+          "PAP": "minimized",
+          "PRP": "minimizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make (something) smaller or as small as possible; shrink ; reduce .",
+        "examples": [
+          "We have to minimize the budget.",
+          "Try to minimize your biases."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To relegate or assign (something) to a less insignificant status; diminish .",
+        "examples": [
+          "The insurance adjuster tried to minimize the extent of the damage to lessen the company's exposure to liability."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove (a window ) from the main display area, collapsing it to an icon or caption .",
+        "examples": [
+          "I didn't close anything, but I minimized all the windows so I could see the desktop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive",
+          "graphical user interface"
+        ],
+        "label_groups": "computing , transitive , graphical user interface"
+      },
+      {
+        "definition": "To treat (someone) in a slighting manner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make (something) smaller or as small as possible; shrink ; reduce .",
+    "secondary_definitions": [
+      "( transitive ) To relegate or assign (something) to a less insignificant status; diminish .",
+      "( computing , transitive , graphical user interface ) To remove (a window ) from the main display area, collapsing it to an icon or caption .",
+      "( transitive ) To treat (someone) in a slighting manner."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "postdate",
+    "lemma": "postdate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpəʊstˌdeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "postdates",
+          "PT": "postdated",
+          "PAP": "postdated",
+          "PRP": "postdating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To occur after an event or time ; to exist later on in time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To assign an effective date to a document or action later than the actual date .",
+        "examples": [
+          "to postdate a contract, that is, to date it later than the time when it was in fact made"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To affix a date to after the event.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To occur after an event or time ; to exist later on in time.",
+    "secondary_definitions": [
+      "( transitive ) To assign an effective date to a document or action later than the actual date .",
+      "( transitive ) To affix a date to after the event."
+    ]
+  }
+]

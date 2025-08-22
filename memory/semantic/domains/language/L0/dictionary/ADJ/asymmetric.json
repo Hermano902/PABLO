@@ -1,0 +1,58 @@
+[
+  {
+    "word": "asymmetric",
+    "lemma": "asymmetric",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌeɪ.səˈmɛt.ɹɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more asymmetric",
+          "SUP": "most asymmetric"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not symmetric .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not involving a mutual exchange of keys between the sender and receiver.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "Of a relation R on a set S : having the property that for any two elements of S (not necessarily distinct), at least one is not related to the other via R .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      }
+    ],
+    "main_definition": "Not symmetric .",
+    "secondary_definitions": [
+      "( cryptography ) Not involving a mutual exchange of keys between the sender and receiver.",
+      "( set theory ) Of a relation R on a set S : having the property that for any two elements of S (not necessarily distinct), at least one is not related to the other via R ."
+    ]
+  }
+]

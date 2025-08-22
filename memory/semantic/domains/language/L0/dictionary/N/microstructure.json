@@ -1,0 +1,65 @@
+[
+  {
+    "word": "microstructure",
+    "lemma": "microstructure",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "microstructures"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Fine-scale structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The fine structure of a material or tissue as revealed by microscopy .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The fine structure of a pure metal or alloy, as revealed by magnifications of 25X or greater.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "metallurgy"
+            ],
+            "label_groups": "metallurgy"
+          },
+          {
+            "definition": "Fine-scale structure in such variables as temperature, salinity, velocity, etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "meteorology",
+              "oceanography"
+            ],
+            "label_groups": "meteorology , oceanography"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Fine-scale structure.",
+    "secondary_definitions": []
+  }
+]

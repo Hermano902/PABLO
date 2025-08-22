@@ -1,0 +1,71 @@
+[
+  {
+    "word": "supervisor",
+    "lemma": "supervisor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsuːpəˌvaɪzə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "supervisors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person with the official task of overseeing the work of a person or group, or of other operations and activities.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "management"
+        ],
+        "label_groups": "management"
+      },
+      {
+        "definition": "A person who monitors someone to make sure they comply with rules or other requirements set for them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In certain states, an elected member of the governing body for a county which is called the board of supervisors .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      },
+      {
+        "definition": "A process responsible for managing other processes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( management ) A person with the official task of overseeing the work of a person or group, or of other operations and activities.",
+    "secondary_definitions": [
+      "A person who monitors someone to make sure they comply with rules or other requirements set for them.",
+      "( US ) In certain states, an elected member of the governing body for a county which is called the board of supervisors .",
+      "( computing ) A process responsible for managing other processes."
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "connectivity",
+    "lemma": "connectivity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "connectivities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state of being connected",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The ability to make a connection between two or more points in a network",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "In a graph , a measure of concatenated adjacency (the number of ways that points are connected to each other)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mathematics"
+        ],
+        "label_groups": "countable , mathematics"
+      }
+    ],
+    "main_definition": "( uncountable ) The state of being connected",
+    "secondary_definitions": [
+      "( telecommunications ) The ability to make a connection between two or more points in a network",
+      "( countable , mathematics ) In a graph , a measure of concatenated adjacency (the number of ways that points are connected to each other)"
+    ]
+  }
+]

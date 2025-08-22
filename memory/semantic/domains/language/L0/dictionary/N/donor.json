@@ -1,0 +1,59 @@
+[
+  {
+    "word": "donor",
+    "lemma": "donor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdoʊnɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "donors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who makes a donation .",
+        "examples": [
+          "The charity raised $2,000 from various donors .",
+          "The hospital is seeking an organ donor ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An object, typically broken beyond repair, that is used for spare parts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group or molecule that donates either a radical, electrons or a moiety in a chemical reaction. Compare acceptor .",
+        "examples": [
+          "a carbonyl donor molecule"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "One who makes a donation .",
+    "secondary_definitions": [
+      "An object, typically broken beyond repair, that is used for spare parts .",
+      "( chemistry ) A group or molecule that donates either a radical, electrons or a moiety in a chemical reaction. Compare acceptor ."
+    ]
+  }
+]

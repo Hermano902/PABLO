@@ -1,0 +1,73 @@
+[
+  {
+    "word": "reenter",
+    "lemma": "reenter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛntə(ɹ)",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reenters",
+          "PT": "reentered",
+          "PAP": "reentered",
+          "PRP": "reentering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enter again; return into.",
+        "examples": [
+          "The shuttle reentered the atmosphere."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To enter again; retype , reinput .",
+        "examples": [
+          "We had to reenter a day's worth of data into the system."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To cut deeper where the aqua fortis has not bitten sufficiently.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "engraving"
+        ],
+        "label_groups": "ambitransitive , engraving"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To enter again; return into.",
+    "secondary_definitions": [
+      "( transitive , computing ) To enter again; retype , reinput .",
+      "( ambitransitive , engraving ) To cut deeper where the aqua fortis has not bitten sufficiently."
+    ]
+  }
+]

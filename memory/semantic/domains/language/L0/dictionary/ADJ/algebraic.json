@@ -1,0 +1,91 @@
+[
+  {
+    "word": "algebraic",
+    "lemma": "algebraic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌæl.d͡ʒɪˈbɹeɪ.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more algebraic",
+          "SUP": "most algebraic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, or relating to, algebra .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Containing only numbers , letters , and arithmetic operators .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of an expression",
+          "equation",
+          "or function"
+        ],
+        "label_groups": "mathematics , of an expression , equation , or function"
+      },
+      {
+        "definition": "Which is a root of some polynomial whose coefficients are rational .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "number theory",
+          "of a number"
+        ],
+        "label_groups": "algebra , number theory , of a number"
+      },
+      {
+        "definition": "Whose every element is a root of some polynomial whose coefficients are rational .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a field"
+        ],
+        "label_groups": "algebra , of a field"
+      },
+      {
+        "definition": "Describing squares by file (referred to in intrinsic order rather than by the piece starting on that file) and rank , both with reference to a fixed point rather than a player-dependent perspective.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess",
+          "of notation"
+        ],
+        "label_groups": "chess , of notation"
+      }
+    ],
+    "main_definition": "Of, or relating to, algebra .",
+    "secondary_definitions": [
+      "( mathematics , of an expression , equation , or function ) Containing only numbers , letters , and arithmetic operators .",
+      "( algebra , number theory , of a number ) Which is a root of some polynomial whose coefficients are rational .",
+      "( algebra , of a field ) Whose every element is a root of some polynomial whose coefficients are rational .",
+      "( chess , of notation ) Describing squares by file (referred to in intrinsic order rather than by the piece starting on that file) and rank , both with reference to a fixed point rather than a player-dependent perspective."
+    ]
+  }
+]

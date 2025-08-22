@@ -1,0 +1,184 @@
+[
+  {
+    "word": "content",
+    "lemma": "content",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɛnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Satisfaction , contentment ; pleasure .",
+        "examples": [
+          "They were in a state of sleepy content after supper."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( obsolete ) Acquiescence without examination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "That which contents or satisfies; that which if attained would make one happy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( UK , House of Lords ) An expression of assent to a bill or motion ; an affirmative vote .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( UK , House of Lords , by metonymy ) A member who votes in assent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Satisfaction , contentment ; pleasure .",
+    "secondary_definitions": [
+      "( obsolete ) Acquiescence without examination .",
+      "That which contents or satisfies; that which if attained would make one happy.",
+      "( UK , House of Lords ) An expression of assent to a bill or motion ; an affirmative vote .",
+      "( UK , House of Lords , by metonymy ) A member who votes in assent ."
+    ]
+  },
+  {
+    "word": "content",
+    "lemma": "content",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/kənˈtɛnt/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "contents"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "That which is contained .",
+        "examples": [],
+        "synonyms": [
+          "contents"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Subject matter; semantic information (or a portion or body thereof); that which is contained in writing , speech , video , etc.",
+        "examples": [
+          "Although eloquently delivered, the content of the speech was objectionable.",
+          "You can look up the chapter on special relativity in the table of contents ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "One or more creative works . ( Internet , colloquial ) The potential of creative work for a content creator .",
+            "examples": [
+              "Some online video creators upload new content every day.",
+              "Prolific creators manage their voluminous content with any of various content management systems.",
+              "doing it for the content"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension",
+              "uncountable"
+            ],
+            "label_groups": "by extension , uncountable"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The amount of material contained.",
+        "examples": [
+          "Light beer has a lower alcohol content than regular beer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Capacity for containing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "The n -dimensional space contained by an n -dimensional polytope (called volume in the case of a polyhedron and area in the case of a polygon ); length, area or volume, generalized to an arbitrary number of dimensions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The greatest common divisor of the coefficients ; ( of a polynomial with coefficients in an integral domain ) the common factor of the coefficients which, when removed, leaves the adjusted coefficients with no common factor that is noninvertible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "ring theory",
+          "of a polynomial with coefficients in a GCD domain"
+        ],
+        "label_groups": "algebra , ring theory , of a polynomial with coefficients in a GCD domain"
+      }
+    ],
+    "main_definition": "( uncountable ) That which is contained .",
+    "secondary_definitions": [
+      "Subject matter; semantic information (or a portion or body thereof); that which is contained in writing , speech , video , etc.",
+      "The amount of material contained.",
+      "( obsolete ) Capacity for containing.",
+      "( mathematics ) The n -dimensional space contained by an n -dimensional polytope (called volume in the case of a polyhedron and area in the case of a polygon ); length, area or volume, generalized to an arbitrary number of dimensions.",
+      "( algebra , ring theory , of a polynomial with coefficients in a GCD domain ) The greatest common divisor of the coefficients ; ( of a polynomial with coefficients in an integral domain ) the common factor of the coefficients which, when removed, leaves the adjusted coefficients with no common factor that is noninvertible ."
+    ]
+  }
+]

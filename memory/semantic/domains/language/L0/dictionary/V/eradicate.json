@@ -1,0 +1,73 @@
+[
+  {
+    "word": "eradicate",
+    "lemma": "eradicate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈɹæd.ɪ.keɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "eradicates",
+          "PT": "eradicated",
+          "PAP": "eradicated",
+          "PRP": "eradicating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pull up by the roots .",
+        "examples": [],
+        "synonyms": [
+          "root out",
+          "root up",
+          "uproot"
+        ],
+        "antonyms": [
+          "radicate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To destroy completely ; to reduce to nothing radically ; to put an end to.",
+        "examples": [
+          "Smallpox was globally eradicated in 1980."
+        ],
+        "synonyms": [
+          "annihilate",
+          "eliminate",
+          "exterminate",
+          "extirpate"
+        ],
+        "antonyms": [
+          "encourage",
+          "foster",
+          "introduce",
+          "protect",
+          "radicate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To pull up by the roots .",
+    "secondary_definitions": [
+      "( transitive ) To destroy completely ; to reduce to nothing radically ; to put an end to."
+    ]
+  }
+]

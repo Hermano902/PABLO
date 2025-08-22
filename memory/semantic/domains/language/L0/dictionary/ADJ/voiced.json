@@ -1,0 +1,66 @@
+[
+  {
+    "word": "voiced",
+    "lemma": "voiced",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/vɔɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Sounded with vibration of the vocal cords . For example, the phone [z] is voiced, while [s] is unvoiced .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "voiceless",
+          "unvoiced"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics"
+        ],
+        "label_groups": "phonetics"
+      },
+      {
+        "definition": "Having a specified kind of voice.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in combination"
+        ],
+        "label_groups": "in combination"
+      },
+      {
+        "definition": "That contains voice .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing",
+          "of a signal"
+        ],
+        "label_groups": "signal processing , of a signal"
+      }
+    ],
+    "main_definition": "( phonetics ) Sounded with vibration of the vocal cords . For example, the phone [z] is voiced, while [s] is unvoiced .",
+    "secondary_definitions": [
+      "( in combination ) Having a specified kind of voice.",
+      "( signal processing , of a signal ) That contains voice ."
+    ]
+  }
+]

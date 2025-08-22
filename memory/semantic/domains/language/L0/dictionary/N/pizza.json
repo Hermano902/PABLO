@@ -1,0 +1,61 @@
+[
+  {
+    "word": "pizza",
+    "lemma": "pizza",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpiːtsə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pizzas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce , cheese , and other ingredients such as meat or vegetables .",
+        "examples": [
+          "a slice of pizza",
+          "a pizza pie",
+          "Want to go out for pizza tonight?"
+        ],
+        "synonyms": [
+          "'za"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A single instance of this dish.",
+        "examples": [
+          "He ate a whole pizza !",
+          "Should we cook a frozen pizza for dinner?"
+        ],
+        "synonyms": [
+          "pizza pie",
+          "pie"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce , cheese , and other ingredients such as meat or vegetables .",
+    "secondary_definitions": [
+      "( countable ) A single instance of this dish."
+    ]
+  }
+]

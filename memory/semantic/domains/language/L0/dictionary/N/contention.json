@@ -1,0 +1,57 @@
+[
+  {
+    "word": "contention",
+    "lemma": "contention",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɛnʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "contentions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Argument , contest , debate , strife , struggle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A point maintained in an argument, or a line of argument taken in its support; the subject matter of discussion of strife; a position taken or contended for.",
+        "examples": [
+          "It is my contention that state lotteries are taxes on stupid people."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Competition by parts of a system or its users for a limited resource .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "telecommunications"
+        ],
+        "label_groups": "computing , telecommunications"
+      }
+    ],
+    "main_definition": "Argument , contest , debate , strife , struggle .",
+    "secondary_definitions": [
+      "A point maintained in an argument, or a line of argument taken in its support; the subject matter of discussion of strife; a position taken or contended for.",
+      "( computing , telecommunications ) Competition by parts of a system or its users for a limited resource ."
+    ]
+  }
+]

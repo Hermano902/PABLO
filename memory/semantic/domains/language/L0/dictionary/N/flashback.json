@@ -1,0 +1,82 @@
+[
+  {
+    "word": "flashback",
+    "lemma": "flashback",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈflæʃ.bæk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "flashbacks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A dramatic device in which an earlier event is inserted into the normal chronological flow of a narrative .",
+        "examples": [],
+        "synonyms": [
+          "analepsis"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "authorship"
+        ],
+        "label_groups": "authorship"
+      },
+      {
+        "definition": "A vivid mental image of a past trauma or other sensation that the trauma is happening in the present, especially one that recurs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      },
+      {
+        "definition": "A similar recurrence of the effects of a hallucinogenic drug .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The condition of the flame propagating down the hose of an oxy-fuel welding system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A query that operates against data from an earlier time, before it was changed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "( authorship ) A dramatic device in which an earlier event is inserted into the normal chronological flow of a narrative .",
+    "secondary_definitions": [
+      "( psychology ) A vivid mental image of a past trauma or other sensation that the trauma is happening in the present, especially one that recurs .",
+      "A similar recurrence of the effects of a hallucinogenic drug .",
+      "The condition of the flame propagating down the hose of an oxy-fuel welding system.",
+      "( databases ) A query that operates against data from an earlier time, before it was changed."
+    ]
+  }
+]

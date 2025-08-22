@@ -1,0 +1,109 @@
+[
+  {
+    "word": "query",
+    "lemma": "query",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɪə.ɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "queries",
+          "PT": "queried",
+          "PAP": "queried",
+          "PRP": "querying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To ask a question.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To ask , inquire .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To question or call into doubt.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pass a set of instructions to a database to retrieve information from it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "To send a private message to (a user on IRC ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Internet"
+        ],
+        "label_groups": "transitive , Internet"
+      },
+      {
+        "definition": "To send out a query letter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "publishing"
+        ],
+        "label_groups": "intransitive , publishing"
+      }
+    ],
+    "main_definition": "( intransitive ) To ask a question.",
+    "secondary_definitions": [
+      "( transitive ) To ask , inquire .",
+      "( transitive ) To question or call into doubt.",
+      "( computing , databases ) To pass a set of instructions to a database to retrieve information from it.",
+      "( transitive , Internet ) To send a private message to (a user on IRC ).",
+      "( intransitive , publishing ) To send out a query letter ."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "irreflexive",
+    "lemma": "irreflexive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a binary relation R on X : such that no element of X is R-related to itself.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory"
+        ],
+        "label_groups": "set theory"
+      }
+    ],
+    "main_definition": "( set theory ) Of a binary relation R on X : such that no element of X is R-related to itself.",
+    "secondary_definitions": []
+  }
+]

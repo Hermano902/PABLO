@@ -1,0 +1,50 @@
+[
+  {
+    "word": "chemotherapy",
+    "lemma": "chemotherapy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkiːməʊˈθɛɹəpi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chemotherapies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any chemical treatment intended to be therapeutic with respect to a disease state.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "chemical treatment to kill or halt the replication and/or spread of cancerous cells in a patient.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "oncology",
+          "most common usage"
+        ],
+        "label_groups": "oncology , most common usage"
+      }
+    ],
+    "main_definition": "( medicine ) Any chemical treatment intended to be therapeutic with respect to a disease state.",
+    "secondary_definitions": [
+      "( oncology , most common usage ) chemical treatment to kill or halt the replication and/or spread of cancerous cells in a patient."
+    ]
+  }
+]

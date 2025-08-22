@@ -1,0 +1,192 @@
+[
+  {
+    "word": "mode",
+    "lemma": "mode",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/moʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "modes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( music ) One of several common scales in modern Western music, one of which corresponds to the modern major scale and one to the natural minor scale .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( music , in particular ) One of several ancient Greek scales .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A particular means of accomplishing something.",
+        "examples": [
+          "What was the mode of entry?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( mathematics , physics ) A state of a system that is represented by an eigenfunction of that system. ( especially engineering ) A state related to signals or vibrations. ( electromagnetism ) A wave pattern in the electromagnetic field.",
+            "examples": [
+              "common- mode",
+              "differential- mode",
+              "normal mode of vibration",
+              "longitudinal mode",
+              "transverse mode"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( computing ) One of various related sets of rules for processing data; more generally, any state of the system associated with certain behaviours.",
+            "examples": [
+              "In insert mode , characters typed are directly inserted into the buffer."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( electronics ) A series of settings on a device used for a specific purpose.",
+            "examples": [
+              "airplane mode ; night mode"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( video games ) A variation in gameplay , such as a difficulty level.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( grammar ) A verb form that depends on how its containing clause relates to the speaker’s or writer’s wish, intent, or assertion about reality.",
+            "examples": [],
+            "synonyms": [
+              "mood",
+              "grammatical mood"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( philosophy ) That which exists only as a quality of substance.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A particular state of being , or frame of mind .",
+        "examples": [
+          "After a series of early setbacks, her political campaign is in crisis mode .",
+          "After being stabbed, he went into survival mode until he got to the hospital."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( statistics ) The most frequently occurring value in a distribution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( textiles ) In lace-making, a small decorative piece inserted into a pattern .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( textiles ) The openwork between the solid parts of a pattern.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( obsolete ) A woman's mantle with a hood.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "( music ) One of several common scales in modern Western music, one of which corresponds to the modern major scale and one to the natural minor scale .",
+    "secondary_definitions": [
+      "A particular means of accomplishing something.",
+      "A particular state of being , or frame of mind .",
+      "( statistics ) The most frequently occurring value in a distribution .",
+      "( textiles ) In lace-making, a small decorative piece inserted into a pattern ."
+    ]
+  },
+  {
+    "word": "mode",
+    "lemma": "mode",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/moʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "modes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Style or fashion ; popular trend .",
+        "examples": [
+          "Her wardrobe is always in mode ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Style or fashion ; popular trend .",
+    "secondary_definitions": []
+  }
+]

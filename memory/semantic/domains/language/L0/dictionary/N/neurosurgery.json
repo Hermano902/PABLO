@@ -1,0 +1,53 @@
+[
+  {
+    "word": "neurosurgery",
+    "lemma": "neurosurgery",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "neurosurgeries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The surgical discipline focused on treating those central and peripheral nervous system diseases.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "neurology",
+          "surgery",
+          "uncountable"
+        ],
+        "label_groups": "neurology , surgery , uncountable"
+      },
+      {
+        "definition": "Any surgical procedure performed on the nervous system , especially the brain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "neurology",
+          "surgery",
+          "countable"
+        ],
+        "label_groups": "neurology , surgery , countable"
+      }
+    ],
+    "main_definition": "( neurology , surgery , uncountable ) The surgical discipline focused on treating those central and peripheral nervous system diseases.",
+    "secondary_definitions": [
+      "( neurology , surgery , countable ) Any surgical procedure performed on the nervous system , especially the brain ."
+    ]
+  }
+]

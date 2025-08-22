@@ -1,0 +1,138 @@
+[
+  {
+    "word": "compress",
+    "lemma": "compress",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpɹɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "compresses",
+          "PT": "compressed",
+          "PAP": "compressed",
+          "PRP": "compressing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.",
+        "examples": [
+          "The force required to compress a spring varies linearly with the displacement."
+        ],
+        "synonyms": [
+          "compact",
+          "condense",
+          "pack",
+          "press",
+          "squash",
+          "squeeze"
+        ],
+        "antonyms": [
+          "expand"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be pressed together or folded by compression into a more economic, easier format.",
+        "examples": [
+          "Our new model compresses easily, ideal for storage and travel"
+        ],
+        "synonyms": [
+          "contract"
+        ],
+        "antonyms": [
+          "decontract"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To condense into a more economic, easier format.",
+        "examples": [
+          "This chart compresses the entire audit report into a few lines on a single diagram."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To abridge .",
+        "examples": [
+          "If you try to compress the entire book into a three-sentence summary, you will lose a lot of information."
+        ],
+        "synonyms": [
+          "abridge",
+          "condense",
+          "shorten",
+          "truncate"
+        ],
+        "antonyms": [
+          "expand",
+          "lengthen"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make digital information smaller by encoding it using fewer bits .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "uncompress"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To embrace sexually.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.",
+    "secondary_definitions": [
+      "( intransitive ) To be pressed together or folded by compression into a more economic, easier format.",
+      "( transitive ) To condense into a more economic, easier format.",
+      "( transitive ) To abridge .",
+      "( computing , transitive ) To make digital information smaller by encoding it using fewer bits .",
+      "( obsolete ) To embrace sexually."
+    ]
+  }
+]

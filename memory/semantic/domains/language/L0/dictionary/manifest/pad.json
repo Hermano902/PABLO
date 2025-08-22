@@ -1,0 +1,42 @@
+{
+  "word": "pad",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4",
+    "V:2",
+    "INTJ",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 34,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 5
+    },
+    "V": {
+      "definitions": 10,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pad.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pad.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\pad.json"
+  },
+  "timestamp": "2025-08-19T11:03:29.633411Z"
+}

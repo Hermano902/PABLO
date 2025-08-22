@@ -1,0 +1,83 @@
+[
+  {
+    "word": "interface",
+    "lemma": "interface",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntəfeɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interfaces",
+          "PT": "interfaced",
+          "PAP": "interfaced",
+          "PRP": "interfacing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To construct an interface for.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To connect through an interface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To serve as an interface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To meet for discussion .",
+        "examples": [
+          "Let's interface on Wednesday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "business",
+          "intransitive"
+        ],
+        "label_groups": "business , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To construct an interface for.",
+    "secondary_definitions": [
+      "( ambitransitive ) To connect through an interface.",
+      "( intransitive ) To serve as an interface.",
+      "( business , intransitive ) To meet for discussion ."
+    ]
+  }
+]

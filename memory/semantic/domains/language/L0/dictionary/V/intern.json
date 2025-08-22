@@ -1,0 +1,99 @@
+[
+  {
+    "word": "intern",
+    "lemma": "intern",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɝn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interns",
+          "PT": "interned",
+          "PAP": "interned",
+          "PRP": "interning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To imprison somebody, usually without trial.",
+        "examples": [
+          "The US government interned thousands of Japanese-Americans during World War II."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( of a state , especially a neutral state ) To confine or hold (foreign military personnel who stray into the state's territory) within prescribed limits during wartime.",
+            "examples": [
+              "The Swiss government interned the Italian soldiers who had strayed onto Swiss territory."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , programming ) To internalize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To imprison somebody, usually without trial.",
+    "secondary_definitions": [
+      "( transitive , programming ) To internalize ."
+    ]
+  },
+  {
+    "word": "intern",
+    "lemma": "intern",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ɪnˈtɝn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "interns",
+          "PT": "interned",
+          "PAP": "interned",
+          "PRP": "interning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To work as an intern, usually with little or no pay or other legal prerogatives of employment, and for the purpose of furthering a program of education.",
+        "examples": [
+          "I'll be interning at Universal Studios this summer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To work as an intern, usually with little or no pay or other legal prerogatives of employment, and for the purpose of furthering a program of education.",
+    "secondary_definitions": []
+  }
+]

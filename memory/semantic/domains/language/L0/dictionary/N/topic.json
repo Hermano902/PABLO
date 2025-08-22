@@ -1,0 +1,105 @@
+[
+  {
+    "word": "topic",
+    "lemma": "topic",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɒpɪk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "topics"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Subject ; theme ; a category or general area of interest.",
+        "examples": [
+          "A society where a topic cannot be discussed, does not have free speech.",
+          "stick to the topic",
+          "an interesting topic of conversation",
+          "romance is a topic that frequently comes up in conversation"
+        ],
+        "synonyms": [
+          "ground"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Discussion thread .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "A component similar to a message queue which supports multiple subscribers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A musical sign intended to suggest a particular style or genre .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "An argument or reason.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An external local application or remedy, such as a plaster, a blister, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "medicine"
+        ],
+        "label_groups": "obsolete , medicine"
+      }
+    ],
+    "main_definition": "Subject ; theme ; a category or general area of interest.",
+    "secondary_definitions": [
+      "( Internet ) Discussion thread .",
+      "( computing ) A component similar to a message queue which supports multiple subscribers .",
+      "( music ) A musical sign intended to suggest a particular style or genre .",
+      "( obsolete ) An argument or reason.",
+      "( obsolete , medicine ) An external local application or remedy, such as a plaster, a blister, etc."
+    ]
+  }
+]

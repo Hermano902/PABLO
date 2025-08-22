@@ -1,0 +1,64 @@
+[
+  {
+    "word": "narrator",
+    "lemma": "narrator",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nəˈɹeɪtə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "narrators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who narrates or tells stories.",
+        "examples": [],
+        "synonyms": [
+          "storyteller"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The person or the \" voice \" whose viewpoint is used in telling a story.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "narratology"
+        ],
+        "label_groups": "narratology"
+      },
+      {
+        "definition": "The person providing the voice-over in a documentary .",
+        "examples": [
+          "Morgan Freeman was the narrator of March of the Penguins .",
+          "March of the Penguins"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "film",
+          "television"
+        ],
+        "label_groups": "film and television"
+      }
+    ],
+    "main_definition": "One who narrates or tells stories.",
+    "secondary_definitions": [
+      "( narratology ) The person or the \" voice \" whose viewpoint is used in telling a story.",
+      "( film and television ) The person providing the voice-over in a documentary ."
+    ]
+  }
+]

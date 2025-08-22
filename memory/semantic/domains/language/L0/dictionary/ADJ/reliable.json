@@ -1,0 +1,46 @@
+[
+  {
+    "word": "reliable",
+    "lemma": "reliable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈlaɪəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more reliable",
+          "SUP": "most reliable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Suitable or fit to be relied on ; worthy of dependence , reliance or trust ; dependable , trustworthy",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Such that either a sent packet will reach its destination, even if it requires retransmission, or the sender will be told that it didn't.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing",
+          "of a communication protocol"
+        ],
+        "label_groups": "signal processing , of a communication protocol"
+      }
+    ],
+    "main_definition": "Suitable or fit to be relied on ; worthy of dependence , reliance or trust ; dependable , trustworthy",
+    "secondary_definitions": [
+      "( signal processing , of a communication protocol ) Such that either a sent packet will reach its destination, even if it requires retransmission, or the sender will be told that it didn't."
+    ]
+  }
+]

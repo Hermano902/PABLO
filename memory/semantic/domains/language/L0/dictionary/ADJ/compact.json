@@ -1,0 +1,151 @@
+[
+  {
+    "word": "compact",
+    "lemma": "compact",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒmˌpækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( archaic ) Agreed , contracted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( archaic ) Agreed , contracted .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "compact",
+    "lemma": "compact",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ˈkɒmˌpækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "compacter",
+          "SUP": "compactest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Closely packed or densely constituted; having much material in a small volume.",
+        "examples": [],
+        "synonyms": [
+          "concentrated",
+          "crowded",
+          "dense",
+          "serried"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having all necessary features fitting neatly into a small space.",
+        "examples": [
+          "a compact laptop computer"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Brief and pithy ; not verbose .",
+        "examples": [
+          "a compact discourse"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of prose"
+        ],
+        "label_groups": "of prose"
+      },
+      {
+        "definition": "Of a topological space:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Such that every open cover has a finite subcover . In a metric space , this is equivalent to being sequentially compact . In metric spaces with the Heine-Borel property , this is equivalent to being closed and bounded .",
+            "examples": [],
+            "synonyms": [
+              "quasi-compact"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Compact in the above sense and moreover Hausdorff .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "topology",
+          "not comparable"
+        ],
+        "label_groups": "topology , not comparable"
+      },
+      {
+        "definition": "Joined or held together; leagued; confederated.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Composed or made; with of .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Closely packed or densely constituted; having much material in a small volume.",
+    "secondary_definitions": [
+      "Having all necessary features fitting neatly into a small space.",
+      "( of prose ) Brief and pithy ; not verbose .",
+      "( topology , not comparable ) Of a topological space:",
+      "( obsolete ) Joined or held together; leagued; confederated.",
+      "( obsolete ) Composed or made; with of ."
+    ]
+  }
+]

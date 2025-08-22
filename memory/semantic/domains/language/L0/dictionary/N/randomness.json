@@ -1,0 +1,56 @@
+[
+  {
+    "word": "randomness",
+    "lemma": "randomness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹændəmnəs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "randomnesses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of all possible outcomes being equally likely .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A type of circumstance or event that is described by a probability distribution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A measure of the lack of purpose , logic , or objectivity of an event .",
+        "examples": [
+          "There was no randomness in the teacher's selection of the class representative."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The property of all possible outcomes being equally likely .",
+    "secondary_definitions": [
+      "( mathematics ) A type of circumstance or event that is described by a probability distribution .",
+      "A measure of the lack of purpose , logic , or objectivity of an event ."
+    ]
+  }
+]

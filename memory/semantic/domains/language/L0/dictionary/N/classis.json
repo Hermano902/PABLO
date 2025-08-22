@@ -1,0 +1,65 @@
+[
+  {
+    "word": "classis",
+    "lemma": "classis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈklæsɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "classes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A class or order ; sort ; type ; kind .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "An ecclesiastical body or judicatory in certain churches , such as the Dutch Reformed Church . It is intermediate between the consistory and the synod , and corresponds to the presbytery in the Presbyterian church.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "religion"
+        ],
+        "label_groups": "religion"
+      },
+      {
+        "definition": "A category in the classification of organisms , ranking below divisio and above ordo .",
+        "examples": [],
+        "synonyms": [
+          "class"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "taxonomy"
+        ],
+        "label_groups": "biology , taxonomy"
+      }
+    ],
+    "main_definition": "( obsolete ) A class or order ; sort ; type ; kind .",
+    "secondary_definitions": [
+      "( religion ) An ecclesiastical body or judicatory in certain churches , such as the Dutch Reformed Church . It is intermediate between the consistory and the synod , and corresponds to the presbytery in the Presbyterian church.",
+      "( biology , taxonomy ) A category in the classification of organisms , ranking below divisio and above ordo ."
+    ]
+  }
+]

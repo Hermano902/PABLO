@@ -1,0 +1,67 @@
+[
+  {
+    "word": "reluctant",
+    "lemma": "reluctant",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈlʌktənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more reluctant",
+          "SUP": "most reluctant"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not wanting to take some action ; unwilling to do something.",
+        "examples": [
+          "She was reluctant to lend him the money",
+          "Surprisingly, our new dog is a reluctant ball-retriever."
+        ],
+        "synonyms": [
+          "disinclined",
+          "loath",
+          "grudging"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Contrary ; defiant ; refractory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "Tending to match as little text as possible.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "greedy"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "regular expressions"
+        ],
+        "label_groups": "regular expressions"
+      }
+    ],
+    "main_definition": "Not wanting to take some action ; unwilling to do something.",
+    "secondary_definitions": [
+      "( archaic ) Contrary ; defiant ; refractory .",
+      "( regular expressions ) Tending to match as little text as possible."
+    ]
+  }
+]

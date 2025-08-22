@@ -1,0 +1,102 @@
+[
+  {
+    "word": "who",
+    "lemma": "who",
+    "etymology": "Etymology",
+    "pos": "PRON",
+    "raw_label": "Pronoun",
+    "pos_index": 1,
+    "pronunciation": "/hw/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "What person or people; which person or people; asks for the identity of someone; used in a direct or indirect question .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "interrogative"
+        ],
+        "label_groups": "interrogative"
+      },
+      {
+        "definition": "Introduces a relative clause having a human antecedent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "With antecedent as subject.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "With antecedent as object : whom .",
+            "examples": [
+              "That's the man who I saw earlier.",
+              "defining",
+              "My brother, who you met the other day, is coming to stay for the weekend.",
+              "non-defining"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "relative"
+        ],
+        "label_groups": "relative"
+      },
+      {
+        "definition": "Whoever , he who, they who.",
+        "examples": [
+          "Who insults my mother insults me.",
+          "Give it to who deserves it.",
+          "marginal usage"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fused relative",
+          "archaic or marginal"
+        ],
+        "label_groups": "fused relative , archaic or marginal"
+      },
+      {
+        "definition": "Also used with names of collective nouns that are groups of people, especially singularly-named musical groups or sports teams.",
+        "examples": [
+          "Who are the Miami Heat?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "especially non-US"
+        ],
+        "label_groups": "informal , especially non-US"
+      }
+    ],
+    "main_definition": "( interrogative ) What person or people; which person or people; asks for the identity of someone; used in a direct or indirect question .",
+    "secondary_definitions": [
+      "( relative ) Introduces a relative clause having a human antecedent .",
+      "( fused relative , archaic or marginal ) Whoever , he who, they who.",
+      "( informal , especially non-US ) Also used with names of collective nouns that are groups of people, especially singularly-named musical groups or sports teams."
+    ]
+  }
+]

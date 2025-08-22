@@ -1,0 +1,87 @@
+[
+  {
+    "word": "recurrent",
+    "lemma": "recurrent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkʌɹənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Recurring ; happening time after time.",
+        "examples": [
+          "The patient complained of recurrent chest pain."
+        ],
+        "synonyms": [
+          "perennial",
+          "repetitious"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Non- transient .",
+        "examples": [],
+        "synonyms": [
+          "persistent"
+        ],
+        "antonyms": [
+          "transient"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "stochastic processes",
+          "of a state"
+        ],
+        "label_groups": "mathematics , stochastic processes , of a state"
+      },
+      {
+        "definition": "Running back toward its origin .",
+        "examples": [
+          "a recurrent nerve or artery"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "precurrent"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany",
+          "anatomy"
+        ],
+        "label_groups": "botany , anatomy"
+      },
+      {
+        "definition": "Turned back toward the base.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "entomology"
+        ],
+        "label_groups": "entomology"
+      }
+    ],
+    "main_definition": "Recurring ; happening time after time.",
+    "secondary_definitions": [
+      "( mathematics , stochastic processes , of a state ) Non- transient .",
+      "( botany , anatomy ) Running back toward its origin .",
+      "( entomology ) Turned back toward the base."
+    ]
+  }
+]

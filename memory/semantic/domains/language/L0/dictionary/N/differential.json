@@ -1,0 +1,137 @@
+[
+  {
+    "word": "differential",
+    "lemma": "differential",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "[dɪfəˈɹənʃəɫ]",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "differentials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The differential gear in an automobile , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A qualitative or quantitative difference between similar or comparable things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of two coils of conducting wire so related to one another or to a magnet or armature common to both, that one coil produces polar action contrary to that of the other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A form of conductor used for dividing and distributing the current to a series of electric lamps so as to maintain equal action in all.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A quantity representing an infinitesimal change in a variable , now only used as a heuristic aid except in nonstandard analysis but considered rigorous until the 20th century; a fluxion in Newtonian calculus , now usually written in Leibniz's notation as d x {\\displaystyle \\operatorname {d} \\!x} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      },
+      {
+        "definition": "{\\displaystyle f(x)} ) A function giving the change in the linear approximation of f {\\displaystyle f} at a point x {\\displaystyle x} over a small interval Δ x {\\displaystyle \\Delta x} or d x {\\displaystyle \\operatorname {d} \\!x} , the function being called the differential of f {\\displaystyle f} and denoted d f ( x , Δ x ) {\\displaystyle \\operatorname {d} \\!f(x,\\Delta x)} , d f ( x ) {\\displaystyle \\operatorname {d} \\!f(x)} , or simply d f {\\displaystyle \\operatorname {d} \\!f} .",
+        "examples": [
+          "If f ( x ) = x 2 {\\displaystyle f(x)=x^{2}} , the differential of f {\\displaystyle f} is the function d f ( x , Δ x ) = f ′ ( x ) Δ x = 2 x Δ x {\\displaystyle \\operatorname {d} \\!f(x,\\Delta x)=f'(x)\\Delta x=2x\\Delta x} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Any of several generalizations of this concept to functions of several variables or to higher orders : the partial differential , total differential , Gateaux differential , etc.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "calculus",
+          "of a univariate differentiable function f ( x"
+        ],
+        "label_groups": "calculus , of a univariate differentiable function f ( x"
+      },
+      {
+        "definition": "The Jacobian matrix of a function of several variables.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "multivariable calculus"
+        ],
+        "label_groups": "multivariable calculus"
+      },
+      {
+        "definition": "The pushforward or total derivative of ϕ {\\displaystyle \\phi } : a linear map from the tangent space at a point x {\\displaystyle x} in ϕ {\\displaystyle \\phi } 's domain to the tangent space at ϕ ( x ) {\\displaystyle \\phi (x)} which is, in a technical sense, the best linear approximation of ϕ {\\displaystyle \\phi } at x {\\displaystyle x} ; denoted d ϕ x {\\displaystyle \\operatorname {d} \\!\\phi _{x}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "differential geometry",
+          "of a smooth map ϕ {\\displaystyle \\phi } between smooth manifolds"
+        ],
+        "label_groups": "differential geometry , of a smooth map ϕ {\\displaystyle \\phi } between smooth manifolds"
+      },
+      {
+        "definition": "Any of several generalizations of the concept(s) above: e.g. the Kähler differential in the setting of schemes , the quadratic differential in the theory of Riemann surfaces , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "The differential gear in an automobile , etc.",
+    "secondary_definitions": [
+      "A qualitative or quantitative difference between similar or comparable things.",
+      "One of two coils of conducting wire so related to one another or to a magnet or armature common to both, that one coil produces polar action contrary to that of the other.",
+      "A form of conductor used for dividing and distributing the current to a series of electric lamps so as to maintain equal action in all.",
+      "( calculus ) A quantity representing an infinitesimal change in a variable , now only used as a heuristic aid except in nonstandard analysis but considered rigorous until the 20th century; a fluxion in Newtonian calculus , now usually written in Leibniz's notation as d x {\\displaystyle \\operatorname {d} \\!x} .",
+      "( calculus , of a univariate differentiable function f ( x ) {\\displaystyle f(x)} ) A function giving the change in the linear approximation of f {\\displaystyle f} at a point x {\\displaystyle x} over a small interval Δ x {\\displaystyle \\Delta x} or d x {\\displaystyle \\operatorname {d} \\!x} , the function being called the differential of f {\\displaystyle f} and denoted d f ( x , Δ x ) {\\displaystyle \\operatorname {d} \\!f(x,\\Delta x)} , d f ( x ) {\\displaystyle \\operatorname {d} \\!f(x)} , or simply d f {\\displaystyle \\operatorname {d} \\!f} .",
+      "( multivariable calculus ) The Jacobian matrix of a function of several variables.",
+      "( differential geometry , of a smooth map ϕ {\\displaystyle \\phi } between smooth manifolds ) The pushforward or total derivative of ϕ {\\displaystyle \\phi } : a linear map from the tangent space at a point x {\\displaystyle x} in ϕ {\\displaystyle \\phi } 's domain to the tangent space at ϕ ( x ) {\\displaystyle \\phi (x)} which is, in a technical sense, the best linear approximation of ϕ {\\displaystyle \\phi } at x {\\displaystyle x} ; denoted d ϕ x {\\displaystyle \\operatorname {d} \\!\\phi _{x}} .",
+      "( mathematics ) Any of several generalizations of the concept(s) above: e.g. the Kähler differential in the setting of schemes , the quadratic differential in the theory of Riemann surfaces , etc."
+    ]
+  }
+]

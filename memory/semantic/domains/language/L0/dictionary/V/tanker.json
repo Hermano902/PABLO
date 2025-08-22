@@ -1,0 +1,54 @@
+[
+  {
+    "word": "tanker",
+    "lemma": "tanker",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæŋkə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tankers",
+          "PT": "tankered",
+          "PAP": "tankered",
+          "PRP": "tankering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transport (oil, etc.) in a tanker .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To carry more fuel than necessary for a flight , in order to avoid having to refuel at a destination where fuel is more expensive or in short supply.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      }
+    ],
+    "main_definition": "( transitive ) To transport (oil, etc.) in a tanker .",
+    "secondary_definitions": [
+      "( aviation ) To carry more fuel than necessary for a flight , in order to avoid having to refuel at a destination where fuel is more expensive or in short supply."
+    ]
+  }
+]

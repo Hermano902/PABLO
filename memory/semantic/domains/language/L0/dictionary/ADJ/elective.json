@@ -1,0 +1,77 @@
+[
+  {
+    "word": "elective",
+    "lemma": "elective",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈlɛktɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more elective",
+          "SUP": "most elective"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, or pertaining to voting or elections ; involving a choice between options .",
+        "examples": [],
+        "synonyms": [
+          "electoral"
+        ],
+        "antonyms": [
+          "appointive",
+          "hereditary"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Open to choice ; freely chosen; ( also, usually ) unnecessary ; minor .",
+        "examples": [
+          "After accounting for all of my required courses, there is hardly any room in my schedule for any elective ones."
+        ],
+        "synonyms": [
+          "discretionary",
+          "optional",
+          "voluntary"
+        ],
+        "antonyms": [
+          "compulsory",
+          "mandatory",
+          "obligatory",
+          "required",
+          "involuntary"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Scheduled and nonemergent (regardless of whether necessary or unnecessary and whether minor or serious) .",
+        "examples": [
+          "It was very confusing hearing my cancer surgery being classified as \" elective surgery\". Am I \"electing\" to live rather than die?"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "emergent",
+          "unscheduled"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US health care system",
+          "technical"
+        ],
+        "label_groups": "US health care system , technical"
+      }
+    ],
+    "main_definition": "Of, or pertaining to voting or elections ; involving a choice between options .",
+    "secondary_definitions": [
+      "Open to choice ; freely chosen; ( also, usually ) unnecessary ; minor .",
+      "( US health care system , technical ) Scheduled and nonemergent (regardless of whether necessary or unnecessary and whether minor or serious) ."
+    ]
+  }
+]

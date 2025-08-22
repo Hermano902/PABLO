@@ -1,0 +1,53 @@
+[
+  {
+    "word": "blowtorch",
+    "lemma": "blowtorch",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbləʊˌtɔːtʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "blowtorches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A tool which projects a controlled stream of a highly flammable gas over a spark in order to produce a controlled flame .",
+        "examples": [],
+        "synonyms": [
+          "torch"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A jet fighter .",
+        "examples": [],
+        "synonyms": [
+          "fast mover",
+          "fighter jet",
+          "firecan"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military slang",
+          "US"
+        ],
+        "label_groups": "military slang , US",
+        "dating_raw": "20th c."
+      }
+    ],
+    "main_definition": "A tool which projects a controlled stream of a highly flammable gas over a spark in order to produce a controlled flame .",
+    "secondary_definitions": [
+      "( military slang , US ) A jet fighter . [20th c.]"
+    ]
+  }
+]

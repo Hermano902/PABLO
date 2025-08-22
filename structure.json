@@ -1,0 +1,1072 @@
+{
+  "name": "PABLO",
+  "type": "directory",
+  "children": [
+    {
+      "name": "__pycache__",
+      "type": "directory",
+      "children": [
+        {
+          "name": "pablopath.cpython-312.pyc",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "brain",
+      "type": "directory",
+      "children": [
+        {
+          "name": "attention",
+          "type": "directory",
+          "children": []
+        },
+        {
+          "name": "config.py",
+          "type": "file"
+        },
+        {
+          "name": "event_bus.py",
+          "type": "file"
+        },
+        {
+          "name": "kernel.py",
+          "type": "file"
+        },
+        {
+          "name": "ras",
+          "type": "directory",
+          "children": []
+        },
+        {
+          "name": "README.md",
+          "type": "file"
+        },
+        {
+          "name": "registry.py",
+          "type": "file"
+        },
+        {
+          "name": "scheduler.py",
+          "type": "file"
+        },
+        {
+          "name": "thalamus",
+          "type": "directory",
+          "children": []
+        },
+        {
+          "name": "types.py",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "cognition",
+      "type": "directory",
+      "children": [
+        {
+          "name": "context",
+          "type": "directory",
+          "children": [
+            {
+              "name": "frame_builder.py",
+              "type": "file"
+            },
+            {
+              "name": "goals.py",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "planner",
+          "type": "directory",
+          "children": [
+            {
+              "name": "sequencer.py",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "README.md",
+          "type": "file"
+        },
+        {
+          "name": "reason",
+          "type": "directory",
+          "children": [
+            {
+              "name": "reasoner.py",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "skills",
+          "type": "directory",
+          "children": [
+            {
+              "name": "automation",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "files",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "language",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "parse_tag",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "README.md",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                },
+                {
+                  "name": "sentence_type",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "README.md",
+                      "type": "file"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "math",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            },
+            {
+              "name": "search",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "vision",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__manifest__.json",
+                  "type": "file"
+                },
+                {
+                  "name": "README.md",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "wm",
+          "type": "directory",
+          "children": [
+            {
+              "name": "buffer.py",
+              "type": "file"
+            },
+            {
+              "name": "buffers",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "eyes",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "raw_dumps",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "sorted",
+                          "type": "directory",
+                          "children": []
+                        },
+                        {
+                          "name": "unsorted",
+                          "type": "directory",
+                          "children": []
+                        },
+                        {
+                          "name": "wiktionary",
+                          "type": "directory",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "daemons",
+      "type": "directory",
+      "children": [
+        {
+          "name": "default_mode",
+          "type": "directory",
+          "children": [
+            {
+              "name": "__manifest__.json",
+              "type": "file"
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "healthcheck",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dictionarybak",
+      "type": "directory",
+      "children": [
+        {
+          "name": "ADJ",
+          "type": "directory"
+        },
+        {
+          "name": "ADV",
+          "type": "directory"
+        },
+        {
+          "name": "CONJ",
+          "type": "directory"
+        },
+        {
+          "name": "DET",
+          "type": "directory"
+        },
+        {
+          "name": "INTJ",
+          "type": "directory"
+        },
+        {
+          "name": "N",
+          "type": "directory"
+        },
+        {
+          "name": "NUM",
+          "type": "directory"
+        },
+        {
+          "name": "PART",
+          "type": "directory"
+        },
+        {
+          "name": "PREP",
+          "type": "directory"
+        },
+        {
+          "name": "PRON",
+          "type": "directory"
+        },
+        {
+          "name": "PROPN",
+          "type": "directory"
+        },
+        {
+          "name": "V",
+          "type": "directory"
+        }
+      ]
+    },
+    {
+      "name": "docs",
+      "type": "directory",
+      "children": [
+        {
+          "name": "ARCHITECTURE.md",
+          "type": "file"
+        },
+        {
+          "name": "DOMAINS.md",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "memory",
+      "type": "directory",
+      "children": [
+        {
+          "name": "adapters",
+          "type": "directory",
+          "children": [
+            {
+              "name": "language",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "__pycache__",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "dictionary_label_enricher.cpython-312.pyc",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "dictionary_label_enricher.py",
+                  "type": "file"
+                },
+                {
+                  "name": "dictionary_loader.py",
+                  "type": "file"
+                },
+                {
+                  "name": "dictionary_maker.py",
+                  "type": "file"
+                },
+                {
+                  "name": "manifest_builder.py",
+                  "type": "file"
+                },
+                {
+                  "name": "wiktionary_scraper.py",
+                  "type": "file"
+                },
+                {
+                  "name": "wiktionary_scraper_old.py",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "episodic",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "README.md",
+          "type": "file"
+        },
+        {
+          "name": "semantic",
+          "type": "directory",
+          "children": [
+            {
+              "name": "domains",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "language",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "L0",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "dictionary",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "ADJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "ADV",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "CONJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "DET",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "INTJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "LETTER",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "manifest",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "N",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "NUM",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PART",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PREP",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PRON",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PROPN",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "V",
+                              "type": "directory"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "dictionary - Copy",
+                          "type": "directory",
+                          "children": []
+                        },
+                        {
+                          "name": "dictionarybak",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "ADJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "ADV",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "CONJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "DET",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "INTJ",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "LETTER",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "N",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "NUM",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PART",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PREP",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PRON",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "PROPN",
+                              "type": "directory"
+                            },
+                            {
+                              "name": "V",
+                              "type": "directory"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "dictionarybk",
+                          "type": "directory",
+                          "children": []
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        },
+                        {
+                          "name": "rules",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            },
+                            {
+                              "name": "phrases_clauses.json",
+                              "type": "file"
+                            },
+                            {
+                              "name": "pos_rules.json",
+                              "type": "file"
+                            },
+                            {
+                              "name": "sentence_rules.json",
+                              "type": "file"
+                            },
+                            {
+                              "name": "wordrules.json",
+                              "type": "file"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "L1",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "experience",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            },
+                            {
+                              "name": "curiosity_log.json",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "overlays",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "math",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "L0",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "axioms",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "definitions",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        },
+                        {
+                          "name": "theorems",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "L1",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "conjectures",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "experiments",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "notes",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "system",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "L0",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        },
+                        {
+                          "name": "schemas",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "L1",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "episodes",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "vision",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "L0",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "labels",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ontologies",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "L1",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "observations",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": ".keep",
+                              "type": "file"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "README.md",
+                          "type": "file"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "vector",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "motor",
+      "type": "directory",
+      "children": [
+        {
+          "name": "__pack__.json",
+          "type": "file"
+        },
+        {
+          "name": "filesystem",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "network",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "README.md",
+          "type": "file"
+        },
+        {
+          "name": "speech",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ui",
+          "type": "directory",
+          "children": [
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pablopath.py",
+      "type": "file"
+    },
+    {
+      "name": "README.md",
+      "type": "file"
+    },
+    {
+      "name": "README.txt",
+      "type": "file"
+    },
+    {
+      "name": "scripts",
+      "type": "directory",
+      "children": [
+        {
+          "name": "verify_setup.py",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "senses",
+      "type": "directory",
+      "children": [
+        {
+          "name": "ears",
+          "type": "directory",
+          "children": [
+            {
+              "name": "__pack__.json",
+              "type": "file"
+            },
+            {
+              "name": "association",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "nerves",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "organs",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "primary_cortex",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "eyes",
+          "type": "directory",
+          "children": [
+            {
+              "name": "__pack__.json",
+              "type": "file"
+            },
+            {
+              "name": "association",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "nerves",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "organs",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "primary_cortex",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "system",
+          "type": "directory",
+          "children": [
+            {
+              "name": "__pack__.json",
+              "type": "file"
+            },
+            {
+              "name": "association",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "nerves",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "organs",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "primary_cortex",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "README.md",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "touch",
+          "type": "directory",
+          "children": [
+            {
+              "name": "association",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "nerves",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "organs",
+              "type": "directory",
+              "children": []
+            },
+            {
+              "name": "primary_cortex",
+              "type": "directory",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "structure.json",
+      "type": "file"
+    },
+    {
+      "name": "structure.py",
+      "type": "file"
+    }
+  ]
+}

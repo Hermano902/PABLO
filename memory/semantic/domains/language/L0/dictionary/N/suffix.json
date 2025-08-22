@@ -1,0 +1,71 @@
+[
+  {
+    "word": "suffix",
+    "lemma": "suffix",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌfɪks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "suffixes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A morpheme added at the end of a word to modify the word's meaning .",
+        "examples": [
+          "The suffix \"-able\" changes \"sing\" into \"singable\"."
+        ],
+        "synonyms": [
+          "affix"
+        ],
+        "antonyms": [
+          "prefix"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "linguistic morphology"
+        ],
+        "label_groups": "grammar , linguistic morphology"
+      },
+      {
+        "definition": "A subscript .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A final segment of a string of characters.",
+        "examples": [
+          "The string \"abra\" is both a prefix and a suffix of the string \"abracadabra\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( grammar , linguistic morphology ) A morpheme added at the end of a word to modify the word's meaning .",
+    "secondary_definitions": [
+      "( mathematics ) A subscript .",
+      "( computing ) A final segment of a string of characters."
+    ]
+  }
+]

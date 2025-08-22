@@ -1,0 +1,60 @@
+[
+  {
+    "word": "restage",
+    "lemma": "restage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "restages",
+          "PT": "restaged",
+          "PAP": "restaged",
+          "PRP": "restaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stage (a production) again; to bring (a production) to the stage again.",
+        "examples": [],
+        "synonyms": [
+          "revive"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "theater",
+          "transitive"
+        ],
+        "label_groups": "theater , transitive"
+      },
+      {
+        "definition": "To stage (a disease, especially a cancer) again; to revise the staging of a case as its course varies.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "oncology",
+          "surgery",
+          "transitive"
+        ],
+        "label_groups": "medicine , oncology , surgery ; transitive"
+      }
+    ],
+    "main_definition": "( theater , transitive ) To stage (a production) again; to bring (a production) to the stage again.",
+    "secondary_definitions": [
+      "( medicine , oncology , surgery ; transitive ) To stage (a disease, especially a cancer) again; to revise the staging of a case as its course varies."
+    ]
+  }
+]

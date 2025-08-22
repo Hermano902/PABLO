@@ -1,0 +1,51 @@
+[
+  {
+    "word": "metalanguage",
+    "lemma": "metalanguage",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "metalanguages"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any language or vocabulary of terms used to describe or analyze a language or linguistic process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "translation studies",
+          "critical theory"
+        ],
+        "label_groups": "linguistics , translation studies , critical theory"
+      },
+      {
+        "definition": "Any similar language used to define a programming language",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( linguistics , translation studies , critical theory ) Any language or vocabulary of terms used to describe or analyze a language or linguistic process.",
+    "secondary_definitions": [
+      "( computing ) Any similar language used to define a programming language"
+    ]
+  }
+]

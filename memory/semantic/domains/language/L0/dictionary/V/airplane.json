@@ -1,0 +1,54 @@
+[
+  {
+    "word": "airplane",
+    "lemma": "airplane",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈeɹˌpleɪ̯n/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "airplanes",
+          "PT": "airplaned",
+          "PAP": "airplaned",
+          "PRP": "airplaning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To fly in an aeroplane.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transport by aeroplane.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To fly in an aeroplane.",
+    "secondary_definitions": [
+      "( transitive ) To transport by aeroplane."
+    ]
+  }
+]

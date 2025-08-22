@@ -1,0 +1,45 @@
+[
+  {
+    "word": "active",
+    "lemma": "active",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæk.tɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "actives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or thing that is acting or capable of acting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any component that is not passive . See Passivity (engineering) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "A person or thing that is acting or capable of acting.",
+    "secondary_definitions": [
+      "( electronics ) Any component that is not passive . See Passivity (engineering) ."
+    ]
+  }
+]

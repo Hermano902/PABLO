@@ -1,0 +1,103 @@
+[
+  {
+    "word": "jiffy",
+    "lemma": "jiffy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɪ.fi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jiffies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A very short , unspecified length of time .",
+        "examples": [
+          "I’ll be back in a jiffy ."
+        ],
+        "synonyms": [
+          "instant",
+          "jiff",
+          "mo",
+          "sec",
+          "tick"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial",
+        "dating_raw": "from 1780."
+      },
+      {
+        "definition": "A unit of time defined by the frequency of its basic timer – historically, and by convention, 0.01 of a second , but some computer operating systems use other values.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The length of an alternating current power cycle (1/60 or 1/50 of a second).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "The time taken for light to travel a specified distance in a vacuum , usually one centimetre (approximately 33.3564 picoseconds ), but sometimes one foot or the width of a nucleon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Ellipsis of jiffy bag , a padded envelope .",
+        "examples": [],
+        "synonyms": [
+          "bubble envelope",
+          "bubble mailer",
+          "Jiffy bag",
+          "padded envelope",
+          "padded mailer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK"
+        ],
+        "label_groups": "UK"
+      }
+    ],
+    "main_definition": "( colloquial ) A very short , unspecified length of time . [from 1780.]",
+    "secondary_definitions": [
+      "( computing ) A unit of time defined by the frequency of its basic timer – historically, and by convention, 0.01 of a second , but some computer operating systems use other values.",
+      "( electronics ) The length of an alternating current power cycle (1/60 or 1/50 of a second).",
+      "( physics ) The time taken for light to travel a specified distance in a vacuum , usually one centimetre (approximately 33.3564 picoseconds ), but sometimes one foot or the width of a nucleon .",
+      "( UK ) Ellipsis of jiffy bag , a padded envelope ."
+    ]
+  }
+]

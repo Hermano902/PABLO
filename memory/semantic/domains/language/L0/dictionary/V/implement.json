@@ -1,0 +1,55 @@
+[
+  {
+    "word": "implement",
+    "lemma": "implement",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪmpləmənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "implements",
+          "PT": "implemented",
+          "PAP": "implemented",
+          "PRP": "implementing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring about ; to put into practice ; to carry out .",
+        "examples": [
+          "It’s a good thought, but it will be a difficult thing to implement ."
+        ],
+        "synonyms": [
+          "execute"
+        ],
+        "antonyms": [
+          "disrealize"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To realize a technical specification , e.g. of an algorithm , interface , or protocol .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "To bring about ; to put into practice ; to carry out .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "resistor",
+    "lemma": "resistor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈzɪstə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "resistors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who resists , especially a person who fights against an occupying army .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An electric component that transmits current in direct proportion to the voltage across it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "One who resists , especially a person who fights against an occupying army .",
+    "secondary_definitions": [
+      "( electronics ) An electric component that transmits current in direct proportion to the voltage across it."
+    ]
+  }
+]

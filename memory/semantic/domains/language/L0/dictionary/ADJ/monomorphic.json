@@ -1,0 +1,60 @@
+[
+  {
+    "word": "monomorphic",
+    "lemma": "monomorphic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌmɑnoʊ̯ˈmɔɹfɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having or existing in a single shape or form .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Invariant across a species.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "of a gene"
+        ],
+        "label_groups": "genetics , of a gene"
+      },
+      {
+        "definition": "Taking only a single data type.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "of a function"
+        ],
+        "label_groups": "programming , of a function"
+      }
+    ],
+    "main_definition": "Having or existing in a single shape or form .",
+    "secondary_definitions": [
+      "( genetics , of a gene ) Invariant across a species.",
+      "( programming , of a function ) Taking only a single data type."
+    ]
+  }
+]

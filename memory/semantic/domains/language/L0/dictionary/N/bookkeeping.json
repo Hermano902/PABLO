@@ -1,0 +1,51 @@
+[
+  {
+    "word": "bookkeeping",
+    "lemma": "bookkeeping",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʊkˌkiːpɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bookkeepings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The skill or practice of keeping books or systematic records of financial transactions, e.g. income and expenses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting"
+        ],
+        "label_groups": "accounting"
+      },
+      {
+        "definition": "General tasks for maintaining a system.",
+        "examples": [],
+        "synonyms": [
+          "housekeeping"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( accounting ) The skill or practice of keeping books or systematic records of financial transactions, e.g. income and expenses .",
+    "secondary_definitions": [
+      "( computing ) General tasks for maintaining a system."
+    ]
+  }
+]

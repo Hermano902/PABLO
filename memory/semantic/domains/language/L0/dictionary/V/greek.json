@@ -1,0 +1,69 @@
+[
+  {
+    "word": "greek",
+    "lemma": "greek",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡɹiːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "greeks",
+          "PT": "greeked",
+          "PAP": "greeked",
+          "PRP": "greeking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To display a placeholder (instead of text), especially to optimize speed in displaying text that would be too small to read.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To fill a template with nonsense text (particularly the Lorem ipsum ), so that form can be focused on instead of content.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To obscure a corporate logo that has not been permitted for use in a production.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To display a placeholder (instead of text), especially to optimize speed in displaying text that would be too small to read.",
+    "secondary_definitions": [
+      "( transitive , computing ) To fill a template with nonsense text (particularly the Lorem ipsum ), so that form can be focused on instead of content.",
+      "( transitive ) To obscure a corporate logo that has not been permitted for use in a production."
+    ]
+  }
+]

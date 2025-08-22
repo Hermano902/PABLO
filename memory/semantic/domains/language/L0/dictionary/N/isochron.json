@@ -1,0 +1,51 @@
+[
+  {
+    "word": "isochron",
+    "lemma": "isochron",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "isochrons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line on a chart linking rock of the same age (as determined from isotope ratios).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology",
+          "geochemistry"
+        ],
+        "label_groups": "geology , geochemistry"
+      },
+      {
+        "definition": "A collection of points (such as a manifold ), each point representing a set of initial conditions for a given dynamical system , such that every set results in the same long-term behaviour of the system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "dynamical systems"
+        ],
+        "label_groups": "mathematics , dynamical systems"
+      }
+    ],
+    "main_definition": "( geology , geochemistry ) A line on a chart linking rock of the same age (as determined from isotope ratios).",
+    "secondary_definitions": [
+      "( mathematics , dynamical systems ) A collection of points (such as a manifold ), each point representing a set of initial conditions for a given dynamical system , such that every set results in the same long-term behaviour of the system."
+    ]
+  }
+]

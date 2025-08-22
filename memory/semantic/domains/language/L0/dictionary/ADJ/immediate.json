@@ -1,0 +1,100 @@
+[
+  {
+    "word": "immediate",
+    "lemma": "immediate",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈmi.di.ət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more immediate",
+          "SUP": "most immediate"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Happening right away, instantly , with no delay .",
+        "examples": [
+          "Computer users these days expect immediate results when they click on a link."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Very close ; direct or adjacent .",
+        "examples": [
+          "immediate family; immediate vicinity"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Manifestly true; requiring no argument.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Embedded as part of the instruction itself, rather than stored elsewhere (such as a register or memory location).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "of an instruction operand"
+        ],
+        "label_groups": "computer science , of an instruction operand"
+      },
+      {
+        "definition": "Used to denote that a transmission is urgent.",
+        "examples": [
+          "Bravo Three, this Bravo Six. Immediate! We are coming under fire from the north from an unknown enemy, over!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "procedure word",
+          "military"
+        ],
+        "label_groups": "procedure word , military"
+      },
+      {
+        "definition": "An artillery fire mission modifier for two types of fire mission to denote an immediate need for fire: Immediate smoke, all guns involved must reload smoke and fire. Immediate suppression, all guns involved fire the rounds currently loaded and then switch to high explosive with impact fused (unless fuses are specified).",
+        "examples": [
+          "Hotel Two-Niner, this is Bravo Six. Immediate suppression at grid November-Kilo four-five-three two-one-five. Danger Close. I authenticate Golf Echo, over."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "procedure word",
+          "military"
+        ],
+        "label_groups": "procedure word , military"
+      }
+    ],
+    "main_definition": "Happening right away, instantly , with no delay .",
+    "secondary_definitions": [
+      "Very close ; direct or adjacent .",
+      "Manifestly true; requiring no argument.",
+      "( computer science , of an instruction operand ) Embedded as part of the instruction itself, rather than stored elsewhere (such as a register or memory location).",
+      "( procedure word , military ) Used to denote that a transmission is urgent.",
+      "( procedure word , military ) An artillery fire mission modifier for two types of fire mission to denote an immediate need for fire: Immediate smoke, all guns involved must reload smoke and fire. Immediate suppression, all guns involved fire the rounds currently loaded and then switch to high explosive with impact fused (unless fuses are specified)."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "curtain",
+    "lemma": "curtain",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɜːtn̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "curtains",
+          "PT": "curtained",
+          "PAP": "curtained",
+          "PRP": "curtaining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cover (a window ) with a curtain; to hang curtains.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hide , cover or separate as if by a curtain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "( transitive ) To cover (a window ) with a curtain; to hang curtains.",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To hide , cover or separate as if by a curtain."
+    ]
+  }
+]

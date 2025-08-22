@@ -1,0 +1,57 @@
+[
+  {
+    "word": "offline",
+    "lemma": "offline",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɒfˈlaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a system , currently not connected (generally electrically) to a larger network. For example, a power plant which is not connected to the grid , or a computer which is not connected to the Internet or to any other communications service.",
+        "examples": [
+          "I saved the web pages so I could read them later offline ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "online"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Happening in the physical world (the real world ) as opposed to on the internet.",
+        "examples": [
+          "offline meetings",
+          "offline dating"
+        ],
+        "synonyms": [
+          "IRL",
+          "meatspace"
+        ],
+        "antonyms": [
+          "online"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "Of a system , currently not connected (generally electrically) to a larger network. For example, a power plant which is not connected to the grid , or a computer which is not connected to the Internet or to any other communications service.",
+    "secondary_definitions": [
+      "( by extension ) Happening in the physical world (the real world ) as opposed to on the internet."
+    ]
+  }
+]

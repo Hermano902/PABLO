@@ -1,0 +1,124 @@
+[
+  {
+    "word": "derive",
+    "lemma": "derive",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹaɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "derives",
+          "PT": "derived",
+          "PAP": "derived",
+          "PRP": "deriving",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To obtain or receive (something) from something else.",
+        "examples": [
+          "Reading books is the best way to derive knowledge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To deduce (a conclusion ) by reasoning .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "logic"
+        ],
+        "label_groups": "transitive , logic"
+      },
+      {
+        "definition": "To find the derivation of (a word or phrase ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "linguistics"
+        ],
+        "label_groups": "transitive , linguistics"
+      },
+      {
+        "definition": "To create (a compound ) from another by means of a reaction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To originate or stem (from).",
+        "examples": [
+          "Her excellent organisation skills derive from her time as a secretary in the army."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To turn the course of (water, etc.); to divert and distribute into subordinate channels.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To differentiate (a function ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics",
+          "proscribed"
+        ],
+        "label_groups": "transitive , mathematics , proscribed"
+      }
+    ],
+    "main_definition": "( transitive ) To obtain or receive (something) from something else.",
+    "secondary_definitions": [
+      "( transitive , logic ) To deduce (a conclusion ) by reasoning .",
+      "( transitive , linguistics ) To find the derivation of (a word or phrase ).",
+      "( transitive , chemistry ) To create (a compound ) from another by means of a reaction .",
+      "( intransitive ) To originate or stem (from).",
+      "To turn the course of (water, etc.); to divert and distribute into subordinate channels.",
+      "( transitive , mathematics , proscribed ) To differentiate (a function )."
+    ]
+  }
+]

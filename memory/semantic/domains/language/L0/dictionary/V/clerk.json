@@ -1,0 +1,52 @@
+[
+  {
+    "word": "clerk",
+    "lemma": "clerk",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/klɑːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "clerks",
+          "PT": "clerked",
+          "PAP": "clerked",
+          "PRP": "clerking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act as a clerk, to perform the duties or functions of a clerk.",
+        "examples": [
+          "The law school graduate clerked for the supreme court judge for the summer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To assemble information about a patient during their initial assessment by actions such as a taking a detailed medical history and performing a physical examination .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "To act as a clerk, to perform the duties or functions of a clerk.",
+    "secondary_definitions": [
+      "( medicine ) To assemble information about a patient during their initial assessment by actions such as a taking a detailed medical history and performing a physical examination ."
+    ]
+  }
+]

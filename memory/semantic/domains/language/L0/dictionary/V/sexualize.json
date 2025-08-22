@@ -1,0 +1,62 @@
+[
+  {
+    "word": "sexualize",
+    "lemma": "sexualize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛk.ʃu.əl.aɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sexualizes",
+          "PT": "sexualized",
+          "PAP": "sexualized",
+          "PRP": "sexualizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To render sexual , or apply sex appeal to (a person, thing, or concept ).",
+        "examples": [
+          "Children’s beauty pageants sexualize childhood.",
+          "Your advertising doesn't need to sexualize goods and services to sell them to me, and in fact I might make a point of not buying your product if you pester me with sexualization."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "desexualize"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To distinguish as belonging to separate sexes.",
+        "examples": [],
+        "synonyms": [
+          "sex"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "transitive"
+        ],
+        "label_groups": "biology , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To render sexual , or apply sex appeal to (a person, thing, or concept ).",
+    "secondary_definitions": [
+      "( biology , transitive ) To distinguish as belonging to separate sexes."
+    ]
+  }
+]

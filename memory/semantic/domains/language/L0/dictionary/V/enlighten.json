@@ -1,0 +1,71 @@
+[
+  {
+    "word": "enlighten",
+    "lemma": "enlighten",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈlaɪtən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "enlightens",
+          "PT": "enlightened",
+          "PAP": "enlightened",
+          "PRP": "enlightening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To supply with light .",
+        "examples": [
+          "The sun enlightens the Earth."
+        ],
+        "synonyms": [
+          "illumine",
+          "illuminate"
+        ],
+        "antonyms": [
+          "endarken"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make something clear to (someone); to give knowledge or understanding to.",
+        "examples": [
+          "She tried to enlighten them about the rules of the program, but they remained belligerently and self-righteously ignorant.",
+          "Care to enlighten me, if you think I'm so benighted?"
+        ],
+        "synonyms": [
+          "apprise",
+          "clarify",
+          "explain",
+          "notify",
+          "inform"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To supply with light .",
+    "secondary_definitions": [
+      "( transitive , figurative ) To make something clear to (someone); to give knowledge or understanding to."
+    ]
+  }
+]

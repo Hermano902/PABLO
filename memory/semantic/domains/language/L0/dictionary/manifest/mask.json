@@ -1,0 +1,32 @@
+{
+  "word": "mask",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 18,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mask.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mask.json"
+  },
+  "timestamp": "2025-08-19T08:39:49.053099Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "skill.language",
+  "kind": "skill",
+  "entry": "cognition.skills.language.main:run",
+  "accepts": [
+    "EYE/*",
+    "EAR/*",
+    "SYS/*",
+    "COG/CONTEXT/*"
+  ],
+  "emits": [
+    "COG/REASON/OPTIONS",
+    "COG/PLAN/PROPOSAL"
+  ],
+  "enable": true
+}

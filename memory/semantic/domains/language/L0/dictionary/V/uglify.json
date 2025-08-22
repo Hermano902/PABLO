@@ -1,0 +1,71 @@
+[
+  {
+    "word": "uglify",
+    "lemma": "uglify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʌɡlɪfaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "uglifies",
+          "PT": "uglified",
+          "PAP": "uglified",
+          "PRP": "uglifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make ugly ; to destroy or worsen the appearance or attractiveness of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become ugly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "Synonym of minify .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "pretty-print",
+          "beautify",
+          "prettify"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( transitive ) To make ugly ; to destroy or worsen the appearance or attractiveness of.",
+    "secondary_definitions": [
+      "( intransitive ) To become ugly.",
+      "( programming ) Synonym of minify ."
+    ]
+  }
+]

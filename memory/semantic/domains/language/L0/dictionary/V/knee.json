@@ -1,0 +1,70 @@
+[
+  {
+    "word": "knee",
+    "lemma": "knee",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/niː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "knees",
+          "PT": "kneed",
+          "PAP": "kneed",
+          "PRP": "kneeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To kneel to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To poke or strike with the knee.",
+        "examples": [
+          "When I blocked her from leaving, she kneed me in the groin."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move on the knees; to use the knees to move.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive"
+        ],
+        "label_groups": "reflexive"
+      }
+    ],
+    "main_definition": "( transitive , archaic ) To kneel to.",
+    "secondary_definitions": [
+      "( transitive ) To poke or strike with the knee.",
+      "( reflexive ) To move on the knees; to use the knees to move."
+    ]
+  }
+]

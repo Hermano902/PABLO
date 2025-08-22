@@ -1,0 +1,117 @@
+[
+  {
+    "word": "entropy",
+    "lemma": "entropy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛntɹəpi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "entropies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A measure of the disorder present in a system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A measure of the disorder directly proportional to the natural logarithm of the number of microstates yielding an equivalent thermodynamic macrostate .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Boltzmann definition"
+            ],
+            "label_groups": "Boltzmann definition"
+          },
+          {
+            "definition": "Shannon entropy",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "information theory"
+            ],
+            "label_groups": "information theory"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A measure of the amount of energy in a physical system that cannot be used to do work .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "thermodynamics",
+          "countable"
+        ],
+        "label_groups": "thermodynamics , countable"
+      },
+      {
+        "definition": "The capacity factor for thermal energy that is hidden with respect to temperature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The dispersal of energy; how much energy is spread out in a process, or how widely spread out it becomes, at a specific temperature.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of the amount of information and noise present in a signal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "information theory",
+          "countable"
+        ],
+        "label_groups": "statistics , information theory , countable"
+      },
+      {
+        "definition": "The tendency of a system that is left to itself to descend into chaos .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "A measure of the disorder present in a system.",
+    "secondary_definitions": [
+      "( thermodynamics , countable ) A measure of the amount of energy in a physical system that cannot be used to do work .",
+      "The capacity factor for thermal energy that is hidden with respect to temperature .",
+      "The dispersal of energy; how much energy is spread out in a process, or how widely spread out it becomes, at a specific temperature.",
+      "( statistics , information theory , countable ) A measure of the amount of information and noise present in a signal .",
+      "( uncountable ) The tendency of a system that is left to itself to descend into chaos ."
+    ]
+  }
+]

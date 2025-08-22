@@ -1,0 +1,68 @@
+[
+  {
+    "word": "sand",
+    "lemma": "sand",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sænd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sands",
+          "PT": "sanded",
+          "PAP": "sanded",
+          "PRP": "sanding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To abrade the surface of (something) with sand or sandpaper in order to smooth or clean it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cover with sand.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To blot ink using sand.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "historical"
+        ],
+        "label_groups": "transitive , historical"
+      }
+    ],
+    "main_definition": "( transitive ) To abrade the surface of (something) with sand or sandpaper in order to smooth or clean it.",
+    "secondary_definitions": [
+      "( transitive ) To cover with sand.",
+      "( transitive , historical ) To blot ink using sand."
+    ]
+  }
+]

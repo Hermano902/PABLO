@@ -1,0 +1,136 @@
+[
+  {
+    "word": "migrate",
+    "lemma": "migrate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/maɪˈɡɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "migrates",
+          "PT": "migrated",
+          "PAP": "migrated",
+          "PRP": "migrating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To relocate periodically from one region to another, usually according to the seasons.",
+        "examples": [
+          "Twice a year the geese migrate — from Florida to Canada and back again.",
+          "Twice a year the Minnesotans migrate from their state to the Gulf of Mexico."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To change one's geographic pattern of habitation.",
+        "examples": [
+          "Many groups had migrated to western Europe from the plains of eastern Europe."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To change habitations across a border; to move from one country or political region to another.",
+        "examples": [
+          "To escape persecution, they migrated to a neutral country."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move slowly towards, usually in groups.",
+        "examples": [
+          "Once the hosts started bickering in the kitchens, the guests began to migrate towards the living room."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move gradually, especially from an intended to an unintended position.",
+        "examples": [
+          "Oil was able to migrate from the accessory gearbox into the magneto housing through the improperly installed gland seals."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move computer code or files from one computer or network to another.",
+        "examples": [
+          "They had finished migrating all of the affected code to the production server by 2:00am, three hours later than expected."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To induce customers to shift purchases from one set of a company's related products to another.",
+        "examples": [
+          "We were hoping to migrate the customers of the \"C\" series to the \"E\" series and the \"E\" customers to the \"S\" series."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "marketing"
+        ],
+        "label_groups": "transitive , marketing"
+      }
+    ],
+    "main_definition": "( intransitive ) To relocate periodically from one region to another, usually according to the seasons.",
+    "secondary_definitions": [
+      "( intransitive ) To change one's geographic pattern of habitation.",
+      "( intransitive ) To change habitations across a border; to move from one country or political region to another.",
+      "( intransitive ) To move slowly towards, usually in groups.",
+      "( intransitive ) To move gradually, especially from an intended to an unintended position.",
+      "( transitive , computing ) To move computer code or files from one computer or network to another.",
+      "( transitive , marketing ) To induce customers to shift purchases from one set of a company's related products to another."
+    ]
+  }
+]

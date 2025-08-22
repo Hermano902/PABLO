@@ -1,0 +1,56 @@
+[
+  {
+    "word": "person",
+    "lemma": "person",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɜːrsən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "persons",
+          "PT": "personed",
+          "PAP": "personed",
+          "PRP": "personing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To represent as a person; to personify ; to impersonate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      },
+      {
+        "definition": "To man , to supply with staff or crew.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "gender-neutral"
+        ],
+        "label_groups": "transitive , gender-neutral"
+      }
+    ],
+    "main_definition": "( obsolete , transitive ) To represent as a person; to personify ; to impersonate .",
+    "secondary_definitions": [
+      "( transitive , gender-neutral ) To man , to supply with staff or crew."
+    ]
+  }
+]

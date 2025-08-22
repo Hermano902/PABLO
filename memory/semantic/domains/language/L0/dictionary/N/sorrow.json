@@ -1,0 +1,61 @@
+[
+  {
+    "word": "sorrow",
+    "lemma": "sorrow",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒɹ.əʊ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sorrows"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "unhappiness , woe",
+        "examples": [],
+        "synonyms": [
+          "dejection"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An instance or cause of unhappiness.",
+        "examples": [
+          "Parting is such sweet sorrow ."
+        ],
+        "synonyms": [
+          "misfortune",
+          "woe"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "usually in plural"
+        ],
+        "label_groups": [
+          "countable",
+          "usually in plural"
+        ]
+      }
+    ],
+    "main_definition": "( uncountable ) unhappiness , woe",
+    "secondary_definitions": [
+      "( countable ) ( usually in plural ) An instance or cause of unhappiness."
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "word": "navigate",
+    "lemma": "navigate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnæv.ɪ.ɡeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "navigates",
+          "PT": "navigated",
+          "PAP": "navigated",
+          "PRP": "navigating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To plan , control and record the position and course of a vehicle , ship , aircraft , etc., on a journey ; to follow a planned course.",
+        "examples": [
+          "He navigated the bomber to the Ruhr."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give directions, as from a map, to someone driving a vehicle.",
+        "examples": [
+          "You drive. I'll navigate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To travel over water in a ship ; to sail .",
+        "examples": [
+          "We navigated to France in the dinghy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move between web pages , menus , etc. by means of hyperlinks , mouse clicks , or any other mechanism.",
+        "examples": [
+          "It was difficult to navigate back to the home page."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To find a way through a difficult situation or process.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "figurative"
+        ],
+        "label_groups": "ambitransitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To plan , control and record the position and course of a vehicle , ship , aircraft , etc., on a journey ; to follow a planned course.",
+    "secondary_definitions": [
+      "( intransitive ) To give directions, as from a map, to someone driving a vehicle.",
+      "( intransitive ) To travel over water in a ship ; to sail .",
+      "( transitive , computing ) To move between web pages , menus , etc. by means of hyperlinks , mouse clicks , or any other mechanism.",
+      "( ambitransitive , figurative ) To find a way through a difficult situation or process."
+    ]
+  }
+]

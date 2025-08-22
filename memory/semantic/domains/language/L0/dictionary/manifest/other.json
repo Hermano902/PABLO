@@ -1,0 +1,55 @@
+{
+  "word": "other",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "DET",
+    "ADV",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 9,
+      "antonyms": 1,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 2,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "DET": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\other.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\other.json",
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\other.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\other.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\other.json"
+  },
+  "timestamp": "2025-08-19T10:49:22.742547Z"
+}

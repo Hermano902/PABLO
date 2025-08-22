@@ -1,0 +1,100 @@
+[
+  {
+    "word": "encounter",
+    "lemma": "encounter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkaʊntə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "encounters",
+          "PT": "encountered",
+          "PAP": "encountered",
+          "PRP": "encountering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To meet (someone) or find (something), especially unexpectedly .",
+        "examples": [],
+        "synonyms": [
+          "cross paths"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To confront (someone or something) face to face.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To meet one another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "rare"
+        ],
+        "label_groups": "intransitive , rare"
+      },
+      {
+        "definition": "To engage in conflict , as with an enemy.",
+        "examples": [
+          "Three armies encountered at Waterloo."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To kill or execute someone extrajudicially .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "euphemistic",
+          "India"
+        ],
+        "label_groups": "transitive , euphemistic , India"
+      }
+    ],
+    "main_definition": "( transitive ) To meet (someone) or find (something), especially unexpectedly .",
+    "secondary_definitions": [
+      "( transitive ) To confront (someone or something) face to face.",
+      "( intransitive , rare ) To meet one another.",
+      "( intransitive ) To engage in conflict , as with an enemy.",
+      "( transitive , euphemistic , India ) To kill or execute someone extrajudicially ."
+    ]
+  }
+]

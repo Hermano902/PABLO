@@ -1,0 +1,97 @@
+[
+  {
+    "word": "pain",
+    "lemma": "pain",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/peɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pains",
+          "PT": "pained",
+          "PAP": "pained",
+          "PRP": "paining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hurt ; to put to bodily uneasiness or anguish ; to afflict with uneasy sensations of any degree of intensity; to torment ; to torture .",
+        "examples": [
+          "The wound pained him."
+        ],
+        "synonyms": [
+          "afflict",
+          "hurt"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To render uneasy in mind; to disquiet ; to distress ; to grieve .",
+        "examples": [
+          "It pains me to say that I must let you go."
+        ],
+        "synonyms": [
+          "afflict",
+          "torment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inflict suffering upon as a penalty ; to punish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To feel pain; to hurt .",
+        "examples": [
+          "Please help me, I am paining hard."
+        ],
+        "synonyms": [
+          "ache",
+          "suffer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "India"
+        ],
+        "label_groups": "intransitive , India"
+      }
+    ],
+    "main_definition": "( transitive ) To hurt ; to put to bodily uneasiness or anguish ; to afflict with uneasy sensations of any degree of intensity; to torment ; to torture .",
+    "secondary_definitions": [
+      "( transitive ) To render uneasy in mind; to disquiet ; to distress ; to grieve .",
+      "( transitive , obsolete ) To inflict suffering upon as a penalty ; to punish .",
+      "( intransitive , India ) To feel pain; to hurt ."
+    ]
+  }
+]

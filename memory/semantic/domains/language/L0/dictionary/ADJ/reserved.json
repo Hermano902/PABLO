@@ -1,0 +1,60 @@
+[
+  {
+    "word": "reserved",
+    "lemma": "reserved",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈzɝvd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more reserved",
+          "SUP": "most reserved"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Slow to reveal emotion or opinions .",
+        "examples": [
+          "He was a quiet, reserved person."
+        ],
+        "synonyms": [
+          "remote",
+          "standoffish"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable"
+        ],
+        "label_groups": "comparable"
+      },
+      {
+        "definition": "Set aside for a particular person or purpose; spoken for .",
+        "examples": [
+          "I'm sorry, sir, but these are reserved seats."
+        ],
+        "synonyms": [
+          "allocated",
+          "assigned",
+          "dedicated"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      }
+    ],
+    "main_definition": "( comparable ) Slow to reveal emotion or opinions .",
+    "secondary_definitions": [
+      "( not comparable ) Set aside for a particular person or purpose; spoken for ."
+    ]
+  }
+]

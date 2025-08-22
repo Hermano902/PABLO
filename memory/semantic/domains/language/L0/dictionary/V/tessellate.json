@@ -1,0 +1,73 @@
+[
+  {
+    "word": "tessellate",
+    "lemma": "tessellate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛsəleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tessellates",
+          "PT": "tessellated",
+          "PAP": "tessellated",
+          "PRP": "tessellating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cover with tiles or stones, as a mosaic ; to tile .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to cover a two-dimensional shape, such that multiple copies of itself placed edge to edge cover an area leaving no space between the shapes.",
+        "examples": [
+          "Regular hexagons tessellate ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "geometry"
+        ],
+        "label_groups": "intransitive , geometry"
+      },
+      {
+        "definition": "To completely fill (an area) when multiple copies of one or more two-dimensional shapes are placed edge to edge.",
+        "examples": [
+          "It is possible to tessellate the plane with equilateral triangles and regular hexagons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "geometry"
+        ],
+        "label_groups": "transitive , geometry"
+      }
+    ],
+    "main_definition": "( transitive ) To cover with tiles or stones, as a mosaic ; to tile .",
+    "secondary_definitions": [
+      "( intransitive , geometry ) to cover a two-dimensional shape, such that multiple copies of itself placed edge to edge cover an area leaving no space between the shapes.",
+      "( transitive , geometry ) To completely fill (an area) when multiple copies of one or more two-dimensional shapes are placed edge to edge."
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "orphan",
+    "lemma": "orphan",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔːfən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "orphans",
+          "PT": "orphaned",
+          "PAP": "orphaned",
+          "PRP": "orphaning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deprive of parents ( used almost exclusively in the passive )",
+        "examples": [
+          "What do you do when you come across two orphaned polar bear cubs?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make unavailable , as by removing the last remaining pointer or reference to.",
+        "examples": [
+          "When you removed that image tag, you orphaned the resized icon.",
+          "Removing categories orphans pages from the main category tree."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To deprive of parents ( used almost exclusively in the passive )",
+    "secondary_definitions": [
+      "( transitive , computing ) To make unavailable , as by removing the last remaining pointer or reference to."
+    ]
+  }
+]

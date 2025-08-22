@@ -1,0 +1,60 @@
+[
+  {
+    "word": "anguish",
+    "lemma": "anguish",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæŋ.ɡwɪʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "anguishes",
+          "PT": "anguished",
+          "PAP": "anguished",
+          "PRP": "anguishing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To suffer pain .",
+        "examples": [],
+        "synonyms": [
+          "hurt",
+          "suffer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to suffer pain.",
+        "examples": [],
+        "synonyms": [
+          "afflict",
+          "torment"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To suffer pain .",
+    "secondary_definitions": [
+      "( transitive ) To cause to suffer pain."
+    ]
+  }
+]

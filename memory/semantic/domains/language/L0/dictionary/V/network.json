@@ -1,0 +1,85 @@
+[
+  {
+    "word": "network",
+    "lemma": "network",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɛt.wɜːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "networks",
+          "PT": "networked",
+          "PAP": "networked",
+          "PRP": "networking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To interact socially for the purpose of getting connections or personal advancement .",
+        "examples": [
+          "Many people find it worthwhile to network for jobs and information."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To connect two or more computers or other computerized devices.",
+        "examples": [
+          "If we network his machine to the server, he will be able to see all the files."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To interconnect a group or system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To broadcast across an entire network of stations and affiliates at the same time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "broadcasting"
+        ],
+        "label_groups": "transitive , broadcasting"
+      }
+    ],
+    "main_definition": "( intransitive ) To interact socially for the purpose of getting connections or personal advancement .",
+    "secondary_definitions": [
+      "( transitive ) To connect two or more computers or other computerized devices.",
+      "( transitive ) To interconnect a group or system .",
+      "( transitive , broadcasting ) To broadcast across an entire network of stations and affiliates at the same time."
+    ]
+  }
+]

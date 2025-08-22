@@ -1,0 +1,106 @@
+[
+  {
+    "word": "latch",
+    "lemma": "latch",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/læt͡ʃ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "latches"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A fastening for a door that has a bar that fits into a notch or slot , and is lifted by a lever or string from either side.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An electronic circuit that is like a flip-flop , except that it is level triggered instead of edge triggered.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "A latching .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A crossbow .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "That which fastens or holds; a lace; a snare.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A breastfeeding baby 's connection to the breast .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A lightweight lock to protect internal structures from being modified by multiple concurrent accesses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "A fastening for a door that has a bar that fits into a notch or slot , and is lifted by a lever or string from either side.",
+    "secondary_definitions": [
+      "( electronics ) An electronic circuit that is like a flip-flop , except that it is level triggered instead of edge triggered.",
+      "( obsolete ) A latching .",
+      "( obsolete ) A crossbow .",
+      "( obsolete ) That which fastens or holds; a lace; a snare.",
+      "A breastfeeding baby 's connection to the breast .",
+      "( databases ) A lightweight lock to protect internal structures from being modified by multiple concurrent accesses ."
+    ]
+  }
+]

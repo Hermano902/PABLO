@@ -1,0 +1,71 @@
+[
+  {
+    "word": "violin",
+    "lemma": "violin",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌvaɪəˈlɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "violins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small unfretted stringed instrument with four strings tuned ( lowest to highest ) G - D - A - E , usually held against the chin and played with a bow .",
+        "examples": [
+          "When I play it like this, it's a fiddle ; when I play it like this, it's a violin ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "Any instrument of the violin family , always inclusive of violins, violas and cellos , and sometimes further including the double bass .",
+        "examples": [
+          "The string quartet , one of the most popular groupings in chamber music , is composed entirely of violins : two violins proper, one viola , and one cello ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "inexact",
+          "sometimes proscribed"
+        ],
+        "label_groups": "inexact , sometimes proscribed"
+      },
+      {
+        "definition": "A violinist in an orchestra or group .",
+        "examples": [
+          "The violins are seated with sufficient elbow room.",
+          "She is first violin in the London Symphony Orchestra."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "metonymic"
+        ],
+        "label_groups": "music , metonymic"
+      }
+    ],
+    "main_definition": "( music ) A small unfretted stringed instrument with four strings tuned ( lowest to highest ) G - D - A - E , usually held against the chin and played with a bow .",
+    "secondary_definitions": [
+      "( inexact , sometimes proscribed ) Any instrument of the violin family , always inclusive of violins, violas and cellos , and sometimes further including the double bass .",
+      "( music , metonymic ) A violinist in an orchestra or group ."
+    ]
+  }
+]

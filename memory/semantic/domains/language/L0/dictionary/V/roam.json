@@ -1,0 +1,91 @@
+[
+  {
+    "word": "roam",
+    "lemma": "roam",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹəʊm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "roams",
+          "PT": "roamed",
+          "PAP": "roamed",
+          "PRP": "roaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To wander or travel freely and with no specific destination .",
+        "examples": [],
+        "synonyms": [
+          "err",
+          "shrithe",
+          "wander",
+          "mooch"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To range or wander over.",
+        "examples": [
+          "Gangs of thugs roamed the streets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To use a network or service from different locations or devices .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "telecommunications"
+        ],
+        "label_groups": "intransitive , computing , telecommunications"
+      },
+      {
+        "definition": "To transmit ( resources ) between different locations or devices , to allow comparable usage from any of them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "telecommunications"
+        ],
+        "label_groups": "transitive , computing , telecommunications"
+      }
+    ],
+    "main_definition": "( intransitive ) To wander or travel freely and with no specific destination .",
+    "secondary_definitions": [
+      "( transitive ) To range or wander over.",
+      "( intransitive , computing , telecommunications ) To use a network or service from different locations or devices .",
+      "( transitive , computing , telecommunications ) To transmit ( resources ) between different locations or devices , to allow comparable usage from any of them."
+    ]
+  }
+]

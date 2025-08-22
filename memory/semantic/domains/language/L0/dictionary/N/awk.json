@@ -1,0 +1,32 @@
+[
+  {
+    "word": "awk",
+    "lemma": "awk",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 1,
+    "pronunciation": "/ɔːk/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A Unix scripting language for text processing, or the command line interface itself.",
+        "examples": [
+          "I used C, Perl, the Bourne shell, and some awk and tcl to implement these projects."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer languages"
+        ],
+        "label_groups": "computer languages"
+      }
+    ],
+    "main_definition": "( computer languages ) A Unix scripting language for text processing, or the command line interface itself.",
+    "secondary_definitions": []
+  }
+]

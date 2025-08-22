@@ -1,0 +1,59 @@
+[
+  {
+    "word": "blackball",
+    "lemma": "blackball",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈblækbɔːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "blackballs",
+          "PT": "blackballed",
+          "PAP": "blackballed",
+          "PRP": "blackballing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To vote against, especially in an exclusive organization.",
+        "examples": [
+          "If you're not from a moneyed, well-connected family, you can count on getting blackballed from the fraternity."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To ostracize .",
+        "examples": [],
+        "synonyms": [
+          "blacklist",
+          "send to Coventry"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To vote against, especially in an exclusive organization.",
+    "secondary_definitions": [
+      "( transitive ) To ostracize ."
+    ]
+  }
+]

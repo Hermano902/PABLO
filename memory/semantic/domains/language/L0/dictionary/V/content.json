@@ -1,0 +1,60 @@
+[
+  {
+    "word": "content",
+    "lemma": "content",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈtɛnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "contents",
+          "PT": "contented",
+          "PAP": "contented",
+          "PRP": "contenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give contentment or satisfaction to; to satisfy; to make happy .",
+        "examples": [
+          "You can't have any more. You'll have to content yourself with what you already have."
+        ],
+        "synonyms": [
+          "elate",
+          "hearten"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To satisfy the expectations of; to pay; to requite .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To give contentment or satisfaction to; to satisfy; to make happy .",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To satisfy the expectations of; to pay; to requite ."
+    ]
+  }
+]

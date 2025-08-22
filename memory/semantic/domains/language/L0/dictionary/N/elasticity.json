@@ -1,0 +1,112 @@
+[
+  {
+    "word": "elasticity",
+    "lemma": "elasticity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪ.læsˈtɪs.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "elasticities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property by virtue of which a material deformed under load can regain its original dimensions when unloaded",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The sensitivity of changes in a quantity with respect to changes in another quantity.",
+        "examples": [
+          "If the sales of an item drop by 5% when the price increases by 10%, its price elasticity is −0.5."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      },
+      {
+        "definition": "A measure of the flexibility of a data store 's data model and clustering capabilities.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A system's ability to adapt to changes in workload by automatically provisioning and de-provisioning resources.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The ratio of the relative change in a function's output with respect to the relative change in its input, for infinitesimal changes at a certain point.",
+        "examples": [],
+        "synonyms": [
+          "point elasticity"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The quality of being elastic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Adaptability .",
+        "examples": [
+          "Her elasticity allowed her to recover quickly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( physics ) The property by virtue of which a material deformed under load can regain its original dimensions when unloaded",
+    "secondary_definitions": [
+      "( economics ) The sensitivity of changes in a quantity with respect to changes in another quantity.",
+      "( computing ) A measure of the flexibility of a data store 's data model and clustering capabilities.",
+      "( computing ) A system's ability to adapt to changes in workload by automatically provisioning and de-provisioning resources.",
+      "( mathematics ) The ratio of the relative change in a function's output with respect to the relative change in its input, for infinitesimal changes at a certain point.",
+      "The quality of being elastic .",
+      "Adaptability ."
+    ]
+  }
+]

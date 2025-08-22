@@ -1,0 +1,73 @@
+[
+  {
+    "word": "charter",
+    "lemma": "charter",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈt͡ʃɑːtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "charters",
+          "PT": "chartered",
+          "PAP": "chartered",
+          "PRP": "chartering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To grant or establish a charter.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To lease or hire something by charter.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inform (an arrestee ) of their constitutional rights under the Canadian Charter of Rights and Freedoms upon arrest .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Canada",
+          "law",
+          "of a peace officer"
+        ],
+        "label_groups": [
+          "transitive , Canada , law",
+          "of a peace officer"
+        ]
+      }
+    ],
+    "main_definition": "( transitive ) To grant or establish a charter.",
+    "secondary_definitions": [
+      "( transitive ) To lease or hire something by charter.",
+      "( transitive , Canada , law ) (of a peace officer ) To inform (an arrestee ) of their constitutional rights under the Canadian Charter of Rights and Freedoms upon arrest ."
+    ]
+  }
+]

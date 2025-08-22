@@ -1,0 +1,58 @@
+[
+  {
+    "word": "ultrasonography",
+    "lemma": "ultrasonography",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ultrasonographies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The use of ultrasound to produce images of the hidden interior of objects or spaces .",
+        "examples": [],
+        "synonyms": [
+          "US",
+          "ultrasound"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Medical ultrasonography: The use of ultrasound to produce diagnostic images of the internal organs of the body, or of a foetus .",
+            "examples": [],
+            "synonyms": [
+              "echography",
+              "sonography"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "medicine"
+            ],
+            "label_groups": "medicine"
+          },
+          {
+            "definition": "The use of ultrasound to form images of underwater structures.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "The use of ultrasound to produce images of the hidden interior of objects or spaces .",
+    "secondary_definitions": []
+  }
+]

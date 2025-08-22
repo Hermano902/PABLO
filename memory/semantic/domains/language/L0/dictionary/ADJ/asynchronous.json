@@ -1,0 +1,60 @@
+[
+  {
+    "word": "asynchronous",
+    "lemma": "asynchronous",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/eɪˈsɪŋkɹənəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not synchronous ; occurring at different times.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Allowing the client to continue during processing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "of a request or a message"
+        ],
+        "label_groups": "computing , of a request or a message"
+      },
+      {
+        "definition": "Having many actions occurring at a time, in any order, without waiting for each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "communication"
+        ],
+        "label_groups": "computing , communication"
+      }
+    ],
+    "main_definition": "Not synchronous ; occurring at different times.",
+    "secondary_definitions": [
+      "( computing , of a request or a message ) Allowing the client to continue during processing.",
+      "( computing , communication ) Having many actions occurring at a time, in any order, without waiting for each other."
+    ]
+  }
+]

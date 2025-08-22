@@ -1,0 +1,35 @@
+[
+  {
+    "word": "fibration",
+    "lemma": "fibration",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fibrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A continuous mapping satisfying the homotopy lifting property with respect to any space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebraic topology"
+        ],
+        "label_groups": "algebraic topology"
+      }
+    ],
+    "main_definition": "( algebraic topology ) A continuous mapping satisfying the homotopy lifting property with respect to any space .",
+    "secondary_definitions": []
+  }
+]

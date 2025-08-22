@@ -1,0 +1,43 @@
+{
+  "word": "pap",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "ADJ",
+    "N:4",
+    "V:2",
+    "N:5",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 12,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 5
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pap.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pap.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\pap.json"
+  },
+  "timestamp": "2025-08-19T11:10:49.840125Z"
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "word": "cool",
+    "lemma": "cool",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kuːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cools",
+          "PT": "cooled",
+          "PAP": "cooled",
+          "PRP": "cooling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lose heat, to get colder .",
+        "examples": [
+          "I like to let my tea cool before drinking it so I don't burn my tongue."
+        ],
+        "synonyms": [
+          "cool down"
+        ],
+        "antonyms": [
+          "warm",
+          "warm up",
+          "heat",
+          "heat up"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "literally"
+        ],
+        "label_groups": "intransitive , literally"
+      },
+      {
+        "definition": "To make cooler, less warm.",
+        "examples": [],
+        "synonyms": [
+          "chill",
+          "cool down",
+          "refrigerate",
+          "deheat"
+        ],
+        "antonyms": [
+          "warm",
+          "warm up",
+          "heat",
+          "heat up"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "literally"
+        ],
+        "label_groups": "transitive , literally"
+      },
+      {
+        "definition": "To become less intense, e.g. less amicable or passionate .",
+        "examples": [
+          "Relations cooled between the USA and the USSR after 1980."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      },
+      {
+        "definition": "To make less intense, e.g. less amicable or passionate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To kill , murder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "dated"
+        ],
+        "label_groups": "transitive , slang , dated"
+      },
+      {
+        "definition": "To relax , hang out .",
+        "examples": [],
+        "synonyms": [
+          "bool"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "African-American Vernacular",
+          "slang"
+        ],
+        "label_groups": "intransitive , African-American Vernacular , slang"
+      }
+    ],
+    "main_definition": "( intransitive , literally ) To lose heat, to get colder .",
+    "secondary_definitions": [
+      "( transitive , literally ) To make cooler, less warm.",
+      "( intransitive , figuratively ) To become less intense, e.g. less amicable or passionate .",
+      "( transitive , figuratively ) To make less intense, e.g. less amicable or passionate .",
+      "( transitive , slang , dated ) To kill , murder .",
+      "( intransitive , African-American Vernacular , slang ) To relax , hang out ."
+    ]
+  }
+]

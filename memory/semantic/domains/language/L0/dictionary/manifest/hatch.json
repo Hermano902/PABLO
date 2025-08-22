@@ -1,0 +1,31 @@
+{
+  "word": "hatch",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 4,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\hatch.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\hatch.json"
+  },
+  "timestamp": "2025-08-19T05:06:55.997115Z"
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "sessile",
+    "lemma": "sessile",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛsaɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Permanently attached to a substrate ; not free to move about.",
+        "examples": [
+          "a sessile oyster"
+        ],
+        "synonyms": [
+          "attached",
+          "fixed",
+          "immobile"
+        ],
+        "antonyms": [
+          "mobile",
+          "motile",
+          "vagile"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      },
+      {
+        "definition": "Attached directly by the base ; not having an intervening stalk ; stalkless .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany",
+          "oncology"
+        ],
+        "label_groups": "botany , oncology"
+      }
+    ],
+    "main_definition": "( zoology ) Permanently attached to a substrate ; not free to move about.",
+    "secondary_definitions": [
+      "( botany , oncology ) Attached directly by the base ; not having an intervening stalk ; stalkless ."
+    ]
+  }
+]

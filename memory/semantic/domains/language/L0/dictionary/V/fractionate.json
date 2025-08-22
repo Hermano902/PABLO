@@ -1,0 +1,78 @@
+[
+  {
+    "word": "fractionate",
+    "lemma": "fractionate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹæk.ʃəneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fractionates",
+          "PT": "fractionated",
+          "PAP": "fractionated",
+          "PRP": "fractionating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To separate (a mixture) into its individual constituents by exploiting differences in some chemical or physical property, such as boiling point, particle size, solubility etc.",
+        "examples": [
+          "Crude oil is fractionated in a refinery to produce a number of different petroleum products."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "To divide a total dose of radiation into fractions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radiotherapy"
+        ],
+        "label_groups": "radiotherapy"
+      },
+      {
+        "definition": "To divide each plaintext symbol into several ciphertext symbols as a preliminary stage of encryption .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "To use the technique of fractionation in hypnosis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( chemistry ) To separate (a mixture) into its individual constituents by exploiting differences in some chemical or physical property, such as boiling point, particle size, solubility etc.",
+    "secondary_definitions": [
+      "( radiotherapy ) To divide a total dose of radiation into fractions .",
+      "( cryptography ) To divide each plaintext symbol into several ciphertext symbols as a preliminary stage of encryption .",
+      "To use the technique of fractionation in hypnosis ."
+    ]
+  }
+]

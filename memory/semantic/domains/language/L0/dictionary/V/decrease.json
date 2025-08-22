@@ -1,0 +1,58 @@
+[
+  {
+    "word": "decrease",
+    "lemma": "decrease",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈkɹiːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decreases",
+          "PT": "decreased",
+          "PAP": "decreased",
+          "PRP": "decreasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a quantity, to become smaller .",
+        "examples": [
+          "The quality of our products has decreased since the main designer left."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make (a quantity) smaller.",
+        "examples": [
+          "Let's decrease the volume a little so we can hear each other talking."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) Of a quantity, to become smaller .",
+    "secondary_definitions": [
+      "( transitive ) To make (a quantity) smaller."
+    ]
+  }
+]

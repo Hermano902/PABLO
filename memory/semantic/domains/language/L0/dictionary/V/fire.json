@@ -1,0 +1,397 @@
+[
+  {
+    "word": "fire",
+    "lemma": "fire",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪ.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fires",
+          "PT": "fired",
+          "PAP": "fired",
+          "PRP": "firing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To set (something, often a building) on fire .",
+        "examples": [],
+        "synonyms": [
+          "inflame",
+          "kindle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To heat as with fire , but without setting on fire , as ceramic , metal objects, etc.",
+        "examples": [
+          "If you fire the pottery at too high a temperature, it may crack.",
+          "They fire the wood to make it easier to put a point on the end."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To drive away by setting a fire .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To terminate the employment contract of (an employee), especially for cause (such as misconduct , incompetence , or poor performance ).",
+        "examples": [],
+        "synonyms": [
+          "dehire",
+          "dismiss",
+          "give someone their cards",
+          "give the boot",
+          "give the elbow",
+          "give someone the heave-ho",
+          "let go",
+          "make redundant",
+          "sack",
+          "terminate",
+          "throw out",
+          "unhire"
+        ],
+        "antonyms": [
+          "hire"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "employment"
+        ],
+        "label_groups": "transitive , employment"
+      },
+      {
+        "definition": "To terminate a contract with a client ; to drop a client.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To shoot (a gun , rocket / missile , or analogous device).",
+        "examples": [
+          "We will fire our guns at the enemy.",
+          "The jet fired a salvo of rockets at the truck convoy.",
+          "He fired his radar gun at passing cars."
+        ],
+        "synonyms": [
+          "let off",
+          "loose",
+          "shoot"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To shoot a gun , cannon , or similar weapon .",
+        "examples": [
+          "Don't fire until you see the whites of their eyes."
+        ],
+        "synonyms": [
+          "open fire",
+          "shoot"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To operate a rocket engine to produce thrust .",
+        "examples": [
+          "The RCS thrusters fired several times to stabilize the tumbling spacecraft."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronautics"
+        ],
+        "label_groups": "astronautics"
+      },
+      {
+        "definition": "To set off an explosive in a mine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mining"
+        ],
+        "label_groups": "transitive , mining"
+      },
+      {
+        "definition": "To shoot ; to attempt to score a goal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To cause an action potential in a cell.",
+        "examples": [
+          "When a neuron fires , it transmits information."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physiology"
+        ],
+        "label_groups": "intransitive , physiology"
+      },
+      {
+        "definition": "To forcibly direct (something).",
+        "examples": [
+          "He answered the questions the reporters fired at him."
+        ],
+        "synonyms": [
+          "propel",
+          "shoot",
+          "throw"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To initiate an event (by means of an event handler ).",
+        "examples": [
+          "The event handler should only fire after all web page content has finished loading.",
+          "The queue fires a job whenever the thread pool is ready to handle it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "computer sciences",
+          "software engineering"
+        ],
+        "label_groups": "ambitransitive , computer sciences, software engineering"
+      },
+      {
+        "definition": "To inflame ; to irritate , as the passions.",
+        "examples": [
+          "to fire the soul with anger, pride, or revenge"
+        ],
+        "synonyms": [
+          "arouse",
+          "excite"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be irritated or inflamed with passion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      },
+      {
+        "definition": "To animate ; to give life or spirit to.",
+        "examples": [
+          "to fire the genius of a young man"
+        ],
+        "synonyms": [
+          "energize",
+          "inspirit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To feed or serve the fire of.",
+        "examples": [
+          "to fire a boiler"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To light up as if by fire ; to illuminate .",
+        "examples": [],
+        "synonyms": [
+          "belight"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cauterize (a horse, or a part of its body).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "farriery"
+        ],
+        "label_groups": "transitive , farriery"
+      },
+      {
+        "definition": "To catch fire ; to be kindled .",
+        "examples": [],
+        "synonyms": [
+          "go up in flames"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      },
+      {
+        "definition": "To work as a fireman , one who keeps the fire under a steam boiler on a steam-powered ship or train.",
+        "examples": [
+          "I fired on that train until August."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      },
+      {
+        "definition": "To start (an engine).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "usually with \"up\""
+        ],
+        "label_groups": "slang , usually with \"up\""
+      },
+      {
+        "definition": "Of a horse: to race ahead with a burst of energy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "horse racing",
+          "intransitive"
+        ],
+        "label_groups": "horse racing , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To set (something, often a building) on fire .",
+    "secondary_definitions": [
+      "( transitive ) To heat as with fire , but without setting on fire , as ceramic , metal objects, etc.",
+      "( transitive ) To drive away by setting a fire .",
+      "( transitive , employment ) To terminate the employment contract of (an employee), especially for cause (such as misconduct , incompetence , or poor performance ).",
+      "( transitive , by extension ) To terminate a contract with a client ; to drop a client.",
+      "( transitive ) To shoot (a gun , rocket / missile , or analogous device).",
+      "( intransitive ) To shoot a gun , cannon , or similar weapon .",
+      "( astronautics ) To operate a rocket engine to produce thrust .",
+      "( transitive , mining ) To set off an explosive in a mine .",
+      "( transitive , sports ) To shoot ; to attempt to score a goal .",
+      "( intransitive , physiology ) To cause an action potential in a cell.",
+      "( transitive ) To forcibly direct (something).",
+      "( ambitransitive , computer sciences, software engineering ) To initiate an event (by means of an event handler ).",
+      "( transitive ) To inflame ; to irritate , as the passions.",
+      "( intransitive , dated ) To be irritated or inflamed with passion .",
+      "To animate ; to give life or spirit to.",
+      "To feed or serve the fire of.",
+      "( transitive ) To light up as if by fire ; to illuminate .",
+      "( transitive , farriery ) To cauterize (a horse, or a part of its body).",
+      "( intransitive , dated ) To catch fire ; to be kindled .",
+      "( intransitive , dated ) To work as a fireman , one who keeps the fire under a steam boiler on a steam-powered ship or train.",
+      "( slang , usually with \"up\" ) To start (an engine).",
+      "( horse racing , intransitive ) Of a horse: to race ahead with a burst of energy."
+    ]
+  }
+]

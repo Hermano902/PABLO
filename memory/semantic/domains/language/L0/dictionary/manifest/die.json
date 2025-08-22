@@ -1,0 +1,40 @@
+{
+  "word": "die",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2",
+    "ADV"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 25,
+      "examples": 21,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 10,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\die.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\die.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\die.json"
+  },
+  "timestamp": "2025-08-19T01:53:29.228496Z"
+}

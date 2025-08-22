@@ -1,0 +1,98 @@
+[
+  {
+    "word": "upstream",
+    "lemma": "upstream",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʌpˈstɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "furtherupstream",
+          "SUP": "furthestupstream"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a direction against the flow of a current or stream of fluid (typically water ); upriver .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Occurring earlier than something else; ( also, usually, especially ) being an influence on something else; causing a consequence for something else.",
+        "examples": [
+          "Input entry is upstream of input validation in the runtime process."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Involving exploration and pre-production rather than refining and selling .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "oil industry"
+            ],
+            "label_groups": "oil industry"
+          },
+          {
+            "definition": "In the direction from the client to the server .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computer networking"
+            ],
+            "label_groups": "computer networking"
+          },
+          {
+            "definition": "Maintained, owned, or associated with the original developers of the given software ; in contrast to a modified version downstream .",
+            "examples": [
+              "The outage was caused by an upstream error in a payments library."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "software"
+            ],
+            "label_groups": "software"
+          },
+          {
+            "definition": "Towards the leading end ( 5′ end ) of a DNA molecule .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology"
+            ],
+            "label_groups": "biology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "In a direction against the flow of a current or stream of fluid (typically water ); upriver .",
+    "secondary_definitions": [
+      "( figurative ) Occurring earlier than something else; ( also, usually, especially ) being an influence on something else; causing a consequence for something else."
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "pleasure",
+    "lemma": "pleasure",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈplɛʒə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pleasures",
+          "PT": "pleasured",
+          "PAP": "pleasured",
+          "PRP": "pleasuring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give or afford pleasure to.",
+        "examples": [],
+        "synonyms": [
+          "please",
+          "gratify"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give sexual pleasure to.",
+        "examples": [
+          "Johnny pleasured Jackie with his mouth last night."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take pleasure; to seek or pursue pleasure.",
+        "examples": [
+          "to go pleasuring"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "intransitive , dated"
+      }
+    ],
+    "main_definition": "( transitive ) To give or afford pleasure to.",
+    "secondary_definitions": [
+      "( transitive ) To give sexual pleasure to.",
+      "( intransitive , dated ) To take pleasure; to seek or pursue pleasure."
+    ]
+  }
+]

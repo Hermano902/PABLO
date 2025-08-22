@@ -1,0 +1,111 @@
+[
+  {
+    "word": "scope",
+    "lemma": "scope",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈskəʊp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scopes",
+          "PT": "scoped",
+          "PAP": "scoped",
+          "PRP": "scoping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform a cursory investigation of; scope out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "transitive"
+        ],
+        "label_groups": "informal , transitive"
+      },
+      {
+        "definition": "To perform any medical procedure that ends in the suffix -scopy , such as endoscopy , colonoscopy , bronchoscopy , etc.",
+        "examples": [
+          "The surgeon will scope the football player's knee to repair damage to a ligament."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "colloquial"
+        ],
+        "label_groups": "medicine , colloquial"
+      },
+      {
+        "definition": "To define the scope of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To limit (an object or variable) to a certain region of program source code .",
+        "examples": [
+          "If we locally scope the user's login name, it won't be accessible from outside this function."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "To examine under a microscope.",
+        "examples": [
+          "The entomologist explained that he could not tell what species of springtail we were looking at without scoping it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "To observe a bird using a spotting scope .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "birdwatching",
+          "informal"
+        ],
+        "label_groups": "birdwatching , informal"
+      }
+    ],
+    "main_definition": "( informal , transitive ) To perform a cursory investigation of; scope out .",
+    "secondary_definitions": [
+      "( medicine , colloquial ) To perform any medical procedure that ends in the suffix -scopy , such as endoscopy , colonoscopy , bronchoscopy , etc.",
+      "To define the scope of something.",
+      "( programming ) To limit (an object or variable) to a certain region of program source code .",
+      "( informal ) To examine under a microscope.",
+      "( birdwatching , informal ) To observe a bird using a spotting scope ."
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "word": "noble",
+  "pos_order": [
+    "N",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 6,
+      "examples": 4,
+      "synonyms": 3,
+      "antonyms": 6,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\noble.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\noble.json"
+  },
+  "timestamp": "2025-08-19T10:10:03.938816Z"
+}

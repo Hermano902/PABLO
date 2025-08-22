@@ -1,0 +1,107 @@
+[
+  {
+    "word": "orbit",
+    "lemma": "orbit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔː.bɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "orbits",
+          "PT": "orbited",
+          "PAP": "orbited",
+          "PRP": "orbiting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To circle or revolve around another object or position.",
+        "examples": [
+          "The Earth orbits the Sun.",
+          "The satellite orbits the Lagrange point."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To place an object (e.g. a satellite ) into an orbit around a planet .",
+            "examples": [
+              "A rocket was used to orbit the satellite."
+            ],
+            "synonyms": [
+              "launch"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "To move around the general vicinity of something.",
+        "examples": [
+          "The harried mother had a cloud of children orbiting her, begging for sweets."
+        ],
+        "synonyms": [
+          "circumambulate",
+          "tag along"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To move in a circle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To center (around).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To continue to follow and/or engage with someone via social media after breaking up with them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dating"
+        ],
+        "label_groups": "transitive , dating"
+      }
+    ],
+    "main_definition": "( astronomy ) To circle or revolve around another object or position.",
+    "secondary_definitions": [
+      "To move around the general vicinity of something.",
+      "To move in a circle .",
+      "( transitive ) To center (around).",
+      "( transitive , dating ) To continue to follow and/or engage with someone via social media after breaking up with them."
+    ]
+  }
+]

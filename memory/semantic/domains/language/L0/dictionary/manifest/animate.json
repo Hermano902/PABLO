@@ -1,0 +1,28 @@
+{
+  "word": "animate",
+  "pos_order": [
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 12,
+      "antonyms": 9,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 3,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\animate.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\animate.json"
+  },
+  "timestamp": "2025-08-18T20:54:20.143112Z"
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "additive",
+    "lemma": "additive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈæd.ɪ.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more additive",
+          "SUP": "most additive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Pertaining to addition ; that can be, or has been, added .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "That is distributive over addition .",
+        "examples": [
+          "Matrix multiplication is additive , in that M v → + M w → = M ( v → + w → ) {\\displaystyle M{\\vec {v}}+M{\\vec {w}}=M({\\vec {v}}+{\\vec {w}})} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a function",
+          "etc."
+        ],
+        "label_groups": "mathematics , of a function , etc."
+      },
+      {
+        "definition": "Whose operator is identified as addition .",
+        "examples": [
+          "It is natural to look at a finite cyclic group as an additive group."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "group theory",
+          "of a group",
+          "semigroup",
+          "etc."
+        ],
+        "label_groups": "group theory , of a group, semigroup, etc."
+      },
+      {
+        "definition": "Pertaining to chemical addition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "Of or pertaining to genes (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the phenotype .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "( mathematics ) Pertaining to addition ; that can be, or has been, added .",
+    "secondary_definitions": [
+      "( mathematics , of a function , etc. ) That is distributive over addition .",
+      "( group theory , of a group, semigroup, etc. ) Whose operator is identified as addition .",
+      "( chemistry ) Pertaining to chemical addition .",
+      "( genetics ) Of or pertaining to genes (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the phenotype ."
+    ]
+  }
+]

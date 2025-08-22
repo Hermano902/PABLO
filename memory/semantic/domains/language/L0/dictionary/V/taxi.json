@@ -1,0 +1,48 @@
+[
+  {
+    "word": "taxi",
+    "lemma": "taxi",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæk.si/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "taxies",
+          "PT": "taxied",
+          "PAP": "taxied",
+          "PRP": "taxiing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move an aircraft on the ground under its own power.",
+        "examples": [
+          "taxi down the runway"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To travel by taxicab.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To move an aircraft on the ground under its own power.",
+    "secondary_definitions": [
+      "To travel by taxicab."
+    ]
+  }
+]

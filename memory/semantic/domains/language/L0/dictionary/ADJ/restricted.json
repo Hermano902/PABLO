@@ -1,0 +1,61 @@
+[
+  {
+    "word": "restricted",
+    "lemma": "restricted",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈstɹɪktɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more restricted",
+          "SUP": "most restricted"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Limited within bounds .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Available only to certain authorized groups of people.",
+        "examples": [
+          "restricted area",
+          "restricted access",
+          "a restricted military document"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Only available to customers who do not belong to racial, ethnic or religious minorities.",
+        "examples": [
+          "This hotel is restricted : no Blacks."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "historical"
+        ],
+        "label_groups": "US , historical"
+      }
+    ],
+    "main_definition": "Limited within bounds .",
+    "secondary_definitions": [
+      "Available only to certain authorized groups of people.",
+      "( US , historical ) Only available to customers who do not belong to racial, ethnic or religious minorities."
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "alchemy",
+    "lemma": "alchemy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈælkəmi/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "alchemies"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The premodern and early modern study of physical changes , particularly in Europe , Arabia , and China ; and chiefly in pursuit of an elixir of immortality , a universal panacea , and/or a philosopher's stone able to transmute base metals into gold , eventually developing into chemistry .",
+        "examples": [
+          "The purpose of physical alchemy —as opposed to its various spiritual pursuits—was to treat the supposed leprosity of base metals such as lead , refining and purifying them into gold ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The causing of any sort of mysterious sudden transmutation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "Any elaborate transformation process or algorithm .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "slang",
+          "countable"
+        ],
+        "label_groups": "computing , slang , countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The premodern and early modern study of physical changes , particularly in Europe , Arabia , and China ; and chiefly in pursuit of an elixir of immortality , a universal panacea , and/or a philosopher's stone able to transmute base metals into gold , eventually developing into chemistry .",
+    "secondary_definitions": [
+      "( countable ) The causing of any sort of mysterious sudden transmutation .",
+      "( computing , slang , countable ) Any elaborate transformation process or algorithm ."
+    ]
+  }
+]

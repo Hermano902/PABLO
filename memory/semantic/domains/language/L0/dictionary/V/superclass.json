@@ -1,0 +1,42 @@
+[
+  {
+    "word": "superclass",
+    "lemma": "superclass",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "superclasses",
+          "PT": "superclassed",
+          "PAP": "superclassed",
+          "PRP": "superclassing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To create a superclass of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "object-oriented programming"
+        ],
+        "label_groups": "transitive , computing , object-oriented programming"
+      }
+    ],
+    "main_definition": "( transitive , computing , object-oriented programming ) To create a superclass of.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "speedrun",
+    "lemma": "speedrun",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈspiːd.ɹʌn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "speedruns",
+          "PT": "speedran",
+          "PAP": "speedrun",
+          "PRP": "speedrunning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform or create a speedrun .",
+        "examples": [
+          "In my most recent attempt to speedrun this game, I almost managed to beat the world record."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To do something or undergo some process as quickly as possible.",
+        "examples": [
+          "John decided to speedrun his trip to the grocery store."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "Internet slang"
+        ],
+        "label_groups": "by extension , Internet slang"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To perform or create a speedrun .",
+    "secondary_definitions": [
+      "( by extension , Internet slang ) To do something or undergo some process as quickly as possible."
+    ]
+  }
+]

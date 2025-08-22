@@ -1,0 +1,67 @@
+[
+  {
+    "word": "rain",
+    "lemma": "rain",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹeɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rains"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Condensed water falling from a cloud .",
+        "examples": [
+          "We've been having a lot of rain lately.",
+          "The rains came late that year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      },
+      {
+        "definition": "Any matter moving or falling, usually through air, and especially if liquid or otherwise figuratively identifiable with raindrops .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "An instance of particles or larger pieces of matter moving or falling through air .",
+        "examples": [
+          "A rain of mortar fire fell on our trenches."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      }
+    ],
+    "main_definition": "( meteorology ) Condensed water falling from a cloud .",
+    "secondary_definitions": [
+      "( figuratively ) Any matter moving or falling, usually through air, and especially if liquid or otherwise figuratively identifiable with raindrops .",
+      "( figuratively ) An instance of particles or larger pieces of matter moving or falling through air ."
+    ]
+  }
+]

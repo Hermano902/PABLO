@@ -1,0 +1,37 @@
+[
+  {
+    "word": "denormal",
+    "lemma": "denormal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "denormals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A number that is denormal.",
+        "examples": [],
+        "synonyms": [
+          "subnormal"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "( computing theory ) A number that is denormal.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "minority",
+    "lemma": "minority",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/maɪˈnɒɹ.ɪ.ti/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more minority",
+          "SUP": "most minority"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or relating to a minority.",
+        "examples": [
+          "They hold a minority interest in the company."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relational",
+          "attributive"
+        ],
+        "label_groups": "relational , attributive"
+      },
+      {
+        "definition": "Empowered by or representing a minority (usually a plurality ) of votes cast, legislative seats , etc., rather than an outright majority thereof.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "attributive",
+          "politics",
+          "of a party",
+          "government",
+          "etc."
+        ],
+        "label_groups": "attributive , politics , of a party, government, etc."
+      }
+    ],
+    "main_definition": "( relational , attributive ) Of or relating to a minority.",
+    "secondary_definitions": [
+      "( attributive , politics , of a party, government, etc. ) Empowered by or representing a minority (usually a plurality ) of votes cast, legislative seats , etc., rather than an outright majority thereof."
+    ]
+  }
+]

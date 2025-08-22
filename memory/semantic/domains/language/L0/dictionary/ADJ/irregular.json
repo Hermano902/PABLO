@@ -1,0 +1,96 @@
+[
+  {
+    "word": "irregular",
+    "lemma": "irregular",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈɹɛɡ.jʊ.lə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more irregular",
+          "SUP": "most irregular"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "nonstandard ; not conforming to rules or expectations",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "rough ( of a surface )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "without symmetry , regularity , or uniformity",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "not regular ; having sides that are not equal or angles that are not equal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a polygon"
+        ],
+        "label_groups": "geometry , of a polygon"
+      },
+      {
+        "definition": "whose faces are not all regular polygons (or are not equally inclined to each other)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a polyhedron"
+        ],
+        "label_groups": "geometry , of a polyhedron"
+      },
+      {
+        "definition": "not following the regular or expected patterns of inflection in a given language",
+        "examples": [
+          "\"Calves\", \"cacti\", and \"children\" are irregular plurals.",
+          "To buy is an irregular English verb, its past simple and past participle tense is \"bought\".",
+          "I hate learning all the irregular conjugations in French."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a word"
+        ],
+        "label_groups": "grammar , of a word"
+      }
+    ],
+    "main_definition": "nonstandard ; not conforming to rules or expectations",
+    "secondary_definitions": [
+      "rough ( of a surface )",
+      "without symmetry , regularity , or uniformity",
+      "( geometry , of a polygon ) not regular ; having sides that are not equal or angles that are not equal",
+      "( geometry , of a polyhedron ) whose faces are not all regular polygons (or are not equally inclined to each other)",
+      "( grammar , of a word ) not following the regular or expected patterns of inflection in a given language"
+    ]
+  }
+]

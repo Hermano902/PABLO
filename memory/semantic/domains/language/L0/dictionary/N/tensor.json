@@ -1,0 +1,81 @@
+[
+  {
+    "word": "tensor",
+    "lemma": "tensor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛn.sə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tensors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A muscle that tightens or stretches a part, or renders it tense .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy",
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A mathematical object that describes linear relations on scalars , vectors , matrices and other algebraic objects, and is represented as a multidimensional array .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A multidimensional array with (at least) two dimensions.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering",
+              "computing"
+            ],
+            "label_groups": "engineering , computing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "linear algebra",
+          "physics"
+        ],
+        "label_groups": "mathematics , linear algebra , physics",
+        "dating_raw": "from 18th c."
+      },
+      {
+        "definition": "A norm operation on the quaternion algebra .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "obsolete"
+        ],
+        "label_groups": "mathematics , obsolete"
+      }
+    ],
+    "main_definition": "( anatomy ) A muscle that tightens or stretches a part, or renders it tense . [from 17th c.]",
+    "secondary_definitions": [
+      "( mathematics , linear algebra , physics ) A mathematical object that describes linear relations on scalars , vectors , matrices and other algebraic objects, and is represented as a multidimensional array . [from 18th c.]",
+      "( mathematics , obsolete ) A norm operation on the quaternion algebra ."
+    ]
+  }
+]

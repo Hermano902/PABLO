@@ -1,0 +1,37 @@
+[
+  {
+    "word": "goto",
+    "lemma": "goto",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gotos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Alternative letter-case form of GOTO .",
+        "examples": [
+          "Overall, experience in the two decades that followed the publication of Dijkstra's letter showed the folly of producing goto -laden code."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Alternative letter-case form of GOTO .",
+    "secondary_definitions": []
+  }
+]

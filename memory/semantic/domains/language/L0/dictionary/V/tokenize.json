@@ -1,0 +1,69 @@
+[
+  {
+    "word": "tokenize",
+    "lemma": "tokenize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtoʊ.kən.aɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tokenizes",
+          "PT": "tokenized",
+          "PAP": "tokenized",
+          "PRP": "tokenizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce to a token or set of tokens by lexical analysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To substitute sensitive data with meaningless placeholders.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To treat as a token minority .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive , computing ) To reduce to a token or set of tokens by lexical analysis .",
+    "secondary_definitions": [
+      "( transitive , computing ) To substitute sensitive data with meaningless placeholders.",
+      "( transitive ) To treat as a token minority ."
+    ]
+  }
+]

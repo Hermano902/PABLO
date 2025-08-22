@@ -1,0 +1,31 @@
+{
+  "word": "stalk",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stalk.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stalk.json"
+  },
+  "timestamp": "2025-08-19T17:52:03.987995Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "uncook",
+    "lemma": "uncook",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "uncooks",
+          "PT": "uncooked",
+          "PAP": "uncooked",
+          "PRP": "uncooking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To undo the act of cooking.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To repair (an MP3 audio file ) that has been damaged (\" cooked \") by being converted through a text format and having line breaks applied to it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "slang",
+          "transitive"
+        ],
+        "label_groups": "computing , slang , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To undo the act of cooking.",
+    "secondary_definitions": [
+      "( computing , slang , transitive ) To repair (an MP3 audio file ) that has been damaged (\" cooked \") by being converted through a text format and having line breaks applied to it."
+    ]
+  }
+]

@@ -1,0 +1,1266 @@
+[
+  {
+    "word": "go",
+    "lemma": "go",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡoʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "goes",
+          "PT": "went",
+          "PAP": "gone",
+          "PRP": "going",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move , either physically or in an abstract sense:",
+        "examples": [],
+        "synonyms": [
+          "move",
+          "fare",
+          "tread",
+          "draw",
+          "drift",
+          "wend",
+          "cross"
+        ],
+        "antonyms": [
+          "freeze",
+          "halt",
+          "remain",
+          "stand still",
+          "stay",
+          "stop"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To move through space (especially to or through a place). ( May be used of tangible things such as people or cars, or intangible things such as moods or information. )",
+            "examples": [
+              "Why don’t you go with us?",
+              "This train goes through Cincinnati on its way to Chicago.",
+              "Chris, where are you going ?",
+              "There's no public transit where I'm going .",
+              "Wow, look at him go !",
+              "The rumour went all around town."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To move or travel through time (either literally—in a fictional or hypothetical situation in which time travel is possible—or in one's mind or knowledge of the historical record). ( See also go back . )",
+            "examples": [
+              "Yesterday was the second-wettest day on record; you have to go all the way back to 1896 to find a day when more rain fell.",
+              "Fans want to see the Twelfth Doctor go to the 51st century to visit River in the library."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To navigate (to a file or folder on a computer, a site on the internet, a memory, etc).",
+            "examples": [
+              "For the best definitions, go to wiktionary.org"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To move (a particular distance, or in a particular fashion).",
+            "examples": [
+              "We've only gone twenty miles today.",
+              "This car can go circles around that one.",
+              "The fight went the distance and was decided on points."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To move or travel in order to do something, or to do something while moving.",
+            "examples": [
+              "We went swimming.",
+              "Let's go shopping.",
+              "Please go and get me some envelopes."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To leave ; to move away.",
+            "examples": [
+              "Please don't go !",
+              "I really must be going .",
+              "Workmen were coming and going at all hours of the night."
+            ],
+            "synonyms": [
+              "depart",
+              "leave",
+              "exit",
+              "go away",
+              "go out"
+            ],
+            "antonyms": [
+              "come",
+              "arrive",
+              "approach"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To follow or proceed according to (a course or path).",
+            "examples": [
+              "Let's go this way for a while.",
+              "She was going that way anyway, so she offered to show him where it was."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To travel or pass along.",
+            "examples": [
+              "We went the full length of the promenade before we found a place to sit down.",
+              "His life story goes the gamut, from poverty-stricken upbringing to colossal wealth."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To walk ; to travel on one's feet.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete",
+              "intransitive"
+            ],
+            "label_groups": "obsolete , intransitive",
+            "dating_raw": "11th–19th c."
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To work or function (properly); to move or perform (as required).",
+        "examples": [
+          "The engine just won't go anymore.",
+          "Don't put your hand inside while the motor's going !"
+        ],
+        "synonyms": [
+          "function",
+          "work",
+          "operate",
+          "run"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chiefly of a machine"
+        ],
+        "label_groups": "intransitive , chiefly of a machine"
+      },
+      {
+        "definition": "To start ; to begin (an action or process).",
+        "examples": [
+          "You've got thirty seconds to solve the anagram, starting now. Go !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To take a turn , especially in a game .",
+        "examples": [
+          "It’s your turn; go .",
+          "I've got all vowels. I don't think I can go ."
+        ],
+        "synonyms": [
+          "move",
+          "move",
+          "turn"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To attend .",
+        "examples": [
+          "I go to school at the schoolhouse.",
+          "She went to Yale.",
+          "They only go to church on Christmas."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To proceed :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To proceed (often in a specified manner, indicating the perceived quality of an event or state).",
+            "examples": [
+              "That went well.",
+              "\"How are things going ?\" \"Not bad, thanks.\""
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To proceed (especially to do something foolish ).",
+            "examples": [
+              "Why'd you have to go and do that?",
+              "Why'd you have to go do that?",
+              "He just went and punched the guy."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "colloquial",
+              "with another verb",
+              "sometimes linked by"
+            ],
+            "label_groups": "intransitive , colloquial , with another verb, sometimes linked by and"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To extend along.",
+        "examples": [
+          "The fence goes the length of the boundary."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To extend (from one point in time or space to another).",
+        "examples": [
+          "This property goes all the way to the state line.",
+          "The working week goes from Monday to Friday."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To lead (to a place); to give access (to).",
+        "examples": [
+          "Does this road go to Fort Smith?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To become , move to or come to (a state, position, situation)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To become . ( The adjective that follows often, but not always, describes a negative state. )",
+            "examples": [
+              "You'll go blind.",
+              "The milk went bad.",
+              "I went crazy.",
+              "After failing as a criminal, he decided to go straight.",
+              "The video clip went viral.",
+              "Don't tell my Mum: she'll go ballistic.",
+              "The local shop wants to go digital, and eventually go global."
+            ],
+            "synonyms": [
+              "become",
+              "turn",
+              "grow",
+              "get",
+              "wax"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "copulative"
+            ],
+            "label_groups": "copulative"
+          },
+          {
+            "definition": "To move to (a position or state).",
+            "examples": [
+              "If we can win on Saturday, we'll go top of the league.",
+              "They went level with their rivals."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To come (to a certain condition or state).",
+            "examples": [
+              "They went into debt .",
+              ".",
+              "She goes to sleep around 10 o'clock."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To change (from one value to another).",
+        "examples": [
+          "The traffic light went straight from green to red."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To assume the obligation or function of; to be, to serve as.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To continuously or habitually be in a state.",
+        "examples": [
+          "I don't want my children to go hungry.",
+          "We went barefoot in the summer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative"
+        ],
+        "label_groups": "intransitive , copulative"
+      },
+      {
+        "definition": "To turn out , to result ; to come to (a certain result).",
+        "examples": [
+          "The decision went the way we expected."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To tend (toward a result)",
+        "examples": [
+          "Well, that goes to show you.",
+          "These experiences go to make us stronger."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To contribute to a (specified) end product or result.",
+        "examples": [
+          "qualities that go to make a lady / lip-reader / sharpshooter"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To pass , to be used up:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To elapse , to pass ; to slip away. ( Compare go by . )",
+            "examples": [
+              "The time went slowly."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "of time"
+            ],
+            "label_groups": "intransitive , of time"
+          },
+          {
+            "definition": "To end or disappear . ( Compare go away . )",
+            "examples": [
+              "After three days, my headache finally went ."
+            ],
+            "synonyms": [
+              "disappear",
+              "vanish",
+              "go away",
+              "end",
+              "dissipate"
+            ],
+            "antonyms": [
+              "remain",
+              "stay",
+              "hold"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To be spent or used up .",
+            "examples": [
+              "His money went on drink."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To die .",
+        "examples": [
+          "I want to go in my sleep."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be lost or out :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To be lost .",
+            "examples": [
+              "The third wicket went just before lunch."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "cricket",
+              "of a wicket"
+            ],
+            "label_groups": "intransitive , cricket , of a wicket"
+          },
+          {
+            "definition": "To be out .",
+            "examples": [
+              "Smith bowls ... Jones hits it straight up in the air ... and ... caught! Jones has gone !"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "cricket",
+              "of a batsman"
+            ],
+            "label_groups": "intransitive , cricket , of a batsman"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "cricket"
+        ],
+        "label_groups": "intransitive , cricket"
+      },
+      {
+        "definition": "To break down or apart:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To collapse or give way, to break apart.",
+            "examples": [
+              "Careful! It looks as if that ceiling could go at any moment!"
+            ],
+            "synonyms": [
+              "crumble",
+              "collapse",
+              "disintegrate",
+              "give way"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To break down or decay .",
+            "examples": [
+              "My mind is going .",
+              "She's 83; her eyesight is starting to go ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To be sold .",
+        "examples": [
+          "The car went for five thousand dollars.",
+          "The store is closing down so everything must go ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be discarded or disposed of.",
+        "examples": [
+          "This chair has got to go .",
+          "All this old rubbish can go ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be given , especially to be assigned or allotted .",
+        "examples": [
+          "The property shall go to my wife.",
+          "The award went to Steven Spielberg."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To survive or get by ; to last or persist for a stated length of time.",
+        "examples": [
+          "How long can you go without water?",
+          "We've gone without your help for a while now.",
+          "I've gone ten days now without a cigarette.",
+          "Can you two go twenty minutes without arguing?!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To have a certain record .",
+        "examples": [
+          "They've gone one for three in this series.",
+          "The team is going five in a row."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "To be authoritative, accepted, or valid:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Of an opinion or instruction, to have (final) authority ; to be authoritative.",
+            "examples": [
+              "Whatever the boss says goes , do you understand?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To be accepted .",
+            "examples": [
+              "Anything goes around here."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To be valid or applicable .",
+            "examples": [
+              "The baked beans can go on this shelf, and the same goes for all these other tins."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To say (something), to make a sound:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To say (something, aloud or to oneself).",
+            "examples": [
+              "I go , \"As if!\" And she was all like, \"Whatever!\"",
+              "As soon as I did it, I went \"that was stupid.\""
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "colloquial"
+            ],
+            "label_groups": "transitive , colloquial"
+          },
+          {
+            "definition": "To make the (specified) sound.",
+            "examples": [
+              "Cats go \"meow\". Motorcycles go \"vroom\"."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To sound ; to make a noise.",
+            "examples": [
+              "I woke up just before the clock went ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To be expressed or composed (a certain way).",
+        "examples": [
+          "The tune goes like this.",
+          "As the story goes , he got the idea for the song while sitting in traffic."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To resort (to).",
+        "examples": [
+          "The nylon gears kept breaking, so we went to stainless steel."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To apply or subject oneself to:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To apply oneself; to undertake; to have as one's goal or intention. ( Compare be going to . )",
+            "examples": [
+              "I'm going to join a sports team.",
+              "I wish you'd go and get a job.",
+              "He went to pick it up, but it rolled out of reach.",
+              "He's going to leave town tomorrow."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To make an effort , to subject oneself (to something).",
+            "examples": [
+              "You didn't have to go to such trouble.",
+              "I never thought he'd go so far as to call you.",
+              "She went to great expense to help them win."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To work (through or over), especially mentally .",
+            "examples": [
+              "I've gone over this a hundred times.",
+              "Let's not go into that right now."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To fit (in a place, or together with something):",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To fit .",
+            "examples": [
+              "Do you think the sofa will go through the door?",
+              "The belt just barely went around his waist."
+            ],
+            "synonyms": [
+              "fit",
+              "pass",
+              "stretch",
+              "come",
+              "make it"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "often followed by a preposition"
+            ],
+            "label_groups": "intransitive , often followed by a preposition"
+          },
+          {
+            "definition": "To be compatible , especially of colors or food and drink.",
+            "examples": [
+              "This shade of red doesn't go with the drapes.",
+              "White wine goes better with fish than red wine."
+            ],
+            "synonyms": [
+              "harmonize"
+            ],
+            "antonyms": [
+              "clash"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To belong (somewhere).",
+            "examples": [
+              "My shirts go on this side of the wardrobe.",
+              "This piece of the jigsaw goes on the other side."
+            ],
+            "synonyms": [
+              "belong",
+              "have",
+              "place"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "Of a ball, to be capable of being potted, not having its path to the pocket obstructed by other balls.",
+            "examples": [
+              "He'd like to pot the pink, but I don't think it will go . The green's in the way."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "snooker"
+            ],
+            "label_groups": "intransitive , snooker"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To date .",
+        "examples": [
+          "How long have they been going together?",
+          "He's been going with her for two weeks."
+        ],
+        "synonyms": [
+          "go out",
+          "date",
+          "see"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To (begin to) date or have sex with (a particular race).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attack :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To fight or attack .",
+            "examples": [
+              "I went at him with a knife."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To fight .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "obsolete",
+              "US",
+              "slang"
+            ],
+            "label_groups": "transitive , obsolete , US , slang"
+          },
+          {
+            "definition": "To attack .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "Australian slang"
+            ],
+            "label_groups": "transitive , Australian slang"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Used to express how some category of things generally is, as a reference for, contrast to, or comparison with, a particular example.",
+        "examples": [
+          "My cat Fluffy is very timid, as cats go .",
+          "As far as burgers go , this is one of the best."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in phrases with 'as'"
+        ],
+        "label_groups": "in phrases with 'as'"
+      },
+      {
+        "definition": "To take (a particular part or share ); to participate in to the extent of.",
+        "examples": [
+          "Let's go halves on this."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To yield or weigh .",
+        "examples": [
+          "Those babies go five tons apiece."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To offer , bid or bet an amount; to pay .",
+        "examples": [
+          "That's as high as I can go .",
+          "We could go two fifty.",
+          "I'll go a ten-spot.",
+          "I'll go you a shilling.",
+          "I'll go him one better ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To enjoy . ( Compare go for . )",
+        "examples": [
+          "I could go a beer right about now."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      },
+      {
+        "definition": "To go to the toilet ; to urinate or defecate .",
+        "examples": [
+          "I really need to go .",
+          "Have you managed to go today, Mrs. Miggins?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "colloquial"
+        ],
+        "label_groups": "intransitive , colloquial"
+      },
+      {
+        "definition": "Expressing encouragement or approval.",
+        "examples": [
+          "Go , girl! You can do it!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "imperative"
+        ],
+        "label_groups": "imperative"
+      },
+      {
+        "definition": "Clipping of go to the .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "especially MLE",
+          "Australia",
+          "Singapore",
+          "intransitive",
+          "colloquial"
+        ],
+        "label_groups": "UK , especially MLE , Australia , Singapore , intransitive , colloquial"
+      },
+      {
+        "definition": "To fight , usually with the fists.",
+        "examples": [
+          "You said WHAT about my mom? Do you want to go , bro?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "colloquial",
+          "euphemistic"
+        ],
+        "label_groups": "intransitive , colloquial , euphemistic"
+      },
+      {
+        "definition": "To pass (a specified time) in gestation ; to be pregnant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "usually followed by with"
+        ],
+        "label_groups": "intransitive , usually followed by with"
+      }
+    ],
+    "main_definition": "To move , either physically or in an abstract sense:",
+    "secondary_definitions": [
+      "( intransitive , chiefly of a machine ) To work or function (properly); to move or perform (as required).",
+      "( intransitive ) To start ; to begin (an action or process).",
+      "( intransitive ) To take a turn , especially in a game .",
+      "( intransitive ) To attend .",
+      "To proceed :",
+      "( intransitive ) To extend along.",
+      "( intransitive ) To extend (from one point in time or space to another).",
+      "( intransitive ) To lead (to a place); to give access (to).",
+      "To become , move to or come to (a state, position, situation)",
+      "( intransitive ) To change (from one value to another).",
+      "To assume the obligation or function of; to be, to serve as.",
+      "( intransitive , copulative ) To continuously or habitually be in a state.",
+      "To turn out , to result ; to come to (a certain result).",
+      "( intransitive ) To tend (toward a result)",
+      "To contribute to a (specified) end product or result.",
+      "To pass , to be used up:",
+      "( intransitive ) To die .",
+      "( intransitive , cricket ) To be lost or out :",
+      "To break down or apart:",
+      "( intransitive ) To be sold .",
+      "( intransitive ) To be discarded or disposed of.",
+      "( intransitive ) To be given , especially to be assigned or allotted .",
+      "( transitive , intransitive ) To survive or get by ; to last or persist for a stated length of time.",
+      "( transitive , sports ) To have a certain record .",
+      "To be authoritative, accepted, or valid:",
+      "To say (something), to make a sound:",
+      "To be expressed or composed (a certain way).",
+      "( intransitive ) To resort (to).",
+      "To apply or subject oneself to:",
+      "To fit (in a place, or together with something):",
+      "( intransitive ) To date .",
+      "( transitive ) To (begin to) date or have sex with (a particular race).",
+      "To attack :",
+      "( in phrases with 'as' ) Used to express how some category of things generally is, as a reference for, contrast to, or comparison with, a particular example.",
+      "( transitive ) To take (a particular part or share ); to participate in to the extent of.",
+      "( transitive ) To yield or weigh .",
+      "( transitive , intransitive ) To offer , bid or bet an amount; to pay .",
+      "( transitive , colloquial ) To enjoy . ( Compare go for . )",
+      "( intransitive , colloquial ) To go to the toilet ; to urinate or defecate .",
+      "( imperative ) Expressing encouragement or approval.",
+      "( UK , especially MLE , Australia , Singapore , intransitive , colloquial ) Clipping of go to the .",
+      "( intransitive , colloquial , euphemistic ) To fight , usually with the fists.",
+      "( intransitive , usually followed by with ) To pass (a specified time) in gestation ; to be pregnant ."
+    ]
+  }
+]

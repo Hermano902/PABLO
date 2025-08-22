@@ -1,0 +1,71 @@
+[
+  {
+    "word": "woodcut",
+    "lemma": "woodcut",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwʊdˌkʌt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "woodcuts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An engraved block of wood, especially one used as a printing form .",
+        "examples": [],
+        "synonyms": [
+          "woodblock",
+          "woodprint",
+          "xylograph"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A method of printmaking from such a block.",
+        "examples": [],
+        "synonyms": [
+          "xylography"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A print produced with this method.",
+        "examples": [],
+        "synonyms": [
+          "woodblock",
+          "xylograph"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( countable ) An engraved block of wood, especially one used as a printing form .",
+    "secondary_definitions": [
+      "( uncountable ) A method of printmaking from such a block.",
+      "( countable ) A print produced with this method."
+    ]
+  }
+]

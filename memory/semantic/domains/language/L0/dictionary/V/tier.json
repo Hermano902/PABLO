@@ -1,0 +1,68 @@
+[
+  {
+    "word": "tier",
+    "lemma": "tier",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪ.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tiers",
+          "PT": "tiered",
+          "PAP": "tiered",
+          "PRP": "tiering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arrange in layers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cascade in an overlapping sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move (data) from one storage medium to another as an optimization , based on how frequently it is accessed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To arrange in layers .",
+    "secondary_definitions": [
+      "( transitive ) To cascade in an overlapping sequence .",
+      "( transitive , computing ) To move (data) from one storage medium to another as an optimization , based on how frequently it is accessed."
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "word": "accumulator",
+    "lemma": "accumulator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈkjum.jəˌleɪ.tɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "accumulators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who, or that which, accumulates .",
+        "examples": [
+          "He is a great accumulator of bad jokes."
+        ],
+        "synonyms": [
+          "collector"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "literal"
+        ],
+        "label_groups": "literal"
+      },
+      {
+        "definition": "A wet-cell storage battery .",
+        "examples": [
+          "Looks like it's time to recharge the accumulator again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "British"
+        ],
+        "label_groups": "British"
+      },
+      {
+        "definition": "A collective bet on successive events, with both stake and winnings being carried forward to accumulate progressively.",
+        "examples": [],
+        "synonyms": [
+          "parlay"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gambling"
+        ],
+        "label_groups": "gambling"
+      },
+      {
+        "definition": "A system of elastic springs for relieving the strain upon a rope, as in deep-sea dredging .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanics"
+        ],
+        "label_groups": "mechanics"
+      },
+      {
+        "definition": "A vessel containing pressurized hot water ready for release as steam.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manufacturing"
+        ],
+        "label_groups": "manufacturing"
+      },
+      {
+        "definition": "A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).",
+        "examples": [],
+        "synonyms": [
+          "shock absorber"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering",
+          "hydraulics"
+        ],
+        "label_groups": "engineering , hydraulics"
+      },
+      {
+        "definition": "A register or variable used for holding the intermediate results of a computation or data transfer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A derivative contract under which the seller commits to sell shares of an underlying security at a certain strike price , which the buyer is obligated to buy.",
+        "examples": [],
+        "synonyms": [
+          "share forward accumulator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "One who takes two higher degrees simultaneously, to reduce their length of study.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "education",
+          "historical"
+        ],
+        "label_groups": "UK , education , historical"
+      },
+      {
+        "definition": "A one way membership function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "( literal ) One who, or that which, accumulates .",
+    "secondary_definitions": [
+      "( British ) A wet-cell storage battery .",
+      "( gambling ) A collective bet on successive events, with both stake and winnings being carried forward to accumulate progressively.",
+      "( mechanics ) A system of elastic springs for relieving the strain upon a rope, as in deep-sea dredging .",
+      "( manufacturing ) A vessel containing pressurized hot water ready for release as steam.",
+      "( engineering , hydraulics ) A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).",
+      "( programming ) A register or variable used for holding the intermediate results of a computation or data transfer .",
+      "( finance ) A derivative contract under which the seller commits to sell shares of an underlying security at a certain strike price , which the buyer is obligated to buy.",
+      "( UK , education , historical ) One who takes two higher degrees simultaneously, to reduce their length of study.",
+      "( cryptography ) A one way membership function ."
+    ]
+  }
+]

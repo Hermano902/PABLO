@@ -1,0 +1,35 @@
+[
+  {
+    "word": "polyomino",
+    "lemma": "polyomino",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polyominos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A plane polyform made by joining one or more squares edge to edge in various arrangements ; a similar polyform made from triangles or hexagons (or any polygon that can tile a plane)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A plane polyform made by joining one or more squares edge to edge in various arrangements ; a similar polyform made from triangles or hexagons (or any polygon that can tile a plane)",
+    "secondary_definitions": []
+  }
+]

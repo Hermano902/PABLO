@@ -1,0 +1,56 @@
+[
+  {
+    "word": "pigsty",
+    "lemma": "pigsty",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɪɡstaɪ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "pigsties"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An enclosure where pigs are kept, either a building or part of one.",
+        "examples": [
+          "The lower pasture also contains a pigsty ."
+        ],
+        "synonyms": [
+          "hogpen",
+          "hogsty",
+          "pigpen",
+          "sty"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A dirty or very untidy place.",
+        "examples": [
+          "This room is a pigsty . When are you going to clean it?"
+        ],
+        "synonyms": [
+          "pigpen"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      }
+    ],
+    "main_definition": "An enclosure where pigs are kept, either a building or part of one.",
+    "secondary_definitions": [
+      "( colloquial ) A dirty or very untidy place."
+    ]
+  }
+]

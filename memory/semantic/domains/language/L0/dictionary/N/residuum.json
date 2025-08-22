@@ -1,0 +1,73 @@
+[
+  {
+    "word": "residuum",
+    "lemma": "residuum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɛˈzɪ.dju.ʌm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "residuums"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The residue , remainder or rest of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The solid material remaining after the liquid in which it was dissolved has been evaporated; a residue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A binary function from [0,1] × [0,1] to [0,1] which is defined in terms of the t-norm as follows: x → y = sup { z | z ∗ x ⩽ y } {\\displaystyle x\\rightarrow y=\\sup\\{z|z*x\\leqslant y\\}} , where ∗ {\\displaystyle *} denotes the t-norm function and sup {\\displaystyle \\sup } denotes the supremum .",
+        "examples": [
+          "The residuum of the minimum t-norm is a function → {\\displaystyle \\rightarrow } such that x → y = { y , if x > y 1 , if x ⩽ y . {\\displaystyle x\\rightarrow y={\\begin{cases}y,&{\\text{if }}x>y\\\\1,&{\\text{if }}x\\leqslant y.\\end{cases}}}"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fuzzy logic"
+        ],
+        "label_groups": "fuzzy logic"
+      },
+      {
+        "definition": "The residue of an estate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "The residue , remainder or rest of something.",
+    "secondary_definitions": [
+      "( chemistry ) The solid material remaining after the liquid in which it was dissolved has been evaporated; a residue .",
+      "( fuzzy logic ) A binary function from [0,1] × [0,1] to [0,1] which is defined in terms of the t-norm as follows: x → y = sup { z | z ∗ x ⩽ y } {\\displaystyle x\\rightarrow y=\\sup\\{z|z*x\\leqslant y\\}} , where ∗ {\\displaystyle *} denotes the t-norm function and sup {\\displaystyle \\sup } denotes the supremum .",
+      "( law ) The residue of an estate ."
+    ]
+  }
+]

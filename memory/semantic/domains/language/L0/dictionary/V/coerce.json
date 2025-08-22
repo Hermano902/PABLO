@@ -1,0 +1,72 @@
+[
+  {
+    "word": "coerce",
+    "lemma": "coerce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/koʊˈɝs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "coerces",
+          "PT": "coerced",
+          "PAP": "coerced",
+          "PRP": "coercing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restrain by force, especially by law or authority; to repress; to curb.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To use force , threat , fraud , or intimidation in an attempt to compel one to act against their will.",
+        "examples": [
+          "They coerced their children into going to the country park."
+        ],
+        "synonyms": [
+          "hustle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To force an attribute, normally of a data type, to take on the attribute of another data type.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To restrain by force, especially by law or authority; to repress; to curb.",
+    "secondary_definitions": [
+      "( transitive ) To use force , threat , fraud , or intimidation in an attempt to compel one to act against their will.",
+      "( transitive , computing ) To force an attribute, normally of a data type, to take on the attribute of another data type."
+    ]
+  }
+]

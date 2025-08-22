@@ -1,0 +1,105 @@
+[
+  {
+    "word": "hope",
+    "lemma": "hope",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/həʊp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hopes",
+          "PT": "hoped",
+          "PAP": "hoped",
+          "PRP": "hoping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To want something to happen , with a sense of expectation that it might [ with that ( + clause ) or clause or so ].",
+        "examples": [
+          "They are hoping it does not rain, but I expect it will.",
+          "He's still hoping that everything will turn out fine.",
+          "— Is he going to shut up soon? — I hope so.",
+          "I'm going to get a new car. I hope it will be better than the last one.",
+          "I'd hope d I'd find a job, but I never did, so I was hoping you could lend me some cash.",
+          "I hope {to - (that) I'll} have finished by next Sat at the latest ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To intend to do something and look forward to the prospect of having done it [ with to ( + infinitive ) ].",
+        "examples": [
+          "I hope to succeed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "catenative"
+        ],
+        "label_groups": "catenative"
+      },
+      {
+        "definition": "To expect optimistically that one might get something ( either a change in circumstance or an object ) [ with for ].",
+        "examples": [
+          "They're hoping for the best, but I don't think it's looking very good.",
+          "I'm hoping for my boss to offer me a pay raise ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To place confidence ; to trust with confident expectation of good [ with in ].",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To wish .",
+        "examples": [
+          "I hope you all the best."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "dialectal",
+          "nonstandard"
+        ],
+        "label_groups": "transitive , dialectal , nonstandard"
+      }
+    ],
+    "main_definition": "To want something to happen , with a sense of expectation that it might [ with that ( + clause ) or clause or so ].",
+    "secondary_definitions": [
+      "( catenative ) To intend to do something and look forward to the prospect of having done it [ with to ( + infinitive ) ].",
+      "( intransitive ) To expect optimistically that one might get something ( either a change in circumstance or an object ) [ with for ].",
+      "( intransitive ) To place confidence ; to trust with confident expectation of good [ with in ].",
+      "( transitive , dialectal , nonstandard ) To wish ."
+    ]
+  }
+]

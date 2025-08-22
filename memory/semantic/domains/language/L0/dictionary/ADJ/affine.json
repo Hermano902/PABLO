@@ -1,0 +1,65 @@
+[
+  {
+    "word": "affine",
+    "lemma": "affine",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/əˈfaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more affine",
+          "SUP": "most affine"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Assigning finite values to finite quantities .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "mathematics"
+        ],
+        "label_groups": "not comparable , mathematics"
+      },
+      {
+        "definition": "Of or pertaining to a function expressible as f ( x → ) = A x → + b → {\\displaystyle f({\\vec {x}})=A{\\vec {x}}+{\\vec {b}}} (where A {\\displaystyle A} is a linear transformation and b → {\\displaystyle {\\vec {b}}} is a constant), which, regarded as a transformation , maps parallel lines to parallel lines and finite points to finite points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "geometry"
+        ],
+        "label_groups": "not comparable , geometry"
+      },
+      {
+        "definition": "Of two materials, having mutual affinity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "comparable",
+          "chemistry"
+        ],
+        "label_groups": "comparable , chemistry"
+      }
+    ],
+    "main_definition": "( not comparable , mathematics ) Assigning finite values to finite quantities .",
+    "secondary_definitions": [
+      "( not comparable , geometry ) Of or pertaining to a function expressible as f ( x → ) = A x → + b → {\\displaystyle f({\\vec {x}})=A{\\vec {x}}+{\\vec {b}}} (where A {\\displaystyle A} is a linear transformation and b → {\\displaystyle {\\vec {b}}} is a constant), which, regarded as a transformation , maps parallel lines to parallel lines and finite points to finite points.",
+      "( comparable , chemistry ) Of two materials, having mutual affinity."
+    ]
+  }
+]

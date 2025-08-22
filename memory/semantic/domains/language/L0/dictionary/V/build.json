@@ -1,0 +1,137 @@
+[
+  {
+    "word": "build",
+    "lemma": "build",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪld/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "builds",
+          "PT": "built",
+          "PAP": "built",
+          "PRP": "building",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To form (something) by combining materials or parts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To develop or give form to (something) according to a plan or process .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To increase or strengthen (something) by adding gradually to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To establish a basis for (something).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form by combining materials or parts.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To develop in magnitude or extent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To construct (software) by compiling its source code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To be converted into software by compilation , usually with minimal human intervention.",
+        "examples": [
+          "This code won’t build any more. Have you made any changes?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "of source code"
+        ],
+        "label_groups": "intransitive , computing , of source code"
+      }
+    ],
+    "main_definition": "( transitive ) To form (something) by combining materials or parts .",
+    "secondary_definitions": [
+      "( transitive ) To develop or give form to (something) according to a plan or process .",
+      "( transitive ) To increase or strengthen (something) by adding gradually to.",
+      "( transitive ) To establish a basis for (something).",
+      "( intransitive ) To form by combining materials or parts.",
+      "( intransitive ) To develop in magnitude or extent .",
+      "( transitive , computing ) To construct (software) by compiling its source code .",
+      "( intransitive , computing , of source code ) To be converted into software by compilation , usually with minimal human intervention."
+    ]
+  }
+]

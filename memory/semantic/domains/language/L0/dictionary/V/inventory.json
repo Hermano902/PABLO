@@ -1,0 +1,43 @@
+[
+  {
+    "word": "inventory",
+    "lemma": "inventory",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪn.vən.tɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inventories",
+          "PT": "inventoried",
+          "PAP": "inventoried",
+          "PRP": "inventorying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take stock of the resources or items on hand; to produce an inventory .",
+        "examples": [
+          "The main job of the night shift was to inventory the store, and restock when necessary."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "operations"
+        ],
+        "label_groups": "transitive , operations"
+      }
+    ],
+    "main_definition": "( transitive , operations ) To take stock of the resources or items on hand; to produce an inventory .",
+    "secondary_definitions": []
+  }
+]

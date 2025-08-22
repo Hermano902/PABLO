@@ -1,0 +1,68 @@
+[
+  {
+    "word": "ident",
+    "lemma": "ident",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaɪdənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "idents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An identification .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A brief audio or audiovisual sequence serving to identify the broadcaster .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radio",
+          "television"
+        ],
+        "label_groups": "radio , television"
+      },
+      {
+        "definition": "A protocol serving to identify the user of a particular TCP connection, used especially on IRC networks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "An identifier . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "An identification .",
+    "secondary_definitions": [
+      "( radio , television ) A brief audio or audiovisual sequence serving to identify the broadcaster .",
+      "( Internet ) A protocol serving to identify the user of a particular TCP connection, used especially on IRC networks.",
+      "An identifier . (Can we add an example for this sense?)"
+    ]
+  }
+]

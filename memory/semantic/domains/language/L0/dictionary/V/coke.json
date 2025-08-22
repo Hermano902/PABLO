@@ -1,0 +1,70 @@
+[
+  {
+    "word": "coke",
+    "lemma": "coke",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəʊk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cokes",
+          "PT": "coked",
+          "PAP": "coked",
+          "PRP": "coking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To produce coke from coal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To turn into coke.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To add deleterious carbon deposits as a byproduct of combustion.",
+        "examples": [
+          "In kerolox engines, some of the fuel flow cokes in the engine's cooling passages over time, requiring thorough cleaning prior to reuse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially automotive",
+          "astronautics"
+        ],
+        "label_groups": "especially automotive , astronautics"
+      }
+    ],
+    "main_definition": "( transitive ) To produce coke from coal.",
+    "secondary_definitions": [
+      "( intransitive ) To turn into coke.",
+      "( especially automotive , astronautics ) To add deleterious carbon deposits as a byproduct of combustion."
+    ]
+  }
+]

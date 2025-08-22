@@ -1,0 +1,53 @@
+[
+  {
+    "word": "phylum",
+    "lemma": "phylum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfaɪləm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "phyla"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A rank in the classification of organisms , below kingdom and above class ; also called a divisio or a division , especially in describing plants ; a taxon at that rank",
+        "examples": [
+          "Mammals belong to the phylum Chordata."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "A large division of possibly related languages, or a major language family which is not subordinate to another.",
+        "examples": [],
+        "synonyms": [
+          "superstock"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "( taxonomy ) A rank in the classification of organisms , below kingdom and above class ; also called a divisio or a division , especially in describing plants ; a taxon at that rank",
+    "secondary_definitions": [
+      "( linguistics ) A large division of possibly related languages, or a major language family which is not subordinate to another."
+    ]
+  }
+]

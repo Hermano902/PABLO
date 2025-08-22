@@ -1,0 +1,126 @@
+[
+  {
+    "word": "chart",
+    "lemma": "chart",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/t͡ʃɑɹt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "charts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A map .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A map illustrating the geography of a specific phenomenon.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A navigator's map.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A systematic non-narrative presentation of data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A tabular presentation of data; a table .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A diagram .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A graph .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A record of a patient's diagnosis, care instructions, and recent history.",
+            "examples": [
+              "I snuck a look at his chart . It doesn't look good."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A ranked listing of competitors, as of recorded music.",
+            "examples": [
+              "They're at the top of the charts again this week."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A written deed ; a charter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Synonym of coordinate chart .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "differential geometry",
+          "topology"
+        ],
+        "label_groups": "differential geometry , topology"
+      }
+    ],
+    "main_definition": "A map .",
+    "secondary_definitions": [
+      "A systematic non-narrative presentation of data.",
+      "A written deed ; a charter .",
+      "( differential geometry , topology ) Synonym of coordinate chart ."
+    ]
+  }
+]

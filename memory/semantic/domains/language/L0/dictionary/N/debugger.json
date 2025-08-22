@@ -1,0 +1,35 @@
+[
+  {
+    "word": "debugger",
+    "lemma": "debugger",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/diːˈbʌɡə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "debuggers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A computer program that helps the user to test and debug other programs, by enabling their step-by-step execution controlled by the user, setting of breakpoints , and monitoring values of variables.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A computer program that helps the user to test and debug other programs, by enabling their step-by-step execution controlled by the user, setting of breakpoints , and monitoring values of variables.",
+    "secondary_definitions": []
+  }
+]

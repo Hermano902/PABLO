@@ -1,0 +1,128 @@
+[
+  {
+    "word": "silo",
+    "lemma": "silo",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsaɪloʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "silos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A vertical building , usually cylindrical , used for the production of silage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "agriculture"
+        ],
+        "label_groups": "agriculture"
+      },
+      {
+        "definition": "From the shape , a building used for the storage of grain .",
+        "examples": [],
+        "synonyms": [
+          "granary",
+          "grain elevator"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "agriculture"
+        ],
+        "label_groups": "agriculture"
+      },
+      {
+        "definition": "An underground bunker used to hold missiles which may be launched .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military"
+      },
+      {
+        "definition": "An organizational unit that has poor interaction with other units, negatively affecting overall performance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "derogatory",
+          "management"
+        ],
+        "label_groups": "informal , derogatory , management"
+      },
+      {
+        "definition": "A structure in the information system that is poorly networked with other structures, with data exchange hampered .",
+        "examples": [
+          "Our networking is organized in silos , and employees lose time manually transferring data."
+        ],
+        "synonyms": [
+          "information silo"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "derogatory",
+          "informatics"
+        ],
+        "label_groups": "informal , derogatory , informatics"
+      },
+      {
+        "definition": "A group of like-minded individuals who are not exposed to outside opinions or input.",
+        "examples": [],
+        "synonyms": [
+          "echo chamber"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "derogatory",
+          "slang"
+        ],
+        "label_groups": "derogatory , slang"
+      },
+      {
+        "definition": "In Microsoft Windows operating systems, a kernel object for isolating groups of threads .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( agriculture ) A vertical building , usually cylindrical , used for the production of silage .",
+    "secondary_definitions": [
+      "( agriculture ) From the shape , a building used for the storage of grain .",
+      "( military ) An underground bunker used to hold missiles which may be launched .",
+      "( informal , derogatory , management ) An organizational unit that has poor interaction with other units, negatively affecting overall performance .",
+      "( informal , derogatory , informatics ) A structure in the information system that is poorly networked with other structures, with data exchange hampered .",
+      "( derogatory , slang ) A group of like-minded individuals who are not exposed to outside opinions or input.",
+      "( computing ) In Microsoft Windows operating systems, a kernel object for isolating groups of threads ."
+    ]
+  }
+]

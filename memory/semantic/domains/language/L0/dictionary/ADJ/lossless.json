@@ -1,0 +1,45 @@
+[
+  {
+    "word": "lossless",
+    "lemma": "lossless",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɒs.ləs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more lossless",
+          "SUP": "most lossless"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Free from loss , especially not losing electrical energy or force .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not losing information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information theory"
+        ],
+        "label_groups": "information theory"
+      }
+    ],
+    "main_definition": "Free from loss , especially not losing electrical energy or force .",
+    "secondary_definitions": [
+      "( information theory ) Not losing information ."
+    ]
+  }
+]

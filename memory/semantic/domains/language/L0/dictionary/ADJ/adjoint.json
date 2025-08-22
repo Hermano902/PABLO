@@ -1,0 +1,65 @@
+[
+  {
+    "word": "adjoint",
+    "lemma": "adjoint",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈæd͡ʒ.ɔɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Used in certain contexts, in each case involving a pair of transformations, one of which is, or is analogous to, conjugation (either inner automorphism or complex conjugation ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "That is related to another functor by an adjunction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory",
+          "of a functor"
+        ],
+        "label_groups": "mathematics , category theory , of a functor"
+      },
+      {
+        "definition": "Having a relationship of the nature of an adjoint ( adjoint curve ); sharing multiple points with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of one curve to another curve"
+        ],
+        "label_groups": "geometry , of one curve to another curve"
+      }
+    ],
+    "main_definition": "( mathematics ) Used in certain contexts, in each case involving a pair of transformations, one of which is, or is analogous to, conjugation (either inner automorphism or complex conjugation ).",
+    "secondary_definitions": [
+      "( mathematics , category theory , of a functor ) That is related to another functor by an adjunction .",
+      "( geometry , of one curve to another curve ) Having a relationship of the nature of an adjoint ( adjoint curve ); sharing multiple points with."
+    ]
+  }
+]

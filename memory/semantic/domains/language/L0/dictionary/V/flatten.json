@@ -1,0 +1,150 @@
+[
+  {
+    "word": "flatten",
+    "lemma": "flatten",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈflætən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "flattens",
+          "PT": "flattened",
+          "PAP": "flattened",
+          "PRP": "flattening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make something flat or flatter .",
+        "examples": [
+          "As there was a lot of damage, we chose the heavy roller to flatten the pitch.",
+          "Mary would flatten the dough before rolling it into pretzels."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To press one's body tightly against a surface , such as a wall or floor, especially in order to avoid being seen or harmed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive"
+        ],
+        "label_groups": "reflexive"
+      },
+      {
+        "definition": "To knock down or lay low .",
+        "examples": [
+          "The prize fighter quickly flattened his challenger."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become flat or flatter; to plateau .",
+        "examples": [
+          "Prices have flattened out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be knocked down or laid low.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To lower by a semitone.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To make vapid or insipid ; to render stale .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reduce (a data structure ) to one that has fewer dimensions , e.g. a 2×2 array into a list of four elements .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      },
+      {
+        "definition": "To combine (separate layers ) into a single image .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics",
+          "transitive"
+        ],
+        "label_groups": "computer graphics , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make something flat or flatter .",
+    "secondary_definitions": [
+      "( reflexive ) To press one's body tightly against a surface , such as a wall or floor, especially in order to avoid being seen or harmed .",
+      "( transitive ) To knock down or lay low .",
+      "( intransitive ) To become flat or flatter; to plateau .",
+      "( intransitive ) To be knocked down or laid low.",
+      "( music ) To lower by a semitone.",
+      "To make vapid or insipid ; to render stale .",
+      "( programming , transitive ) To reduce (a data structure ) to one that has fewer dimensions , e.g. a 2×2 array into a list of four elements .",
+      "( computer graphics , transitive ) To combine (separate layers ) into a single image ."
+    ]
+  }
+]

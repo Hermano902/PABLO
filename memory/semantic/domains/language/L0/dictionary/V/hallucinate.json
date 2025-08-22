@@ -1,0 +1,58 @@
+[
+  {
+    "word": "hallucinate",
+    "lemma": "hallucinate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/həˈl(j)uːsɪneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hallucinates",
+          "PT": "hallucinated",
+          "PAP": "hallucinated",
+          "PRP": "hallucinating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To seem to perceive things (with one or more of one's senses ) which are not really present; to have visions ; to experience a hallucination .",
+        "examples": [],
+        "synonyms": [
+          "imagine",
+          "see things"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To produce information that is not supported by the model's training data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial intelligence",
+          "of a model"
+        ],
+        "label_groups": "artificial intelligence , of a model"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To seem to perceive things (with one or more of one's senses ) which are not really present; to have visions ; to experience a hallucination .",
+    "secondary_definitions": [
+      "( artificial intelligence , of a model ) To produce information that is not supported by the model's training data."
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "precise",
+    "lemma": "precise",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈsaɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "preciser",
+          "SUP": "precisest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Both exact and accurate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "inexact",
+          "imprecise"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      },
+      {
+        "definition": "Consistent , clustered close together, agreeing with each other ( this does not mean that they cluster near the true , correct , or accurate value ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "imprecise",
+          "inconsistent",
+          "varying"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sciences",
+          "engineering",
+          "of data points",
+          "strictly"
+        ],
+        "label_groups": "sciences , engineering , of data points , strictly"
+      },
+      {
+        "definition": "Adhering too much to rules; prim or punctilious .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( loosely ) Both exact and accurate .",
+    "secondary_definitions": [
+      "( sciences , engineering , of data points , strictly ) Consistent , clustered close together, agreeing with each other ( this does not mean that they cluster near the true , correct , or accurate value ) .",
+      "Adhering too much to rules; prim or punctilious ."
+    ]
+  }
+]

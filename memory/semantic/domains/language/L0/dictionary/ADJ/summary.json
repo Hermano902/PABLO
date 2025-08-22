@@ -1,0 +1,65 @@
+[
+  {
+    "word": "summary",
+    "lemma": "summary",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌməɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more summary",
+          "SUP": "most summary"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Concise , brief , or presented in a condensed form; presenting information in such a form.",
+        "examples": [
+          "A summary review is in the appendix."
+        ],
+        "synonyms": [
+          "summative",
+          "summarizing",
+          "part. adj."
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Performed speedily , without formal ceremony , and (especially) without regard to legality .",
+        "examples": [
+          "They used summary executions to break the resistance of the people."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Performed by omitting the procedures of a full trial, but within a legally valid framework.",
+        "examples": [
+          "The matter was brought to a close by summary dismissal of the cases.",
+          "The summary executions caused outrage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "Concise , brief , or presented in a condensed form; presenting information in such a form.",
+    "secondary_definitions": [
+      "Performed speedily , without formal ceremony , and (especially) without regard to legality .",
+      "( law ) Performed by omitting the procedures of a full trial, but within a legally valid framework."
+    ]
+  }
+]

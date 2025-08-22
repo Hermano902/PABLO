@@ -1,0 +1,141 @@
+[
+  {
+    "word": "smell",
+    "lemma": "smell",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/smɛl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "smells",
+          "PT": "smelled",
+          "PAP": "smelled",
+          "PRP": "smelling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To sense a smell or smells.",
+        "examples": [
+          "I can smell fresh bread.",
+          "Smell the milk and tell me whether it's gone off."
+        ],
+        "synonyms": [
+          "detect",
+          "sense"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To detect or perceive; often with out .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension"
+            ],
+            "label_groups": "by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Followed by like or of if descriptive : to have a particular smell, whether good or bad.",
+        "examples": [
+          "The roses smell lovely.",
+          "Her feet smell of cheese.",
+          "The drunkard smelt like a brewery."
+        ],
+        "synonyms": [
+          "pong",
+          "reek",
+          "stink",
+          "whiff"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To smell of; to have a smell of",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension",
+              "intransitive",
+              "copulative"
+            ],
+            "label_groups": "by extension , intransitive , copulative"
+          },
+          {
+            "definition": "To smell bad; to stink .",
+            "examples": [
+              "Ew, this restroom smells (loathsomely)."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "without a modifier"
+            ],
+            "label_groups": "intransitive , without a modifier"
+          },
+          {
+            "definition": "To have a particular tincture or smack of any quality; to savour.",
+            "examples": [
+              "A report smells of calumny."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "figurative"
+            ],
+            "label_groups": "intransitive , figurative"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "copulative"
+        ],
+        "label_groups": "intransitive , copulative"
+      },
+      {
+        "definition": "To give heed to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To sense a smell or smells.",
+    "secondary_definitions": [
+      "( intransitive , copulative ) Followed by like or of if descriptive : to have a particular smell, whether good or bad.",
+      "( obsolete ) To give heed to."
+    ]
+  }
+]

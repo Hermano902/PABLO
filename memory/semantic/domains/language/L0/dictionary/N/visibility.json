@@ -1,0 +1,79 @@
+[
+  {
+    "word": "visibility",
+    "lemma": "visibility",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌvɪz.əˈbɪl.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "visibilities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The condition of being visible .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The degree to which things may be seen .",
+        "examples": [
+          "The visibility from that angle was good."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The scope within which a variable or function is able to be accessed directly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Something worthy of being seen; a sight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      }
+    ],
+    "main_definition": "( uncountable ) The condition of being visible .",
+    "secondary_definitions": [
+      "( countable ) The degree to which things may be seen .",
+      "( programming ) The scope within which a variable or function is able to be accessed directly.",
+      "( obsolete , rare ) Something worthy of being seen; a sight ."
+    ]
+  }
+]

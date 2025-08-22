@@ -1,0 +1,45 @@
+[
+  {
+    "word": "keypress",
+    "lemma": "keypress",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "keypresses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The depression of an input key ; a keystroke .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The buffered electrical signal resulting from such an event , sometimes distinguished from the release .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The depression of an input key ; a keystroke .",
+    "secondary_definitions": [
+      "( computing ) The buffered electrical signal resulting from such an event , sometimes distinguished from the release ."
+    ]
+  }
+]

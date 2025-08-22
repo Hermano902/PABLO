@@ -1,0 +1,87 @@
+[
+  {
+    "word": "dismount",
+    "lemma": "dismount",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈmaʊnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dismounts",
+          "PT": "dismounted",
+          "PAP": "dismounted",
+          "PRP": "dismounting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To (cause to) get off (something).",
+        "examples": [
+          "She carefully dismounted from the horse.",
+          "She carefully dismounted the horse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make (a mounted drive ) unavailable for use.",
+        "examples": [
+          "The VMS operator tried to dismount the Unix hard drive with the DISMOUNT DISK$NFSMOUNT command, instead of umount /mnt/nfshome ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "ambitransitive"
+        ],
+        "label_groups": "computing , ambitransitive"
+      },
+      {
+        "definition": "To come down; to descend.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To throw (cannon) off their carriages.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "transitive"
+        ],
+        "label_groups": "military , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To (cause to) get off (something).",
+    "secondary_definitions": [
+      "( computing , ambitransitive ) To make (a mounted drive ) unavailable for use.",
+      "( intransitive ) To come down; to descend.",
+      "( military , transitive ) To throw (cannon) off their carriages."
+    ]
+  }
+]

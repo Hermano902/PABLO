@@ -1,0 +1,86 @@
+[
+  {
+    "word": "tangent",
+    "lemma": "tangent",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtæn.d͡ʒənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tangents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A straight line touching a curve at a single point without crossing it there.",
+        "examples": [],
+        "synonyms": [
+          "tangent line"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "differential geometry"
+        ],
+        "label_groups": "differential geometry"
+      },
+      {
+        "definition": "A function of an angle that gives the ratio of the sine to the cosine , in either the real or complex numbers . Symbols: tan , tg .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A topic nearly unrelated to the main topic, but having a point in common with it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A visual interaction between two or more lines or edges that creates a perceived relationship between them, often in a way that the artist did not intend .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art"
+        ],
+        "label_groups": "art"
+      },
+      {
+        "definition": "A small metal blade in a clavichord that strikes the strings to produce sound.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "( differential geometry ) A straight line touching a curve at a single point without crossing it there.",
+    "secondary_definitions": [
+      "( mathematics ) A function of an angle that gives the ratio of the sine to the cosine , in either the real or complex numbers . Symbols: tan , tg .",
+      "A topic nearly unrelated to the main topic, but having a point in common with it.",
+      "( art ) A visual interaction between two or more lines or edges that creates a perceived relationship between them, often in a way that the artist did not intend .",
+      "( music ) A small metal blade in a clavichord that strikes the strings to produce sound."
+    ]
+  }
+]

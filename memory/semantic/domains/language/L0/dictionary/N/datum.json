@@ -1,0 +1,79 @@
+[
+  {
+    "word": "datum",
+    "lemma": "datum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdeɪtəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "data"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something known or assumed as fact , and is made the basis of reasoning or inference which an intellectual system of any sort (such as knowledge or theoretical framework ) is constructed.",
+        "examples": [
+          "a datum of experience",
+          "given this datum it follows that"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Singular of data : A single recorded material , especially obtained by scientific work.",
+        "examples": [],
+        "synonyms": [
+          "data point"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "A point , line , or surface with reference to which positions (such as elevations ) are measured or indicated (such as a permanent benchmark in leveling or mean sea level in a topographical survey ).",
+        "examples": [
+          "A geodetic datum is sometimes also called a benchmark."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cartography",
+          "surveying"
+        ],
+        "label_groups": "cartography , surveying"
+      },
+      {
+        "definition": "A floating reference point , or SLDMB , used to evaluate surface currents in a body of water , and often employed by coastal search and rescue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      }
+    ],
+    "main_definition": "Something known or assumed as fact , and is made the basis of reasoning or inference which an intellectual system of any sort (such as knowledge or theoretical framework ) is constructed.",
+    "secondary_definitions": [
+      "( dated ) Singular of data : A single recorded material , especially obtained by scientific work.",
+      "( cartography , surveying ) A point , line , or surface with reference to which positions (such as elevations ) are measured or indicated (such as a permanent benchmark in leveling or mean sea level in a topographical survey ).",
+      "( nautical ) A floating reference point , or SLDMB , used to evaluate surface currents in a body of water , and often employed by coastal search and rescue."
+    ]
+  }
+]

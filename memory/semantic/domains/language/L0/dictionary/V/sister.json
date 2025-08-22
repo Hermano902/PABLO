@@ -1,0 +1,58 @@
+[
+  {
+    "word": "sister",
+    "lemma": "sister",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪs.tə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sisters",
+          "PT": "sistered",
+          "PAP": "sistered",
+          "PRP": "sistering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strengthen (a supporting beam ) by fastening a second beam alongside it.",
+        "examples": [
+          "I’m trying to correct my sagging floor by sistering the joists."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "construction"
+        ],
+        "label_groups": "transitive , construction"
+      },
+      {
+        "definition": "To be sister to; to resemble closely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive , construction ) To strengthen (a supporting beam ) by fastening a second beam alongside it.",
+    "secondary_definitions": [
+      "( obsolete , transitive ) To be sister to; to resemble closely."
+    ]
+  }
+]

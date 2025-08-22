@@ -1,0 +1,56 @@
+[
+  {
+    "word": "semaphore",
+    "lemma": "semaphore",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛm.əˌfɔː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "semaphores"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any equipment used for visual signalling by means of flags , lights , or mechanically moving arms , which are used to represent letters of the alphabet , or words .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A visual system for transmitting information using the above equipment; especially, by means of two flags held one in each hand , using an alphabetic and numeric code based on the position of the signaller 's arms; flag semaphore .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A bit , token , fragment of code, or some other mechanism which is used to restrict access to a shared function or device to a single process at a time , or to synchronize and coordinate events in different processes.",
+        "examples": [
+          "The thread increments the semaphore to prevent other threads from entering the critical section at the same time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Any equipment used for visual signalling by means of flags , lights , or mechanically moving arms , which are used to represent letters of the alphabet , or words .",
+    "secondary_definitions": [
+      "A visual system for transmitting information using the above equipment; especially, by means of two flags held one in each hand , using an alphabetic and numeric code based on the position of the signaller 's arms; flag semaphore .",
+      "( programming ) A bit , token , fragment of code, or some other mechanism which is used to restrict access to a shared function or device to a single process at a time , or to synchronize and coordinate events in different processes."
+    ]
+  }
+]

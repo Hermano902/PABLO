@@ -1,0 +1,43 @@
+[
+  {
+    "word": "verifiable",
+    "lemma": "verifiable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/vɛɹ.ɪˈfaɪ.ə.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more verifiable",
+          "SUP": "most verifiable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be verified or confirmed .",
+        "examples": [
+          "Do you have verifiable evidence to support that claim?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be qualified by a Boolean expression .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Able to be verified or confirmed .",
+    "secondary_definitions": [
+      "Able to be qualified by a Boolean expression ."
+    ]
+  }
+]

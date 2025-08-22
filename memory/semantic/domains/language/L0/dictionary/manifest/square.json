@@ -1,0 +1,46 @@
+{
+  "word": "square",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADV",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 28,
+      "examples": 8,
+      "synonyms": 6,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 13,
+      "examples": 10,
+      "synonyms": 9,
+      "antonyms": 6,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 17,
+      "examples": 8,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\square.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\square.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\square.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\square.json"
+  },
+  "timestamp": "2025-08-19T17:49:07.813076Z"
+}

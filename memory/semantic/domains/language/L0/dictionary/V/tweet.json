@@ -1,0 +1,71 @@
+[
+  {
+    "word": "tweet",
+    "lemma": "tweet",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtwiːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tweets",
+          "PT": "tweeted",
+          "PAP": "tweeted",
+          "PRP": "tweeting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To produce a short high-pitched sound, similar to that of certain birds.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To post an entry to Twitter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "social media"
+        ],
+        "label_groups": "ambitransitive , social media",
+        "dating_raw": "since 2007"
+      },
+      {
+        "definition": "To post an entry to any microblogging site.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "social media",
+          "by extension"
+        ],
+        "label_groups": "ambitransitive , social media , by extension"
+      }
+    ],
+    "main_definition": "( intransitive ) To produce a short high-pitched sound, similar to that of certain birds.",
+    "secondary_definitions": [
+      "( ambitransitive , social media ) To post an entry to Twitter . [since 2007]",
+      "( ambitransitive , social media , by extension ) To post an entry to any microblogging site."
+    ]
+  }
+]

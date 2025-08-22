@@ -1,0 +1,44 @@
+[
+  {
+    "word": "opt",
+    "lemma": "opt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɒpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "opts",
+          "PT": "opted",
+          "PAP": "opted",
+          "PRP": "opting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To choose ; select .",
+        "examples": [
+          "He opted not to go.",
+          "She opted for the salad rather than the steak.",
+          "They opted against taking the train, preferring the bus."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To choose ; select .",
+    "secondary_definitions": []
+  }
+]

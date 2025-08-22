@@ -1,0 +1,56 @@
+[
+  {
+    "word": "room",
+    "lemma": "room",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹʊm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rooms",
+          "PT": "roomed",
+          "PAP": "roomed",
+          "PRP": "rooming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reside , especially as a boarder or tenant .",
+        "examples": [
+          "Doctor Watson roomed with Sherlock Holmes at Baker Street."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To assign to a room; to allocate a room to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To reside , especially as a boarder or tenant .",
+    "secondary_definitions": [
+      "( transitive ) To assign to a room; to allocate a room to."
+    ]
+  }
+]

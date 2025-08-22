@@ -1,0 +1,62 @@
+[
+  {
+    "word": "crate",
+    "lemma": "crate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kɹeɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "crates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large open box or basket , used especially to transport fragile goods.",
+        "examples": [],
+        "synonyms": [
+          "packing case"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 1680s"
+      },
+      {
+        "definition": "A vehicle (car, aircraft, spacecraft, etc.) seen as unreliable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "mildly derogatory"
+        ],
+        "label_groups": "slang , mildly derogatory"
+      },
+      {
+        "definition": "In the Rust programming language, a binary or library .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A large open box or basket , used especially to transport fragile goods. [from 1680s]",
+    "secondary_definitions": [
+      "( slang , mildly derogatory ) A vehicle (car, aircraft, spacecraft, etc.) seen as unreliable.",
+      "( programming ) In the Rust programming language, a binary or library ."
+    ]
+  }
+]

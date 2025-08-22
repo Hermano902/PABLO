@@ -1,0 +1,95 @@
+[
+  {
+    "word": "abort",
+    "lemma": "abort",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈbɔːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "aborts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An early termination of a mission, action, or procedure in relation to missiles or spacecraft; the craft making such a mission.",
+        "examples": [
+          "We've had aborts on three of our last seven launches."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "aeronautics"
+        ],
+        "label_groups": "military , aeronautics"
+      },
+      {
+        "definition": "The function used to abort a process .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An event in which a process is aborted.",
+        "examples": [
+          "We've had three aborts over the last two days."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The product of a miscarriage; an aborted offspring; an abortion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now rare"
+        ],
+        "label_groups": "now rare",
+        "dating_raw": "First attested in the early 17 century."
+      },
+      {
+        "definition": "A miscarriage ; an untimely birth; an abortion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "Attested from around (1350 to 1470) until the mid 17 century."
+      }
+    ],
+    "main_definition": "( military , aeronautics ) An early termination of a mission, action, or procedure in relation to missiles or spacecraft; the craft making such a mission.",
+    "secondary_definitions": [
+      "( computing ) The function used to abort a process .",
+      "( computing ) An event in which a process is aborted.",
+      "( now rare ) The product of a miscarriage; an aborted offspring; an abortion . [First attested in the early 17 century.]",
+      "( obsolete ) A miscarriage ; an untimely birth; an abortion . [Attested from around (1350 to 1470) until the mid 17 century.]"
+    ]
+  }
+]

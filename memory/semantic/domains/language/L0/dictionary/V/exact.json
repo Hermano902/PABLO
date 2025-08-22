@@ -1,0 +1,71 @@
+[
+  {
+    "word": "exact",
+    "lemma": "exact",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈzækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "exacts",
+          "PT": "exacted",
+          "PAP": "exacted",
+          "PRP": "exacting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To demand and enforce the payment or performance of, sometimes in a forcible or imperious way.",
+        "examples": [
+          "to exact tribute, fees, or obedience from someone"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make desirable or necessary.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inflict ; to forcibly obtain or produce ; to visit.",
+        "examples": [
+          "to exact revenge on someone"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To demand and enforce the payment or performance of, sometimes in a forcible or imperious way.",
+    "secondary_definitions": [
+      "( transitive ) To make desirable or necessary.",
+      "( transitive ) To inflict ; to forcibly obtain or produce ; to visit."
+    ]
+  }
+]

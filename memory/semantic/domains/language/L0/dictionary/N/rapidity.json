@@ -1,0 +1,58 @@
+[
+  {
+    "word": "rapidity",
+    "lemma": "rapidity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹəˈpɪdɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rapidities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "speed , swiftness ; the condition of being rapid",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of velocity relative to the speed of light ; defined as artanh (v), where artanh is the hyperbolic arctangent, and v = speed (with c = speed of light = 1).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relativity"
+        ],
+        "label_groups": "relativity"
+      },
+      {
+        "definition": "A measure of the velocity of a particle in a beam relative to the beam's axis",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "speed , swiftness ; the condition of being rapid",
+    "secondary_definitions": [
+      "( relativity ) A measure of velocity relative to the speed of light ; defined as artanh (v), where artanh is the hyperbolic arctangent, and v = speed (with c = speed of light = 1).",
+      "( physics ) A measure of the velocity of a particle in a beam relative to the beam's axis"
+    ]
+  }
+]

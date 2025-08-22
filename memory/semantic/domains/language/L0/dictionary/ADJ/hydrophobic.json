@@ -1,0 +1,67 @@
+[
+  {
+    "word": "hydrophobic",
+    "lemma": "hydrophobic",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/haɪdɹəˈfəʊbɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, or having, hydrophobia ( rabies ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Of, or having, hydrophobia ( rabies ).",
+    "secondary_definitions": []
+  },
+  {
+    "word": "hydrophobic",
+    "lemma": "hydrophobic",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/haɪdɹəˈfəʊbɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more hydrophobic",
+          "SUP": "most hydrophobic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking an affinity for water ; unable to absorb or to be wetted by water.",
+        "examples": [],
+        "synonyms": [
+          "water-fearing"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics",
+          "chemistry"
+        ],
+        "label_groups": "physics , chemistry"
+      }
+    ],
+    "main_definition": "( physics , chemistry ) Lacking an affinity for water ; unable to absorb or to be wetted by water.",
+    "secondary_definitions": []
+  }
+]

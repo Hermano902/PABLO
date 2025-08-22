@@ -1,0 +1,74 @@
+[
+  {
+    "word": "haircut",
+    "lemma": "haircut",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈhɛə(ɹ)kʌt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "haircuts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of cutting of the hair, often done professionally by a barber , hair stylist , or beautician .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The style into which the hair is cut.",
+        "examples": [],
+        "synonyms": [
+          "hairstyle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A partial loss , financially : thus, in a bankruptcy proceeding, the proportional reduction in the debt that will be paid to each creditor (based on an evaluation of the total debt owed and the total assets of the debtor ); among investors, the negative return on investment from a losing proposition.",
+        "examples": [
+          "to take a haircut"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "business"
+        ],
+        "label_groups": "law , business"
+      },
+      {
+        "definition": "The difference between the value of a loan and the value of its collateral .",
+        "examples": [],
+        "synonyms": [
+          "margin"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "The act of cutting of the hair, often done professionally by a barber , hair stylist , or beautician .",
+    "secondary_definitions": [
+      "The style into which the hair is cut.",
+      "( law , business ) A partial loss , financially : thus, in a bankruptcy proceeding, the proportional reduction in the debt that will be paid to each creditor (based on an evaluation of the total debt owed and the total assets of the debtor ); among investors, the negative return on investment from a losing proposition.",
+      "( finance ) The difference between the value of a loan and the value of its collateral ."
+    ]
+  }
+]

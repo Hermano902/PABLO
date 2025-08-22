@@ -1,0 +1,68 @@
+[
+  {
+    "word": "necessary",
+    "lemma": "necessary",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɛsəsɹi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more necessary",
+          "SUP": "most necessary"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Required , essential , whether logically inescapable or needed in order to achieve a desired result or avoid some penalty.",
+        "examples": [
+          "Although I wished to think that all was false, it was yet necessary that I, who thus thought, must in some sense exist.",
+          "It is absolutely necessary that you call and confirm your appointment."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "unnecessary"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unavoidable , inevitable .",
+        "examples": [
+          "If it is absolutely necessary to use public computers, you should plan ahead and forward your e-mail to a temporary, disposable account."
+        ],
+        "synonyms": [
+          "inevitable",
+          "natural"
+        ],
+        "antonyms": [
+          "evitable",
+          "incidental",
+          "impossible"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Determined , involuntary : acting from compulsion rather than free will .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Required , essential , whether logically inescapable or needed in order to achieve a desired result or avoid some penalty.",
+    "secondary_definitions": [
+      "Unavoidable , inevitable .",
+      "( obsolete ) Determined , involuntary : acting from compulsion rather than free will ."
+    ]
+  }
+]

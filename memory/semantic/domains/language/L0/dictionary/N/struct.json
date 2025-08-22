@@ -1,0 +1,36 @@
+[
+  {
+    "word": "struct",
+    "lemma": "struct",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "structs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A data structure , especially one that serves to group a number of fields (in contrast to an object-oriented class with methods )  or one that is passed by value rather than by reference .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      }
+    ],
+    "main_definition": "( computing , programming ) A data structure , especially one that serves to group a number of fields (in contrast to an object-oriented class with methods )  or one that is passed by value rather than by reference .",
+    "secondary_definitions": []
+  }
+]

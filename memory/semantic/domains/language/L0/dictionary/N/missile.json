@@ -1,0 +1,51 @@
+[
+  {
+    "word": "missile",
+    "lemma": "missile",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪsaɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "missiles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any object used as a weapon by being thrown or fired through the air, such as stone , arrow or bullet .",
+        "examples": [
+          "The Rhodians, who used leaden bullets, were able to project their missiles twice as far as the Persian slingers, who used large stones."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "from 17th c."
+      },
+      {
+        "definition": "A self-propelled projectile whose trajectory can be adjusted after it is launched.",
+        "examples": [
+          "That missile is explosive enough to kill hundreds."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military"
+        ],
+        "label_groups": "military",
+        "dating_raw": "from 20th c."
+      }
+    ],
+    "main_definition": "Any object used as a weapon by being thrown or fired through the air, such as stone , arrow or bullet . [from 17th c.]",
+    "secondary_definitions": [
+      "( military ) A self-propelled projectile whose trajectory can be adjusted after it is launched. [from 20th c.]"
+    ]
+  }
+]

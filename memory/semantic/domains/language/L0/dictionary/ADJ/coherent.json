@@ -1,0 +1,142 @@
+[
+  {
+    "word": "coherent",
+    "lemma": "coherent",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kəʊˈhɪə.ɹənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more coherent",
+          "SUP": "most coherent"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unified ; sticking together ; making up a whole .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Orderly , logical and consistent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Aesthetically ordered.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having a natural or due agreement of parts; harmonious: a coherent design.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of waves having the same direction , wavelength and phase , as light in a laser .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Attaching or pressing against an organ of the same nature.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "Belonging to a specific class of sheaves having particularly manageable properties closely linked to the geometrical properties of the underlying space . See Coherent sheaf on  Wikipedia. Wikipedia",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "sheaf theory",
+          "of a sheaf"
+        ],
+        "label_groups": "mathematics , sheaf theory , of a sheaf"
+      },
+      {
+        "definition": "In a technical sense, determined by the (topology of) the subsets. Formally, Such that T {\\displaystyle {\\mathcal {T}}} is the finest topology on T {\\displaystyle T} for which the inclusion maps ι a : C a → T {\\displaystyle \\iota _{a}:C_{a}\\to T} are continuous , where each C a {\\displaystyle C_{a}} is considered with its subspace topology .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology",
+          "of a topology T {\\displaystyle {\\mathcal {T}}} on a set T {\\displaystyle T} with respect to a family { C a } {\\displaystyle \\{C_{a}\\}} of subsets of T {\\displaystyle T}"
+        ],
+        "label_groups": "topology , of a topology T {\\displaystyle {\\mathcal {T}}} on a set T {\\displaystyle T} with respect to a family { C a } {\\displaystyle \\{C_{a}\\}} of subsets of T {\\displaystyle T}"
+      },
+      {
+        "definition": "Finitely generated and such that all finitely generated submodules are finitely presented .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a module"
+        ],
+        "label_groups": "algebra , of a module"
+      },
+      {
+        "definition": "Such that every finitely generated (left) ideal is finitely presented .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of a ring"
+        ],
+        "label_groups": "algebra , of a ring"
+      }
+    ],
+    "main_definition": "Unified ; sticking together ; making up a whole .",
+    "secondary_definitions": [
+      "Orderly , logical and consistent .",
+      "Aesthetically ordered.",
+      "Having a natural or due agreement of parts; harmonious: a coherent design.",
+      "( physics ) Of waves having the same direction , wavelength and phase , as light in a laser .",
+      "( botany ) Attaching or pressing against an organ of the same nature.",
+      "( mathematics , sheaf theory , of a sheaf ) Belonging to a specific class of sheaves having particularly manageable properties closely linked to the geometrical properties of the underlying space . See Coherent sheaf on  Wikipedia. Wikipedia",
+      "( topology , of a topology T {\\displaystyle {\\mathcal {T}}} on a set T {\\displaystyle T} with respect to a family { C a } {\\displaystyle \\{C_{a}\\}} of subsets of T {\\displaystyle T} ) In a technical sense, determined by the (topology of) the subsets. Formally, Such that T {\\displaystyle {\\mathcal {T}}} is the finest topology on T {\\displaystyle T} for which the inclusion maps ι a : C a → T {\\displaystyle \\iota _{a}:C_{a}\\to T} are continuous , where each C a {\\displaystyle C_{a}} is considered with its subspace topology .",
+      "( algebra , of a module ) Finitely generated and such that all finitely generated submodules are finitely presented .",
+      "( algebra , of a ring ) Such that every finitely generated (left) ideal is finitely presented ."
+    ]
+  }
+]

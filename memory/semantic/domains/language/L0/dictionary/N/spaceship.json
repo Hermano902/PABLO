@@ -1,0 +1,75 @@
+[
+  {
+    "word": "spaceship",
+    "lemma": "spaceship",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "spaceships"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A vehicle that flies through space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronautics"
+        ],
+        "label_groups": "astronautics"
+      },
+      {
+        "definition": "A finite pattern that reappears after a certain number of generations in the same orientation but in a different position .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cellular automata"
+        ],
+        "label_groups": "cellular automata"
+      },
+      {
+        "definition": "The operator <=> in certain programming languages , which compares two values and indicates whether the first is lesser than, greater than, or equal to the second.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A computer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      }
+    ],
+    "main_definition": "( astronautics ) A vehicle that flies through space .",
+    "secondary_definitions": [
+      "( cellular automata ) A finite pattern that reappears after a certain number of generations in the same orientation but in a different position .",
+      "( programming ) The operator <=> in certain programming languages , which compares two values and indicates whether the first is lesser than, greater than, or equal to the second.",
+      "( slang ) A computer ."
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "word": "isogonal",
+    "lemma": "isogonal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʌɪˈsɒɡənəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Describing lines connecting points on the Earth's surface whose magnetic declination is identical.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cartography",
+          "navigation"
+        ],
+        "label_groups": "cartography , navigation"
+      },
+      {
+        "definition": "Having equal angles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( cartography , navigation ) Describing lines connecting points on the Earth's surface whose magnetic declination is identical.",
+    "secondary_definitions": [
+      "( geometry ) Having equal angles ."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "word": "restore",
+    "lemma": "restore",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈstɔː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "restores"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of recovering data or a system from a backup .",
+        "examples": [
+          "We backed up the data successfully, but the restore failed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) The act of recovering data or a system from a backup .",
+    "secondary_definitions": []
+  }
+]

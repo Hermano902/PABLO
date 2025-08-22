@@ -1,0 +1,67 @@
+[
+  {
+    "word": "rectifier",
+    "lemma": "rectifier",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛktɪfaɪɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "rectifiers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that rectifies .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device that converts alternating current into direct current ; often a diode .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An instrument used for determining and rectifying the variations of the compass on board ship.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "The activation function f ( x ) = max ( 0 , x ) {\\displaystyle f(x)=\\max(0,x)} , where x is the input to a neuron .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "artificial neural networks"
+        ],
+        "label_groups": "artificial neural networks"
+      }
+    ],
+    "main_definition": "Something that rectifies .",
+    "secondary_definitions": [
+      "A device that converts alternating current into direct current ; often a diode .",
+      "( nautical ) An instrument used for determining and rectifying the variations of the compass on board ship.",
+      "( artificial neural networks ) The activation function f ( x ) = max ( 0 , x ) {\\displaystyle f(x)=\\max(0,x)} , where x is the input to a neuron ."
+    ]
+  }
+]

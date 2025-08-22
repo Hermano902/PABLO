@@ -1,0 +1,155 @@
+[
+  {
+    "word": "join",
+    "lemma": "join",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɔɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "joins",
+          "PT": "joined",
+          "PAP": "joined",
+          "PRP": "joining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To connect or combine into one; to put together.",
+        "examples": [
+          "The plumber joined the two ends of the broken pipe.",
+          "We joined our efforts to get an even better result."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To come together; to meet.",
+        "examples": [
+          "Parallel lines never join .",
+          "These two rivers join in about 80 miles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To enter into association or alliance , to unite in a common purpose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To come into the company of.",
+        "examples": [
+          "I will join you watching the football game as soon as I have finished my work."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become a member of.",
+        "examples": [
+          "Many children join a sports club.",
+          "Most politicians have joined a party."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To produce an intersection of data in two or more database tables .",
+        "examples": [
+          "By joining the Customer table on the Product table, we can show each customer's name alongside the products they have ordered."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases",
+          "transitive"
+        ],
+        "label_groups": "computing , databases , transitive"
+      },
+      {
+        "definition": "To unite in marriage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To enjoin upon; to command .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "obsolete , rare"
+      },
+      {
+        "definition": "To accept, or engage in, as a contest.",
+        "examples": [
+          "to join encounter, battle, or issue"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To connect or combine into one; to put together.",
+    "secondary_definitions": [
+      "( intransitive ) To come together; to meet.",
+      "( intransitive ) To enter into association or alliance , to unite in a common purpose .",
+      "( transitive ) To come into the company of.",
+      "( transitive ) To become a member of.",
+      "( computing , databases , transitive ) To produce an intersection of data in two or more database tables .",
+      "To unite in marriage.",
+      "( obsolete , rare ) To enjoin upon; to command .",
+      "To accept, or engage in, as a contest."
+    ]
+  }
+]

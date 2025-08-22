@@ -1,0 +1,50 @@
+[
+  {
+    "word": "localizer",
+    "lemma": "localizer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "localizers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who localizes ( adapts a product for use in a particular country or region, or adapts translated text to fit a local culture ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "translation studies"
+        ],
+        "label_groups": "computing , translation studies"
+      },
+      {
+        "definition": "The component of an instrument landing system that provides runway centerline guidance to aircraft , but not glideslope information.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "aviation"
+        ],
+        "label_groups": "aviation"
+      }
+    ],
+    "main_definition": "( computing , translation studies ) A person who localizes ( adapts a product for use in a particular country or region, or adapts translated text to fit a local culture ) .",
+    "secondary_definitions": [
+      "( aviation ) The component of an instrument landing system that provides runway centerline guidance to aircraft , but not glideslope information."
+    ]
+  }
+]

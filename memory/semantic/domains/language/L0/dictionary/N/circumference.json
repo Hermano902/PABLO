@@ -1,0 +1,75 @@
+[
+  {
+    "word": "circumference",
+    "lemma": "circumference",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/sɜːˈkʌmfɹəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "circumferences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The line that bounds a circle or other two-dimensional figure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The length of such a line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The surface of a round or spherical object.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "The length of the longest cycle of a graph.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( geometry ) The line that bounds a circle or other two-dimensional figure .",
+    "secondary_definitions": [
+      "( geometry ) The length of such a line.",
+      "( obsolete ) The surface of a round or spherical object.",
+      "( graph theory ) The length of the longest cycle of a graph."
+    ]
+  }
+]

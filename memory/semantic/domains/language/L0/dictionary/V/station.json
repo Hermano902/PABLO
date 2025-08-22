@@ -1,0 +1,56 @@
+[
+  {
+    "word": "station",
+    "lemma": "station",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsteɪ.ʃən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "stations",
+          "PT": "stationed",
+          "PAP": "stationed",
+          "PRP": "stationing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put in place to perform a task.",
+        "examples": [
+          "The host stationed me at the front door to greet visitors.",
+          "I was stationed on the pier."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "usually passive"
+        ],
+        "label_groups": "usually passive"
+      },
+      {
+        "definition": "To put in place to perform military duty.",
+        "examples": [
+          "They stationed me overseas just as fighting broke out.",
+          "I was stationed at Fort Richie."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( usually passive ) To put in place to perform a task.",
+    "secondary_definitions": [
+      "To put in place to perform military duty."
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "county",
+    "lemma": "county",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkaʊnti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "counties"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The land ruled by a count or a countess .",
+        "examples": [],
+        "synonyms": [
+          "countship",
+          "countdom"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "An administrative or geographical region of various countries, including Bhutan , Canada , China , Croatia , Ireland , Japan , New Zealand , Norway , Poland , Romania , South Korea , Sweden , the United Kingdom , and 47 of the 50 United States (excluding Alaska, Connecticut, and Louisiana).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A definitive geographic region, without direct administrative functions.",
+        "examples": [
+          "traditional county"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A jail operated by a county government.",
+        "examples": [
+          "He can't come; he's up in the county for agg assault."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "slang",
+          "uncountable"
+        ],
+        "label_groups": "US , slang , uncountable"
+      }
+    ],
+    "main_definition": "( historical ) The land ruled by a count or a countess .",
+    "secondary_definitions": [
+      "An administrative or geographical region of various countries, including Bhutan , Canada , China , Croatia , Ireland , Japan , New Zealand , Norway , Poland , Romania , South Korea , Sweden , the United Kingdom , and 47 of the 50 United States (excluding Alaska, Connecticut, and Louisiana).",
+      "A definitive geographic region, without direct administrative functions.",
+      "( US , slang , uncountable ) A jail operated by a county government."
+    ]
+  }
+]

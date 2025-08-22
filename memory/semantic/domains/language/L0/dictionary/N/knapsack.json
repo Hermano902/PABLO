@@ -1,0 +1,49 @@
+[
+  {
+    "word": "knapsack",
+    "lemma": "knapsack",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈnæpsæk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "knapsacks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A case of canvas or leather, for carrying items on the back.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly US"
+        ],
+        "label_groups": "chiefly US"
+      },
+      {
+        "definition": "A set of values from which a subset is chosen.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      }
+    ],
+    "main_definition": "( chiefly US ) A case of canvas or leather, for carrying items on the back.",
+    "secondary_definitions": [
+      "( cryptography ) A set of values from which a subset is chosen."
+    ]
+  }
+]

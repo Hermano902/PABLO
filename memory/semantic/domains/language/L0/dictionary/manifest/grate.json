@@ -1,0 +1,39 @@
+{
+  "word": "grate",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "ADJ",
+    "ADJ:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\grate.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\grate.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\grate.json"
+  },
+  "timestamp": "2025-08-19T04:43:05.950642Z"
+}

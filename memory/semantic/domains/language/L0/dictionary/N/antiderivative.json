@@ -1,0 +1,40 @@
+[
+  {
+    "word": "antiderivative",
+    "lemma": "antiderivative",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "antiderivatives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A function whose derivative is a given function; an indefinite integral",
+        "examples": [],
+        "synonyms": [
+          "primitive",
+          "integral"
+        ],
+        "antonyms": [
+          "derivative"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      }
+    ],
+    "main_definition": "( calculus ) A function whose derivative is a given function; an indefinite integral",
+    "secondary_definitions": []
+  }
+]

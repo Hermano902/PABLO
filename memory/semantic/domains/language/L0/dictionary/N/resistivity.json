@@ -1,0 +1,49 @@
+[
+  {
+    "word": "resistivity",
+    "lemma": "resistivity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "resistivities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The resistance offered at a particular temperature by an electrical conductor of any given material in a cube of unit length, expressed in ohm-metres (Ωm) in the metric system of measurement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electricity"
+        ],
+        "label_groups": "electricity"
+      },
+      {
+        "definition": "The reciprocal of thermal conductivity , having SI unit: m K W",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "thermodynamics"
+        ],
+        "label_groups": "thermodynamics"
+      }
+    ],
+    "main_definition": "( electricity ) The resistance offered at a particular temperature by an electrical conductor of any given material in a cube of unit length, expressed in ohm-metres (Ωm) in the metric system of measurement.",
+    "secondary_definitions": [
+      "( thermodynamics ) The reciprocal of thermal conductivity , having SI unit: m K W"
+    ]
+  }
+]

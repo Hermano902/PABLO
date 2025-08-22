@@ -1,0 +1,39 @@
+{
+  "word": "rip",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "INTJ"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 15,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 17,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\rip.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\rip.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\rip.json"
+  },
+  "timestamp": "2025-08-19T13:50:42.967274Z"
+}

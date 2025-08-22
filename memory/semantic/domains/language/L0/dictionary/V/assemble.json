@@ -1,0 +1,71 @@
+[
+  {
+    "word": "assemble",
+    "lemma": "assemble",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈsɛm.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "assembles",
+          "PT": "assembled",
+          "PAP": "assembled",
+          "PRP": "assembling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put together .",
+        "examples": [
+          "He assembled the model ship."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To gather as a group.",
+        "examples": [
+          "The parents assembled in the school hall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative"
+        ],
+        "label_groups": "ergative"
+      },
+      {
+        "definition": "To translate from assembly language to machine code .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive ) To put together .",
+    "secondary_definitions": [
+      "( ergative ) To gather as a group.",
+      "( computing ) To translate from assembly language to machine code ."
+    ]
+  }
+]

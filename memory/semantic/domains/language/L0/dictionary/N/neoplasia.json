@@ -1,0 +1,49 @@
+[
+  {
+    "word": "neoplasia",
+    "lemma": "neoplasia",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "neoplasias"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The formation of new tissue",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "The formation of a neoplasm",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      }
+    ],
+    "main_definition": "( biology ) The formation of new tissue",
+    "secondary_definitions": [
+      "( medicine ) The formation of a neoplasm"
+    ]
+  }
+]

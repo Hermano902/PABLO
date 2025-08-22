@@ -1,0 +1,67 @@
+[
+  {
+    "word": "freestanding",
+    "lemma": "freestanding",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Standing or set apart .",
+        "examples": [
+          "The Leaning Tower of Pisa is a freestanding bell tower."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not attached to anything.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not supported by or on anything.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a computer program : that runs directly on a computer 's hardware, without being managed by an operating system .",
+        "examples": [],
+        "synonyms": [
+          "stand-alone"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Standing or set apart .",
+    "secondary_definitions": [
+      "Not attached to anything.",
+      "Not supported by or on anything.",
+      "( programming ) Of a computer program : that runs directly on a computer 's hardware, without being managed by an operating system ."
+    ]
+  }
+]

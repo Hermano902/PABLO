@@ -1,0 +1,80 @@
+[
+  {
+    "word": "depreciate",
+    "lemma": "depreciate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈpɹiːʃɪeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "depreciates",
+          "PT": "depreciated",
+          "PAP": "depreciated",
+          "PRP": "depreciating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lessen in price or estimated value; to lower the worth of.",
+        "examples": [],
+        "synonyms": [
+          "devalue"
+        ],
+        "antonyms": [
+          "appreciate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To decline in value over time.",
+        "examples": [],
+        "synonyms": [
+          "devalue"
+        ],
+        "antonyms": [
+          "appreciate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To belittle or disparage .",
+        "examples": [
+          "They depreciated him because he was the youngest on the team."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "aggrandize",
+          "big up"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To lessen in price or estimated value; to lower the worth of.",
+    "secondary_definitions": [
+      "( intransitive ) To decline in value over time.",
+      "( transitive ) To belittle or disparage ."
+    ]
+  }
+]

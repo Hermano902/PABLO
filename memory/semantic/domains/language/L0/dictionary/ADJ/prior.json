@@ -1,0 +1,63 @@
+[
+  {
+    "word": "prior",
+    "lemma": "prior",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹaɪ.ə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Coming before in order or time ; earlier , former , previous .",
+        "examples": [
+          "His prior residence was smaller than his current one.",
+          "I had no prior knowledge you were coming."
+        ],
+        "synonyms": [
+          "advance",
+          "antecedent",
+          "anterior"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "More important or significant .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Chiefly in prior probability : of the probability of an event : determined without knowledge of the occurrence of other events that bear on it, before additional data is collected .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "posterior"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Bayesian statistics"
+        ],
+        "label_groups": "Bayesian statistics"
+      }
+    ],
+    "main_definition": "Coming before in order or time ; earlier , former , previous .",
+    "secondary_definitions": [
+      "More important or significant .",
+      "( Bayesian statistics ) Chiefly in prior probability : of the probability of an event : determined without knowledge of the occurrence of other events that bear on it, before additional data is collected ."
+    ]
+  }
+]

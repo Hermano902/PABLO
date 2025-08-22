@@ -1,0 +1,66 @@
+[
+  {
+    "word": "logon",
+    "lemma": "logon",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "logons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "credentials : the combination of a user 's identification and password used to enter a computer .",
+        "examples": [
+          "Using the same logon for different systems can be a security risk."
+        ],
+        "synonyms": [
+          "login",
+          "log-in",
+          "sign-in",
+          "sign-on"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The process of logging on.",
+        "examples": [
+          "The user's desktop is displayed shortly after logon ."
+        ],
+        "synonyms": [
+          "login",
+          "log-in",
+          "sign-in",
+          "sign-on"
+        ],
+        "antonyms": [
+          "logoff",
+          "logout"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) credentials : the combination of a user 's identification and password used to enter a computer .",
+    "secondary_definitions": [
+      "( computing ) The process of logging on."
+    ]
+  }
+]

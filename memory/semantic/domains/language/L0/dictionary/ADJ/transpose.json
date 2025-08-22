@@ -1,0 +1,49 @@
+[
+  {
+    "word": "transpose",
+    "lemma": "transpose",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/tɹænsˈpəʊz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Created by transposing a specified matrix .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      },
+      {
+        "definition": "Created by transposing a specified graph .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( linear algebra ) Created by transposing a specified matrix .",
+    "secondary_definitions": [
+      "( graph theory ) Created by transposing a specified graph ."
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "word": "snippet",
+    "lemma": "snippet",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsnɪpɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "snippets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A small part of something, such as a song or fabric ; sample .",
+        "examples": [
+          "From the snippet I heard of their rehearsal, they sound pretty good."
+        ],
+        "synonyms": [
+          "excerpt",
+          "cutting"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A text file containing a relatively small amount of code, useless by itself, along with instructions for inserting that code into a larger codebase .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A small part of something, such as a song or fabric ; sample .",
+    "secondary_definitions": [
+      "( computing ) A text file containing a relatively small amount of code, useless by itself, along with instructions for inserting that code into a larger codebase ."
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "word": "winder",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\winder.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\winder.json"
+  },
+  "timestamp": "2025-08-19T21:00:56.484782Z"
+}

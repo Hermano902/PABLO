@@ -1,0 +1,97 @@
+[
+  {
+    "word": "hull",
+    "lemma": "hull",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/hʌl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hulls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The outer covering of a fruit or seed .",
+        "examples": [],
+        "synonyms": [
+          "peel",
+          "husk",
+          "shell"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any covering.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The outer covering of a fruit or seed .",
+    "secondary_definitions": [
+      "Any covering."
+    ]
+  },
+  {
+    "word": "hull",
+    "lemma": "hull",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/hʌl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hulls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The body or frame of a vessel , such as a ship or plane .",
+        "examples": [],
+        "synonyms": [
+          "fuselage"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The smallest set that possesses a particular property (such as convexity ) and contains every point of A ; slightly more formally, the intersection of all sets which possess the specified property and of which A is a subset .",
+        "examples": [
+          "The orthogonal convex hull of an orthogonal polygon is the smallest orthogonally convex polygon that encloses the original polygon.",
+          "holomorphically convex hull ; affine hull ; injective hull"
+        ],
+        "synonyms": [
+          "span"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "geometry",
+          "of a set A"
+        ],
+        "label_groups": "mathematics , geometry , of a set A"
+      }
+    ],
+    "main_definition": "The body or frame of a vessel , such as a ship or plane .",
+    "secondary_definitions": [
+      "( mathematics , geometry , of a set A ) The smallest set that possesses a particular property (such as convexity ) and contains every point of A ; slightly more formally, the intersection of all sets which possess the specified property and of which A is a subset ."
+    ]
+  }
+]

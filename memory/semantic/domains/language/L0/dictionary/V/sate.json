@@ -1,0 +1,95 @@
+[
+  {
+    "word": "sate",
+    "lemma": "sate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/seɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sates",
+          "PT": "sated",
+          "PAP": "sated",
+          "PRP": "sating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To satisfy the appetite or desire of; to fill up .",
+        "examples": [
+          "At last he stopped, his hunger and thirst sated ."
+        ],
+        "synonyms": [
+          "satiate",
+          "fill up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To satisfy the appetite or desire of; to fill up .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "sate",
+    "lemma": "sate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/seɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "simple past of sit",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "poetic"
+        ],
+        "label_groups": "dated , poetic"
+      },
+      {
+        "definition": "past participle of sit",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "poetic"
+        ],
+        "label_groups": "dated , poetic"
+      }
+    ],
+    "main_definition": "( dated , poetic ) simple past of sit",
+    "secondary_definitions": [
+      "( dated , poetic ) past participle of sit"
+    ]
+  }
+]

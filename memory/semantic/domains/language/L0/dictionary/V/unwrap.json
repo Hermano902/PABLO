@@ -1,0 +1,82 @@
+[
+  {
+    "word": "unwrap",
+    "lemma": "unwrap",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈɹæp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unwraps",
+          "PT": "unwrapped",
+          "PAP": "unwrapped",
+          "PRP": "unwrapping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To open or undo, as what is wrapped or folded.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become unwrapped.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To remove word wrap from.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To flatten (a three-dimensional model ) into a two-dimensional plane .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer graphics"
+        ],
+        "label_groups": "transitive , computer graphics"
+      }
+    ],
+    "main_definition": "( transitive ) To open or undo, as what is wrapped or folded.",
+    "secondary_definitions": [
+      "( intransitive ) To become unwrapped.",
+      "( transitive , computing ) To remove word wrap from.",
+      "( transitive , computer graphics ) To flatten (a three-dimensional model ) into a two-dimensional plane ."
+    ]
+  }
+]

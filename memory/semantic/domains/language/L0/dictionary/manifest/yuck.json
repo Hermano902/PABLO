@@ -1,0 +1,42 @@
+{
+  "word": "yuck",
+  "pos_order": [
+    "INTJ",
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3",
+    "V:4",
+    "N:3"
+  ],
+  "pos": {
+    "INTJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 16
+    }
+  },
+  "files": {
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\yuck.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\yuck.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\yuck.json"
+  },
+  "timestamp": "2025-08-19T21:16:46.726625Z"
+}

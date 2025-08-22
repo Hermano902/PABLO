@@ -1,0 +1,60 @@
+[
+  {
+    "word": "equation",
+    "lemma": "equation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʒən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "equations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of equating two or more things, or the state of those things being equal (that is, identical ).",
+        "examples": [
+          "We need to bring the balance of power into equation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An assertion that two expressions are equal, expressed by writing the two expressions separated by an equal sign ; in mathematical problems, equations describe various essential aspects of the problem, each of which contributes to the resolution of the problem in part.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A small correction to observed values to remove the effects of systematic errors in an observation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "The act or process of equating two or more things, or the state of those things being equal (that is, identical ).",
+    "secondary_definitions": [
+      "( mathematics ) An assertion that two expressions are equal, expressed by writing the two expressions separated by an equal sign ; in mathematical problems, equations describe various essential aspects of the problem, each of which contributes to the resolution of the problem in part.",
+      "( astronomy ) A small correction to observed values to remove the effects of systematic errors in an observation ."
+    ]
+  }
+]

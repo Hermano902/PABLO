@@ -1,0 +1,56 @@
+[
+  {
+    "word": "trait",
+    "lemma": "trait",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹeɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "traits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An identifying characteristic , habit or trend .",
+        "examples": [
+          "The number one personality trait I hate is hypocrisy. Why can't you be consistent!?"
+        ],
+        "synonyms": [
+          "characteristic"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "psychology"
+        ],
+        "label_groups": "biology , psychology"
+      },
+      {
+        "definition": "An uninstantiable collection of methods that provides functionality to a class by using the class’s own interface .",
+        "examples": [
+          "Traits are somewhat between an interface and a mixin."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "( biology , psychology ) An identifying characteristic , habit or trend .",
+    "secondary_definitions": [
+      "( object-oriented programming ) An uninstantiable collection of methods that provides functionality to a class by using the class’s own interface ."
+    ]
+  }
+]

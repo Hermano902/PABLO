@@ -1,0 +1,56 @@
+[
+  {
+    "word": "mung",
+    "lemma": "mung",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mʌŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mungs",
+          "PT": "munged",
+          "PAP": "munged",
+          "PRP": "munging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make repeated changes to a file or data which individually may be reversible, yet which ultimately result in an unintentional irreversible destruction of large portions of the original data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      },
+      {
+        "definition": "To harm , to damage ; to destroy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "informal"
+        ],
+        "label_groups": "by extension , informal"
+      }
+    ],
+    "main_definition": "( computing , informal ) To make repeated changes to a file or data which individually may be reversible, yet which ultimately result in an unintentional irreversible destruction of large portions of the original data.",
+    "secondary_definitions": [
+      "( by extension , informal ) To harm , to damage ; to destroy ."
+    ]
+  }
+]

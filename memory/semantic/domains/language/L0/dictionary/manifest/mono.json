@@ -1,0 +1,31 @@
+{
+  "word": "mono",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "ADJ:2",
+    "ADJ:3",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mono.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\mono.json"
+  },
+  "timestamp": "2025-08-19T09:29:12.508288Z"
+}

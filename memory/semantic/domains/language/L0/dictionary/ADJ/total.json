@@ -1,0 +1,94 @@
+[
+  {
+    "word": "total",
+    "lemma": "total",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtəʊ.təl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more total",
+          "SUP": "most total"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Entire ; relating to the whole of something .",
+        "examples": [
+          "The total book is rubbish from start to finish. The total number of votes cast is 3,270."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Complete ; absolute .",
+        "examples": [
+          "He is a total failure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "used as an intensifier"
+        ],
+        "label_groups": "used as an intensifier"
+      },
+      {
+        "definition": "Defined on all possible inputs .",
+        "examples": [
+          "The Ackermann function is one of the simplest and earliest examples of a total computable function that is not primitive recursive ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a function"
+        ],
+        "label_groups": "mathematics , of a function"
+      },
+      {
+        "definition": "Left total : Such that for every x in X there is a y in Y with x R y .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "more generally",
+          "of a relation R on X × Y"
+        ],
+        "label_groups": "mathematics , more generally , of a relation R on X × Y"
+      },
+      {
+        "definition": "Such that any two elements are comparable, i.e. for all a and b , either a ≤ b , or b ≤ a .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a partial order ≤"
+        ],
+        "label_groups": "mathematics , of a partial order ≤"
+      }
+    ],
+    "main_definition": "Entire ; relating to the whole of something .",
+    "secondary_definitions": [
+      "( used as an intensifier ) Complete ; absolute .",
+      "( mathematics , of a function ) Defined on all possible inputs .",
+      "( mathematics , more generally , of a relation R on X × Y ) Left total : Such that for every x in X there is a y in Y with x R y .",
+      "( mathematics , of a partial order ≤ ) Such that any two elements are comparable, i.e. for all a and b , either a ≤ b , or b ≤ a ."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "visualization",
+    "lemma": "visualization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌvɪʒʊəlaɪˈzeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "visualizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of visualizing , or something visualized .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A visual representation of data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "The act of visualizing , or something visualized .",
+    "secondary_definitions": [
+      "( computing ) A visual representation of data ."
+    ]
+  }
+]

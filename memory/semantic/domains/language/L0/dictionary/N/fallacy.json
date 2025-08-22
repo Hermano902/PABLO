@@ -1,0 +1,50 @@
+[
+  {
+    "word": "fallacy",
+    "lemma": "fallacy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfæl.ə.si/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "fallacies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Deceptive or false appearance; that which misleads the eye or the mind.",
+        "examples": [],
+        "synonyms": [
+          "deception",
+          "deceitfulness"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An argument , or apparent argument, which professes to be decisive of the matter at issue, while in reality it is not; a specious argument.",
+        "examples": [],
+        "synonyms": [
+          "logical fallacy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      }
+    ],
+    "main_definition": "Deceptive or false appearance; that which misleads the eye or the mind.",
+    "secondary_definitions": [
+      "( logic ) An argument , or apparent argument, which professes to be decisive of the matter at issue, while in reality it is not; a specious argument."
+    ]
+  }
+]

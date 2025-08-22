@@ -1,0 +1,84 @@
+[
+  {
+    "word": "cease",
+    "lemma": "cease",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/siːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ceases",
+          "PT": "ceased",
+          "PAP": "ceased",
+          "PRP": "ceasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To stop .",
+        "examples": [
+          "And with that, his twitching ceased ."
+        ],
+        "synonyms": [
+          "discontinue",
+          "hold",
+          "terminate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "formal",
+          "intransitive"
+        ],
+        "label_groups": "formal , intransitive"
+      },
+      {
+        "definition": "To stop doing (something).",
+        "examples": [
+          "And with that, he ceased twitching."
+        ],
+        "synonyms": [
+          "arrest",
+          "discontinue"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "formal",
+          "transitive"
+        ],
+        "label_groups": "formal , transitive"
+      },
+      {
+        "definition": "To be wanting ; to fail ; to pass away , perish .",
+        "examples": [],
+        "synonyms": [
+          "desert",
+          "lack"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      }
+    ],
+    "main_definition": "( formal , intransitive ) To stop .",
+    "secondary_definitions": [
+      "( formal , transitive ) To stop doing (something).",
+      "( obsolete , intransitive ) To be wanting ; to fail ; to pass away , perish ."
+    ]
+  }
+]

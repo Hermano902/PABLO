@@ -1,0 +1,102 @@
+[
+  {
+    "word": "broadcast",
+    "lemma": "broadcast",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹɔːdkɑːst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "broadcasts",
+          "PT": "broadcast",
+          "PAP": "broadcast",
+          "PRP": "broadcasting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transmit a message or signal through radio waves or electronic means.",
+        "examples": [],
+        "synonyms": [
+          "air",
+          "transmit",
+          "send"
+        ],
+        "antonyms": [
+          "narrowcast"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To transmit a message over a wide area.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To send an email in a single transmission to a (typically large) number of people.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "specifically"
+            ],
+            "label_groups": "specifically"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To appear as a performer , presenter , or speaker in a broadcast programme .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To sow seeds over a wide area.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "agriculture",
+          "horticulture",
+          "archaic"
+        ],
+        "label_groups": "transitive , agriculture , horticulture , archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To transmit a message or signal through radio waves or electronic means.",
+    "secondary_definitions": [
+      "( transitive ) To transmit a message over a wide area.",
+      "( intransitive ) To appear as a performer , presenter , or speaker in a broadcast programme .",
+      "( transitive , agriculture , horticulture , archaic ) To sow seeds over a wide area."
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "word": "pluralize",
+    "lemma": "pluralize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pluralizes",
+          "PT": "pluralized",
+          "PAP": "pluralized",
+          "PRP": "pluralizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make plural .",
+        "examples": [
+          "The word \"orange\" can be pluralized into \"oranges\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      },
+      {
+        "definition": "To take a plural; to assume a plural form.",
+        "examples": [
+          "Nouns pluralize in English, but verbs do not."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "grammar"
+        ],
+        "label_groups": "intransitive , grammar"
+      },
+      {
+        "definition": "To multiply ; to make manifold .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hold more than one ecclesiastical benefice at the same time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "UK"
+        ],
+        "label_groups": "intransitive , UK"
+      }
+    ],
+    "main_definition": "( transitive , grammar ) To make plural .",
+    "secondary_definitions": [
+      "( intransitive , grammar ) To take a plural; to assume a plural form.",
+      "( transitive ) To multiply ; to make manifold .",
+      "( intransitive , UK ) To hold more than one ecclesiastical benefice at the same time."
+    ]
+  }
+]

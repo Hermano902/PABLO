@@ -1,0 +1,52 @@
+[
+  {
+    "word": "matzo",
+    "lemma": "matzo",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmætsə/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "matzos"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Thin, unleavened bread in Jewish cuisine.",
+        "examples": [
+          "Matzo is eaten by Jews on Passover ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A piece of the above bread.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Thin, unleavened bread in Jewish cuisine.",
+    "secondary_definitions": [
+      "( countable ) A piece of the above bread."
+    ]
+  }
+]

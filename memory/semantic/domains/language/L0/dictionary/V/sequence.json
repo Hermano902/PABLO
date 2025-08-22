@@ -1,0 +1,86 @@
+[
+  {
+    "word": "sequence",
+    "lemma": "sequence",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsiːkwəns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sequences",
+          "PT": "sequenced",
+          "PAP": "sequenced",
+          "PRP": "sequencing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arrange (something) in an order .",
+        "examples": [
+          "We sequenced the code to keep it organised.",
+          "The later edition of the book sequenced the chapters differently, which caused a lot of confusion among non-technical readers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To determine the order of monomers in (a biological polymer ), e.g. of amino acids in (a protein ), or of bases in (a nucleic acid ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "biochemistry"
+        ],
+        "label_groups": "transitive , biochemistry"
+      },
+      {
+        "definition": "To produce (music) with a sequencer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "music"
+        ],
+        "label_groups": "transitive , music"
+      },
+      {
+        "definition": "To proceed through a sequence or series of things.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "uncommon"
+        ],
+        "label_groups": "intransitive , uncommon"
+      }
+    ],
+    "main_definition": "( transitive ) To arrange (something) in an order .",
+    "secondary_definitions": [
+      "( transitive , biochemistry ) To determine the order of monomers in (a biological polymer ), e.g. of amino acids in (a protein ), or of bases in (a nucleic acid ).",
+      "( transitive , music ) To produce (music) with a sequencer .",
+      "( intransitive , uncommon ) To proceed through a sequence or series of things."
+    ]
+  }
+]

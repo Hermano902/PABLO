@@ -1,0 +1,55 @@
+[
+  {
+    "word": "uplink",
+    "lemma": "uplink",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "uplinks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The portion of a communications link used for the transmission of signals from an Earth terminal to a satellite or to an airborne platform. An uplink is the converse of a downlink . An uplink or downlink is distinguished from reverse link or forward link .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The communication path from a mobile device to a base station, a consumer to the network backbone, a client device to a server, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by analogy",
+          "less formally"
+        ],
+        "label_groups": "by analogy , less formally"
+      },
+      {
+        "definition": "Data transmission from a data station to the headend .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The portion of a communications link used for the transmission of signals from an Earth terminal to a satellite or to an airborne platform. An uplink is the converse of a downlink . An uplink or downlink is distinguished from reverse link or forward link .",
+    "secondary_definitions": [
+      "( by analogy , less formally ) The communication path from a mobile device to a base station, a consumer to the network backbone, a client device to a server, etc.",
+      "Data transmission from a data station to the headend ."
+    ]
+  }
+]

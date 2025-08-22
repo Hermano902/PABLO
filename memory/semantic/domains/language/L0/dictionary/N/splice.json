@@ -1,0 +1,86 @@
+[
+  {
+    "word": "splice",
+    "lemma": "splice",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/splaɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "splices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A junction or joining of ropes made by splicing them together.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "The electrical and mechanical connection between two pieces of wire or cable.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electrical"
+        ],
+        "label_groups": "electrical"
+      },
+      {
+        "definition": "That part of a bat where the handle joins the blade .",
+        "examples": [
+          "If the ball hits the splice , it is likely to dolly up for an easy catch."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cricket"
+        ],
+        "label_groups": "cricket"
+      },
+      {
+        "definition": "Bonding or joining of overlapping materials.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The process of removing intron sequences from the pre-messenger RNA, and then joining together exons.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "( nautical ) A junction or joining of ropes made by splicing them together.",
+    "secondary_definitions": [
+      "( electrical ) The electrical and mechanical connection between two pieces of wire or cable.",
+      "( cricket ) That part of a bat where the handle joins the blade .",
+      "Bonding or joining of overlapping materials.",
+      "( genetics ) The process of removing intron sequences from the pre-messenger RNA, and then joining together exons."
+    ]
+  }
+]

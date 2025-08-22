@@ -1,0 +1,95 @@
+[
+  {
+    "word": "inventory",
+    "lemma": "inventory",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪn.vən.tɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inventories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The stock of an item on hand at a particular location or business.",
+        "examples": [
+          "Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "operations"
+        ],
+        "label_groups": "operations"
+      },
+      {
+        "definition": "A detailed list of all of the items on hand .",
+        "examples": [
+          "The inventory included several items that one wouldn't normally think to find at a cheese shop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "operations"
+        ],
+        "label_groups": "operations"
+      },
+      {
+        "definition": "The process of producing or updating such a list.",
+        "examples": [
+          "This month's inventory took nearly three days."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "operations"
+        ],
+        "label_groups": "operations"
+      },
+      {
+        "definition": "A space containing the items available to a character, especially that in a video game , for immediate use.",
+        "examples": [
+          "You can't get through the underground tunnel if there are more than three items in your inventory ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The total set of a ( specified ) linguistic feature ( within a language etc. )",
+        "examples": [
+          "Germanic languages have a marked tendency towards  large vocalic inventories ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "especially phonology"
+        ],
+        "label_groups": "linguistics , especially phonology"
+      }
+    ],
+    "main_definition": "( operations ) The stock of an item on hand at a particular location or business.",
+    "secondary_definitions": [
+      "( operations ) A detailed list of all of the items on hand .",
+      "( operations ) The process of producing or updating such a list.",
+      "A space containing the items available to a character, especially that in a video game , for immediate use.",
+      "( linguistics , especially phonology ) The total set of a ( specified ) linguistic feature ( within a language etc. )"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "global",
+    "lemma": "global",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡləʊbəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "globals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A globally scoped identifier .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A globally scoped identifier .",
+    "secondary_definitions": []
+  }
+]

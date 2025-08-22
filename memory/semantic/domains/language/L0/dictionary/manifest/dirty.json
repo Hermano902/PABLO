@@ -1,0 +1,37 @@
+{
+  "word": "dirty",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "V"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 17,
+      "examples": 14,
+      "synonyms": 28,
+      "antonyms": 6,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\dirty.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\dirty.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\dirty.json"
+  },
+  "timestamp": "2025-08-19T01:59:16.264400Z"
+}

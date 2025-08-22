@@ -1,0 +1,69 @@
+[
+  {
+    "word": "maturate",
+    "lemma": "maturate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmætjʊɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "maturates",
+          "PT": "maturated",
+          "PAP": "maturated",
+          "PRP": "maturating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring to ripeness or maturity; to ripen .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To promote the perfect suppuration of (an abscess ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "transitive"
+        ],
+        "label_groups": "medicine , transitive"
+      },
+      {
+        "definition": "To undergo perfect suppuration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "intransitive"
+        ],
+        "label_groups": "medicine , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bring to ripeness or maturity; to ripen .",
+    "secondary_definitions": [
+      "( medicine , transitive ) To promote the perfect suppuration of (an abscess ).",
+      "( medicine , intransitive ) To undergo perfect suppuration ."
+    ]
+  }
+]

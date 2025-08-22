@@ -1,0 +1,87 @@
+[
+  {
+    "word": "dashboard",
+    "lemma": "dashboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdæʃˌbɔː(ɹ)d/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "dashboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An upturned screen of wood or leather placed on the front of a horse-drawn carriage, sleigh or other vehicle that protected the driver from mud, debris, water and snow thrown up by the horse's hooves.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "historical"
+        ],
+        "label_groups": "historical"
+      },
+      {
+        "definition": "A panel beneath the windshield of a vehicle or aircraft containing indicator gauges, compartments, and sometimes controls and indicator lights.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The float of a paddle wheel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "A graphical user interface for changing settings.",
+        "examples": [
+          "Log in to the dashboard to change your account settings."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface",
+          "video games"
+        ],
+        "label_groups": "graphical user interface , video games"
+      },
+      {
+        "definition": "The personalized feed of a user of a website, consisting of recent updates of pages the user has used or followed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "( historical ) An upturned screen of wood or leather placed on the front of a horse-drawn carriage, sleigh or other vehicle that protected the driver from mud, debris, water and snow thrown up by the horse's hooves.",
+    "secondary_definitions": [
+      "A panel beneath the windshield of a vehicle or aircraft containing indicator gauges, compartments, and sometimes controls and indicator lights.",
+      "( nautical ) The float of a paddle wheel .",
+      "( graphical user interface , video games ) A graphical user interface for changing settings.",
+      "( Internet ) The personalized feed of a user of a website, consisting of recent updates of pages the user has used or followed."
+    ]
+  }
+]

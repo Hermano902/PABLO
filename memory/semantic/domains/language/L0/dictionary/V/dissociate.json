@@ -1,0 +1,104 @@
+[
+  {
+    "word": "dissociate",
+    "lemma": "dissociate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈsəʊ.ʃi.eɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dissociates",
+          "PT": "dissociated",
+          "PAP": "dissociated",
+          "PRP": "dissociating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make unrelated ; to sever a connection ; to separate .",
+        "examples": [
+          "A number of group members wish to dissociate themselves from the majority."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To part ; to stop associating .",
+        "examples": [
+          "After the big fight, the gang totally dissociated from each other."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To separate compounds into simpler component parts, usually by applying heat or through electrolysis .",
+        "examples": [
+          "We dissociated the lead iodide into its elements by heating"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "transitive"
+        ],
+        "label_groups": "chemistry , transitive"
+      },
+      {
+        "definition": "To undergo dissociation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry",
+          "intransitive"
+        ],
+        "label_groups": "chemistry , intransitive"
+      },
+      {
+        "definition": "To undergo dissociation .",
+        "examples": [
+          "Gerald checked himself into the hospital because he was dissociating ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology",
+          "intransitive"
+        ],
+        "label_groups": "psychology , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make unrelated ; to sever a connection ; to separate .",
+    "secondary_definitions": [
+      "( intransitive ) To part ; to stop associating .",
+      "( chemistry , transitive ) To separate compounds into simpler component parts, usually by applying heat or through electrolysis .",
+      "( chemistry , intransitive ) To undergo dissociation .",
+      "( psychology , intransitive ) To undergo dissociation ."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "skewness",
+    "lemma": "skewness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "skewnesses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of being skew .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of the asymmetry of the probability distribution of a real-valued random variable; is the third standardized moment , defined as γ 1 = μ 3 σ 3 , {\\displaystyle \\scriptstyle \\gamma _{1}={\\frac {\\mu _{3}}{\\sigma ^{3}}},\\!} where μ 3 {\\displaystyle \\mu _{3}} is the third moment about the mean and σ {\\displaystyle \\sigma } is the standard deviation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "The property of being skew .",
+    "secondary_definitions": [
+      "( statistics ) A measure of the asymmetry of the probability distribution of a real-valued random variable; is the third standardized moment , defined as γ 1 = μ 3 σ 3 , {\\displaystyle \\scriptstyle \\gamma _{1}={\\frac {\\mu _{3}}{\\sigma ^{3}}},\\!} where μ 3 {\\displaystyle \\mu _{3}} is the third moment about the mean and σ {\\displaystyle \\sigma } is the standard deviation ."
+    ]
+  }
+]

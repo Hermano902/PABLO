@@ -1,0 +1,77 @@
+[
+  {
+    "word": "persistence",
+    "lemma": "persistence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pəˈsɪst(ə)ns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "persistences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The property of being persistent .",
+        "examples": [
+          "You've got to admire her persistence . She's asked him out every day for a month even though she keeps turning him down."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of data, the property of continuing to exist after the termination of the program.",
+        "examples": [
+          "Once written to a disk file, the data has persistence : it will still be there tomorrow when we run the next program."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "Continuation of the previous day's weather (particularly temperature and precipitation statistics).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      },
+      {
+        "definition": "The number of times an operation can be iteratively applied to a number before it reaches a permanently constant state.",
+        "examples": [
+          "The persistence of the number 39 under the operation of multiplying the digits of the number is three, because 3x9 = 27, 2x7 = 14, and 1x4 = 4, and no further iterations will change the number again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "The property of being persistent .",
+    "secondary_definitions": [
+      "( computer science ) Of data, the property of continuing to exist after the termination of the program.",
+      "( meteorology ) Continuation of the previous day's weather (particularly temperature and precipitation statistics).",
+      "( mathematics ) The number of times an operation can be iteratively applied to a number before it reaches a permanently constant state."
+    ]
+  }
+]

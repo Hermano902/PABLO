@@ -1,0 +1,106 @@
+[
+  {
+    "word": "transaction",
+    "lemma": "transaction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹænˈzækʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "transactions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of conducting or carrying out ( business , negotiations , plans ).",
+        "examples": [
+          "The transaction was made on Friday with the supplier."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A deal or business agreement . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An exchange or trade , as of ideas, money, goods, etc.",
+        "examples": [
+          "I made the transaction with the vendor as soon as she showed me the pearls."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The transfer of funds into, out of, or from an account .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "An atomic operation ; a message, data modification, or other procedure that is guaranteed to perform completely or not at all (e.g. a database transaction ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A record of the proceedings of a learned society .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially in plural"
+        ],
+        "label_groups": "especially in plural"
+      },
+      {
+        "definition": "A social interaction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transactional analysis"
+        ],
+        "label_groups": "transactional analysis"
+      }
+    ],
+    "main_definition": "The act of conducting or carrying out ( business , negotiations , plans ).",
+    "secondary_definitions": [
+      "A deal or business agreement . (Can we add an example for this sense?)",
+      "An exchange or trade , as of ideas, money, goods, etc.",
+      "( finance ) The transfer of funds into, out of, or from an account .",
+      "( computing ) An atomic operation ; a message, data modification, or other procedure that is guaranteed to perform completely or not at all (e.g. a database transaction ).",
+      "( especially in plural ) A record of the proceedings of a learned society .",
+      "( transactional analysis ) A social interaction ."
+    ]
+  }
+]

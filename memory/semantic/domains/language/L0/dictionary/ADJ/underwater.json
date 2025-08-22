@@ -1,0 +1,99 @@
+[
+  {
+    "word": "underwater",
+    "lemma": "underwater",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʌndə(ɹ)ˈwɔːtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more underwater",
+          "SUP": "most underwater"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Beneath the surface of the water ; of or pertaining to the region beneath the water surface.",
+        "examples": [
+          "Watch out for underwater obstacles.",
+          "He was a pioneer in underwater exploration."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable"
+        ],
+        "label_groups": "not comparable"
+      },
+      {
+        "definition": "Beneath the water line of a vessel .",
+        "examples": [
+          "When the ship was brought into dry dock, it was found that she had underwater damage."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical"
+        ],
+        "label_groups": "nautical"
+      },
+      {
+        "definition": "In difficulty, especially financially.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "above water",
+          "solvent",
+          "in the black"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Having negative equity ; owing more on an asset than its market value.",
+        "examples": [
+          "We've been underwater on our mortgage ever since the housing crash."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "Of an option , having a strike price higher ( call options ) or lower ( put options ) than the current market price of the underlying asset or financial product; for example, an option to buy shares at $20 when the current market price is $15.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( not comparable ) Beneath the surface of the water ; of or pertaining to the region beneath the water surface.",
+    "secondary_definitions": [
+      "( nautical ) Beneath the water line of a vessel .",
+      "( figuratively ) In difficulty, especially financially.",
+      "( finance ) Having negative equity ; owing more on an asset than its market value.",
+      "( finance ) Of an option , having a strike price higher ( call options ) or lower ( put options ) than the current market price of the underlying asset or financial product; for example, an option to buy shares at $20 when the current market price is $15."
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "destructor",
+    "lemma": "destructor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "destructors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who destructs .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A furnace or oven for the burning or carbonizing of refuse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A function that runs when an object is no longer required, used to release any resources that it was using.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "One who destructs .",
+    "secondary_definitions": [
+      "A furnace or oven for the burning or carbonizing of refuse .",
+      "( object-oriented programming ) A function that runs when an object is no longer required, used to release any resources that it was using."
+    ]
+  }
+]

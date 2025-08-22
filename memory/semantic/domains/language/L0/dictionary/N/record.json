@@ -1,0 +1,105 @@
+[
+  {
+    "word": "record",
+    "lemma": "record",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛk.ɔːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "records"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An item of information put into a temporary or permanent physical medium .",
+        "examples": [
+          "The person had a record of the interview so she could review her notes.",
+          "The tourist's photographs and the tape of the police call provide a record of the crime."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference.",
+        "examples": [
+          "We have no record of you making this payment to us."
+        ],
+        "synonyms": [
+          "log"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ellipsis of phonograph record ( “ a disc , usually made from vinyl , on which sound is recorded and may be replayed on a phonograph ” ) .",
+        "examples": [
+          "I still like records better than CDs."
+        ],
+        "synonyms": [
+          "disc",
+          "phonograph record",
+          "vinyl"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of data relating to a single individual or item.",
+        "examples": [
+          "Pull up the record on John Smith. What's his medical history?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A data structure similar to a struct , in some programming languages such as C# and Java based on classes and designed for storing immutable data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "The most extreme known value of some variable, particularly that of an achievement in competitive events.",
+        "examples": [
+          "The heat and humidity were both new records .",
+          "Australia set a record of 10 back-to-back T20I wins.",
+          "He broke the record for the youngest English captain.",
+          "The team set a new record for most points scored in a game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "An item of information put into a temporary or permanent physical medium .",
+    "secondary_definitions": [
+      "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference.",
+      "Ellipsis of phonograph record ( “ a disc , usually made from vinyl , on which sound is recorded and may be replayed on a phonograph ” ) .",
+      "( computing ) A set of data relating to a single individual or item.",
+      "( programming ) A data structure similar to a struct , in some programming languages such as C# and Java based on classes and designed for storing immutable data .",
+      "The most extreme known value of some variable, particularly that of an achievement in competitive events."
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "opacity",
+    "lemma": "opacity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/oʊˈpæsɪti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "opacities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state or quality of being opaque , not allowing light to pass through",
+        "examples": [
+          "We could not see the sandbar due to the opacity of the muddy water."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The state or quality of being inaccessible to understanding.",
+        "examples": [
+          "The opacity of these decisions is troubling."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A measure of relative impenetrability to electromagnetic radiation such as light .",
+        "examples": [
+          "The opacity of a clean glass window is near zero."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "optics",
+          "countable"
+        ],
+        "label_groups": "optics , countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The state or quality of being opaque , not allowing light to pass through",
+    "secondary_definitions": [
+      "( uncountable ) The state or quality of being inaccessible to understanding.",
+      "( optics , countable ) A measure of relative impenetrability to electromagnetic radiation such as light ."
+    ]
+  }
+]

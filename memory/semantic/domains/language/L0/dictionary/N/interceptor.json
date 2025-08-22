@@ -1,0 +1,87 @@
+[
+  {
+    "word": "interceptor",
+    "lemma": "interceptor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "interceptors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Anything that intercepts something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A combat aircraft designed to intercept and destroy enemy aircraft before they can attack .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A guided missile designed to intercept and destroy enemy missiles.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A device to trap, remove, or separate hazardous or undesirable matter (such as oil or sand) from normal waste conveyed through it, permitting normal sewage or liquid wastes to discharge into the disposal terminal by gravity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture",
+          "engineering"
+        ],
+        "label_groups": "architecture , engineering"
+      },
+      {
+        "definition": "A hook routine that intercepts normal program flow to carry out a task.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      },
+      {
+        "definition": "A sewer that intercepts sewerage destined for an outfall (e.g. into a river) and redirects it to a treatment plant.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Anything that intercepts something else.",
+    "secondary_definitions": [
+      "A combat aircraft designed to intercept and destroy enemy aircraft before they can attack .",
+      "A guided missile designed to intercept and destroy enemy missiles.",
+      "( architecture , engineering ) A device to trap, remove, or separate hazardous or undesirable matter (such as oil or sand) from normal waste conveyed through it, permitting normal sewage or liquid wastes to discharge into the disposal terminal by gravity.",
+      "( computing , programming ) A hook routine that intercepts normal program flow to carry out a task.",
+      "A sewer that intercepts sewerage destined for an outfall (e.g. into a river) and redirects it to a treatment plant."
+    ]
+  }
+]

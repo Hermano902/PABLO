@@ -1,0 +1,29 @@
+{
+  "word": "exit",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 6,
+      "examples": 5,
+      "synonyms": 4,
+      "antonyms": 11,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 5,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\exit.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\exit.json"
+  },
+  "timestamp": "2025-08-19T03:18:30.101737Z"
+}

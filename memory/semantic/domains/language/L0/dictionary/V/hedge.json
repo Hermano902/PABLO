@@ -1,0 +1,115 @@
+[
+  {
+    "word": "hedge",
+    "lemma": "hedge",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/hɛd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hedges",
+          "PT": "hedged",
+          "PAP": "hedged",
+          "PRP": "hedging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enclose with a hedge or hedges.",
+        "examples": [
+          "to hedge a field or garden"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To obstruct or surround .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To offset the risk associated with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      },
+      {
+        "definition": "To avoid verbal commitment.",
+        "examples": [
+          "He carefully hedged his statements with weasel words."
+        ],
+        "synonyms": [
+          "parry",
+          "shuffle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To construct or repair a hedge.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To reduce one's exposure to risk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "finance"
+        ],
+        "label_groups": "intransitive , finance"
+      }
+    ],
+    "main_definition": "( transitive ) To enclose with a hedge or hedges.",
+    "secondary_definitions": [
+      "( transitive ) To obstruct or surround .",
+      "( transitive , finance ) To offset the risk associated with.",
+      "( ambitransitive ) To avoid verbal commitment.",
+      "( intransitive ) To construct or repair a hedge.",
+      "( intransitive , finance ) To reduce one's exposure to risk."
+    ]
+  }
+]

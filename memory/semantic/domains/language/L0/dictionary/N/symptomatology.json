@@ -1,0 +1,53 @@
+[
+  {
+    "word": "symptomatology",
+    "lemma": "symptomatology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "symptomatologies"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The scientific study of the symptoms of diseases , as an aspect of clinical medicine , differential diagnosis , public health , and so on.",
+        "examples": [],
+        "synonyms": [
+          "symptomology",
+          "symptomatics"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The aggregate of symptoms of a particular disease; the pattern of symptoms, and their timing, that is characteristic of it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The scientific study of the symptoms of diseases , as an aspect of clinical medicine , differential diagnosis , public health , and so on.",
+    "secondary_definitions": [
+      "( countable ) The aggregate of symptoms of a particular disease; the pattern of symptoms, and their timing, that is characteristic of it."
+    ]
+  }
+]

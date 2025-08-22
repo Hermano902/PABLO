@@ -1,0 +1,610 @@
+[
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more normal",
+          "SUP": "most normal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "According to norms or rules or to a regular pattern.",
+        "examples": [
+          "Organize the data into third normal form."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( mathematics ) Adhering to or being what is considered natural or regular in a particular field or context: ( number theory , of a real number ) In whose representation in a given base b ≥ 2, for every positive integer n , the b possible strings of n digits follow a uniform distribution . ( algebra , of a subgroup ) With cosets which form a group. ( algebra , of a field extension of a field K ) Which is the splitting field of a family of polynomials in K. ( probability theory , statistics , of a distribution ) Which has a very specific bell curve shape; that is or has the qualities of a normal distribution . ( probability theory , statistics , of a random variable, etc. ) Which has a normal distribution ; which is associated with a random variable that has a normal distribution. ( complex analysis , of a family of continuous functions ) Which is pre-compact . ( set theory , of a function from the ordinals to the ordinals ) Which is strictly monotonically increasing and continuous with respect to the order topology. ( linear algebra , of a matrix ) Which commutes with its conjugate transpose. ( functional analysis , of a Hilbert space operator ) Which commutes with its adjoint. ( category theory ) Being (as a morphism) or containing (as a category) only normal epimorphism(s) or monomorphism(s), that is, those which are the kernel or cokernel of some morphism , respectively. ( topology , of a topology or topological space ) In which disjoint closed sets can be separated by disjoint neighborhoods. ( commutative algebra , of a domain ) Integrally closed : equal its own integral closure in its field of fractions . ( commutative algebra , of a ring ) Such that all of its localizations at prime ideals are integrally closed domains. ( algebraic geometry , of a variety or scheme ) Such that the local ring at every point is an integrally closed domain.",
+            "examples": [
+              "A number whose individual digits in a given base representation follow a uniform distribution is said to be simply normal .",
+              "A number that is normal for every base b ≥ 2 is said to be absolutely normal ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Usual, healthy; not sick or ill or unlike oneself.",
+        "examples": [
+          "John is feeling normal again."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( fandom slang , sarcastic , with “about” ) Fervently interested in a subject; obsessed .",
+            "examples": [
+              "I wrote a 30-page analysis of the show’s villain because I’m very normal about them."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( education , of a school ) Teaching teachers how to teach; teaching teachers the norms of education.",
+        "examples": [
+          "My grandmother attended Mankato State Normal School; my grandfather attended Illinois State Normal University."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chemistry ) Of, relating to, or being a solution containing one equivalent weight of solute per litre of solution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( organic chemistry ) Describing a straight chain isomer of an aliphatic hydrocarbon , or an aliphatic compound in which a substituent is in the 1- position of such a hydrocarbon.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( physics , of a mode in an oscillating system ) In which all parts of an object vibrate at the same frequency (a normal mode ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( rail transport , of points ) In the default position, set for the most frequently used route.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( geometry ) Perpendicular to a tangent of a curve or tangent plane of a surface.",
+        "examples": [
+          "The interior normal vector of a perfect sphere always point toward the center, and the exterior normal vector directly away, and both are always collinear with the ray whose tip ends at the point of intersection, which is the intersection of all three sets of points."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "According to norms or rules or to a regular pattern.",
+    "secondary_definitions": [
+      "Usual, healthy; not sick or ill or unlike oneself.",
+      "( education , of a school ) Teaching teachers how to teach; teaching teachers the norms of education.",
+      "( chemistry ) Of, relating to, or being a solution containing one equivalent weight of solute per litre of solution .",
+      "( organic chemistry ) Describing a straight chain isomer of an aliphatic hydrocarbon , or an aliphatic compound in which a substituent is in the 1- position of such a hydrocarbon.",
+      "( physics , of a mode in an oscillating system ) In which all parts of an object vibrate at the same frequency (a normal mode ).",
+      "( rail transport , of points ) In the default position, set for the most frequently used route.",
+      "( geometry ) Perpendicular to a tangent of a curve or tangent plane of a surface."
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 4,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "anormal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 5,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "ordinary , usual , typical",
+        "examples": [],
+        "synonyms": [
+          "typisk",
+          "almindelig"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "scheduled , planned",
+            "examples": [],
+            "synonyms": [
+              "planmæssig",
+              "ordinær"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "without deficiencies , working as it is should ( living beings, organs etc. )",
+            "examples": [],
+            "synonyms": [
+              "rask",
+              "velfungerende"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "average",
+            "examples": [],
+            "synonyms": [
+              "gennemsnitlig"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "ordinary , usual , typical",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 6,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal ( according to norms, usual )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( relational ) normal ( relating to a school to teach teachers how to teach )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "okay , alright",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "anormal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal ( according to norms, usual )",
+    "secondary_definitions": [
+      "( relational ) normal ( relating to a school to teach teachers how to teach )",
+      "okay , alright"
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 7,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "normaler",
+          "SUP": "am"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "ordinary , normal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "ordinary , normal",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 12,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal , ordinary",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unormal"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal , ordinary",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 14,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal , standard , regular",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( geometry ) normal ( perpendicular to a tangent of a curve or derivative of a surface )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal , standard , regular",
+    "secondary_definitions": [
+      "( geometry ) normal ( perpendicular to a tangent of a curve or derivative of a surface )"
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 16,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal , standard , regular , fine",
+        "examples": [
+          "A mi me parece normal ."
+        ],
+        "synonyms": [
+          "regular",
+          "común"
+        ],
+        "antonyms": [
+          "anormal",
+          "raro",
+          "poco",
+          "común"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( geometry ) perpendicular",
+        "examples": [],
+        "synonyms": [
+          "perpendicular"
+        ],
+        "antonyms": [
+          "oblicuo",
+          "paralelo"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal , standard , regular , fine",
+    "secondary_definitions": [
+      "( geometry ) perpendicular"
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 17,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "normalare",
+          "SUP": "normalast"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "abnorm",
+          "onaturlig",
+          "onormal",
+          "sjuklig"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal",
+    "secondary_definitions": []
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 18,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal ( according to norms or rules )",
+        "examples": [],
+        "synonyms": [
+          "regular"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "normal ( usual, ordinary )",
+        "examples": [],
+        "synonyms": [
+          "karaniwan",
+          "regular"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "normal ( healthy; not sick or ill )",
+        "examples": [],
+        "synonyms": [
+          "matino",
+          "mabuti"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( education ) normal ( pertaining to a school to teach teachers how to teach )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chemistry ) normal ( of, relating to, or being a solution containing one equivalent weight of solute per litre of solution )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal ( according to norms or rules )",
+    "secondary_definitions": [
+      "normal ( usual, ordinary )",
+      "normal ( healthy; not sick or ill )",
+      "( education ) normal ( pertaining to a school to teach teachers how to teach )",
+      "( chemistry ) normal ( of, relating to, or being a solution containing one equivalent weight of solute per litre of solution )"
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 19,
+    "pronunciation": "/ˈnɔːml̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "normal",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "regular",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "usual",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "normal",
+    "secondary_definitions": [
+      "regular",
+      "usual"
+    ]
+  }
+]

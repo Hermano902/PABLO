@@ -1,0 +1,194 @@
+[
+  {
+    "word": "rank",
+    "lemma": "rank",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹæŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ranks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A row of people or things organized in a grid pattern, often soldiers .",
+        "examples": [
+          "The front rank kneeled to reload while the second rank fired over their heads."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "file"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of the eight horizontal lines of squares on a chessboard (i.e., those identified by a number).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "file"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      },
+      {
+        "definition": "The value of a playing card.",
+        "examples": [
+          "The ranks are 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, and Ace."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "card games"
+        ],
+        "label_groups": "card games"
+      },
+      {
+        "definition": "In a pipe organ , a set of pipes of a certain quality for which each pipe corresponds to one key or pedal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "One's position in a list sorted by a shared property such as physical location , population , popularity , or quality .",
+        "examples": [
+          "Based on your test scores, you have a rank of 23.",
+          "The fancy hotel was of the first rank ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The level of one's position in a class-based society.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A category of people, such as those who share an occupation or belong to an organisation.",
+        "examples": [
+          "a membership drawn from the ranks of wealthy European businessmen"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typically in the plural"
+        ],
+        "label_groups": "typically in the plural"
+      },
+      {
+        "definition": "A hierarchical level in an organization such as the military .",
+        "examples": [
+          "Private First Class (PFC) is the second-lowest rank in the Marines.",
+          "He rose up through the ranks of the company, from mailroom clerk to CEO."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A level in a scientific taxonomy system.",
+        "examples": [
+          "Phylum is the taxonomic rank below kingdom and above class."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "The dimensionality of an array ( computing ) or tensor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The maximal number of linearly independent columns (or rows) of a matrix .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      },
+      {
+        "definition": "The maximum quantity of D - linearly independent elements of a module (over an integral domain D ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "The size of any basis of a given matroid .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "A row of people or things organized in a grid pattern, often soldiers .",
+    "secondary_definitions": [
+      "( chess ) One of the eight horizontal lines of squares on a chessboard (i.e., those identified by a number).",
+      "( card games ) The value of a playing card.",
+      "( music ) In a pipe organ , a set of pipes of a certain quality for which each pipe corresponds to one key or pedal .",
+      "One's position in a list sorted by a shared property such as physical location , population , popularity , or quality .",
+      "The level of one's position in a class-based society.",
+      "( typically in the plural ) A category of people, such as those who share an occupation or belong to an organisation.",
+      "A hierarchical level in an organization such as the military .",
+      "( taxonomy ) A level in a scientific taxonomy system.",
+      "( mathematics ) The dimensionality of an array ( computing ) or tensor .",
+      "( linear algebra ) The maximal number of linearly independent columns (or rows) of a matrix .",
+      "( algebra ) The maximum quantity of D - linearly independent elements of a module (over an integral domain D ).",
+      "( mathematics ) The size of any basis of a given matroid ."
+    ]
+  }
+]

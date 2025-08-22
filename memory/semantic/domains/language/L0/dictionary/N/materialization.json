@@ -1,0 +1,58 @@
+[
+  {
+    "word": "materialization",
+    "lemma": "materialization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "materializations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The conversion of something into a physical form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The conversion of energy into mass .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "The creation of a temporary table containing the results of a database query .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "The conversion of something into a physical form.",
+    "secondary_definitions": [
+      "( physics ) The conversion of energy into mass .",
+      "( databases ) The creation of a temporary table containing the results of a database query ."
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "plausibly",
+    "lemma": "plausibly",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more plausibly",
+          "SUP": "most plausibly"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In a plausible manner.",
+        "examples": [
+          "She lied plausibly , but the police suspected her anyway."
+        ],
+        "synonyms": [
+          "believably",
+          "credibly"
+        ],
+        "antonyms": [
+          "implausibly",
+          "unbelievably",
+          "incredibly"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manner"
+        ],
+        "label_groups": "manner"
+      },
+      {
+        "definition": "Probably; not falsifiably, based on available facts and general knowledge.",
+        "examples": [
+          "Plausibly , she said she'd been working at the time."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "modal"
+        ],
+        "label_groups": "modal"
+      }
+    ],
+    "main_definition": "( manner ) In a plausible manner.",
+    "secondary_definitions": [
+      "( modal ) Probably; not falsifiably, based on available facts and general knowledge."
+    ]
+  }
+]

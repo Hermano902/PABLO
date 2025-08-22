@@ -1,0 +1,110 @@
+[
+  {
+    "word": "calcine",
+    "lemma": "calcine",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkælsaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "calcines",
+          "PT": "calcined",
+          "PAP": "calcined",
+          "PRP": "calcining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To heat (a substance ) to remove its impurities and refine it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "alchemy",
+              "historical"
+            ],
+            "label_groups": "alchemy , historical"
+          },
+          {
+            "definition": "To heat (a substance) without melting in order to drive off water , etc., and to oxidize or reduce it; specifically, to decompose ( carbonates ) into oxides , and, especially, to heat ( limestone ) to form quicklime .",
+            "examples": [],
+            "synonyms": [
+              "calcinate",
+              "chark"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physical chemistry"
+            ],
+            "label_groups": "physical chemistry"
+          },
+          {
+            "definition": "To heat (something) to dry and sterilize it.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension"
+            ],
+            "label_groups": "by extension"
+          },
+          {
+            "definition": "To purify or refine (something). To burn up (something) completely ; to incinerate ; hence, to destroy (something).",
+            "examples": [],
+            "synonyms": [
+              "calcinize"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figuratively"
+            ],
+            "label_groups": "figuratively"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of a substance: to undergo heating so as to oxidize it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "physical chemistry"
+        ],
+        "label_groups": "intransitive , physical chemistry"
+      }
+    ],
+    "main_definition": "( transitive )",
+    "secondary_definitions": [
+      "( intransitive , physical chemistry ) Of a substance: to undergo heating so as to oxidize it."
+    ]
+  }
+]

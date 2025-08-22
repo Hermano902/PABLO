@@ -1,0 +1,93 @@
+[
+  {
+    "word": "static",
+    "lemma": "static",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈstæt.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unchanging ; that cannot or does not change .",
+        "examples": [],
+        "synonyms": [
+          "stable"
+        ],
+        "antonyms": [
+          "dynamic"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Making no progress ; stalled, without movement or advancement.",
+        "examples": [],
+        "synonyms": [
+          "stuck"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Immobile ; fixed in place; having no motion .",
+        "examples": [],
+        "synonyms": [
+          "stuck",
+          "unmovable"
+        ],
+        "antonyms": [
+          "dynamic",
+          "kinetic",
+          "mobile",
+          "moving"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Computed , created , or allocated before the program starts running, as opposed to at runtime .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "dynamic",
+          "nonstatic"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Define d for the class itself, as opposed to instances of it; thus shared between all instances and accessible even without an instance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "Unchanging ; that cannot or does not change .",
+    "secondary_definitions": [
+      "Making no progress ; stalled, without movement or advancement.",
+      "Immobile ; fixed in place; having no motion .",
+      "( programming ) Computed , created , or allocated before the program starts running, as opposed to at runtime .",
+      "( object-oriented programming ) Define d for the class itself, as opposed to instances of it; thus shared between all instances and accessible even without an instance."
+    ]
+  }
+]

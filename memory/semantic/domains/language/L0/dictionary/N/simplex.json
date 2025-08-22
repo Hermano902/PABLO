@@ -1,0 +1,90 @@
+[
+  {
+    "word": "simplex",
+    "lemma": "simplex",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪmplɛks/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "simplexes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A generalization of a triangle or tetrahedron to an arbitrary dimension , the generalization being the simplest possible convex polytope for a given dimension; more accurately , the convex hull of n + 1 {\\displaystyle n+1} affinely independent points in n {\\displaystyle n} - dimensional space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebraic topology",
+          "geometry"
+        ],
+        "label_groups": "algebraic topology , geometry"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A word which is not compound and contains no derivational affixes ( inflectional affixes are usually disregarded ); a monomorphemic word.",
+            "examples": [
+              "The word weak is a simplex . Its derivative weaken is not.",
+              "weak",
+              "weaken"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "In full simplex sentence : in transformational grammar : a simple sentence which is the product of a few transformations ; a kernel sentence.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "grammar",
+              "archaic"
+            ],
+            "label_groups": "grammar , archaic"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "An apartment (or, sometimes, another type of property ) having only one floor or storey ; a single-storey property.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "originally",
+          "chiefly US"
+        ],
+        "label_groups": "originally and chiefly US"
+      }
+    ],
+    "main_definition": "( algebraic topology , geometry ) A generalization of a triangle or tetrahedron to an arbitrary dimension , the generalization being the simplest possible convex polytope for a given dimension; more accurately , the convex hull of n + 1 {\\displaystyle n+1} affinely independent points in n {\\displaystyle n} - dimensional space .",
+    "secondary_definitions": [
+      "( linguistics )",
+      "( originally and chiefly US ) An apartment (or, sometimes, another type of property ) having only one floor or storey ; a single-storey property."
+    ]
+  }
+]

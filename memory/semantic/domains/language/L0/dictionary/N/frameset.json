@@ -1,0 +1,51 @@
+[
+  {
+    "word": "frameset",
+    "lemma": "frameset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "framesets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A bicycle 's frame plus the front fork .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cycling"
+        ],
+        "label_groups": "cycling"
+      },
+      {
+        "definition": "The set of frames that constitute the layout of a webpage .",
+        "examples": [
+          "The reloading of the frameset is obviously less attractive than simply changing the location of one frame."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      }
+    ],
+    "main_definition": "( cycling ) A bicycle 's frame plus the front fork .",
+    "secondary_definitions": [
+      "( Internet ) The set of frames that constitute the layout of a webpage ."
+    ]
+  }
+]

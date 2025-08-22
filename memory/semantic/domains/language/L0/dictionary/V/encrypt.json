@@ -1,0 +1,43 @@
+[
+  {
+    "word": "encrypt",
+    "lemma": "encrypt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkɹɪpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "encrypts",
+          "PT": "encrypted",
+          "PAP": "encrypted",
+          "PRP": "encrypting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To conceal information by means of a code or cipher .",
+        "examples": [
+          "All messages on this platform are doubly encrypted to increase security."
+        ],
+        "synonyms": [
+          "encode"
+        ],
+        "antonyms": [
+          "decode",
+          "decrypt"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To conceal information by means of a code or cipher .",
+    "secondary_definitions": []
+  }
+]

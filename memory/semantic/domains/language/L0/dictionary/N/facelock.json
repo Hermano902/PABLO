@@ -1,0 +1,45 @@
+[
+  {
+    "word": "facelock",
+    "lemma": "facelock",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "facelocks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A type of headlock in which the opponent's head is clamped around the face .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "wrestling"
+        ],
+        "label_groups": "wrestling"
+      },
+      {
+        "definition": "A security protocol based on the attempted user's recognition of faces known to the account owner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( wrestling ) A type of headlock in which the opponent's head is clamped around the face .",
+    "secondary_definitions": [
+      "A security protocol based on the attempted user's recognition of faces known to the account owner."
+    ]
+  }
+]

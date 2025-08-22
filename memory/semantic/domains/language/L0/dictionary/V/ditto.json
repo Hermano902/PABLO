@@ -1,0 +1,57 @@
+[
+  {
+    "word": "ditto",
+    "lemma": "ditto",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɪtəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dittos",
+          "PT": "dittoed",
+          "PAP": "dittoed",
+          "PRP": "dittoing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To repeat the aforesaid, the earlier action etc.",
+        "examples": [],
+        "synonyms": [
+          "ape",
+          "echo"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make a copy using a ditto machine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      }
+    ],
+    "main_definition": "( transitive ) To repeat the aforesaid, the earlier action etc.",
+    "secondary_definitions": [
+      "( US ) To make a copy using a ditto machine ."
+    ]
+  }
+]

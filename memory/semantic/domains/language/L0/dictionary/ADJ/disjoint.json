@@ -1,0 +1,46 @@
+[
+  {
+    "word": "disjoint",
+    "lemma": "disjoint",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪsˈd͡ʒɔɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more disjoint",
+          "SUP": "most disjoint"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not smooth or continuous ; disjointed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of two or more sets , having no members in common; having an intersection equal to the empty set .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "set theory",
+          "not comparable"
+        ],
+        "label_groups": "set theory , not comparable"
+      }
+    ],
+    "main_definition": "Not smooth or continuous ; disjointed .",
+    "secondary_definitions": [
+      "( set theory , not comparable ) Of two or more sets , having no members in common; having an intersection equal to the empty set ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "ballot",
+    "lemma": "ballot",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbælət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ballots",
+          "PT": "balloted",
+          "PAP": "balloted",
+          "PRP": "balloting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To vote or decide by ballot.",
+        "examples": [
+          "to ballot for a candidate"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To draw lots .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To invite to vote on a proposal .",
+        "examples": [
+          "The trade union balloted its members for strike action."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To vote or decide by ballot.",
+    "secondary_definitions": [
+      "( intransitive ) To draw lots .",
+      "( transitive ) To invite to vote on a proposal ."
+    ]
+  }
+]

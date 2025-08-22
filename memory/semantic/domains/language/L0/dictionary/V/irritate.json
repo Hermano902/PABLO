@@ -1,0 +1,114 @@
+[
+  {
+    "word": "irritate",
+    "lemma": "irritate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪɹ.ɪˌteɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "irritates",
+          "PT": "irritated",
+          "PAP": "irritated",
+          "PRP": "irritating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To provoke impatience , anger , or displeasure in.",
+        "examples": [],
+        "synonyms": [
+          "provoke",
+          "rile"
+        ],
+        "antonyms": [
+          "placate",
+          "please",
+          "soothe"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To cause or induce displeasure or irritation .",
+        "examples": [],
+        "synonyms": [
+          "abrade",
+          "chafe",
+          "grate",
+          "rankle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To induce pain in (all or part of a body or organism).",
+        "examples": [],
+        "synonyms": [
+          "afflict",
+          "pang"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To provoke impatience , anger , or displeasure in.",
+    "secondary_definitions": [
+      "( intransitive ) To cause or induce displeasure or irritation .",
+      "( transitive ) To induce pain in (all or part of a body or organism)."
+    ]
+  },
+  {
+    "word": "irritate",
+    "lemma": "irritate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈɪɹ.ɪˌteɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "irritates",
+          "PT": "irritated",
+          "PAP": "irritated",
+          "PRP": "irritating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To render null and void .",
+        "examples": [],
+        "synonyms": [
+          "annul",
+          "nullify",
+          "invalidate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete",
+          "Scots law"
+        ],
+        "label_groups": "transitive , obsolete , Scots law"
+      }
+    ],
+    "main_definition": "( transitive , obsolete , Scots law ) To render null and void .",
+    "secondary_definitions": []
+  }
+]

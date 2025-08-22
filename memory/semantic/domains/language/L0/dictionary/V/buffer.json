@@ -1,0 +1,79 @@
+[
+  {
+    "word": "buffer",
+    "lemma": "buffer",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʌfə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "buffers",
+          "PT": "buffered",
+          "PAP": "buffered",
+          "PRP": "buffering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use a buffer or buffers; to isolate or minimize the effects of one thing on another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To queue up (an input) so that it is performed immediately once it is possible.",
+            "examples": [
+              "Some games let you buffer jumps—if you hold the jump button mid-air, your character will jump as soon as they touch the ground."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "video games"
+            ],
+            "label_groups": "video games"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To store (data) in memory temporarily while it is awaiting processing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive or intransitive",
+          "computing"
+        ],
+        "label_groups": "transitive or intransitive , computing"
+      },
+      {
+        "definition": "To maintain the acidity of a solution near a chosen value by adding an acid or a base.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "To use a buffer or buffers; to isolate or minimize the effects of one thing on another.",
+    "secondary_definitions": [
+      "( transitive or intransitive , computing ) To store (data) in memory temporarily while it is awaiting processing.",
+      "( chemistry ) To maintain the acidity of a solution near a chosen value by adding an acid or a base."
+    ]
+  }
+]

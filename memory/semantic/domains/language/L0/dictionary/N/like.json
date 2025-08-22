@@ -1,0 +1,102 @@
+[
+  {
+    "word": "like",
+    "lemma": "like",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/laɪ̯k/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "likes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( chiefly in the plural ) Something that a person likes (prefers).",
+        "examples": [
+          "Tell me your likes and dislikes."
+        ],
+        "synonyms": [
+          "favorite",
+          "preference"
+        ],
+        "antonyms": [
+          "dislike",
+          "pet hate",
+          "pet peeve"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( Internet ) An individual vote showing support for, approval of, or enjoyment of, something posted on the Internet.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( chiefly in the plural ) Something that a person likes (prefers).",
+    "secondary_definitions": [
+      "( Internet ) An individual vote showing support for, approval of, or enjoyment of, something posted on the Internet."
+    ]
+  },
+  {
+    "word": "like",
+    "lemma": "like",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/laɪ̯k/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "likes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone similar to a given person, or something similar to a given object; a comparative; a type ; a sort .",
+        "examples": [
+          "There were bowls full of sweets, chocolates and the like .",
+          "This is something the likes of which I've never seen before, and we should compare like with like instead."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sometimes as the likes of"
+        ],
+        "label_groups": "sometimes as the likes of"
+      },
+      {
+        "definition": "The stroke that equalizes the number of strokes played by the opposing player or side.",
+        "examples": [
+          "to play the like"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "golf"
+        ],
+        "label_groups": "golf"
+      }
+    ],
+    "main_definition": "(sometimes as the likes of ) Someone similar to a given person, or something similar to a given object; a comparative; a type ; a sort .",
+    "secondary_definitions": [
+      "( golf ) The stroke that equalizes the number of strokes played by the opposing player or side."
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "export",
+    "lemma": "export",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛks.pɔːt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "exports"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that is exported .",
+        "examples": [
+          "Oil is the main export of Saudi Arabia."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "The act of exporting .",
+        "examples": [
+          "The export of fish is forbidden in this country."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "( countable ) Something that is exported .",
+    "secondary_definitions": [
+      "( uncountable ) The act of exporting ."
+    ]
+  }
+]

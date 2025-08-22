@@ -1,0 +1,106 @@
+[
+  {
+    "word": "exchange",
+    "lemma": "exchange",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɛksˈt͡ʃeɪnd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "exchanges",
+          "PT": "exchanged",
+          "PAP": "exchanged",
+          "PRP": "exchanging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To trade or barter .",
+        "examples": [
+          "I'll gladly exchange my place for yours."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mutually direct at each other.",
+        "examples": [
+          "The opposing soldiers exchanged fire across the burning streets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      },
+      {
+        "definition": "To replace with, as a substitute.",
+        "examples": [
+          "I'd like to exchange this shirt for one in a larger size.",
+          "Since his arrest, the mob boss has exchanged a mansion for a jail cell."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Clipping of exchange contracts .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "England",
+          "Wales",
+          "Northern Ireland"
+        ],
+        "label_groups": "law , England and Wales , Northern Ireland"
+      },
+      {
+        "definition": "To recommend and get recommendations .",
+        "examples": [],
+        "synonyms": [
+          "trade"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To trade or barter .",
+    "secondary_definitions": [
+      "( transitive , figurative ) To mutually direct at each other.",
+      "( transitive ) To replace with, as a substitute.",
+      "( law , England and Wales , Northern Ireland ) Clipping of exchange contracts .",
+      "( transitive ) To recommend and get recommendations ."
+    ]
+  }
+]

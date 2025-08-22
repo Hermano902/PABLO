@@ -1,0 +1,90 @@
+[
+  {
+    "word": "einstein",
+    "lemma": "einstein",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "einsteins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( photochemistry , dated ) One mole of photons , regardless of frequency , as used to measure irradiance .",
+        "examples": [
+          "The einstein (symbol E) is an obsolete unit with two conflicting definitions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( informal ) A genius ; a very smart person.",
+        "examples": [
+          "He's a prodigy — they call him their little einstein ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( by extension , informal , sarcastic ) An idiot ; a very stupid person.",
+            "examples": [
+              "Yeah, that guy is a real einstein — he always finds a way to mess up the simplest order."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "( photochemistry , dated ) One mole of photons , regardless of frequency , as used to measure irradiance .",
+    "secondary_definitions": [
+      "( informal ) A genius ; a very smart person."
+    ]
+  },
+  {
+    "word": "einstein",
+    "lemma": "einstein",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "einsteins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A shape that can be repeated to cover a plane with a nonrepeating pattern .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "physics"
+        ],
+        "label_groups": "mathematics , physics"
+      }
+    ],
+    "main_definition": "( mathematics , physics ) A shape that can be repeated to cover a plane with a nonrepeating pattern .",
+    "secondary_definitions": []
+  }
+]

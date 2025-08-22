@@ -1,0 +1,104 @@
+[
+  {
+    "word": "unionize",
+    "lemma": "unionize",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈjuːnjənaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unionizes",
+          "PT": "unionized",
+          "PAP": "unionized",
+          "PRP": "unionizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( ambitransitive ) To organize workers into a union .",
+        "examples": [
+          "The company laid off all the workers when they tried to unionize .",
+          "My uncle got roughed up by some corporate thugs after they caught him trying to unionize their workers.",
+          "She attended a teach-in to learn how to unionize her workplace."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( ambitransitive ) To organize workers into a union .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "unionize",
+    "lemma": "unionize",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈjuːnjənaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unionizes",
+          "PT": "unionized",
+          "PAP": "unionized",
+          "PRP": "unionizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Synonym of deionize .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To cause (an ionized substance ) to return to a neutral state ; to convert (an ion) into a neutral atom or molecule .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "Of an ionized substance , to return to a neutral state .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physical chemistry",
+          "rare"
+        ],
+        "label_groups": "physical chemistry , rare"
+      }
+    ],
+    "main_definition": "( physical chemistry , rare ) Synonym of deionize .",
+    "secondary_definitions": []
+  }
+]

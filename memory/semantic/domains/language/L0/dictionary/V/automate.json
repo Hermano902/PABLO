@@ -1,0 +1,43 @@
+[
+  {
+    "word": "automate",
+    "lemma": "automate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔː.tə.meɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "automates",
+          "PT": "automated",
+          "PAP": "automated",
+          "PRP": "automating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To replace or enhance human labor with machines .",
+        "examples": [
+          "Many offices still need to automate .",
+          "We saved time and money by automating the process."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To replace or enhance human labor with machines .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "apocope",
+    "lemma": "apocope",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/əˈpɒ.kə.pi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "apocopes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The loss or omission of the last vowel in a word, together with any consonants that follow it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "paragoge"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "phonetics",
+          "prosody",
+          "strictly"
+        ],
+        "label_groups": "phonetics , prosody , strictly"
+      },
+      {
+        "definition": "The loss or omission of a sound or syllable from the end of a word .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "procope"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      }
+    ],
+    "main_definition": "( phonetics , prosody , strictly ) The loss or omission of the last vowel in a word, together with any consonants that follow it.",
+    "secondary_definitions": [
+      "( loosely ) The loss or omission of a sound or syllable from the end of a word ."
+    ]
+  }
+]

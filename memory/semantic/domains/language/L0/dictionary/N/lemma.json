@@ -1,0 +1,108 @@
+[
+  {
+    "word": "lemma",
+    "lemma": "lemma",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛmə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lemmas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( mathematics ) A proposition proved or accepted for immediate use in the proof of some other proposition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( in phrases , by extension ) A proposition originally used for such a purpose, but having later acquired a greater, independent, importance; a fundamental (often pithy ) and widely-used result .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( linguistics , lexicography ) The canonical form of an inflected word; i.e., the form usually found as the headword in a dictionary , such as the nominative singular of a noun, the bare infinitive of a verb, etc.",
+        "examples": [],
+        "synonyms": [
+          "lexeme"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( psycholinguistics ) The theoretical abstract conceptual form of a word, representing a specific meaning, before the creation of a specific phonological form as the sounds of a lexeme , which may find representation in a specific written form as a dictionary or lexicographic word.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( mathematics ) A proposition proved or accepted for immediate use in the proof of some other proposition.",
+    "secondary_definitions": [
+      "( linguistics , lexicography ) The canonical form of an inflected word; i.e., the form usually found as the headword in a dictionary , such as the nominative singular of a noun, the bare infinitive of a verb, etc.",
+      "( psycholinguistics ) The theoretical abstract conceptual form of a word, representing a specific meaning, before the creation of a specific phonological form as the sounds of a lexeme , which may find representation in a specific written form as a dictionary or lexicographic word."
+    ]
+  },
+  {
+    "word": "lemma",
+    "lemma": "lemma",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈlɛmə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lemmas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The outer shell of a fruit or similar body.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "One of the specialized bracts around the floret in grasses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      }
+    ],
+    "main_definition": "( botany ) The outer shell of a fruit or similar body.",
+    "secondary_definitions": [
+      "( botany ) One of the specialized bracts around the floret in grasses ."
+    ]
+  }
+]

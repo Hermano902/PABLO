@@ -1,0 +1,99 @@
+[
+  {
+    "word": "confluence",
+    "lemma": "confluence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.flu.əns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "confluences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of combining that occurs where two rivers meet.",
+        "examples": [
+          "The confluence of the rivers produced a great rush of water."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The place where two rivers , streams , or other continuously flowing bodies of water meet and become one, especially where a tributary joins a river.",
+            "examples": [
+              "We encountered an abandoned boat at the confluence of the Mississippi and Ohio Rivers."
+            ],
+            "synonyms": [
+              "watersmeet"
+            ],
+            "antonyms": [
+              "fork",
+              "branch"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The stream or body formed by the junction of two or more streams; a combined flood .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A convergence or combination of forces , people , or things .",
+        "examples": [
+          "The confluence of our skills resulted in a successful home renovation project.",
+          "The political turmoil was the result of a confluence of factors, and the corollary of years of misrule, as evidenced by a low home ownership rate incommensurate with the economic growth."
+        ],
+        "synonyms": [
+          "coinfluence"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The proportion of cells , in a culture medium , that adhere to each other.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "A property describing which terms can be rewritten with other, equivalent terms.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "in rewriting systems"
+        ],
+        "label_groups": "computer science , in rewriting systems"
+      }
+    ],
+    "main_definition": "The act of combining that occurs where two rivers meet.",
+    "secondary_definitions": [
+      "A convergence or combination of forces , people , or things .",
+      "( biology ) The proportion of cells , in a culture medium , that adhere to each other.",
+      "( computer science , in rewriting systems ) A property describing which terms can be rewritten with other, equivalent terms."
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "borrow",
+    "lemma": "borrow",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɒɹ.əʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "borrows"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( golf , countable , uncountable ) Deviation of the path of a rolling ball from a straight line; slope; slant.",
+        "examples": [
+          "This putt has a big left-to right borrow on it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( construction , civil engineering ) A borrow pit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( programming ) In the Rust programming language, the situation where the ownership of a value is temporarily transferred to another region of code.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( golf , countable , uncountable ) Deviation of the path of a rolling ball from a straight line; slope; slant.",
+    "secondary_definitions": [
+      "( construction , civil engineering ) A borrow pit .",
+      "( programming ) In the Rust programming language, the situation where the ownership of a value is temporarily transferred to another region of code."
+    ]
+  },
+  {
+    "word": "borrow",
+    "lemma": "borrow",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈbɒɹ.əʊ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "borrows"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A ransom ; a pledge or guarantee .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "A surety ; someone standing bail .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      }
+    ],
+    "main_definition": "( archaic ) A ransom ; a pledge or guarantee .",
+    "secondary_definitions": [
+      "( archaic ) A surety ; someone standing bail ."
+    ]
+  }
+]

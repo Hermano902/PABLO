@@ -1,0 +1,36 @@
+[
+  {
+    "word": "coset",
+    "lemma": "coset",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cosets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The set that results from applying a group's binary operation with a given fixed element of the group on each element of a given subgroup .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "group theory"
+        ],
+        "label_groups": "algebra , group theory"
+      }
+    ],
+    "main_definition": "( algebra , group theory ) The set that results from applying a group's binary operation with a given fixed element of the group on each element of a given subgroup .",
+    "secondary_definitions": []
+  }
+]

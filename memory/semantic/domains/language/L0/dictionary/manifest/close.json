@@ -1,0 +1,47 @@
+{
+  "word": "close",
+  "pos_order": [
+    "V",
+    "N",
+    "ADJ",
+    "ADV",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 25,
+      "examples": 25,
+      "synonyms": 20,
+      "antonyms": 13,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 13,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 30,
+      "examples": 29,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADV": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\close.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\close.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\close.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\close.json"
+  },
+  "timestamp": "2025-08-19T00:04:26.688814Z"
+}

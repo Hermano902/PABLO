@@ -1,0 +1,70 @@
+[
+  {
+    "word": "wiki",
+    "lemma": "wiki",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɪki/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wikis",
+          "PT": "wikied",
+          "PAP": "wikied",
+          "PRP": "wikiing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To research on Wikipedia or some similar wiki.",
+        "examples": [
+          "To get an understanding of the topics, he quickly went online and wikied each one."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive"
+        ],
+        "label_groups": "transitive , intransitive"
+      },
+      {
+        "definition": "To contribute to a wiki.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To participate in the wiki-based production of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive , intransitive ) To research on Wikipedia or some similar wiki.",
+    "secondary_definitions": [
+      "( intransitive ) To contribute to a wiki.",
+      "( transitive ) To participate in the wiki-based production of."
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "word": "prune",
+    "lemma": "prune",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹuːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prunes",
+          "PT": "pruned",
+          "PAP": "pruned",
+          "PRP": "pruning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( intransitive , informal ) To become wrinkled like a dried plum, as the fingers and toes do when kept submerged in water.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive , informal ) To become wrinkled like a dried plum, as the fingers and toes do when kept submerged in water.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "prune",
+    "lemma": "prune",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/pɹuːn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "prunes",
+          "PT": "pruned",
+          "PAP": "pruned",
+          "PRP": "pruning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove excess material from a tree or shrub ; to trim , especially to make more healthy or productive.",
+        "examples": [
+          "A good grape grower will prune the vines once a year."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "horticulture"
+        ],
+        "label_groups": "transitive , horticulture"
+      },
+      {
+        "definition": "To cut down or shorten (by the removal of unnecessary material).",
+        "examples": [
+          "to prune a budget, or an essay"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To remove (something unnecessary) for the sake of cutting down or shortening that which it was previously part of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove unnecessary branches from a tree data structure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer science"
+        ],
+        "label_groups": "transitive , computer science"
+      },
+      {
+        "definition": "to trim the feathers with the beak",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "falconry"
+        ],
+        "label_groups": "obsolete , falconry"
+      },
+      {
+        "definition": "To preen ; to prepare ; to dress .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive , horticulture ) To remove excess material from a tree or shrub ; to trim , especially to make more healthy or productive.",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To cut down or shorten (by the removal of unnecessary material).",
+      "( transitive ) To remove (something unnecessary) for the sake of cutting down or shortening that which it was previously part of.",
+      "( transitive , computer science ) To remove unnecessary branches from a tree data structure .",
+      "( obsolete , falconry ) to trim the feathers with the beak",
+      "( obsolete ) To preen ; to prepare ; to dress ."
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "word": "alternate",
+    "lemma": "alternate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒlʈa(ɾ)neːʈ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "alternates",
+          "PT": "alternated",
+          "PAP": "alternated",
+          "PRP": "alternating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform by turns , or in succession ; to cause to succeed by turns; to interchange regularly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To happen, succeed, or act by turns ; to follow reciprocally in place or time; followed by with .",
+        "examples": [
+          "The flood and ebb tides alternate with each other."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To vary by turns .",
+        "examples": [
+          "The land alternates between rocky hills and sandy plains."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To perform an alternation (removal of alternate vertices ) on (a polytope or tessellation ); to remove vertices (from a face or edge) as part of an alternation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "geometry"
+        ],
+        "label_groups": "transitive , geometry"
+      }
+    ],
+    "main_definition": "( transitive ) To perform by turns , or in succession ; to cause to succeed by turns; to interchange regularly.",
+    "secondary_definitions": [
+      "( intransitive ) To happen, succeed, or act by turns ; to follow reciprocally in place or time; followed by with .",
+      "( intransitive ) To vary by turns .",
+      "( transitive , geometry ) To perform an alternation (removal of alternate vertices ) on (a polytope or tessellation ); to remove vertices (from a face or edge) as part of an alternation."
+    ]
+  }
+]

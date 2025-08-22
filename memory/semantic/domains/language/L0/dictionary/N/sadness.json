@@ -1,0 +1,58 @@
+[
+  {
+    "word": "sadness",
+    "lemma": "sadness",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsædnəs/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sadnesses"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state or emotion of being sad .",
+        "examples": [],
+        "synonyms": [
+          "forlornness",
+          "melancholy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An event in one's life that causes sadness.",
+        "examples": [
+          "She has experienced many sadnesses in her forty years."
+        ],
+        "synonyms": [
+          "misfortune",
+          "woe"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The state or emotion of being sad .",
+    "secondary_definitions": [
+      "( countable ) An event in one's life that causes sadness."
+    ]
+  }
+]

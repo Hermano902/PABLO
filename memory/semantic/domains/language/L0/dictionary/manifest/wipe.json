@@ -1,0 +1,31 @@
+{
+  "word": "wipe",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 12,
+      "examples": 9,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\wipe.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\wipe.json"
+  },
+  "timestamp": "2025-08-19T21:02:48.948438Z"
+}

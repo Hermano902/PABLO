@@ -1,0 +1,78 @@
+[
+  {
+    "word": "permutation",
+    "lemma": "permutation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɜː.mjʊˈteɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "permutations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One of the ways something exists, or the ways a set of objects can be ordered.",
+        "examples": [
+          "Which permutation for completing our agenda items makes the most sense?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A one-to-one mapping from a finite set to itself.",
+        "examples": [
+          "This permutation takes each element to the one following it, with the last mapped back to the first."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An ordering of a finite set of distinct elements.",
+        "examples": [
+          "There are six permutations of three elements, e.g. {abc, acb, bac, bca, cab, cba}."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "combinatorics"
+        ],
+        "label_groups": "mathematics , combinatorics"
+      },
+      {
+        "definition": "A transformation of a set 's prime form , by applying one or more of certain operations, specifically, transposition , inversion , and retrograde .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "One of the ways something exists, or the ways a set of objects can be ordered.",
+    "secondary_definitions": [
+      "( mathematics ) A one-to-one mapping from a finite set to itself.",
+      "( mathematics , combinatorics ) An ordering of a finite set of distinct elements.",
+      "( music ) A transformation of a set 's prime form , by applying one or more of certain operations, specifically, transposition , inversion , and retrograde ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "descending",
+    "lemma": "descending",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈsɛn.dɪŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Moving or sloping downwards .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ordered such that each element is less than or equal to the previous element. ( of a sequence )",
+        "examples": [
+          "Please arrange these numbers in a descending order."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Causing a sequence to follow a descending order.",
+            "examples": [
+              "We used a descending sort."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Becoming lower in pitch .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "Moving or sloping downwards .",
+    "secondary_definitions": [
+      "Ordered such that each element is less than or equal to the previous element. ( of a sequence )",
+      "( music ) Becoming lower in pitch ."
+    ]
+  }
+]

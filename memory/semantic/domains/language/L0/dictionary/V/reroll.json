@@ -1,0 +1,85 @@
+[
+  {
+    "word": "reroll",
+    "lemma": "reroll",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rerolls",
+          "PT": "rerolled",
+          "PAP": "rerolled",
+          "PRP": "rerolling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To roll , or roll out, again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To roll (dice) again.",
+        "examples": [
+          "A player who rolls two sixes can reroll the dice for an additional turn.",
+          "You can reroll if you don't like your character's initial stats."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "dice games"
+        ],
+        "label_groups": "ambitransitive , dice games"
+      },
+      {
+        "definition": "To convert (an unrolled instruction sequence) back into a loop .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To try again for a different result.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gaming"
+        ],
+        "label_groups": "gaming"
+      }
+    ],
+    "main_definition": "( transitive ) To roll , or roll out, again.",
+    "secondary_definitions": [
+      "( ambitransitive , dice games ) To roll (dice) again.",
+      "( transitive , programming ) To convert (an unrolled instruction sequence) back into a loop .",
+      "( gaming ) To try again for a different result."
+    ]
+  }
+]

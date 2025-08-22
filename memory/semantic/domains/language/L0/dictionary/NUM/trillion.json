@@ -1,0 +1,80 @@
+[
+  {
+    "word": "trillion",
+    "lemma": "trillion",
+    "etymology": "Etymology 1",
+    "pos": "NUM",
+    "raw_label": "Numeral",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹɪljən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {}
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Either of two large amounts:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A million (times a) million : 1 followed by twelve zeros, 10 .",
+            "examples": [],
+            "synonyms": [
+              "billion",
+              "long scale"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US",
+              "modern British",
+              "Australia",
+              "short scale"
+            ],
+            "label_groups": "US , modern British , Australia , short scale"
+          },
+          {
+            "definition": "A million (times a) million (times a) million : 1 followed by eighteen zeros, 10 .",
+            "examples": [],
+            "synonyms": [
+              "quintillion"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "dated British",
+              "Australia",
+              "long scale"
+            ],
+            "label_groups": "dated British , Australia , long scale"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "An unspecified very large number.",
+        "examples": [
+          "There were trillions of people at the concert."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial",
+          "hyperbolic"
+        ],
+        "label_groups": "colloquial , hyperbolic"
+      }
+    ],
+    "main_definition": "Either of two large amounts:",
+    "secondary_definitions": [
+      "( colloquial , hyperbolic ) An unspecified very large number."
+    ]
+  }
+]

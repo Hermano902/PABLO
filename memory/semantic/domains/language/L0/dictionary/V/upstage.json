@@ -1,0 +1,91 @@
+[
+  {
+    "word": "upstage",
+    "lemma": "upstage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌpˈsteɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "upstages",
+          "PT": "upstaged",
+          "PAP": "upstaged",
+          "PRP": "upstaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw attention away from others, especially on-stage.",
+        "examples": [
+          "She only wore that dress to upstage everyone."
+        ],
+        "synonyms": [
+          "eclipse",
+          "overshadow"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "transitive"
+        ],
+        "label_groups": "figurative , transitive"
+      },
+      {
+        "definition": "To force other actors to face away from the audience by staying upstage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "theater"
+        ],
+        "label_groups": "transitive , theater"
+      },
+      {
+        "definition": "To treat snobbishly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To restage upward; to restage (a case of a disease, usually a cancer ) to a higher stage than that found at last assessment.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "downstage"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "transitive"
+        ],
+        "label_groups": "medicine , transitive"
+      }
+    ],
+    "main_definition": "( figurative , transitive ) To draw attention away from others, especially on-stage.",
+    "secondary_definitions": [
+      "( transitive , theater ) To force other actors to face away from the audience by staying upstage.",
+      "( transitive , by extension ) To treat snobbishly.",
+      "( medicine , transitive ) To restage upward; to restage (a case of a disease, usually a cancer ) to a higher stage than that found at last assessment."
+    ]
+  }
+]

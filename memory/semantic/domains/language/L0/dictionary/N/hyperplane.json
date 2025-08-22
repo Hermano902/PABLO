@@ -1,0 +1,35 @@
+[
+  {
+    "word": "hyperplane",
+    "lemma": "hyperplane",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hyperplanes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An n - dimensional generalization of a plane ; an affine subspace of dimension n − 1 that splits an n -dimensional space. (In a one-dimensional space, it is a point ; in two-dimensional space it is a line ; in three-dimensional space, it is an ordinary plane.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) An n - dimensional generalization of a plane ; an affine subspace of dimension n − 1 that splits an n -dimensional space. (In a one-dimensional space, it is a point ; in two-dimensional space it is a line ; in three-dimensional space, it is an ordinary plane.)",
+    "secondary_definitions": []
+  }
+]

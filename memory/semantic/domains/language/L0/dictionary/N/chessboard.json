@@ -1,0 +1,49 @@
+[
+  {
+    "word": "chessboard",
+    "lemma": "chessboard",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chessboards"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The square board used in the game of chess , subdivided into eight rows of eight squares each, the squares in each row and column being of alternating colours.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chess"
+        ],
+        "label_groups": "chess"
+      },
+      {
+        "definition": "A mathematical construction based on this pattern of squares",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      }
+    ],
+    "main_definition": "( chess ) The square board used in the game of chess , subdivided into eight rows of eight squares each, the squares in each row and column being of alternating colours.",
+    "secondary_definitions": [
+      "( topology ) A mathematical construction based on this pattern of squares"
+    ]
+  }
+]

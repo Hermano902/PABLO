@@ -1,0 +1,36 @@
+[
+  {
+    "word": "significand",
+    "lemma": "significand",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "significands"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The part of a floating-point number that contains its significant digits .",
+        "examples": [],
+        "synonyms": [
+          "mantissa",
+          "coefficient",
+          "argument",
+          "fraction"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The part of a floating-point number that contains its significant digits .",
+    "secondary_definitions": []
+  }
+]

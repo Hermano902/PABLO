@@ -1,0 +1,63 @@
+[
+  {
+    "word": "gladden",
+    "lemma": "gladden",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡlædən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "gladdens",
+          "PT": "gladdened",
+          "PAP": "gladdened",
+          "PRP": "gladdening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause (something) to become more glad .",
+        "examples": [],
+        "synonyms": [
+          "cheer",
+          "cheer up",
+          "gratify",
+          "please"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become more glad in one's disposition.",
+        "examples": [],
+        "synonyms": [
+          "cheer up",
+          "perk up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "archaic"
+        ],
+        "label_groups": "intransitive , archaic"
+      }
+    ],
+    "main_definition": "( transitive ) To cause (something) to become more glad .",
+    "secondary_definitions": [
+      "( intransitive , archaic ) To become more glad in one's disposition."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "word": "game",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "ADJ:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 14,
+      "synonyms": 22,
+      "antonyms": 3,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 8,
+      "antonyms": 2,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\game.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\game.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\game.json"
+  },
+  "timestamp": "2025-08-19T04:16:10.862558Z"
+}

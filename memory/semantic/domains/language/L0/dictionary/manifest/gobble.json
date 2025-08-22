@@ -1,0 +1,30 @@
+{
+  "word": "gobble",
+  "pos_order": [
+    "V",
+    "N",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 3,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\gobble.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\gobble.json"
+  },
+  "timestamp": "2025-08-19T04:35:59.404186Z"
+}

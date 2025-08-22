@@ -1,0 +1,73 @@
+[
+  {
+    "word": "imperative",
+    "lemma": "imperative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪmˈpɛɹ.ə.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more imperative",
+          "SUP": "most imperative"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Essential ; crucial ; extremely important .",
+        "examples": [
+          "That you come here right now is imperative ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of, or relating to the imperative mood .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "Having semantics that incorporates mutable variables.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "functional"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      },
+      {
+        "definition": "Expressing a command ; authoritatively or absolutely directive .",
+        "examples": [
+          "imperative orders"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Essential ; crucial ; extremely important .",
+    "secondary_definitions": [
+      "( grammar ) Of, or relating to the imperative mood .",
+      "( computing theory ) Having semantics that incorporates mutable variables.",
+      "Expressing a command ; authoritatively or absolutely directive ."
+    ]
+  }
+]

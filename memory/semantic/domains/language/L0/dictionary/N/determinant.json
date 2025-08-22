@@ -1,0 +1,71 @@
+[
+  {
+    "word": "determinant",
+    "lemma": "determinant",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈtɜːmɪnənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "determinants"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A determining factor ; an element that determines the nature of something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A scalar that encodes certain characteristics of a given transformation matrix ; the unique scalar function over square matrices which is distributive over matrix multiplication, multilinear in the rows and columns, and takes the value 1 for the unit matrix ; abbreviated as: det .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linear algebra"
+        ],
+        "label_groups": "linear algebra"
+      },
+      {
+        "definition": "A substance that causes a cell to adopt a particular fate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      },
+      {
+        "definition": "Something that causes a nuclease to cut at a specified point",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "A determining factor ; an element that determines the nature of something.",
+    "secondary_definitions": [
+      "( linear algebra ) A scalar that encodes certain characteristics of a given transformation matrix ; the unique scalar function over square matrices which is distributive over matrix multiplication, multilinear in the rows and columns, and takes the value 1 for the unit matrix ; abbreviated as: det .",
+      "( biology ) A substance that causes a cell to adopt a particular fate.",
+      "( genetics ) Something that causes a nuclease to cut at a specified point"
+    ]
+  }
+]

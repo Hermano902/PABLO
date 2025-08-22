@@ -1,0 +1,93 @@
+[
+  {
+    "word": "daemon",
+    "lemma": "daemon",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdiː.mən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "daemons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( mythology ) A minor deity or divinity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A muse , a personified source of inspiration , especially one that also causes anguish .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An idea depicted as an entity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( uncommon ) Alternative form of demon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( mythology ) A minor deity or divinity .",
+    "secondary_definitions": [
+      "A muse , a personified source of inspiration , especially one that also causes anguish .",
+      "An idea depicted as an entity.",
+      "( uncommon ) Alternative form of demon ."
+    ]
+  },
+  {
+    "word": "daemon",
+    "lemma": "daemon",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈdiː.mən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "daemons"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A process (a running program) that does not have a controlling terminal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Unix"
+        ],
+        "label_groups": "computing , Unix"
+      }
+    ],
+    "main_definition": "( computing , Unix ) A process (a running program) that does not have a controlling terminal .",
+    "secondary_definitions": []
+  }
+]

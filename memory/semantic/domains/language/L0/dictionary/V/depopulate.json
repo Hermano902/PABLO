@@ -1,0 +1,74 @@
+[
+  {
+    "word": "depopulate",
+    "lemma": "depopulate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈpɒpjəleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "depopulates",
+          "PT": "depopulated",
+          "PAP": "depopulated",
+          "PRP": "depopulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To reduce the population of a region by disease , war , forced relocation etc.",
+        "examples": [],
+        "synonyms": [
+          "depeople",
+          "desolate",
+          "dispeople",
+          "unpeople",
+          "unpopulate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove the components from a circuit board .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "electronics"
+        ],
+        "label_groups": "transitive , electronics"
+      },
+      {
+        "definition": "To become depopulated, to lose its population.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To reduce the population of a region by disease , war , forced relocation etc.",
+    "secondary_definitions": [
+      "( transitive , electronics ) To remove the components from a circuit board .",
+      "( intransitive ) To become depopulated, to lose its population."
+    ]
+  }
+]

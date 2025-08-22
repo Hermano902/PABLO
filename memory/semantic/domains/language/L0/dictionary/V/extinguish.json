@@ -1,0 +1,143 @@
+[
+  {
+    "word": "extinguish",
+    "lemma": "extinguish",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈstɪŋ.ɡwɪʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "extinguishes",
+          "PT": "extinguished",
+          "PAP": "extinguished",
+          "PRP": "extinguishing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To stop ( fire , etc.) from burning ; also, to stop ( light , etc.) from shining ; to put out , to quench .",
+            "examples": [],
+            "synonyms": [
+              "douse",
+              "extinct"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To eclipse or obscure (someone or something).",
+            "examples": [
+              "A beauty that extinguishes all others by comparison",
+              "The rays of the sun were extinguished by the thunder clouds."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative"
+            ],
+            "label_groups": "figurative"
+          },
+          {
+            "definition": "To kill (someone).",
+            "examples": [],
+            "synonyms": [
+              "extinct"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative"
+            ],
+            "label_groups": "figurative"
+          },
+          {
+            "definition": "To put an end to (something) completely ; to annihilate , to destroy . ( psychology ) To bring about the extinction of (a conditioned reflex ).",
+            "examples": [
+              "She extinguished all my hopes.",
+              "They intended to extinguish the enemy by force of numbers",
+              "Many patients can extinguish their phobias after a few months of treatment."
+            ],
+            "synonyms": [
+              "extinct"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative"
+            ],
+            "label_groups": "figurative"
+          },
+          {
+            "definition": "To suppress (something, as feelings , a person 's spirit , a state of affairs , etc.); to quench.",
+            "examples": [],
+            "synonyms": [
+              "extinct"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative"
+            ],
+            "label_groups": "figurative"
+          },
+          {
+            "definition": "To abolish or make void (a law , a legal right , etc.); also, to cancel (a creditor 's claim , a licence , etc.).",
+            "examples": [],
+            "synonyms": [
+              "extinct"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "figurative",
+              "chiefly law"
+            ],
+            "label_groups": "figurative , chiefly law"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To die out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "reflexive"
+        ],
+        "label_groups": "intransitive , reflexive"
+      }
+    ],
+    "main_definition": "( transitive )",
+    "secondary_definitions": [
+      "( intransitive , reflexive ) To die out ."
+    ]
+  }
+]

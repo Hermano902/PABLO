@@ -1,0 +1,114 @@
+[
+  {
+    "word": "smooth",
+    "lemma": "smooth",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/smuːð/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "smooths",
+          "PT": "smoothed",
+          "PAP": "smoothed",
+          "PRP": "smoothing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make smooth or even.",
+        "examples": [],
+        "synonyms": [
+          "smoothen"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To reduce to a particular shape or form by pressure ; to press , to flatten .",
+        "examples": [
+          "to smooth cloth with a smoothing iron"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make straightforward or easy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To calm or palliate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To capture important patterns in the data, while leaving out noise.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics",
+          "image processing",
+          "digital audio"
+        ],
+        "label_groups": "statistics , image processing , digital audio"
+      },
+      {
+        "definition": "To stroke ; especially to stroke an animal's fur.",
+        "examples": [
+          "Can I smooth your cat?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "West Country"
+        ],
+        "label_groups": "West Country"
+      }
+    ],
+    "main_definition": "( transitive ) To make smooth or even.",
+    "secondary_definitions": [
+      "( transitive ) To reduce to a particular shape or form by pressure ; to press , to flatten .",
+      "( transitive ) To make straightforward or easy .",
+      "( transitive ) To calm or palliate .",
+      "( statistics , image processing , digital audio ) To capture important patterns in the data, while leaving out noise.",
+      "( West Country ) To stroke ; especially to stroke an animal's fur."
+    ]
+  }
+]

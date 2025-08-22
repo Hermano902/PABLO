@@ -1,0 +1,65 @@
+[
+  {
+    "word": "endemic",
+    "lemma": "endemic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɛnˈdɛm.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Native to a particular area or culture; originating where it occurs.",
+        "examples": [
+          "The endemic religion of Easter Island arrived with the Polynesian settlers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Peculiar to a particular area or region; not found in other places.",
+        "examples": [
+          "Kangaroos are endemic to Australia."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially of plants",
+          "animals"
+        ],
+        "label_groups": "especially of plants and animals"
+      },
+      {
+        "definition": "Prevalent in a particular area or region, persistent within a population.",
+        "examples": [
+          "Malaria is endemic to the tropics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "especially of diseases"
+        ],
+        "label_groups": "especially of diseases"
+      }
+    ],
+    "main_definition": "Native to a particular area or culture; originating where it occurs.",
+    "secondary_definitions": [
+      "( especially of plants and animals ) Peculiar to a particular area or region; not found in other places.",
+      "( especially of diseases ) Prevalent in a particular area or region, persistent within a population."
+    ]
+  }
+]

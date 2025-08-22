@@ -1,0 +1,86 @@
+[
+  {
+    "word": "bootstrap",
+    "lemma": "bootstrap",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbuːtˌstɹæp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bootstraps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A loop (leather or other material) sewn at the side or top rear of a boot to help in pulling the boot on.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A means of advancing oneself or accomplishing something without aid.",
+        "examples": [
+          "He used his business experience as a bootstrap to win voters."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "The process by which the operating system of a computer is loaded into its memory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The process necessary to compile the tools that will be used to compile the rest of the system or program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Any method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "A loop (leather or other material) sewn at the side or top rear of a boot to help in pulling the boot on.",
+    "secondary_definitions": [
+      "( figuratively ) A means of advancing oneself or accomplishing something without aid.",
+      "( computing ) The process by which the operating system of a computer is loaded into its memory .",
+      "( computing ) The process necessary to compile the tools that will be used to compile the rest of the system or program.",
+      "( statistics ) Any method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution."
+    ]
+  }
+]

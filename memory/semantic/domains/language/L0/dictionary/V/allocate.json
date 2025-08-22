@@ -1,0 +1,69 @@
+[
+  {
+    "word": "allocate",
+    "lemma": "allocate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæl.ə.keɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "allocates",
+          "PT": "allocated",
+          "PAP": "allocated",
+          "PRP": "allocating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To set aside for a purpose .",
+        "examples": [
+          "Please do not eat the meringue, as it is allocated for the dinner party tomorrow."
+        ],
+        "synonyms": [
+          "appropriate",
+          "earmark"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To distribute according to a plan , generally followed by the adposition to .",
+        "examples": [
+          "The bulk of K–12 education funds are allocated to school districts that in turn pay for the cost of operating schools."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reserve a portion of memory for use by a computer program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "free",
+          "deallocate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "To set aside for a purpose .",
+    "secondary_definitions": [
+      "To distribute according to a plan , generally followed by the adposition to .",
+      "( computing ) To reserve a portion of memory for use by a computer program."
+    ]
+  }
+]

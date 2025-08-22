@@ -1,0 +1,72 @@
+[
+  {
+    "word": "crosscut",
+    "lemma": "crosscut",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɹɒskʌt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "crosscuts",
+          "PT": "crosscut",
+          "PAP": "crosscut",
+          "PRP": "crosscutting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut across something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To cut (wood, lumber) across the grain.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "To cut repeatedly between two concurrent scenes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "film"
+        ],
+        "label_groups": "film"
+      },
+      {
+        "definition": "To affect several modules of a program , without the possibility of being encapsulated in any one of them. See Cross-cutting concern .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "To cut across something.",
+    "secondary_definitions": [
+      "( film ) To cut repeatedly between two concurrent scenes .",
+      "( software engineering ) To affect several modules of a program , without the possibility of being encapsulated in any one of them. See Cross-cutting concern ."
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "word": "amorphic",
+    "lemma": "amorphic",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌəˈmɔːɹfɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more amorphic",
+          "SUP": "most amorphic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having no defined shape, lacking form; amorphous .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Causing a complete loss of gene function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "of a mutation"
+        ],
+        "label_groups": "genetics , of a mutation"
+      }
+    ],
+    "main_definition": "Having no defined shape, lacking form; amorphous .",
+    "secondary_definitions": [
+      "( genetics , of a mutation ) Causing a complete loss of gene function."
+    ]
+  }
+]

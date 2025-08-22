@@ -1,0 +1,62 @@
+[
+  {
+    "word": "marshalling",
+    "lemma": "marshalling",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "marshallings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of transforming the memory representation of an object to a data format suitable for storage or transmission, which is typically used when data must be moved between different parts of a computer program, or from one program to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software"
+        ],
+        "label_groups": "software"
+      },
+      {
+        "definition": "The arrangement of an escutcheon to exhibit the alliances of the owner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "heraldry"
+        ],
+        "label_groups": "heraldry"
+      },
+      {
+        "definition": "The sorting of rolling stock in a marshalling yard .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport"
+        ],
+        "label_groups": "rail transport"
+      }
+    ],
+    "main_definition": "( software ) The process of transforming the memory representation of an object to a data format suitable for storage or transmission, which is typically used when data must be moved between different parts of a computer program, or from one program to another.",
+    "secondary_definitions": [
+      "( heraldry ) The arrangement of an escutcheon to exhibit the alliances of the owner.",
+      "( rail transport ) The sorting of rolling stock in a marshalling yard ."
+    ]
+  }
+]

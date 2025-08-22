@@ -1,0 +1,83 @@
+[
+  {
+    "word": "modify",
+    "lemma": "modify",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒdɪfaɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "modifies",
+          "PT": "modified",
+          "PAP": "modified",
+          "PRP": "modifying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change part of.",
+        "examples": [
+          "Her publisher advised her to modify a few parts of the book to make it easier to read."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be or become modified.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To set bounds to; to moderate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To qualify the meaning of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      }
+    ],
+    "main_definition": "( transitive ) To change part of.",
+    "secondary_definitions": [
+      "( intransitive ) To be or become modified.",
+      "( transitive ) To set bounds to; to moderate .",
+      "( transitive , grammar ) To qualify the meaning of."
+    ]
+  }
+]

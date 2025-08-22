@@ -1,0 +1,134 @@
+[
+  {
+    "word": "fact",
+    "lemma": "fact",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/fækt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "facts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something actual as opposed to invented.",
+        "examples": [
+          "In this story, the Gettysburg Address is a fact , but the rest is fiction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something which is real.",
+        "examples": [
+          "Gravity is a fact , not a theory."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Something concrete used as a basis for further interpretation.",
+        "examples": [
+          "Let's look at the facts of the case before deciding."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An objective consensus on a fundamental reality that has been agreed upon by a substantial number of experts .",
+        "examples": [
+          "There is no doubting the fact that the Earth orbits the Sun."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Information about a particular subject, especially actual conditions and/or circumstances.",
+        "examples": [
+          "The facts about space travel.",
+          "Addition facts include 2 + 2 = 4 and 3 + 4 = 7."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An individual value or measurement at the lowest level of granularity in a data warehouse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      },
+      {
+        "definition": "Action ; the realm of action.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "A wrongful or criminal deed.",
+        "examples": [
+          "He had become an accessory after the fact ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "obsolete except in set phrases"
+        ],
+        "label_groups": "law , obsolete except in set phrases"
+      },
+      {
+        "definition": "A feat or meritorious deed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Something actual as opposed to invented.",
+    "secondary_definitions": [
+      "Something which is real.",
+      "Something concrete used as a basis for further interpretation.",
+      "An objective consensus on a fundamental reality that has been agreed upon by a substantial number of experts .",
+      "Information about a particular subject, especially actual conditions and/or circumstances.",
+      "( databases ) An individual value or measurement at the lowest level of granularity in a data warehouse .",
+      "( archaic ) Action ; the realm of action.",
+      "( law , obsolete except in set phrases ) A wrongful or criminal deed.",
+      "( obsolete ) A feat or meritorious deed."
+    ]
+  }
+]

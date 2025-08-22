@@ -1,0 +1,35 @@
+[
+  {
+    "word": "heapsort",
+    "lemma": "heapsort",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "heapsorts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A sorting algorithm based on the heap data structure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A sorting algorithm based on the heap data structure .",
+    "secondary_definitions": []
+  }
+]

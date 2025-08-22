@@ -1,0 +1,60 @@
+[
+  {
+    "word": "deprecated",
+    "lemma": "deprecated",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛp.ɹɪ.keɪ.tɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more deprecated",
+          "SUP": "most deprecated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Strongly disapproved of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Belittled ; insulted .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Said of a function or feature planned to be phased out , but still available for use.",
+        "examples": [
+          "Foo() has been deprecated ; it outputs a debug message and then calls Foo2()",
+          "Note that deprecated functions are not removed yet."
+        ],
+        "synonyms": [
+          "on its way out",
+          "obsolescent"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Strongly disapproved of.",
+    "secondary_definitions": [
+      "Belittled ; insulted .",
+      "( computing ) Said of a function or feature planned to be phased out , but still available for use."
+    ]
+  }
+]

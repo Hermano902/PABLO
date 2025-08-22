@@ -1,0 +1,96 @@
+[
+  {
+    "word": "valency",
+    "lemma": "valency",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈveɪlənsi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "valencies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Alternative form of valence ( “ the combining capacity of an atom , functional group , or radical determined by the number of atoms of hydrogen with which it will unite , or the number of electrons that it will gain , lose , or share when it combines with other atoms, etc. ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The capacity of something to combine with other things , as for example the capability of a vaccine as measured by the number of pathogen serotypes that it can counteract.",
+            "examples": [
+              "vaccine valency"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "uncountable",
+              "by extension"
+            ],
+            "label_groups": "uncountable , by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "countable",
+          "chemistry"
+        ],
+        "label_groups": "countable , chemistry"
+      },
+      {
+        "definition": "The number of edges connected to a vertex in a graph .",
+        "examples": [],
+        "synonyms": [
+          "degree"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "graph theory"
+        ],
+        "label_groups": "countable , graph theory"
+      },
+      {
+        "definition": "Alternative form of valence ( “ the number of arguments that a verb can have, including its subject , ranging from zero to three or, less commonly , four ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "linguistics"
+        ],
+        "label_groups": "countable , linguistics"
+      },
+      {
+        "definition": "Importance , significance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      }
+    ],
+    "main_definition": "( countable , chemistry ) Alternative form of valence ( “ the combining capacity of an atom , functional group , or radical determined by the number of atoms of hydrogen with which it will unite , or the number of electrons that it will gain , lose , or share when it combines with other atoms, etc. ” ) .",
+    "secondary_definitions": [
+      "( countable , graph theory ) The number of edges connected to a vertex in a graph .",
+      "( countable , linguistics ) Alternative form of valence ( “ the number of arguments that a verb can have, including its subject , ranging from zero to three or, less commonly , four ” ) .",
+      "( uncountable ) Importance , significance ."
+    ]
+  }
+]

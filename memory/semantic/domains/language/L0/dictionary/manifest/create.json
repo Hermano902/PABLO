@@ -1,0 +1,28 @@
+{
+  "word": "create",
+  "pos_order": [
+    "V",
+    "ADJ"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 8,
+      "examples": 6,
+      "synonyms": 3,
+      "antonyms": 3,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\create.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\create.json"
+  },
+  "timestamp": "2025-08-19T00:59:50.232691Z"
+}

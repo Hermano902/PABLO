@@ -1,0 +1,287 @@
+[
+  {
+    "word": "range",
+    "lemma": "range",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹeɪnd͡ʒ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ranges"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A line or series of mountains, buildings, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fireplace ; a fire or other cooking apparatus; now specifically, a large cooking stove with many hotplates.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Selection , array .",
+        "examples": [
+          "We sell a wide range of cars."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An area for practicing shooting at targets .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An area for military training or equipment testing .",
+        "examples": [],
+        "synonyms": [
+          "base",
+          "training area",
+          "training ground"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The distance from a person or sensor to an object , target , emanation , or event .",
+        "examples": [
+          "We could see the ship at a range of five miles.",
+          "One can use the speed of sound to estimate the range of a lightning flash."
+        ],
+        "synonyms": [
+          "distance",
+          "radius"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The maximum distance or reach of capability (of a weapon , radio , detector , etc.).",
+        "examples": [
+          "This missile's range is 500 kilometres."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The distance a vehicle (e.g., a car , bicycle , lorry , or aircraft ) can travel without refueling .",
+        "examples": [
+          "This aircraft's range is 15 000 kilometres."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An area of open , often unfenced , grazing land .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The extent or space taken in by anything excursive; compass or extent of excursion; reach ; scope .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The set of values ( points ) which a function can obtain.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "domain"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The length of the smallest interval which contains all the data in a sample ; the difference between the largest and smallest observations in the sample.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "The defensive area that a player can cover.",
+        "examples": [
+          "Jones has good range for a big man."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sports",
+          "baseball"
+        ],
+        "label_groups": "sports , baseball"
+      },
+      {
+        "definition": "The scale of all the tones a voice or an instrument can produce.",
+        "examples": [],
+        "synonyms": [
+          "compass"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "The geographical area or zone where a species is normally naturally found.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ecology"
+        ],
+        "label_groups": "ecology"
+      },
+      {
+        "definition": "A sequential list of values specified by an iterator .",
+        "examples": [
+          "std::for_each calls the given function on each value in the input range ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "An aggregate of individuals in one rank or degree; an order; a class.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The step of a ladder; a rung .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A bolting sieve to sift meal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "UK",
+          "dialect"
+        ],
+        "label_groups": "obsolete , UK , dialect"
+      },
+      {
+        "definition": "A wandering or roving; a going to and fro; an excursion; a ramble; an expedition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In the public land system, a row or line of townships lying between two succession meridian lines six miles apart.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "historical"
+        ],
+        "label_groups": "US , historical"
+      },
+      {
+        "definition": "The variety of roles that an actor can play in a satisfactory way.",
+        "examples": [
+          "By playing in comedies as well as in dramas he has proved his range as an actor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A line or series of mountains, buildings, etc.",
+    "secondary_definitions": [
+      "A fireplace ; a fire or other cooking apparatus; now specifically, a large cooking stove with many hotplates.",
+      "Selection , array .",
+      "An area for practicing shooting at targets .",
+      "An area for military training or equipment testing .",
+      "The distance from a person or sensor to an object , target , emanation , or event .",
+      "The maximum distance or reach of capability (of a weapon , radio , detector , etc.).",
+      "The distance a vehicle (e.g., a car , bicycle , lorry , or aircraft ) can travel without refueling .",
+      "An area of open , often unfenced , grazing land .",
+      "The extent or space taken in by anything excursive; compass or extent of excursion; reach ; scope .",
+      "( mathematics ) The set of values ( points ) which a function can obtain.",
+      "( statistics ) The length of the smallest interval which contains all the data in a sample ; the difference between the largest and smallest observations in the sample.",
+      "( sports , baseball ) The defensive area that a player can cover.",
+      "( music ) The scale of all the tones a voice or an instrument can produce.",
+      "( ecology ) The geographical area or zone where a species is normally naturally found.",
+      "( programming ) A sequential list of values specified by an iterator .",
+      "An aggregate of individuals in one rank or degree; an order; a class.",
+      "( obsolete ) The step of a ladder; a rung .",
+      "( obsolete , UK , dialect ) A bolting sieve to sift meal .",
+      "A wandering or roving; a going to and fro; an excursion; a ramble; an expedition.",
+      "( US , historical ) In the public land system, a row or line of townships lying between two succession meridian lines six miles apart.",
+      "The variety of roles that an actor can play in a satisfactory way."
+    ]
+  }
+]

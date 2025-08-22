@@ -1,0 +1,88 @@
+[
+  {
+    "word": "toxic",
+    "lemma": "toxic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɒk.sɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more toxic",
+          "SUP": "most toxic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having a chemical nature that is harmful to health or lethal if consumed or otherwise entering into the body in sufficient quantities.",
+        "examples": [
+          "Tobacco smoke contains many toxic substances."
+        ],
+        "synonyms": [
+          "poisonous",
+          "venomous"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "toxicology",
+          "pharmacology"
+        ],
+        "label_groups": "toxicology , pharmacology"
+      },
+      {
+        "definition": "Appearing grossly unwell ; characterised by serious , potentially life-threatening compromise in the respiratory , circulatory or other body systems.",
+        "examples": [
+          "The child appeared toxic on arrival at the hospital."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "Severely negative or harmful .",
+        "examples": [
+          "a toxic environment that promoted bullying"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Hateful or strongly antipathetic .",
+        "examples": [
+          "It is not good to be around toxic people."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "of a person"
+        ],
+        "label_groups": "figurative , of a person"
+      }
+    ],
+    "main_definition": "( toxicology , pharmacology ) Having a chemical nature that is harmful to health or lethal if consumed or otherwise entering into the body in sufficient quantities.",
+    "secondary_definitions": [
+      "( medicine ) Appearing grossly unwell ; characterised by serious , potentially life-threatening compromise in the respiratory , circulatory or other body systems.",
+      "( figurative ) Severely negative or harmful .",
+      "( figurative , of a person ) Hateful or strongly antipathetic ."
+    ]
+  }
+]

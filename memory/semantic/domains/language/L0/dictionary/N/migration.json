@@ -1,0 +1,78 @@
+[
+  {
+    "word": "migration",
+    "lemma": "migration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/maɪˈɡɹeɪʃ(ə)n/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "migrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instance of moving to live in another place for a while.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Seasonal moving of animals, as mammals, birds or fish, especially between breeding and non-breeding areas.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Movement in general.",
+        "examples": [
+          "The migration of lead from a can to the food inside it can cause lead poisoning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Instance of changing a platform from an environment to another one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The movement of cells in particular directions to specific locations.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      }
+    ],
+    "main_definition": "An instance of moving to live in another place for a while.",
+    "secondary_definitions": [
+      "Seasonal moving of animals, as mammals, birds or fish, especially between breeding and non-breeding areas.",
+      "Movement in general.",
+      "( computing ) Instance of changing a platform from an environment to another one.",
+      "( biochemistry ) The movement of cells in particular directions to specific locations."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "kernelization",
+    "lemma": "kernelization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "kernelizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A technique for creating algorithms for fixed- parameter tractable problems, involving a preprocessing stage in which inputs to the algorithm are replaced by a smaller input, called a kernel .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( computer science ) A technique for creating algorithms for fixed- parameter tractable problems, involving a preprocessing stage in which inputs to the algorithm are replaced by a smaller input, called a kernel .",
+    "secondary_definitions": []
+  }
+]

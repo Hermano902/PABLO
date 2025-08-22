@@ -1,0 +1,56 @@
+[
+  {
+    "word": "bias",
+    "lemma": "bias",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbaɪəs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "biases",
+          "PT": "biased",
+          "PAP": "biased",
+          "PRP": "biasing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place bias upon; to influence .",
+        "examples": [
+          "Our prejudices bias our views."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give a bias to.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      }
+    ],
+    "main_definition": "( transitive ) To place bias upon; to influence .",
+    "secondary_definitions": [
+      "( electronics ) To give a bias to."
+    ]
+  }
+]

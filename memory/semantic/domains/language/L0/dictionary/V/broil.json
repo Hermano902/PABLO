@@ -1,0 +1,110 @@
+[
+  {
+    "word": "broil",
+    "lemma": "broil",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹɔɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "broils",
+          "PT": "broiled",
+          "PAP": "broiled",
+          "PRP": "broiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive , Canada , US , obsolete in the UK ) To cook by direct, radiant heat.",
+        "examples": [],
+        "synonyms": [
+          "grill"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , Canada , US ) To expose to great heat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , Canada , US ) To be exposed to great heat.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive , Canada , US , obsolete in the UK ) To cook by direct, radiant heat.",
+    "secondary_definitions": [
+      "( transitive , Canada , US ) To expose to great heat.",
+      "( intransitive , Canada , US ) To be exposed to great heat."
+    ]
+  },
+  {
+    "word": "broil",
+    "lemma": "broil",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɹɔɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "broils",
+          "PT": "broiled",
+          "PAP": "broiled",
+          "PRP": "broiling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause a rowdy disturbance; embroil .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To brawl .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To cause a rowdy disturbance; embroil .",
+    "secondary_definitions": [
+      "( intransitive , obsolete ) To brawl ."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "subfield",
+    "lemma": "subfield",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subfields"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A smaller, more specialized area of study or occupation within a larger one",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A subring of a field , containing the multiplicative identity and closed under inversion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "A smaller, more specialized area of study or occupation within a larger one",
+    "secondary_definitions": [
+      "( algebra ) A subring of a field , containing the multiplicative identity and closed under inversion ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "quadruple",
+    "lemma": "quadruple",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɒd.ɹʊ.pəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quadruples",
+          "PT": "quadrupled",
+          "PAP": "quadrupled",
+          "PRP": "quadrupling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To multiply by four.",
+        "examples": [
+          "Quadrupling four gives sixteen."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To increase by a factor of four.",
+        "examples": [
+          "Our profits quadrupled when we made the improvements."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To provide four parallel running lines on a given stretch of railway .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rail transport"
+        ],
+        "label_groups": "rail transport"
+      }
+    ],
+    "main_definition": "( transitive ) To multiply by four.",
+    "secondary_definitions": [
+      "( intransitive ) To increase by a factor of four.",
+      "( rail transport ) To provide four parallel running lines on a given stretch of railway ."
+    ]
+  }
+]

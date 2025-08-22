@@ -1,0 +1,43 @@
+[
+  {
+    "word": "remainder",
+    "lemma": "remainder",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈmeɪndə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "remainders",
+          "PT": "remaindered",
+          "PAP": "remaindered",
+          "PRP": "remaindering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark or declare items left unsold as subject to reduction in price .",
+        "examples": [
+          "The bookstore remaindered the unsold copies of that book at the end of summer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "commerce"
+        ],
+        "label_groups": "transitive , commerce"
+      }
+    ],
+    "main_definition": "( transitive , commerce ) To mark or declare items left unsold as subject to reduction in price .",
+    "secondary_definitions": []
+  }
+]

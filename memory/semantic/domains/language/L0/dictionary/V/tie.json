@@ -1,0 +1,164 @@
+[
+  {
+    "word": "tie",
+    "lemma": "tie",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/taɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ties",
+          "PT": "tied",
+          "PAP": "tied",
+          "PRP": "tying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To twist (a string, rope, or the like) around itself securely .",
+        "examples": [
+          "Tie this rope in a knot for me, please.",
+          "Tie the rope to this tree."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form (a knot or the like) in a string or the like.",
+        "examples": [
+          "Tie a knot in this rope for me, please."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attach or fasten (one thing to another) by string or the like.",
+        "examples": [
+          "Tie him to the tree."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To secure (something) by string or the like.",
+        "examples": [
+          "Tie your shoes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sometimes figurative"
+        ],
+        "label_groups": "transitive , sometimes figurative"
+      },
+      {
+        "definition": "To have the same score or position as another in a competition or ordering .",
+        "examples": [
+          "They tied for third place.",
+          "They tied the game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To have the same score or position as (another) in a competition or ordering.",
+        "examples": [
+          "He tied me for third place."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "transitive"
+        ],
+        "label_groups": "US , transitive"
+      },
+      {
+        "definition": "To unite (musical notes) with a line or slur in the notation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To believe ; to credit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "dated",
+          "colloquial"
+        ],
+        "label_groups": "US , dated , colloquial"
+      },
+      {
+        "definition": "In the Perl programming language , to extend (a variable) so that standard operations performed upon it invoke custom functionality instead.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To twist (a string, rope, or the like) around itself securely .",
+    "secondary_definitions": [
+      "( transitive ) To form (a knot or the like) in a string or the like.",
+      "( transitive ) To attach or fasten (one thing to another) by string or the like.",
+      "( transitive , sometimes figurative ) To secure (something) by string or the like.",
+      "( ambitransitive ) To have the same score or position as another in a competition or ordering .",
+      "( US , transitive ) To have the same score or position as (another) in a competition or ordering.",
+      "( music ) To unite (musical notes) with a line or slur in the notation .",
+      "( US , dated , colloquial ) To believe ; to credit .",
+      "( programming , transitive ) In the Perl programming language , to extend (a variable) so that standard operations performed upon it invoke custom functionality instead."
+    ]
+  }
+]

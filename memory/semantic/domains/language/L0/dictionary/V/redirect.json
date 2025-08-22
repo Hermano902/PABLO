@@ -1,0 +1,85 @@
+[
+  {
+    "word": "redirect",
+    "lemma": "redirect",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-ɛkt",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "redirects",
+          "PT": "redirected",
+          "PAP": "redirected",
+          "PRP": "redirecting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give new direction to, change the direction of.",
+        "examples": [
+          "redirect output to /dev/null"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To instruct to go, inquire , elsewhere.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To substitute an address or pointer to a new location .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To send to a new location by substituting an address or pointer .",
+        "examples": [
+          "You will be redirected shortly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( transitive ) To give new direction to, change the direction of.",
+    "secondary_definitions": [
+      "( transitive ) To instruct to go, inquire , elsewhere.",
+      "( computing , transitive ) To substitute an address or pointer to a new location .",
+      "( computing ) To send to a new location by substituting an address or pointer ."
+    ]
+  }
+]

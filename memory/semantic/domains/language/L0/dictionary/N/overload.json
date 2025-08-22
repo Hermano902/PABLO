@@ -1,0 +1,68 @@
+[
+  {
+    "word": "overload",
+    "lemma": "overload",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌəʊvəˈləʊd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "overloads"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An excessive load .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The damage done, or the outage caused, by such a load.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An load of goods above the prescribed carrying weight of the vehicle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      },
+      {
+        "definition": "An overloaded version of a function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      }
+    ],
+    "main_definition": "An excessive load .",
+    "secondary_definitions": [
+      "The damage done, or the outage caused, by such a load.",
+      "( automotive ) An load of goods above the prescribed carrying weight of the vehicle.",
+      "( computing , programming ) An overloaded version of a function ."
+    ]
+  }
+]

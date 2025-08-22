@@ -1,0 +1,70 @@
+[
+  {
+    "word": "scar",
+    "lemma": "scar",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skɑɹ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scars",
+          "PT": "scarred",
+          "PAP": "scarred",
+          "PRP": "scarring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To mark the skin permanently.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form a scar.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To affect deeply in a traumatic manner.",
+        "examples": [
+          "Seeing his parents die in a car crash scarred him for life."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To mark the skin permanently.",
+    "secondary_definitions": [
+      "( intransitive ) To form a scar.",
+      "( transitive , figurative ) To affect deeply in a traumatic manner."
+    ]
+  }
+]

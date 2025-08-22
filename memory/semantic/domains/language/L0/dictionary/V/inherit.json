@@ -1,0 +1,153 @@
+[
+  {
+    "word": "inherit",
+    "lemma": "inherit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈhɛɹɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "inherits",
+          "PT": "inherited",
+          "PAP": "inherited",
+          "PRP": "inheriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To receive ( property, a title, etc. ) , by legal succession or bequest after the previous owner's death.",
+        "examples": [
+          "After Grandad died, I inherited the house."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "bequeath",
+          "leave"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To come into an inheritance.",
+            "examples": [
+              "Lucky old Daniel – his grandfather died rich, and he's inherited ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take possession of as a right (especially in Biblical translations) .",
+        "examples": [
+          "Your descendants will inherit the earth."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To receive a characteristic from one's ancestors by genetic transmission .",
+        "examples": [
+          "Let's hope the baby inherits his mother's looks and his father's intelligence."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "biology"
+        ],
+        "label_groups": "transitive , biology"
+      },
+      {
+        "definition": "To derive from people or conditions previously in force.",
+        "examples": [
+          "This country has inherited an invidious class culture."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To derive (existing functionality ) from a superclass .",
+        "examples": [
+          "ModalWindow inherits all the properties and methods of Window."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "computing , programming , transitive"
+      },
+      {
+        "definition": "To derive a new class from (a superclass).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "computing , programming , transitive"
+      },
+      {
+        "definition": "To put in possession of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To receive ( property, a title, etc. ) , by legal succession or bequest after the previous owner's death.",
+    "secondary_definitions": [
+      "( transitive ) To take possession of as a right (especially in Biblical translations) .",
+      "( transitive , biology ) To receive a characteristic from one's ancestors by genetic transmission .",
+      "( transitive ) To derive from people or conditions previously in force.",
+      "( computing , programming , transitive ) To derive (existing functionality ) from a superclass .",
+      "( computing , programming , transitive ) To derive a new class from (a superclass).",
+      "( transitive , obsolete ) To put in possession of."
+    ]
+  }
+]

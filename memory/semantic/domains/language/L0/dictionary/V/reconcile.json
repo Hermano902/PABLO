@@ -1,0 +1,70 @@
+[
+  {
+    "word": "reconcile",
+    "lemma": "reconcile",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛkənsaɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "reconciles",
+          "PT": "reconciled",
+          "PAP": "reconciled",
+          "PRP": "reconciling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To restore a friendly relationship ; to bring back or return to harmony .",
+        "examples": [
+          "to wait until others have reconciled"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To make things compatible or consistent .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make the net difference in credits and debits of a financial account agree with the balance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting",
+          "transitive"
+        ],
+        "label_groups": "accounting , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To restore a friendly relationship ; to bring back or return to harmony .",
+    "secondary_definitions": [
+      "( transitive ) To make things compatible or consistent .",
+      "( accounting , transitive ) To make the net difference in credits and debits of a financial account agree with the balance ."
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "word": "inverse",
+    "lemma": "inverse",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈvɝs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "inverses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An inverted state : a state in which something has been turned ( properly ) upside down or ( loosely ) inside out or backwards .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The result of an inversion , particularly :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The reverse of any procedure or process .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A ratio etc. in which the antecedents and consequents are switched .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics"
+            ],
+            "label_groups": "mathematics"
+          },
+          {
+            "definition": "The result of a circle inversion ; the set of all such points ; the curve described by such a set .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry"
+            ],
+            "label_groups": "geometry"
+          },
+          {
+            "definition": "The non - truth - preserving proposition constructed by negating both the premise and conclusion of an initially given proposition .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "logic"
+            ],
+            "label_groups": "logic"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A second element which negates a first ; in a binary operation , the element for which the binary operation —when applied to both it and an initially given element — yields the operation 's identity element , specifically :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The negative of a given number .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "addition"
+            ],
+            "label_groups": "addition"
+          },
+          {
+            "definition": "One divided by a given number .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "multiplication"
+            ],
+            "label_groups": "multiplication"
+          },
+          {
+            "definition": "A second function which, when combined with the initially given function , yields as its output any term inputted into the first function .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "functions"
+            ],
+            "label_groups": "functions"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A morphism which is both a left inverse and a right inverse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "The winning of the coup in a game of rouge et noir by a card of a color different from that first dealt ; the area of the table reserved for bets upon such an outcome .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "card games"
+        ],
+        "label_groups": "card games"
+      },
+      {
+        "definition": "A grammatical number marking that indicates the opposite grammatical number (or numbers) of the default number specification of noun class.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "Kiowa-Tanoan"
+        ],
+        "label_groups": "linguistics , Kiowa-Tanoan"
+      }
+    ],
+    "main_definition": "An inverted state : a state in which something has been turned ( properly ) upside down or ( loosely ) inside out or backwards .",
+    "secondary_definitions": [
+      "The result of an inversion , particularly :",
+      "( mathematics ) A second element which negates a first ; in a binary operation , the element for which the binary operation —when applied to both it and an initially given element — yields the operation 's identity element , specifically :",
+      "( category theory ) A morphism which is both a left inverse and a right inverse .",
+      "( card games ) The winning of the coup in a game of rouge et noir by a card of a color different from that first dealt ; the area of the table reserved for bets upon such an outcome .",
+      "( linguistics , Kiowa-Tanoan ) A grammatical number marking that indicates the opposite grammatical number (or numbers) of the default number specification of noun class."
+    ]
+  }
+]

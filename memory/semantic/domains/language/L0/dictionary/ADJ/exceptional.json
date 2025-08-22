@@ -1,0 +1,60 @@
+[
+  {
+    "word": "exceptional",
+    "lemma": "exceptional",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪkˈsɛpʃənəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more exceptional",
+          "SUP": "most exceptional"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Forming an exception ; not ordinary ; uncommon ; rare .",
+        "examples": [
+          "What an exceptional meal!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Better than the average ; superior due to exception or rarity .",
+        "examples": [
+          "The quality of the beer was exceptional."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Corresponding to something of lower dimension under a birational correspondence.",
+        "examples": [
+          "an exceptional curve; an exceptional divisor"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "Forming an exception ; not ordinary ; uncommon ; rare .",
+    "secondary_definitions": [
+      "Better than the average ; superior due to exception or rarity .",
+      "( geometry ) Corresponding to something of lower dimension under a birational correspondence."
+    ]
+  }
+]

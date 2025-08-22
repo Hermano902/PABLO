@@ -1,0 +1,91 @@
+[
+  {
+    "word": "rebar",
+    "lemma": "rebar",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiː.bɑː(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rebars",
+          "PT": "rebarred",
+          "PAP": "rebarred",
+          "PRP": "rebarring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To reinforce with bars of this kind.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To reinforce with bars of this kind.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "rebar",
+    "lemma": "rebar",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈɹiː.bɑː(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rebars",
+          "PT": "rebarred",
+          "PAP": "rebarred",
+          "PRP": "rebarring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bar again.",
+        "examples": [
+          "After allowing the stranger to enter, she rebarred the door."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To redistribute the notes of a musical score across the bars , e.g. when changing time signature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music",
+          "transitive"
+        ],
+        "label_groups": "music , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bar again.",
+    "secondary_definitions": [
+      "( music , transitive ) To redistribute the notes of a musical score across the bars , e.g. when changing time signature ."
+    ]
+  }
+]

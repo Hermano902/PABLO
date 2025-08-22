@@ -1,0 +1,54 @@
+[
+  {
+    "word": "radio",
+    "lemma": "radio",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹeɪdiˌəʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "radios",
+          "PT": "radioed",
+          "PAP": "radioed",
+          "PRP": "radioing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use two-way radio to transmit (a message) (to another radio or other radio operator).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To order or assist (to a location), using telecommunications.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To use two-way radio to transmit (a message) (to another radio or other radio operator).",
+    "secondary_definitions": [
+      "( transitive ) To order or assist (to a location), using telecommunications."
+    ]
+  }
+]

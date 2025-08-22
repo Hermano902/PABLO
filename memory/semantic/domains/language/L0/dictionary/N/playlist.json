@@ -1,0 +1,58 @@
+[
+  {
+    "word": "playlist",
+    "lemma": "playlist",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpleɪˌlɪst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "playlists"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A list of recorded songs scheduled to be played on a radio station .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "radio"
+        ],
+        "label_groups": "radio"
+      },
+      {
+        "definition": "A list of tracks or videos to be played in a particular sequence , as from an audio CD or a streaming service .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A list of songs, prepared for a band or musical artist, to be performed during a concert ; a setlist .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( radio ) A list of recorded songs scheduled to be played on a radio station .",
+    "secondary_definitions": [
+      "( computing ) A list of tracks or videos to be played in a particular sequence , as from an audio CD or a streaming service .",
+      "A list of songs, prepared for a band or musical artist, to be performed during a concert ; a setlist ."
+    ]
+  }
+]

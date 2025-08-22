@@ -1,0 +1,2 @@
+# adapters store
+Stub placeholder.

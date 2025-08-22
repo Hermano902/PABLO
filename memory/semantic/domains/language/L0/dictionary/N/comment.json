@@ -1,0 +1,76 @@
+[
+  {
+    "word": "comment",
+    "lemma": "comment",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒm.ɛnt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "comments"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A spoken or written remark .",
+        "examples": [
+          "I have no comment on that.",
+          "Pay attention to the teacher's comments in the margin of your marked essay."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act of commenting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The part of a sentence that provides new information regarding the current theme .",
+        "examples": [],
+        "synonyms": [
+          "rheme"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "A remark embedded in source code in such a way that it will be ignored by the compiler or interpreter , typically to help people to understand the code.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A spoken or written remark .",
+    "secondary_definitions": [
+      "( uncountable ) The act of commenting.",
+      "( linguistics ) The part of a sentence that provides new information regarding the current theme .",
+      "( programming ) A remark embedded in source code in such a way that it will be ignored by the compiler or interpreter , typically to help people to understand the code."
+    ]
+  }
+]

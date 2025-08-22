@@ -1,0 +1,92 @@
+[
+  {
+    "word": "plus",
+    "lemma": "plus",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/plʌs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Being positive rather than negative or zero .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Positive, or involving advantage .",
+        "examples": [
+          "He is a plus factor."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Electrically positive .",
+        "examples": [
+          "A battery has both a plus pole and a minus pole."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Equal to or greater than ; or more; upwards .",
+        "examples": [
+          "The bus can fit 60 plus kids, but we only get 48."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "postpositive",
+          "somewhat informal",
+          "Of a quantity"
+        ],
+        "label_groups": [
+          "postpositive , somewhat informal",
+          "Of a quantity"
+        ]
+      },
+      {
+        "definition": "And more.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "postpostitive",
+          "informal"
+        ],
+        "label_groups": "postpostitive , informal"
+      }
+    ],
+    "main_definition": "Being positive rather than negative or zero .",
+    "secondary_definitions": [
+      "Positive, or involving advantage .",
+      "( physics ) Electrically positive .",
+      "( postpositive , somewhat informal ) (Of a quantity) Equal to or greater than ; or more; upwards .",
+      "( postpostitive , informal ) And more."
+    ]
+  }
+]

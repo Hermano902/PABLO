@@ -1,0 +1,49 @@
+[
+  {
+    "word": "integrability",
+    "lemma": "integrability",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "integrabilities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being integrable (having an antidifference or antiderivative ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematical analysis"
+      },
+      {
+        "definition": "The recoverability of preferences from a Walrasian demand function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "economics"
+        ],
+        "label_groups": "economics"
+      }
+    ],
+    "main_definition": "( mathematical analysis ) The quality of being integrable (having an antidifference or antiderivative ).",
+    "secondary_definitions": [
+      "( economics ) The recoverability of preferences from a Walrasian demand function ."
+    ]
+  }
+]

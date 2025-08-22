@@ -1,0 +1,45 @@
+[
+  {
+    "word": "airdrop",
+    "lemma": "airdrop",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "airdrops"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of delivering goods , equipment , or personnel by dropping them from an aircraft in flight .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The distribution of free tokens to help bootstrap a new cryptocurrency .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptocurrencies"
+        ],
+        "label_groups": "cryptocurrencies"
+      }
+    ],
+    "main_definition": "The act of delivering goods , equipment , or personnel by dropping them from an aircraft in flight .",
+    "secondary_definitions": [
+      "( cryptocurrencies ) The distribution of free tokens to help bootstrap a new cryptocurrency ."
+    ]
+  }
+]

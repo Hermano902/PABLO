@@ -1,0 +1,59 @@
+[
+  {
+    "word": "roman",
+    "lemma": "roman",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹəʊmən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Upright , as opposed to italic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "italic",
+          "italicised",
+          "italicized",
+          "oblique",
+          "slanted",
+          "sloped"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of type",
+          "typography"
+        ],
+        "label_groups": "of type , typography"
+      },
+      {
+        "definition": "Of or related to the Latin alphabet or roman numerals .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of text",
+          "typography",
+          "computing"
+        ],
+        "label_groups": "of text , typography , computing"
+      }
+    ],
+    "main_definition": "( of type , typography ) Upright , as opposed to italic .",
+    "secondary_definitions": [
+      "( of text , typography , computing ) Of or related to the Latin alphabet or roman numerals ."
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "binomial",
+    "lemma": "binomial",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/baɪˈnəʊ.mi.əl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "binomials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A polynomial with two terms.",
+        "examples": [],
+        "synonyms": [
+          "binome"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "A quantity expressed as the sum or difference of two terms.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "A scientific name at the rank of species , with two terms: a generic name and a specific name.",
+        "examples": [],
+        "synonyms": [
+          "binomen",
+          "binomial name",
+          "binominal",
+          "binominal name",
+          "species name",
+          "dionym"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      }
+    ],
+    "main_definition": "( algebra ) A polynomial with two terms.",
+    "secondary_definitions": [
+      "( algebra ) A quantity expressed as the sum or difference of two terms.",
+      "( taxonomy ) A scientific name at the rank of species , with two terms: a generic name and a specific name."
+    ]
+  }
+]

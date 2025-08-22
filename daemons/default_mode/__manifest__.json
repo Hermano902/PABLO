@@ -1,0 +1,10 @@
+{
+  "id": "daemon.default_mode",
+  "kind": "daemon",
+  "entry": "daemons.default_mode.main:run",
+  "emits": [
+    "DMN/IDEA",
+    "MEM/CONSOLIDATE/TICK"
+  ],
+  "enable": true
+}

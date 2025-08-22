@@ -1,0 +1,66 @@
+[
+  {
+    "word": "decider",
+    "lemma": "decider",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈsaɪdə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deciders"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person, divinity , or authoritative text which decides.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a controversy",
+          "question",
+          "etc"
+        ],
+        "label_groups": "of a controversy, question, etc"
+      },
+      {
+        "definition": "An event or action which decides the outcome of a contested matter.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly British",
+          "Australia",
+          "sports"
+        ],
+        "label_groups": "chiefly British , Australia , sports"
+      },
+      {
+        "definition": "A Turing machine that halts regardless of its input .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( of a controversy, question, etc ) A person, divinity , or authoritative text which decides.",
+    "secondary_definitions": [
+      "( chiefly British , Australia , sports ) An event or action which decides the outcome of a contested matter.",
+      "( computer science ) A Turing machine that halts regardless of its input ."
+    ]
+  }
+]

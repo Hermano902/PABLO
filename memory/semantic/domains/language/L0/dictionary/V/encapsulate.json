@@ -1,0 +1,81 @@
+[
+  {
+    "word": "encapsulate",
+    "lemma": "encapsulate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈkæps(j)ʊˌleɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "encapsulates",
+          "PT": "encapsulated",
+          "PAP": "encapsulated",
+          "PRP": "encapsulating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To enclose something in, or as if in, a capsule .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To epitomize something by expressing it as a brief summary .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enclose objects in a common interface in a way that makes them interchangeable , and guards their states from invalid changes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software",
+          "object-oriented programming"
+        ],
+        "label_groups": "software , object-oriented programming"
+      },
+      {
+        "definition": "To enclose data in packets that can be transmitted using a given protocol .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "( transitive ) To enclose something in, or as if in, a capsule .",
+    "secondary_definitions": [
+      "( transitive ) To epitomize something by expressing it as a brief summary .",
+      "( software , object-oriented programming ) To enclose objects in a common interface in a way that makes them interchangeable , and guards their states from invalid changes.",
+      "( networking ) To enclose data in packets that can be transmitted using a given protocol ."
+    ]
+  }
+]

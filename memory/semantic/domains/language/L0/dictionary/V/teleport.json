@@ -1,0 +1,54 @@
+[
+  {
+    "word": "teleport",
+    "lemma": "teleport",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɛləpɔː(ɹ)t/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "teleports",
+          "PT": "teleported",
+          "PAP": "teleported",
+          "PRP": "teleporting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To travel , often instantaneously , from one point to another without physically crossing the distance between the two points.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move (an object) in this fashion, as by telekinesis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To travel , often instantaneously , from one point to another without physically crossing the distance between the two points.",
+    "secondary_definitions": [
+      "( transitive ) To move (an object) in this fashion, as by telekinesis ."
+    ]
+  }
+]

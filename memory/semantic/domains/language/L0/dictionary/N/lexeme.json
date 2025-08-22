@@ -1,0 +1,99 @@
+[
+  {
+    "word": "lexeme",
+    "lemma": "lexeme",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛkˌsiːm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "lexemes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A lexical item corresponding to the set of all words (or of all multi-word expressions ) that are semantically related through inflection of a particular shared basic form .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The abstract minimum unit of language or meaning that underlies such a set.",
+            "examples": [],
+            "synonyms": [
+              "lexical item",
+              "semanteme"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "strictly"
+            ],
+            "label_groups": "strictly"
+          },
+          {
+            "definition": "The set itself; a lexemic family.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "loosely",
+              "metonymic"
+            ],
+            "label_groups": "loosely , metonymic"
+          },
+          {
+            "definition": "The wordform chosen to represent such a set or family.",
+            "examples": [],
+            "synonyms": [
+              "base form",
+              "basic form",
+              "canonical form",
+              "citation form",
+              "dictionary form",
+              "headword",
+              "lemma"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "loosely",
+              "metonymic"
+            ],
+            "label_groups": "loosely , metonymic"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "An individual instance of a continuous character sequence without spaces, used in lexical analysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( linguistics ) A lexical item corresponding to the set of all words (or of all multi-word expressions ) that are semantically related through inflection of a particular shared basic form .",
+    "secondary_definitions": [
+      "( computing ) An individual instance of a continuous character sequence without spaces, used in lexical analysis ."
+    ]
+  }
+]

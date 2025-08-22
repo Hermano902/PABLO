@@ -1,0 +1,242 @@
+[
+  {
+    "word": "abstract",
+    "lemma": "abstract",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈæbˌstɹækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "abstracter",
+          "SUP": "abstractest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Derived; extracted.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete",
+        "dating_raw": "Attested from around 1350 to 1470 until the late 15 century."
+      },
+      {
+        "definition": "Drawn away; removed from; apart from; separate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now rare"
+        ],
+        "label_groups": "now rare",
+        "dating_raw": "First attested around 1350 to 1470."
+      },
+      {
+        "definition": "Not concrete : conceptual , ideal .",
+        "examples": [
+          "Her new film is an abstract piece, combining elements of magic realism, flashbacks, and animation but with very little in terms of plot construction."
+        ],
+        "synonyms": [
+          "conceptual",
+          "ideal",
+          "imaginary",
+          "incorporeal",
+          "intangible",
+          "nonempirical",
+          "theoretical"
+        ],
+        "antonyms": [
+          "actual",
+          "concrete",
+          "corporeal",
+          "empirical"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Insufficiently factual.",
+            "examples": [],
+            "synonyms": [
+              "formal"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Apart from practice or reality ; vague ; theoretical ; impersonal ; not applied.",
+            "examples": [],
+            "synonyms": [
+              "conceptual",
+              "theoretical"
+            ],
+            "antonyms": [
+              "applied",
+              "practical"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "As a noun, denoting a concept or intangible as opposed to an object, place, or person.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "grammar"
+            ],
+            "label_groups": "grammar"
+          }
+        ],
+        "senses": [],
+        "dating_raw": "First attested around 1350 to 1470."
+      },
+      {
+        "definition": "Difficult to understand; abstruse ; hard to conceptualize.",
+        "examples": [
+          "The politician gave a somewhat abstract answer when asked about their plans to cut spending."
+        ],
+        "synonyms": [
+          "abstruse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "First attested around 1350 to 1470."
+      },
+      {
+        "definition": "Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive , ascriptive .",
+        "examples": [],
+        "synonyms": [
+          "attributive",
+          "ascriptive"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "First attested around 1350 to 1470."
+      },
+      {
+        "definition": "Pertaining comprehensively to, or representing , a class or group of objects , as opposed to any specific object; considered apart from any application to a particular object: general , generic , nonspecific ; representational .",
+        "examples": [],
+        "synonyms": [
+          "general",
+          "generalized",
+          "generic",
+          "nonspecific",
+          "representational"
+        ],
+        "antonyms": [
+          "discrete",
+          "specific",
+          "particular",
+          "precise"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "dating_raw": "First attested by Locke in 1689."
+      },
+      {
+        "definition": "Absent-minded .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic",
+        "dating_raw": "First attested in the early 16 century."
+      },
+      {
+        "definition": "Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships among them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Free from representational qualities, in particular the non-representational styles of the 20 century.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "art",
+              "often capitalized"
+            ],
+            "label_groups": "art , often capitalized",
+            "dating_raw": "First attested in the mid 19 century."
+          },
+          {
+            "definition": "Absolute .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "music"
+            ],
+            "label_groups": "music"
+          },
+          {
+            "definition": "Lacking a story.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "dance"
+            ],
+            "label_groups": "dance"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "art"
+        ],
+        "label_groups": "art",
+        "dating_raw": "First attested in the mid 19 century."
+      },
+      {
+        "definition": "Being a partial basis for subclasses rather than a complete template for objects .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming",
+          "of a class"
+        ],
+        "label_groups": "object-oriented programming , of a class"
+      }
+    ],
+    "main_definition": "( obsolete ) Derived; extracted. [Attested from around 1350 to 1470 until the late 15 century.]",
+    "secondary_definitions": [
+      "( now rare ) Drawn away; removed from; apart from; separate . [First attested around 1350 to 1470.]",
+      "Not concrete : conceptual , ideal . [First attested around 1350 to 1470.]",
+      "Difficult to understand; abstruse ; hard to conceptualize. [First attested around 1350 to 1470.]",
+      "Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive , ascriptive . [First attested around 1350 to 1470.]",
+      "Pertaining comprehensively to, or representing , a class or group of objects , as opposed to any specific object; considered apart from any application to a particular object: general , generic , nonspecific ; representational . [First attested by Locke in 1689.]",
+      "( archaic ) Absent-minded . [First attested in the early 16 century.]",
+      "( art ) Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships among them. [First attested in the mid 19 century.]",
+      "( object-oriented programming , of a class ) Being a partial basis for subclasses rather than a complete template for objects ."
+    ]
+  }
+]

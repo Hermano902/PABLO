@@ -1,0 +1,74 @@
+[
+  {
+    "word": "supercritical",
+    "lemma": "supercritical",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more supercritical",
+          "SUP": "most supercritical"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of a substance or system above a critical threshold or range.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Above its critical temperature and critical pressure .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics",
+              "of a fluid"
+            ],
+            "label_groups": "physics , of a fluid"
+          },
+          {
+            "definition": "Having a mass sufficient to sustain an accelerating fission chain reaction .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics",
+              "of a fissile material"
+            ],
+            "label_groups": "physics , of a fissile material"
+          },
+          {
+            "definition": "Above the speed of sound .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "aerodynamics"
+            ],
+            "label_groups": "aerodynamics"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( physics ) Of a substance or system above a critical threshold or range.",
+    "secondary_definitions": []
+  }
+]

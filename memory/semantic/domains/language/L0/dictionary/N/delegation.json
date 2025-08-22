@@ -1,0 +1,69 @@
+[
+  {
+    "word": "delegation",
+    "lemma": "delegation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɛlɪˈɡeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "delegations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of delegating .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of delegates .",
+        "examples": [
+          "the American delegation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A method-dispatching technique describing the lookup and inheritance rules for self-referential calls.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The act whereby or constellation in which the performance of an obligation (owed to an obligee , presuming its validity ; irrespective of the obligation as the target of the delegation, rarely called delegatary ) is assigned by its debtor ( delegator , obligor ) to and towards another party ( delegatee , delegate )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "An act of delegating .",
+    "secondary_definitions": [
+      "A group of delegates .",
+      "( computing ) A method-dispatching technique describing the lookup and inheritance rules for self-referential calls.",
+      "( law ) The act whereby or constellation in which the performance of an obligation (owed to an obligee , presuming its validity ; irrespective of the obligation as the target of the delegation, rarely called delegatary ) is assigned by its debtor ( delegator , obligor ) to and towards another party ( delegatee , delegate )"
+    ]
+  }
+]

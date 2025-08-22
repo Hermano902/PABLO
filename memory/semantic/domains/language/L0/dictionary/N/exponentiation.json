@@ -1,0 +1,54 @@
+[
+  {
+    "word": "exponentiation",
+    "lemma": "exponentiation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛk.spoʊˌnɛn.ʃiˈeɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "exponentiations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The process of calculating a power by multiplying together a number of equal factors, where the exponent specifies the number of factors to multiply.",
+        "examples": [
+          "In 5 the base is 5 and the power is 4, so there are 4 identical factors of 5, and exponentiation gives 625 as the result."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "arithmetic"
+        ],
+        "label_groups": "mathematics , arithmetic"
+      },
+      {
+        "definition": "A mathematical problem involving exponentiation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "arithmetic",
+          "countable"
+        ],
+        "label_groups": "mathematics , arithmetic , countable"
+      }
+    ],
+    "main_definition": "( mathematics , arithmetic ) The process of calculating a power by multiplying together a number of equal factors, where the exponent specifies the number of factors to multiply.",
+    "secondary_definitions": [
+      "( mathematics , arithmetic , countable ) A mathematical problem involving exponentiation."
+    ]
+  }
+]

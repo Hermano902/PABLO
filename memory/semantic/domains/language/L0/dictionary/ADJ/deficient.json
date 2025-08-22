@@ -1,0 +1,56 @@
+[
+  {
+    "word": "deficient",
+    "lemma": "deficient",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɪʃənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more deficient",
+          "SUP": "most deficient"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Lacking something essential ; often construed with in .",
+        "examples": [
+          "They were deficient in social skills."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Insufficient or inadequate in amount .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of a number n, Having the sum of divisors σ(n)<2n, or, equivalently, the sum of proper divisors (or aliquot sum) s(n)<n.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Lacking something essential ; often construed with in .",
+    "secondary_definitions": [
+      "Insufficient or inadequate in amount .",
+      "( mathematics ) Of a number n, Having the sum of divisors σ(n)<2n, or, equivalently, the sum of proper divisors (or aliquot sum) s(n)<n."
+    ]
+  }
+]

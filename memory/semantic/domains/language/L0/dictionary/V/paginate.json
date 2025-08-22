@@ -1,0 +1,68 @@
+[
+  {
+    "word": "paginate",
+    "lemma": "paginate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈpæd͡ʒəneɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "paginates",
+          "PT": "paginated",
+          "PAP": "paginated",
+          "PRP": "paginating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To number the pages of (a book or other document ); to foliate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To divide (a continuous stream of text) into pages.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To separate (data) into batches , so that it can be retrieved with a number of smaller requests .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To number the pages of (a book or other document ); to foliate .",
+    "secondary_definitions": [
+      "( transitive ) To divide (a continuous stream of text) into pages.",
+      "( transitive , computing ) To separate (data) into batches , so that it can be retrieved with a number of smaller requests ."
+    ]
+  }
+]

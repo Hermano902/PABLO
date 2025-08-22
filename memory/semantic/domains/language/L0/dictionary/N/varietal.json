@@ -1,0 +1,50 @@
+[
+  {
+    "word": "varietal",
+    "lemma": "varietal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vəˈɹaɪətəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "varietals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A wine made primarily from or exclusively from a single variety of grape, which carries the name of that grape.",
+        "examples": [
+          "The varietal Merlot has rich red color and a robust fruity taste. Cabernet Sauvignon is a varietal that descended from Cabernet Franc and Sauvignon Blanc."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "blend",
+          "generic"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A coffee made primarily from or exclusively from a single variety of coffee bean.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "A wine made primarily from or exclusively from a single variety of grape, which carries the name of that grape.",
+    "secondary_definitions": [
+      "( by extension ) A coffee made primarily from or exclusively from a single variety of coffee bean."
+    ]
+  }
+]

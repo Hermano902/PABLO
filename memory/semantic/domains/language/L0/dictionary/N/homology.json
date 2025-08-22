@@ -1,0 +1,148 @@
+[
+  {
+    "word": "homology",
+    "lemma": "homology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "homologies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The relationship of being homologous ; a homologous relationship.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "specifically, such relationship in the context of the geometry of perspective .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry",
+              "projective geometry"
+            ],
+            "label_groups": "geometry , projective geometry"
+          },
+          {
+            "definition": "An automorphism of the projective plane (representing a perspective projection ) that leaves all the points of some straight line (the homology axis ) fixed and maps all the lines through some single point (the homology centre ) onto themselves.",
+            "examples": [
+              "If the homology centre lies on the homology axis , the homology is said to be singular or parabolic; otherwise, it is called non-singular or hyperbolic."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "geometry",
+              "projective geometry"
+            ],
+            "label_groups": "geometry , projective geometry"
+          },
+          {
+            "definition": "A general way of associating a sequence of algebraic objects, such as abelian groups or modules , to a sequence of topological spaces ; also used attributively: see Usage notes below .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "topology",
+              "algebraic topology"
+            ],
+            "label_groups": "topology , algebraic topology"
+          },
+          {
+            "definition": "Given a chain complex { G n } and its associated set of homomorphisms { H n }, the rule which explains how each H n maps G n into the kernel of G n +1 .",
+            "examples": [
+              "Because of their connection with both homology and cohomology, chain complexes are an important topic of study in homological algebra."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra"
+            ],
+            "label_groups": "algebra"
+          },
+          {
+            "definition": "The relationship, between elements , of being in the same group of the periodic table .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry"
+            ],
+            "label_groups": "chemistry"
+          },
+          {
+            "definition": "The relationship, between organic compounds , of being in the same homologous series .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "organic chemistry"
+            ],
+            "label_groups": "organic chemistry"
+          },
+          {
+            "definition": "The relationship, between characteristics or behaviours, of having a shared evolutionary or developmental origin; ( evolutionary theory ) specifically, a correspondence between structures in separate life forms having a common evolutionary origin, such as that between mammalian flippers and hands .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology",
+              "psychology"
+            ],
+            "label_groups": "biology , psychology"
+          },
+          {
+            "definition": "The presence of the same series of bases in different but related genes .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "genetics"
+            ],
+            "label_groups": "genetics"
+          },
+          {
+            "definition": "The relationship, between temporally separated human beliefs, practices or artefacts, of possessing shared characteristics attributed to genetic or historical links to a common ancestor.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "anthropology"
+            ],
+            "label_groups": "anthropology"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "The relationship of being homologous ; a homologous relationship.",
+    "secondary_definitions": []
+  }
+]

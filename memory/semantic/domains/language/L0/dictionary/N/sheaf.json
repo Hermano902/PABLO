@@ -1,0 +1,108 @@
+[
+  {
+    "word": "sheaf",
+    "lemma": "sheaf",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ʃiːf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sheaves"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A quantity of the stalks and ears of wheat , rye , or other grain , bound together; a bundle of grain or straw .",
+        "examples": [],
+        "synonyms": [
+          "reap"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any collection of things bound together.",
+        "examples": [
+          "a sheaf of paper"
+        ],
+        "synonyms": [
+          "bundle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A bundle of arrows sufficient to fill a quiver , or the allowance of each archer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A quantity of arrows , usually twenty-four .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sheave .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanical"
+        ],
+        "label_groups": "mechanical"
+      },
+      {
+        "definition": "An abstract construct in topology that associates data to the open sets of a topological space (i.e. a presheaf ) in such a way so as to make the local and global data compatible, generalizing the situation of functions , fiber bundles , manifold structure, etc. on a topological space. Formally, a presheaf F {\\displaystyle {\\mathcal {F}}} whose sections are, in a technical sense, uniquely determined by their restrictions onto smaller sets: that is, given an open cover { U i } {\\displaystyle \\{U_{i}\\}} of U {\\displaystyle U} :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "If two sections over U {\\displaystyle U} agree under restriction to every U i {\\displaystyle U_{i}} , then the sections are the same.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Given a family of sections s i ∈ F ( U i ) {\\displaystyle s_{i}\\in {\\mathcal {F}}(U_{i})} such that all pairs ( s i , s j ) {\\displaystyle (s_{i},s_{j})} agree under restriction to U i ∩ U j {\\displaystyle U_{i}\\cap U_{j}} , there is a (unique) section s {\\displaystyle s} over U {\\displaystyle U} whose restriction to U i {\\displaystyle U_{i}} is s i {\\displaystyle s_{i}} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "A quantity of the stalks and ears of wheat , rye , or other grain , bound together; a bundle of grain or straw .",
+    "secondary_definitions": [
+      "Any collection of things bound together.",
+      "A bundle of arrows sufficient to fill a quiver , or the allowance of each archer .",
+      "A quantity of arrows , usually twenty-four .",
+      "( mechanical ) A sheave .",
+      "( mathematics ) An abstract construct in topology that associates data to the open sets of a topological space (i.e. a presheaf ) in such a way so as to make the local and global data compatible, generalizing the situation of functions , fiber bundles , manifold structure, etc. on a topological space. Formally, a presheaf F {\\displaystyle {\\mathcal {F}}} whose sections are, in a technical sense, uniquely determined by their restrictions onto smaller sets: that is, given an open cover { U i } {\\displaystyle \\{U_{i}\\}} of U {\\displaystyle U} :"
+    ]
+  }
+]

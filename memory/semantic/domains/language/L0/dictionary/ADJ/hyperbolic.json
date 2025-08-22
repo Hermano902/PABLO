@@ -1,0 +1,135 @@
+[
+  {
+    "word": "hyperbolic",
+    "lemma": "hyperbolic",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌhaɪ.pɚˈbɔl.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more hyperbolic",
+          "SUP": "most hyperbolic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or relating to hyperbole .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Using hyperbole: exaggerated .",
+        "examples": [],
+        "synonyms": [
+          "exaggerative"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( vision , of a perceived color ) Having a saturation exceeding 100%.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Of or relating to hyperbole .",
+    "secondary_definitions": [
+      "Using hyperbole: exaggerated .",
+      "( vision , of a perceived color ) Having a saturation exceeding 100%."
+    ]
+  },
+  {
+    "word": "hyperbolic",
+    "lemma": "hyperbolic",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ˌhaɪ.pɚˈbɔl.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or pertaining to a hyperbola .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Indicates that the specified function is a hyperbolic function rather than a trigonometric function .",
+        "examples": [
+          "The hyperbolic cosine of zero is one."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having negative curvature or sectional curvature .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a metric space or a geometry"
+        ],
+        "label_groups": "mathematics , of a metric space or a geometry"
+      },
+      {
+        "definition": "Whose domain has two (possibly ideal ) fixed points joined by a line mapped to itself by translation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "topology",
+          "of an automorphism"
+        ],
+        "label_groups": "geometry , topology , of an automorphism"
+      },
+      {
+        "definition": "Of, pertaining to , or in a hyperbolic space ( a space having negative curvature or sectional curvature ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      }
+    ],
+    "main_definition": "Of or pertaining to a hyperbola .",
+    "secondary_definitions": [
+      "Indicates that the specified function is a hyperbolic function rather than a trigonometric function .",
+      "( mathematics , of a metric space or a geometry ) Having negative curvature or sectional curvature .",
+      "( geometry , topology , of an automorphism ) Whose domain has two (possibly ideal ) fixed points joined by a line mapped to itself by translation .",
+      "( topology ) Of, pertaining to , or in a hyperbolic space ( a space having negative curvature or sectional curvature ) ."
+    ]
+  }
+]

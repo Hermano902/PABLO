@@ -1,0 +1,55 @@
+[
+  {
+    "word": "intolerance",
+    "lemma": "intolerance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈtɒl.ə.ɹəns/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "intolerances"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state of being intolerant .",
+        "examples": [
+          "Religious intolerance is a serious problem in Brazil."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "Extreme sensitivity to a food or drug ; of a food that is generally considered edible , an individual inability to digest it.",
+        "examples": [
+          "lactose intolerance"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "medicine"
+        ],
+        "label_groups": "countable , medicine"
+      }
+    ],
+    "main_definition": "( uncountable ) The state of being intolerant .",
+    "secondary_definitions": [
+      "( countable , medicine ) Extreme sensitivity to a food or drug ; of a food that is generally considered edible , an individual inability to digest it."
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "skill.search",
+  "kind": "skill",
+  "entry": "cognition.skills.search.main:run",
+  "accepts": [
+    "EYE/*",
+    "EAR/*",
+    "SYS/*",
+    "COG/CONTEXT/*"
+  ],
+  "emits": [
+    "COG/REASON/OPTIONS",
+    "COG/PLAN/PROPOSAL"
+  ],
+  "enable": true
+}

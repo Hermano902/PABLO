@@ -1,0 +1,96 @@
+[
+  {
+    "word": "concern",
+    "lemma": "concern",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kənˈsɝn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "concerns"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That which affects one’s welfare or happiness. A matter of interest to someone.",
+        "examples": [
+          "Mark’s health was of great concern to Connie."
+        ],
+        "synonyms": [
+          "interest"
+        ],
+        "antonyms": [
+          "unconcern"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The placement of interest or worry on a subject.",
+        "examples": [
+          "Most people in Australia have no concern for the recent events in London."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A worry; a sense that something may be wrong; an identification of a possible problem.",
+        "examples": [
+          "Let me know if you have any questions or concerns about the document."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The expression of solicitude , anxiety , or compassion toward a thing or person.",
+        "examples": [
+          "Judy's eyes filled with concern as she listened to the news report."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A business , firm or enterprise ; a company .",
+        "examples": [
+          "The employees’ attitude is really hurting the concern .",
+          "a going concern"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any set of information that affects the code of a computer program .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "That which affects one’s welfare or happiness. A matter of interest to someone.",
+    "secondary_definitions": [
+      "The placement of interest or worry on a subject.",
+      "A worry; a sense that something may be wrong; an identification of a possible problem.",
+      "The expression of solicitude , anxiety , or compassion toward a thing or person.",
+      "A business , firm or enterprise ; a company .",
+      "( programming ) Any set of information that affects the code of a computer program ."
+    ]
+  }
+]

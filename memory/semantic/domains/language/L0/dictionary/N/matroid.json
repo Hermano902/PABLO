@@ -1,0 +1,37 @@
+[
+  {
+    "word": "matroid",
+    "lemma": "matroid",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "matroids"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A structure that captures the essence of a notion of \" independence \" that generalizes linear independence in vector spaces and acyclicality in graphs .",
+        "examples": [
+          "A matroid can be defined in terms of bases. A matroid consists of a ground set as well as a set of bases which is a nonempty subset of the power set of the ground set."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "combinatorics"
+        ],
+        "label_groups": "combinatorics"
+      }
+    ],
+    "main_definition": "( combinatorics ) A structure that captures the essence of a notion of \" independence \" that generalizes linear independence in vector spaces and acyclicality in graphs .",
+    "secondary_definitions": []
+  }
+]

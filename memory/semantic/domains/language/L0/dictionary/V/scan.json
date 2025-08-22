@@ -1,0 +1,169 @@
+[
+  {
+    "word": "scan",
+    "lemma": "scan",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skæn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scans",
+          "PT": "scanned",
+          "PAP": "scanned",
+          "PRP": "scanning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To examine sequentially, carefully, or critically; to scrutinize ; to behold closely.",
+        "examples": [
+          "She scanned the passage carefully but could not find what she was looking for.",
+          "He scanned the horizon."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To inspect , analyse or go over , often to find something.",
+            "examples": [
+              "to scan the hard drive for errors"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "transitive"
+            ],
+            "label_groups": "computing , transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 16th C."
+      },
+      {
+        "definition": "To look about for; to look over quickly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To perform lexical analysis ; to tokenize .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing",
+              "transitive"
+            ],
+            "label_groups": "computing , transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 19th C."
+      },
+      {
+        "definition": "To create an image of something with the use of a scanner .",
+        "examples": [
+          "to scan a photograph",
+          "to scan internal organs by means of computed tomography",
+          "Pencil drawings don't scan very well."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "medicine",
+          "transitive"
+        ],
+        "label_groups": "computing , medicine , transitive"
+      },
+      {
+        "definition": "To read with an electronic device .",
+        "examples": [
+          "to scan a barcode",
+          "to scan a QR code"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To mount by steps ; to go through with step by step.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive",
+          "originally"
+        ],
+        "label_groups": "obsolete , transitive , originally"
+      },
+      {
+        "definition": "To read or mark so as to show a specific metre .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poetry",
+          "transitive"
+        ],
+        "label_groups": "poetry , transitive",
+        "dating_raw": "from 14th C."
+      },
+      {
+        "definition": "To conform to a metrical structure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "poetry",
+          "intransitive"
+        ],
+        "label_groups": "poetry , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To examine sequentially, carefully, or critically; to scrutinize ; to behold closely. [from 16th C.]",
+    "secondary_definitions": [
+      "( transitive ) To look about for; to look over quickly. [from 19th C.]",
+      "( computing , medicine , transitive ) To create an image of something with the use of a scanner .",
+      "( computing , transitive ) To read with an electronic device .",
+      "( obsolete , transitive , originally ) To mount by steps ; to go through with step by step.",
+      "( poetry , transitive ) To read or mark so as to show a specific metre . [from 14th C.]",
+      "( poetry , intransitive ) To conform to a metrical structure."
+    ]
+  }
+]

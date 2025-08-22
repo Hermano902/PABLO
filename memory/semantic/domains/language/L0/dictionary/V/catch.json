@@ -1,0 +1,694 @@
+[
+  {
+    "word": "catch",
+    "lemma": "catch",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kat͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "catches",
+          "PT": "caught",
+          "PAP": "caught",
+          "PRP": "catching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To capture, overtake.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To capture or snare (someone or something which would rather escape).",
+            "examples": [
+              "I hope I catch a fish.",
+              "He ran but we caught him at the exit.",
+              "The police caught the robber at a nearby casino."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 13 c."
+          },
+          {
+            "definition": "To entrap or trip up a person; to deceive .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "To marry or enter into a similar relationship with.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "figuratively",
+              "dated"
+            ],
+            "label_groups": "transitive , figuratively , dated"
+          },
+          {
+            "definition": "To reach (someone) with a strike , blow , weapon etc.",
+            "examples": [
+              "If he catches you on the chin, you'll be on the mat."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To overtake or catch up to; to be in time for.",
+            "examples": [
+              "If you leave now you might catch him.",
+              "I would love to have dinner but I have to catch a plane."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "To unpleasantly discover unexpectedly; to unpleasantly surprise (someone doing something).",
+            "examples": [
+              "He was caught on video robbing the bank.",
+              "He was caught in the act of stealing a biscuit."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "To travel by means of.",
+            "examples": [
+              "catch the bus"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 19 c."
+          },
+          {
+            "definition": "To become pregnant . (Only in past tense or as participle.)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "rare"
+            ],
+            "label_groups": "transitive , rare",
+            "dating_raw": "from 19 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To seize hold of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To grab , seize , take hold of.",
+            "examples": [
+              "I caught her by the arm and turned her to face me."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "dated"
+            ],
+            "label_groups": "transitive , dated",
+            "dating_raw": "from 13 c."
+          },
+          {
+            "definition": "To take or replenish something necessary, such as breath or sleep .",
+            "examples": [
+              "I have to stop for a moment and catch my breath",
+              "I caught some Z's on the train."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "To grip or entangle .",
+            "examples": [
+              "My leg was caught in a tree-root."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "To be held back or impeded .",
+            "examples": [
+              "Be careful your dress doesn't catch on that knob.",
+              "His voice caught when he came to his father's name."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To engage with some mechanism; to stick , to succeed in interacting with something or initiating some process.",
+            "examples": [
+              "Push it in until it catches .",
+              "The engine finally caught and roared to life."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To have something be held back or impeded .",
+            "examples": [
+              "I caught my heel on the threshold."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To make a grasping or snatching motion (at).",
+            "examples": [
+              "He caught at the railing as he fell."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive",
+            "dating_raw": "from 17 c."
+          },
+          {
+            "definition": "To spread or be conveyed to.",
+            "examples": [
+              "The fire spread slowly until it caught the eaves of the barn."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "of fire"
+            ],
+            "label_groups": "transitive , of fire",
+            "dating_raw": "from 18 c."
+          },
+          {
+            "definition": "To grip (the water) with one's oars at the beginning of the stroke.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "rowing"
+            ],
+            "label_groups": "transitive , rowing",
+            "dating_raw": "from 19 c."
+          },
+          {
+            "definition": "To germinate and set down roots .",
+            "examples": [
+              "The seeds caught and grew."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "agriculture"
+            ],
+            "label_groups": "intransitive , agriculture",
+            "dating_raw": "from 19 c."
+          },
+          {
+            "definition": "To contact a wave in such a way that one can ride it back to shore .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "surfing"
+            ],
+            "label_groups": "transitive , surfing"
+          },
+          {
+            "definition": "To handle an exception .",
+            "examples": [
+              "When the program catches an exception, this is recorded in the log file."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "computing"
+            ],
+            "label_groups": "transitive , computing",
+            "dating_raw": "from 20 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To intercept.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To seize or intercept an object moving through the air (or, sometimes, some other medium).",
+            "examples": [
+              "I will throw you the ball, and you catch it.",
+              "Watch me catch this raisin in my mouth."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To seize (an opportunity ) when it occurs.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "now rare"
+            ],
+            "label_groups": "transitive , now rare",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To end a player's innings by catching a hit ball before the first bounce.",
+            "examples": [
+              "Townsend hit 29 before he was caught by Wilson."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "cricket"
+            ],
+            "label_groups": "transitive , cricket",
+            "dating_raw": "from 18 c."
+          },
+          {
+            "definition": "To play (a specific period of time) as the catcher .",
+            "examples": [
+              "He caught the last three innings."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive",
+              "baseball"
+            ],
+            "label_groups": "transitive , intransitive , baseball",
+            "dating_raw": "from 19 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To receive (by being in the way).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To be the victim of (something unpleasant, painful etc.).",
+            "examples": [
+              "You're going to catch a beating if they find out."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 13 c."
+          },
+          {
+            "definition": "To be touched or affected by (something) through exposure.",
+            "examples": [
+              "The sunlight caught the leaves and the trees turned to gold.",
+              "Her hair was caught by the light breeze."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 13 c."
+          },
+          {
+            "definition": "To become infected by (an illness).",
+            "examples": [
+              "Everyone seems to be catching the flu this week."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To spread by infection or similar means.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To receive or be affected by (wind, water, fire etc.).",
+            "examples": [
+              "The bucket catches water from the downspout.",
+              "The trees caught quickly in the dry wind."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "intransitive"
+            ],
+            "label_groups": "transitive , intransitive",
+            "dating_raw": "from 18 c."
+          },
+          {
+            "definition": "To acquire , as though by infection; to take on through sympathy or influence.",
+            "examples": [
+              "She finally caught the mood of the occasion.",
+              "And the next thing I knew, I had caught feelings for her."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To be hit by something.",
+            "examples": [
+              "He caught a bullet in the back of the head last year."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To serve well or poorly for catching, especially for catching fish.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          },
+          {
+            "definition": "To get pregnant.",
+            "examples": [
+              "Well, if you didn't catch this time, we'll have more fun trying again until you do."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To take in with one's senses or intellect.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To grasp mentally: perceive and understand .",
+            "examples": [
+              "Did you catch his name?",
+              "Did you catch the way she looked at him?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 16 c."
+          },
+          {
+            "definition": "To take in ; to watch or listen to (an entertainment).",
+            "examples": [
+              "I have some free time tonight so I think I'll catch a movie."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive",
+              "informal"
+            ],
+            "label_groups": "transitive , informal",
+            "dating_raw": "from 20 c."
+          },
+          {
+            "definition": "To reproduce or echo a spirit or idea faithfully.",
+            "examples": [
+              "You've really caught his determination in this sketch."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 17 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To seize attention, interest.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To charm or entrance .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 14 c."
+          },
+          {
+            "definition": "To attract and hold (a faculty or organ of sense).",
+            "examples": [
+              "He managed to catch her attention.",
+              "The enormous scarf did catch my eye."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive",
+            "dating_raw": "from 17 c."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading"
+        ],
+        "label_groups": "heading"
+      },
+      {
+        "definition": "To notice .",
+        "examples": [
+          "-You made a typo. -Ah, thanks for catching that."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( heading ) To capture, overtake.",
+    "secondary_definitions": [
+      "( heading ) To seize hold of.",
+      "( heading ) To intercept.",
+      "( heading ) To receive (by being in the way).",
+      "( heading ) To take in with one's senses or intellect.",
+      "( heading ) To seize attention, interest.",
+      "To notice ."
+    ]
+  }
+]

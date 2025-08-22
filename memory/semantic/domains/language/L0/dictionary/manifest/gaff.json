@@ -1,0 +1,31 @@
+{
+  "word": "gaff",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 4,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\gaff.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\gaff.json"
+  },
+  "timestamp": "2025-08-19T04:14:03.411298Z"
+}

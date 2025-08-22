@@ -1,0 +1,120 @@
+[
+  {
+    "word": "eliminate",
+    "lemma": "eliminate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈlɪm.ɪ.neɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "eliminates",
+          "PT": "eliminated",
+          "PAP": "eliminated",
+          "PRP": "eliminating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To completely remove , get rid of , put an end to.",
+        "examples": [],
+        "synonyms": [
+          "abrogate",
+          "abolish",
+          "erase"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To render (a facility) unusable, to destroy it; to disable (a soldier), make them unable to fight (typically but not necessarily by killing)",
+        "examples": [],
+        "synonyms": [
+          "neutralize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To kill (a person or animal).",
+        "examples": [
+          "a ruthless mobster who eliminated his enemies"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To excrete (waste products).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "physiology"
+        ],
+        "label_groups": "ambitransitive , physiology"
+      },
+      {
+        "definition": "To exclude (from investigation or from further competition).",
+        "examples": [
+          "Bill was eliminated as a suspect when the police interviewed witnesses.",
+          "John was eliminated as a contestant when it was found he had gained, rather than lost, weight."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To record amounts in a consolidation statement to remove the effects of inter-company transactions.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting"
+        ],
+        "label_groups": "accounting"
+      }
+    ],
+    "main_definition": "( transitive ) To completely remove , get rid of , put an end to.",
+    "secondary_definitions": [
+      "( transitive , military ) To render (a facility) unusable, to destroy it; to disable (a soldier), make them unable to fight (typically but not necessarily by killing)",
+      "( transitive , slang ) To kill (a person or animal).",
+      "( ambitransitive , physiology ) To excrete (waste products).",
+      "( transitive ) To exclude (from investigation or from further competition).",
+      "( accounting ) To record amounts in a consolidation statement to remove the effects of inter-company transactions."
+    ]
+  }
+]

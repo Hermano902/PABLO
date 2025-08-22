@@ -1,0 +1,73 @@
+[
+  {
+    "word": "sculpt",
+    "lemma": "sculpt",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skʌlpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sculpts",
+          "PT": "sculpted",
+          "PAP": "sculpted",
+          "PRP": "sculpting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To form by sculpture .",
+        "examples": [
+          "They sculpted a statue out of clay."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To work as a sculptor .",
+        "examples": [
+          "What do you do? -I used to box, but now I sculpt."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To carve out gradually.",
+        "examples": [
+          "Landforms sculpted by the wind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To form by sculpture .",
+    "secondary_definitions": [
+      "( intransitive ) To work as a sculptor .",
+      "( transitive ) To carve out gradually."
+    ]
+  }
+]

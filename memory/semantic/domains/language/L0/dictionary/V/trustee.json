@@ -1,0 +1,56 @@
+[
+  {
+    "word": "trustee",
+    "lemma": "trustee",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/tɹʌsˈtiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "trustees",
+          "PT": "trusteed",
+          "PAP": "trusteed",
+          "PRP": "trusteeing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To commit (property) to the care of a trustee .",
+        "examples": [
+          "to trustee an estate"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To attach (a debtor's wages, credits, or property in the hands of a third person) in the interest of the creditor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To commit (property) to the care of a trustee .",
+    "secondary_definitions": [
+      "( transitive ) To attach (a debtor's wages, credits, or property in the hands of a third person) in the interest of the creditor."
+    ]
+  }
+]

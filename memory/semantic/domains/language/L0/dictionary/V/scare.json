@@ -1,0 +1,62 @@
+[
+  {
+    "word": "scare",
+    "lemma": "scare",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skɛə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scares",
+          "PT": "scared",
+          "PAP": "scared",
+          "PRP": "scaring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To frighten , terrify , startle , especially in a minor way.",
+        "examples": [
+          "Did it scare you when I said \"Boo!\"?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to be scared.",
+        "examples": [
+          "I don't scare easily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "To be able"
+        ],
+        "label_groups": [
+          "intransitive",
+          "To be able"
+        ]
+      }
+    ],
+    "main_definition": "( transitive ) To frighten , terrify , startle , especially in a minor way.",
+    "secondary_definitions": [
+      "( intransitive ) (To be able) to be scared."
+    ]
+  }
+]

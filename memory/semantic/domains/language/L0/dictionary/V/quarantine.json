@@ -1,0 +1,102 @@
+[
+  {
+    "word": "quarantine",
+    "lemma": "quarantine",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɔɹ.ən.tin/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quarantines",
+          "PT": "quarantined",
+          "PAP": "quarantined",
+          "PRP": "quarantining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place into isolation to prevent the spread of any contagious disease .",
+        "examples": [
+          "Venice began quarantining incoming ships for 40 days in 1448 to prevent further outbreaks of bubonic plague ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To enter or stay in quarantine , particularly to self-quarantine to avoid an epidemic disease .",
+        "examples": [
+          "International travelers must quarantine themselves at their own expense in a designated hotel for 14 days upon arrival."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To impose a quarantine , to establish quarantine regulations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "obsolete"
+        ],
+        "label_groups": "intransitive , obsolete"
+      },
+      {
+        "definition": "Synonym of isolate more generally .",
+        "examples": [
+          "J.F.K. \" quarantined \" Cuba rather than blockading it to avoid needless escalation of the conflict."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "transitive"
+        ],
+        "label_groups": "figurative , transitive"
+      },
+      {
+        "definition": "Synonym of restrict .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "transitive"
+        ],
+        "label_groups": "figurative , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To place into isolation to prevent the spread of any contagious disease .",
+    "secondary_definitions": [
+      "( intransitive ) To enter or stay in quarantine , particularly to self-quarantine to avoid an epidemic disease .",
+      "( intransitive , obsolete ) To impose a quarantine , to establish quarantine regulations .",
+      "( figurative , transitive ) Synonym of isolate more generally .",
+      "( figurative , transitive ) Synonym of restrict ."
+    ]
+  }
+]

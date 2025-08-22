@@ -1,0 +1,52 @@
+[
+  {
+    "word": "soffit",
+    "lemma": "soffit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɒf.ɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "soffits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The visible underside of an arch , balcony , beam , cornice , staircase , vault or any other architectural element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "architecture"
+        ],
+        "label_groups": "architecture"
+      },
+      {
+        "definition": "The top point of the inside open section of a pipe or box conduit.",
+        "examples": [
+          "The elevation of the pipe soffit is 10.4 meters above mean sea level.",
+          "The vents on the bottom of the soffit should be open, and the vents on the side of the soffit should be closed."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pipe technology"
+        ],
+        "label_groups": "pipe technology"
+      }
+    ],
+    "main_definition": "( architecture ) The visible underside of an arch , balcony , beam , cornice , staircase , vault or any other architectural element .",
+    "secondary_definitions": [
+      "( pipe technology ) The top point of the inside open section of a pipe or box conduit."
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "word": "defective",
+    "lemma": "defective",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɛktɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more defective",
+          "SUP": "most defective"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having one or more defects .",
+        "examples": [],
+        "synonyms": [
+          "faulty"
+        ],
+        "antonyms": [
+          "complete",
+          "perfect",
+          "undefective"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Lacking some forms ; e.g., having only one tense or being usable only in the third person .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a lexeme",
+          "especially a verb"
+        ],
+        "label_groups": "grammar , of a lexeme , especially a verb"
+      },
+      {
+        "definition": "Having a root whose final consonant is weak ( ي , و , or ء ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Arabic grammar",
+          "of a verb"
+        ],
+        "label_groups": "Arabic grammar , of a verb"
+      },
+      {
+        "definition": "Not capable of representing all the phonemic distinctions of a language it is used to write .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "orthography",
+          "of a script"
+        ],
+        "label_groups": "orthography , of a script"
+      },
+      {
+        "definition": "Spelled without matres lectionis , for example אמץ ( ómets , “ courage ” ) as opposed to the plene spelling אומץ where the letter vav ⟨ו⟩ indicates the vowel o .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "plene"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly of abjad script"
+        ],
+        "label_groups": "chiefly of abjad script"
+      }
+    ],
+    "main_definition": "Having one or more defects .",
+    "secondary_definitions": [
+      "( grammar , of a lexeme , especially a verb ) Lacking some forms ; e.g., having only one tense or being usable only in the third person .",
+      "( Arabic grammar , of a verb ) Having a root whose final consonant is weak ( ي , و , or ء ).",
+      "( orthography , of a script ) Not capable of representing all the phonemic distinctions of a language it is used to write .",
+      "( chiefly of abjad script ) Spelled without matres lectionis , for example אמץ ( ómets , “ courage ” ) as opposed to the plene spelling אומץ where the letter vav ⟨ו⟩ indicates the vowel o ."
+    ]
+  }
+]

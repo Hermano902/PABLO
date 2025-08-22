@@ -1,0 +1,44 @@
+[
+  {
+    "word": "metadata",
+    "lemma": "metadata",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛt.əˌdeɪ.tə/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Data that describes other data, serving as an informative label .",
+        "examples": [
+          "Most websites contain metadata to tell the computer how to lay out the content on the screen."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Structured information about a file (date created, creator, software used to create, last modified, file format, file fingerprint, etc).",
+        "examples": [
+          "That photo's metadata suggests it was edited using Photoshop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Data that describes other data, serving as an informative label .",
+    "secondary_definitions": [
+      "( computing ) Structured information about a file (date created, creator, software used to create, last modified, file format, file fingerprint, etc)."
+    ]
+  }
+]

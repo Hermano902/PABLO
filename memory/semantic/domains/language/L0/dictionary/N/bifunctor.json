@@ -1,0 +1,35 @@
+[
+  {
+    "word": "bifunctor",
+    "lemma": "bifunctor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bifunctors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A functor between bicategories",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) A functor between bicategories",
+    "secondary_definitions": []
+  }
+]

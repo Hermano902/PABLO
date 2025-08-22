@@ -1,0 +1,66 @@
+[
+  {
+    "word": "autopsy",
+    "lemma": "autopsy",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔːtɒpsiː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "autopsies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A dissection performed on a cadaver to find possible cause(s) of death .",
+        "examples": [
+          "The autopsy revealed he had died of multiple bullet wounds."
+        ],
+        "synonyms": [
+          "necropsy",
+          "necrotomy",
+          "postmortem"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An after-the-fact examination, especially of the causes of a failure.",
+        "examples": [],
+        "synonyms": [
+          "postmortem"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "An eyewitness observation, the presentation of an event as witnessed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rare"
+        ],
+        "label_groups": "rare"
+      }
+    ],
+    "main_definition": "A dissection performed on a cadaver to find possible cause(s) of death .",
+    "secondary_definitions": [
+      "( figuratively ) An after-the-fact examination, especially of the causes of a failure.",
+      "( rare ) An eyewitness observation, the presentation of an event as witnessed."
+    ]
+  }
+]

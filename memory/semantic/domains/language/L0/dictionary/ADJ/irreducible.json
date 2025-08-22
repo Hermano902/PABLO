@@ -1,0 +1,141 @@
+[
+  {
+    "word": "irreducible",
+    "lemma": "irreducible",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˌɪɹɪˈdjuːsɪbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not able to be reduced or lessened .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "unincreasable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not able to be brought to a simpler or reduced form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Unable to be factorized into polynomials of lower degree , as ( x + 1).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a polynomial"
+        ],
+        "label_groups": "mathematics , of a polynomial"
+      },
+      {
+        "definition": "Whose numerator and denominator share no common factor greater than 1.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "number theory",
+          "of a fraction"
+        ],
+        "label_groups": "number theory , of a fraction"
+      },
+      {
+        "definition": "Unable to be factored into smaller integers; prime .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "number theory",
+          "of an integer"
+        ],
+        "label_groups": "number theory , of an integer"
+      },
+      {
+        "definition": "Whose only divisors are units and associates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of an element of a ring"
+        ],
+        "label_groups": "algebra , of an element of a ring"
+      },
+      {
+        "definition": "Inexpressible as the union of two proper algebraic subvarieties.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebraic geometry",
+          "of an algebraic variety"
+        ],
+        "label_groups": "algebraic geometry , of an algebraic variety"
+      },
+      {
+        "definition": "Not containing a sphere of codimension 1 that is not the boundary of a ball .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology",
+          "of a manifold"
+        ],
+        "label_groups": "topology , of a manifold"
+      },
+      {
+        "definition": "Impossible to divide further into representations of lower dimension by means of any similarity transformation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "group theory",
+          "of a representation"
+        ],
+        "label_groups": "group theory , of a representation"
+      }
+    ],
+    "main_definition": "Not able to be reduced or lessened .",
+    "secondary_definitions": [
+      "Not able to be brought to a simpler or reduced form.",
+      "( mathematics , of a polynomial ) Unable to be factorized into polynomials of lower degree , as ( x + 1).",
+      "( number theory , of a fraction ) Whose numerator and denominator share no common factor greater than 1.",
+      "( number theory , of an integer ) Unable to be factored into smaller integers; prime .",
+      "( algebra , of an element of a ring ) Whose only divisors are units and associates .",
+      "( algebraic geometry , of an algebraic variety ) Inexpressible as the union of two proper algebraic subvarieties.",
+      "( topology , of a manifold ) Not containing a sphere of codimension 1 that is not the boundary of a ball .",
+      "( group theory , of a representation ) Impossible to divide further into representations of lower dimension by means of any similarity transformation."
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "word": "must",
+    "lemma": "must",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmʌst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "must",
+          "PT": "must",
+          "PAP": null,
+          "PRP": "must",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To do as a requirement ; indicates that the sentence subject is required as an imperative or directive to execute the sentence predicate , with failure to do so resulting in a failure or negative consequence .",
+        "examples": [
+          "You must arrive in class on time.",
+          "This door handle must be rotated fully.",
+          "Everybody told me I must stop worrying, but I couldn't, because I felt there must be something wrong.",
+          "You really must come and see us soon, pal. - We'll see: I can borrow my dad's car, but I must bring it back before midnight.",
+          "The physician said that I must / had to / would have to stop smoking."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To do with certainty ; indicates that the speaker is certain that the subject will have executed the predicate .",
+        "examples": [
+          "If it has rained all day, it must be very wet outside.",
+          "Where would you have put the keyring? You couldn’t have lost it again! - I must have, because it's nowhere to be found .",
+          "I said it must be pretty late and I really must go."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Used to indicate that something is very likely, probable, or certain to be true.",
+        "examples": [
+          "The children must be asleep by now.",
+          "There's the doorbell. It must be Dad."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To do as a requirement ; indicates that the sentence subject is required as an imperative or directive to execute the sentence predicate , with failure to do so resulting in a failure or negative consequence .",
+    "secondary_definitions": [
+      "To do with certainty ; indicates that the speaker is certain that the subject will have executed the predicate .",
+      "Used to indicate that something is very likely, probable, or certain to be true."
+    ]
+  },
+  {
+    "word": "must",
+    "lemma": "must",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ˈmʌst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "musts",
+          "PT": "musted",
+          "PAP": "musted",
+          "PRP": "musting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make musty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become musty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make musty .",
+    "secondary_definitions": [
+      "( intransitive ) To become musty ."
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "word": "fill",
+    "lemma": "fill",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɪl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fills",
+          "PT": "filled",
+          "PAP": "filled",
+          "PRP": "filling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make full",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To add contents to ( a container , cavity , or the like ) so that it is full .",
+            "examples": [
+              "She filled a glass with milk."
+            ],
+            "synonyms": [
+              "stop"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To enter (something), making it full .",
+            "examples": [
+              "The doors opened and guests filled the auditorium."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To occupy fully , to take up all of.",
+            "examples": [
+              "The smell of spring filled the air.",
+              "The room filled with thick smoke."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "ergative"
+        ],
+        "label_groups": "transitive , ergative"
+      },
+      {
+        "definition": "To become full.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "",
+            "examples": [
+              "The bucket filled with rain",
+              "The sails fill with wind"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of containers",
+              "cavities",
+              "or the like"
+            ],
+            "label_groups": "of containers, cavities , or the like"
+          },
+          {
+            "definition": "To become pervaded with something.",
+            "examples": [
+              "My heart filled with joy."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To satisfy or obey (an order , request , or requirement ).",
+        "examples": [
+          "The pharmacist filled my prescription for penicillin.",
+          "We can't let the library close! It fills a great need in the community.",
+          "To qualify for a home loan, you need to fill a number of requirements."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To install someone, or be installed, in (a position or office ), eliminating a vacancy.",
+        "examples": [
+          "Sorry, no more applicants. The position has been filled ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To treat (a tooth ) by adding a dental filling to it.",
+        "examples": [
+          "Dr. Smith filled Jim's cavity with silver amalgam."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To block , obstruct",
+        "examples": [
+          "The drains were filled with gunk and no water could flow off."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To supply fully with food; to feed; to satisfy.",
+        "examples": [
+          "Are all the children filled and ready for bed?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To trim (a yard ) so that the wind blows on the after side of the sails.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      },
+      {
+        "definition": "To have sexual intercourse with (a female ).",
+        "examples": [
+          "Did you fill that girl last night?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "vulgar",
+          "of a male"
+        ],
+        "label_groups": "transitive , slang , vulgar , of a male"
+      },
+      {
+        "definition": "To ejaculate inside someone or something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "vulgar",
+          "of a male"
+        ],
+        "label_groups": "transitive , slang , vulgar , of a male"
+      }
+    ],
+    "main_definition": "( transitive , ergative ) To make full",
+    "secondary_definitions": [
+      "( intransitive ) To become full.",
+      "( transitive ) To satisfy or obey (an order , request , or requirement ).",
+      "( transitive ) To install someone, or be installed, in (a position or office ), eliminating a vacancy.",
+      "( transitive ) To treat (a tooth ) by adding a dental filling to it.",
+      "( transitive ) To block , obstruct",
+      "( transitive ) To supply fully with food; to feed; to satisfy.",
+      "( transitive , nautical ) To trim (a yard ) so that the wind blows on the after side of the sails.",
+      "( transitive , slang , vulgar , of a male ) To have sexual intercourse with (a female ).",
+      "( transitive , slang , vulgar , of a male ) To ejaculate inside someone or something."
+    ]
+  }
+]

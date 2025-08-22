@@ -1,0 +1,35 @@
+[
+  {
+    "word": "cepstrum",
+    "lemma": "cepstrum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɛpstɹəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cepstra"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The inverse Fourier transform of the logarithm of a magnitude spectrum ; used especially in voice analysis.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "signal processing"
+        ],
+        "label_groups": "signal processing"
+      }
+    ],
+    "main_definition": "( signal processing ) The inverse Fourier transform of the logarithm of a magnitude spectrum ; used especially in voice analysis.",
+    "secondary_definitions": []
+  }
+]

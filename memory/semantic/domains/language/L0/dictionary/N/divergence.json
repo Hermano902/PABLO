@@ -1,0 +1,77 @@
+[
+  {
+    "word": "divergence",
+    "lemma": "divergence",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈvɜː(ɹ)d͡ʒəns/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "divergences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state or degree of being divergent : of diverging .",
+        "examples": [
+          "An angle is made by the divergence of straight lines."
+        ],
+        "synonyms": [
+          "divergency"
+        ],
+        "antonyms": [
+          "convergence",
+          "convergency"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The operator which maps a function F =( F 1 , ... F n ) from a n -dimensional vector space to itself to the function ∑ i = 1 n ∂ F i ∂ x i {\\displaystyle \\sum _{i=1}^{n}{\\frac {\\partial F_{i}}{\\partial x_{i}}}} .",
+        "examples": [],
+        "synonyms": [
+          "div",
+          "∇⋅"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      },
+      {
+        "definition": "Disagreement ; difference .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "The process in which two or more populations accumulate genetic changes (mutations) through time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The state or degree of being divergent : of diverging .",
+    "secondary_definitions": [
+      "( calculus ) The operator which maps a function F =( F 1 , ... F n ) from a n -dimensional vector space to itself to the function ∑ i = 1 n ∂ F i ∂ x i {\\displaystyle \\sum _{i=1}^{n}{\\frac {\\partial F_{i}}{\\partial x_{i}}}} .",
+      "( obsolete ) Disagreement ; difference .",
+      "The process in which two or more populations accumulate genetic changes (mutations) through time."
+    ]
+  }
+]

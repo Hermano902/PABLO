@@ -1,0 +1,54 @@
+[
+  {
+    "word": "haploid",
+    "lemma": "haploid",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈhæplɔɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having the number of chromosomes that a typical gamete has (in the given organism), namely, half the number that a typical somatic cell has (in the given organism).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Having a single set of unpaired chromosomes (which is the number that a typical gamete has in many organisms although not all) .",
+            "examples": [
+              "Examples of haploid cells are prokaryotes and the gametes of eukaryotes ."
+            ],
+            "synonyms": [
+              "monoploid"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "genetics",
+              "strictly"
+            ],
+            "label_groups": "genetics , strictly"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "genetics",
+          "loosely"
+        ],
+        "label_groups": "genetics , loosely"
+      }
+    ],
+    "main_definition": "( genetics , loosely ) Having the number of chromosomes that a typical gamete has (in the given organism), namely, half the number that a typical somatic cell has (in the given organism).",
+    "secondary_definitions": []
+  }
+]

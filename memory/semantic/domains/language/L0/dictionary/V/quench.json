@@ -1,0 +1,119 @@
+[
+  {
+    "word": "quench",
+    "lemma": "quench",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kwɛnt͡ʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "quenches",
+          "PT": "quenched",
+          "PAP": "quenched",
+          "PRP": "quenching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To satisfy , especially a literal or figurative thirst .",
+        "examples": [
+          "The library quenched her thirst for knowledge."
+        ],
+        "synonyms": [
+          "appease",
+          "slake"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To extinguish or put out (as a fire or light).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cool rapidly by direct contact with liquid coolant , as a blacksmith quenching hot iron.",
+        "examples": [
+          "The swordsmith quenched the sword in an oil bath so that it wouldn't shatter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "metallurgy"
+        ],
+        "label_groups": "transitive , metallurgy"
+      },
+      {
+        "definition": "To terminate or greatly diminish (a chemical reaction ) by destroying or deforming the remaining reagents .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chemistry"
+        ],
+        "label_groups": "transitive , chemistry"
+      },
+      {
+        "definition": "To rapidly change the parameters of a physical system .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physics"
+        ],
+        "label_groups": "transitive , physics"
+      },
+      {
+        "definition": "To rapidly terminate the operation of a superconducting electromagnet by causing part or all of the magnet's windings to enter the normal, resistive state.",
+        "examples": [
+          "If someone is pinned against the MRI magnet by a ferromagnetic object, you may need to quench the magnet in order to free them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "physics"
+        ],
+        "label_groups": "transitive , physics"
+      }
+    ],
+    "main_definition": "( transitive ) To satisfy , especially a literal or figurative thirst .",
+    "secondary_definitions": [
+      "( transitive ) To extinguish or put out (as a fire or light).",
+      "( transitive , metallurgy ) To cool rapidly by direct contact with liquid coolant , as a blacksmith quenching hot iron.",
+      "( transitive , chemistry ) To terminate or greatly diminish (a chemical reaction ) by destroying or deforming the remaining reagents .",
+      "( transitive , physics ) To rapidly change the parameters of a physical system .",
+      "( transitive , physics ) To rapidly terminate the operation of a superconducting electromagnet by causing part or all of the magnet's windings to enter the normal, resistive state."
+    ]
+  }
+]

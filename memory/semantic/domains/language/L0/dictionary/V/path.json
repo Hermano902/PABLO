@@ -1,0 +1,57 @@
+[
+  {
+    "word": "path",
+    "lemma": "path",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɑːθ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "paths",
+          "PT": "pathed",
+          "PAP": "pathed",
+          "PRP": "pathing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a path in, or on (something), or for (someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To navigate through a file system directory tree (to a desired file or folder).",
+        "examples": [
+          "Next, you need to path to the location of the executable and run it from there."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "intransitive"
+        ],
+        "label_groups": "computing , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make a path in, or on (something), or for (someone).",
+    "secondary_definitions": [
+      "( computing , intransitive ) To navigate through a file system directory tree (to a desired file or folder)."
+    ]
+  }
+]

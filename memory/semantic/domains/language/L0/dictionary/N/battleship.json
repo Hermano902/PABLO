@@ -1,0 +1,84 @@
+[
+  {
+    "word": "battleship",
+    "lemma": "battleship",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbætəlˌʃɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "battleships"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large capital warship displacing thousands to tens of thousands of tons, heavily armoured and armed with large - caliber guns ; now obsolescent and replaced by smaller vessels with guided missiles .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A starship of comparable role",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "science fiction",
+              "by extension"
+            ],
+            "label_groups": "science fiction , by extension"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "military",
+          "nautical"
+        ],
+        "label_groups": "military , nautical"
+      },
+      {
+        "definition": "A ship of the line .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "nautical",
+          "archaic"
+        ],
+        "label_groups": "military , nautical , archaic"
+      },
+      {
+        "definition": "A non-functional rocket stage , used for configuration and integration tests.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A guessing game played on grid paper ; see Battleship (game) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( military , nautical ) A large capital warship displacing thousands to tens of thousands of tons, heavily armoured and armed with large - caliber guns ; now obsolescent and replaced by smaller vessels with guided missiles .",
+    "secondary_definitions": [
+      "( military , nautical , archaic ) A ship of the line .",
+      "A non-functional rocket stage , used for configuration and integration tests.",
+      "A guessing game played on grid paper ; see Battleship (game) ."
+    ]
+  }
+]

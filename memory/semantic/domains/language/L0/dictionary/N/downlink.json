@@ -1,0 +1,49 @@
+[
+  {
+    "word": "downlink",
+    "lemma": "downlink",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnlɪŋk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "downlinks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The transmission of a signal from a satellite to a receiving station on earth; or the means of this transmission.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      },
+      {
+        "definition": "Transmission of data from a network , usually wireless, to the user .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "telecommunications"
+        ],
+        "label_groups": "telecommunications"
+      }
+    ],
+    "main_definition": "( telecommunications ) The transmission of a signal from a satellite to a receiving station on earth; or the means of this transmission.",
+    "secondary_definitions": [
+      "( telecommunications ) Transmission of data from a network , usually wireless, to the user ."
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "flit",
+    "lemma": "flit",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/flɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "flits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A fluttering or darting movement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A sudden departure from a property .",
+        "examples": [
+          "I did a flit , as the landlord was due to arrive to collect the rent.",
+          "let's do a moonlight flit , if the loanshark catches us here tomorrow without the money to pay our debts, he'll break our fingers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( physics ) A particular, unexpected, short lived change of state.",
+        "examples": [
+          "My computer just had a flit ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( dated , slang ) A homosexual .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A fluttering or darting movement.",
+    "secondary_definitions": [
+      "A sudden departure from a property .",
+      "( physics ) A particular, unexpected, short lived change of state.",
+      "( dated , slang ) A homosexual ."
+    ]
+  },
+  {
+    "word": "flit",
+    "lemma": "flit",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/flɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "flits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A flow control unit or flow control digit .",
+        "examples": [
+          "header flit"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "( networking ) A flow control unit or flow control digit .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "word": "rigged",
+    "lemma": "rigged",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪɡd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more rigged",
+          "SUP": "most rigged"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Prearranged and fixed so that the winner or outcome is decided in advance.",
+        "examples": [
+          "There was a vicious rumour that the final was rigged , as the defense seemed useless."
+        ],
+        "synonyms": [
+          "stacked"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "Having the rigging up.",
+        "examples": [
+          "We were ready to embark upon our journey now the vessel was rigged ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "typically not comparable"
+        ],
+        "label_groups": "nautical , typically not comparable"
+      }
+    ],
+    "main_definition": "( figurative ) Prearranged and fixed so that the winner or outcome is decided in advance.",
+    "secondary_definitions": [
+      "( nautical , typically not comparable ) Having the rigging up."
+    ]
+  }
+]

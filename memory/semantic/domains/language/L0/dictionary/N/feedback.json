@@ -1,0 +1,72 @@
+[
+  {
+    "word": "feedback",
+    "lemma": "feedback",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfiːdˌbæk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "feedbacks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Critical assessment of a process or activity or of their results.",
+        "examples": [
+          "After you hand in your essays, I will give both grades and feedback ."
+        ],
+        "synonyms": [
+          "estimation",
+          "assessment",
+          "critique",
+          "evaluation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The part of an output signal that is looped back into the input to control or modify a system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics",
+          "cybernetics",
+          "control theory"
+        ],
+        "label_groups": "electronics , cybernetics , control theory"
+      },
+      {
+        "definition": "The high-pitched howling noise heard when there is a loop between a microphone and a speaker .",
+        "examples": [],
+        "synonyms": [
+          "audio feedback",
+          "Larsen effect",
+          "howlback",
+          "howlround"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "amplification"
+        ],
+        "label_groups": "amplification"
+      }
+    ],
+    "main_definition": "Critical assessment of a process or activity or of their results.",
+    "secondary_definitions": [
+      "( electronics , cybernetics , control theory ) The part of an output signal that is looped back into the input to control or modify a system.",
+      "( amplification ) The high-pitched howling noise heard when there is a loop between a microphone and a speaker ."
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "word": "decorate",
+    "lemma": "decorate",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛkəɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "decorates",
+          "PT": "decorated",
+          "PAP": "decorated",
+          "PRP": "decorating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To furnish with decorations .",
+        "examples": [
+          "We decorated the Christmas tree with tinsel and baubles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To improve the appearance of an interior of, as a house, room, or office.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "",
+            "examples": [
+              "There's some paint left over from when we decorated the guest bedroom.",
+              "We moved in over a month ago but we still haven't gotten started on decorating ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "By putting paint or wallpaper on the walls."
+            ],
+            "label_groups": "By putting paint or wallpaper on the walls."
+          },
+          {
+            "definition": "",
+            "examples": [
+              "People tend to decorate for the holidays or special events."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "By adding adornments to the interior space."
+            ],
+            "label_groups": "By adding adornments to the interior space."
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To honor by providing a medal, ribbon, or other adornment.",
+        "examples": [
+          "He was a decorated soldier who served in three wars."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To extend a method , etc. by attaching some further code item .",
+        "examples": [
+          "It makes sure that the field name argument is not empty, and that the field specified there is an actual existing field in the class which declares the method decorated with this attribute."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming",
+          "transitive"
+        ],
+        "label_groups": "programming , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To furnish with decorations .",
+    "secondary_definitions": [
+      "( ambitransitive ) To improve the appearance of an interior of, as a house, room, or office.",
+      "( transitive ) To honor by providing a medal, ribbon, or other adornment.",
+      "( programming , transitive ) To extend a method , etc. by attaching some further code item ."
+    ]
+  }
+]

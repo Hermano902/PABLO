@@ -1,0 +1,88 @@
+[
+  {
+    "word": "minimum",
+    "lemma": "minimum",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪnɪməm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "minima"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The lowest limit .",
+        "examples": [
+          "We prefer candidates with a minimum of 4 years experience in the field.",
+          "We need a minimum of three staff members on duty at all times."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The smallest amount .",
+        "examples": [
+          "He always tries to get away with doing the minimum .",
+          "Please keep noise to a minimum after 11 o'clock"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A period of minimum brightness or energy intensity (of a star ).",
+        "examples": [
+          "The Maunder minimum of the Sun reportedly corresponded to a period of great cold on Earth."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "A lower bound of a set which is also an element of that set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematical analysis"
+      },
+      {
+        "definition": "The smallest member of a batch or sample or the lower bound of a probability distribution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "The lowest limit .",
+    "secondary_definitions": [
+      "The smallest amount .",
+      "( astronomy ) A period of minimum brightness or energy intensity (of a star ).",
+      "( mathematical analysis ) A lower bound of a set which is also an element of that set.",
+      "( statistics ) The smallest member of a batch or sample or the lower bound of a probability distribution ."
+    ]
+  }
+]

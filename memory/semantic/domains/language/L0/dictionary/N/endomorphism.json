@@ -1,0 +1,50 @@
+[
+  {
+    "word": "endomorphism",
+    "lemma": "endomorphism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "endomorphisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The assimilation of surrounding rock by an intrusive igneous rock.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "A homomorphism that maps a system to itself .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "countable"
+        ],
+        "label_groups": "mathematics , countable"
+      }
+    ],
+    "main_definition": "( geology ) The assimilation of surrounding rock by an intrusive igneous rock.",
+    "secondary_definitions": [
+      "( mathematics , countable ) A homomorphism that maps a system to itself ."
+    ]
+  }
+]

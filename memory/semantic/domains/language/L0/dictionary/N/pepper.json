@@ -1,0 +1,119 @@
+[
+  {
+    "word": "pepper",
+    "lemma": "pepper",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɛpə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "peppers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A plant of the family Piperaceae .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A spice prepared from the fermented , dried, unripe berries of this plant.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A fruit of the capsicum plant: red, green, yellow or white, hollow and containing seeds, and in a wide range of mild (sweet, nonspicy) to hot (spicy) varieties.",
+        "examples": [],
+        "synonyms": [
+          "capsicum"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "US",
+          "Ireland",
+          "Canada"
+        ],
+        "label_groups": "UK , US , Ireland and Canada"
+      },
+      {
+        "definition": "A game used by baseball players to warm up where fielders standing close to a batter rapidly return the batted ball to be hit again",
+        "examples": [
+          "Some ballparks have signs saying \"No pepper games\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "baseball"
+        ],
+        "label_groups": "baseball"
+      },
+      {
+        "definition": "A randomly-generated value that is added to another value (such as a password) prior to hashing . Unlike a salt , a new one is generated for each value and it is held separately from the value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "A beating ; a thrashing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "boxing",
+          "slang"
+        ],
+        "label_groups": "boxing , slang"
+      },
+      {
+        "definition": "A shotgun .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "MLE",
+          "slang"
+        ],
+        "label_groups": "MLE , slang"
+      }
+    ],
+    "main_definition": "A plant of the family Piperaceae .",
+    "secondary_definitions": [
+      "( uncountable ) A spice prepared from the fermented , dried, unripe berries of this plant.",
+      "( UK , US , Ireland and Canada ) A fruit of the capsicum plant: red, green, yellow or white, hollow and containing seeds, and in a wide range of mild (sweet, nonspicy) to hot (spicy) varieties.",
+      "( baseball ) A game used by baseball players to warm up where fielders standing close to a batter rapidly return the batted ball to be hit again",
+      "( cryptography ) A randomly-generated value that is added to another value (such as a password) prior to hashing . Unlike a salt , a new one is generated for each value and it is held separately from the value.",
+      "( boxing , slang ) A beating ; a thrashing .",
+      "( MLE , slang ) A shotgun ."
+    ]
+  }
+]

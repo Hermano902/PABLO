@@ -1,0 +1,85 @@
+[
+  {
+    "word": "ellipsis",
+    "lemma": "ellipsis",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈlɪpsɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ellipses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A mark consisting of multiple full stops ( with or without spaces ), used to indicate omitted , missing , or illegible words ; or (in mathematics) that a pattern continues .",
+        "examples": [
+          "The ellipsis in 1, 2, 3, ..., 8, 9 means that the numbers 4, 5, 6, and 7 are not explicitly included, but are considered to be part of the pattern.",
+          "The ellipsis in 0.333... means that the number is a repeating decimal, having threes that go on forever."
+        ],
+        "synonyms": [
+          "dot dot dot",
+          "suspension dots",
+          "suspension points"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography",
+          "mathematics"
+        ],
+        "label_groups": "typography , mathematics"
+      },
+      {
+        "definition": "The omission of a word or phrase that can be inferred from the context .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "rhetoric"
+        ],
+        "label_groups": "grammar , rhetoric"
+      },
+      {
+        "definition": "The omission of scenes in a film that do not advance the plot .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "film"
+        ],
+        "label_groups": "film"
+      },
+      {
+        "definition": "An ellipse .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "geometry"
+        ],
+        "label_groups": "obsolete , geometry"
+      }
+    ],
+    "main_definition": "( typography , mathematics ) A mark consisting of multiple full stops ( with or without spaces ), used to indicate omitted , missing , or illegible words ; or (in mathematics) that a pattern continues .",
+    "secondary_definitions": [
+      "( grammar , rhetoric ) The omission of a word or phrase that can be inferred from the context .",
+      "( film ) The omission of scenes in a film that do not advance the plot .",
+      "( obsolete , geometry ) An ellipse ."
+    ]
+  }
+]

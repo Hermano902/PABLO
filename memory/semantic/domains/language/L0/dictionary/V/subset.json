@@ -1,0 +1,56 @@
+[
+  {
+    "word": "subset",
+    "lemma": "subset",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbˌsɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subsets",
+          "PT": "subsetted",
+          "PAP": "subsetted",
+          "PRP": "subsetting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take a subset of.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To extract only the portions of (a font ) that are needed to display a particular document .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "typography"
+        ],
+        "label_groups": "transitive , computing , typography"
+      }
+    ],
+    "main_definition": "( transitive ) To take a subset of.",
+    "secondary_definitions": [
+      "( transitive , computing , typography ) To extract only the portions of (a font ) that are needed to display a particular document ."
+    ]
+  }
+]

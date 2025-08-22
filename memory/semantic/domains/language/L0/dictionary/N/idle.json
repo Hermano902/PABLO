@@ -1,0 +1,79 @@
+[
+  {
+    "word": "idle",
+    "lemma": "idle",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈaɪd(ə)l/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "idles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state of idling , of being idle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The lowest selectable thrust or power setting of an engine .",
+        "examples": [
+          "A slight valve tap was audible at idle but was not noticeable otherwise."
+        ],
+        "synonyms": [
+          "full throttle",
+          "wide open"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanical engineering"
+        ],
+        "label_groups": "mechanical engineering"
+      },
+      {
+        "definition": "An idle animation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gaming"
+        ],
+        "label_groups": "gaming"
+      },
+      {
+        "definition": "An idle game .",
+        "examples": [],
+        "synonyms": [
+          "idle game",
+          "incremental game"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gaming"
+        ],
+        "label_groups": "gaming"
+      }
+    ],
+    "main_definition": "The state of idling , of being idle .",
+    "secondary_definitions": [
+      "( mechanical engineering ) The lowest selectable thrust or power setting of an engine .",
+      "( gaming ) An idle animation .",
+      "( gaming ) An idle game ."
+    ]
+  }
+]

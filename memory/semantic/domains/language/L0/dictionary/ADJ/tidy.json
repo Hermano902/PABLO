@@ -1,0 +1,122 @@
+[
+  {
+    "word": "tidy",
+    "lemma": "tidy",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtaɪdi/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "tidier",
+          "SUP": "tidiest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Arranged neatly and in order .",
+        "examples": [
+          "She always kept her desk immaculately tidy ; nothing was ever out of place."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not messy; neat and controlled .",
+        "examples": [
+          "Keep Britain tidy by picking up litter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Satisfactory ; comfortable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "Generous , considerable .",
+        "examples": [
+          "The scheme made a tidy profit."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "colloquial"
+        ],
+        "label_groups": "colloquial"
+      },
+      {
+        "definition": "In good time ; at the right time ; timely ; seasonable ; opportune ; favourable ; fit ; suitable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Brave ; smart ; skillful ; fine ; good .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Appropriate or suitable as regards occasion , circumstances , arrangement , or order .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Normalized in a certain way that optimizes for data analysis .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "data science",
+          "of data in a dataset"
+        ],
+        "label_groups": "data science , of data in a dataset"
+      }
+    ],
+    "main_definition": "Arranged neatly and in order .",
+    "secondary_definitions": [
+      "Not messy; neat and controlled .",
+      "( colloquial ) Satisfactory ; comfortable .",
+      "( colloquial ) Generous , considerable .",
+      "( obsolete ) In good time ; at the right time ; timely ; seasonable ; opportune ; favourable ; fit ; suitable .",
+      "( obsolete ) Brave ; smart ; skillful ; fine ; good .",
+      "Appropriate or suitable as regards occasion , circumstances , arrangement , or order .",
+      "( data science , of data in a dataset ) Normalized in a certain way that optimizes for data analysis ."
+    ]
+  }
+]

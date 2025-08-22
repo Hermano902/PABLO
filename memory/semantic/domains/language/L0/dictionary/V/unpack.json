@@ -1,0 +1,101 @@
+[
+  {
+    "word": "unpack",
+    "lemma": "unpack",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈpæk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unpacks",
+          "PT": "unpacked",
+          "PAP": "unpacked",
+          "PRP": "unpacking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove from a package or container, particularly with respect to items that had previously been arranged closely and securely in a pack.",
+        "examples": [
+          "They didn't have time to unpack their bags before going out to dinner."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To empty containers that had been packed.",
+        "examples": [
+          "They didn't have time to unpack before going to dinner."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To analyze a concept or a text; to explain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative",
+          "transitive"
+        ],
+        "label_groups": "figurative , transitive"
+      },
+      {
+        "definition": "To undergo separation of its features into distinct segments .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "intransitive",
+          "of a segment such as a vowel"
+        ],
+        "label_groups": "linguistics , intransitive , of a segment such as a vowel"
+      },
+      {
+        "definition": "To unzip , decompress .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To remove from a package or container, particularly with respect to items that had previously been arranged closely and securely in a pack.",
+    "secondary_definitions": [
+      "( intransitive ) To empty containers that had been packed.",
+      "( figurative , transitive ) To analyze a concept or a text; to explain .",
+      "( linguistics , intransitive , of a segment such as a vowel ) To undergo separation of its features into distinct segments .",
+      "( computing , transitive ) To unzip , decompress ."
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "word": "prompt",
+    "lemma": "prompt",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/pɹɒmpt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more prompt",
+          "SUP": "most prompt"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Quick ; acting without delay .",
+        "examples": [
+          "He was very prompt at getting a new job.",
+          "a prompt response"
+        ],
+        "synonyms": [
+          "hasty"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "On time ; punctual .",
+        "examples": [
+          "Be prompt for your appointment."
+        ],
+        "synonyms": [
+          "timely"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ready ; willing to act .",
+        "examples": [],
+        "synonyms": [
+          "good to go",
+          "yare"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "Front : closest or nearest , in futures trading .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "Quick ; acting without delay .",
+    "secondary_definitions": [
+      "On time ; punctual .",
+      "( archaic ) Ready ; willing to act .",
+      "( finance ) Front : closest or nearest , in futures trading ."
+    ]
+  }
+]

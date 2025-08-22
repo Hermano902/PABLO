@@ -1,0 +1,50 @@
+[
+  {
+    "word": "polynomial",
+    "lemma": "polynomial",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌpɒlɪˈnəʊmɪəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "polynomials"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An expression consisting of a sum of a finite number of terms , each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as a n x n + a n − 1 x n − 1 + . . . + a 0 x 0 {\\displaystyle a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_{0}x^{0}} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "strict sense"
+        ],
+        "label_groups": "algebra , strict sense"
+      },
+      {
+        "definition": "A taxonomic designation (such as of a subspecies ) consisting of more than two terms .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      }
+    ],
+    "main_definition": "( algebra , strict sense ) An expression consisting of a sum of a finite number of terms , each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as a n x n + a n − 1 x n − 1 + . . . + a 0 x 0 {\\displaystyle a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_{0}x^{0}} .",
+    "secondary_definitions": [
+      "( taxonomy ) A taxonomic designation (such as of a subspecies ) consisting of more than two terms ."
+    ]
+  }
+]

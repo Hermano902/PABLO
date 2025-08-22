@@ -1,0 +1,52 @@
+[
+  {
+    "word": "recharge",
+    "lemma": "recharge",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈtʃɑː(ɹ)dʒ/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "recharges"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Water that has percolated from the ground surface to an aquifer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The process of charging (an electrical device) again.",
+        "examples": [
+          "My phone has needed five recharges in the last month."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Water that has percolated from the ground surface to an aquifer .",
+    "secondary_definitions": [
+      "( countable ) The process of charging (an electrical device) again."
+    ]
+  }
+]

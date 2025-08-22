@@ -1,0 +1,38 @@
+[
+  {
+    "word": "subroutine",
+    "lemma": "subroutine",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subroutines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A section of code , called by the main body of a program , that implements a task.",
+        "examples": [],
+        "synonyms": [
+          "function",
+          "procedure"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "( computer science ) A section of code , called by the main body of a program , that implements a task.",
+    "secondary_definitions": []
+  }
+]

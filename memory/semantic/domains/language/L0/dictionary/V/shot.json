@@ -1,0 +1,103 @@
+[
+  {
+    "word": "shot",
+    "lemma": "shot",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʃɒt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "simple past and past participle of shoot",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "simple past and past participle of shoot",
+    "secondary_definitions": []
+  },
+  {
+    "word": "shot",
+    "lemma": "shot",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/ʃɒt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shots",
+          "PT": "shotted",
+          "PAP": "shotted",
+          "PRP": "shotting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To load (a gun) with shot.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To sell illegal drugs; to deal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "MLE"
+        ],
+        "label_groups": "transitive , MLE"
+      },
+      {
+        "definition": "To feed small shot to (a horse), as a fraudulent means of disguising broken-windedness .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To load (a gun) with shot.",
+    "secondary_definitions": [
+      "( transitive , MLE ) To sell illegal drugs; to deal .",
+      "( transitive , obsolete ) To feed small shot to (a horse), as a fraudulent means of disguising broken-windedness ."
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "reciprocal",
+    "lemma": "reciprocal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈsɪpɹək(ə)l/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "reciprocals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number obtained by dividing 1 by another given number; the result of exchanging the numerator and the denominator of a fraction .",
+        "examples": [
+          "0.5 is the reciprocal of 2."
+        ],
+        "synonyms": [
+          "multiplicative inverse"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      },
+      {
+        "definition": "A construction expressing mutual action.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "( arithmetic ) The number obtained by dividing 1 by another given number; the result of exchanging the numerator and the denominator of a fraction .",
+    "secondary_definitions": [
+      "( grammar ) A construction expressing mutual action."
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "word": "mortality",
+    "lemma": "mortality",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mɔɹˈtælɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mortalities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state or quality of being mortal .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The state of being susceptible to death .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "immortality"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The quality of being punishable by death.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          },
+          {
+            "definition": "The quality of causing death.",
+            "examples": [],
+            "synonyms": [
+              "deadliness",
+              "lethality"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "archaic"
+            ],
+            "label_groups": "archaic"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The number of deaths; and, usually and especially, the number of deaths per time unit (usually per year), expressed as a rate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Deaths resulting from an event (such as a war, epidemic or disaster ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The number of deaths per given unit of population over a given period of time .",
+            "examples": [],
+            "synonyms": [
+              "death rate",
+              "rate",
+              "casualty",
+              "rate"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "biology",
+              "ecology",
+              "demography",
+              "insurance"
+            ],
+            "label_groups": "biology , ecology , demography , insurance"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Death.",
+        "examples": [],
+        "synonyms": [
+          "fatality",
+          "quietus"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively"
+        ],
+        "label_groups": "figuratively"
+      },
+      {
+        "definition": "Mortals collectively .",
+        "examples": [],
+        "synonyms": [
+          "humankind",
+          "humanity",
+          "mankind"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figuratively",
+          "archaic"
+        ],
+        "label_groups": "figuratively , archaic"
+      }
+    ],
+    "main_definition": "The state or quality of being mortal .",
+    "secondary_definitions": [
+      "The number of deaths; and, usually and especially, the number of deaths per time unit (usually per year), expressed as a rate .",
+      "( figuratively ) Death.",
+      "( figuratively , archaic ) Mortals collectively ."
+    ]
+  }
+]

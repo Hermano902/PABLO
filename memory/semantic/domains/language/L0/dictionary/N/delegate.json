@@ -1,0 +1,78 @@
+[
+  {
+    "word": "delegate",
+    "lemma": "delegate",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛlɪɡət/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "delegates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person authorized to act as representative for another; a deputy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A representative at a conference , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An appointed representative in some legislative bodies .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      },
+      {
+        "definition": "A type of variable storing a reference to a method with a particular signature , analogous to a function pointer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A member of a governmental legislature who lacks voting power.",
+        "examples": [
+          "The house of delegates in apartheid-era South Africa lacked any real voting power."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A person authorized to act as representative for another; a deputy .",
+    "secondary_definitions": [
+      "A representative at a conference , etc.",
+      "( US ) An appointed representative in some legislative bodies .",
+      "( computing ) A type of variable storing a reference to a method with a particular signature , analogous to a function pointer .",
+      "A member of a governmental legislature who lacks voting power."
+    ]
+  }
+]

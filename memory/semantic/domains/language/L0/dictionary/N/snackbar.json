@@ -1,0 +1,45 @@
+[
+  {
+    "word": "snackbar",
+    "lemma": "snackbar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "snackbars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A temporary banner informing the user of some action which happened or is about to happen, less interactive than a message box window and more interactive than a toast overlay",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graphical user interface"
+        ],
+        "label_groups": "graphical user interface"
+      },
+      {
+        "definition": "Alternative form of snack bar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( graphical user interface ) A temporary banner informing the user of some action which happened or is about to happen, less interactive than a message box window and more interactive than a toast overlay",
+    "secondary_definitions": [
+      "Alternative form of snack bar ."
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "denature",
+    "lemma": "denature",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/diːˈneɪtjə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "denatures",
+          "PT": "denatured",
+          "PAP": "denatured",
+          "PRP": "denaturing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take away a natural characteristic or inherent property of (a thing or a person).",
+        "examples": [],
+        "synonyms": [
+          "denaturalize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To add something to (alcohol) that makes it unsuitable for consumption but leaves it suitable for most other purposes.",
+        "examples": [
+          "While you cannot drink denatured alcohol, you can still use it to remove sticker glue from most surfaces."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To alter its original form or state , especially of a protein , by heat , acidity etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "biochemistry"
+        ],
+        "label_groups": "transitive , intransitive , biochemistry"
+      },
+      {
+        "definition": "Of double-stranded DNA, specifically to split into two single strands.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "biochemistry"
+        ],
+        "label_groups": "transitive , intransitive , biochemistry"
+      },
+      {
+        "definition": "To combine fissile material with nonfissile material in order to prevent its use in an atomic weapon .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To take away a natural characteristic or inherent property of (a thing or a person).",
+    "secondary_definitions": [
+      "( transitive ) To add something to (alcohol) that makes it unsuitable for consumption but leaves it suitable for most other purposes.",
+      "( transitive , intransitive , biochemistry ) To alter its original form or state , especially of a protein , by heat , acidity etc.",
+      "( transitive , intransitive , biochemistry ) Of double-stranded DNA, specifically to split into two single strands.",
+      "To combine fissile material with nonfissile material in order to prevent its use in an atomic weapon ."
+    ]
+  }
+]

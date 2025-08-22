@@ -1,0 +1,150 @@
+[
+  {
+    "word": "fork",
+    "lemma": "fork",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fɔːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "forks",
+          "PT": "forked",
+          "PAP": "forked",
+          "PRP": "forking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( ambitransitive ) To divide into two or more branches or copies.",
+        "examples": [
+          "A road, a tree, or a stream forks ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( ambitransitive , computing ) To spawn a new child process by duplicating the existing process.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( ambitransitive , software engineering ) To launch a separate software development effort based upon a modified copy of an existing software project, especially in free and open-source software.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , software engineering ) To create a copy of a distributed version control repository.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) To move with a fork (as hay or food).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , British ) To kick someone in the crotch.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive ) To shoot into blades , as corn does.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chess ) To simultaneously attack two opposing pieces with a single attacking piece.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive ) Euphemistic form of fuck .",
+        "examples": [
+          "They were forking each other in the back room."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( ambitransitive ) To divide into two or more branches or copies.",
+    "secondary_definitions": [
+      "( transitive ) To move with a fork (as hay or food).",
+      "( transitive , British ) To kick someone in the crotch.",
+      "( intransitive ) To shoot into blades , as corn does.",
+      "( chess ) To simultaneously attack two opposing pieces with a single attacking piece.",
+      "( transitive ) Euphemistic form of fuck ."
+    ]
+  },
+  {
+    "word": "fork",
+    "lemma": "fork",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/fɔːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "forks",
+          "PT": "forked",
+          "PAP": "forked",
+          "PRP": "forking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bale a shaft dry.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mining",
+          "transitive"
+        ],
+        "label_groups": "mining , transitive"
+      }
+    ],
+    "main_definition": "( mining , transitive ) To bale a shaft dry.",
+    "secondary_definitions": []
+  }
+]

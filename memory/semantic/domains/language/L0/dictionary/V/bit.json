@@ -1,0 +1,89 @@
+[
+  {
+    "word": "bit",
+    "lemma": "bit",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bits",
+          "PT": "bitted",
+          "PAP": "bitted",
+          "PRP": "bitting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To put a bridle upon; to put the bit in the mouth of (a horse).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To put a bridle upon; to put the bit in the mouth of (a horse).",
+    "secondary_definitions": []
+  },
+  {
+    "word": "bit",
+    "lemma": "bit",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": null,
+          "PT": null,
+          "PAP": null,
+          "PRP": null,
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "simple past of bite",
+        "examples": [
+          "Your dog bit me!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "past participle of bite , bitten",
+        "examples": [
+          "I have been bit by your dog!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal in US",
+          "archaic in UK"
+        ],
+        "label_groups": "informal in US , archaic in UK"
+      }
+    ],
+    "main_definition": "simple past of bite",
+    "secondary_definitions": [
+      "( informal in US , archaic in UK ) past participle of bite , bitten"
+    ]
+  }
+]

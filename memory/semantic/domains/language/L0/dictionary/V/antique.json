@@ -1,0 +1,68 @@
+[
+  {
+    "word": "antique",
+    "lemma": "antique",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ænˈtiːk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "antiques",
+          "PT": "antiqued",
+          "PAP": "antiqued",
+          "PRP": "antiquing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To search or shop for antiques .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To make (an object) appear to be an antique in some way.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To emboss without gilding .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "bookbinding"
+        ],
+        "label_groups": "transitive , bookbinding"
+      }
+    ],
+    "main_definition": "( intransitive ) To search or shop for antiques .",
+    "secondary_definitions": [
+      "( transitive ) To make (an object) appear to be an antique in some way.",
+      "( transitive , bookbinding ) To emboss without gilding ."
+    ]
+  }
+]

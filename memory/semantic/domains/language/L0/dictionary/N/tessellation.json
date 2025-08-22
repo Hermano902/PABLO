@@ -1,0 +1,67 @@
+[
+  {
+    "word": "tessellation",
+    "lemma": "tessellation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɛsəˈleɪʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tessellations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The property or fact of tessellating .",
+        "examples": [
+          "Squares can be used for tessellation ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A tiling pattern with no gaps; the result of tessellating an area or plane.",
+        "examples": [
+          "This is a tessellation of the plane with squares and regular octagons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "polygon tessellation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "less common"
+        ],
+        "label_groups": "less common"
+      }
+    ],
+    "main_definition": "( uncountable ) The property or fact of tessellating .",
+    "secondary_definitions": [
+      "( countable ) A tiling pattern with no gaps; the result of tessellating an area or plane.",
+      "( less common ) polygon tessellation ."
+    ]
+  }
+]

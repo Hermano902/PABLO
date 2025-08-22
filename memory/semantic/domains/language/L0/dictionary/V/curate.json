@@ -1,0 +1,73 @@
+[
+  {
+    "word": "curate",
+    "lemma": "curate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkjʊəɹət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "curates",
+          "PT": "curated",
+          "PAP": "curated",
+          "PRP": "curating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To act as a curator for.",
+        "examples": [
+          "She curated the traveling exhibition.",
+          "They carefully curated the recovered artifacts."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply selectivity and taste to, as a collection of fashion items or web pages .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "transitive"
+        ],
+        "label_groups": "by extension , transitive"
+      },
+      {
+        "definition": "To work or act as a curator .",
+        "examples": [
+          "Not only does he curate for the museum, he manages the office and fund-raises."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To act as a curator for.",
+    "secondary_definitions": [
+      "( by extension , transitive ) To apply selectivity and taste to, as a collection of fashion items or web pages .",
+      "( intransitive ) To work or act as a curator ."
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "word": "gull",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "N:3",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\gull.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\gull.json"
+  },
+  "timestamp": "2025-08-19T04:52:21.162573Z"
+}

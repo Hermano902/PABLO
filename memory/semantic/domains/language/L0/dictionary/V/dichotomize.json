@@ -1,0 +1,72 @@
+[
+  {
+    "word": "dichotomize",
+    "lemma": "dichotomize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dʌɪˈkɒtəmʌɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dichotomizes",
+          "PT": "dichotomized",
+          "PAP": "dichotomized",
+          "PRP": "dichotomizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To separate into two parts , to classify into two classes , or to categorize into two categories .",
+        "examples": [],
+        "synonyms": [
+          "binarize"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be divided into two .",
+        "examples": [],
+        "synonyms": [
+          "bisect",
+          "halve"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To exhibit as a half disk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      }
+    ],
+    "main_definition": "( transitive ) To separate into two parts , to classify into two classes , or to categorize into two categories .",
+    "secondary_definitions": [
+      "( intransitive ) To be divided into two .",
+      "( astronomy ) To exhibit as a half disk."
+    ]
+  }
+]

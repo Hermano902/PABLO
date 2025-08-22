@@ -1,0 +1,61 @@
+[
+  {
+    "word": "workaround",
+    "lemma": "workaround",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɜːk.əɹaʊnd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "workarounds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A means of overcoming some obstacle , especially an obstacle consisting of constraints , or laws or regulations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A procedure or a temporary fix that bypasses a problem and allows a user to continue working until a better solution can be provided .",
+        "examples": [],
+        "synonyms": [
+          "kludge",
+          "kluge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "An impromptu and temporary response to an unforeseen problem or risk .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "project management"
+        ],
+        "label_groups": "project management"
+      }
+    ],
+    "main_definition": "A means of overcoming some obstacle , especially an obstacle consisting of constraints , or laws or regulations .",
+    "secondary_definitions": [
+      "( computing ) A procedure or a temporary fix that bypasses a problem and allows a user to continue working until a better solution can be provided .",
+      "( project management ) An impromptu and temporary response to an unforeseen problem or risk ."
+    ]
+  }
+]

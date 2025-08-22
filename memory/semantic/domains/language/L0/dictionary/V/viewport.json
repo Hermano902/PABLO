@@ -1,0 +1,41 @@
+[
+  {
+    "word": "viewport",
+    "lemma": "viewport",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈvjuːpɔː(ɹ)t/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "viewports",
+          "PT": "viewported",
+          "PAP": "viewported",
+          "PRP": "viewporting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To clip (an image or region) so that it fits in a viewport.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computer graphics"
+        ],
+        "label_groups": "transitive , computer graphics"
+      }
+    ],
+    "main_definition": "( transitive , computer graphics ) To clip (an image or region) so that it fits in a viewport.",
+    "secondary_definitions": []
+  }
+]

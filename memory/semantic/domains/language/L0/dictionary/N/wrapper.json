@@ -1,0 +1,80 @@
+[
+  {
+    "word": "wrapper",
+    "lemma": "wrapper",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹæpɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "wrappers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that is wrapped around something else as a cover or protection : a wrapping .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An outer garment; a loose robe or dressing gown .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who, or that which, wraps .",
+        "examples": [
+          "He proved to be a remarkably efficient wrapper of parcels."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A construct, such as a class or module , that serves to mediate access to another.",
+        "examples": [
+          "We need a Perl wrapper for this C++ library."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A startup company that sells technology that it largely does not make.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "derogatory"
+        ],
+        "label_groups": "derogatory"
+      }
+    ],
+    "main_definition": "Something that is wrapped around something else as a cover or protection : a wrapping .",
+    "secondary_definitions": [
+      "An outer garment; a loose robe or dressing gown .",
+      "One who, or that which, wraps .",
+      "( object-oriented programming ) A construct, such as a class or module , that serves to mediate access to another.",
+      "( derogatory ) A startup company that sells technology that it largely does not make."
+    ]
+  }
+]

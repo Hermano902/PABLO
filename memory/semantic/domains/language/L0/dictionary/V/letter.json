@@ -1,0 +1,56 @@
+[
+  {
+    "word": "letter",
+    "lemma": "letter",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɛtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "letters",
+          "PT": "lettered",
+          "PAP": "lettered",
+          "PRP": "lettering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To print, inscribe, or paint letters on something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To earn a varsity letter (award).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "scholastic"
+        ],
+        "label_groups": "intransitive , US , scholastic"
+      }
+    ],
+    "main_definition": "( transitive ) To print, inscribe, or paint letters on something.",
+    "secondary_definitions": [
+      "( intransitive , US , scholastic ) To earn a varsity letter (award)."
+    ]
+  }
+]

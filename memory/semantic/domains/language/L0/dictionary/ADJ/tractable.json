@@ -1,0 +1,107 @@
+[
+  {
+    "word": "tractable",
+    "lemma": "tractable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹæk.tə.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more tractable",
+          "SUP": "most tractable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Capable of being easily led, taught, or managed.",
+        "examples": [],
+        "synonyms": [
+          "docile",
+          "manageable",
+          "governable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of people"
+        ],
+        "label_groups": "of people"
+      },
+      {
+        "definition": "Easy to deal with or manage",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a problem"
+        ],
+        "label_groups": "of a problem"
+      },
+      {
+        "definition": "Capable of being shaped ; malleable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Capable of being handled or touched .",
+        "examples": [],
+        "synonyms": [
+          "palpable",
+          "practicable",
+          "feasible",
+          "serviceable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Sufficiently operationalizable or useful to allow a mathematical calculation to proceed toward a solution.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Algorithmically solvable fast enough to be practically relevant , typically in polynomial time .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science",
+          "of a decision problem"
+        ],
+        "label_groups": "computer science , of a decision problem"
+      }
+    ],
+    "main_definition": "( of people ) Capable of being easily led, taught, or managed.",
+    "secondary_definitions": [
+      "( of a problem ) Easy to deal with or manage",
+      "Capable of being shaped ; malleable .",
+      "( obsolete ) Capable of being handled or touched .",
+      "( mathematics ) Sufficiently operationalizable or useful to allow a mathematical calculation to proceed toward a solution.",
+      "( computer science , of a decision problem ) Algorithmically solvable fast enough to be practically relevant , typically in polynomial time ."
+    ]
+  }
+]

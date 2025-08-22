@@ -1,0 +1,75 @@
+[
+  {
+    "word": "merit",
+    "lemma": "merit",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛɹɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "merits",
+          "PT": "merited",
+          "PAP": "merited",
+          "PRP": "meriting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deserve , to earn .",
+        "examples": [
+          "Her performance merited wild applause."
+        ],
+        "synonyms": [
+          "bear"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be deserving or worthy .",
+        "examples": [
+          "They were punished as they merited ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To reward .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete",
+          "rare"
+        ],
+        "label_groups": "transitive , obsolete , rare"
+      }
+    ],
+    "main_definition": "( transitive ) To deserve , to earn .",
+    "secondary_definitions": [
+      "( intransitive ) To be deserving or worthy .",
+      "( transitive , obsolete , rare ) To reward ."
+    ]
+  }
+]

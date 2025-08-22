@@ -1,0 +1,50 @@
+[
+  {
+    "word": "chomp",
+    "lemma": "chomp",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tʃɒmp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "chomps"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of chomping ( see below )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A unit of computing storage equal to sixteen bits (two bytes ), which can represent any of 65536 distinct values.",
+        "examples": [
+          "An IPv6 address is represented as eight hexadecimal chomps ."
+        ],
+        "synonyms": [
+          "hextet"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "rare"
+        ],
+        "label_groups": "computing , rare"
+      }
+    ],
+    "main_definition": "The act of chomping ( see below )",
+    "secondary_definitions": [
+      "( computing , rare ) A unit of computing storage equal to sixteen bits (two bytes ), which can represent any of 65536 distinct values."
+    ]
+  }
+]

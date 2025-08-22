@@ -1,0 +1,49 @@
+[
+  {
+    "word": "deferred",
+    "lemma": "deferred",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɜːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "deferreds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Synonym of promise ( “ object representing delayed result ” ) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A deferred bond .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      }
+    ],
+    "main_definition": "( programming ) Synonym of promise ( “ object representing delayed result ” ) .",
+    "secondary_definitions": [
+      "( finance ) A deferred bond ."
+    ]
+  }
+]

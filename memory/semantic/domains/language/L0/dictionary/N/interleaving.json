@@ -1,0 +1,46 @@
+[
+  {
+    "word": "interleaving",
+    "lemma": "interleaving",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "interleavings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The action of interleaving .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Data that has been interleaved.",
+        "examples": [
+          "One interleaving of abc and 123 , out of twenty, is 1ab2c3 .",
+          "abc",
+          "123",
+          "1ab2c3"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "The action of interleaving .",
+    "secondary_definitions": [
+      "Data that has been interleaved."
+    ]
+  }
+]

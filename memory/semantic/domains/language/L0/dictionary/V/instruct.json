@@ -1,0 +1,80 @@
+[
+  {
+    "word": "instruct",
+    "lemma": "instruct",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈstɹʌkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "instructs",
+          "PT": "instructed",
+          "PAP": "instructed",
+          "PRP": "instructing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To teach by giving instructions .",
+        "examples": [
+          "Listen carefully when someone instructs you how to assemble the furniture."
+        ],
+        "synonyms": [
+          "educate",
+          "guide"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To tell (someone) what they must or should do.",
+        "examples": [
+          "The doctor instructed me to keep my arm immobilised and begin physiotherapy."
+        ],
+        "synonyms": [
+          "command",
+          "direct",
+          "order"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give (one's own lawyer ) legal instructions as to how they should act in relation to a particular issue; thereby formally appointing them as one's own legal representative in relation to it.",
+        "examples": [
+          "If you're not careful, I'm going to instruct a solicitor over this."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To teach by giving instructions .",
+    "secondary_definitions": [
+      "( transitive ) To tell (someone) what they must or should do.",
+      "( transitive ) To give (one's own lawyer ) legal instructions as to how they should act in relation to a particular issue; thereby formally appointing them as one's own legal representative in relation to it."
+    ]
+  }
+]

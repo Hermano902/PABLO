@@ -1,0 +1,57 @@
+{
+  "word": "round",
+  "pos_order": [
+    "ADJ",
+    "N",
+    "PREP",
+    "ADV",
+    "V",
+    "V:2",
+    "N:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 16,
+      "examples": 9,
+      "synonyms": 0,
+      "antonyms": 1,
+      "inflections": 2
+    },
+    "N": {
+      "definitions": 33,
+      "examples": 9,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "PREP": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 15,
+      "examples": 7,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\round.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\round.json",
+    "PREP": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PREP\\round.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\round.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\round.json"
+  },
+  "timestamp": "2025-08-19T14:16:27.817139Z"
+}

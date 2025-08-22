@@ -1,0 +1,77 @@
+[
+  {
+    "word": "prelude",
+    "lemma": "prelude",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɛl(j)uːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "preludes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An introductory or preliminary performance or event .",
+        "examples": [],
+        "synonyms": [
+          "preface"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A short , free-form piece of music , originally one serving as an introduction to a longer and more complex piece; later, starting with the Romantic period , generally a stand-alone piece.",
+        "examples": [],
+        "synonyms": [
+          "intrada",
+          "overture"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music",
+        "dating_raw": "from 1650s"
+      },
+      {
+        "definition": "A standard module or library of subroutines and functions to be imported , generally by default , into a program .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A forerunner to anything.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      }
+    ],
+    "main_definition": "An introductory or preliminary performance or event .",
+    "secondary_definitions": [
+      "( music ) A short , free-form piece of music , originally one serving as an introduction to a longer and more complex piece; later, starting with the Romantic period , generally a stand-alone piece. [from 1650s]",
+      "( programming ) A standard module or library of subroutines and functions to be imported , generally by default , into a program .",
+      "( figurative ) A forerunner to anything."
+    ]
+  }
+]

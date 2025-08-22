@@ -1,0 +1,94 @@
+[
+  {
+    "word": "cache",
+    "lemma": "cache",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "caches",
+          "PT": "cached",
+          "PAP": "cached",
+          "PRP": "caching",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place in a cache.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To store data in a cache.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "To participate in geocaching .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To hide or seek a geocache .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to store up, stockpile",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Can we verify this sense?"
+        ],
+        "label_groups": "Can we verify this sense?"
+      }
+    ],
+    "main_definition": "( transitive ) To place in a cache.",
+    "secondary_definitions": [
+      "( transitive , computing ) To store data in a cache.",
+      "( intransitive ) To participate in geocaching .",
+      "( transitive ) To hide or seek a geocache .",
+      "( Can we verify this sense?) to store up, stockpile"
+    ]
+  }
+]

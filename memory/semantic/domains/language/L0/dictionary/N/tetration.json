@@ -1,0 +1,41 @@
+[
+  {
+    "word": "tetration",
+    "lemma": "tetration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɛˈtɹeɪʃn̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tetrations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The arithmetic operator consisting of repeated exponentiation , by analogy with exponentiation being repeated multiplication and multiplication being repeated addition , b a {\\displaystyle ^{b}a} denoting a {\\displaystyle a} to the power of a {\\displaystyle a} to the power of … {\\displaystyle \\ldots } to the power of a {\\displaystyle a} , in which a {\\displaystyle a} appears b {\\displaystyle b} times.",
+        "examples": [],
+        "synonyms": [
+          "exponential map",
+          "hyper4",
+          "hyperpower",
+          "power tower",
+          "superexponentiation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "arithmetic"
+        ],
+        "label_groups": "arithmetic"
+      }
+    ],
+    "main_definition": "( arithmetic ) The arithmetic operator consisting of repeated exponentiation , by analogy with exponentiation being repeated multiplication and multiplication being repeated addition , b a {\\displaystyle ^{b}a} denoting a {\\displaystyle a} to the power of a {\\displaystyle a} to the power of … {\\displaystyle \\ldots } to the power of a {\\displaystyle a} , in which a {\\displaystyle a} appears b {\\displaystyle b} times.",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "tryptamine",
+    "lemma": "tryptamine",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "tryptamines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A heterocyclic amine found in both plant and animal tissue, where it is an intermediate in several metabolic schemes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "biochemistry"
+        ],
+        "label_groups": "uncountable , biochemistry"
+      },
+      {
+        "definition": "Any of a class of neurotransmitters and psychedelic drugs derived from this compound.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "medicine"
+        ],
+        "label_groups": "countable , medicine"
+      }
+    ],
+    "main_definition": "( uncountable , biochemistry ) A heterocyclic amine found in both plant and animal tissue, where it is an intermediate in several metabolic schemes.",
+    "secondary_definitions": [
+      "( countable , medicine ) Any of a class of neurotransmitters and psychedelic drugs derived from this compound."
+    ]
+  }
+]

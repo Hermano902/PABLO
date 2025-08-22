@@ -1,0 +1,55 @@
+[
+  {
+    "word": "posterior",
+    "lemma": "posterior",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɒsˈtɪə.ɹi.ə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "posteriors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The posterior portions of the human body; especially, the buttocks .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "sometimes euphemistic",
+          "sometimes humorous"
+        ],
+        "label_groups": "sometimes euphemistic , sometimes humorous"
+      },
+      {
+        "definition": "The probability that a hypothesis is true (calculated by Bayes' theorem ).",
+        "examples": [],
+        "synonyms": [
+          "posterior probability"
+        ],
+        "antonyms": [
+          "prior",
+          "prior probability"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( sometimes euphemistic , sometimes humorous ) The posterior portions of the human body; especially, the buttocks .",
+    "secondary_definitions": [
+      "( mathematics ) The probability that a hypothesis is true (calculated by Bayes' theorem )."
+    ]
+  }
+]

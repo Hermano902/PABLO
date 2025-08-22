@@ -1,0 +1,100 @@
+[
+  {
+    "word": "paste",
+    "lemma": "paste",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/peɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pastes",
+          "PT": "pasted",
+          "PAP": "pasted",
+          "PRP": "pasting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To stick with paste; to cause to adhere by or as if by paste.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , computing ) To insert a piece of media (e.g. text , picture , audio , video ) previously copied or cut from somewhere else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To stick with paste; to cause to adhere by or as if by paste.",
+    "secondary_definitions": [
+      "( transitive , computing ) To insert a piece of media (e.g. text , picture , audio , video ) previously copied or cut from somewhere else."
+    ]
+  },
+  {
+    "word": "paste",
+    "lemma": "paste",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/peɪst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pastes",
+          "PT": "pasted",
+          "PAP": "pasted",
+          "PRP": "pasting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strike or beat someone or something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      },
+      {
+        "definition": "To defeat decisively or by a large margin.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      }
+    ],
+    "main_definition": "( transitive , slang ) To strike or beat someone or something.",
+    "secondary_definitions": [
+      "( transitive , slang ) To defeat decisively or by a large margin."
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "swarm",
+    "lemma": "swarm",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/swɔɹm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "swarms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A large number of insects , especially when in motion or (for bees ) migrating to a new colony .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mass of people, animals or things in motion or turmoil .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of nodes sharing the same torrent in a BitTorrent network.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A number of small earthquakes (or other seismic events) occurring, with no clear cause, in a specific area within a relatively short space of time.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "seismology"
+        ],
+        "label_groups": "seismology"
+      }
+    ],
+    "main_definition": "A large number of insects , especially when in motion or (for bees ) migrating to a new colony .",
+    "secondary_definitions": [
+      "A mass of people, animals or things in motion or turmoil .",
+      "( computing ) A group of nodes sharing the same torrent in a BitTorrent network.",
+      "( seismology ) A number of small earthquakes (or other seismic events) occurring, with no clear cause, in a specific area within a relatively short space of time."
+    ]
+  }
+]

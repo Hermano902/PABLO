@@ -1,0 +1,49 @@
+[
+  {
+    "word": "detective",
+    "lemma": "detective",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈtɛktɪv/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "detectives"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A police officer tasked with collecting evidence and information in order to solve a crime ; an investigator .",
+        "examples": [
+          "He worked as a detective with the agency for five years."
+        ],
+        "synonyms": [
+          "police detective"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law enforcement"
+        ],
+        "label_groups": "law enforcement"
+      },
+      {
+        "definition": "A person employed to find information not otherwise available to the public .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( law enforcement ) A police officer tasked with collecting evidence and information in order to solve a crime ; an investigator .",
+    "secondary_definitions": [
+      "A person employed to find information not otherwise available to the public ."
+    ]
+  }
+]

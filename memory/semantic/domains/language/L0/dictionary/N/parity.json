@@ -1,0 +1,142 @@
+[
+  {
+    "word": "parity",
+    "lemma": "parity",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpæɹɪti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "( uncountable ) Equality ; comparability of strength or intensity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Senses related to classification into two sets.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( mathematics , countable ) A set with the property of having all of its elements belonging to one of two disjoint subsets , especially a set of integers split in subsets of even and odd elements.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( mathematics , countable ) The classification of an element of a set with parity into one of the two sets.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( computing ) The count of one bits in a value, reduced to even or odd or zero or one.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( physics , countable ) Symmetry of interactions under spatial inversion.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( games , countable ) In reversi , the last move within a given sector of the board.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Resemblance ; analogy .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( uncountable ) Equality ; comparability of strength or intensity.",
+    "secondary_definitions": [
+      "Senses related to classification into two sets.",
+      "( games , countable ) In reversi , the last move within a given sector of the board.",
+      "Resemblance ; analogy ."
+    ]
+  },
+  {
+    "word": "parity",
+    "lemma": "parity",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈpæɹɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "parities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The number of delivered pregnancies reaching viable gestational age, usually between 20-28 weeks",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "countable"
+        ],
+        "label_groups": "medicine , countable"
+      },
+      {
+        "definition": "The number of times a sow has farrowed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "agriculture",
+          "countable"
+        ],
+        "label_groups": "agriculture , countable"
+      }
+    ],
+    "main_definition": "( medicine , countable ) The number of delivered pregnancies reaching viable gestational age, usually between 20-28 weeks",
+    "secondary_definitions": [
+      "( agriculture , countable ) The number of times a sow has farrowed."
+    ]
+  }
+]

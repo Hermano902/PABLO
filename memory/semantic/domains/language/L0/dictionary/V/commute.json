@@ -1,0 +1,160 @@
+[
+  {
+    "word": "commute",
+    "lemma": "commute",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəˈmjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "commutes",
+          "PT": "commuted",
+          "PAP": "commuted",
+          "PRP": "commuting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in ; to lessen",
+        "examples": [
+          "to commute tithes into rentcharges for a sum",
+          "to commute market rents for a premium",
+          "to commute daily fares for a season ticket"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "( transitive , finance , law ) To pay , or arrange to pay, in advance, in a lump sum instead of part by part.",
+            "examples": [
+              "to commute the daily toll for a year's pass"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , law , criminology ) To reduce the sentence previously given for a criminal offense .",
+            "examples": [
+              "His prison sentence was commuted to probation."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( transitive , insurance , pensions ) To pay out the lumpsum present value of an annuity , instead of paying in instalments ; to cash in ; to encash",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "( intransitive , obsolete ) To obtain or bargain for exemption or substitution ;",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "( intransitive , mathematics ) Of an operation , to be commutative , i.e. to have the property that changing the order of the operands does not change the result.",
+        "examples": [
+          "A pair of matrices share the same set of eigenvectors if and only if they commute ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in ; to lessen",
+    "secondary_definitions": [
+      "( intransitive , mathematics ) Of an operation , to be commutative , i.e. to have the property that changing the order of the operands does not change the result."
+    ]
+  },
+  {
+    "word": "commute",
+    "lemma": "commute",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/kəˈmjuːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "commutes",
+          "PT": "commuted",
+          "PAP": "commuted",
+          "PRP": "commuting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To regularly travel from one's home to one's workplace or school , or vice versa .",
+        "examples": [
+          "I commute from Brooklyn to Manhattan by bicycle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "US",
+          "UK",
+          "Canada"
+        ],
+        "label_groups": "intransitive , US , UK , Canada"
+      },
+      {
+        "definition": "To regularly travel from one place to another using public transport .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "Philippines"
+        ],
+        "label_groups": "intransitive , Philippines"
+      },
+      {
+        "definition": "To journey , to make a journey",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive , US , UK , Canada ) To regularly travel from one's home to one's workplace or school , or vice versa .",
+    "secondary_definitions": [
+      "( intransitive , Philippines ) To regularly travel from one place to another using public transport .",
+      "( intransitive ) To journey , to make a journey"
+    ]
+  }
+]

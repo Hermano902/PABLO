@@ -1,0 +1,73 @@
+[
+  {
+    "word": "cede",
+    "lemma": "cede",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/siːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cedes",
+          "PT": "ceded",
+          "PAP": "ceded",
+          "PRP": "ceding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give up ; yield to another.",
+        "examples": [
+          "Edward decided to cede the province."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Same as above.",
+            "examples": [
+              "After figuring out the seating arrangement and ceding him the window seat, I took my own seat by the aisle."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ditransitive"
+            ],
+            "label_groups": "ditransitive",
+            "dating_raw": "with dative"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "with to"
+      },
+      {
+        "definition": "To give way .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To give up ; yield to another. [ with to ]",
+    "secondary_definitions": [
+      "( intransitive ) To give way ."
+    ]
+  }
+]

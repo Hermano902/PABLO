@@ -1,0 +1,61 @@
+[
+  {
+    "word": "evaluation",
+    "lemma": "evaluation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˌvæljuˈeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "evaluations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An assessment , such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.",
+        "examples": [
+          "The result of the semestral evaluation will go towards your final score."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A completion of a mathematical operation; a valuation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Determination of the value of a variable or expression .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      }
+    ],
+    "main_definition": "An assessment , such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.",
+    "secondary_definitions": [
+      "( mathematics ) A completion of a mathematical operation; a valuation .",
+      "( computing , programming ) Determination of the value of a variable or expression ."
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "observably",
+    "lemma": "observably",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more observably",
+          "SUP": "most observably"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To a detectable degree, sufficient to be observed.",
+        "examples": [
+          "As the planet orbits the star, it causes a wobble in the star's motion, which can be detected as a small but observably large Doppler effect."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "degree"
+        ],
+        "label_groups": "degree"
+      },
+      {
+        "definition": "In an observable manner.",
+        "examples": [
+          "From the point of view of earth-based observatories, the effect of the planet's orbit around the star is that the star observably wobbles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manner"
+        ],
+        "label_groups": "manner"
+      },
+      {
+        "definition": "Indicates that the proposition can be verified by observation.",
+        "examples": [
+          "Observably , the star wobbles."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "modal"
+        ],
+        "label_groups": "modal"
+      }
+    ],
+    "main_definition": "( degree ) To a detectable degree, sufficient to be observed.",
+    "secondary_definitions": [
+      "( manner ) In an observable manner.",
+      "( modal ) Indicates that the proposition can be verified by observation."
+    ]
+  }
+]

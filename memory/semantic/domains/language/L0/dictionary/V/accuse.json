@@ -1,0 +1,81 @@
+[
+  {
+    "word": "accuse",
+    "lemma": "accuse",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈkjuːz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "accuses",
+          "PT": "accused",
+          "PAP": "accused",
+          "PRP": "accusing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To find fault with, blame , censure .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To charge with having committed a crime or offence .",
+        "examples": [
+          "For the U.S. President to be impeached, he must be accused of a high crime or misdemeanor."
+        ],
+        "synonyms": [
+          "charge",
+          "indict",
+          "impeach",
+          "arraign"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law",
+          "followed by \"of\""
+        ],
+        "label_groups": "transitive , law , followed by \"of\""
+      },
+      {
+        "definition": "To make an accusation against someone.",
+        "examples": [],
+        "synonyms": [
+          "blame",
+          "censure",
+          "reproach",
+          "criminate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To find fault with, blame , censure .",
+    "secondary_definitions": [
+      "( transitive , law , followed by \"of\" ) To charge with having committed a crime or offence .",
+      "( intransitive ) To make an accusation against someone."
+    ]
+  }
+]

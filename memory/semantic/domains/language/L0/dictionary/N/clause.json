@@ -1,0 +1,88 @@
+[
+  {
+    "word": "clause",
+    "lemma": "clause",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/klɔːz/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "clauses"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A group of words that contains a subject and a verb ; it may be part of a sentence or may constitute the whole sentence, depending on the syntax in each instance.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A verb, its necessary grammatical arguments , and any adjuncts affecting them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A verb along with its subject and their modifiers . If a clause provides a complete thought on its own, then it is an independent ( superordinate ) clause; otherwise, it is dependent ( subordinate ). (Independent clauses can be sentences; they can also be part of a sentence. Dependent clauses can only be part of a sentence.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A distinct part of a contract , a will or another legal document .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      },
+      {
+        "definition": "A constituent ( component ) of a statement or query .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "( grammar ) A group of words that contains a subject and a verb ; it may be part of a sentence or may constitute the whole sentence, depending on the syntax in each instance.",
+    "secondary_definitions": [
+      "( grammar ) A verb, its necessary grammatical arguments , and any adjuncts affecting them.",
+      "( grammar ) A verb along with its subject and their modifiers . If a clause provides a complete thought on its own, then it is an independent ( superordinate ) clause; otherwise, it is dependent ( subordinate ). (Independent clauses can be sentences; they can also be part of a sentence. Dependent clauses can only be part of a sentence.)",
+      "( law ) A distinct part of a contract , a will or another legal document .",
+      "( databases ) A constituent ( component ) of a statement or query ."
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "zenith",
+    "lemma": "zenith",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈzɛn.ɪθ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "zeniths"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "nadir",
+          "perigee"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "The highest point in the sky reached by a celestial body .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "Highest point or state ; peak .",
+        "examples": [
+          "Winning the continental championship was the zenith of my career."
+        ],
+        "synonyms": [
+          "acme",
+          "apogee",
+          "culmination",
+          "pinnacle"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "( astronomy ) The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir .",
+    "secondary_definitions": [
+      "( astronomy ) The highest point in the sky reached by a celestial body .",
+      "( by extension ) Highest point or state ; peak ."
+    ]
+  }
+]

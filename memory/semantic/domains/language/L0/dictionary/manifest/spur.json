@@ -1,0 +1,32 @@
+{
+  "word": "spur",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 22,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 5,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\spur.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\spur.json"
+  },
+  "timestamp": "2025-08-19T17:48:24.850660Z"
+}

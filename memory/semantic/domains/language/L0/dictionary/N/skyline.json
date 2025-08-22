@@ -1,0 +1,78 @@
+[
+  {
+    "word": "skyline",
+    "lemma": "skyline",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈskaɪˌlaɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "skylines"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The line that seems to be the boundary of the sky and the ground ; the horizon .",
+        "examples": [],
+        "synonyms": [
+          "horizon"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The horizontal silhouette of a city or building against the sky.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A path of movement, especially military movement, producing a silhouette above terrain features visible from the location of likely observers.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A panel on the front page of a newspaper outlining some of the features to be found inside.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "journalism"
+        ],
+        "label_groups": "journalism"
+      },
+      {
+        "definition": "Ellipsis of skyline operator .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "databases"
+        ],
+        "label_groups": "databases"
+      }
+    ],
+    "main_definition": "The line that seems to be the boundary of the sky and the ground ; the horizon .",
+    "secondary_definitions": [
+      "The horizontal silhouette of a city or building against the sky.",
+      "A path of movement, especially military movement, producing a silhouette above terrain features visible from the location of likely observers.",
+      "( journalism ) A panel on the front page of a newspaper outlining some of the features to be found inside.",
+      "( databases ) Ellipsis of skyline operator ."
+    ]
+  }
+]

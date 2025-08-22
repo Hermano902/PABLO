@@ -1,0 +1,54 @@
+[
+  {
+    "word": "autopsy",
+    "lemma": "autopsy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔːtɒpsiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "autopsies",
+          "PT": "autopsied",
+          "PAP": "autopsied",
+          "PRP": "autopsying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To perform an autopsy on.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To perform an after-the-fact analysis of, especially of a failure.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To perform an autopsy on.",
+    "secondary_definitions": [
+      "( transitive ) To perform an after-the-fact analysis of, especially of a failure."
+    ]
+  }
+]

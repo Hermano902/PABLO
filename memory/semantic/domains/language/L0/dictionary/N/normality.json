@@ -1,0 +1,67 @@
+[
+  {
+    "word": "normality",
+    "lemma": "normality",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/nɔːˈmæl.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "normalities"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The state of being normal or usual ; normalcy .",
+        "examples": [
+          "Jessie was going to wear pants to school, but her brother persuaded her to wear shorts to preserve normality ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The concentration of a solution expressed in gram equivalent weights of solute per litre of solution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      },
+      {
+        "definition": "A measure of how well an observed distribution approximates a normal distribution .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "mathematics",
+          "statistics"
+        ],
+        "label_groups": "countable , mathematics , statistics"
+      }
+    ],
+    "main_definition": "( uncountable ) The state of being normal or usual ; normalcy .",
+    "secondary_definitions": [
+      "( chemistry ) The concentration of a solution expressed in gram equivalent weights of solute per litre of solution .",
+      "( countable , mathematics , statistics ) A measure of how well an observed distribution approximates a normal distribution ."
+    ]
+  }
+]

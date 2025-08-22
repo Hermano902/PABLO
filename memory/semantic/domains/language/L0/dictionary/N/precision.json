@@ -1,0 +1,77 @@
+[
+  {
+    "word": "precision",
+    "lemma": "precision",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɹɪˈsɪʒ.ən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "precisions"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The state of being precise or exact ; especially, both exact and accurate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      },
+      {
+        "definition": "The ability of a measurement to be reproduced consistently .",
+        "examples": [
+          "The classic example of the difference between precision and accuracy is that in target practice, if the grouping is tight but the group is off-center, your precision is good but your accuracy needs calibration."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "strictly"
+        ],
+        "label_groups": "strictly"
+      },
+      {
+        "definition": "The number of significant digits to which a value may be measured reliably .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "A bidding system that makes use of many artificial bids to describe a hand quite precisely.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "bridge"
+        ],
+        "label_groups": "bridge"
+      }
+    ],
+    "main_definition": "( loosely ) The state of being precise or exact ; especially, both exact and accurate .",
+    "secondary_definitions": [
+      "( strictly ) The ability of a measurement to be reproduced consistently .",
+      "( mathematics ) The number of significant digits to which a value may be measured reliably .",
+      "( bridge ) A bidding system that makes use of many artificial bids to describe a hand quite precisely."
+    ]
+  }
+]

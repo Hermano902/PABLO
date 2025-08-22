@@ -1,0 +1,58 @@
+[
+  {
+    "word": "livestream",
+    "lemma": "livestream",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "livestreams",
+          "PT": "livestreamed",
+          "PAP": "livestreamed",
+          "PRP": "livestreaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To broadcast as a live stream .",
+        "examples": [],
+        "synonyms": [
+          "stream"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To receive and watch as a live stream .",
+        "examples": [
+          "I'm planning to livestream the football game this weekend."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To broadcast as a live stream .",
+    "secondary_definitions": [
+      "( transitive ) To receive and watch as a live stream ."
+    ]
+  }
+]

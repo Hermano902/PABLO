@@ -1,0 +1,42 @@
+[
+  {
+    "word": "meronym",
+    "lemma": "meronym",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛɹənɪm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "meronyms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A term used to denote a thing that is a part of something else.",
+        "examples": [
+          "The word \"leaf\" is a meronym of the word \"tree\"."
+        ],
+        "synonyms": [
+          "partonym"
+        ],
+        "antonyms": [
+          "holonym"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "semantics",
+          "philosophy"
+        ],
+        "label_groups": "semantics , philosophy"
+      }
+    ],
+    "main_definition": "( semantics , philosophy ) A term used to denote a thing that is a part of something else.",
+    "secondary_definitions": []
+  }
+]

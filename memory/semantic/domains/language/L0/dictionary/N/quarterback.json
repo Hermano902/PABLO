@@ -1,0 +1,65 @@
+[
+  {
+    "word": "quarterback",
+    "lemma": "quarterback",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɔːtəbak/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quarterbacks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An offensive back whose primary job is to pass the ball in a play .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American football",
+          "Canadian football"
+        ],
+        "label_groups": "American football , Canadian football"
+      },
+      {
+        "definition": "An offensive back who receives the snap ( hike ) and then blocks the defense from crossing the line of scrimmage ; a blocking back.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "American football",
+          "historical"
+        ],
+        "label_groups": "American football , historical"
+      },
+      {
+        "definition": "A position just behind the forwards , or one who plays this position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "rugby football",
+          "historical"
+        ],
+        "label_groups": "rugby football , historical"
+      }
+    ],
+    "main_definition": "( American football , Canadian football ) An offensive back whose primary job is to pass the ball in a play .",
+    "secondary_definitions": [
+      "( American football , historical ) An offensive back who receives the snap ( hike ) and then blocks the defense from crossing the line of scrimmage ; a blocking back.",
+      "( rugby football , historical ) A position just behind the forwards , or one who plays this position."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "multidigraph",
+    "lemma": "multidigraph",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "multidigraphs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A directed graph that is permitted to have multiple arcs connecting the same source and target nodes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( graph theory ) A directed graph that is permitted to have multiple arcs connecting the same source and target nodes .",
+    "secondary_definitions": []
+  }
+]

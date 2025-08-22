@@ -1,0 +1,49 @@
+[
+  {
+    "word": "visit",
+    "lemma": "visit",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɪzɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "visits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A single act of visiting .",
+        "examples": [
+          "Next time you're in Manchester, give me a visit .",
+          "We paid a quick visit to James on the way up to Scotland."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A meeting with a doctor at their surgery or the doctor's at one's home .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "insurance"
+        ],
+        "label_groups": "medicine , insurance"
+      }
+    ],
+    "main_definition": "A single act of visiting .",
+    "secondary_definitions": [
+      "( medicine , insurance ) A meeting with a doctor at their surgery or the doctor's at one's home ."
+    ]
+  }
+]

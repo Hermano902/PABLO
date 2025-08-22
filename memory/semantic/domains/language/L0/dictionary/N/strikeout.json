@@ -1,0 +1,68 @@
+[
+  {
+    "word": "strikeout",
+    "lemma": "strikeout",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "strikeouts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An instance or the act of yielding nothing.",
+        "examples": [
+          "We've had one strikeout after the other on the Jones account."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An instance or the act of striking out.",
+        "examples": [
+          "The pitcher recorded seven strikeouts in the game."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "baseball"
+        ],
+        "label_groups": "countable , baseball"
+      },
+      {
+        "definition": "Cancellation of a portion of text by crossing it out without deleting it; strikethrough .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "wordprocessing"
+        ],
+        "label_groups": "computing , wordprocessing"
+      }
+    ],
+    "main_definition": "( countable ) An instance or the act of yielding nothing.",
+    "secondary_definitions": [
+      "( countable , baseball ) An instance or the act of striking out.",
+      "( computing , wordprocessing ) Cancellation of a portion of text by crossing it out without deleting it; strikethrough ."
+    ]
+  }
+]

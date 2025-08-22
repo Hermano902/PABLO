@@ -1,0 +1,40 @@
+[
+  {
+    "word": "onto",
+    "lemma": "onto",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒn.tuː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Attaining each of the values in its codomain ; having its image equal to its codomain.",
+        "examples": [
+          "Considered as a function on the real numbers, the exponential function is not onto , as it never takes on values less than or equal to zero."
+        ],
+        "synonyms": [
+          "surjective"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a function"
+        ],
+        "label_groups": "mathematics , of a function"
+      }
+    ],
+    "main_definition": "( mathematics , of a function ) Attaining each of the values in its codomain ; having its image equal to its codomain.",
+    "secondary_definitions": []
+  }
+]

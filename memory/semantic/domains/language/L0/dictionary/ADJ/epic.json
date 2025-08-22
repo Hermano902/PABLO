@@ -1,0 +1,106 @@
+[
+  {
+    "word": "epic",
+    "lemma": "epic",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɛp.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more epic",
+          "SUP": "most epic"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of or relating to an epic.",
+        "examples": [
+          "Beowulf is an epic poem."
+        ],
+        "synonyms": [
+          "epical"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Momentously heroic ; grand in scale or character",
+        "examples": [
+          "The epic defense was rewarded with the highest military decorations"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( colloquial , slang , informal ) Extending beyond the usual or ordinary .",
+        "examples": [
+          "The after-prom party was truly epic .",
+          "You made an epic mistake."
+        ],
+        "synonyms": [
+          "extraordinary",
+          "momentous",
+          "remarkable"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Extremely impressive or remarkable .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "Of or relating to an epic.",
+    "secondary_definitions": [
+      "Momentously heroic ; grand in scale or character",
+      "( colloquial , slang , informal ) Extending beyond the usual or ordinary ."
+    ]
+  },
+  {
+    "word": "epic",
+    "lemma": "epic",
+    "etymology": "Etymology 2",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 2,
+    "pronunciation": "/ˈɛp.ɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "That is an epimorphism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "of a morphism"
+        ],
+        "label_groups": "category theory , of a morphism"
+      }
+    ],
+    "main_definition": "( category theory , of a morphism ) That is an epimorphism .",
+    "secondary_definitions": []
+  }
+]

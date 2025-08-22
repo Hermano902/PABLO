@@ -1,0 +1,70 @@
+[
+  {
+    "word": "retrace",
+    "lemma": "retrace",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈtɹeɪs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "retraces",
+          "PT": "retraced",
+          "PAP": "retraced",
+          "PRP": "retracing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To trace (a line, etc. in drawing) again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To go back over something, usually in an attempt at rediscovery .",
+        "examples": [
+          "He retraced his steps, and found his keys where he had dropped them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To undergo retracement .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "finance"
+        ],
+        "label_groups": "intransitive , finance"
+      }
+    ],
+    "main_definition": "( transitive ) To trace (a line, etc. in drawing) again.",
+    "secondary_definitions": [
+      "( transitive ) To go back over something, usually in an attempt at rediscovery .",
+      "( intransitive , finance ) To undergo retracement ."
+    ]
+  }
+]

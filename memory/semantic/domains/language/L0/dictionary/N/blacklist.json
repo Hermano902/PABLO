@@ -1,0 +1,47 @@
+[
+  {
+    "word": "blacklist",
+    "lemma": "blacklist",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈblæklɪst/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "blacklists"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A list or set of people or entities to be shunned or banned , disallowed or blocked .",
+        "examples": [
+          "The software included a lengthy blacklist of disreputable websites to block."
+        ],
+        "synonyms": [
+          "blocklist",
+          "denylist",
+          "hotlist"
+        ],
+        "antonyms": [
+          "allowlist",
+          "fair list",
+          "greylist",
+          "whitelist"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "computing"
+        ],
+        "label_groups": "law , computing"
+      }
+    ],
+    "main_definition": "( law , computing ) A list or set of people or entities to be shunned or banned , disallowed or blocked .",
+    "secondary_definitions": []
+  }
+]

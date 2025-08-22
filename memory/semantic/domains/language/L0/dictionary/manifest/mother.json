@@ -1,0 +1,30 @@
+{
+  "word": "mother",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 21,
+      "examples": 9,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\mother.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\mother.json"
+  },
+  "timestamp": "2025-08-19T09:36:58.393875Z"
+}

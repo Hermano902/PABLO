@@ -1,0 +1,56 @@
+[
+  {
+    "word": "probe",
+    "lemma": "probe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəʊb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "probes",
+          "PT": "probed",
+          "PAP": "probed",
+          "PRP": "probing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To explore , investigate , question , test , or prove .",
+        "examples": [
+          "If you probe further, you may discover different reasons."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To insert a probe into.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To explore , investigate , question , test , or prove .",
+    "secondary_definitions": [
+      "( transitive ) To insert a probe into."
+    ]
+  }
+]

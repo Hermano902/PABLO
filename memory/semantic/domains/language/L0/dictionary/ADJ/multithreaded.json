@@ -1,0 +1,60 @@
+[
+  {
+    "word": "multithreaded",
+    "lemma": "multithreaded",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Consisting of multiple threads (literal or figurative) woven together.",
+        "examples": [
+          "a multithreaded narrative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of an application program , having more than one thread of execution ; thus taking advantage of multi-tasking operating systems and hardware .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Of a programming language , able to produce such programs",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Consisting of multiple threads (literal or figurative) woven together.",
+    "secondary_definitions": [
+      "( computing ) Of an application program , having more than one thread of execution ; thus taking advantage of multi-tasking operating systems and hardware .",
+      "( computing ) Of a programming language , able to produce such programs"
+    ]
+  }
+]

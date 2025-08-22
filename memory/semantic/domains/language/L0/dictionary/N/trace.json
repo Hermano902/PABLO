@@ -1,0 +1,191 @@
+[
+  {
+    "word": "trace",
+    "lemma": "trace",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/tɹeɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "traces"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An act of tracing .",
+        "examples": [
+          "Your cell phone company can put a trace on your line."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An enquiry sent out for a missing article , such as a letter or an express package.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mark left as a sign of passage of a person or animal .",
+        "examples": [],
+        "synonyms": [
+          "track",
+          "trail"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A very small amount , often residual , of some substance or material .",
+        "examples": [
+          "There are traces of chocolate around your lips.",
+          "All of our chocolates may contain traces of nuts."
+        ],
+        "synonyms": [
+          "show"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A small amount of rain , not enough to be measured .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "meteorology"
+            ],
+            "label_groups": "meteorology"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A current - carrying conductive pathway on a printed circuit board .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "An informal road or prominent path in an arid area .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of two straps , chains , or ropes of a harness , extending from the collar or breastplate to a whippletree attached to a vehicle or thing to be drawn; a tug .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A connecting bar or rod , pivoted at each end to the end of another piece , for transmitting motion , especially from one plane to another; specifically, such a piece in an organ stop action to transmit motion from the trundle to the lever actuating the stop slider.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "The ground plan of a work or works.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fortification"
+        ],
+        "label_groups": "fortification"
+      },
+      {
+        "definition": "The intersection of a plane of projection , or an original plane, with a coordinate plane.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The sum of the diagonal elements of a square matrix .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An empty category occupying a position in the syntactic structure from which something has been moved, used to explain constructions such as wh-movement and the passive .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A sequence of instructions , including branches but not loops , that is executed for some input data .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "An act of tracing .",
+    "secondary_definitions": [
+      "An enquiry sent out for a missing article , such as a letter or an express package.",
+      "A mark left as a sign of passage of a person or animal .",
+      "A very small amount , often residual , of some substance or material .",
+      "( electronics ) A current - carrying conductive pathway on a printed circuit board .",
+      "An informal road or prominent path in an arid area .",
+      "One of two straps , chains , or ropes of a harness , extending from the collar or breastplate to a whippletree attached to a vehicle or thing to be drawn; a tug .",
+      "( engineering ) A connecting bar or rod , pivoted at each end to the end of another piece , for transmitting motion , especially from one plane to another; specifically, such a piece in an organ stop action to transmit motion from the trundle to the lever actuating the stop slider.",
+      "( fortification ) The ground plan of a work or works.",
+      "( geometry ) The intersection of a plane of projection , or an original plane, with a coordinate plane.",
+      "( mathematics ) The sum of the diagonal elements of a square matrix .",
+      "( grammar ) An empty category occupying a position in the syntactic structure from which something has been moved, used to explain constructions such as wh-movement and the passive .",
+      "( programming ) A sequence of instructions , including branches but not loops , that is executed for some input data ."
+    ]
+  }
+]

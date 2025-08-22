@@ -1,0 +1,94 @@
+[
+  {
+    "word": "keyword",
+    "lemma": "keyword",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkiː.wɜːd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "keywords"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any word used as the key to a code .",
+        "examples": [],
+        "synonyms": [
+          "password",
+          "passcode"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography"
+        ],
+        "label_groups": "cryptography"
+      },
+      {
+        "definition": "Any word used in a reference work to link to other words or other information .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information science"
+        ],
+        "label_groups": "information science"
+      },
+      {
+        "definition": "Any important word in a text or document , which may be linked to other words or other information , or at least merely listed in the metadata for searches to find.",
+        "examples": [],
+        "synonyms": [
+          "operative word",
+          "workword"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information science"
+        ],
+        "label_groups": "information science"
+      },
+      {
+        "definition": "A reserved word used to identify a specific command , function , etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "Any word that occurs in a text more often than normal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "( cryptography ) Any word used as the key to a code .",
+    "secondary_definitions": [
+      "( information science ) Any word used in a reference work to link to other words or other information .",
+      "( information science ) Any important word in a text or document , which may be linked to other words or other information , or at least merely listed in the metadata for searches to find.",
+      "( programming ) A reserved word used to identify a specific command , function , etc.",
+      "( linguistics ) Any word that occurs in a text more often than normal."
+    ]
+  }
+]

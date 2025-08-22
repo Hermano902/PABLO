@@ -1,0 +1,144 @@
+[
+  {
+    "word": "diff",
+    "lemma": "diff",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪf/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diffs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( slang ) Clipping of difference",
+        "examples": [
+          "A peach and an apricot? What's the diff ?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( mathematics ) Clipping of differential",
+        "examples": [
+          "This function takes that diff and plugs it into the larger structure."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( video games , slang ) Used to trash-talk an opposing team at the end of a game by pointing out a skill difference between some role and the same role on the other team.",
+        "examples": [
+          "tank diff (i.e., the deciding factor in the game was the difference in skill between the teams' tank players)"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) Any program which compares two files or sets of files and outputs a description of the differences between them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( computing ) The output of a diff program, a diff file .",
+        "examples": [
+          "edit diff"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( automotive ) Abbreviation of differential : the differential gear in an automobile.",
+        "examples": [
+          "This diff is capable of locking up when wheel slip occurs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( medicine ) Abbreviation of differential : differential of types of white blood cell in a complete blood count .",
+        "examples": [
+          "CBC with diff"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( climbing ) A difficult route.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( fandom slang ) Clipping of difficulty .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( slang ) Clipping of difference",
+    "secondary_definitions": [
+      "( mathematics ) Clipping of differential",
+      "( video games , slang ) Used to trash-talk an opposing team at the end of a game by pointing out a skill difference between some role and the same role on the other team.",
+      "( computing ) Any program which compares two files or sets of files and outputs a description of the differences between them.",
+      "( computing ) The output of a diff program, a diff file .",
+      "( automotive ) Abbreviation of differential : the differential gear in an automobile.",
+      "( medicine ) Abbreviation of differential : differential of types of white blood cell in a complete blood count .",
+      "( climbing ) A difficult route.",
+      "( fandom slang ) Clipping of difficulty ."
+    ]
+  },
+  {
+    "word": "diff",
+    "lemma": "diff",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 2,
+    "pronunciation": "/dɪf/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "A program, historically part of the Unix operating system , which compares two files or sets of files and outputs a description of the differences between them.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A program, historically part of the Unix operating system , which compares two files or sets of files and outputs a description of the differences between them.",
+    "secondary_definitions": []
+  }
+]

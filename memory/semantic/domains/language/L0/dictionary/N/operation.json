@@ -1,0 +1,180 @@
+[
+  {
+    "word": "operation",
+    "lemma": "operation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɒp.əˈɹeɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "operations"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The method by which a device performs its function .",
+        "examples": [
+          "It is dangerous to look at the beam of a laser while it is in operation ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The method or practice by which actions are done.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "The act or process of operating (verb): agency ; the exertion of power, physical, mechanical, or moral.",
+        "examples": [],
+        "synonyms": [
+          "operating"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "A planned undertaking.",
+        "examples": [
+          "The police ran an operation to get vagrants off the streets.",
+          "The Katrina relief operation was considered botched.",
+          "Katrina"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A business or organization.",
+        "examples": [
+          "We run our operation from a storefront.",
+          "They run a multinational produce-supply operation ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A surgical procedure .",
+        "examples": [
+          "She had an operation to remove her appendix."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "medicine"
+        ],
+        "label_groups": "countable , medicine"
+      },
+      {
+        "definition": "A procedure for generating a value from one or more other values (the operands ).",
+        "examples": [
+          "The number of operands associated with an operation is called its arity ; an operation of arity 2 is called a binary operation ."
+        ],
+        "synonyms": [
+          "function",
+          "transformation"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A function which maps zero or more (but typically two) operands to a single output value.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "more formally",
+              "countable"
+            ],
+            "label_groups": "mathematics , more formally , countable"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "computing",
+          "logic",
+          "mathematics",
+          "countable"
+        ],
+        "label_groups": "computing , logic , mathematics , countable"
+      },
+      {
+        "definition": "A military campaign (e.g. Operation Desert Storm ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "military",
+          "countable"
+        ],
+        "label_groups": "military , countable"
+      },
+      {
+        "definition": "Effect produced; influence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "countable"
+        ],
+        "label_groups": "obsolete , countable"
+      }
+    ],
+    "main_definition": "( uncountable ) The method by which a device performs its function .",
+    "secondary_definitions": [
+      "( uncountable ) The method or practice by which actions are done.",
+      "( uncountable ) The act or process of operating (verb): agency ; the exertion of power, physical, mechanical, or moral.",
+      "( countable ) A planned undertaking.",
+      "( countable ) A business or organization.",
+      "( countable , medicine ) A surgical procedure .",
+      "( computing , logic , mathematics , countable ) A procedure for generating a value from one or more other values (the operands ).",
+      "( military , countable ) A military campaign (e.g. Operation Desert Storm ).",
+      "( obsolete , countable ) Effect produced; influence."
+    ]
+  }
+]

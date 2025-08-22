@@ -1,0 +1,72 @@
+[
+  {
+    "word": "query",
+    "lemma": "query",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɪə.ɹi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "queries"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A question , an inquiry ( US ) , an enquiry ( UK ) .",
+        "examples": [
+          "The teacher answered the student’s query concerning biosynthesis."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A question mark .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of instructions passed to a database .",
+        "examples": [
+          "The database admin switched on query logging for debugging purposes."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "Ellipsis of query letter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "publishing"
+        ],
+        "label_groups": "publishing"
+      }
+    ],
+    "main_definition": "A question , an inquiry ( US ) , an enquiry ( UK ) .",
+    "secondary_definitions": [
+      "A question mark .",
+      "( computing , databases ) A set of instructions passed to a database .",
+      "( publishing ) Ellipsis of query letter ."
+    ]
+  }
+]

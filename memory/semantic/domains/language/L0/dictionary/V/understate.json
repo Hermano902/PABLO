@@ -1,0 +1,67 @@
+[
+  {
+    "word": "understate",
+    "lemma": "understate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌndəˈsteɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "understates",
+          "PT": "understated",
+          "PAP": "understated",
+          "PRP": "understating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To state (something) with less completeness than needed ; to minimise or downplay .",
+        "examples": [
+          "To call it a calculated bet understates the risk; it is a Hail Mary pass."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To state (something) with a lack of emphasis , in order to express irony .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To state a quantity that is too low .",
+        "examples": [
+          "The company had been understating its liabilities for years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To state (something) with less completeness than needed ; to minimise or downplay .",
+    "secondary_definitions": [
+      "( transitive ) To state (something) with a lack of emphasis , in order to express irony .",
+      "To state a quantity that is too low ."
+    ]
+  }
+]

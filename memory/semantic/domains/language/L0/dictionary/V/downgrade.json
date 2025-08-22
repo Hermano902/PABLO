@@ -1,0 +1,87 @@
+[
+  {
+    "word": "downgrade",
+    "lemma": "downgrade",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdaʊnˌɡɹeɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "downgrades",
+          "PT": "downgraded",
+          "PAP": "downgraded",
+          "PRP": "downgrading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place lower in position .",
+        "examples": [
+          "The stock was downgraded from ‘buy’ to ‘sell’."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To reduce in complexity , or remove unnecessary parts ; to dumb down .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To disparage .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "to reduce the official estimate of a storm's intensity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "meteorology"
+        ],
+        "label_groups": "meteorology"
+      },
+      {
+        "definition": "To revert software back to an older version.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "To place lower in position .",
+    "secondary_definitions": [
+      "To reduce in complexity , or remove unnecessary parts ; to dumb down .",
+      "( transitive ) To disparage .",
+      "( meteorology ) to reduce the official estimate of a storm's intensity.",
+      "( computing ) To revert software back to an older version."
+    ]
+  }
+]

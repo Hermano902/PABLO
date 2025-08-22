@@ -1,0 +1,74 @@
+[
+  {
+    "word": "bleep",
+    "lemma": "bleep",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbliːp/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bleeps",
+          "PT": "bleeped",
+          "PAP": "bleeped",
+          "PRP": "bleeping",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To emit one or more bleeps.",
+        "examples": [
+          "The robot bleeped to acknowledge its new instructions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To edit out inappropriate spoken language in a broadcast by replacing offending words with bleeps.",
+        "examples": [],
+        "synonyms": [
+          "blip"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To contact someone by pager .",
+        "examples": [
+          "If his condition gets any worse, please bleep the registrar on call."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine",
+          "UK"
+        ],
+        "label_groups": "medicine , UK"
+      }
+    ],
+    "main_definition": "( intransitive ) To emit one or more bleeps.",
+    "secondary_definitions": [
+      "( transitive ) To edit out inappropriate spoken language in a broadcast by replacing offending words with bleeps.",
+      "( medicine , UK ) To contact someone by pager ."
+    ]
+  }
+]

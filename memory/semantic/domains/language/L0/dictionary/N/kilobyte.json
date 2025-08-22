@@ -1,0 +1,52 @@
+[
+  {
+    "word": "kilobyte",
+    "lemma": "kilobyte",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "kilobytes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One thousand (10 , or 1,000) bytes.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "especially networking"
+        ],
+        "label_groups": "computing , especially networking"
+      },
+      {
+        "definition": "A kibibyte .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal",
+          "especially RAM"
+        ],
+        "label_groups": "computing , informal , especially RAM"
+      }
+    ],
+    "main_definition": "( computing , especially networking ) One thousand (10 , or 1,000) bytes.",
+    "secondary_definitions": [
+      "( computing , informal , especially RAM ) A kibibyte ."
+    ]
+  }
+]

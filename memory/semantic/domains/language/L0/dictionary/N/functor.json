@@ -1,0 +1,77 @@
+[
+  {
+    "word": "functor",
+    "lemma": "functor",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfʌŋktə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "functors"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A function word .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "A function object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      },
+      {
+        "definition": "A category homomorphism ; a morphism from a source category to a target category which maps objects to objects and arrows to arrows (either covariantly or contravariantly ), in such a way as to preserve morphism composition and identities .",
+        "examples": [
+          "In the category of categories, C A T {\\displaystyle \\mathbb {CAT} } , the objects are categories and the morphisms are functors ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A structure allowing a function to apply within a generic type , in a way that is conceptually similar to a functor in category theory.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "functional programming"
+        ],
+        "label_groups": "functional programming"
+      }
+    ],
+    "main_definition": "( grammar ) A function word .",
+    "secondary_definitions": [
+      "( object-oriented programming ) A function object .",
+      "( category theory ) A category homomorphism ; a morphism from a source category to a target category which maps objects to objects and arrows to arrows (either covariantly or contravariantly ), in such a way as to preserve morphism composition and identities .",
+      "( functional programming ) A structure allowing a function to apply within a generic type , in a way that is conceptually similar to a functor in category theory."
+    ]
+  }
+]

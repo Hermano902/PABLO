@@ -1,0 +1,88 @@
+[
+  {
+    "word": "below",
+    "lemma": "below",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/bɪˈləʊ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In or to a lower place.",
+        "examples": [
+          "The town is situated on a hillside, with a river running below .",
+          "He was pulled below by a sea monster."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "On or to a lower storey .",
+            "examples": [
+              "She lives below , on the ground floor."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "On or to a lower deck , especially as relative to the main deck.",
+            "examples": [
+              "The captain went below to inspect the engine.",
+              "the landlubbers lying down below"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Later in the same text.",
+        "examples": [
+          "This point is explained below .",
+          "By their execution hereof, the Parties incur a legal obligation to pass consideration under this Loan Contract as is set forth below ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Below zero .",
+        "examples": [
+          "It was forty degrees below ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a temperature"
+        ],
+        "label_groups": "of a temperature"
+      }
+    ],
+    "main_definition": "In or to a lower place.",
+    "secondary_definitions": [
+      "Later in the same text.",
+      "( of a temperature ) Below zero ."
+    ]
+  }
+]

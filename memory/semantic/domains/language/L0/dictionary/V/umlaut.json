@@ -1,0 +1,57 @@
+[
+  {
+    "word": "umlaut",
+    "lemma": "umlaut",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʊm.laʊt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "umlauts",
+          "PT": "umlauted",
+          "PAP": "umlauted",
+          "PRP": "umlauting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place an umlaut over (a vowel).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To modify (a word) so that an umlaut is required in it.",
+        "examples": [
+          "an umlauting vowel"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "transitive"
+        ],
+        "label_groups": "linguistics , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To place an umlaut over (a vowel).",
+    "secondary_definitions": [
+      "( linguistics , transitive ) To modify (a word) so that an umlaut is required in it."
+    ]
+  }
+]

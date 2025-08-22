@@ -1,0 +1,49 @@
+[
+  {
+    "word": "unsaved",
+    "lemma": "unsaved",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Not saved ; unredeemed .",
+        "examples": [
+          "The unsaved must repent, or they will go to Hell!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Not saved (stored in a file).",
+        "examples": [
+          "I lost my unsaved work in the power cut."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Not saved ; unredeemed .",
+    "secondary_definitions": [
+      "( computing ) Not saved (stored in a file)."
+    ]
+  }
+]

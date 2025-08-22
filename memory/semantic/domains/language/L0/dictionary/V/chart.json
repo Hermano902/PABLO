@@ -1,0 +1,100 @@
+[
+  {
+    "word": "chart",
+    "lemma": "chart",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/t͡ʃɑɹt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "charts",
+          "PT": "charted",
+          "PAP": "charted",
+          "PRP": "charting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To draw a chart or map of.",
+        "examples": [
+          "chart the seas"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To draw or figure out (a route or plan).",
+        "examples": [
+          "Let's chart how we're going to get from here to there.",
+          "We are on a course for disaster without having charted it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To record systematically.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To enter (medical information) into a medical record .",
+            "examples": [
+              "Did you chart the urine output yet?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To appear on a hit-recording chart.",
+        "examples": [
+          "The song has charted for 15 weeks!",
+          "The band first charted in 1994."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of a record or artist"
+        ],
+        "label_groups": "intransitive , of a record or artist"
+      }
+    ],
+    "main_definition": "( transitive ) To draw a chart or map of.",
+    "secondary_definitions": [
+      "( transitive ) To draw or figure out (a route or plan).",
+      "( transitive ) To record systematically.",
+      "( intransitive , of a record or artist ) To appear on a hit-recording chart."
+    ]
+  }
+]

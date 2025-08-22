@@ -1,0 +1,137 @@
+[
+  {
+    "word": "induce",
+    "lemma": "induce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈduːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "induces",
+          "PT": "induced",
+          "PAP": "induced",
+          "PRP": "inducing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lead by persuasion or influence; incite or prevail upon.",
+        "examples": [],
+        "synonyms": [
+          "entice",
+          "inveigle",
+          "put someone up to something"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause , bring about , lead to.",
+        "examples": [
+          "His meditation induced a compromise.   Opium induces sleep."
+        ],
+        "synonyms": [
+          "bring about",
+          "instigate",
+          "prompt",
+          "stimulate",
+          "trigger",
+          "provoke"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To induce the labour of (a pregnant woman ).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause or produce (electric current or a magnetic state) by a physical process of induction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "To infer by induction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "deduce"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "logic"
+        ],
+        "label_groups": "transitive , logic"
+      },
+      {
+        "definition": "To lead in , bring in , introduce .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To draw on , place upon . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To lead by persuasion or influence; incite or prevail upon.",
+    "secondary_definitions": [
+      "( transitive ) To cause , bring about , lead to.",
+      "( transitive ) To induce the labour of (a pregnant woman ).",
+      "( physics ) To cause or produce (electric current or a magnetic state) by a physical process of induction .",
+      "( transitive , logic ) To infer by induction .",
+      "( transitive , obsolete ) To lead in , bring in , introduce .",
+      "( transitive , obsolete ) To draw on , place upon . (Can we add an example for this sense?)"
+    ]
+  }
+]

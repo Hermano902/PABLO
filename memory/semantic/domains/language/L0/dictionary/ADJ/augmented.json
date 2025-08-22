@@ -1,0 +1,67 @@
+[
+  {
+    "word": "augmented",
+    "lemma": "augmented",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɔːɡˈmɛntɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more augmented",
+          "SUP": "most augmented"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Increased in number , amount or strength .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Assisted and improved by integration with digital technology via user interfaces that project digital information and tools as an overlay upon one's point of view of physical reality.",
+            "examples": [
+              "augmented reality",
+              "augmented surgery"
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "nonaugmented",
+              "unaugmented"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of physical",
+              "non digital things"
+            ],
+            "label_groups": "of physical and non digital things"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Increased by a semitone .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "diminished"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      }
+    ],
+    "main_definition": "Increased in number , amount or strength .",
+    "secondary_definitions": [
+      "( music ) Increased by a semitone ."
+    ]
+  }
+]

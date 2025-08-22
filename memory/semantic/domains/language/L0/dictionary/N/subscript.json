@@ -1,0 +1,51 @@
+[
+  {
+    "word": "subscript",
+    "lemma": "subscript",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsʌbskɹɪpt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "subscripts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A type of lettering form written lower than the things around it.",
+        "examples": [
+          "In chemical formulas the number of atoms in a molecule is written as a subscript , so we write H 2 O for water which has two atoms of hydrogen for each one of oxygen."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "typography"
+        ],
+        "label_groups": "typography"
+      },
+      {
+        "definition": "An index into an array or hash .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( typography ) A type of lettering form written lower than the things around it.",
+    "secondary_definitions": [
+      "( programming ) An index into an array or hash ."
+    ]
+  }
+]

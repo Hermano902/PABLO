@@ -1,0 +1,54 @@
+[
+  {
+    "word": "ordinal",
+    "lemma": "ordinal",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔː.dɪ.nəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "ordinals"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An ordinal number such as first , second and third .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A book used in the ordination of Anglican ministers , or in certain Roman Catholic services",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A unique serial number assigned to a satoshi based on its position in the blockchain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptocurrencies"
+        ],
+        "label_groups": "cryptocurrencies"
+      }
+    ],
+    "main_definition": "An ordinal number such as first , second and third .",
+    "secondary_definitions": [
+      "A book used in the ordination of Anglican ministers , or in certain Roman Catholic services",
+      "( cryptocurrencies ) A unique serial number assigned to a satoshi based on its position in the blockchain ."
+    ]
+  }
+]

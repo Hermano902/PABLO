@@ -1,0 +1,68 @@
+[
+  {
+    "word": "spline",
+    "lemma": "spline",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/splaɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "splines",
+          "PT": "splined",
+          "PAP": "splined",
+          "PRP": "splining",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To smooth (a curve or surface) by means of a spline.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computing"
+        ],
+        "label_groups": "mathematics , computing"
+      },
+      {
+        "definition": "To fit with a spline .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      },
+      {
+        "definition": "To fasten to or together with a spline .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "engineering"
+        ],
+        "label_groups": "engineering"
+      }
+    ],
+    "main_definition": "( mathematics , computing ) To smooth (a curve or surface) by means of a spline.",
+    "secondary_definitions": [
+      "( engineering ) To fit with a spline .",
+      "( engineering ) To fasten to or together with a spline ."
+    ]
+  }
+]

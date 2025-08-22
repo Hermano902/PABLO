@@ -1,0 +1,80 @@
+[
+  {
+    "word": "uncountable",
+    "lemma": "uncountable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈkaʊntəbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "So many as to be incapable of being counted .",
+        "examples": [
+          "The reasons for our failure were as uncountable as the grains of sand on a beach."
+        ],
+        "synonyms": [
+          "countless",
+          "uncounted",
+          "numberless",
+          "innumerable"
+        ],
+        "antonyms": [
+          "countable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Incapable of being put into one-to-one correspondence with the natural numbers or any subset thereof.",
+        "examples": [
+          "Cantor’s “diagonal proof” shows that the set of real numbers is uncountable ."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "countable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "That cannot be used freely with numbers or the indefinite article , and therefore usually takes no plural form. Example: information .",
+        "examples": [
+          "Many languages do not distinguish countable nouns from uncountable nouns.",
+          "One meaning in law of the usually uncountable noun \"information\" is used in the plural and is countable."
+        ],
+        "synonyms": [
+          "noncount",
+          "non-count"
+        ],
+        "antonyms": [
+          "countable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a noun"
+        ],
+        "label_groups": "grammar , of a noun"
+      }
+    ],
+    "main_definition": "So many as to be incapable of being counted .",
+    "secondary_definitions": [
+      "( mathematics ) Incapable of being put into one-to-one correspondence with the natural numbers or any subset thereof.",
+      "( grammar , of a noun ) That cannot be used freely with numbers or the indefinite article , and therefore usually takes no plural form. Example: information ."
+    ]
+  }
+]

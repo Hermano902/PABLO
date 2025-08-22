@@ -1,0 +1,87 @@
+[
+  {
+    "word": "cube",
+    "lemma": "cube",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kjuːb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cubes",
+          "PT": "cubed",
+          "PAP": "cubed",
+          "PRP": "cubing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To raise to the third power; to determine the result of multiplying by itself twice.",
+        "examples": [
+          "Three cubed can be written as 3 , and equals twenty-seven."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "arithmetic"
+        ],
+        "label_groups": "transitive , arithmetic"
+      },
+      {
+        "definition": "To form into the shape of a cube.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cut into cubes.",
+        "examples": [
+          "Cube the ham right after adding the curry to the rice."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To use a Rubik's cube .",
+        "examples": [
+          "He likes to cube now and then."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive , arithmetic ) To raise to the third power; to determine the result of multiplying by itself twice.",
+    "secondary_definitions": [
+      "( transitive ) To form into the shape of a cube.",
+      "( transitive ) To cut into cubes.",
+      "( intransitive ) To use a Rubik's cube ."
+    ]
+  }
+]

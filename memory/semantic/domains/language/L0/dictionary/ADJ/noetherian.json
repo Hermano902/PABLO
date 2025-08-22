@@ -1,0 +1,113 @@
+[
+  {
+    "word": "noetherian",
+    "lemma": "noetherian",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/noʊˈθɪəriən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Satisfying some (usually ascending ) chain condition :",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In which any ascending chain of ideals eventually becomes constant.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a ring"
+            ],
+            "label_groups": "of a ring"
+          },
+          {
+            "definition": "In which any ascending chain of submodules eventually becomes constant.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a module"
+            ],
+            "label_groups": "of a module"
+          },
+          {
+            "definition": "In which any ascending chain of subgroups eventually becomes constant.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a group"
+            ],
+            "label_groups": "of a group"
+          },
+          {
+            "definition": "In which any ascending chain of open subsets eventually becomes constant.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a topological space"
+            ],
+            "label_groups": "of a topological space"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "Such that the converse relation is well-founded (on that set).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a binary relation on a set"
+        ],
+        "label_groups": "mathematics , of a binary relation on a set"
+      },
+      {
+        "definition": "admitting a finite covering by open affine subsets Spec ⁡ A i {\\displaystyle \\operatorname {Spec} A_{i}} , where each A i {\\displaystyle A_{i}} is a noetherian ring ;",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebraic geometry",
+          "of a scheme"
+        ],
+        "label_groups": "algebraic geometry , of a scheme"
+      }
+    ],
+    "main_definition": "( algebra ) Satisfying some (usually ascending ) chain condition :",
+    "secondary_definitions": [
+      "( mathematics , of a binary relation on a set ) Such that the converse relation is well-founded (on that set).",
+      "( algebraic geometry , of a scheme ) admitting a finite covering by open affine subsets Spec ⁡ A i {\\displaystyle \\operatorname {Spec} A_{i}} , where each A i {\\displaystyle A_{i}} is a noetherian ring ;"
+    ]
+  }
+]

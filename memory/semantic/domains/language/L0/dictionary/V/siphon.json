@@ -1,0 +1,72 @@
+[
+  {
+    "word": "siphon",
+    "lemma": "siphon",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "-aɪfən",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "siphons",
+          "PT": "siphoned",
+          "PAP": "siphoned",
+          "PRP": "siphoning",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To transfer (liquid) by means of a siphon.",
+        "examples": [
+          "He used a rubber tube to siphon petrol from the car's fuel tank."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To transfer directly.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension"
+        ],
+        "label_groups": "transitive , by extension"
+      },
+      {
+        "definition": "To steal or skim off something, such as money, in small amounts; to embezzle .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative",
+          "often with \"off\""
+        ],
+        "label_groups": "transitive , figurative , often with \"off\""
+      }
+    ],
+    "main_definition": "( transitive ) To transfer (liquid) by means of a siphon.",
+    "secondary_definitions": [
+      "( transitive , by extension ) To transfer directly.",
+      "( transitive , figurative , often with \"off\" ) To steal or skim off something, such as money, in small amounts; to embezzle ."
+    ]
+  }
+]

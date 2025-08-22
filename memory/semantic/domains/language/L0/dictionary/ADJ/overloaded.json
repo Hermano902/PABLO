@@ -1,0 +1,54 @@
+[
+  {
+    "word": "overloaded",
+    "lemma": "overloaded",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more overloaded",
+          "SUP": "most overloaded"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "loaded too heavily",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "of a word , having multiple meanings depending on context",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "of a name, used for more than one variable or procedure etc; differentiated by the compiler based on context",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "loaded too heavily",
+    "secondary_definitions": [
+      "of a word , having multiple meanings depending on context",
+      "( computing ) of a name, used for more than one variable or procedure etc; differentiated by the compiler based on context"
+    ]
+  }
+]

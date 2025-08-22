@@ -1,0 +1,90 @@
+[
+  {
+    "word": "exponent",
+    "lemma": "exponent",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɛkˈspəʊnənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "exponents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who expounds , represents or advocates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The number by which a value (called the base ) is said to be raised to a power in exponentiation : for example, the 3 {\\displaystyle 3} in 2 3 = 8 {\\displaystyle 2^{3}=8} .",
+        "examples": [],
+        "synonyms": [
+          "power"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "The degree to which the root of a radicand is found, for example, the 2 {\\displaystyle 2} in r 2 = b {\\displaystyle {\\sqrt[{2}]{r}}=b} .",
+        "examples": [],
+        "synonyms": [
+          "degree",
+          "power"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "obsolete"
+        ],
+        "label_groups": "mathematics , obsolete"
+      },
+      {
+        "definition": "A manifestation of a morphosyntactic property.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "The part of a floating-point number that represents its exponent value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "One who expounds , represents or advocates .",
+    "secondary_definitions": [
+      "( mathematics ) The number by which a value (called the base ) is said to be raised to a power in exponentiation : for example, the 3 {\\displaystyle 3} in 2 3 = 8 {\\displaystyle 2^{3}=8} .",
+      "( mathematics , obsolete ) The degree to which the root of a radicand is found, for example, the 2 {\\displaystyle 2} in r 2 = b {\\displaystyle {\\sqrt[{2}]{r}}=b} .",
+      "( linguistics ) A manifestation of a morphosyntactic property.",
+      "( computing ) The part of a floating-point number that represents its exponent value."
+    ]
+  }
+]

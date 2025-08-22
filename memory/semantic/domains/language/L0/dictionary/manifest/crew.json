@@ -1,0 +1,31 @@
+{
+  "word": "crew",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 17,
+      "examples": 9,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 6,
+      "examples": 5,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\crew.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\crew.json"
+  },
+  "timestamp": "2025-08-19T01:02:09.829124Z"
+}

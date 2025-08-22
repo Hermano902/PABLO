@@ -1,0 +1,49 @@
+[
+  {
+    "word": "viewport",
+    "lemma": "viewport",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈvjuːpɔː(ɹ)t/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "viewports"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A viewing window .",
+        "examples": [
+          "acrylic plastic viewports in pressure vessels for human occupancy"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A typically rectangular region representing the range or area currently visible (within a window , screen , etc.).",
+        "examples": [
+          "Dragging the scroll-bar changes which part of the picture is visible within the viewport ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer graphics"
+        ],
+        "label_groups": "computer graphics"
+      }
+    ],
+    "main_definition": "A viewing window .",
+    "secondary_definitions": [
+      "( computer graphics ) A typically rectangular region representing the range or area currently visible (within a window , screen , etc.)."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "update",
+    "lemma": "update",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈʌp.deɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "updates",
+          "PT": "updated",
+          "PAP": "updated",
+          "PRP": "updating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bring (a thing) up to date .",
+        "examples": [
+          "I need to update my records to take account of the most recent transaction."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To bring (a person) up to date: to inform (a person) about recent developments.",
+        "examples": [
+          "Update me on what happened while I was away."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To bring (a thing) up to date .",
+    "secondary_definitions": [
+      "( transitive ) To bring (a person) up to date: to inform (a person) about recent developments."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "banner",
+    "lemma": "banner",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbænə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "banners",
+          "PT": "bannered",
+          "PAP": "bannered",
+          "PRP": "bannering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To adorn with a banner.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To display as a banner headline.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "journalism"
+        ],
+        "label_groups": "transitive , journalism"
+      }
+    ],
+    "main_definition": "( transitive ) To adorn with a banner.",
+    "secondary_definitions": [
+      "( transitive , journalism ) To display as a banner headline."
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "word": "suggest",
+    "lemma": "suggest",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/səˈd͡ʒɛst/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "suggests",
+          "PT": "suggested",
+          "PAP": "suggested",
+          "PRP": "suggesting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To imply but stop short of explicitly stating (something).",
+        "examples": [
+          "Are you suggesting that I killed my wife?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause one to suppose (something); to bring to one's mind the idea (of something).",
+        "examples": [
+          "The name \"hamburger\" suggests that hamburgers originated from Hamburg."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To explicitly mention (something) as a possibility for consideration, often to recommend it.",
+        "examples": [
+          "This meeting venue was suggest ed to us by our boss.",
+          "He suggests that we celebrate with dinner at Bellissimo. He suggests our celebrating with dinner at Bellissimo.",
+          "The guidebook suggested that we visit the local cathedral, so that's what we did."
+        ],
+        "synonyms": [
+          "venture",
+          "hazard"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To seduce ; to prompt to evil; to tempt .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To imply but stop short of explicitly stating (something).",
+    "secondary_definitions": [
+      "( transitive ) To cause one to suppose (something); to bring to one's mind the idea (of something).",
+      "( transitive ) To explicitly mention (something) as a possibility for consideration, often to recommend it.",
+      "( obsolete , transitive ) To seduce ; to prompt to evil; to tempt ."
+    ]
+  }
+]

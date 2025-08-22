@@ -1,0 +1,281 @@
+[
+  {
+    "word": "simple",
+    "lemma": "simple",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪmpəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more simple",
+          "SUP": "most simple"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Uncomplicated ; lacking complexity; taken by itself, with nothing added.",
+        "examples": [],
+        "synonyms": [
+          "onefold"
+        ],
+        "antonyms": [
+          "subtle"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Easy ; not difficult.",
+        "examples": [],
+        "synonyms": [
+          "basic",
+          "trivial"
+        ],
+        "antonyms": [
+          "challenging",
+          "hard"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Without ornamentation ; plain .",
+        "examples": [],
+        "synonyms": [
+          "austere",
+          "plain"
+        ],
+        "antonyms": [
+          "flashy",
+          "tinselly"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Free from duplicity ; guileless , innocent , straightforward .",
+        "examples": [],
+        "synonyms": [
+          "sincere",
+          "unaffected"
+        ],
+        "antonyms": [
+          "crafty",
+          "guileful"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Undistinguished in social condition; of no special rank .",
+        "examples": [],
+        "synonyms": [
+          "common",
+          "low-born",
+          "ordinary",
+          "vulgar"
+        ],
+        "antonyms": [
+          "eminent",
+          "gentle",
+          "notable",
+          "highborn",
+          "well-born"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Trivial ; insignificant .",
+        "examples": [],
+        "synonyms": [
+          "inconsequential"
+        ],
+        "antonyms": [
+          "significant"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "archaic"
+        ],
+        "label_groups": "archaic"
+      },
+      {
+        "definition": "Feeble-minded; foolish .",
+        "examples": [],
+        "synonyms": [
+          "dim-witted",
+          "unwise"
+        ],
+        "antonyms": [
+          "astute",
+          "quick-witted"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "now colloquial",
+          "euphemistic"
+        ],
+        "label_groups": "now colloquial , euphemistic"
+      },
+      {
+        "definition": "Structurally uncomplicated.",
+        "examples": [],
+        "synonyms": [
+          "basic",
+          "plain",
+          "uncomplex",
+          "uncomplicated"
+        ],
+        "antonyms": [
+          "complex",
+          "compound",
+          "complicated"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Consisting of one single substance; uncompounded .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chemistry",
+              "pharmacology"
+            ],
+            "label_groups": "chemistry , pharmacology"
+          },
+          {
+            "definition": "Being non- trivial , and admitting no proper non- trivial quotients . ( group theory , of a group ) Being non- trivial , and having no proper non-trivial normal subgroups (equivalently, no proper non-trivial quotient groups ). ( module theory , of a module ) Being non- trivial , and having no proper non-trivial submodules (equivalently, no proper non-trivial quotient modules ). ( ring theory , of a ring ) Being non- zero , and having no proper non-zero two-sided ideals (equivalently, no proper non-trivial quotient rings ). For commutative rings, this definition coincides with that of a field . ( universal algebra , of an algebraic structure ) Containing more than one element , and such that the only congruences on the structure are the diagonal relation (the equivalence relation a ≡ b ⟺ a = b {\\displaystyle a\\equiv b\\iff a=b} ) and the universal relation (the equivalence relation such that a ≡ b {\\displaystyle a\\equiv b} for all a , b {\\displaystyle a,b} ). Equivalently, containing more than one element and having no proper non-trivial quotient algebras . ( category theory , of an object in a category with a terminal object ) Being non- isomorphic to the terminal object, and such that its only quotient objects (up to isomorphism ) are the terminal object and itself.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "loosely",
+              "of an algebraic structure"
+            ],
+            "label_groups": "algebra , loosely , of an algebraic structure"
+          },
+          {
+            "definition": "Being non- abelian and having no proper non-zero ideals . (Note that this is non-equivalent to the usual algebra sense; in particular, the abelian Lie algebra of dimension 1 over any given field is non-trivial and has no proper non-zero ideals, but is by convention not considered simple.)",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "of a Lie algebra"
+            ],
+            "label_groups": "algebra , of a Lie algebra"
+          },
+          {
+            "definition": "Equal to a finite linear combination of indicator functions on measurable sets .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "real analysis",
+              "measure theory",
+              "of a real-valued function"
+            ],
+            "label_groups": "mathematics , real analysis , measure theory , of a real-valued function"
+          },
+          {
+            "definition": "Not compound , but possibly lobed .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "botany"
+            ],
+            "label_groups": "botany"
+          },
+          {
+            "definition": "Using steam only once in its cylinders , in contrast to a compound engine, where steam is used more than once in high-pressure and low-pressure cylinders. ( of a steam engine )",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Consisting of a single individual or zooid ; not compound .",
+            "examples": [
+              "a simple ascidian"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "zoology"
+            ],
+            "label_groups": "zoology"
+          },
+          {
+            "definition": "Homogenous .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mineralogy"
+            ],
+            "label_groups": "mineralogy"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "heading",
+          "technical"
+        ],
+        "label_groups": "heading , technical"
+      },
+      {
+        "definition": "Mere; not other than; being only.",
+        "examples": [],
+        "synonyms": [
+          "alone",
+          "mere",
+          "only",
+          "very"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "Uncomplicated ; lacking complexity; taken by itself, with nothing added.",
+    "secondary_definitions": [
+      "Easy ; not difficult.",
+      "Without ornamentation ; plain .",
+      "Free from duplicity ; guileless , innocent , straightforward .",
+      "Undistinguished in social condition; of no special rank .",
+      "( archaic ) Trivial ; insignificant .",
+      "( now colloquial , euphemistic ) Feeble-minded; foolish .",
+      "( heading , technical ) Structurally uncomplicated.",
+      "( obsolete ) Mere; not other than; being only."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "listen",
+    "lemma": "listen",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlɪs.ən/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "listens",
+          "PT": "listened",
+          "PAP": "listened",
+          "PRP": "listening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use one's sense of hearing in an intentional way; to make deliberate use of one's ears ; to pay attention to or wait for a specific sound.",
+        "examples": [
+          "Please listen carefully as I explain.",
+          "I could hear you talking upstairs, but I didn’t really listen to your conversation."
+        ],
+        "synonyms": [
+          "heed",
+          "mind",
+          "note",
+          "pay attention",
+          "attend"
+        ],
+        "antonyms": [
+          "ignore"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive except in archaic usage"
+        ],
+        "label_groups": "intransitive except in archaic usage"
+      },
+      {
+        "definition": "To accept advice or obey instruction; to agree or assent .",
+        "examples": [],
+        "synonyms": [
+          "mind"
+        ],
+        "antonyms": [
+          "disregard"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive except in archaic usage ) To use one's sense of hearing in an intentional way; to make deliberate use of one's ears ; to pay attention to or wait for a specific sound.",
+    "secondary_definitions": [
+      "( intransitive ) To accept advice or obey instruction; to agree or assent ."
+    ]
+  }
+]

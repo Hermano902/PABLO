@@ -1,0 +1,37 @@
+{
+  "word": "yeah",
+  "pos_order": [
+    "PART",
+    "INTJ",
+    "N"
+  ],
+  "pos": {
+    "PART": {
+      "definitions": 3,
+      "examples": 3,
+      "synonyms": 8,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "INTJ": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "PART": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PART\\yeah.json",
+    "INTJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\INTJ\\yeah.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\yeah.json"
+  },
+  "timestamp": "2025-08-19T21:14:00.053942Z"
+}

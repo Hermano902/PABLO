@@ -1,0 +1,35 @@
+[
+  {
+    "word": "bicategory",
+    "lemma": "bicategory",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "bicategories"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A particular construct in category theory , used to extend the notion of category to handle the cases where the composition of morphisms is not (strictly) associative , but only associative up to an isomorphism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( mathematics ) A particular construct in category theory , used to extend the notion of category to handle the cases where the composition of morphisms is not (strictly) associative , but only associative up to an isomorphism .",
+    "secondary_definitions": []
+  }
+]

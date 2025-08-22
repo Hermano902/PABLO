@@ -1,0 +1,58 @@
+[
+  {
+    "word": "restful",
+    "lemma": "restful",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɛs(t)fʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more restful",
+          "SUP": "most restful"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "peaceful ; having a peaceful aspect",
+        "examples": [
+          "After a hard day, Sue found the beauty of the park especially restful ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "restorative ; aiding rest",
+        "examples": [
+          "A restful night's sleep mended his spirits."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Alternative form of RESTful .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "peaceful ; having a peaceful aspect",
+    "secondary_definitions": [
+      "restorative ; aiding rest",
+      "( computing ) Alternative form of RESTful ."
+    ]
+  }
+]

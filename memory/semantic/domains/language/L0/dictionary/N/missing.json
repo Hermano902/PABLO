@@ -1,0 +1,35 @@
+[
+  {
+    "word": "missing",
+    "lemma": "missing",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪsɪŋ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "missings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A value that is missing.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( statistics ) A value that is missing.",
+    "secondary_definitions": []
+  }
+]

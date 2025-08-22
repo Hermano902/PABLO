@@ -1,0 +1,61 @@
+[
+  {
+    "word": "malleable",
+    "lemma": "malleable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmæl.iː.ə.bəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more malleable",
+          "SUP": "most malleable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to be hammered into thin sheets ; capable of being extended or shaped by beating with a hammer , or by the pressure of rollers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Flexible , liable to change .",
+        "examples": [
+          "My opinion on the subject is malleable ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "figurative"
+        ],
+        "label_groups": "figurative"
+      },
+      {
+        "definition": "in which an adversary can alter a ciphertext such that it decrypts to a related plaintext",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cryptography",
+          "of an algorithm"
+        ],
+        "label_groups": "cryptography , of an algorithm"
+      }
+    ],
+    "main_definition": "Able to be hammered into thin sheets ; capable of being extended or shaped by beating with a hammer , or by the pressure of rollers .",
+    "secondary_definitions": [
+      "( figurative ) Flexible , liable to change .",
+      "( cryptography , of an algorithm ) in which an adversary can alter a ciphertext such that it decrypts to a related plaintext"
+    ]
+  }
+]

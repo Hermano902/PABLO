@@ -1,0 +1,68 @@
+[
+  {
+    "word": "sickle",
+    "lemma": "sickle",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪkl̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sickles",
+          "PT": "sickled",
+          "PAP": "sickled",
+          "PRP": "sickling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cut with a sickle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "agriculture",
+          "transitive"
+        ],
+        "label_groups": "agriculture , transitive"
+      },
+      {
+        "definition": "To deform (as with a red blood cell ) into an abnormal crescent shape.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "Of red blood cells: to assume an abnormal crescent shape.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( agriculture , transitive ) To cut with a sickle.",
+    "secondary_definitions": [
+      "( transitive ) To deform (as with a red blood cell ) into an abnormal crescent shape.",
+      "( intransitive ) Of red blood cells: to assume an abnormal crescent shape."
+    ]
+  }
+]

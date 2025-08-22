@@ -1,0 +1,193 @@
+[
+  {
+    "word": "driver",
+    "lemma": "driver",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɹaɪ.və/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "drivers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who drives something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A person who drives a motorized vehicle such as a car, truck, bus, train, forklift, etc.",
+            "examples": [
+              "The driver will make an announcement when the trip is nearing its completion.",
+              "Tipping your driver is optional but is much appreciated."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A pilot (person who flies aircraft).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "aviation",
+              "slang"
+            ],
+            "label_groups": "aviation , slang"
+          },
+          {
+            "definition": "A person who drives livestock : a drover .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Something that drives something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A device driver ; a program that acts as an interface between an application and hardware , written specifically for the device it controls.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          },
+          {
+            "definition": "A golf club used to drive the ball a great distance.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "golf"
+            ],
+            "label_groups": "golf"
+          },
+          {
+            "definition": "A kind of sail, smaller than a fore and aft spanker on a square-rigged ship, a driver is tied to the same spars .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "nautical"
+            ],
+            "label_groups": "nautical"
+          },
+          {
+            "definition": "A factor contributing to something; a cause .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Any driving element in any mechanism , which drives the driven element.",
+            "examples": [
+              "The driver engages the follower intermittently, as dictated by the solenoid ."
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "follower"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "engineering"
+            ],
+            "label_groups": "engineering"
+          },
+          {
+            "definition": "A mallet .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A tamping iron .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A cooper 's hammer for driving on barrel hoops .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A screwdriver , a nutdriver , or a bit for such a tool; such bits include nutsetters .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A device that converts an electrical signal to sound waves ; the principal component of loudspeakers and headphones .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "audio"
+            ],
+            "label_groups": "audio"
+          },
+          {
+            "definition": "A driving wheel of a locomotive.",
+            "examples": [
+              "The later iterations of these locomotives had 56-inch drivers ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly in the plural"
+            ],
+            "label_groups": "chiefly in the plural"
+          }
+        ],
+        "senses": []
+      }
+    ],
+    "main_definition": "One who drives something.",
+    "secondary_definitions": [
+      "Something that drives something else."
+    ]
+  }
+]

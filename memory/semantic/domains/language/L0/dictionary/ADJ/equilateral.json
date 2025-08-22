@@ -1,0 +1,77 @@
+[
+  {
+    "word": "equilateral",
+    "lemma": "equilateral",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "-ætəɹəl",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Having all the sides equal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a polygon"
+        ],
+        "label_groups": "geometry , of a polygon"
+      },
+      {
+        "definition": "Having all the faces equal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry",
+          "of a polyhedron"
+        ],
+        "label_groups": "geometry , of a polyhedron"
+      },
+      {
+        "definition": "Having the two sides equal, as a surface divisible by a longitudinal median line into two halves of the same form.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      },
+      {
+        "definition": "Having all the convolutions of the shell in one plane, chiefly of foraminifers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "zoology"
+        ],
+        "label_groups": "zoology"
+      }
+    ],
+    "main_definition": "( geometry , of a polygon ) Having all the sides equal.",
+    "secondary_definitions": [
+      "( geometry , of a polyhedron ) Having all the faces equal.",
+      "( zoology ) Having the two sides equal, as a surface divisible by a longitudinal median line into two halves of the same form.",
+      "( zoology ) Having all the convolutions of the shell in one plane, chiefly of foraminifers ."
+    ]
+  }
+]

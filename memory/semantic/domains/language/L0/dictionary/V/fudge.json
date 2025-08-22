@@ -1,0 +1,89 @@
+[
+  {
+    "word": "fudge",
+    "lemma": "fudge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/fʌd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fudges",
+          "PT": "fudged",
+          "PAP": "fudged",
+          "PRP": "fudging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To try to avoid giving a direct answer.",
+        "examples": [
+          "When I asked them if they had been at the party, they fudged ."
+        ],
+        "synonyms": [
+          "waffle",
+          "equivocate",
+          "hedge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To alter something from its true state, as to hide a flaw or uncertainty , deliberately but not necessarily dishonestly or immorally .",
+        "examples": [
+          "The results of the experiment looked impressive, but it turned out the numbers had been fudged .",
+          "I had to fudge the lighting to get the color to look good.",
+          "Do you fudge your age?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To botch or bungle something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated",
+          "ambitransitive"
+        ],
+        "label_groups": "dated , ambitransitive"
+      },
+      {
+        "definition": "To cheat , especially in the game of marbles .",
+        "examples": [],
+        "synonyms": [
+          "cheat"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive ) To try to avoid giving a direct answer.",
+    "secondary_definitions": [
+      "( transitive ) To alter something from its true state, as to hide a flaw or uncertainty , deliberately but not necessarily dishonestly or immorally .",
+      "( dated , ambitransitive ) To botch or bungle something.",
+      "To cheat , especially in the game of marbles ."
+    ]
+  }
+]

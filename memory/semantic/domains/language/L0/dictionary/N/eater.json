@@ -1,0 +1,54 @@
+[
+  {
+    "word": "eater",
+    "lemma": "eater",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈiː.tɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "eaters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person or animal who eats .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A fruit or other food that is suitable for eating , especially one that is intended to be eaten uncooked.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A configuration of cells that appears to consume another configuration by gradually causing it to disappear.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "cellular automata"
+        ],
+        "label_groups": "cellular automata"
+      }
+    ],
+    "main_definition": "A person or animal who eats .",
+    "secondary_definitions": [
+      "A fruit or other food that is suitable for eating , especially one that is intended to be eaten uncooked.",
+      "( cellular automata ) A configuration of cells that appears to consume another configuration by gradually causing it to disappear."
+    ]
+  }
+]

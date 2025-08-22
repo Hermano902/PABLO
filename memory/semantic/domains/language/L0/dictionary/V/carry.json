@@ -1,0 +1,446 @@
+[
+  {
+    "word": "carry",
+    "lemma": "carry",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæɹ.ɪ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "carries",
+          "PT": "carried",
+          "PAP": "carried",
+          "PRP": "carrying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To lift (something) and take it to another place; to transport (something) by lifting.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To notionally transfer from one place (such as a country, book, or column) to another.",
+        "examples": [
+          "to carry the war from Greece into Asia",
+          "to carry an account to the ledger"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To convey by extension or continuance; to extend.",
+        "examples": [
+          "The builders are going to carry the chimney through the roof.",
+          "They would have carried the road ten miles further, but ran out of materials."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To move; to convey using force",
+        "examples": [],
+        "synonyms": [
+          "impel",
+          "conduct"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "chiefly archaic"
+        ],
+        "label_groups": "transitive , chiefly archaic"
+      },
+      {
+        "definition": "To lead or guide .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To stock or supply (something); to have in store .",
+        "examples": [
+          "The corner drugstore doesn’t carry his favorite brand of aspirin."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To adopt (something); take (something) over .",
+        "examples": [
+          "I think I can carry Smith’s work while she is out."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To adopt or resolve on, especially in a deliberative assembly",
+        "examples": [
+          "The court carries that motion."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "In an addition , to transfer the quantity in excess of what is countable in the units in a column to the column immediately to the left in order to be added there.",
+        "examples": [
+          "Five and nine are fourteen; carry the one to the tens place."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "arithmetic"
+        ],
+        "label_groups": "transitive , arithmetic"
+      },
+      {
+        "definition": "To have , hold , possess or maintain (something).",
+        "examples": [
+          "Always carry sufficient insurance to protect against a loss."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be transmitted ; to travel .",
+        "examples": [
+          "The sound of the bells carried for miles on the wind."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To insult , to diss .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "transitive"
+        ],
+        "label_groups": "slang , transitive"
+      },
+      {
+        "definition": "To capture a ship by coming alongside and boarding .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "nautical"
+        ],
+        "label_groups": "transitive , nautical"
+      },
+      {
+        "definition": "To transport (the ball) whilst maintaining possession.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sports"
+        ],
+        "label_groups": "transitive , sports"
+      },
+      {
+        "definition": "For the ball, having been hit in the air, to reach a fielder without touching the ground (whether or not the fielder catches it).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "cricket"
+        ],
+        "label_groups": "intransitive , cricket"
+      },
+      {
+        "definition": "To have on one’s person.",
+        "examples": [
+          "She always carries a purse.",
+          "Marsupials carry their young in a pouch"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To be pregnant (with).",
+        "examples": [
+          "The doctor said she’s carrying twins."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have propulsive power; to propel.",
+        "examples": [
+          "A gun or mortar carries well."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To hold the head; said of a horse.",
+        "examples": [
+          "to carry well, i.e. to hold the head high, with arching neck"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have earth or frost stick to the feet when running, as a hare .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "hunting"
+        ],
+        "label_groups": "hunting"
+      },
+      {
+        "definition": "To bear or uphold successfully, especially through conflict, for example a leader or principle",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To succeed in (e.g. a contest); to succeed in; to win.",
+        "examples": [
+          "The Tories carried the election."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To get possession of by force; to capture.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "To contain; to comprise; have a particular aspect; to show or exhibit",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To bear (oneself); to behave or conduct.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "reflexive"
+        ],
+        "label_groups": "reflexive"
+      },
+      {
+        "definition": "To bear the charges or burden of holding or having, as stocks, merchandise, etc., from one time to another.",
+        "examples": [
+          "to carry a life insurance"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To have a weapon on one's person; to be armed .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be disproportionately responsible for a team's success or for counteracting teammates' underperformance.",
+        "examples": [
+          "Despite zero goals and zero assists, she still stands out for carrying her team's defense.",
+          "The other outfielders had no hustle, but fortunately the centerfielder carried them.",
+          "He absolutely carried , to the point of killing the entire enemy team by himself."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "gaming",
+          "sports",
+          "transitive or",
+          "rarely",
+          "intransitive"
+        ],
+        "label_groups": [
+          "gaming , sports",
+          "transitive or, rarely, intransitive"
+        ]
+      },
+      {
+        "definition": "To physically transport (in the general sense, not necessarily by lifting)",
+        "examples": [
+          "Will you carry me to town?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Southern US"
+        ],
+        "label_groups": "Southern US"
+      },
+      {
+        "definition": "To bear a firearm , such as a gun .",
+        "examples": [
+          "A holster can help you carry in confidence, knowing that your weapon is secure and close at hand."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Canada",
+          "US"
+        ],
+        "label_groups": "Canada , US"
+      }
+    ],
+    "main_definition": "( transitive ) To lift (something) and take it to another place; to transport (something) by lifting.",
+    "secondary_definitions": [
+      "( transitive ) To notionally transfer from one place (such as a country, book, or column) to another.",
+      "( transitive ) To convey by extension or continuance; to extend.",
+      "( transitive , chiefly archaic ) To move; to convey using force",
+      "( transitive ) To lead or guide .",
+      "( transitive ) To stock or supply (something); to have in store .",
+      "( transitive ) To adopt (something); take (something) over .",
+      "( transitive ) To adopt or resolve on, especially in a deliberative assembly",
+      "( transitive , arithmetic ) In an addition , to transfer the quantity in excess of what is countable in the units in a column to the column immediately to the left in order to be added there.",
+      "( transitive ) To have , hold , possess or maintain (something).",
+      "( intransitive ) To be transmitted ; to travel .",
+      "( slang , transitive ) To insult , to diss .",
+      "( transitive , nautical ) To capture a ship by coming alongside and boarding .",
+      "( transitive , sports ) To transport (the ball) whilst maintaining possession.",
+      "( intransitive , cricket ) For the ball, having been hit in the air, to reach a fielder without touching the ground (whether or not the fielder catches it).",
+      "( transitive ) To have on one’s person.",
+      "To be pregnant (with).",
+      "To have propulsive power; to propel.",
+      "To hold the head; said of a horse.",
+      "( hunting ) To have earth or frost stick to the feet when running, as a hare .",
+      "To bear or uphold successfully, especially through conflict, for example a leader or principle",
+      "To succeed in (e.g. a contest); to succeed in; to win.",
+      "( obsolete ) To get possession of by force; to capture.",
+      "To contain; to comprise; have a particular aspect; to show or exhibit",
+      "( reflexive ) To bear (oneself); to behave or conduct.",
+      "To bear the charges or burden of holding or having, as stocks, merchandise, etc., from one time to another.",
+      "( intransitive ) To have a weapon on one's person; to be armed .",
+      "( gaming , sports ) ( transitive or, rarely, intransitive ) To be disproportionately responsible for a team's success or for counteracting teammates' underperformance.",
+      "( Southern US ) To physically transport (in the general sense, not necessarily by lifting)",
+      "( Canada , US ) To bear a firearm , such as a gun ."
+    ]
+  }
+]

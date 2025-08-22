@@ -1,0 +1,35 @@
+{
+  "word": "hock",
+  "pos_order": [
+    "N",
+    "N:2",
+    "V",
+    "V:2",
+    "N:3",
+    "V:3",
+    "V:4",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 16
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\hock.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\hock.json"
+  },
+  "timestamp": "2025-08-19T05:25:59.710744Z"
+}

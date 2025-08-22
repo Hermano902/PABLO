@@ -1,0 +1,31 @@
+{
+  "word": "stoop",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "N:3",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 6,
+      "examples": 1,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\stoop.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\stoop.json"
+  },
+  "timestamp": "2025-08-19T18:03:26.706211Z"
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "signal",
+    "lemma": "signal",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪɡnəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "signals",
+          "PT": "signalled",
+          "PAP": "signalled",
+          "PRP": "signalling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To indicate ; to convey or communicate by a signal.",
+        "examples": [
+          "I signalled my acquiescence with a nod.",
+          "He whistled to signal that we should stop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To communicate with (a person or system) by a signal.",
+        "examples": [
+          "Seeing the flames, he ran to the control room and signalled headquarters."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To indicate ; to convey or communicate by a signal.",
+    "secondary_definitions": [
+      "( transitive ) To communicate with (a person or system) by a signal."
+    ]
+  }
+]

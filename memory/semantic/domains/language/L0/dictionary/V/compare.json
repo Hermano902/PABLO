@@ -1,0 +1,105 @@
+[
+  {
+    "word": "compare",
+    "lemma": "compare",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kəmˈpɛɚ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "compares",
+          "PT": "compared",
+          "PAP": "compared",
+          "PRP": "comparing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+        "examples": [
+          "Compare the tiger's coloration with that of the zebra.",
+          "You can't compare my problems and yours."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To declare two things to be similar in some respect [\"to compare X to Y\"].",
+        "examples": [
+          "Astronomers have compared comets to dirty snowballs."
+        ],
+        "synonyms": [
+          "liken"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form the three degrees of comparison of (an adjective).",
+        "examples": [
+          "We compare \"good\" as \"good\", \"better\", \"best\"."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      },
+      {
+        "definition": "To be similar ( often used in the negative ).",
+        "examples": [
+          "A sapling and a fully-grown oak tree do not compare ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To get ; to obtain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+    "secondary_definitions": [
+      "( transitive ) To declare two things to be similar in some respect [\"to compare X to Y\"].",
+      "( transitive , grammar ) To form the three degrees of comparison of (an adjective).",
+      "( intransitive ) To be similar ( often used in the negative ).",
+      "( obsolete ) To get ; to obtain ."
+    ]
+  }
+]

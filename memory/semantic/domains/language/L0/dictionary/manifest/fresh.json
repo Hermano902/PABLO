@@ -1,0 +1,47 @@
+{
+  "word": "fresh",
+  "pos_order": [
+    "ADJ",
+    "ADV",
+    "N",
+    "V",
+    "ADJ:2"
+  ],
+  "pos": {
+    "ADJ": {
+      "definitions": 12,
+      "examples": 12,
+      "synonyms": 4,
+      "antonyms": 3,
+      "inflections": 4
+    },
+    "ADV": {
+      "definitions": 1,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\fresh.json",
+    "ADV": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADV\\fresh.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fresh.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fresh.json"
+  },
+  "timestamp": "2025-08-19T04:06:22.868819Z"
+}

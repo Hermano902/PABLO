@@ -1,0 +1,428 @@
+[
+  {
+    "word": "free",
+    "lemma": "free",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/fɹiː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more free",
+          "SUP": "most free"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Unconstrained .",
+        "examples": [
+          "He was given free rein to do whatever he wanted."
+        ],
+        "synonyms": [
+          "unconstrained",
+          "unfettered",
+          "unhindered",
+          "quit"
+        ],
+        "antonyms": [
+          "constrained",
+          "restricted"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Not imprisoned or enslaved .",
+            "examples": [
+              "Free Blacks",
+              "a free man"
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "bound",
+              "enslaved",
+              "imprisoned"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Generous ; liberal .",
+            "examples": [
+              "He's very free with his money."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Clear of offence or crime; guiltless; innocent.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete"
+            ],
+            "label_groups": "obsolete"
+          },
+          {
+            "definition": "Without obligations .",
+            "examples": [
+              "free time"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To be enjoyed by anyone freely.",
+            "examples": [
+              "a free school"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Upholding individual rights.",
+            "examples": [
+              "the Free World",
+              "This is a free country."
+            ],
+            "synonyms": [
+              "nonauthoritarian"
+            ],
+            "antonyms": [
+              "unfree",
+              "authoritarian"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a government",
+              "country"
+            ],
+            "label_groups": "of a government, country"
+          },
+          {
+            "definition": "With no or only freedom-preserving limitations on distribution or modification.",
+            "examples": [
+              "OpenOffice is free software ."
+            ],
+            "synonyms": [
+              "libre",
+              "free as in speech",
+              "free as in freedom"
+            ],
+            "antonyms": [
+              "proprietary",
+              "nonfree"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "software"
+            ],
+            "label_groups": "software"
+          },
+          {
+            "definition": "Intended for release , and omitting debugging diagnostics, as opposed to a checked version.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "software"
+            ],
+            "label_groups": "software"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "social"
+        ],
+        "label_groups": "social"
+      },
+      {
+        "definition": "Obtainable without any payment .",
+        "examples": [
+          "The government provides free health care.",
+          "It's free real estate."
+        ],
+        "synonyms": [
+          "free of charge",
+          "gratis",
+          "costless",
+          "feeless",
+          "free as in beer"
+        ],
+        "antonyms": [
+          "nonfree"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "Complimentary .",
+            "examples": [
+              "Buy a TV to get a free DVD player!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "by extension",
+              "chiefly used in advertising"
+            ],
+            "label_groups": "by extension , chiefly used in advertising"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Unconstrained .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "In any of various technical senses generic , universal . ( most generally , category theory , of an object F {\\displaystyle F} in a concrete category, with respect to a set X {\\displaystyle X} and a map i {\\displaystyle i} from X {\\displaystyle X} to the underlying set of F {\\displaystyle F} ) Such that any map f {\\displaystyle f} from X {\\displaystyle X} to the underlying set of an object A {\\displaystyle A} in the same category as F {\\displaystyle F} induces a map f ¯ {\\displaystyle {\\bar {f}}} from F {\\displaystyle F} to A {\\displaystyle A} which is compatible with f {\\displaystyle f} (i.e. such that f = f ¯ ∘ i {\\displaystyle f={\\bar {f}}\\circ i} ). ( group theory , of a group ) Having a set of generators which satisfy no non-trivial relations ; equivalently, being the group of reduced words on a set of generators. ( commutative algebra , of a module ) Having a linearly independent set of generators (called a basis ).",
+            "examples": [
+              "The fundamental group of the figure eight is free of rank 2."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "algebra",
+              "of an algebraic structure"
+            ],
+            "label_groups": "algebra , of an algebraic structure"
+          },
+          {
+            "definition": "Unconstrained by quantifiers .",
+            "examples": [
+              "z {\\displaystyle z} is the free variable in ∀ x ∃ y : x y = z {\\displaystyle \\forall x\\exists y:xy=z} ."
+            ],
+            "synonyms": [],
+            "antonyms": [
+              "bound"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "logic",
+              "of a variable"
+            ],
+            "label_groups": "logic , of a variable"
+          },
+          {
+            "definition": "Unconstrained of identifiers , not bound .",
+            "examples": [],
+            "synonyms": [
+              "unbound"
+            ],
+            "antonyms": [
+              "bound"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "programming"
+            ],
+            "label_groups": "programming"
+          },
+          {
+            "definition": "That can be used by itself, unattached to another morpheme .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "linguistics",
+              "of a morpheme"
+            ],
+            "label_groups": [
+              "linguistics",
+              "of a morpheme"
+            ]
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "abstract"
+        ],
+        "label_groups": "abstract"
+      },
+      {
+        "definition": "Unconstrained .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Unobstructed, without blockages .",
+            "examples": [
+              "the drain was free"
+            ],
+            "synonyms": [
+              "clear",
+              "unobstructed"
+            ],
+            "antonyms": [
+              "blocked",
+              "obstructed"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Unattached or uncombined.",
+            "examples": [
+              "a free radical"
+            ],
+            "synonyms": [
+              "loose",
+              "unfastened"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Not currently in use; not taken; unoccupied.",
+            "examples": [
+              "You can sit on this chair; it's free ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Not attached ; loose .",
+            "examples": [
+              "In this group of mushrooms, the gills are free ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "botany",
+              "mycology"
+            ],
+            "label_groups": "botany , mycology"
+          },
+          {
+            "definition": "Of a rocket or missile : not under the control of a guidance system after being launched.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "military"
+            ],
+            "label_groups": "military"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physical"
+        ],
+        "label_groups": "physical"
+      },
+      {
+        "definition": "Without; not containing (what is specified); exempt; clear; liberated.",
+        "examples": [
+          "We had a wholesome, filling meal, free of meat.  I would like to live free from care in the mountains."
+        ],
+        "synonyms": [
+          "without"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ready; eager; acting without spurring or whipping; spirited.",
+        "examples": [
+          "a free horse"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Invested with a particular freedom or franchise; enjoying certain immunities or privileges; admitted to special rights; followed by of .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "Certain or honourable; the opposite of base .",
+        "examples": [
+          "free service; free socage"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "UK",
+          "law",
+          "obsolete"
+        ],
+        "label_groups": "UK , law , obsolete"
+      },
+      {
+        "definition": "Privileged or individual; proprietary.",
+        "examples": [
+          "a free fishery;  a free warren"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "common",
+          "nonproprietary"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law"
+        ],
+        "label_groups": "law"
+      }
+    ],
+    "main_definition": "( social ) Unconstrained .",
+    "secondary_definitions": [
+      "Obtainable without any payment .",
+      "( abstract ) Unconstrained .",
+      "( physical ) Unconstrained .",
+      "Without; not containing (what is specified); exempt; clear; liberated.",
+      "( dated ) Ready; eager; acting without spurring or whipping; spirited.",
+      "( dated ) Invested with a particular freedom or franchise; enjoying certain immunities or privileges; admitted to special rights; followed by of .",
+      "( UK , law , obsolete ) Certain or honourable; the opposite of base .",
+      "( law ) Privileged or individual; proprietary."
+    ]
+  }
+]

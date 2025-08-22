@@ -1,0 +1,62 @@
+[
+  {
+    "word": "mothball",
+    "lemma": "mothball",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒθbɔːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mothballs",
+          "PT": "mothballed",
+          "PAP": "mothballed",
+          "PRP": "mothballing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To store or shelve something no longer used.",
+        "examples": [
+          "They mothballed the old version after the new one came out."
+        ],
+        "synonyms": [
+          "store",
+          "shelve",
+          "set aside",
+          "defer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To stop using (something), but keep it in good condition.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      }
+    ],
+    "main_definition": "( transitive ) To store or shelve something no longer used.",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To stop using (something), but keep it in good condition."
+    ]
+  }
+]

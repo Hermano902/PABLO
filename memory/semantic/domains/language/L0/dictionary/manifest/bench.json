@@ -1,0 +1,31 @@
+{
+  "word": "bench",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 19,
+      "examples": 11,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 7,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\bench.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\bench.json"
+  },
+  "timestamp": "2025-08-18T22:04:49.911476Z"
+}

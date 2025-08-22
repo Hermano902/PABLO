@@ -1,0 +1,102 @@
+[
+  {
+    "word": "gadget",
+    "lemma": "gadget",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡædʒɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gadgets"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A thing whose name cannot be remembered ; thingamajig , doohickey .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Any device or machine , especially one whose name cannot be recalled, often either clever or complicated.",
+        "examples": [
+          "He bought a neat new gadget for shredding potatoes.",
+          "That's quite a lot of gadgets you have collected. Do you use any of them?"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any consumer electronics product.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "A sequence of machine code instructions crafted as part of an exploit that attempts to divert execution to a memory location chosen by the attacker .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A technique for converting a part of one problem to an equivalent part of another problem, used in constructing reductions .",
+        "examples": [
+          "We reduce an instance of 3-SAT to an instance of bird-flock-optimization, using a gadget that converts each conjunctive Boolean clause to a group of birds."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      },
+      {
+        "definition": "A spring clip attached to the end of a punty in order to grasp the foot of a glass without leaving a bullion while finishing the bowl.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "glassblowing"
+        ],
+        "label_groups": "glassblowing"
+      }
+    ],
+    "main_definition": "( obsolete ) A thing whose name cannot be remembered ; thingamajig , doohickey .",
+    "secondary_definitions": [
+      "Any device or machine , especially one whose name cannot be recalled, often either clever or complicated.",
+      "( informal ) Any consumer electronics product.",
+      "( computing ) A sequence of machine code instructions crafted as part of an exploit that attempts to divert execution to a memory location chosen by the attacker .",
+      "( computer science ) A technique for converting a part of one problem to an equivalent part of another problem, used in constructing reductions .",
+      "( glassblowing ) A spring clip attached to the end of a punty in order to grasp the foot of a glass without leaving a bullion while finishing the bowl."
+    ]
+  }
+]

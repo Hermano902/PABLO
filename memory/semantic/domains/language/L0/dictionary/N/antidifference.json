@@ -1,0 +1,31 @@
+[
+  {
+    "word": "antidifference",
+    "lemma": "antidifference",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "antidifferences"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A function F(x) is the antidifference of f(x) if F(x+1)-F(x)=f(x) .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A function F(x) is the antidifference of f(x) if F(x+1)-F(x)=f(x) .",
+    "secondary_definitions": []
+  }
+]

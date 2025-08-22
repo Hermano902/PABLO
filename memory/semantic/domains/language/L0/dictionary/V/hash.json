@@ -1,0 +1,80 @@
+[
+  {
+    "word": "hash",
+    "lemma": "hash",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈhæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "hashes",
+          "PT": "hashed",
+          "PAP": "hashed",
+          "PRP": "hashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To chop into small pieces , to make into a hash.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To make a quick, rough version. (Can we add an example for this sense?)",
+        "examples": [
+          "We need to quickly hash up some plans."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To transform according to a hash function .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      },
+      {
+        "definition": "To make a mess of (something); to ruin .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "colloquial"
+        ],
+        "label_groups": "transitive , colloquial"
+      }
+    ],
+    "main_definition": "( transitive ) To chop into small pieces , to make into a hash.",
+    "secondary_definitions": [
+      "To make a quick, rough version. (Can we add an example for this sense?)",
+      "( computing , transitive ) To transform according to a hash function .",
+      "( transitive , colloquial ) To make a mess of (something); to ruin ."
+    ]
+  }
+]

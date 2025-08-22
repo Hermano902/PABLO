@@ -1,0 +1,45 @@
+[
+  {
+    "word": "briefcase",
+    "lemma": "briefcase",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈbɹiːfˌkeɪs/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "briefcases"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A case used for carrying documents , especially for business .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In Microsoft Windows , a folder that supports file synchronization between itself and another folder.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "A case used for carrying documents , especially for business .",
+    "secondary_definitions": [
+      "( computing ) In Microsoft Windows , a folder that supports file synchronization between itself and another folder."
+    ]
+  }
+]

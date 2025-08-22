@@ -1,0 +1,97 @@
+[
+  {
+    "word": "recall",
+    "lemma": "recall",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈkɔːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "recalls"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The action or fact of calling someone or something back.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Request of the return of a faulty product .",
+            "examples": [
+              "recall campaign"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The right or procedure by which a public official may be removed from office before the end of their term of office, by a vote of the people to be taken on the filing of a petition signed by a required number or percentage of qualified voters.",
+            "examples": [
+              "recall petition",
+              "representative recall"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "chiefly US politics"
+            ],
+            "label_groups": "chiefly US politics"
+          },
+          {
+            "definition": "The right or procedure by which the decision of a court may be directly reversed or annulled by popular vote , as was advocated, in 1912, in the platform of the Progressive Party for certain cases involving the police power of the state.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "US politics"
+            ],
+            "label_groups": "US politics"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Memory ; the ability to remember .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The fraction of (all) relevant material that is returned by a search .",
+        "examples": [
+          "precision and recall"
+        ],
+        "synonyms": [
+          "sensitivity"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "information retrieval",
+          "machine learning"
+        ],
+        "label_groups": "information retrieval , machine learning"
+      }
+    ],
+    "main_definition": "The action or fact of calling someone or something back.",
+    "secondary_definitions": [
+      "Memory ; the ability to remember .",
+      "( information retrieval , machine learning ) The fraction of (all) relevant material that is returned by a search ."
+    ]
+  }
+]

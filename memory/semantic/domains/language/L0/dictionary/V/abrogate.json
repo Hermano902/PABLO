@@ -1,0 +1,71 @@
+[
+  {
+    "word": "abrogate",
+    "lemma": "abrogate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈæ.bɹə.ɡət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "abrogates",
+          "PT": "abrogated",
+          "PAP": "abrogated",
+          "PRP": "abrogating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To annul by an authoritative act; to abolish by the authority of the maker or their successor ; to repeal ; — applied to the repeal of laws, decrees, ordinances , the abolition of customs, etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law",
+        "dating_raw": "First attested in the early 16 century."
+      },
+      {
+        "definition": "To put an end to; to do away with.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "First attested in the early 16 century."
+      },
+      {
+        "definition": "To block a process or function.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "molecular biology",
+          "transitive"
+        ],
+        "label_groups": "molecular biology , transitive"
+      }
+    ],
+    "main_definition": "( transitive , law ) To annul by an authoritative act; to abolish by the authority of the maker or their successor ; to repeal ; — applied to the repeal of laws, decrees, ordinances , the abolition of customs, etc. [First attested in the early 16 century.]",
+    "secondary_definitions": [
+      "( transitive ) To put an end to; to do away with. [First attested in the early 16 century.]",
+      "( molecular biology , transitive ) To block a process or function."
+    ]
+  }
+]

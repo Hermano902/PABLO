@@ -1,0 +1,244 @@
+[
+  {
+    "word": "domain",
+    "lemma": "domain",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dəʊˈmeɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "domains"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A geographic area owned or controlled by a single person or organization .",
+        "examples": [
+          "The king ruled his domain harshly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A field or sphere of activity , influence or expertise .",
+        "examples": [
+          "Dealing with complaints isn't really my domain : get in touch with customer services.",
+          "His domain is English history."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A group of related items , topics , or subjects .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The set of input ( argument ) values for which a function is defined.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The set A ; The subset of A consisting of elements a of A such that there exists an element b in B with (a,b) in R .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "more generally",
+              "of a binary relation R between A",
+              "B"
+            ],
+            "label_groups": "more generally , of a binary relation R between A and B"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory"
+        ],
+        "label_groups": "mathematics , set theory"
+      },
+      {
+        "definition": "A ring with no zero divisors ; that is, in which no product of nonzero elements is zero.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "An open and connected set in some topology . For example, the interval (0,1) as a subset of the real numbers .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "topology",
+          "mathematical analysis"
+        ],
+        "label_groups": "mathematics , topology , mathematical analysis"
+      },
+      {
+        "definition": "Any DNS domain name , particularly one which has been delegated and has become representative of the delegated domain name and its subdomains .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "computing , Internet"
+      },
+      {
+        "definition": "A collection of DNS or DNS-like domain names consisting of a delegated domain name and all its subdomains .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "computing , Internet"
+      },
+      {
+        "definition": "A collection of information having to do with a domain, the computers named in the domain, and the network on which the computers named in the domain reside.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The collection of computers identified by a domain's domain names .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A small region of a magnetic material with a consistent magnetization direction.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "Such a region used as a data storage element in a bubble memory .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "A form of technical metadata that represent the type of a data item, its characteristics, name, and usage.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "data processing"
+        ],
+        "label_groups": "data processing"
+      },
+      {
+        "definition": "The highest rank in the classification of organisms , above kingdom ; in the three-domain system, one of the taxa Bacteria , Archaea , or Eukaryota .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "taxonomy"
+        ],
+        "label_groups": "taxonomy"
+      },
+      {
+        "definition": "A folded section of a protein molecule that has a discrete function ; the equivalent section of a chromosome .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      },
+      {
+        "definition": "An area of more or less uniform mineralization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      }
+    ],
+    "main_definition": "A geographic area owned or controlled by a single person or organization .",
+    "secondary_definitions": [
+      "A field or sphere of activity , influence or expertise .",
+      "A group of related items , topics , or subjects .",
+      "( mathematics , set theory ) The set of input ( argument ) values for which a function is defined.",
+      "( mathematics ) A ring with no zero divisors ; that is, in which no product of nonzero elements is zero.",
+      "( mathematics , topology , mathematical analysis ) An open and connected set in some topology . For example, the interval (0,1) as a subset of the real numbers .",
+      "( computing , Internet ) Any DNS domain name , particularly one which has been delegated and has become representative of the delegated domain name and its subdomains .",
+      "( computing , Internet ) A collection of DNS or DNS-like domain names consisting of a delegated domain name and all its subdomains .",
+      "( computing ) A collection of information having to do with a domain, the computers named in the domain, and the network on which the computers named in the domain reside.",
+      "( computing ) The collection of computers identified by a domain's domain names .",
+      "( physics ) A small region of a magnetic material with a consistent magnetization direction.",
+      "( computing ) Such a region used as a data storage element in a bubble memory .",
+      "( data processing ) A form of technical metadata that represent the type of a data item, its characteristics, name, and usage.",
+      "( taxonomy ) The highest rank in the classification of organisms , above kingdom ; in the three-domain system, one of the taxa Bacteria , Archaea , or Eukaryota .",
+      "( biochemistry ) A folded section of a protein molecule that has a discrete function ; the equivalent section of a chromosome .",
+      "( geology ) An area of more or less uniform mineralization ."
+    ]
+  }
+]

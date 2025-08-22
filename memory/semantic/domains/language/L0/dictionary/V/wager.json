@@ -1,0 +1,59 @@
+[
+  {
+    "word": "wager",
+    "lemma": "wager",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈweɪ.d͡ʒə(ɹ)/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "wagers",
+          "PT": "wagered",
+          "PAP": "wagered",
+          "PRP": "wagering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To bet something; to put it up as collateral .",
+        "examples": [
+          "I'd wager my boots on it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To suppose ; to dare say .",
+        "examples": [
+          "I'll wager that Johnson knows something about all this."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively"
+        ],
+        "label_groups": "intransitive , figuratively"
+      }
+    ],
+    "main_definition": "( transitive ) To bet something; to put it up as collateral .",
+    "secondary_definitions": [
+      "( intransitive , figuratively ) To suppose ; to dare say ."
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "word": "unwind",
+    "lemma": "unwind",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʌnˈwaɪnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unwinds",
+          "PT": "unwound",
+          "PAP": "unwound",
+          "PRP": "unwinding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To separate (something that is wound up)",
+        "examples": [
+          "to unwind a ball of yarn",
+          "Could you unwind about a foot of ribbon so I can finish the package?"
+        ],
+        "synonyms": [
+          "untwist",
+          "untwine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To disentangle",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "To relax; to chill out ; to rest and become relieved of stress",
+        "examples": [
+          "After work, I like to unwind by smoking a pipe while reading the paper."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "colloquial"
+        ],
+        "label_groups": "intransitive , colloquial"
+      },
+      {
+        "definition": "To be or become unwound; to be capable of being unwound or untwisted.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To close out a position , especially a complicated position.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      },
+      {
+        "definition": "To undo something.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "finance"
+        ],
+        "label_groups": "transitive , finance"
+      },
+      {
+        "definition": "To navigate back through (a call stack ) so as to generate a stack trace etc.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "programming"
+        ],
+        "label_groups": "transitive , programming"
+      },
+      {
+        "definition": "To unravel or explain .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive ) To separate (something that is wound up)",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To disentangle",
+      "( intransitive , colloquial ) To relax; to chill out ; to rest and become relieved of stress",
+      "( intransitive ) To be or become unwound; to be capable of being unwound or untwisted.",
+      "( transitive , finance ) To close out a position , especially a complicated position.",
+      "( transitive , finance ) To undo something.",
+      "( transitive , programming ) To navigate back through (a call stack ) so as to generate a stack trace etc.",
+      "( transitive , figurative ) To unravel or explain ."
+    ]
+  }
+]

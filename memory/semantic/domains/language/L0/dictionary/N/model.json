@@ -1,0 +1,170 @@
+[
+  {
+    "word": "model",
+    "lemma": "model",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɒdl̩/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "models"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A person who serves as a human template for artwork or fashion .",
+        "examples": [
+          "Leonardo da Vinci chose a 15th century criminal as a model for Judas in his painting The Last Supper. The supersize model displayed the latest summer shorts fashion, tactfully representing similarly overweight teenagers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person, usually an attractive male or female, who is hired to show items or goods to the public, such as items that are given away as prizes on a TV game show .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A representation of a physical object.",
+        "examples": [
+          "The boy played with a model of a World War II fighter plane. The biology teacher passed a large plastic model of the atomic structure of DNA around the classroom."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A simulation used to analyze the workings of a real world system or event.",
+        "examples": [
+          "The computer weather model did not correctly predict the path of the hurricane."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A style , type , or design .",
+        "examples": [
+          "we service all makes and models",
+          "He decided to buy the turbo engine model of the sports car.",
+          "This year's model features four doors instead of two.",
+          "Q: What make and model of car do you drive? A: It's a Buick LaCrosse."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The structural design of a complex system .",
+        "examples": [
+          "The team developed a sound business model ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A successful example to be copied , with or without modifications .",
+        "examples": [
+          "He was a model of eloquence and virtue.",
+          "British parliamentary democracy was seen as a model for other countries to follow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An interpretation function which assigns a truth value to each atomic proposition .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "An interpretation which makes a set of sentences true, in which case that interpretation is called a model of that set.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "An organism or species that is used to study an aspect of physiology or pathophysiology or a particular disease ; often, a nonhuman one used to approximate processes in humans.",
+        "examples": [
+          "They studied fasting and glycemia in a mouse model .",
+          "They studied Mendelian inheritance in a fruit fly model .",
+          "They studied plasmid transfer in a mycobacterial model ."
+        ],
+        "synonyms": [
+          "model organism"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology",
+          "medicine"
+        ],
+        "label_groups": "biology , medicine"
+      },
+      {
+        "definition": "Any copy, or resemblance, more or less exact.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "In software applications using the model-view-controller design pattern , the part or parts of the application that manage the data.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software architecture"
+        ],
+        "label_groups": "software architecture"
+      }
+    ],
+    "main_definition": "A person who serves as a human template for artwork or fashion .",
+    "secondary_definitions": [
+      "A person, usually an attractive male or female, who is hired to show items or goods to the public, such as items that are given away as prizes on a TV game show .",
+      "A representation of a physical object.",
+      "A simulation used to analyze the workings of a real world system or event.",
+      "A style , type , or design .",
+      "The structural design of a complex system .",
+      "A successful example to be copied , with or without modifications .",
+      "( logic ) An interpretation function which assigns a truth value to each atomic proposition .",
+      "( logic ) An interpretation which makes a set of sentences true, in which case that interpretation is called a model of that set.",
+      "( biology , medicine ) An organism or species that is used to study an aspect of physiology or pathophysiology or a particular disease ; often, a nonhuman one used to approximate processes in humans.",
+      "Any copy, or resemblance, more or less exact.",
+      "( software architecture ) In software applications using the model-view-controller design pattern , the part or parts of the application that manage the data."
+    ]
+  }
+]

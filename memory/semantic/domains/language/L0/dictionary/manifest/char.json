@@ -1,0 +1,33 @@
+{
+  "word": "char",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3",
+    "V:2",
+    "N:4",
+    "N:5"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 9,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\char.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\char.json"
+  },
+  "timestamp": "2025-08-18T23:36:27.020761Z"
+}

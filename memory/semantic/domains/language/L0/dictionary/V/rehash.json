@@ -1,0 +1,87 @@
+[
+  {
+    "word": "rehash",
+    "lemma": "rehash",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɹiːˈhæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rehashes",
+          "PT": "rehashed",
+          "PAP": "rehashed",
+          "PRP": "rehashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hash ( chop food into small pieces ) again.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To repeat with minor variation .",
+        "examples": [
+          "Today's parliamentary session only rehashed last week's arguments.",
+          "The CEO of the company only rehashed a speech for the news conference.",
+          "The general rehashed plans for the war."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To analyze a prior contentious or embarrassing event.",
+        "examples": [
+          "Let's not rehash what we did last night."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To recompute the structure of a hash table , taking into account any newly added items.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      }
+    ],
+    "main_definition": "( transitive ) To hash ( chop food into small pieces ) again.",
+    "secondary_definitions": [
+      "( transitive ) To repeat with minor variation .",
+      "( transitive ) To analyze a prior contentious or embarrassing event.",
+      "( transitive , computing ) To recompute the structure of a hash table , taking into account any newly added items."
+    ]
+  }
+]

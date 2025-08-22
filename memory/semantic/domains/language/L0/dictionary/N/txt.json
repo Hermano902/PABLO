@@ -1,0 +1,49 @@
+[
+  {
+    "word": "txt",
+    "lemma": "txt",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "txts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "text , text message",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "text messaging"
+        ],
+        "label_groups": "text messaging"
+      },
+      {
+        "definition": "a .txt file",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( text messaging ) text , text message",
+    "secondary_definitions": [
+      "( computing ) a .txt file"
+    ]
+  }
+]

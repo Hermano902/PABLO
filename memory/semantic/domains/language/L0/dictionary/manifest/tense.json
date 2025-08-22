@@ -1,0 +1,38 @@
+{
+  "word": "tense",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 4,
+      "examples": 4,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "ADJ": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tense.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tense.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\tense.json"
+  },
+  "timestamp": "2025-08-19T18:57:44.671730Z"
+}

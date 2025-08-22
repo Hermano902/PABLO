@@ -1,0 +1,75 @@
+[
+  {
+    "word": "diameter",
+    "lemma": "diameter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈæmɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "diameters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any straight line between two points on the circumference of a circle that passes through the centre / center of the circle; a chord that passes through the center of the circle.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The length of such a line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The maximum distance between any two points in a metric space .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The maximum eccentricity over all vertices in a graph.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "( geometry ) Any straight line between two points on the circumference of a circle that passes through the centre / center of the circle; a chord that passes through the center of the circle.",
+    "secondary_definitions": [
+      "( geometry ) The length of such a line.",
+      "( geometry ) The maximum distance between any two points in a metric space .",
+      "( graph theory ) The maximum eccentricity over all vertices in a graph."
+    ]
+  }
+]

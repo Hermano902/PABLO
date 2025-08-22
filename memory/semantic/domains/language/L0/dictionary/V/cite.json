@@ -1,0 +1,86 @@
+[
+  {
+    "word": "cite",
+    "lemma": "cite",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/saɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "cites",
+          "PT": "cited",
+          "PAP": "cited",
+          "PRP": "citing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To quote ; to repeat , as a passage from a book, or the words of another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To mention ; to make mention of .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To mention by way of explanation .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To list the source (s) from which one took information, words or literary or verbal context .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To summon officially or authoritatively to appear in court .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      }
+    ],
+    "main_definition": "( transitive ) To quote ; to repeat , as a passage from a book, or the words of another.",
+    "secondary_definitions": [
+      "( transitive ) To mention ; to make mention of .",
+      "To list the source (s) from which one took information, words or literary or verbal context .",
+      "( transitive , law ) To summon officially or authoritatively to appear in court ."
+    ]
+  }
+]

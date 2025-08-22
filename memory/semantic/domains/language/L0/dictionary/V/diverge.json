@@ -1,0 +1,118 @@
+[
+  {
+    "word": "diverge",
+    "lemma": "diverge",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/daɪˈvɜːd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "diverges",
+          "PT": "diverged",
+          "PAP": "diverged",
+          "PRP": "diverging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To run apart ; to separate ; to tend into different directions .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "literally",
+          "of lines or paths"
+        ],
+        "label_groups": "intransitive , literally , of lines or paths"
+      },
+      {
+        "definition": "To become different ; to run apart; to separate; to tend into different directions.",
+        "examples": [
+          "Both stories start out the same way, but they diverge halfway through."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively",
+          "of interests",
+          "opinions",
+          "or anything else"
+        ],
+        "label_groups": "intransitive , figuratively , of interests, opinions, or anything else"
+      },
+      {
+        "definition": "To separate, to tend into a different direction (from another line or path).",
+        "examples": [
+          "The sidewalk runs next to the street for a few miles, then diverges from it and turns north."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "literally",
+          "of a line or path"
+        ],
+        "label_groups": "intransitive , literally , of a line or path"
+      },
+      {
+        "definition": "To become different , to separate (from another line or path).",
+        "examples": [
+          "The software is pretty good, except for a few cases where its behavior diverges from user expectations."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figuratively",
+          "of an interest",
+          "opinion",
+          "or anything else"
+        ],
+        "label_groups": "intransitive , figuratively , of an interest, opinion, or anything else"
+      },
+      {
+        "definition": "Not to converge : to have no limit , or no finite limit.",
+        "examples": [
+          "The sequence x n = n 2 {\\displaystyle x_{n}=n^{2}} diverges to infinity: that is, it increases without bound.",
+          "The sequence a n = ( − 1 ) n {\\displaystyle a_{n}=(-1)^{n}} diverges ; it keeps oscillating between − 1 {\\displaystyle -1} and 1 {\\displaystyle 1} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "mathematics",
+          "of a sequence",
+          "series",
+          "or function"
+        ],
+        "label_groups": "intransitive , mathematics , of a sequence, series, or function"
+      }
+    ],
+    "main_definition": "( intransitive , literally , of lines or paths ) To run apart ; to separate ; to tend into different directions .",
+    "secondary_definitions": [
+      "( intransitive , figuratively , of interests, opinions, or anything else ) To become different ; to run apart; to separate; to tend into different directions.",
+      "( intransitive , literally , of a line or path ) To separate, to tend into a different direction (from another line or path).",
+      "( intransitive , figuratively , of an interest, opinion, or anything else ) To become different , to separate (from another line or path).",
+      "( intransitive , mathematics , of a sequence, series, or function ) Not to converge : to have no limit , or no finite limit."
+    ]
+  }
+]

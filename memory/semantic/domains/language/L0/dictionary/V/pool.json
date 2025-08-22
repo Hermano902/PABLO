@@ -1,0 +1,90 @@
+[
+  {
+    "word": "pool",
+    "lemma": "pool",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/puːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pools",
+          "PT": "pooled",
+          "PAP": "pooled",
+          "PRP": "pooling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( intransitive , of a liquid ) To form a pool.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( intransitive , of a liquid ) To form a pool.",
+    "secondary_definitions": []
+  },
+  {
+    "word": "pool",
+    "lemma": "pool",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/puːl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "pools",
+          "PT": "pooled",
+          "PAP": "pooled",
+          "PRP": "pooling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put together; contribute to a common fund, on the basis of a mutual division of profits or losses; to make a common interest of.",
+        "examples": [
+          "We must pool our resources."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To combine or contribute with others, as for a commercial, speculative , or gambling transaction.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To put together; contribute to a common fund, on the basis of a mutual division of profits or losses; to make a common interest of.",
+    "secondary_definitions": [
+      "( intransitive ) To combine or contribute with others, as for a commercial, speculative , or gambling transaction."
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "construct",
+    "lemma": "construct",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.stɹʌkt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "constructs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something constructed from parts.",
+        "examples": [
+          "The artwork was a construct of wire and tubes.",
+          "Loops and conditional statements are constructs in computer programming."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A concept or model .",
+        "examples": [
+          "Bohr's theoretical construct of the atom was soon superseded by quantum mechanics."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A segment of nucleic acid, created artificially, for transplantation into a target cell or tissue.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      }
+    ],
+    "main_definition": "Something constructed from parts.",
+    "secondary_definitions": [
+      "A concept or model .",
+      "( genetics ) A segment of nucleic acid, created artificially, for transplantation into a target cell or tissue."
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "deferred",
+    "lemma": "deferred",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈfɜːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more deferred",
+          "SUP": "most deferred"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Delayed ; put off till later.",
+        "examples": [
+          "requested a deferred payment"
+        ],
+        "synonyms": [
+          "delayed",
+          "postponed"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Yielded to someone else's decision or judgment.",
+        "examples": [
+          "The decision was deferred to the regional manager"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Whose value is not realized until a future date: e.g. annuities , charges , taxes , and income , either as an asset or liability .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "accounting"
+        ],
+        "label_groups": "accounting"
+      }
+    ],
+    "main_definition": "Delayed ; put off till later.",
+    "secondary_definitions": [
+      "Yielded to someone else's decision or judgment.",
+      "( accounting ) Whose value is not realized until a future date: e.g. annuities , charges , taxes , and income , either as an asset or liability ."
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "word": "injective",
+    "lemma": "injective",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈd͡ʒɛktɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Of, relating to, or being an injection : such that each element of the image (or range ) is associated with at most one element of the preimage (or domain ); inverse-deterministic",
+        "examples": [],
+        "synonyms": [
+          "one-to-one"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "module M {\\displaystyle M} over a ring R {\\displaystyle R} ) Loosely, having a certain generalizing property, abstracted from the study of Q {\\displaystyle \\mathbb {Q} } as a Z {\\displaystyle \\mathbb {Z} } -module. Formally, such that any short exact sequence of (left) R {\\displaystyle R} -modules beginning with M {\\displaystyle M} splits , or any of several equivalent statements: See Injective module .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "module theory",
+          "of a (left"
+        ],
+        "label_groups": "algebra , module theory , of a (left"
+      },
+      {
+        "definition": "Loosely, having a property analogous to that which characterizes injective modules (see above). Formally, such that, given a monomorphism f : X → Y {\\displaystyle f:X\\to Y} in C {\\displaystyle C} , for every morphism g : X → Q {\\displaystyle g:X\\to Q} there exists a morphism h : Y → Q {\\displaystyle h:Y\\to Q} such that h ∘ f = g {\\displaystyle h\\circ f=g} ; see Injective object .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory",
+          "most generally",
+          "of an object Q {\\displaystyle Q} in a category C {\\displaystyle C}"
+        ],
+        "label_groups": "category theory , most generally , of an object Q {\\displaystyle Q} in a category C {\\displaystyle C}"
+      },
+      {
+        "definition": "Such that the objects (usually modules) involved in the resolution are injective (in the algebraic senses above).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "homological algebra",
+          "of a resolution"
+        ],
+        "label_groups": "homological algebra , of a resolution"
+      }
+    ],
+    "main_definition": "( mathematics ) Of, relating to, or being an injection : such that each element of the image (or range ) is associated with at most one element of the preimage (or domain ); inverse-deterministic",
+    "secondary_definitions": [
+      "( algebra , module theory , of a (left) module M {\\displaystyle M} over a ring R {\\displaystyle R} ) Loosely, having a certain generalizing property, abstracted from the study of Q {\\displaystyle \\mathbb {Q} } as a Z {\\displaystyle \\mathbb {Z} } -module. Formally, such that any short exact sequence of (left) R {\\displaystyle R} -modules beginning with M {\\displaystyle M} splits , or any of several equivalent statements: See Injective module .",
+      "( category theory , most generally , of an object Q {\\displaystyle Q} in a category C {\\displaystyle C} ) Loosely, having a property analogous to that which characterizes injective modules (see above). Formally, such that, given a monomorphism f : X → Y {\\displaystyle f:X\\to Y} in C {\\displaystyle C} , for every morphism g : X → Q {\\displaystyle g:X\\to Q} there exists a morphism h : Y → Q {\\displaystyle h:Y\\to Q} such that h ∘ f = g {\\displaystyle h\\circ f=g} ; see Injective object .",
+      "( homological algebra , of a resolution ) Such that the objects (usually modules) involved in the resolution are injective (in the algebraic senses above)."
+    ]
+  }
+]

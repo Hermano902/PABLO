@@ -1,0 +1,31 @@
+{
+  "word": "pit",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 27,
+      "examples": 7,
+      "synonyms": 9,
+      "antonyms": 1,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pit.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pit.json"
+  },
+  "timestamp": "2025-08-19T11:55:47.467014Z"
+}

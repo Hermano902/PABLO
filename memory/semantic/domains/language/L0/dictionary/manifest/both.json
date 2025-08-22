@@ -1,0 +1,37 @@
+{
+  "word": "both",
+  "pos_order": [
+    "DET",
+    "PRON",
+    "CONJ"
+  ],
+  "pos": {
+    "DET": {
+      "definitions": 1,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "PRON": {
+      "definitions": 1,
+      "examples": 3,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "CONJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 0
+    }
+  },
+  "files": {
+    "DET": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\DET\\both.json",
+    "PRON": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\PRON\\both.json",
+    "CONJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\CONJ\\both.json"
+  },
+  "timestamp": "2025-08-18T22:32:13.629347Z"
+}

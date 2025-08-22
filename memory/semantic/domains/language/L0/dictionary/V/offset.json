@@ -1,0 +1,70 @@
+[
+  {
+    "word": "offset",
+    "lemma": "offset",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɒf.sɛt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "offsets",
+          "PT": "offset",
+          "PAP": "offset",
+          "PRP": "offsetting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To counteract or compensate for, by applying a change in the opposite direction.",
+        "examples": [
+          "I'll offset the time difference locally.",
+          "to offset one charge against another"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To place out of line .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To form an offset in (a wall, rod, pipe, etc.).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To counteract or compensate for, by applying a change in the opposite direction.",
+    "secondary_definitions": [
+      "( transitive ) To place out of line .",
+      "( transitive ) To form an offset in (a wall, rod, pipe, etc.)."
+    ]
+  }
+]

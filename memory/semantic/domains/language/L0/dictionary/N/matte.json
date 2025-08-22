@@ -1,0 +1,80 @@
+[
+  {
+    "word": "matte",
+    "lemma": "matte",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mæt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mattes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A decorative border around a picture used to inset and center the contents of a frame.",
+        "examples": [
+          "The image is a perfect square of 8 cm (with white matte border the total dimensions are 14 cm tall by 11 cm wide)."
+        ],
+        "synonyms": [
+          "mat",
+          "matting",
+          "passe-partout"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "art",
+          "photography"
+        ],
+        "label_groups": "art , photography"
+      },
+      {
+        "definition": "A background , often painted or created with computers",
+        "examples": [
+          "Matte painting is a tool that filmmakers can use to create a scene that is impossible to achieve with conventional cinematographic means."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "film"
+        ],
+        "label_groups": "film"
+      },
+      {
+        "definition": "The molten metal sulfide phases typically formed during smelting of copper , nickel , and other base metals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pyrometallurgy"
+        ],
+        "label_groups": "pyrometallurgy"
+      },
+      {
+        "definition": "An instrument for producing a dull, lustreless surface.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( art , photography ) A decorative border around a picture used to inset and center the contents of a frame.",
+    "secondary_definitions": [
+      "( film ) A background , often painted or created with computers",
+      "( pyrometallurgy ) The molten metal sulfide phases typically formed during smelting of copper , nickel , and other base metals.",
+      "An instrument for producing a dull, lustreless surface."
+    ]
+  }
+]

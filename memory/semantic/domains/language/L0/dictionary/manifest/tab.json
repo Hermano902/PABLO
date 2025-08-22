@@ -1,0 +1,36 @@
+{
+  "word": "tab",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "N:3",
+    "N:4",
+    "N:5",
+    "N:6",
+    "N:7",
+    "N:8"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 4,
+      "synonyms": 2,
+      "antonyms": 1,
+      "inflections": 8
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\tab.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\tab.json"
+  },
+  "timestamp": "2025-08-19T18:40:52.337355Z"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "word": "stereotype",
+    "lemma": "stereotype",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈstɛ.ɹi.əˌtaɪp/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "stereotypes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A conventional , formulaic , and often oversimplified or exaggerated conception , opinion , or image of (a person or a group of people).",
+        "examples": [
+          "Not all Zumbetonians wear plimsolls.  That's just a stereotype ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who is regarded as embodying or conforming to a set image or type .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      },
+      {
+        "definition": "A metal printing plate cast from a matrix moulded from a raised printing surface .",
+        "examples": [],
+        "synonyms": [
+          "cliché"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "printing"
+        ],
+        "label_groups": "printing"
+      },
+      {
+        "definition": "An extensibility mechanism of the Unified Modeling Language , allowing a new element to be derived from an existing one with added specializations .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "A conventional , formulaic , and often oversimplified or exaggerated conception , opinion , or image of (a person or a group of people).",
+    "secondary_definitions": [
+      "( psychology ) A person who is regarded as embodying or conforming to a set image or type .",
+      "( printing ) A metal printing plate cast from a matrix moulded from a raised printing surface .",
+      "( software engineering ) An extensibility mechanism of the Unified Modeling Language , allowing a new element to be derived from an existing one with added specializations ."
+    ]
+  }
+]

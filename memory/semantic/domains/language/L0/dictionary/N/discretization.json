@@ -1,0 +1,40 @@
+[
+  {
+    "word": "discretization",
+    "lemma": "discretization",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˌskɹiːtəˈzeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "discretizations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of discretizing , or dividing a continuous object or spectrum into a finite number of discrete elements",
+        "examples": [
+          "Analyses all required a planar mathematical discretization of a region containing a prescribed number of cells with prescribed orientations.",
+          "BLAZE Multiphysics has many features from: discretation , temporal resolution, user modification and post processing."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "computing",
+          "cognitive science"
+        ],
+        "label_groups": "mathematics , computing , cognitive science"
+      }
+    ],
+    "main_definition": "( mathematics , computing , cognitive science ) The act of discretizing , or dividing a continuous object or spectrum into a finite number of discrete elements",
+    "secondary_definitions": []
+  }
+]

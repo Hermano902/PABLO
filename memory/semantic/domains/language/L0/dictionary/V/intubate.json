@@ -1,0 +1,43 @@
+[
+  {
+    "word": "intubate",
+    "lemma": "intubate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪntʃʊbeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "intubates",
+          "PT": "intubated",
+          "PAP": "intubated",
+          "PRP": "intubating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To insert a tube into.",
+        "examples": [
+          "The doctor is about to intubate the patient's trachea."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      }
+    ],
+    "main_definition": "( transitive , medicine ) To insert a tube into.",
+    "secondary_definitions": []
+  }
+]

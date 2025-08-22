@@ -1,0 +1,58 @@
+[
+  {
+    "word": "sentinel",
+    "lemma": "sentinel",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɛntɪnəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "sentinels",
+          "PT": "sentineled",
+          "PAP": "sentineled",
+          "PRP": "sentineling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To watch over as a guard.",
+        "examples": [
+          "He sentineled the north wall."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To post a guard for.",
+        "examples": [
+          "He sentineled the north wall with just one man."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To watch over as a guard.",
+    "secondary_definitions": [
+      "( transitive ) To post a guard for."
+    ]
+  }
+]

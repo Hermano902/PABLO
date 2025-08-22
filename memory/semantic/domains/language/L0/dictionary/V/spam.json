@@ -1,0 +1,93 @@
+[
+  {
+    "word": "spam",
+    "lemma": "spam",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈspæm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "spams",
+          "PT": "spammed",
+          "PAP": "spammed",
+          "PRP": "spamming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send spam (i.e. unsolicited electronic messages.)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "intransitive , computing , Internet"
+      },
+      {
+        "definition": "To send spam (i.e. unsolicited electronic messages) to a person or entity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "transitive , computing , Internet"
+      },
+      {
+        "definition": "To send messages repeatedly, often with disruptive effect; to flood .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "intransitive",
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "transitive , intransitive , computing , Internet"
+      },
+      {
+        "definition": "To do something rapidly and repeatedly.",
+        "examples": [
+          "Stop spamming that special attack!",
+          "Spam the Z key to get a speed boost."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "by extension",
+          "computing",
+          "video games"
+        ],
+        "label_groups": "transitive , by extension , computing , video games"
+      }
+    ],
+    "main_definition": "( intransitive , computing , Internet ) To send spam (i.e. unsolicited electronic messages.)",
+    "secondary_definitions": [
+      "( transitive , computing , Internet ) To send spam (i.e. unsolicited electronic messages) to a person or entity.",
+      "( transitive , intransitive , computing , Internet ) To send messages repeatedly, often with disruptive effect; to flood .",
+      "( transitive , by extension , computing , video games ) To do something rapidly and repeatedly."
+    ]
+  }
+]

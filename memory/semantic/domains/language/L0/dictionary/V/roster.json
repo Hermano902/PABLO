@@ -1,0 +1,57 @@
+[
+  {
+    "word": "roster",
+    "lemma": "roster",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹɒs.tə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "rosters",
+          "PT": "rostered",
+          "PAP": "rostered",
+          "PRP": "rostering",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To place the name of (a person) on a roster.",
+        "examples": [
+          "I have rostered you for cleaning duties on the first Monday of each month."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To show the elements of a set by listing them inside brackets.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      }
+    ],
+    "main_definition": "( transitive ) To place the name of (a person) on a roster.",
+    "secondary_definitions": [
+      "( transitive , mathematics ) To show the elements of a set by listing them inside brackets."
+    ]
+  }
+]

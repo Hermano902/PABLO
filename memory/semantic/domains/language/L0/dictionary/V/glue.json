@@ -1,0 +1,76 @@
+[
+  {
+    "word": "glue",
+    "lemma": "glue",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɡluː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "glues",
+          "PT": "glued",
+          "PAP": "glued",
+          "PRP": "gluing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To join or attach something using glue .",
+        "examples": [
+          "I need to glue the chair-leg back into place."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To cause something to adhere closely to; to cause to follow attentively .",
+        "examples": [
+          "His eyes were glued to the screen."
+        ],
+        "synonyms": [
+          "adhere",
+          "cling",
+          "stick"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To apply glue .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To join or attach something using glue .",
+    "secondary_definitions": [
+      "( transitive , figuratively ) To cause something to adhere closely to; to cause to follow attentively .",
+      "( intransitive ) To apply glue ."
+    ]
+  }
+]

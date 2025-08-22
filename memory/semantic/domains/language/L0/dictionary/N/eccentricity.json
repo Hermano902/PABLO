@@ -1,0 +1,73 @@
+[
+  {
+    "word": "eccentricity",
+    "lemma": "eccentricity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌɛk.sɛnˈtɹɪs.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "eccentricities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The quality of being eccentric or odd ; any eccentric behaviour .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The ratio , constant for any particular conic section , of the distance of a point from the focus to its distance from the directrix .",
+        "examples": [
+          "For an ellipse, the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi-major axis."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The eccentricity of the conic section (usually an ellipse) defined by the orbit of a given object around a reference object (such as that of a planet around the sun).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "astronomy"
+        ],
+        "label_groups": "astronomy"
+      },
+      {
+        "definition": "The farthest distance from a vertex to any other vertex.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "graph theory"
+        ],
+        "label_groups": "graph theory"
+      }
+    ],
+    "main_definition": "The quality of being eccentric or odd ; any eccentric behaviour .",
+    "secondary_definitions": [
+      "( geometry ) The ratio , constant for any particular conic section , of the distance of a point from the focus to its distance from the directrix .",
+      "( astronomy ) The eccentricity of the conic section (usually an ellipse) defined by the orbit of a given object around a reference object (such as that of a planet around the sun).",
+      "( graph theory ) The farthest distance from a vertex to any other vertex."
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "phonemic",
+    "lemma": "phonemic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/fəˈniː.mɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Relating to phonemes .",
+        "examples": [
+          "We've finished our phonemic analysis and we're ready to move on to morphology."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "Relating to a difference between sounds that can change the meaning of words in a language.",
+        "examples": [
+          "Tone is phonemic in Chinese."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      },
+      {
+        "definition": "Corresponding precisely and consistently with the sounds of the phonemes.",
+        "examples": [
+          "Spanish orthography is highly phonemic : you can tell exactly how the words sound just by looking at how they are spelled."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "of an orthography [writing system]"
+        ],
+        "label_groups": "linguistics , of an orthography [writing system]"
+      }
+    ],
+    "main_definition": "( linguistics ) Relating to phonemes .",
+    "secondary_definitions": [
+      "( linguistics ) Relating to a difference between sounds that can change the meaning of words in a language.",
+      "( linguistics , of an orthography [writing system] ) Corresponding precisely and consistently with the sounds of the phonemes."
+    ]
+  }
+]

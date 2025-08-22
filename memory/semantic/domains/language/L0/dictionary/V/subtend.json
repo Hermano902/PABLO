@@ -1,0 +1,91 @@
+[
+  {
+    "word": "subtend",
+    "lemma": "subtend",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/sʌbˈtɛnd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "subtends",
+          "PT": "subtended",
+          "PAP": "subtended",
+          "PRP": "subtending",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To use an angle to delimit ( mark off , enclose ) part of a straight or curved line, for example an arc or the opposite side of a triangle.",
+        "examples": [
+          "A 43° angle subtends an arc of about 0.75 meters on a circle with a radius of 1 meter."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To extend or stretch opposite something; to be part of a straight or curved line that is opposite to and delimits an angle.",
+        "examples": [
+          "A hypotenuse subtends the right angle of a right triangle.",
+          "An arc measuring about 0.75 meters on a circle with a radius of 1 meter subtends an angle of about 43°."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "also mathematics"
+        ],
+        "label_groups": "transitive , also mathematics"
+      },
+      {
+        "definition": "To form the central angle of a circle underneath an arc .",
+        "examples": [
+          "The points A and B on the circumference form the arc AB, which subtends the central angle θ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "mathematics"
+        ],
+        "label_groups": "transitive , mathematics"
+      },
+      {
+        "definition": "To stand beneath or close to, as a bract at the base of a flower .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany",
+          "transitive"
+        ],
+        "label_groups": "botany , transitive"
+      }
+    ],
+    "main_definition": "( transitive , mathematics ) To use an angle to delimit ( mark off , enclose ) part of a straight or curved line, for example an arc or the opposite side of a triangle.",
+    "secondary_definitions": [
+      "( transitive , also mathematics ) To extend or stretch opposite something; to be part of a straight or curved line that is opposite to and delimits an angle.",
+      "( transitive , mathematics ) To form the central angle of a circle underneath an arc .",
+      "( botany , transitive ) To stand beneath or close to, as a bract at the base of a flower ."
+    ]
+  }
+]

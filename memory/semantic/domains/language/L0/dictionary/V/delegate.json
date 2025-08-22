@@ -1,0 +1,73 @@
+[
+  {
+    "word": "delegate",
+    "lemma": "delegate",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈdɛlɪɡət/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "delegates",
+          "PT": "delegated",
+          "PAP": "delegated",
+          "PRP": "delegating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To commit tasks and responsibilities to others, especially subordinates .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To commit (a task or responsibility) to someone, especially a subordinate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give away authority over a subdomain ; to allow someone else to create sub-subdomains of a subdomain of one's own.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet",
+          "transitive",
+          "of a subdomain"
+        ],
+        "label_groups": [
+          "computing , Internet , transitive",
+          "of a subdomain"
+        ]
+      }
+    ],
+    "main_definition": "( intransitive ) To commit tasks and responsibilities to others, especially subordinates .",
+    "secondary_definitions": [
+      "( transitive ) To commit (a task or responsibility) to someone, especially a subordinate.",
+      "( computing , Internet , transitive ) ( of a subdomain ) To give away authority over a subdomain ; to allow someone else to create sub-subdomains of a subdomain of one's own."
+    ]
+  }
+]

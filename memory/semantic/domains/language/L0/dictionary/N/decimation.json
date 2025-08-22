@@ -1,0 +1,87 @@
+[
+  {
+    "word": "decimation",
+    "lemma": "decimation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌdɛsɪˈmeɪʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "decimations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The killing or punishment of every tenth person , usually by lot .",
+        "examples": [],
+        "synonyms": [
+          "tithing"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Ancient Rome",
+          "strictly"
+        ],
+        "label_groups": "Ancient Rome , strictly"
+      },
+      {
+        "definition": "The killing or destruction of any large portion of a population .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "generally"
+        ],
+        "label_groups": "generally"
+      },
+      {
+        "definition": "A tithe or the act of tithing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The creation of a new sequence comprising only every n th element of a source sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A digital signal - processing technique for reducing the number of samples in a discrete - time signal ; downsampling",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "signal processing"
+            ],
+            "label_groups": "signal processing"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "( Ancient Rome , strictly ) The killing or punishment of every tenth person , usually by lot .",
+    "secondary_definitions": [
+      "( generally ) The killing or destruction of any large portion of a population .",
+      "A tithe or the act of tithing .",
+      "( mathematics ) The creation of a new sequence comprising only every n th element of a source sequence ."
+    ]
+  }
+]

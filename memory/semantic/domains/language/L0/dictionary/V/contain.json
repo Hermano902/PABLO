@@ -1,0 +1,105 @@
+[
+  {
+    "word": "contain",
+    "lemma": "contain",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈteɪn/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "contains",
+          "PT": "contained",
+          "PAP": "contained",
+          "PRP": "containing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To hold inside .",
+        "examples": [
+          "The brown box contains three stacks of books."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To include as a part .",
+        "examples": [
+          "Most of the meals they offer contain meat."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To put constraints upon; to restrain ; to confine ; to keep within bounds .",
+        "examples": [
+          "I'm so excited, I can hardly contain myself!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To have as an element or subset .",
+        "examples": [
+          "A group contains a unique inverse for each of its elements.",
+          "If that subgraph contains the vertex in question then it must be spanning."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a set etc.",
+          "transitive"
+        ],
+        "label_groups": "mathematics , of a set etc. , transitive"
+      },
+      {
+        "definition": "To restrain desire ; to live in continence or chastity .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "intransitive"
+        ],
+        "label_groups": "obsolete , intransitive"
+      }
+    ],
+    "main_definition": "( transitive ) To hold inside .",
+    "secondary_definitions": [
+      "( transitive ) To include as a part .",
+      "( transitive ) To put constraints upon; to restrain ; to confine ; to keep within bounds .",
+      "( mathematics , of a set etc. , transitive ) To have as an element or subset .",
+      "( obsolete , intransitive ) To restrain desire ; to live in continence or chastity ."
+    ]
+  }
+]

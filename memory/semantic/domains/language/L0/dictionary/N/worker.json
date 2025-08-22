@@ -1,0 +1,69 @@
+[
+  {
+    "word": "worker",
+    "lemma": "worker",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɜː.kə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "workers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who works : a person who performs labor for a living ; traditionally, especially, manual labor.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A nonreproductive social insect , such as ant , bee , termite , or wasp .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A female ant, bee, termite or wasp.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "rare"
+            ],
+            "label_groups": "rare"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A thread performing one instance of a particular task within a program .",
+        "examples": [
+          "This FTP client spawns a separate worker for each file to be uploaded."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "One who works : a person who performs labor for a living ; traditionally, especially, manual labor.",
+    "secondary_definitions": [
+      "A nonreproductive social insect , such as ant , bee , termite , or wasp .",
+      "( computing ) A thread performing one instance of a particular task within a program ."
+    ]
+  }
+]

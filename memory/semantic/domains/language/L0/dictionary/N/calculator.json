@@ -1,0 +1,80 @@
+[
+  {
+    "word": "calculator",
+    "lemma": "calculator",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkæl.kjə.leɪ.tə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "calculators"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A mechanical or electronic device that performs mathematical calculations ; sometimes, an electronic one specifically.",
+        "examples": [
+          "electronic calculator ;   pocket calculator",
+          "The calculator on a bookkeeper's desk in the 1950s was an adding machine with mechanical guts.",
+          "I told him to hand me a calculator and he jokingly placed an adding machine at my side."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A person who performs mathematical calculation .",
+        "examples": [
+          "During the war, his grandmother had worked at the Bletchley Park decoding station as a calculator ."
+        ],
+        "synonyms": [
+          "computer",
+          "reckoner"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      },
+      {
+        "definition": "A person who calculates (in the sense of scheming).",
+        "examples": [
+          "He revealed himself to be a cold-blooded calculator out to sabotage his colleagues."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A set of mathematical tables .",
+        "examples": [],
+        "synonyms": [
+          "ready reckoner"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "A mechanical or electronic device that performs mathematical calculations ; sometimes, an electronic one specifically.",
+    "secondary_definitions": [
+      "( dated ) A person who performs mathematical calculation .",
+      "A person who calculates (in the sense of scheming).",
+      "( obsolete ) A set of mathematical tables ."
+    ]
+  }
+]

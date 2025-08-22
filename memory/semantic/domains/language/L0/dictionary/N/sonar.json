@@ -1,0 +1,72 @@
+[
+  {
+    "word": "sonar",
+    "lemma": "sonar",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsoʊ.nɑːɹ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sonars"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Artificial echolocation by use of electronic equipment, with hydrophones to locate objects underwater , using the same wave -analysis principles that radar uses.",
+        "examples": [
+          "They were able to detect the sunken wreck using sonar ."
+        ],
+        "synonyms": [
+          "ASDIC"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "usually uncountable"
+        ],
+        "label_groups": "nautical , usually uncountable"
+      },
+      {
+        "definition": "A device that provides such echolocation.",
+        "examples": [
+          "They finally bought a new sonar to replace the 40-year-old unit that sometimes didn't work right."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "nautical",
+          "countable"
+        ],
+        "label_groups": "nautical , countable"
+      },
+      {
+        "definition": "Any echolocation .",
+        "examples": [
+          "Submarines and bats both use sonar to navigate."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      }
+    ],
+    "main_definition": "( nautical , usually uncountable ) Artificial echolocation by use of electronic equipment, with hydrophones to locate objects underwater , using the same wave -analysis principles that radar uses.",
+    "secondary_definitions": [
+      "( nautical , countable ) A device that provides such echolocation.",
+      "( loosely ) Any echolocation ."
+    ]
+  }
+]

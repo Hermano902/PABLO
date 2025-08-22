@@ -1,0 +1,115 @@
+[
+  {
+    "word": "index",
+    "lemma": "index",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪndɛks/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "indexes",
+          "PT": "indexed",
+          "PAP": "indexed",
+          "PRP": "indexing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To arrange an index for something, especially a long text .",
+        "examples": [
+          "MySQL does not index short words and common words."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To inventory ; to take stock .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To normalise in order to account for inflation ; to correct for inflation by linking to a price index in order to maintain real levels.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly economics"
+        ],
+        "label_groups": "chiefly economics"
+      },
+      {
+        "definition": "To measure by an associated value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To be indexical for (some situation or state of affairs); to indicate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "transitive"
+        ],
+        "label_groups": "linguistics , transitive"
+      },
+      {
+        "definition": "To access a value in a data container by an index .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To use a mechanism to move an object to a precise location .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanical engineering",
+          "transitive"
+        ],
+        "label_groups": "mechanical engineering , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To arrange an index for something, especially a long text .",
+    "secondary_definitions": [
+      "To inventory ; to take stock .",
+      "( chiefly economics ) To normalise in order to account for inflation ; to correct for inflation by linking to a price index in order to maintain real levels.",
+      "To measure by an associated value .",
+      "( linguistics , transitive ) To be indexical for (some situation or state of affairs); to indicate .",
+      "( computing ) To access a value in a data container by an index .",
+      "( mechanical engineering , transitive ) To use a mechanism to move an object to a precise location ."
+    ]
+  }
+]

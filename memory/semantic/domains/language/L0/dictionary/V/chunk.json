@@ -1,0 +1,89 @@
+[
+  {
+    "word": "chunk",
+    "lemma": "chunk",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/t͡ʃʌŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "chunks",
+          "PT": "chunked",
+          "PAP": "chunked",
+          "PRP": "chunking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To break into large pieces or chunks.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To break down (language, etc.) into conceptual pieces of manageable size.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To throw .",
+        "examples": [],
+        "synonyms": [
+          "chuck",
+          "fling",
+          "hurl"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang",
+          "chiefly Southern US"
+        ],
+        "label_groups": "transitive , slang , chiefly Southern US"
+      },
+      {
+        "definition": "Deal a substantial amount of damage to an opponent .",
+        "examples": [
+          "He's chunked right before the next battle so he has to regen HP."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "video games"
+        ],
+        "label_groups": "transitive , video games"
+      }
+    ],
+    "main_definition": "( transitive ) To break into large pieces or chunks.",
+    "secondary_definitions": [
+      "( transitive ) To break down (language, etc.) into conceptual pieces of manageable size.",
+      "( transitive , slang , chiefly Southern US ) To throw .",
+      "( transitive , video games ) Deal a substantial amount of damage to an opponent ."
+    ]
+  }
+]

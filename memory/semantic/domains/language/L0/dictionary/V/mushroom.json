@@ -1,0 +1,86 @@
+[
+  {
+    "word": "mushroom",
+    "lemma": "mushroom",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmʌʃˌɹuːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mushrooms",
+          "PT": "mushroomed",
+          "PAP": "mushroomed",
+          "PRP": "mushrooming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To grow quickly to a large size or rapidly increase in scope or scale.",
+        "examples": [
+          "The town’s population mushroomed from 10,000 to 110,000 in five years."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "figurative"
+        ],
+        "label_groups": "intransitive , figurative"
+      },
+      {
+        "definition": "To gather mushrooms .",
+        "examples": [
+          "We used to go mushrooming in the forest every weekend."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To form the shape of a mushroom .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To form the shape of a mushroom when striking a soft target .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "ballistics",
+              "of a bullet"
+            ],
+            "label_groups": "ballistics , of a bullet"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      }
+    ],
+    "main_definition": "( intransitive , figurative ) To grow quickly to a large size or rapidly increase in scope or scale.",
+    "secondary_definitions": [
+      "( intransitive ) To gather mushrooms .",
+      "( intransitive ) To form the shape of a mushroom ."
+    ]
+  }
+]

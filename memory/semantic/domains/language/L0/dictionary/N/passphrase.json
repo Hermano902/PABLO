@@ -1,0 +1,35 @@
+[
+  {
+    "word": "passphrase",
+    "lemma": "passphrase",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "passphrases"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A password that comprises a whole phrase .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A password that comprises a whole phrase .",
+    "secondary_definitions": []
+  }
+]

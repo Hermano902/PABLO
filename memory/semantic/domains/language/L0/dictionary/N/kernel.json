@@ -1,0 +1,291 @@
+[
+  {
+    "word": "kernel",
+    "lemma": "kernel",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɜːnəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "kernels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The core , center , or essence of an object or system.",
+        "examples": [
+          "the kernel of an argument"
+        ],
+        "synonyms": [
+          "crux",
+          "gist"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The central (usually edible) part of a nut , especially once the hard shell has been removed.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "A single seed or grain , especially of corn or wheat .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany"
+        ],
+        "label_groups": "botany"
+      },
+      {
+        "definition": "The stone of certain fruits, such as peaches or plums .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "botany",
+          "US"
+        ],
+        "label_groups": "botany , US"
+      },
+      {
+        "definition": "A small mass around which other matter is concreted; a nucleus ; a concretion or hard lump in the flesh.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The central part of many computer operating systems which manages the system's resources and the communication between hardware and software components.",
+        "examples": [
+          "The Linux kernel is open-source."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "userland"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The core engine of any complex software system.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The simplified input to an algorithm that has undergone kernelization .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A function used to define an integral transform .",
+        "examples": [
+          "The Dirichlet kernel convolved with a function yields its Fourier series approximation."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "calculus"
+        ],
+        "label_groups": "calculus"
+      },
+      {
+        "definition": "The set of pairs of elements in the domain of f {\\displaystyle f} which are mapped to the same value ; the equivalence relation x ≡ y ⟺ f ( x ) = f ( y ) {\\displaystyle x\\equiv y\\iff f(x)=f(y)} .",
+        "examples": [
+          "If a function is continuous then its kernel is a closed set ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "set theory",
+          "of a function f {\\displaystyle f}"
+        ],
+        "label_groups": "mathematics , set theory , of a function f {\\displaystyle f}"
+      },
+      {
+        "definition": "The set of elements of the domain of f {\\displaystyle f} which are mapped to an identity element .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "support"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "The set of elements of G {\\displaystyle G} which are mapped to the identity of H {\\displaystyle H} (usually written as 0 in an additive group and as 1 in a multiplicative group ).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "group theory",
+              "of a group homomorphism f : G → H {\\displaystyle f\\colon G\\to H} between groups"
+            ],
+            "label_groups": "mathematics , group theory , of a group homomorphism f : G → H {\\displaystyle f\\colon G\\to H} between groups"
+          },
+          {
+            "definition": "The set of elements of R {\\displaystyle R} which are mapped to the additive identity 0 of S {\\displaystyle S} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "ring theory",
+              "of a ring homomorphism f : R → S {\\displaystyle f\\colon R\\to S} between rings"
+            ],
+            "label_groups": "mathematics , ring theory , of a ring homomorphism f : R → S {\\displaystyle f\\colon R\\to S} between rings"
+          },
+          {
+            "definition": "The set of elements of M {\\displaystyle M} which are mapped to the additive identity 0 of N {\\displaystyle N} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "linear algebra",
+              "of a linear transformation f : M → N {\\displaystyle f\\colon M\\to N} between modules or vector spaces"
+            ],
+            "label_groups": "mathematics , linear algebra , of a linear transformation f : M → N {\\displaystyle f\\colon M\\to N} between modules or vector spaces"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "algebra",
+          "loosely",
+          "of a morphism f {\\displaystyle f} between algebraic structures"
+        ],
+        "label_groups": "mathematics , algebra , loosely , of a morphism f {\\displaystyle f} between algebraic structures"
+      },
+      {
+        "definition": "The equalizer of f {\\displaystyle f} and the zero morphism from X {\\displaystyle X} to Y {\\displaystyle Y} , denoted ker ⁡ f {\\displaystyle \\operatorname {ker} f} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The source of ker ⁡ f {\\displaystyle \\operatorname {ker} f} , denoted Ker ⁡ f {\\displaystyle \\operatorname {Ker} f} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "category theory"
+            ],
+            "label_groups": "mathematics , category theory"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory",
+          "of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms"
+        ],
+        "label_groups": "mathematics , category theory , of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms"
+      },
+      {
+        "definition": "The set of members of a fuzzy set that are fully included (i.e., whose grade of membership is 1).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "fuzzy set theory"
+        ],
+        "label_groups": "mathematics , fuzzy set theory"
+      },
+      {
+        "definition": "The human clitoris .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "The nucleus and electrons of an atom excluding its valence electrons.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "The core , center , or essence of an object or system.",
+    "secondary_definitions": [
+      "( botany ) The central (usually edible) part of a nut , especially once the hard shell has been removed.",
+      "( botany ) A single seed or grain , especially of corn or wheat .",
+      "( botany , US ) The stone of certain fruits, such as peaches or plums .",
+      "A small mass around which other matter is concreted; a nucleus ; a concretion or hard lump in the flesh.",
+      "( computing ) The central part of many computer operating systems which manages the system's resources and the communication between hardware and software components.",
+      "( computing ) The core engine of any complex software system.",
+      "( programming ) The simplified input to an algorithm that has undergone kernelization .",
+      "( calculus ) A function used to define an integral transform .",
+      "( mathematics , set theory , of a function f {\\displaystyle f} ) The set of pairs of elements in the domain of f {\\displaystyle f} which are mapped to the same value ; the equivalence relation x ≡ y ⟺ f ( x ) = f ( y ) {\\displaystyle x\\equiv y\\iff f(x)=f(y)} .",
+      "( mathematics , algebra , loosely , of a morphism f {\\displaystyle f} between algebraic structures ) The set of elements of the domain of f {\\displaystyle f} which are mapped to an identity element .",
+      "( mathematics , category theory , of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms ) The equalizer of f {\\displaystyle f} and the zero morphism from X {\\displaystyle X} to Y {\\displaystyle Y} , denoted ker ⁡ f {\\displaystyle \\operatorname {ker} f} .",
+      "( mathematics , fuzzy set theory ) The set of members of a fuzzy set that are fully included (i.e., whose grade of membership is 1).",
+      "( slang ) The human clitoris .",
+      "( chemistry ) The nucleus and electrons of an atom excluding its valence electrons."
+    ]
+  }
+]

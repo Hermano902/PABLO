@@ -1,0 +1,113 @@
+[
+  {
+    "word": "regress",
+    "lemma": "regress",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiːˌɡɹɛs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "regresses",
+          "PT": "regressed",
+          "PAP": "regressed",
+          "PRP": "regressing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To move backwards to an earlier stage; to devolve .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To re-develop behavior one had previously grown out of , particularly a behavior left behind in childhood .",
+            "examples": [
+              "Your nightmares stopped when you were eight years old, but after the house burned down, you regressed ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "psychology"
+            ],
+            "label_groups": "psychology"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To move in the retrograde direction. (clarification of this definition is needed)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "astronomy"
+        ],
+        "label_groups": "intransitive , astronomy"
+      },
+      {
+        "definition": "To reduce in severity or size (as of a tumor ), without reaching total remission .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "medicine"
+        ],
+        "label_groups": "intransitive , medicine"
+      },
+      {
+        "definition": "To perform a regression on an explanatory variable.",
+        "examples": [
+          "When we regress Y on X, we use the values of variable X to predict those of Y."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "statistics"
+        ],
+        "label_groups": "transitive , statistics"
+      },
+      {
+        "definition": "To interrogate a person in a state of trance about forgotten elements of their past.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To move backwards to an earlier stage; to devolve .",
+    "secondary_definitions": [
+      "( intransitive , astronomy ) To move in the retrograde direction. (clarification of this definition is needed)",
+      "( intransitive , medicine ) To reduce in severity or size (as of a tumor ), without reaching total remission .",
+      "( transitive , statistics ) To perform a regression on an explanatory variable.",
+      "( transitive ) To interrogate a person in a state of trance about forgotten elements of their past."
+    ]
+  }
+]

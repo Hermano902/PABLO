@@ -1,0 +1,65 @@
+[
+  {
+    "word": "mock",
+    "lemma": "mock",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mɒk/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mocks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An imitation , usually of lesser quality.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Mockery ; the act of mocking .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Ellipsis of mock examination .",
+        "examples": [
+          "He got a B in his History mock , but improved to an A in the exam."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A mockup or prototype ; particularly , ellipsis of mock object , as used in unit testing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering"
+        ],
+        "label_groups": "software engineering"
+      }
+    ],
+    "main_definition": "An imitation , usually of lesser quality.",
+    "secondary_definitions": [
+      "Mockery ; the act of mocking .",
+      "Ellipsis of mock examination .",
+      "( software engineering ) A mockup or prototype ; particularly , ellipsis of mock object , as used in unit testing ."
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "memo",
+    "lemma": "memo",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛməʊ̯/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "memos"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short note ; a memorandum .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A record of partial results that can be reused later without recomputation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "A short note ; a memorandum .",
+    "secondary_definitions": [
+      "( programming ) A record of partial results that can be reused later without recomputation ."
+    ]
+  }
+]

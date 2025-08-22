@@ -1,0 +1,136 @@
+[
+  {
+    "word": "belong",
+    "lemma": "belong",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɪˈlɒŋ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "belongs",
+          "PT": "belonged",
+          "PAP": "belonged",
+          "PRP": "belonging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To have its proper place .",
+        "examples": [
+          "Where does this book belong ? It belongs on the top shelf."
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To be accepted in a group .",
+            "examples": [
+              "You don’t belong here — get out."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "of a person"
+            ],
+            "label_groups": "of a person"
+          },
+          {
+            "definition": "To be a part of a group.",
+            "examples": [
+              "I don’t belong to them!"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "followed by to"
+            ],
+            "label_groups": "followed by to"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To be part of, or the property of.",
+        "examples": [
+          "That house belongs to me."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "followed by to"
+        ],
+        "label_groups": "intransitive , followed by to"
+      },
+      {
+        "definition": "To be the spouse or partner of. (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "followed by to"
+        ],
+        "label_groups": "intransitive , followed by to"
+      },
+      {
+        "definition": "To be an element of (a set ). The symbol ∈ {\\displaystyle \\in } means belongs to .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "set theory",
+          "followed by to"
+        ],
+        "label_groups": [
+          "intransitive , set theory",
+          "followed by to"
+        ]
+      },
+      {
+        "definition": "To be deserved by.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To have its proper place .",
+    "secondary_definitions": [
+      "( intransitive , followed by to ) To be part of, or the property of.",
+      "( intransitive , followed by to ) To be the spouse or partner of. (Can we add an example for this sense?)",
+      "( intransitive , set theory ) ( followed by to ) To be an element of (a set ). The symbol ∈ {\\displaystyle \\in } means belongs to .",
+      "( obsolete , transitive ) To be deserved by."
+    ]
+  }
+]

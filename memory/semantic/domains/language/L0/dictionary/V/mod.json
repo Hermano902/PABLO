@@ -1,0 +1,81 @@
+[
+  {
+    "word": "mod",
+    "lemma": "mod",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɑd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mods",
+          "PT": "modded",
+          "PAP": "modded",
+          "PRP": "modding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To modify (an object) from its original condition, typically to individualize and/or enhance the performance of the object.",
+        "examples": [
+          "His friends were particularly impressed with the way he modded his Ruckus ."
+        ],
+        "synonyms": [
+          "trick",
+          "trick out"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To install or create a mod.",
+        "examples": [
+          "Learning Java is what got me into modding Minecraft .",
+          "Minecraft"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      },
+      {
+        "definition": "To moderate; to silence or punish (a rule-breaking user) on a forum , especially when done by a moderator .",
+        "examples": [
+          "Don't break the rules or you'll be modded .",
+          "I used to mod that forum."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Internet",
+          "informal"
+        ],
+        "label_groups": "transitive , Internet , informal"
+      }
+    ],
+    "main_definition": "( transitive , informal ) To modify (an object) from its original condition, typically to individualize and/or enhance the performance of the object.",
+    "secondary_definitions": [
+      "( video games ) To install or create a mod.",
+      "( transitive , Internet , informal ) To moderate; to silence or punish (a rule-breaking user) on a forum , especially when done by a moderator ."
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "word": "cokernel",
+    "lemma": "cokernel",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cokernels"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The coequalizer of f {\\displaystyle f} and the zero morphism from X {\\displaystyle X} to Y {\\displaystyle Y} , denoted coker ⁡ f {\\displaystyle \\operatorname {coker} f} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The target of coker ⁡ f {\\displaystyle \\operatorname {coker} f} , denoted Coker ⁡ f {\\displaystyle \\operatorname {Coker} f} .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "mathematics",
+              "category theory"
+            ],
+            "label_groups": "mathematics , category theory"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "category theory",
+          "of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms"
+        ],
+        "label_groups": "mathematics , category theory , of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms"
+      }
+    ],
+    "main_definition": "( mathematics , category theory , of a morphism f : X → Y {\\displaystyle f:X\\to Y} in a category with zero morphisms ) The coequalizer of f {\\displaystyle f} and the zero morphism from X {\\displaystyle X} to Y {\\displaystyle Y} , denoted coker ⁡ f {\\displaystyle \\operatorname {coker} f} .",
+    "secondary_definitions": []
+  }
+]

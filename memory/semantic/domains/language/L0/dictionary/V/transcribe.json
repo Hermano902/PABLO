@@ -1,0 +1,104 @@
+[
+  {
+    "word": "transcribe",
+    "lemma": "transcribe",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/trænˈskɹaɪb/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "transcribes",
+          "PT": "transcribed",
+          "PAP": "transcribed",
+          "PRP": "transcribing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert a representation of language , typically speech but also sign language , etc., to a written representation of it. The term now usually implies the conversion of speech to text by a human transcriptionist with the assistance of a computer for word processing and sometimes also for speech recognition , the process of a computer interpreting speech and converting it to text.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To make such a conversion from live or recorded speech to text.",
+        "examples": [
+          "The doctor made several recordings today which she will transcribe into medical reports tomorrow."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dictation"
+        ],
+        "label_groups": "dictation"
+      },
+      {
+        "definition": "To transfer data from one recording medium to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To adapt a composition for a voice or instrument other than the original ; to notate live or recorded music .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "music"
+        ],
+        "label_groups": "music"
+      },
+      {
+        "definition": "To cause DNA to undergo transcription .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      },
+      {
+        "definition": "To represent speech by phonetic symbols .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "To convert a representation of language , typically speech but also sign language , etc., to a written representation of it. The term now usually implies the conversion of speech to text by a human transcriptionist with the assistance of a computer for word processing and sometimes also for speech recognition , the process of a computer interpreting speech and converting it to text.",
+    "secondary_definitions": [
+      "( dictation ) To make such a conversion from live or recorded speech to text.",
+      "( computing ) To transfer data from one recording medium to another.",
+      "( music ) To adapt a composition for a voice or instrument other than the original ; to notate live or recorded music .",
+      "( biochemistry ) To cause DNA to undergo transcription .",
+      "( linguistics ) To represent speech by phonetic symbols ."
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "word": "drink",
+    "lemma": "drink",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɹɪŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "drinks",
+          "PT": "drank",
+          "PAP": "drunk",
+          "PRP": "drinking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To consume (a liquid) through the mouth.",
+        "examples": [
+          "He drank the water I gave him.",
+          "You can lead a horse to water but you can't make him drink ."
+        ],
+        "synonyms": [
+          "gulp",
+          "imbibe",
+          "quaff",
+          "sip"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To consume the liquid contained within (a bottle, glass, etc.).",
+        "examples": [
+          "Jack drank the whole bottle by himself."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "metonymic"
+        ],
+        "label_groups": "transitive , metonymic"
+      },
+      {
+        "definition": "To consume alcoholic beverages .",
+        "examples": [
+          "You've been drinking , haven't you?",
+          "No thanks, I don't drink .",
+          "Everyone who is drinking is drinking, but not everyone who is drinking is drinking ."
+        ],
+        "synonyms": [
+          "alcohol",
+          "booze"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To take in (a liquid), in any manner; to suck up; to absorb; to imbibe.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To take in; to receive within one, through the senses; to inhale; to hear; to see.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To toast (someone or something) with a drink, honour ; to wish well (see drink to ), especially:",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To express one's desire for the accomplishment of a toast, sentiment or event, to wish , hope (for), forward (especially as 'to drink the health (of someone)').",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "obsolete",
+              "with carouse"
+            ],
+            "label_groups": "obsolete , with carouse",
+            "dating_raw": "with to ‘someone or something’"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "archaic"
+        ],
+        "label_groups": "transitive , archaic"
+      },
+      {
+        "definition": "To smoke , as tobacco .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      },
+      {
+        "definition": "Used in phrasal verbs: drink down , drink in , drink off , drink out , drink to , drink up .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( ambitransitive ) To consume (a liquid) through the mouth.",
+    "secondary_definitions": [
+      "( transitive , metonymic ) To consume the liquid contained within (a bottle, glass, etc.).",
+      "( intransitive ) To consume alcoholic beverages .",
+      "( transitive ) To take in (a liquid), in any manner; to suck up; to absorb; to imbibe.",
+      "( transitive ) To take in; to receive within one, through the senses; to inhale; to hear; to see.",
+      "( transitive , archaic ) To toast (someone or something) with a drink, honour ; to wish well (see drink to ), especially:",
+      "( transitive , obsolete ) To smoke , as tobacco .",
+      "Used in phrasal verbs: drink down , drink in , drink off , drink out , drink to , drink up ."
+    ]
+  }
+]

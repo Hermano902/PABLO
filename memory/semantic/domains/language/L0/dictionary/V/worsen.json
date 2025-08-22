@@ -1,0 +1,89 @@
+[
+  {
+    "word": "worsen",
+    "lemma": "worsen",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈwɝsn̩/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "worsens",
+          "PT": "worsened",
+          "PAP": "worsened",
+          "PRP": "worsening",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make worse ; to impair .",
+        "examples": [
+          "Global warming has worsened the weather.",
+          "As for further retaliation: adding such fuel to the fire, as it were, will only worsen the already unpleasant state of affairs."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "ameliorate",
+          "improve",
+          "meliorate",
+          "mitigate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To become worse ; to get worse .",
+        "examples": [
+          "The weather has worsened ."
+        ],
+        "synonyms": [
+          "decline",
+          "deteriorate",
+          "go downhill",
+          "go south"
+        ],
+        "antonyms": [
+          "improve"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To get the better of ; to worst .",
+        "examples": [],
+        "synonyms": [
+          "better",
+          "defeat",
+          "overpower"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To make worse ; to impair .",
+    "secondary_definitions": [
+      "( intransitive ) To become worse ; to get worse .",
+      "( transitive , obsolete ) To get the better of ; to worst ."
+    ]
+  }
+]

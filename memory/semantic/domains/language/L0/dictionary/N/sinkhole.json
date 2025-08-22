@@ -1,0 +1,92 @@
+[
+  {
+    "word": "sinkhole",
+    "lemma": "sinkhole",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪŋkˌhoʊl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sinkholes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A hole formed in soluble rock by the action of water , serving to conduct surface water to an underground passage.",
+        "examples": [],
+        "synonyms": [
+          "cenote",
+          "doline",
+          "dolina",
+          "shakehole",
+          "sink",
+          "swallet",
+          "swallow hole"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geology"
+        ],
+        "label_groups": "geology"
+      },
+      {
+        "definition": "A depressed area in which waste or drainage collects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A hole in the playfield that rewards the player when the ball is guided into it.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "pinball"
+        ],
+        "label_groups": "pinball"
+      },
+      {
+        "definition": "A domain name server that has been configured to hand out non-routeable addresses for all domains, so that every computer that uses it will fail to get access to the real website.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet"
+        ],
+        "label_groups": "Internet"
+      },
+      {
+        "definition": "An attack which redirects requests , whether network or memory accesses , to a new location defined by the attacker .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer security"
+        ],
+        "label_groups": "computer security"
+      }
+    ],
+    "main_definition": "( geology ) A hole formed in soluble rock by the action of water , serving to conduct surface water to an underground passage.",
+    "secondary_definitions": [
+      "A depressed area in which waste or drainage collects.",
+      "( pinball ) A hole in the playfield that rewards the player when the ball is guided into it.",
+      "( Internet ) A domain name server that has been configured to hand out non-routeable addresses for all domains, so that every computer that uses it will fail to get access to the real website.",
+      "( computer security ) An attack which redirects requests , whether network or memory accesses , to a new location defined by the attacker ."
+    ]
+  }
+]

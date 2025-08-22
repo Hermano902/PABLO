@@ -1,0 +1,41 @@
+{
+  "word": "pitch",
+  "pos_order": [
+    "N",
+    "V",
+    "ADJ",
+    "N:2",
+    "V:2",
+    "N:3",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 33,
+      "examples": 20,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    },
+    "V": {
+      "definitions": 25,
+      "examples": 14,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\pitch.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\pitch.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\pitch.json"
+  },
+  "timestamp": "2025-08-19T11:55:51.966423Z"
+}

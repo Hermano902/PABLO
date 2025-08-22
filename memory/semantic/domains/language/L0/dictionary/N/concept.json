@@ -1,0 +1,54 @@
+[
+  {
+    "word": "concept",
+    "lemma": "concept",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.sɛpt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "concepts"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An abstract and general idea; an abstraction .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Understanding retained in the mind, from experience, reasoning and imagination; a generalization (generic, basic form), or abstraction (mental impression), of a particular set of instances or occurrences (specific, though different, recorded manifestations of the concept).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A description of supported operations on a type, including their syntax and semantics.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "generic programming"
+        ],
+        "label_groups": "generic programming"
+      }
+    ],
+    "main_definition": "An abstract and general idea; an abstraction .",
+    "secondary_definitions": [
+      "Understanding retained in the mind, from experience, reasoning and imagination; a generalization (generic, basic form), or abstraction (mental impression), of a particular set of instances or occurrences (specific, though different, recorded manifestations of the concept).",
+      "( generic programming ) A description of supported operations on a type, including their syntax and semantics."
+    ]
+  }
+]

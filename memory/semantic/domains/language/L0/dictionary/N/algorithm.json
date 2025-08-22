@@ -1,0 +1,116 @@
+[
+  {
+    "word": "algorithm",
+    "lemma": "algorithm",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈælɡəɹɪðəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "algorithms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A flowchart illustrating a decision-making process for human users, especially health care professionals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "loosely"
+        ],
+        "label_groups": "loosely"
+      },
+      {
+        "definition": "Calculation with Arabic numerals ; algorism .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "obsolete"
+        ],
+        "label_groups": "uncountable , obsolete"
+      },
+      {
+        "definition": "recommender systems and the curation of feeds",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "software that makes content display determinations on a platform, in totality of effect upon all end users (within a potential audience).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "usually preceded by definite article \"the\""
+            ],
+            "label_groups": "usually preceded by definite article \"the\""
+          },
+          {
+            "definition": "the influenced zeitgeist : e.g. what content ends up trending or viral , what persons become a main character or cancelled",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "informal",
+              "by extension of above"
+            ],
+            "label_groups": "informal , by extension of above"
+          },
+          {
+            "definition": "the actual personalized selections of content seen by specific user(s), the microtargeting to which they are subject",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "informal",
+              "usually preceded by a possessive determiner"
+            ],
+            "label_groups": "informal , usually preceded by a possessive determiner"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "social media",
+          "metonymic"
+        ],
+        "label_groups": "social media , metonymic"
+      }
+    ],
+    "main_definition": "( countable ) A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps.",
+    "secondary_definitions": [
+      "( loosely ) A flowchart illustrating a decision-making process for human users, especially health care professionals.",
+      "( uncountable , obsolete ) Calculation with Arabic numerals ; algorism .",
+      "( social media , metonymic ) recommender systems and the curation of feeds"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "disassembler",
+    "lemma": "disassembler",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "disassemblers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A computer program that examines another computer program and attempts to generate assembly language source code that would, in theory, reproduce the target program.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A computer program that examines another computer program and attempts to generate assembly language source code that would, in theory, reproduce the target program.",
+    "secondary_definitions": []
+  }
+]

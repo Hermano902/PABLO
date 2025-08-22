@@ -1,0 +1,55 @@
+[
+  {
+    "word": "slipstream",
+    "lemma": "slipstream",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈslɪp.stɹiːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "slipstreams",
+          "PT": "slipstreamed",
+          "PAP": "slipstreamed",
+          "PRP": "slipstreaming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To take advantage of the suction produced by a slipstream by travelling immediately behind the slipstream generator .",
+        "examples": [
+          "Although dangerous, over-the-road truck drivers sometimes slipstream with each other to save fuel."
+        ],
+        "synonyms": [
+          "draft"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To incorporate additional software (such as patches ) into an existing installer .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "transitive"
+        ],
+        "label_groups": "computing , transitive"
+      }
+    ],
+    "main_definition": "To take advantage of the suction produced by a slipstream by travelling immediately behind the slipstream generator .",
+    "secondary_definitions": [
+      "( computing , transitive ) To incorporate additional software (such as patches ) into an existing installer ."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "preamble",
+    "lemma": "preamble",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹiːˌambəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "preambles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A short preliminary statement or remark, especially an explanatory introduction to a formal document or statute .",
+        "examples": [],
+        "synonyms": [
+          "foreword",
+          "preface",
+          "prologue"
+        ],
+        "antonyms": [
+          "afterword",
+          "conclusion",
+          "epilogue",
+          "last word",
+          "postamble"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A syncword .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "networking"
+        ],
+        "label_groups": "computing , networking"
+      },
+      {
+        "definition": "A precursor .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A short preliminary statement or remark, especially an explanatory introduction to a formal document or statute .",
+    "secondary_definitions": [
+      "( computing , networking ) A syncword .",
+      "A precursor ."
+    ]
+  }
+]

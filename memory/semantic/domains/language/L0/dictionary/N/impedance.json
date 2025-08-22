@@ -1,0 +1,85 @@
+[
+  {
+    "word": "impedance",
+    "lemma": "impedance",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "[ɪmˈpiːdn̩s]",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "impedances"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of impeding ; that which impedes; a hindrance .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A measure of the opposition to the flow of an alternating current in a circuit ; the aggregation of its resistance , and inductive and capacitive reactances ; the ratio of voltage to current treated as complex quantities.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "A quantity analogous to electrical impedance in some other energy domain",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "a measure of opposition to motion of something subjected to a force; the ratio of force to velocity treated as complex quantities.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics",
+              "usually with “mechanical”"
+            ],
+            "label_groups": "physics , usually with “mechanical”"
+          },
+          {
+            "definition": "the ratio of sound pressure to volume flow rate treated as complex quantities.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "physics",
+              "usually with “acoustic” or “sound”"
+            ],
+            "label_groups": "physics , usually with “acoustic” or “sound”"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "The act of impeding ; that which impedes; a hindrance .",
+    "secondary_definitions": [
+      "( physics ) A measure of the opposition to the flow of an alternating current in a circuit ; the aggregation of its resistance , and inductive and capacitive reactances ; the ratio of voltage to current treated as complex quantities.",
+      "( physics ) A quantity analogous to electrical impedance in some other energy domain"
+    ]
+  }
+]

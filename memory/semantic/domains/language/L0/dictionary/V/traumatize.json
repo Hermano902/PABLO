@@ -1,0 +1,56 @@
+[
+  {
+    "word": "traumatize",
+    "lemma": "traumatize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "traumatizes",
+          "PT": "traumatized",
+          "PAP": "traumatized",
+          "PRP": "traumatizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To injure, e.g. tissues, by force or by thermal, chemical or other agents .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "pathology"
+        ],
+        "label_groups": "transitive , pathology"
+      },
+      {
+        "definition": "To cause a trauma in.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "psychiatry"
+        ],
+        "label_groups": "transitive , psychiatry"
+      }
+    ],
+    "main_definition": "( transitive , pathology ) To injure, e.g. tissues, by force or by thermal, chemical or other agents .",
+    "secondary_definitions": [
+      "( transitive , psychiatry ) To cause a trauma in."
+    ]
+  }
+]

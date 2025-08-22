@@ -1,0 +1,106 @@
+[
+  {
+    "word": "announce",
+    "lemma": "announce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/əˈnaʊns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "announces",
+          "PT": "announced",
+          "PAP": "announced",
+          "PRP": "announcing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To give public notice of, especially for the first time; to make known.",
+        "examples": [],
+        "synonyms": [
+          "proclaim",
+          "publish",
+          "make known",
+          "herald",
+          "declare",
+          "promulgate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pronounce ; to declare by judicial sentence .",
+        "examples": [],
+        "synonyms": [
+          "adjudicate",
+          "judge"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": ":",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To act as announcer for (an event, usually sports).",
+            "examples": [
+              "Our coach has retired, but occasionally he still announces the games."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To act or work as an announcer .",
+            "examples": [
+              "Our coach has retired, but occasionally he still announces ."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive"
+            ],
+            "label_groups": "intransitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "chiefly US"
+        ],
+        "label_groups": "chiefly US"
+      }
+    ],
+    "main_definition": "( transitive ) To give public notice of, especially for the first time; to make known.",
+    "secondary_definitions": [
+      "( transitive ) To pronounce ; to declare by judicial sentence .",
+      "( chiefly US ) :"
+    ]
+  }
+]

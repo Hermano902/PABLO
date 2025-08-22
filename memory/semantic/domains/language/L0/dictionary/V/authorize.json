@@ -1,0 +1,50 @@
+[
+  {
+    "word": "authorize",
+    "lemma": "authorize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɔθəɹaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "authorizes",
+          "PT": "authorized",
+          "PAP": "authorized",
+          "PRP": "authorizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To grant (someone) the permission or power necessary to do (something); to permit; to sanction or consent to.",
+        "examples": [
+          "The General Assembly authorized the Council to take up the matter.",
+          "The judge authorized the wiretapping."
+        ],
+        "synonyms": [
+          "license",
+          "permit"
+        ],
+        "antonyms": [
+          "ban",
+          "prohibit",
+          "deauthorize"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To grant (someone) the permission or power necessary to do (something); to permit; to sanction or consent to.",
+    "secondary_definitions": []
+  }
+]

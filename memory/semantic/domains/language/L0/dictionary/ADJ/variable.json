@@ -1,0 +1,111 @@
+[
+  {
+    "word": "variable",
+    "lemma": "variable",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "[ˈvɛə.ɹi.ə.bl̩]",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more variable",
+          "SUP": "most variable"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Able to vary or be varied.",
+        "examples": [
+          "variable winds or seasons; a variable quantity; a variable resistor"
+        ],
+        "synonyms": [
+          "alterable",
+          "flexible",
+          "changeable",
+          "mutable"
+        ],
+        "antonyms": [
+          "constant",
+          "invariable",
+          "immutable",
+          "unalterable",
+          "unchangeable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Likely to vary .",
+        "examples": [],
+        "synonyms": [
+          "fickle",
+          "fluctuating",
+          "inconstant",
+          "shifting",
+          "unstable",
+          "unsteady",
+          "up-and-down"
+        ],
+        "antonyms": [
+          "constant",
+          "invariable",
+          "immutable",
+          "unchangeable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Marked by diversity or difference .",
+        "examples": [],
+        "synonyms": [
+          "varying"
+        ],
+        "antonyms": [
+          "unchanging"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Having no fixed quantitative value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "constant",
+          "invariable"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Tending to deviate from a normal or recognized type.",
+        "examples": [],
+        "synonyms": [
+          "aberrant"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biology"
+        ],
+        "label_groups": "biology"
+      }
+    ],
+    "main_definition": "Able to vary or be varied.",
+    "secondary_definitions": [
+      "Likely to vary .",
+      "Marked by diversity or difference .",
+      "( mathematics ) Having no fixed quantitative value.",
+      "( biology ) Tending to deviate from a normal or recognized type."
+    ]
+  }
+]

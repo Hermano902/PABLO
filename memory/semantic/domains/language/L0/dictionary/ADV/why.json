@@ -1,0 +1,101 @@
+[
+  {
+    "word": "why",
+    "lemma": "why",
+    "etymology": "Etymology 1",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/wæ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "For what cause , reason , or purpose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Introducing a complete question. With a negative, used rhetorically to make a suggestion.",
+            "examples": [
+              "Why is the sky blue?",
+              "Why did you do that?",
+              "I don’t know why he did that",
+              "Tell me why the moon changes phase."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Introducing a verb phrase (bare infinitive clause).",
+            "examples": [
+              "Why spend money on something you already get for free?",
+              "Why not tell him how you feel?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Introducing a noun or other phrase.",
+            "examples": [
+              "Why him? Why not someone taller?"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "interrogative"
+        ],
+        "label_groups": "interrogative"
+      },
+      {
+        "definition": "For which cause , reason , or purpose .",
+        "examples": [
+          "That's the reason why I did that."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "relative"
+        ],
+        "label_groups": "relative"
+      },
+      {
+        "definition": "The cause , reason , or purpose for which.",
+        "examples": [
+          "That is why the sky is blue."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "fused relative"
+        ],
+        "label_groups": "fused relative"
+      }
+    ],
+    "main_definition": "( interrogative ) For what cause , reason , or purpose .",
+    "secondary_definitions": [
+      "( relative ) For which cause , reason , or purpose .",
+      "( fused relative ) The cause , reason , or purpose for which."
+    ]
+  }
+]

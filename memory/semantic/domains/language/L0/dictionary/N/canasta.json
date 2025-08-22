@@ -1,0 +1,52 @@
+[
+  {
+    "word": "canasta",
+    "lemma": "canasta",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/kəˈnæstə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "canastas"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A card game similar to rummy and played using two packs , where the object is to meld groups of the same rank .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "games",
+          "card games"
+        ],
+        "label_groups": "uncountable , games , card games"
+      },
+      {
+        "definition": "A meld of seven cards in a game of canasta.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable",
+          "card games"
+        ],
+        "label_groups": "countable , card games"
+      }
+    ],
+    "main_definition": "( uncountable , games , card games ) A card game similar to rummy and played using two packs , where the object is to meld groups of the same rank .",
+    "secondary_definitions": [
+      "( countable , card games ) A meld of seven cards in a game of canasta."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "word": "wallow",
+  "pos_order": [
+    "V",
+    "N",
+    "V:2",
+    "ADJ"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 8
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 1,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\wallow.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\wallow.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\wallow.json"
+  },
+  "timestamp": "2025-08-19T20:41:59.803820Z"
+}

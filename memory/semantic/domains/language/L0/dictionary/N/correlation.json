@@ -1,0 +1,63 @@
+[
+  {
+    "word": "correlation",
+    "lemma": "correlation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌkɒɹ.əˈleɪ.ʃən/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "correlations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A reciprocal , parallel or complementary relationship between two or more comparable objects.",
+        "examples": [
+          "clear correlation",
+          "positive correlation",
+          "strong correlation",
+          "weak correlation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One of the several measures of the linear statistical relationship between two random variables , indicating both the strength and direction of the relationship.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "An isomorphism from a projective space to the dual of a projective space, often to the dual of itself.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      }
+    ],
+    "main_definition": "A reciprocal , parallel or complementary relationship between two or more comparable objects.",
+    "secondary_definitions": [
+      "( statistics ) One of the several measures of the linear statistical relationship between two random variables , indicating both the strength and direction of the relationship.",
+      "( algebra ) An isomorphism from a projective space to the dual of a projective space, often to the dual of itself."
+    ]
+  }
+]

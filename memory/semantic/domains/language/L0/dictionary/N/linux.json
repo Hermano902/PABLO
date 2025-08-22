@@ -1,0 +1,35 @@
+[
+  {
+    "word": "linux",
+    "lemma": "linux",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "linuxes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any unix -like operating system that uses the Linux kernel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software"
+        ],
+        "label_groups": "software"
+      }
+    ],
+    "main_definition": "( software ) Any unix -like operating system that uses the Linux kernel.",
+    "secondary_definitions": []
+  }
+]

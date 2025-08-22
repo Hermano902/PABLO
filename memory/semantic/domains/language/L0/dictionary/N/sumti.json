@@ -1,0 +1,44 @@
+[
+  {
+    "word": "sumti",
+    "lemma": "sumti",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsuːm.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "an argument passed to a selbri ( “ predicate ” )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Lojban grammar"
+        ],
+        "label_groups": "Lojban grammar"
+      },
+      {
+        "definition": "a parameter (\"place\") in a selbri ( “ predicate ” ) 's \"place structure\", which can be filled with an argument ( sumti ( “ argument ” ) in the above sense)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Lojban grammar"
+        ],
+        "label_groups": "Lojban grammar"
+      }
+    ],
+    "main_definition": "( Lojban grammar ) an argument passed to a selbri ( “ predicate ” )",
+    "secondary_definitions": [
+      "( Lojban grammar ) a parameter (\"place\") in a selbri ( “ predicate ” ) 's \"place structure\", which can be filled with an argument ( sumti ( “ argument ” ) in the above sense)"
+    ]
+  }
+]

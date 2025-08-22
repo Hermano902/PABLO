@@ -1,0 +1,32 @@
+{
+  "word": "fang",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "V:3",
+    "V:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 0,
+      "synonyms": 12,
+      "antonyms": 0,
+      "inflections": 16
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\fang.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\fang.json"
+  },
+  "timestamp": "2025-08-19T03:29:39.952439Z"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "word": "license",
+    "lemma": "license",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈlaɪ.səns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "licenses",
+          "PT": "licensed",
+          "PAP": "licensed",
+          "PRP": "licensing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To authorize officially.",
+        "examples": [
+          "I am licensed to practice law in this state."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To give formal authorization to use.",
+            "examples": [
+              "It was decided to license Wikipedia under the GFDL."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To acquire authorization to use, usually in exchange for compensation .",
+            "examples": [
+              "The filmmakers licensed several iconic 80's songs for the soundtrack."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "applied to a piece of intellectual property"
+        ],
+        "label_groups": [
+          "transitive",
+          "applied to a piece of intellectual property"
+        ]
+      },
+      {
+        "definition": "To give permission or freedom to; accept .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To permit (as grammatically correct).",
+        "examples": [
+          "No English adverbs have mandatory complements, and most don't even license optional ones."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics",
+          "transitive"
+        ],
+        "label_groups": "linguistics , transitive"
+      }
+    ],
+    "main_definition": "To authorize officially.",
+    "secondary_definitions": [
+      "( transitive ) (applied to a piece of intellectual property )",
+      "( transitive ) To give permission or freedom to; accept .",
+      "( linguistics , transitive ) To permit (as grammatically correct)."
+    ]
+  }
+]

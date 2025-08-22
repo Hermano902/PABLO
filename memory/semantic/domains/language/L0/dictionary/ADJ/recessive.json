@@ -1,0 +1,58 @@
+[
+  {
+    "word": "recessive",
+    "lemma": "recessive",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɹɪˈsɛsɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more recessive",
+          "SUP": "most recessive"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Going back; receding.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Able to be masked by a dominant allele or trait.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "Not dominant; whose effect is masked by stronger effects.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension"
+        ],
+        "label_groups": "by extension"
+      }
+    ],
+    "main_definition": "Going back; receding.",
+    "secondary_definitions": [
+      "( genetics ) Able to be masked by a dominant allele or trait.",
+      "( by extension ) Not dominant; whose effect is masked by stronger effects."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "foreground",
+    "lemma": "foreground",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɔː(ɹ)ˌɡɹaʊnd/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "foregrounds"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The elements of an image which lie closest to the picture plane .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The subject of an image, often depicted at the bottom in a two-dimensional work.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The application the user is currently interacting with; the application window that appears in front of all others.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "often attributive"
+        ],
+        "label_groups": "computing , often attributive"
+      }
+    ],
+    "main_definition": "The elements of an image which lie closest to the picture plane .",
+    "secondary_definitions": [
+      "The subject of an image, often depicted at the bottom in a two-dimensional work.",
+      "( computing , often attributive ) The application the user is currently interacting with; the application window that appears in front of all others."
+    ]
+  }
+]

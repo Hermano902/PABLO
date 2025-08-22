@@ -1,0 +1,59 @@
+[
+  {
+    "word": "mortgage",
+    "lemma": "mortgage",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɔː.ɡɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mortgages",
+          "PT": "mortgaged",
+          "PAP": "mortgaged",
+          "PRP": "mortgaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To borrow against a property, to obtain a loan for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land; to pledge a property in order to get a loan.",
+        "examples": [
+          "to mortgage a property, an estate, or a shop",
+          "We mortgaged our house in order to start a company."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "law"
+        ],
+        "label_groups": "transitive , law"
+      },
+      {
+        "definition": "To pledge and make liable; to make subject to obligation; to achieve an immediate result by paying for it in the long term.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figurative"
+        ],
+        "label_groups": "transitive , figurative"
+      }
+    ],
+    "main_definition": "( transitive , law ) To borrow against a property, to obtain a loan for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land; to pledge a property in order to get a loan.",
+    "secondary_definitions": [
+      "( transitive , figurative ) To pledge and make liable; to make subject to obligation; to achieve an immediate result by paying for it in the long term."
+    ]
+  }
+]

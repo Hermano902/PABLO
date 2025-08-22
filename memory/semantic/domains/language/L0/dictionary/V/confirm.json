@@ -1,0 +1,75 @@
+[
+  {
+    "word": "confirm",
+    "lemma": "confirm",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/kənˈfɜːm/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "confirms",
+          "PT": "confirmed",
+          "PAP": "confirmed",
+          "PRP": "confirming",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To strengthen ; to make firm or resolute .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To administer the sacrament of confirmation on (someone).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Christianity"
+        ],
+        "label_groups": "transitive , Christianity"
+      },
+      {
+        "definition": "To assure the accuracy of previous statements.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To approve a proposal or nomination.",
+        "examples": [
+          "The Senate must confirm federal court appointments."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "To strengthen ; to make firm or resolute .",
+    "secondary_definitions": [
+      "( transitive , Christianity ) To administer the sacrament of confirmation on (someone).",
+      "To assure the accuracy of previous statements.",
+      "( transitive ) To approve a proposal or nomination."
+    ]
+  }
+]

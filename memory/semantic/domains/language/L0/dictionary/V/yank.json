@@ -1,0 +1,57 @@
+[
+  {
+    "word": "yank",
+    "lemma": "yank",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/jæŋk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "yanks",
+          "PT": "yanked",
+          "PAP": "yanked",
+          "PRP": "yanking",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To pull (something) with a quick , strong action .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To remove from distribution .",
+        "examples": [
+          "They yanked the product as soon as they learned it was unsafe."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      }
+    ],
+    "main_definition": "( transitive ) To pull (something) with a quick , strong action .",
+    "secondary_definitions": [
+      "( transitive , informal ) To remove from distribution ."
+    ]
+  }
+]

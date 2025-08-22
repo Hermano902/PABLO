@@ -1,0 +1,89 @@
+[
+  {
+    "word": "underdo",
+    "lemma": "underdo",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "underdoes",
+          "PT": "underdid",
+          "PAP": "underdone",
+          "PRP": "underdoing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To do something insufficiently; especially, to undercook .",
+        "examples": [
+          "Sorry to say, I've underdone the pot roast. I think we'd better put it back in the oven for a bit.",
+          "Sorry to say, I've underdone the downspout repair. I think we'd better hire someone to replace the whole thing."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "overdo",
+          "overcook"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "To do less than is requisite.",
+            "examples": [
+              "We warned him not to underdo it. This customer expects attention to detail."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          },
+          {
+            "definition": "To act below one's abilities; do less than one can.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "intransitive",
+              "uncommon"
+            ],
+            "label_groups": "intransitive , uncommon"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To put under, subject .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To do something insufficiently; especially, to undercook .",
+    "secondary_definitions": [
+      "( transitive , obsolete ) To put under, subject ."
+    ]
+  }
+]

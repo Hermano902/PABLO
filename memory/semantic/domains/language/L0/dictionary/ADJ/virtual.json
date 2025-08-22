@@ -1,0 +1,218 @@
+[
+  {
+    "word": "virtual",
+    "lemma": "virtual",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈvɜːt͡ʃʊəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In effect or essence , rather than in fact or reality ; also, imitated , simulated .",
+        "examples": [
+          "In fact a defeat on the battlefield, Tet was a virtual victory for the North, owing to its effect on public opinion.",
+          "Virtual addressing allows computer applications to believe that there is much more physical memory than actually exists."
+        ],
+        "synonyms": [
+          "de facto"
+        ],
+        "antonyms": [
+          "actual",
+          "real",
+          "true",
+          "veritable"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "For practical purposes , though not technically ; almost complete , very near .",
+        "examples": [
+          "The angry peasants were a virtual army as they attacked the castle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Operating using a computer and/or online rather than physically present .",
+            "examples": [
+              "a virtual assistant    a virtual personal trainer"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Simulated in a computer and/or online.",
+            "examples": [
+              "The virtual world of his computer game allowed character interaction."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Of a class member : capable of being overridden with a different implementation in a subclass .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "object-oriented programming"
+            ],
+            "label_groups": "object-oriented programming"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "Pertaining to a theoretical infinitesimal velocity in a mechanical system that does not violate the system's constraints ; also, of other physical quantities : resulting from such a velocity.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mechanics"
+        ],
+        "label_groups": "mechanics"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Pertaining to a theoretical quality of something which would produce an observable effect if counteracting factors such as friction are disregarded ; specifically, of a head of water : producing a certain pressure if friction, etc., is disregarded.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Chiefly in virtual focus : of a focus or point : from which light or other radiation apparently emanates ; also, of an image : produced by light that appears to diverge from a point beyond the reflecting or refracting surface .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [
+              "real"
+            ],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "optics"
+            ],
+            "label_groups": "optics"
+          },
+          {
+            "definition": "Pertaining to particles in temporary existence due to the Heisenberg uncertainty principle .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "particle physics"
+            ],
+            "label_groups": "particle physics"
+          },
+          {
+            "definition": "Of a quantum state : having an intermediate , short-lived , and unobservable nature .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "quantum mechanics"
+            ],
+            "label_groups": "quantum mechanics"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Having efficacy or power due to some natural qualities . ( specifically , also figuratively ) Of a plant or other thing : having strong healing powers; virtuous .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Having the power of acting without the agency of some material or measurable thing; possessing invisible efficacy.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Producing , or able to produce, some result ; effective , efficacious .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Synonym of virtuous ( “ full of virtue ; having excellent moral character ” ) .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "In effect or essence , rather than in fact or reality ; also, imitated , simulated .",
+    "secondary_definitions": [
+      "For practical purposes , though not technically ; almost complete , very near .",
+      "( computing )",
+      "( mechanics ) Pertaining to a theoretical infinitesimal velocity in a mechanical system that does not violate the system's constraints ; also, of other physical quantities : resulting from such a velocity.",
+      "( physics )",
+      "( obsolete )"
+    ]
+  }
+]

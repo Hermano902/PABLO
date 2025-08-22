@@ -1,0 +1,94 @@
+[
+  {
+    "word": "jitter",
+    "lemma": "jitter",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈd͡ʒɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jitters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A nervous action; a tic .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( chiefly in the plural , often with \"the\" ) A state of nervousness .",
+        "examples": [
+          "That creepy movie gave me the jitters ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( telecommunications ) An abrupt and unwanted variation of one or more signal characteristics .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( data visualization ) A random positioning of data points to avoid visual overlap.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "A nervous action; a tic .",
+    "secondary_definitions": [
+      "( chiefly in the plural , often with \"the\" ) A state of nervousness .",
+      "( telecommunications ) An abrupt and unwanted variation of one or more signal characteristics .",
+      "( data visualization ) A random positioning of data points to avoid visual overlap."
+    ]
+  },
+  {
+    "word": "jitter",
+    "lemma": "jitter",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ˈd͡ʒɪtə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "jitters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A program or routine that performs jitting ; a just-in-time compiler .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) A program or routine that performs jitting ; a just-in-time compiler .",
+    "secondary_definitions": []
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "speedy",
+    "lemma": "speedy",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈspiː.di/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "speedies",
+          "PT": "speedied",
+          "PAP": "speedied",
+          "PRP": "speedying",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To process in a faster than normal , accelerated way.",
+        "examples": [],
+        "synonyms": [
+          "speed up"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To apply the speedy rule in an online community (often the deletion rule); to speedy delete .",
+        "examples": [
+          "The guy is *not* so obviously insignificant that speedying him is appropriate."
+        ],
+        "synonyms": [
+          "speedy delete"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "Wikimedia jargon"
+        ],
+        "label_groups": "transitive , Wikimedia jargon"
+      }
+    ],
+    "main_definition": "( transitive ) To process in a faster than normal , accelerated way.",
+    "secondary_definitions": [
+      "( transitive , Wikimedia jargon ) To apply the speedy rule in an online community (often the deletion rule); to speedy delete ."
+    ]
+  }
+]

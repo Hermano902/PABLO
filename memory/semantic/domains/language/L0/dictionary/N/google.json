@@ -1,0 +1,52 @@
+[
+  {
+    "word": "google",
+    "lemma": "google",
+    "etymology": "Etymology 2",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡuː.ɡəl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "googles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An Internet search , such as one performed on the Google search engine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A match obtained by a query in the Google search engine.",
+        "examples": [
+          "The word oceanfront has 64,300,000 googles , so I think it must be a real word.",
+          "oceanfront"
+        ],
+        "synonyms": [
+          "Google",
+          "hit",
+          "ghit"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      }
+    ],
+    "main_definition": "An Internet search , such as one performed on the Google search engine .",
+    "secondary_definitions": [
+      "( dated ) A match obtained by a query in the Google search engine."
+    ]
+  }
+]

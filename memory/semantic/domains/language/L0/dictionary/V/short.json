@@ -1,0 +1,100 @@
+[
+  {
+    "word": "short",
+    "lemma": "short",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ʃɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "shorts",
+          "PT": "shorted",
+          "PAP": "shorted",
+          "PRP": "shorting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To cause a short circuit in (something).",
+        "examples": [
+          "You should short the poles of the capacitor to discharge it before you work on it."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To short circuit .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of an electrical circuit"
+        ],
+        "label_groups": "intransitive , of an electrical circuit"
+      },
+      {
+        "definition": "To provide with an amount smaller than that agreed or labeled ; to shortchange .",
+        "examples": [
+          "This is the third time I've caught them shorting us."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "informal"
+        ],
+        "label_groups": "transitive , informal"
+      },
+      {
+        "definition": "To sell something, especially securities , that one does not own at the moment for delivery at a later date in hopes of profiting from a decline in the price; to sell short .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "business"
+        ],
+        "label_groups": "transitive , business"
+      },
+      {
+        "definition": "To shorten .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "( transitive ) To cause a short circuit in (something).",
+    "secondary_definitions": [
+      "( intransitive , of an electrical circuit ) To short circuit .",
+      "( transitive , informal ) To provide with an amount smaller than that agreed or labeled ; to shortchange .",
+      "( transitive , business ) To sell something, especially securities , that one does not own at the moment for delivery at a later date in hopes of profiting from a decline in the price; to sell short .",
+      "( obsolete ) To shorten ."
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "declarative",
+    "lemma": "declarative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈklæɹ.ə.tɪv/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Serving to declare ; having the quality of a declaration .",
+        "examples": [],
+        "synonyms": [
+          "declaratory"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Expressing truth .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar",
+          "of a verb",
+          "sentence",
+          "or mood"
+        ],
+        "label_groups": "grammar , of a verb, sentence, or mood"
+      },
+      {
+        "definition": "That declares a construct .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "A way of programming that is most akin to just stating what is wanted, rather than having to describe how to do it. w:Declarative programming",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "Serving to declare ; having the quality of a declaration .",
+    "secondary_definitions": [
+      "( grammar , of a verb, sentence, or mood ) Expressing truth .",
+      "( programming ) That declares a construct .",
+      "( programming ) A way of programming that is most akin to just stating what is wanted, rather than having to describe how to do it. w:Declarative programming"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "word": "firebrick",
+    "lemma": "firebrick",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "firebricks"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "a brick capable of withstanding high temperatures without deforming.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The X11 color name of RGB hexadecimal value #B22222.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computer science"
+        ],
+        "label_groups": "computer science"
+      }
+    ],
+    "main_definition": "a brick capable of withstanding high temperatures without deforming.",
+    "secondary_definitions": [
+      "( computer science ) The X11 color name of RGB hexadecimal value #B22222."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "proximal",
+    "lemma": "proximal",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɒksɪməl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more proximal",
+          "SUP": "most proximal"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Closer to the point of attachment or observation.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "distal"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy",
+          "geology"
+        ],
+        "label_groups": "anatomy , geology"
+      },
+      {
+        "definition": "Facing toward another tooth. The proximal surfaces of a tooth are those that touch or are close to neighboring teeth.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dentistry"
+        ],
+        "label_groups": "dentistry"
+      },
+      {
+        "definition": "Closer to the speaker.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "linguistics"
+        ],
+        "label_groups": "linguistics"
+      }
+    ],
+    "main_definition": "( anatomy , geology ) Closer to the point of attachment or observation.",
+    "secondary_definitions": [
+      "( dentistry ) Facing toward another tooth. The proximal surfaces of a tooth are those that touch or are close to neighboring teeth.",
+      "( linguistics ) Closer to the speaker."
+    ]
+  }
+]

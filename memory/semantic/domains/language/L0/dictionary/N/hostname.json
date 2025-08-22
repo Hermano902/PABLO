@@ -1,0 +1,67 @@
+[
+  {
+    "word": "hostname",
+    "lemma": "hostname",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "hostnames"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The unique name by which any device attached to a computer network is known.",
+        "examples": [],
+        "synonyms": [
+          "domain name",
+          "nodename"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      },
+      {
+        "definition": "A computer or other network device's Internet domain name ; a fully qualified hostname .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "computing , Internet"
+      },
+      {
+        "definition": "The portion of a computer's Internet domain name that comes before the first period ; an unqualified hostname .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "Internet"
+        ],
+        "label_groups": "computing , Internet"
+      }
+    ],
+    "main_definition": "( networking ) The unique name by which any device attached to a computer network is known.",
+    "secondary_definitions": [
+      "( computing , Internet ) A computer or other network device's Internet domain name ; a fully qualified hostname .",
+      "( computing , Internet ) The portion of a computer's Internet domain name that comes before the first period ; an unqualified hostname ."
+    ]
+  }
+]

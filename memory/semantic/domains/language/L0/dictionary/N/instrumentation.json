@@ -1,0 +1,87 @@
+[
+  {
+    "word": "instrumentation",
+    "lemma": "instrumentation",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "instrumentations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act of using or adapting as an instrument; a series or combination of instruments.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The arrangement of a musical composition for performance by a number of different instruments; instrumental composition; composition for an orchestra or military band.",
+        "examples": [
+          "They changed the woodwind instrumentation to piccollos and saxophones, and as a result it sounded much more clumsy."
+        ],
+        "synonyms": [
+          "orchestration"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The act or manner of playing upon musical instruments ; performance .",
+        "examples": [
+          "He had a wonderful instrumentation ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "On a vehicle, dashboard gauges monitoring engine functions and performance, along with other essential functions.",
+        "examples": [
+          "The car's instrumentation included fuel, temperature, voltimeter and oil pressure gauges, along with a speedometer and tachometer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "automotive"
+        ],
+        "label_groups": "automotive"
+      },
+      {
+        "definition": "The dynamic analysis of a program's performance and behaviour, usually by injecting profiling code into it.",
+        "examples": [
+          "bytecode instrumentation"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "by extension",
+          "computing"
+        ],
+        "label_groups": "by extension , computing"
+      }
+    ],
+    "main_definition": "The act of using or adapting as an instrument; a series or combination of instruments.",
+    "secondary_definitions": [
+      "The arrangement of a musical composition for performance by a number of different instruments; instrumental composition; composition for an orchestra or military band.",
+      "The act or manner of playing upon musical instruments ; performance .",
+      "( automotive ) On a vehicle, dashboard gauges monitoring engine functions and performance, along with other essential functions.",
+      "( by extension , computing ) The dynamic analysis of a program's performance and behaviour, usually by injecting profiling code into it."
+    ]
+  }
+]

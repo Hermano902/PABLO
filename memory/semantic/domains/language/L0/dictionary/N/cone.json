@@ -1,0 +1,191 @@
+[
+  {
+    "word": "cone",
+    "lemma": "cone",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkəʊn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "cones"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A surface of revolution formed by rotating a segment of a line around another line that intersects the first line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A solid of revolution formed by rotating a triangle around one of its altitudes .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "A space formed by taking the direct product of a given space with a closed interval and identifying all of one end to a point .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "Anything in the general shape of a cone.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The fruit of a conifer .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A cone-shaped flower head of various plants, such as banksias and proteas . A unit of volume, applied solely to marijuana and only while it is in a smokable state; roughly 1.5 cubic centimetres , depending on use.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An ice cream cone .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A traffic cone . ( slang , by extension ) A passenger on a cruise ship (that needs to be navigated around).",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A cone-shaped cannabis joint .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "slang"
+            ],
+            "label_groups": "slang"
+          },
+          {
+            "definition": "A shell of the genus Conus , having a conical form.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Any of the small cone-shaped structures in the retina .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "anatomy"
+        ],
+        "label_groups": "anatomy"
+      },
+      {
+        "definition": "The bowl piece on a bong .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The process of smoking cannabis in a bong .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "slang"
+            ],
+            "label_groups": "slang"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "slang"
+        ],
+        "label_groups": "slang"
+      },
+      {
+        "definition": "An object V together with an arrow going from V to each object of a diagram such that for any arrow A in the diagram, the pair of arrows from V which subtend A also commute with it. (Then V can be said to be the cone’s vertex and the diagram which the cone subtends can be said to be its base .)",
+        "examples": [
+          "A cone is an object (the apex) and a natural transformation from a constant functor (whose image is the apex of the cone and its identity morphism) to a diagram functor. Its components are projections from the apex to the objects of the diagram and it has a “naturality triangle” for each morphism in the diagram. (A “naturality triangle” is just a naturality square which is degenerate at its apex side.)"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "category theory"
+        ],
+        "label_groups": "category theory"
+      },
+      {
+        "definition": "A set of formal languages with certain desirable closure properties, in particular those of the regular languages , the context-free languages and the recursively enumerable languages.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing theory"
+        ],
+        "label_groups": "computing theory"
+      }
+    ],
+    "main_definition": "( geometry ) A surface of revolution formed by rotating a segment of a line around another line that intersects the first line.",
+    "secondary_definitions": [
+      "( geometry ) A solid of revolution formed by rotating a triangle around one of its altitudes .",
+      "( topology ) A space formed by taking the direct product of a given space with a closed interval and identifying all of one end to a point .",
+      "Anything in the general shape of a cone.",
+      "( anatomy ) Any of the small cone-shaped structures in the retina .",
+      "( slang ) The bowl piece on a bong .",
+      "( category theory ) An object V together with an arrow going from V to each object of a diagram such that for any arrow A in the diagram, the pair of arrows from V which subtend A also commute with it. (Then V can be said to be the cone’s vertex and the diagram which the cone subtends can be said to be its base .)",
+      "( computing theory ) A set of formal languages with certain desirable closure properties, in particular those of the regular languages , the context-free languages and the recursively enumerable languages."
+    ]
+  }
+]

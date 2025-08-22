@@ -1,0 +1,28 @@
+{
+  "word": "plant",
+  "pos_order": [
+    "N",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 18,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 1
+    },
+    "V": {
+      "definitions": 9,
+      "examples": 6,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\plant.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\plant.json"
+  },
+  "timestamp": "2025-08-19T11:58:46.821196Z"
+}

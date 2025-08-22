@@ -1,0 +1,81 @@
+[
+  {
+    "word": "protrude",
+    "lemma": "protrude",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈtɹuːd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "protrudes",
+          "PT": "protruded",
+          "PAP": "protruded",
+          "PRP": "protruding",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To extend from, above or beyond a surface or boundary ; to bulge outward; to stick out .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to extend from a surface or boundary; to cause to stick out.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To thrust out, as through a narrow orifice or from confinement; to cause to come forth .",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "transitive"
+            ],
+            "label_groups": "transitive"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To thrust forward; to drive or force along.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "obsolete"
+        ],
+        "label_groups": "transitive , obsolete"
+      }
+    ],
+    "main_definition": "( intransitive ) To extend from, above or beyond a surface or boundary ; to bulge outward; to stick out .",
+    "secondary_definitions": [
+      "( transitive ) To cause to extend from a surface or boundary; to cause to stick out.",
+      "( transitive , obsolete ) To thrust forward; to drive or force along."
+    ]
+  }
+]

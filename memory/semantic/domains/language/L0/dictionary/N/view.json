@@ -1,0 +1,188 @@
+[
+  {
+    "word": "view",
+    "lemma": "view",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/vjuː/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "views"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Visual perception . ( obsolete ) Appearance; show; aspect.",
+        "examples": [
+          "That video got a million views ."
+        ],
+        "synonyms": [
+          "pageview",
+          "play"
+        ],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "The act of seeing or looking at something.",
+            "examples": [
+              "He changed seats to get a complete view of the stage."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "The range of vision .",
+            "examples": [
+              "If there are any rabbits in this park, they keep carefully out of our view ."
+            ],
+            "synonyms": [
+              "sight",
+              "eyeshot"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "Something to look at, such as scenery .",
+            "examples": [
+              "My flat has a view of a junkyard.",
+              "the view from a window"
+            ],
+            "synonyms": [
+              "vista"
+            ],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An individual viewing of a web page or a video etc. by a user.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "Internet"
+            ],
+            "label_groups": "Internet"
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "physical"
+        ],
+        "label_groups": "physical"
+      },
+      {
+        "definition": "A picture , drawn or painted; a sketch .",
+        "examples": [
+          "a fine view of Lake George"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An opinion , judgement , imagination , idea or belief .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "A mental image .",
+            "examples": [
+              "I need more information to get a better view of the situation."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A way of understanding something, an opinion , a theory .",
+            "examples": [
+              "Your view on evolution is based on religious doctrines, not on scientific findings."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "A point of view .",
+            "examples": [
+              "From my view that is a stupid proposition."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "An intention or prospect .",
+            "examples": [
+              "He smuggled a knife into prison with a view to using it as a weapon."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "A virtual or logical table composed of the result set of a query in relational databases .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "databases"
+        ],
+        "label_groups": "computing , databases"
+      },
+      {
+        "definition": "The part of a computer program which is visible to the user and can be interacted with",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "programming"
+        ],
+        "label_groups": "computing , programming"
+      },
+      {
+        "definition": "A wake . (Can we add an example for this sense?)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( physical ) Visual perception . ( obsolete ) Appearance; show; aspect.",
+    "secondary_definitions": [
+      "A picture , drawn or painted; a sketch .",
+      "An opinion , judgement , imagination , idea or belief .",
+      "( computing , databases ) A virtual or logical table composed of the result set of a query in relational databases .",
+      "( computing , programming ) The part of a computer program which is visible to the user and can be interacted with",
+      "A wake . (Can we add an example for this sense?)"
+    ]
+  }
+]

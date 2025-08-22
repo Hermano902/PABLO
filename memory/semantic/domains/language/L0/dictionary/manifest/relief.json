@@ -1,0 +1,29 @@
+{
+  "word": "relief",
+  "pos_order": [
+    "N",
+    "N:2",
+    "ADJ"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 4,
+      "synonyms": 14,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\relief.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\relief.json"
+  },
+  "timestamp": "2025-08-19T13:28:23.477042Z"
+}

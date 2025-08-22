@@ -1,0 +1,127 @@
+[
+  {
+    "word": "mint",
+    "lemma": "mint",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/mɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mints",
+          "PT": "minted",
+          "PAP": "minted",
+          "PRP": "minting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To reproduce (coins), usually en masse, under licence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To invent ; to forge ; to fabricate ; to fashion .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , cryptocurrencies ) To create a crypto token .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To reproduce (coins), usually en masse, under licence.",
+    "secondary_definitions": [
+      "To invent ; to forge ; to fabricate ; to fashion .",
+      "( transitive , cryptocurrencies ) To create a crypto token ."
+    ]
+  },
+  {
+    "word": "mint",
+    "lemma": "mint",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/mɪnt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "mints",
+          "PT": "minted",
+          "PAP": "minted",
+          "PRP": "minting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To try , attempt ; take aim .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "provincial",
+          "Northern England",
+          "Scotland"
+        ],
+        "label_groups": "intransitive , provincial , Northern England , Scotland"
+      },
+      {
+        "definition": "To try , attempt , endeavor ; to take aim at; to try to hit ; to purpose .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "provincial",
+          "Northern England",
+          "Scotland"
+        ],
+        "label_groups": "transitive , provincial , Northern England , Scotland"
+      },
+      {
+        "definition": "To hint ; suggest ; insinuate .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "chiefly Scotland"
+        ],
+        "label_groups": "intransitive , chiefly Scotland"
+      }
+    ],
+    "main_definition": "( intransitive , provincial , Northern England , Scotland ) To try , attempt ; take aim .",
+    "secondary_definitions": [
+      "( transitive , provincial , Northern England , Scotland ) To try , attempt , endeavor ; to take aim at; to try to hit ; to purpose .",
+      "( intransitive , chiefly Scotland ) To hint ; suggest ; insinuate ."
+    ]
+  }
+]

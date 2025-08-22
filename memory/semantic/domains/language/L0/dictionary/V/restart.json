@@ -1,0 +1,60 @@
+[
+  {
+    "word": "restart",
+    "lemma": "restart",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɹiːˌstɑɹt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "restarts",
+          "PT": "restarted",
+          "PAP": "restarted",
+          "PRP": "restarting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To start again .",
+        "examples": [
+          "All attempts to restart the engine failed."
+        ],
+        "synonyms": [
+          "rebegin",
+          "recommence",
+          "reinitiate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "Synonym of reboot .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To start again .",
+    "secondary_definitions": [
+      "( computing ) Synonym of reboot ."
+    ]
+  }
+]

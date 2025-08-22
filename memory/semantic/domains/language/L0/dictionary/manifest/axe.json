@@ -1,0 +1,31 @@
+{
+  "word": "axe",
+  "pos_order": [
+    "N",
+    "V",
+    "N:2",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 3,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 3,
+      "synonyms": 3,
+      "antonyms": 0,
+      "inflections": 12
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\axe.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\axe.json"
+  },
+  "timestamp": "2025-08-18T21:37:44.940918Z"
+}

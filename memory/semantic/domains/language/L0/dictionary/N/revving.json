@@ -1,0 +1,46 @@
+[
+  {
+    "word": "revving",
+    "lemma": "revving",
+    "etymology": null,
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "revvings"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act by which an engine is revved .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A technique for reducing web page loading times by assigning far-future expiration dates to the resources on the page (so that the browser caches them indefinitely) and, if changes are needed, using different filenames for those resources.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "uncountable"
+        ],
+        "label_groups": "Internet , uncountable"
+      }
+    ],
+    "main_definition": "The act by which an engine is revved .",
+    "secondary_definitions": [
+      "( Internet , uncountable ) A technique for reducing web page loading times by assigning far-future expiration dates to the resources on the page (so that the browser caches them indefinitely) and, if changes are needed, using different filenames for those resources."
+    ]
+  }
+]

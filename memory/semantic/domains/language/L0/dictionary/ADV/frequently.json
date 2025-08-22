@@ -1,0 +1,49 @@
+[
+  {
+    "word": "frequently",
+    "lemma": "frequently",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹiː.kwənt.li/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more frequently",
+          "SUP": "most frequently"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "At frequent intervals .",
+        "examples": [
+          "This question arises frequently .",
+          "He was enrolled but frequently didn't attend class."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "For infinitely many terms of the sequence.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a sequence"
+        ],
+        "label_groups": "mathematics , of a sequence"
+      }
+    ],
+    "main_definition": "At frequent intervals .",
+    "secondary_definitions": [
+      "( mathematics , of a sequence ) For infinitely many terms of the sequence."
+    ]
+  }
+]

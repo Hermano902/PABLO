@@ -1,0 +1,89 @@
+[
+  {
+    "word": "printed",
+    "lemma": "printed",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈpɹɪn.tɪd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Put down on paper by a printing press or a computer printer .",
+        "examples": [
+          "The parliament levied a tax on all printed matter.",
+          "All printed personal information must be shredded before it leaves this building."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of information or a document"
+        ],
+        "label_groups": "of information or a document"
+      },
+      {
+        "definition": "Written to a data file.",
+        "examples": [
+          "The output of this sample program is simply some printed lines such as \"Hello, World; my name is [Name].\""
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of information or a document",
+          "by extension",
+          "computing"
+        ],
+        "label_groups": "of information or a document , by extension , computing"
+      },
+      {
+        "definition": "Written on paper by hand in noncursive script.",
+        "examples": [
+          "The signature was illegible, but the printed name beneath it clearly said \"William Wilson.\""
+        ],
+        "synonyms": [
+          "handprinted",
+          "hand-printed"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of information or a document"
+        ],
+        "label_groups": "of information or a document"
+      },
+      {
+        "definition": "Ellipsis of 3D printed",
+        "examples": [
+          "Then we take these various printed and machined components and build the assembly."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "of a physical object"
+        ],
+        "label_groups": "of a physical object"
+      }
+    ],
+    "main_definition": "( of information or a document ) Put down on paper by a printing press or a computer printer .",
+    "secondary_definitions": [
+      "( of information or a document , by extension , computing ) Written to a data file.",
+      "( of information or a document ) Written on paper by hand in noncursive script.",
+      "( of a physical object ) Ellipsis of 3D printed"
+    ]
+  }
+]

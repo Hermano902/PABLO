@@ -1,0 +1,38 @@
+{
+  "word": "diet",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V",
+    "N:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 7,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 1,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 0
+    },
+    "V": {
+      "definitions": 4,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\diet.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\diet.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\diet.json"
+  },
+  "timestamp": "2025-08-19T01:53:42.290873Z"
+}

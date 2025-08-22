@@ -1,0 +1,37 @@
+{
+  "word": "proof",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "V"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 11,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 1,
+      "inflections": 1
+    },
+    "ADJ": {
+      "definitions": 3,
+      "examples": 6,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 5,
+      "examples": 2,
+      "synonyms": 2,
+      "antonyms": 0,
+      "inflections": 4
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\proof.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\proof.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\proof.json"
+  },
+  "timestamp": "2025-08-19T12:37:54.851577Z"
+}

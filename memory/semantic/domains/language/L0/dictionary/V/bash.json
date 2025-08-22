@@ -1,0 +1,101 @@
+[
+  {
+    "word": "bash",
+    "lemma": "bash",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bashes",
+          "PT": "bashed",
+          "PAP": "bashed",
+          "PRP": "bashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( informal ) To strike heavily.",
+        "examples": [
+          "The thugs kept bashing the cowering victim.",
+          "If the engine won't start, bash it with this hammer."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( informal ) To collide ; used with into or together .",
+        "examples": [
+          "Don't bash into me with that shopping trolley."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( transitive , informal ) To criticize harshly .",
+        "examples": [
+          "He bashed my ideas."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( informal ) To strike heavily.",
+    "secondary_definitions": [
+      "( informal ) To collide ; used with into or together .",
+      "( transitive , informal ) To criticize harshly ."
+    ]
+  },
+  {
+    "word": "bash",
+    "lemma": "bash",
+    "etymology": "Etymology 2",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bæʃ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "bashes",
+          "PT": "bashed",
+          "PAP": "bashed",
+          "PRP": "bashing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To abash ( make ashamed )",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( obsolete , transitive ) To abash ( make ashamed )",
+    "secondary_definitions": []
+  }
+]

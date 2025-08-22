@@ -1,0 +1,121 @@
+[
+  {
+    "word": "identity",
+    "lemma": "identity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/aɪˈdɛntɪti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "identities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Sameness , identicalness ; the quality or fact of (several specified things) being the same.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The difference or character that marks off an individual or collective from the rest of the same kind; selfhood ; the sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themselves.",
+        "examples": [
+          "I've been through so many changes, I have no sense of identity .",
+          "This nation has a strong identity ."
+        ],
+        "synonyms": [
+          "individuality"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A name or persona —a mask or appearance one presents to the world—by which one is known.",
+        "examples": [
+          "This criminal has taken on several identities .",
+          "In this show, the competitor's identity will remain secret until after the vote."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An equation which always holds true regardless of the choice of input variables .",
+        "examples": [
+          "The equation (x+y)(x−y) = x −y is an algebraic identity. It is true regardless of the values of x and y."
+        ],
+        "synonyms": [
+          "identity function"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Any function which maps all elements of its domain to themselves.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "computing"
+        ],
+        "label_groups": "algebra , computing"
+      },
+      {
+        "definition": "An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element.",
+        "examples": [
+          "Zero is the identity for the addition of real numbers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra"
+        ],
+        "label_groups": "algebra"
+      },
+      {
+        "definition": "A well-known or famous person.",
+        "examples": [],
+        "synonyms": [
+          "celebrity",
+          "personality"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Australia",
+          "New Zealand"
+        ],
+        "label_groups": "Australia , New Zealand"
+      }
+    ],
+    "main_definition": "Sameness , identicalness ; the quality or fact of (several specified things) being the same.",
+    "secondary_definitions": [
+      "The difference or character that marks off an individual or collective from the rest of the same kind; selfhood ; the sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themselves.",
+      "A name or persona —a mask or appearance one presents to the world—by which one is known.",
+      "( mathematics ) An equation which always holds true regardless of the choice of input variables .",
+      "( algebra , computing ) Any function which maps all elements of its domain to themselves.",
+      "( algebra ) An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element.",
+      "( Australia , New Zealand ) A well-known or famous person."
+    ]
+  }
+]

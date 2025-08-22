@@ -1,0 +1,55 @@
+[
+  {
+    "word": "install",
+    "lemma": "install",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈstɔːl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "installs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An installation : the process of installing a software application.",
+        "examples": [
+          "The install takes a long time, but you can run it in the background while working on other things."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      },
+      {
+        "definition": "An installation: a software application that has been installed.",
+        "examples": [
+          "I've customized my local install ; the out-of-the-box version looks a bit different."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "informal"
+        ],
+        "label_groups": "computing , informal"
+      }
+    ],
+    "main_definition": "( computing , informal ) An installation : the process of installing a software application.",
+    "secondary_definitions": [
+      "( computing , informal ) An installation: a software application that has been installed."
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "word": "unseat",
+    "lemma": "unseat",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/(ˌ)ʌnˈsiːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "unseats",
+          "PT": "unseated",
+          "PAP": "unseated",
+          "PRP": "unseating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To dislodge or remove (someone) from a seat , especially on horseback .",
+        "examples": [
+          "The frightened horse reared up and unseated its rider.",
+          "I was unseated from my bike after hitting an unexpected pothole."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "To remove (someone) from an office or position , especially a political one; to dethrone .",
+            "examples": [
+              "After having lost her seat to a Tory, she succeeded in unseating him in the next general election.",
+              "India has recently unseated China as the world’s most populous country."
+            ],
+            "synonyms": [
+              "depose",
+              "oust",
+              "overthrow"
+            ],
+            "antonyms": [
+              "appoint",
+              "enthrone",
+              "empower",
+              "install"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To cause (something) to be removed or replaced in its role ; to displace , to overturn .",
+            "examples": [
+              "The Michelson-Morley experiment prompted scientists to unseat their belief in the luminiferous aether .",
+              "Printed newspapers are gradually being unseated by digital publications."
+            ],
+            "synonyms": [
+              "oust",
+              "supersede",
+              "supplant"
+            ],
+            "antonyms": [
+              "confirm",
+              "preserve"
+            ],
+            "subdefinitions": [],
+            "senses": []
+          },
+          {
+            "definition": "To upset the composure of (someone); to astound , to shock , to unsettle .",
+            "examples": [
+              "The Matrix (1999) utterly unseated audiences around the world with its mind-blowing plot twist.",
+              "The Matrix",
+              "I was somewhat unseated by the strange noises outside my window."
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "figuratively"
+        ],
+        "label_groups": "transitive , figuratively"
+      },
+      {
+        "definition": "To come off or out of a seat.",
+        "examples": [
+          "We replaced the screws, since the old ones unseated too easily."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "technical"
+        ],
+        "label_groups": "intransitive , technical"
+      }
+    ],
+    "main_definition": "( transitive ) To dislodge or remove (someone) from a seat , especially on horseback .",
+    "secondary_definitions": [
+      "( transitive , figuratively )",
+      "( intransitive , technical ) To come off or out of a seat."
+    ]
+  }
+]

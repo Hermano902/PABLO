@@ -1,0 +1,82 @@
+[
+  {
+    "word": "fragment",
+    "lemma": "fragment",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈfɹæɡmənt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "fragments",
+          "PT": "fragmented",
+          "PAP": "fragmented",
+          "PRP": "fragmenting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To break apart.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To cause to be broken into pieces.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To break up and disperse (a file) into non-contiguous areas of a disk.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing"
+        ],
+        "label_groups": "transitive , computing"
+      },
+      {
+        "definition": "Of an organism: to undergo the asexual reproduction process where an organism spilts into one or more pieces, then those pieces become new individuals.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "biology"
+        ],
+        "label_groups": "intransitive , biology"
+      }
+    ],
+    "main_definition": "( intransitive ) To break apart.",
+    "secondary_definitions": [
+      "( transitive ) To cause to be broken into pieces.",
+      "( transitive , computing ) To break up and disperse (a file) into non-contiguous areas of a disk.",
+      "( intransitive , biology ) Of an organism: to undergo the asexual reproduction process where an organism spilts into one or more pieces, then those pieces become new individuals."
+    ]
+  }
+]

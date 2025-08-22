@@ -1,0 +1,48 @@
+[
+  {
+    "word": "minutia",
+    "lemma": "minutia",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/maɪˈn(j)uːʃ(iː)ə/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "minutiae"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A minor detail , often of negligible importance .",
+        "examples": [
+          "They spent all their time on minutiae , never making real progress."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Any of the point features on fingerprints used for matching , usually endings and bifurcations of ridges .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biometrics",
+          "forensics"
+        ],
+        "label_groups": "biometrics , forensics"
+      }
+    ],
+    "main_definition": "A minor detail , often of negligible importance .",
+    "secondary_definitions": [
+      "( biometrics , forensics ) Any of the point features on fingerprints used for matching , usually endings and bifurcations of ridges ."
+    ]
+  }
+]

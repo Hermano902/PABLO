@@ -1,0 +1,158 @@
+[
+  {
+    "word": "trailer",
+    "lemma": "trailer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈtɹeɪlə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "trailers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who or something that trails ( follows behind); something that is trailing .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Part of an object which extends some distance beyond the main body of the object.",
+        "examples": [
+          "the trailer of a plant"
+        ],
+        "synonyms": [
+          "appendage",
+          "attachment",
+          "appendix",
+          "extension",
+          "extrusion"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An unpowered wheeled vehicle (not a caravan or camper ) that is towed behind another, and used to carry equipment, etc., that cannot be carried in the leading vehicle.",
+        "examples": [
+          "At the end of the day, we put the snowmobiles back on the trailer ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A furnished vehicle towed behind another, and used as a dwelling when stationary.",
+        "examples": [
+          "We drove our trailer to Yellowstone Park."
+        ],
+        "synonyms": [
+          "camper",
+          "caravan",
+          "travel trailer"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      },
+      {
+        "definition": "A prefabricated home that could be towed to a new destination but is typically permanently left in an area designated for such homes.",
+        "examples": [
+          "The young couple′s first home was in a trailer ."
+        ],
+        "synonyms": [
+          "mobile home"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US"
+        ],
+        "label_groups": "US"
+      },
+      {
+        "definition": "A preview of a film, video game or TV show.",
+        "examples": [
+          "The trailer for that movie makes it seem like it would be fun."
+        ],
+        "synonyms": [
+          "preview",
+          "teaser"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chiefly US",
+          "media"
+        ],
+        "label_groups": "chiefly US , media"
+      },
+      {
+        "definition": "A short blank segment of film at the end of a reel , for convenient insertion of the film in a projector .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The final record of a list of data items, often identified by a key field with an otherwise invalid value that sorts last alphabetically (e.g., “ZZZZZ”) or numerically (“99999”); especially common in the context of punched cards , where the final card is called a trailer card .",
+        "examples": [
+          "The linked list terminates with a trailer record."
+        ],
+        "synonyms": [
+          "sentinel"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The last part of a packet , often containing a check sequence.",
+        "examples": [
+          "The encapsulation layer adds an eight-byte header and a two-byte trailer to each packet."
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "header"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "networking"
+        ],
+        "label_groups": "networking"
+      }
+    ],
+    "main_definition": "Someone who or something that trails ( follows behind); something that is trailing .",
+    "secondary_definitions": [
+      "Part of an object which extends some distance beyond the main body of the object.",
+      "An unpowered wheeled vehicle (not a caravan or camper ) that is towed behind another, and used to carry equipment, etc., that cannot be carried in the leading vehicle.",
+      "( US ) A furnished vehicle towed behind another, and used as a dwelling when stationary.",
+      "( US ) A prefabricated home that could be towed to a new destination but is typically permanently left in an area designated for such homes.",
+      "( chiefly US , media ) A preview of a film, video game or TV show.",
+      "A short blank segment of film at the end of a reel , for convenient insertion of the film in a projector .",
+      "( computing ) The final record of a list of data items, often identified by a key field with an otherwise invalid value that sorts last alphabetically (e.g., “ZZZZZ”) or numerically (“99999”); especially common in the context of punched cards , where the final card is called a trailer card .",
+      "( networking ) The last part of a packet , often containing a check sequence."
+    ]
+  }
+]

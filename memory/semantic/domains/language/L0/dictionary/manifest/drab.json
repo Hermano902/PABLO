@@ -1,0 +1,43 @@
+{
+  "word": "drab",
+  "pos_order": [
+    "N",
+    "ADJ",
+    "N:2",
+    "V",
+    "N:3",
+    "N:4",
+    "N:5",
+    "N:6",
+    "V:2"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 10,
+      "examples": 0,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "ADJ": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 2
+    },
+    "V": {
+      "definitions": 2,
+      "examples": 0,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 8
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\drab.json",
+    "ADJ": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\ADJ\\drab.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\drab.json"
+  },
+  "timestamp": "2025-08-19T02:22:14.932369Z"
+}

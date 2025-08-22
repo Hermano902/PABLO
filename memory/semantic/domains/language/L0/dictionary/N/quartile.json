@@ -1,0 +1,51 @@
+[
+  {
+    "word": "quartile",
+    "lemma": "quartile",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈkwɔː(ɹ)taɪl/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "quartiles"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Any of the three points that divide an ordered distribution into four parts, each containing a quarter of the population .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      },
+      {
+        "definition": "Any one of the four groups so divided.",
+        "examples": [
+          "This school is ranked in the first quartile ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "statistics"
+        ],
+        "label_groups": "statistics"
+      }
+    ],
+    "main_definition": "( statistics ) Any of the three points that divide an ordered distribution into four parts, each containing a quarter of the population .",
+    "secondary_definitions": [
+      "( statistics ) Any one of the four groups so divided."
+    ]
+  }
+]

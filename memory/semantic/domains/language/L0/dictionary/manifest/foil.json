@@ -1,0 +1,34 @@
+{
+  "word": "foil",
+  "pos_order": [
+    "N",
+    "V",
+    "V:2",
+    "N:2",
+    "N:3",
+    "V:3",
+    "V:4",
+    "N:4"
+  ],
+  "pos": {
+    "N": {
+      "definitions": 15,
+      "examples": 1,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "V": {
+      "definitions": 8,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 16
+    }
+  },
+  "files": {
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\foil.json",
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\foil.json"
+  },
+  "timestamp": "2025-08-19T03:54:31.853218Z"
+}

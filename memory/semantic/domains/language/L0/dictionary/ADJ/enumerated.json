@@ -1,0 +1,76 @@
+[
+  {
+    "word": "enumerated",
+    "lemma": "enumerated",
+    "etymology": null,
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more enumerated",
+          "SUP": "most enumerated"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Specified (especially when fully specified) by an enumeration or list of steps, parts, values, amounts, etc.;",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Defined to consist of a specified list of possible values.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Having been included or listed in an enumeration of possibilities.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [
+          {
+            "definition": "Having one of the possible values specified in advance for a type defined by an enumeration.",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": [],
+            "labels": [
+              "computing"
+            ],
+            "label_groups": "computing"
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "Having been specified by a precise numeric value.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Specified (especially when fully specified) by an enumeration or list of steps, parts, values, amounts, etc.;",
+    "secondary_definitions": [
+      "Having been included or listed in an enumeration of possibilities.",
+      "Having been specified by a precise numeric value."
+    ]
+  }
+]

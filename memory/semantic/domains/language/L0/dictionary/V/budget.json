@@ -1,0 +1,73 @@
+[
+  {
+    "word": "budget",
+    "lemma": "budget",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈbʌd͡ʒ.ɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "budgets",
+          "PT": "budgeted",
+          "PAP": "budgeted",
+          "PRP": "budgeting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To construct or draw up a budget.",
+        "examples": [
+          "Budgeting is even harder in times of recession"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To provide funds, allow for in a budget.",
+        "examples": [
+          "The PM’s pet projects are budgeted rather generously"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To plan for the use of in a budget.",
+        "examples": [
+          "The prestigious building project is budgeted in great detail, from warf facilities to the protocollary opening."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( intransitive ) To construct or draw up a budget.",
+    "secondary_definitions": [
+      "( transitive ) To provide funds, allow for in a budget.",
+      "( transitive ) To plan for the use of in a budget."
+    ]
+  }
+]

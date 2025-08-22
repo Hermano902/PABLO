@@ -1,0 +1,76 @@
+[
+  {
+    "word": "bread",
+    "lemma": "bread",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/bɹɛd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "breads",
+          "PT": "breaded",
+          "PAP": "breaded",
+          "PRP": "breading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( transitive ) To coat with breadcrumbs .",
+        "examples": [
+          "breaded fish"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( transitive ) To coat with breadcrumbs .",
+    "secondary_definitions": []
+  },
+  {
+    "word": "bread",
+    "lemma": "bread",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/bɹɛd/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "breads",
+          "PT": "breaded",
+          "PAP": "breaded",
+          "PRP": "breading",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To form in meshes ; net .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To form in meshes ; net .",
+    "secondary_definitions": []
+  }
+]

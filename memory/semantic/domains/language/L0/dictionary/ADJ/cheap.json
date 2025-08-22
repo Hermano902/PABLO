@@ -1,0 +1,137 @@
+[
+  {
+    "word": "cheap",
+    "lemma": "cheap",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/t͡ʃip/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "cheaper",
+          "SUP": "cheapest"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Low or reduced in price .",
+        "examples": [],
+        "synonyms": [
+          "inexpensive",
+          "affordable",
+          "bargain",
+          "good value"
+        ],
+        "antonyms": [
+          "expensive",
+          "dear",
+          "costly",
+          "pricey"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of poor quality .",
+        "examples": [],
+        "synonyms": [
+          "low-quality",
+          "shoddy"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Of little worth .",
+        "examples": [],
+        "synonyms": [
+          "unvaluable"
+        ],
+        "antonyms": [
+          "precious",
+          "valuable",
+          "invaluable",
+          "priceless"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Underhanded or unfair .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "slang",
+          "of an action or tactic in a game of skill"
+        ],
+        "label_groups": "slang , of an action or tactic in a game of skill"
+      },
+      {
+        "definition": "Stingy ; mean ; excessively frugal .",
+        "examples": [
+          "Insurance is expensive, but don't be so cheap that you risk losing your home because of a fire."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal",
+          "chiefly derogatory"
+        ],
+        "label_groups": "informal , chiefly derogatory"
+      },
+      {
+        "definition": "Trading at a price level which is low relative to historical trends, a similar asset, or (for derivatives ) a theoretical value.",
+        "examples": [
+          "The ETF is trading cheap to NAV right now; we can arb this by buying the ETF and selling the underlying constituents."
+        ],
+        "synonyms": [
+          "undervalued",
+          "underpriced"
+        ],
+        "antonyms": [
+          "rich",
+          "overvalued",
+          "overpriced"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "finance"
+        ],
+        "label_groups": "finance"
+      },
+      {
+        "definition": "Taking little of system time or resources.",
+        "examples": [
+          "the algorithm is cheap to compute"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Low or reduced in price .",
+    "secondary_definitions": [
+      "Of poor quality .",
+      "Of little worth .",
+      "( slang , of an action or tactic in a game of skill ) Underhanded or unfair .",
+      "( informal , chiefly derogatory ) Stingy ; mean ; excessively frugal .",
+      "( finance ) Trading at a price level which is low relative to historical trends, a similar asset, or (for derivatives ) a theoretical value.",
+      "( computing ) Taking little of system time or resources."
+    ]
+  }
+]

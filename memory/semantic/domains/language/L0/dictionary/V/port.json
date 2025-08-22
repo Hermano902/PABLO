@@ -1,0 +1,147 @@
+[
+  {
+    "word": "port",
+    "lemma": "port",
+    "etymology": "Etymology 1",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/pɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ports",
+          "PT": "ported",
+          "PAP": "ported",
+          "PRP": "porting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( nautical , transitive , chiefly imperative ) To turn or put to the left or larboard side of a ship ; said of the helm .",
+        "examples": [
+          "Port your helm!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "( nautical ) To dock at a port.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( nautical , transitive , chiefly imperative ) To turn or put to the left or larboard side of a ship ; said of the helm .",
+    "secondary_definitions": [
+      "( nautical ) To dock at a port."
+    ]
+  },
+  {
+    "word": "port",
+    "lemma": "port",
+    "etymology": "Etymology 3",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 2,
+    "pronunciation": "/pɔːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ports",
+          "PT": "ported",
+          "PAP": "ported",
+          "PRP": "porting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To carry, bear, bring, or transport . See porter .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To hold or carry (a weapon ) with both hands so that it lies diagonally across the front of the body, with the barrel or similar part near the left shoulder and the right hand grasping the small of the stock; or, to throw (the weapon) into this position on command.",
+        "examples": [
+          "Port arms!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To adapt , modify , or recode to work on a different platform .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "computing",
+          "video games"
+        ],
+        "label_groups": "transitive , computing , video games"
+      },
+      {
+        "definition": "To carry or transfer (an existing telephone number ) from one service provider to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ergative",
+          "telephony"
+        ],
+        "label_groups": "ergative , telephony"
+      },
+      {
+        "definition": "To transfer a voucher or subsidy from one jurisdiction to another.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "US",
+          "government",
+          "law"
+        ],
+        "label_groups": "US , government and law"
+      }
+    ],
+    "main_definition": "( transitive ) To carry, bear, bring, or transport . See porter .",
+    "secondary_definitions": [
+      "( transitive , military ) To hold or carry (a weapon ) with both hands so that it lies diagonally across the front of the body, with the barrel or similar part near the left shoulder and the right hand grasping the small of the stock; or, to throw (the weapon) into this position on command.",
+      "( transitive , computing , video games ) To adapt , modify , or recode to work on a different platform .",
+      "( ergative , telephony ) To carry or transfer (an existing telephone number ) from one service provider to another.",
+      "( US , government and law ) To transfer a voucher or subsidy from one jurisdiction to another."
+    ]
+  }
+]

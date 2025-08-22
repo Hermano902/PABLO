@@ -1,0 +1,97 @@
+[
+  {
+    "word": "tunnel",
+    "lemma": "tunnel",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈtʌn(ə)l/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "tunnels",
+          "PT": "tunnelled",
+          "PAP": "tunnelled",
+          "PRP": "tunnelling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make a tunnel through or under something; to burrow.",
+        "examples": [],
+        "synonyms": [
+          "undermine"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To dig a tunnel.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To transmit something through a tunnel (wrapper for an insecure or unsupported protocol).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "networking"
+        ],
+        "label_groups": "computing , networking"
+      },
+      {
+        "definition": "To insert a catheter into a vein to allow long-term use.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "medicine"
+        ],
+        "label_groups": "transitive , medicine"
+      },
+      {
+        "definition": "To undergo the quantum-mechanical phenomenon where a particle penetrates through a barrier that it classically cannot surmount.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "physics"
+        ],
+        "label_groups": "physics"
+      }
+    ],
+    "main_definition": "( transitive ) To make a tunnel through or under something; to burrow.",
+    "secondary_definitions": [
+      "( intransitive ) To dig a tunnel.",
+      "( computing , networking ) To transmit something through a tunnel (wrapper for an insecure or unsupported protocol).",
+      "( transitive , medicine ) To insert a catheter into a vein to allow long-term use.",
+      "( physics ) To undergo the quantum-mechanical phenomenon where a particle penetrates through a barrier that it classically cannot surmount."
+    ]
+  }
+]

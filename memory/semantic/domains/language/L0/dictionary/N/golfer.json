@@ -1,0 +1,45 @@
+[
+  {
+    "word": "golfer",
+    "lemma": "golfer",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈɡɒlfə(ɹ)/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "golfers"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Someone who plays golf .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "One who takes part in code golf or regex golf .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Someone who plays golf .",
+    "secondary_definitions": [
+      "( computing ) One who takes part in code golf or regex golf ."
+    ]
+  }
+]

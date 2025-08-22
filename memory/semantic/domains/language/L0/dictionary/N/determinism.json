@@ -1,0 +1,55 @@
+[
+  {
+    "word": "determinism",
+    "lemma": "determinism",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈtɜːmɪnɪzəm/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "determinisms"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The doctrine that all actions are determined by the current state and immutable laws of the universe, with no possibility of choice .",
+        "examples": [],
+        "synonyms": [
+          "fatalism"
+        ],
+        "antonyms": [
+          "indeterminism"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "The property of having behavior determined only by initial state and input.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "indeterminism"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( philosophy ) The doctrine that all actions are determined by the current state and immutable laws of the universe, with no possibility of choice .",
+    "secondary_definitions": [
+      "( computing ) The property of having behavior determined only by initial state and input."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "word": "osculatrix",
+    "lemma": "osculatrix",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "osculatrices"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A curve whose contact with a given curve at a given point is of a higher order (or involves the equality of a greater number of successive differential coefficients of the ordinates of the curves taken at that point) than that of any other curve of the same kind.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      }
+    ],
+    "main_definition": "( geometry ) A curve whose contact with a given curve at a given point is of a higher order (or involves the equality of a greater number of successive differential coefficients of the ordinates of the curves taken at that point) than that of any other curve of the same kind.",
+    "secondary_definitions": []
+  }
+]

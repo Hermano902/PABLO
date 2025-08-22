@@ -1,0 +1,88 @@
+[
+  {
+    "word": "exact",
+    "lemma": "exact",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈzækt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more exact",
+          "SUP": "most exact"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Precisely agreeing with a standard , a fact , or the truth ; perfectly conforming ; neither exceeding nor falling short in any respect.",
+        "examples": [
+          "The clock keeps exact time.",
+          "He paid the exact debt.",
+          "an exact copy of a letter",
+          "exact accounts"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Habitually careful to agree with a standard, a rule , or a promise ; accurate; methodical ; punctual .",
+        "examples": [
+          "a man exact in observing an appointment",
+          "In my doings I was exact ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Precisely or definitely conceived or stated; strict .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Such that the kernel of each morphism is the image of the preceding one.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "homological algebra",
+          "of a sequence of morphisms in an abelian category"
+        ],
+        "label_groups": "not comparable , homological algebra , of a sequence of morphisms in an abelian category"
+      },
+      {
+        "definition": "Such that it preserves short exact sequences .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "not comparable",
+          "homological algebra",
+          "of a functor of abelian categories"
+        ],
+        "label_groups": "not comparable , homological algebra , of a functor of abelian categories"
+      }
+    ],
+    "main_definition": "Precisely agreeing with a standard , a fact , or the truth ; perfectly conforming ; neither exceeding nor falling short in any respect.",
+    "secondary_definitions": [
+      "Habitually careful to agree with a standard, a rule , or a promise ; accurate; methodical ; punctual .",
+      "Precisely or definitely conceived or stated; strict .",
+      "( not comparable , homological algebra , of a sequence of morphisms in an abelian category ) Such that the kernel of each morphism is the image of the preceding one.",
+      "( not comparable , homological algebra , of a functor of abelian categories ) Such that it preserves short exact sequences ."
+    ]
+  }
+]

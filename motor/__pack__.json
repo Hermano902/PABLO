@@ -1,0 +1,12 @@
+{
+  "id": "actuators.pack",
+  "kind": "pack",
+  "entry": "io.actuators.__pack__:run",
+  "accepts": [
+    "COG/PLAN/*"
+  ],
+  "emits": [
+    "ACT/*"
+  ],
+  "enable": true
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "word": "adverb",
+    "lemma": "adverb",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæd.vɜːb/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "adverbs"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A word that modifies a verb , adjective , other adverbs, or various other types of words, phrases , or clauses .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      },
+      {
+        "definition": "In the Raku programming language , a named parameter that modifies the behavior of a routine .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( grammar ) A word that modifies a verb , adjective , other adverbs, or various other types of words, phrases , or clauses .",
+    "secondary_definitions": [
+      "( programming ) In the Raku programming language , a named parameter that modifies the behavior of a routine ."
+    ]
+  }
+]

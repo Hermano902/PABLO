@@ -1,0 +1,30 @@
+{
+  "word": "kick",
+  "pos_order": [
+    "V",
+    "N",
+    "V:2",
+    "V:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 16,
+      "examples": 8,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 12
+    },
+    "N": {
+      "definitions": 15,
+      "examples": 7,
+      "synonyms": 1,
+      "antonyms": 0,
+      "inflections": 1
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\kick.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\kick.json"
+  },
+  "timestamp": "2025-08-19T07:00:04.858656Z"
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "remote",
+    "lemma": "remote",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "[ɹɪˈməʊt]",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "remotes"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Ellipsis of remote control .",
+        "examples": [
+          "I hate it when my uncle comes over to visit; he always sits in the best chair and hogs the remote ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "An element of broadcast programming originating away from the station's or show's control room.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "broadcasting"
+        ],
+        "label_groups": "broadcasting"
+      },
+      {
+        "definition": "A source control repository hosted on a remote machine, rather than locally .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "Ellipsis of remote control .",
+    "secondary_definitions": [
+      "( broadcasting ) An element of broadcast programming originating away from the station's or show's control room.",
+      "( computing ) A source control repository hosted on a remote machine, rather than locally ."
+    ]
+  }
+]

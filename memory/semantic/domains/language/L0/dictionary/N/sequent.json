@@ -1,0 +1,71 @@
+[
+  {
+    "word": "sequent",
+    "lemma": "sequent",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈsiːkwənt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "sequents"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Something that follows in a given sequence .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "A disjunctive set of logical formulae which is partitioned into two subsets; the first subset, called the antecedent , consists of formulae which are valuated as false, and the second subset, called the succedent , consists of formulae which are valuated as true. (The set is written without set brackets and the separation between the two subsets is denoted by a turnstile symbol, which may be read \"give(s)\".)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "A follower .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "A sequential calculus",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      }
+    ],
+    "main_definition": "Something that follows in a given sequence .",
+    "secondary_definitions": [
+      "( logic ) A disjunctive set of logical formulae which is partitioned into two subsets; the first subset, called the antecedent , consists of formulae which are valuated as false, and the second subset, called the succedent , consists of formulae which are valuated as true. (The set is written without set brackets and the separation between the two subsets is denoted by a turnstile symbol, which may be read \"give(s)\".)",
+      "( obsolete ) A follower .",
+      "( mathematics ) A sequential calculus"
+    ]
+  }
+]

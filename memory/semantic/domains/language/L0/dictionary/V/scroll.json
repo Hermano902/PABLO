@@ -1,0 +1,92 @@
+[
+  {
+    "word": "scroll",
+    "lemma": "scroll",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/skɹoʊl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "scrolls",
+          "PT": "scrolled",
+          "PAP": "scrolled",
+          "PRP": "scrolling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To change one's view of data on a computer's display by moving in gradual increments, typically using an input device or touch screen .",
+        "examples": [
+          "She scrolled the offending image out of view.",
+          "She kept scrolling until she found the desired paragraph."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "computing",
+          "graphical user interface"
+        ],
+        "label_groups": "ambitransitive , computing , graphical user interface"
+      },
+      {
+        "definition": "To move in or out of view horizontally or vertically.",
+        "examples": [
+          "The rising credits slowly scrolled off the screen."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To flood a chat system with numerous lines of text , causing legitimate messages to scroll out of view before they can be read.",
+        "examples": [
+          "Hey, stop scrolling !"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "Internet",
+          "intransitive",
+          "dated"
+        ],
+        "label_groups": "Internet , intransitive , dated"
+      },
+      {
+        "definition": "To draft ; to write in rough outline .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete",
+          "transitive"
+        ],
+        "label_groups": "obsolete , transitive"
+      }
+    ],
+    "main_definition": "( ambitransitive , computing , graphical user interface ) To change one's view of data on a computer's display by moving in gradual increments, typically using an input device or touch screen .",
+    "secondary_definitions": [
+      "( intransitive ) To move in or out of view horizontally or vertically.",
+      "( Internet , intransitive , dated ) To flood a chat system with numerous lines of text , causing legitimate messages to scroll out of view before they can be read.",
+      "( obsolete , transitive ) To draft ; to write in rough outline ."
+    ]
+  }
+]

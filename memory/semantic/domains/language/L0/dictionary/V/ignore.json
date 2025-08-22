@@ -1,0 +1,95 @@
+[
+  {
+    "word": "ignore",
+    "lemma": "ignore",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ɪɡˈnɔː/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "ignores",
+          "PT": "ignored",
+          "PAP": "ignored",
+          "PRP": "ignoring",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To deliberately not listen or pay attention to.",
+        "examples": [
+          "A problem ignored is a problem doubled."
+        ],
+        "synonyms": [
+          "disregard",
+          "neglect"
+        ],
+        "antonyms": [
+          "notice",
+          "recognize",
+          "watch"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To pretend to not notice someone or something.",
+        "examples": [],
+        "synonyms": [
+          "overlook",
+          "turn a blind eye",
+          "wink",
+          "connive"
+        ],
+        "antonyms": [
+          "notice",
+          "observe"
+        ],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Fail to notice.",
+        "examples": [],
+        "synonyms": [
+          "overlook"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      },
+      {
+        "definition": "Not to know.",
+        "examples": [],
+        "synonyms": [
+          "ignorant"
+        ],
+        "antonyms": [
+          "know"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "To deliberately not listen or pay attention to.",
+    "secondary_definitions": [
+      "To pretend to not notice someone or something.",
+      "( obsolete ) Fail to notice.",
+      "( obsolete ) Not to know."
+    ]
+  }
+]

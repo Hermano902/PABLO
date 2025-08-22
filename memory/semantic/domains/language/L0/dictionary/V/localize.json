@@ -1,0 +1,125 @@
+[
+  {
+    "word": "localize",
+    "lemma": "localize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈləʊkəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "localizes",
+          "PT": "localized",
+          "PAP": "localized",
+          "PRP": "localizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To make local ; to fix in, or assign to, a definite place.",
+        "examples": [
+          "The intent of the aphorism \"think globally, act locally\" was to spur action by localizing the challenge."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To adapt (a product or service) for use in a particular country or region, typically by translating text into the language of that country and modifying currencies, date formats, etc.",
+        "examples": [
+          "We need to localize our software for the Japanese market."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "software engineering",
+          "marketing",
+          "transitive"
+        ],
+        "label_groups": "software engineering , marketing , transitive"
+      },
+      {
+        "definition": "To adapt translated text to fit a local culture; to domesticate .",
+        "examples": [
+          "the ethical dilemma faced when to localize is to self-censor"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "translation studies",
+          "chiefly software",
+          "marketing"
+        ],
+        "label_groups": "translation studies , chiefly software , marketing"
+      },
+      {
+        "definition": "To be located in or confined to; to fix upon or sequester in a locality.",
+        "examples": [
+          "After a brief systemic phase defeated by the immune system, the infection localized to certain areas where it went dormant."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "often with to"
+        ],
+        "label_groups": "intransitive , often with to"
+      },
+      {
+        "definition": "To determine where something takes place or is to be found.",
+        "examples": [
+          "After exploratory surgery, the extent of the problem was localized to the left lower quadrant."
+        ],
+        "synonyms": [
+          "locate"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "sometimes proscribed"
+        ],
+        "label_groups": "transitive , sometimes proscribed"
+      },
+      {
+        "definition": "To produce (from a ring and an ideal in that ring) the ring of fractions , where the set of allowed denominators is the compliment of the given ideal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "transitive"
+        ],
+        "label_groups": "algebra , transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To make local ; to fix in, or assign to, a definite place.",
+    "secondary_definitions": [
+      "( software engineering , marketing , transitive ) To adapt (a product or service) for use in a particular country or region, typically by translating text into the language of that country and modifying currencies, date formats, etc.",
+      "( translation studies , chiefly software , marketing ) To adapt translated text to fit a local culture; to domesticate .",
+      "( intransitive , often with to ) To be located in or confined to; to fix upon or sequester in a locality.",
+      "( transitive , sometimes proscribed ) To determine where something takes place or is to be found.",
+      "( algebra , transitive ) To produce (from a ring and an ideal in that ring) the ring of fractions , where the set of allowed denominators is the compliment of the given ideal."
+    ]
+  }
+]

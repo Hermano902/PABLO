@@ -1,0 +1,76 @@
+[
+  {
+    "word": "construct",
+    "lemma": "construct",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkɒn.stɹʌkt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "constructs",
+          "PT": "constructed",
+          "PAP": "constructed",
+          "PRP": "constructing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To build or form (something) by assembling parts .",
+        "examples": [
+          "We constructed the radio from spares.",
+          "A wall constructed of random stones."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To build (a sentence , an argument , etc.) by arranging words or ideas .",
+        "examples": [
+          "A sentence may be constructed with a subject, verb and object."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "grammar"
+        ],
+        "label_groups": "transitive , grammar"
+      },
+      {
+        "definition": "To draw (a geometric figure ) by following precise specifications and using geometric tools and techniques.",
+        "examples": [
+          "Construct a circle that touches each vertex of the given triangle."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "geometry"
+        ],
+        "label_groups": "transitive , geometry"
+      }
+    ],
+    "main_definition": "( transitive ) To build or form (something) by assembling parts .",
+    "secondary_definitions": [
+      "( transitive , grammar ) To build (a sentence , an argument , etc.) by arranging words or ideas .",
+      "( transitive , geometry ) To draw (a geometric figure ) by following precise specifications and using geometric tools and techniques."
+    ]
+  }
+]

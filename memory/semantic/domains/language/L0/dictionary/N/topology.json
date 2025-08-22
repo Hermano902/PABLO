@@ -1,0 +1,118 @@
+[
+  {
+    "word": "topology",
+    "lemma": "topology",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/təˈpɒləd͡ʒi/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "topologies"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The branch of mathematics dealing with those properties of a geometrical object (of arbitrary dimensionality) that are unchanged by continuous deformations (such as stretching , bending , etc., without tearing or gluing).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "uncountable"
+        ],
+        "label_groups": "mathematics , uncountable"
+      },
+      {
+        "definition": "Any collection τ of subsets of a given set X that contains both the empty set and X , and which is closed under finitary intersections and arbitrary unions .",
+        "examples": [
+          "A set X {\\displaystyle X} equipped with a topology τ {\\displaystyle \\tau } is called a topological space and denoted ( X , τ ) {\\displaystyle (X,\\tau )} .",
+          "The subsets of a set X {\\displaystyle X} which constitute a topology are called the open sets of X {\\displaystyle X} ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topology"
+        ],
+        "label_groups": "topology"
+      },
+      {
+        "definition": "The anatomical structure of part of the body.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "medicine"
+        ],
+        "label_groups": "medicine"
+      },
+      {
+        "definition": "The arrangement of nodes in a communications network .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The properties of a particular technological embodiment that are not affected by differences in the physical layout or form of its application.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "technology"
+        ],
+        "label_groups": "technology"
+      },
+      {
+        "definition": "The topographical study of geographic locations or given places in relation to their history.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "topography"
+        ],
+        "label_groups": "topography"
+      },
+      {
+        "definition": "The art of, or method for, assisting the memory by associating the thing or subject to be remembered with some place.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "dated"
+        ],
+        "label_groups": "dated"
+      }
+    ],
+    "main_definition": "( mathematics , uncountable ) The branch of mathematics dealing with those properties of a geometrical object (of arbitrary dimensionality) that are unchanged by continuous deformations (such as stretching , bending , etc., without tearing or gluing).",
+    "secondary_definitions": [
+      "( topology ) Any collection τ of subsets of a given set X that contains both the empty set and X , and which is closed under finitary intersections and arbitrary unions .",
+      "( medicine ) The anatomical structure of part of the body.",
+      "( computing ) The arrangement of nodes in a communications network .",
+      "( technology ) The properties of a particular technological embodiment that are not affected by differences in the physical layout or form of its application.",
+      "( topography ) The topographical study of geographic locations or given places in relation to their history.",
+      "( dated ) The art of, or method for, assisting the memory by associating the thing or subject to be remembered with some place."
+    ]
+  }
+]

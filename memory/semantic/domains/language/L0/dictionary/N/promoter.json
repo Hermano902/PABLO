@@ -1,0 +1,74 @@
+[
+  {
+    "word": "promoter",
+    "lemma": "promoter",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/pɹəˈmoʊtɚ/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "promoters"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "One who promotes .",
+        "examples": [
+          "a promoter of seditious ideas"
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "detractor"
+        ],
+        "subdefinitions": [
+          {
+            "definition": "One who promotes entertainment events or goods.",
+            "examples": [
+              "a music promoter",
+              "events promoter"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "subdefinitions": [],
+            "senses": []
+          }
+        ],
+        "senses": []
+      },
+      {
+        "definition": "The section of DNA that controls the initiation of RNA transcription as a product of a gene.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "genetics"
+        ],
+        "label_groups": "genetics"
+      },
+      {
+        "definition": "An accelerator of catalysis that is not itself a catalyst.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "chemistry"
+        ],
+        "label_groups": "chemistry"
+      }
+    ],
+    "main_definition": "One who promotes .",
+    "secondary_definitions": [
+      "( genetics ) The section of DNA that controls the initiation of RNA transcription as a product of a gene.",
+      "( chemistry ) An accelerator of catalysis that is not itself a catalyst."
+    ]
+  }
+]

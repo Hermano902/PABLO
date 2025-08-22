@@ -1,0 +1,30 @@
+{
+  "word": "kill",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 18,
+      "examples": 16,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 7,
+      "examples": 7,
+      "synonyms": 0,
+      "antonyms": 0,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\kill.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\kill.json"
+  },
+  "timestamp": "2025-08-19T07:01:10.832754Z"
+}

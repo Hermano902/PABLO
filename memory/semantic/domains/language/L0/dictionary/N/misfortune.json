@@ -1,0 +1,68 @@
+[
+  {
+    "word": "misfortune",
+    "lemma": "misfortune",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/mɪsˈfɔɹt͡ʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "misfortunes"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "Bad luck .",
+        "examples": [
+          "The worst tour I have ever had the misfortune to experience."
+        ],
+        "synonyms": [
+          "mishap",
+          "misluck",
+          "mischance"
+        ],
+        "antonyms": [
+          "fortune",
+          "good fortune",
+          "good luck",
+          "luck"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An undesirable event such as an accident .",
+        "examples": [
+          "She had to come to terms with a number of misfortunes ."
+        ],
+        "synonyms": [
+          "adversity",
+          "mishap"
+        ],
+        "antonyms": [
+          "fortuity"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable ) Bad luck .",
+    "secondary_definitions": [
+      "( countable ) An undesirable event such as an accident ."
+    ]
+  }
+]

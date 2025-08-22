@@ -1,0 +1,132 @@
+[
+  {
+    "word": "infiltrate",
+    "lemma": "infiltrate",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈɪnfɪltɹeɪt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "infiltrates",
+          "PT": "infiltrated",
+          "PAP": "infiltrated",
+          "PRP": "infiltrating",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To surreptitiously penetrate , enter or gain access to.",
+        "examples": [
+          "The spy infiltrated the high-tech company and stole many secrets."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive"
+        ],
+        "label_groups": "ambitransitive"
+      },
+      {
+        "definition": "To cause to penetrate in this way.",
+        "examples": [
+          "The agency infiltrated several spies into the company."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To pass through something by filtration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "of a liquid"
+        ],
+        "label_groups": "ambitransitive , of a liquid"
+      },
+      {
+        "definition": "To cause (a liquid) to pass through something by filtration .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To invade or penetrate a tissue or organ .",
+        "examples": [
+          "High-grade tumors often infiltrate surrounding structures.",
+          "In certain conditions, immune cells may infiltrate into the cerebrospinal fluid ."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ambitransitive",
+          "medicine"
+        ],
+        "label_groups": "ambitransitive , medicine"
+      },
+      {
+        "definition": "To send (soldiers, spies , etc.) through gaps in the enemy line.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [
+          "exfiltrate"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "military"
+        ],
+        "label_groups": "transitive , military"
+      },
+      {
+        "definition": "To move from a vein , remaining in the body.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive",
+          "of an intravenous needle"
+        ],
+        "label_groups": "intransitive , of an intravenous needle"
+      }
+    ],
+    "main_definition": "( ambitransitive ) To surreptitiously penetrate , enter or gain access to.",
+    "secondary_definitions": [
+      "( transitive ) To cause to penetrate in this way.",
+      "( ambitransitive , of a liquid ) To pass through something by filtration .",
+      "( transitive ) To cause (a liquid) to pass through something by filtration .",
+      "( ambitransitive , medicine ) To invade or penetrate a tissue or organ .",
+      "( transitive , military ) To send (soldiers, spies , etc.) through gaps in the enemy line.",
+      "( intransitive , of an intravenous needle ) To move from a vein , remaining in the body."
+    ]
+  }
+]

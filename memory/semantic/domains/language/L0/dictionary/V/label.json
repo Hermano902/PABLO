@@ -1,0 +1,84 @@
+[
+  {
+    "word": "label",
+    "lemma": "label",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈleɪbəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "labels",
+          "PT": "labelled",
+          "PAP": "labelled",
+          "PRP": "labelling",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To put a label (a ticket or sign) on (something).",
+        "examples": [
+          "The shop assistant labeled all the products in the shop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To give a label to (someone or something) in order to categorise that person or thing.",
+        "examples": [
+          "He's been unfairly labeled as a cheat, although he's only ever cheated once."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "ditransitive"
+        ],
+        "label_groups": "ditransitive"
+      },
+      {
+        "definition": "To replace specific atoms by their isotope in order to track the presence or movement of this isotope through a reaction, metabolic pathway or cell.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      },
+      {
+        "definition": "To add a detectable substance, either transiently or permanently, to a biological substance in order to track the presence of the label-substance combination either in situ or in vitro",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "biochemistry"
+        ],
+        "label_groups": "biochemistry"
+      }
+    ],
+    "main_definition": "( transitive ) To put a label (a ticket or sign) on (something).",
+    "secondary_definitions": [
+      "( ditransitive ) To give a label to (someone or something) in order to categorise that person or thing.",
+      "( biochemistry ) To replace specific atoms by their isotope in order to track the presence or movement of this isotope through a reaction, metabolic pathway or cell.",
+      "( biochemistry ) To add a detectable substance, either transiently or permanently, to a biological substance in order to track the presence of the label-substance combination either in situ or in vitro"
+    ]
+  }
+]

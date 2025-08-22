@@ -1,0 +1,37 @@
+[
+  {
+    "word": "mixin",
+    "lemma": "mixin",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɪksɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "mixins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "An uninstantiable class that provides functionality to be inherited by a subclass .",
+        "examples": [
+          "Traits are somewhat between an interface and a mixin , as an interface contains only method signatures, while a trait includes also the full method definitions; on the other side mixins include method definitions, but they can also carry state through attributes, while traits usually don't."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "object-oriented programming"
+        ],
+        "label_groups": "object-oriented programming"
+      }
+    ],
+    "main_definition": "( object-oriented programming ) An uninstantiable class that provides functionality to be inherited by a subclass .",
+    "secondary_definitions": []
+  }
+]

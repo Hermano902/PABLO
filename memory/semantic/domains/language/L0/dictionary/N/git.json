@@ -1,0 +1,88 @@
+[
+  {
+    "word": "git",
+    "lemma": "git",
+    "etymology": "Etymology 1",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɡɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "( British , Ireland , slang , derogatory ) A silly , incompetent , stupid , or annoying person (usually a man).",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( British , Ireland , slang , derogatory ) A silly , incompetent , stupid , or annoying person (usually a man).",
+    "secondary_definitions": []
+  },
+  {
+    "word": "git",
+    "lemma": "git",
+    "etymology": "Etymology 3",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 2,
+    "pronunciation": "/ɡɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "gits"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Alternative form of geat (channel in metal casting)",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "Alternative form of geat (channel in metal casting)",
+    "secondary_definitions": []
+  },
+  {
+    "word": "git",
+    "lemma": "git",
+    "etymology": "Etymology 4",
+    "pos": "N",
+    "raw_label": "Proper noun",
+    "pos_index": 3,
+    "pronunciation": "/ɡɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH"
+    },
+    "definitions": [
+      {
+        "definition": "Alternative letter-case form of Git , a distributed VCS .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( computing ) Alternative letter-case form of Git , a distributed VCS .",
+    "secondary_definitions": []
+  }
+]

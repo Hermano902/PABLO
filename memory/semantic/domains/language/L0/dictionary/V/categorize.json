@@ -1,0 +1,42 @@
+[
+  {
+    "word": "categorize",
+    "lemma": "categorize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈkætɪɡəˌɹaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "categorizes",
+          "PT": "categorized",
+          "PAP": "categorized",
+          "PRP": "categorizing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To assign a category ; to divide into classes .",
+        "examples": [
+          "First, categorize incoming messages according to the needed actions."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To assign a category ; to divide into classes .",
+    "secondary_definitions": []
+  }
+]

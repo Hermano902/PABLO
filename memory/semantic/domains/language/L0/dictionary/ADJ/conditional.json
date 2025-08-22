@@ -1,0 +1,64 @@
+[
+  {
+    "word": "conditional",
+    "lemma": "conditional",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/kənˈdɪʃ.ə.nəl/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Limited by a condition .",
+        "examples": [
+          "I made my son a conditional promise: I would buy him a bike if he kept his room tidy."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Stating that one sentence is true if another is true.",
+        "examples": [
+          "\"A implies B\" is a conditional statement."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "logic"
+        ],
+        "label_groups": "logic"
+      },
+      {
+        "definition": "Expressing a condition or supposition.",
+        "examples": [
+          "a conditional word, mode, or tense"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "grammar"
+        ],
+        "label_groups": "grammar"
+      }
+    ],
+    "main_definition": "Limited by a condition .",
+    "secondary_definitions": [
+      "( logic ) Stating that one sentence is true if another is true.",
+      "( grammar ) Expressing a condition or supposition."
+    ]
+  }
+]

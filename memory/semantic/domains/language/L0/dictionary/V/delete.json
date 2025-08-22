@@ -1,0 +1,81 @@
+[
+  {
+    "word": "delete",
+    "lemma": "delete",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈliːt/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "deletes",
+          "PT": "deleted",
+          "PAP": "deleted",
+          "PRP": "deleting",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To remove , get rid of or erase , especially written or printed material , or data on a computer or other device .",
+        "examples": [],
+        "synonyms": [
+          "erase",
+          "clear",
+          "strike",
+          "terminate",
+          "remove"
+        ],
+        "antonyms": [
+          "insert",
+          "maintain",
+          "restore",
+          "stet"
+        ],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive",
+        "dating_raw": "from 1600s"
+      },
+      {
+        "definition": "To defeat or dominate.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "online gaming",
+          "slang"
+        ],
+        "label_groups": "online gaming , slang"
+      },
+      {
+        "definition": "To kill or murder .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive",
+          "slang"
+        ],
+        "label_groups": "transitive , slang"
+      }
+    ],
+    "main_definition": "( transitive ) To remove , get rid of or erase , especially written or printed material , or data on a computer or other device . [from 1600s]",
+    "secondary_definitions": [
+      "( online gaming , slang ) To defeat or dominate.",
+      "( transitive , slang ) To kill or murder ."
+    ]
+  }
+]

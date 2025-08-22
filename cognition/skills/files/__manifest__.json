@@ -1,0 +1,16 @@
+{
+  "id": "skill.files",
+  "kind": "skill",
+  "entry": "cognition.skills.files.main:run",
+  "accepts": [
+    "EYE/*",
+    "EAR/*",
+    "SYS/*",
+    "COG/CONTEXT/*"
+  ],
+  "emits": [
+    "COG/REASON/OPTIONS",
+    "COG/PLAN/PROPOSAL"
+  ],
+  "enable": true
+}

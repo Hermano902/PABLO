@@ -1,0 +1,88 @@
+[
+  {
+    "word": "divorce",
+    "lemma": "divorce",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈvɔːs/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "divorces",
+          "PT": "divorced",
+          "PAP": "divorced",
+          "PRP": "divorcing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To legally dissolve a marriage between two people.",
+        "examples": [
+          "A ship captain can marry couples, but cannot divorce them."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To end one's own marriage to (a person) in this way.",
+        "examples": [
+          "Lucy divorced Steve when she discovered that he had been unfaithful."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      },
+      {
+        "definition": "To obtain a legal divorce.",
+        "examples": [
+          "Edna and Simon divorced last year; he got the house, and she retained the business."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To separate something that was connected.",
+        "examples": [
+          "The radical group voted to divorce itself from the main faction and start an independent movement."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "transitive"
+        ],
+        "label_groups": "transitive"
+      }
+    ],
+    "main_definition": "( transitive ) To legally dissolve a marriage between two people.",
+    "secondary_definitions": [
+      "( transitive ) To end one's own marriage to (a person) in this way.",
+      "( intransitive ) To obtain a legal divorce.",
+      "( transitive ) To separate something that was connected."
+    ]
+  }
+]

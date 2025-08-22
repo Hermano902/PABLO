@@ -1,0 +1,108 @@
+[
+  {
+    "word": "instruction",
+    "lemma": "instruction",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪnˈstɹʌkʃən/",
+    "forms": {
+      "COUNTABILITY": "UN",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "instructions"
+        }
+      },
+      "countable_variant": true
+    },
+    "definitions": [
+      {
+        "definition": "The act of instructing , teaching , or providing with information or knowledge .",
+        "examples": [
+          "Students receive instruction in the arts and sciences.",
+          "Instruction will be provided on how to handle difficult customers."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable"
+        ],
+        "label_groups": "uncountable"
+      },
+      {
+        "definition": "An instance of the information or knowledge so furnished.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "An order or command .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      },
+      {
+        "definition": "A set of directions provided by a manufacturer for the users of a product or service.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "in the plural"
+        ],
+        "label_groups": "in the plural"
+      },
+      {
+        "definition": "The directions given by a client to their lawyer in relation to a particular legal matter , which govern the purpose and scope of their work.",
+        "examples": [
+          "I cannot act until I have taken instructions from my client."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "law",
+          "in the plural"
+        ],
+        "label_groups": "law , in the plural"
+      },
+      {
+        "definition": "A single operation of a processor defined by an instruction set architecture.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      }
+    ],
+    "main_definition": "( uncountable ) The act of instructing , teaching , or providing with information or knowledge .",
+    "secondary_definitions": [
+      "( countable ) An instance of the information or knowledge so furnished.",
+      "( countable ) An order or command .",
+      "( in the plural ) A set of directions provided by a manufacturer for the users of a product or service.",
+      "( law , in the plural ) The directions given by a client to their lawyer in relation to a particular legal matter , which govern the purpose and scope of their work.",
+      "( computing ) A single operation of a processor defined by an instruction set architecture."
+    ]
+  }
+]

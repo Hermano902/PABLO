@@ -1,0 +1,69 @@
+[
+  {
+    "word": "cubic",
+    "lemma": "cubic",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈkjuː.bɪk/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Used in the names of units of volume formed by multiplying a unit of length by itself twice.",
+        "examples": [
+          "cubic foot"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "Relating to polynomials of the form a x 3 + b x 2 + c x + d {\\displaystyle ax^{3}+bx^{2}+cx+d} .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics"
+        ],
+        "label_groups": "mathematics"
+      },
+      {
+        "definition": "Having three equal axes and all angles 90°.",
+        "examples": [
+          "cubic cleavage"
+        ],
+        "synonyms": [
+          "isometric",
+          "monometric"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "crystallography"
+        ],
+        "label_groups": "crystallography"
+      }
+    ],
+    "main_definition": "( geometry ) Used in the names of units of volume formed by multiplying a unit of length by itself twice.",
+    "secondary_definitions": [
+      "( mathematics ) Relating to polynomials of the form a x 3 + b x 2 + c x + d {\\displaystyle ax^{3}+bx^{2}+cx+d} .",
+      "( crystallography ) Having three equal axes and all angles 90°."
+    ]
+  }
+]

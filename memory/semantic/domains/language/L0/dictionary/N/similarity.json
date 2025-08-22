@@ -1,0 +1,72 @@
+[
+  {
+    "word": "similarity",
+    "lemma": "similarity",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˌsɪm.ɪˈlæɹ.ɪ.ti/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "similarities"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Closeness of appearance to something else.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The relation of sharing properties .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "philosophy"
+        ],
+        "label_groups": "philosophy"
+      },
+      {
+        "definition": "A transformation (of a Euclidean space ) that preserves angles and the ratios of distances",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "geometry"
+        ],
+        "label_groups": "geometry"
+      },
+      {
+        "definition": "The property of two matrices being similar .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "linear algebra"
+        ],
+        "label_groups": "mathematics , linear algebra"
+      }
+    ],
+    "main_definition": "Closeness of appearance to something else.",
+    "secondary_definitions": [
+      "( philosophy ) The relation of sharing properties .",
+      "( geometry ) A transformation (of a Euclidean space ) that preserves angles and the ratios of distances",
+      "( mathematics , linear algebra ) The property of two matrices being similar ."
+    ]
+  }
+]

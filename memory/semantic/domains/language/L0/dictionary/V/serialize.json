@@ -1,0 +1,59 @@
+[
+  {
+    "word": "serialize",
+    "lemma": "serialize",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈsɪɹiəlaɪz/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "serializes",
+          "PT": "serialized",
+          "PAP": "serialized",
+          "PRP": "serializing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To convert an object into a sequence of bytes that can later be converted back into an object with equivalent properties.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "To write a television program , novel , or other form of entertainment as a sequence of shorter works with a common story .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To publish (a book, play, etc.) in regular instalments, e.g. in a magazine.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( computing ) To convert an object into a sequence of bytes that can later be converted back into an object with equivalent properties.",
+    "secondary_definitions": [
+      "To write a television program , novel , or other form of entertainment as a sequence of shorter works with a common story .",
+      "To publish (a book, play, etc.) in regular instalments, e.g. in a magazine."
+    ]
+  }
+]

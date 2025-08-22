@@ -1,0 +1,53 @@
+[
+  {
+    "word": "ironically",
+    "lemma": "ironically",
+    "etymology": "Etymology",
+    "pos": "ADV",
+    "raw_label": "Adverb",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more ironically",
+          "SUP": "most ironically"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "In an ironic manner; in a way displaying irony .",
+        "examples": [
+          "My colleague ironically avoids doctors like the plague!"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "manner"
+        ],
+        "label_groups": "manner"
+      },
+      {
+        "definition": "Used to draw attention to an ironic aspect of a situation being described.",
+        "examples": [
+          "Ironically, the automated checkout system ended up costing more in repairs than the workers it was meant to replace."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "evaluative"
+        ],
+        "label_groups": "evaluative"
+      }
+    ],
+    "main_definition": "( manner ) In an ironic manner; in a way displaying irony .",
+    "secondary_definitions": [
+      "( evaluative ) Used to draw attention to an ironic aspect of a situation being described."
+    ]
+  }
+]

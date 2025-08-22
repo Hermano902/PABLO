@@ -1,0 +1,30 @@
+{
+  "word": "ache",
+  "pos_order": [
+    "V",
+    "N",
+    "N:2",
+    "N:3"
+  ],
+  "pos": {
+    "V": {
+      "definitions": 2,
+      "examples": 2,
+      "synonyms": 4,
+      "antonyms": 0,
+      "inflections": 4
+    },
+    "N": {
+      "definitions": 3,
+      "examples": 2,
+      "synonyms": 0,
+      "antonyms": 2,
+      "inflections": 3
+    }
+  },
+  "files": {
+    "V": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\V\\ache.json",
+    "N": "G:\\PABLO\\memory\\semantic\\domains\\language\\L0\\dictionary\\N\\ache.json"
+  },
+  "timestamp": "2025-08-18T20:11:59.293113Z"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "word": "elaboration",
+    "lemma": "elaboration",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "-eɪʃən",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "elaborations"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "The act or process of producing or refining with labor; improvement by successive operations; refinement.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "The natural process of formation or assimilation, performed by the living organs in animals and vegetables, by which a crude substance is changed into something of a higher order",
+        "examples": [
+          "the elaboration of food into chyme",
+          "the elaboration of chyle, or sap, or tissues"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "Setting up a hierarchy of calculated constants in a language such as Ada so that the values of one or more of them determine others further down in the hierarchy.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing"
+        ],
+        "label_groups": "computing"
+      },
+      {
+        "definition": "The process of taking a parsed tree of an abstract integrated circuit definition in a language such as Verilog and creating a hierarchy of module instances that ends with primitive (atomic) gates and statements.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "electronics"
+        ],
+        "label_groups": "electronics"
+      },
+      {
+        "definition": "The level of processing of a message or argument.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "psychology"
+        ],
+        "label_groups": "psychology"
+      }
+    ],
+    "main_definition": "The act or process of producing or refining with labor; improvement by successive operations; refinement.",
+    "secondary_definitions": [
+      "The natural process of formation or assimilation, performed by the living organs in animals and vegetables, by which a crude substance is changed into something of a higher order",
+      "( computing ) Setting up a hierarchy of calculated constants in a language such as Ada so that the values of one or more of them determine others further down in the hierarchy.",
+      "( electronics ) The process of taking a parsed tree of an abstract integrated circuit definition in a language such as Verilog and creating a hierarchy of module instances that ends with primitive (atomic) gates and statements.",
+      "( psychology ) The level of processing of a message or argument."
+    ]
+  }
+]

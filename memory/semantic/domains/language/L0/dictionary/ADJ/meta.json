@@ -1,0 +1,54 @@
+[
+  {
+    "word": "meta",
+    "lemma": "meta",
+    "etymology": "Etymology 1",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛtə/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": "more meta",
+          "SUP": "most meta"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Self-referential ; structured analogously (structured by relationships), but at a higher level.",
+        "examples": [
+          "Suppose you have a genie that grants you three wishes. If you wish for infinite wishes, that is a meta wish.",
+          "Suppose you have a homework task where you need to edit a wiki page and upload a screenshot of this entry underneath the word meta as an example of what meta is."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "informal"
+        ],
+        "label_groups": "informal"
+      },
+      {
+        "definition": "Prominent in the metagame; effective and frequently used in competitive gameplay.",
+        "examples": [
+          "I don't think the character will be meta even with the recent buffs."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "video games"
+        ],
+        "label_groups": "video games"
+      }
+    ],
+    "main_definition": "( informal ) Self-referential ; structured analogously (structured by relationships), but at a higher level.",
+    "secondary_definitions": [
+      "( video games ) Prominent in the metagame; effective and frequently used in competitive gameplay."
+    ]
+  }
+]

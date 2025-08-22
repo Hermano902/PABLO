@@ -1,0 +1,35 @@
+[
+  {
+    "word": "equate",
+    "lemma": "equate",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ɪˈkweɪt/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "equates"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "A statement in assembly language that defines a symbol having a particular value .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      }
+    ],
+    "main_definition": "( programming ) A statement in assembly language that defines a symbol having a particular value .",
+    "secondary_definitions": []
+  }
+]

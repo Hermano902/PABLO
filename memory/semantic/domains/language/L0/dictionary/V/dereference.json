@@ -1,0 +1,76 @@
+[
+  {
+    "word": "dereference",
+    "lemma": "dereference",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/dɪˈɹɛfɹəns/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "dereferences",
+          "PT": "dereferenced",
+          "PAP": "dereferenced",
+          "PRP": "dereferencing",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To access the value or object located in a memory location addressed by a pointer or another value interpreted as such; to access a value being referenced by something else.",
+        "examples": [
+          "Attempting to dereference a null pointer often results in a crash."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "programming"
+        ],
+        "label_groups": "programming"
+      },
+      {
+        "definition": "To operate on the file or directory pointed to by a symbolic link , rather than on the link itself.",
+        "examples": [
+          "With the find command, any symbolic links appearing after -follow will be dereferenced ."
+        ],
+        "synonyms": [
+          "follow",
+          "resolve"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "*nix"
+        ],
+        "label_groups": "computing , *nix"
+      },
+      {
+        "definition": "To dissolve a symbolic link by replacing it with a copy of its target.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "computing",
+          "*nix"
+        ],
+        "label_groups": "computing , *nix"
+      }
+    ],
+    "main_definition": "( programming ) To access the value or object located in a memory location addressed by a pointer or another value interpreted as such; to access a value being referenced by something else.",
+    "secondary_definitions": [
+      "( computing , *nix ) To operate on the file or directory pointed to by a symbolic link , rather than on the link itself.",
+      "( computing , *nix ) To dissolve a symbolic link by replacing it with a copy of its target."
+    ]
+  }
+]

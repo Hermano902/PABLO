@@ -1,0 +1,77 @@
+[
+  {
+    "word": "commutative",
+    "lemma": "commutative",
+    "etymology": "Etymology",
+    "pos": "ADJ",
+    "raw_label": "Adjective",
+    "pos_index": 1,
+    "pronunciation": null,
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "COMP": null,
+          "SUP": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "Such that the order in which the operands are taken does not affect their image under the operation.",
+        "examples": [
+          "Addition on the real numbers is commutative because for any real numbers s , t {\\displaystyle s,t} , it is true that s + t = t + s {\\displaystyle s+t=t+s} .",
+          "Addition and multiplication are commutative operations but subtraction and division are not."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a binary operation"
+        ],
+        "label_groups": "mathematics , of a binary operation"
+      },
+      {
+        "definition": "Having a commutative operation .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "algebra",
+          "of an algebraic structure"
+        ],
+        "label_groups": "algebra , of an algebraic structure"
+      },
+      {
+        "definition": "Such that any two sequences of morphisms with the same initial and final positions compose to the same morphism.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "mathematics",
+          "of a diagram of morphisms"
+        ],
+        "label_groups": "mathematics , of a diagram of morphisms"
+      },
+      {
+        "definition": "Relating to exchange ; interchangeable .",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      }
+    ],
+    "main_definition": "( mathematics , of a binary operation ) Such that the order in which the operands are taken does not affect their image under the operation.",
+    "secondary_definitions": [
+      "( algebra , of an algebraic structure ) Having a commutative operation .",
+      "( mathematics , of a diagram of morphisms ) Such that any two sequences of morphisms with the same initial and final positions compose to the same morphism.",
+      "Relating to exchange ; interchangeable ."
+    ]
+  }
+]

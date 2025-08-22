@@ -1,0 +1,54 @@
+[
+  {
+    "word": "aspirin",
+    "lemma": "aspirin",
+    "etymology": "Etymology",
+    "pos": "N",
+    "raw_label": "Noun",
+    "pos_index": 1,
+    "pronunciation": "/ˈæsp(ɪ)ɹɪn/",
+    "forms": {
+      "COUNTABILITY": "BOTH",
+      "FORM": {
+        "INFLECTION": {
+          "PL": "aspirins"
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "an analgesic drug , acetylsalicylic acid",
+        "examples": [],
+        "synonyms": [
+          "acetylsalicylic acid",
+          "ASA"
+        ],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "uncountable",
+          "organic chemistry",
+          "pharmacology"
+        ],
+        "label_groups": "uncountable , organic chemistry , pharmacology"
+      },
+      {
+        "definition": "a tablet containing this substance",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "countable"
+        ],
+        "label_groups": "countable"
+      }
+    ],
+    "main_definition": "( uncountable , organic chemistry , pharmacology ) an analgesic drug , acetylsalicylic acid",
+    "secondary_definitions": [
+      "( countable ) a tablet containing this substance"
+    ]
+  }
+]

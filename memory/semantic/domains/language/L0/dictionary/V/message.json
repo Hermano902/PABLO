@@ -1,0 +1,81 @@
+[
+  {
+    "word": "message",
+    "lemma": "message",
+    "etymology": "Etymology",
+    "pos": "V",
+    "raw_label": "Verb",
+    "pos_index": 1,
+    "pronunciation": "/ˈmɛsɪd͡ʒ/",
+    "forms": {
+      "FORM": {
+        "INFLECTION": {
+          "INF": null,
+          "3PSP": "messages",
+          "PT": "messaged",
+          "PAP": "messaged",
+          "PRP": "messaging",
+          "N3PP": null,
+          "GER": null
+        }
+      }
+    },
+    "definitions": [
+      {
+        "definition": "To send a message to; to transmit a message to, e.g. as text via a cell phone.",
+        "examples": [
+          "Just message me for directions.",
+          "I messaged her about the concert."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To send (something) as a message; usually refers to electronic messaging.",
+        "examples": [
+          "She messaged me the information yesterday.",
+          "Please message the final report by fax."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": []
+      },
+      {
+        "definition": "To send a message or messages; to be capable of sending messages.",
+        "examples": [
+          "We've implemented a new messaging service.",
+          "The runaway computer program was messaging non-stop."
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "intransitive"
+        ],
+        "label_groups": "intransitive"
+      },
+      {
+        "definition": "To bear as a message.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": [],
+        "subdefinitions": [],
+        "senses": [],
+        "labels": [
+          "obsolete"
+        ],
+        "label_groups": "obsolete"
+      }
+    ],
+    "main_definition": "To send a message to; to transmit a message to, e.g. as text via a cell phone.",
+    "secondary_definitions": [
+      "To send (something) as a message; usually refers to electronic messaging.",
+      "( intransitive ) To send a message or messages; to be capable of sending messages.",
+      "( obsolete ) To bear as a message."
+    ]
+  }
+]
