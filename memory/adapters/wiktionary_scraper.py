@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
+r"""
 Fully-patched Wiktionary scraper (English-only) with SQLite output.
 
 - Wrapper-safe heading detection (handles <div class="mw-heading">).
@@ -158,6 +158,109 @@ def find_english_block(content_div: Tag) -> Tuple[Optional[HeadingBlock], Option
         nxt = blocks[idx+1] if idx+1 < len(blocks) else None
         dprint(f"English block found at index {idx}. Next H2 block: {'yes' if nxt else 'none'}")
     return eng, nxt, langs
+
+# --- POS header order (fast path: headings only) -----------------------------
+
+def extract_pos_header_order_from_english(eng: BeautifulSoup):
+    """
+    Returns:
+      raw_rows: [(header_idx, header_text, mapped_tag_or_None), ...]
+      order:    [mapped_tag, ...] first occurrence per POS, deduped, page order
+    """
+    raw_rows, order = [], []
+    idx = 0
+    for b in iter_heading_blocks(eng, levels=(3,4)):   # only h3/h4 inside English
+        t  = (b.text or "").strip()
+        tl = t.lower()
+        # skip non-POS headings you don’t want in order
+        if tl.startswith("etymology"):       # multiple etymologies
+            continue
+        if tl in {"pronunciation", "alternative forms", "alternative form"}:
+            continue
+
+        tag = is_pos_from_block(b)           # maps via POS_HEADINGS
+        raw_rows.append((idx, t, tag))
+        if tag and tag not in order:
+            order.append(tag)
+        idx += 1
+    return raw_rows, order
+
+
+def upsert_lemma_pos_order(conn: sqlite3.Connection, lemma_text: str,
+                           raw_rows, order, lang="en", source="wiktionary"):
+    cur = conn.cursor()
+    # Ensure needed tables exist
+    cur.executescript("""
+    CREATE TABLE IF NOT EXISTS LEMMA_POS_HEADER_RAW (
+      raw_id     INTEGER PRIMARY KEY,
+      lemma_id   INTEGER NOT NULL REFERENCES LEMMA(lemma_id) ON DELETE CASCADE,
+      lang       TEXT NOT NULL DEFAULT 'en',
+      header_idx INTEGER NOT NULL,
+      header_txt TEXT NOT NULL,
+      mapped_tag TEXT,
+      source     TEXT,
+      fetched_at TEXT DEFAULT (datetime('now')),
+      UNIQUE(lemma_id, lang, header_idx)
+    );
+    CREATE TABLE IF NOT EXISTS LEMMA_POS_ORDER (
+      lemma_id   INTEGER NOT NULL REFERENCES LEMMA(lemma_id) ON DELETE CASCADE,
+      lang       TEXT NOT NULL DEFAULT 'en',
+      pos_tag    TEXT NOT NULL,
+      rank       INTEGER NOT NULL,
+      source     TEXT,
+      fetched_at TEXT DEFAULT (datetime('now')),
+      PRIMARY KEY (lemma_id, lang, pos_tag)
+    );
+    """)
+
+    row = cur.execute(
+        "SELECT lemma_id FROM LEMMA WHERE lemma = ? COLLATE NOCASE LIMIT 1;",
+        (lemma_text,)
+    ).fetchone()
+    if not row:
+        return
+    lemma_id = row[0]
+    cur.execute("DELETE FROM LEMMA_POS_HEADER_RAW WHERE lemma_id=? AND lang=?;", (lemma_id, lang))
+    cur.execute("DELETE FROM LEMMA_POS_ORDER       WHERE lemma_id=? AND lang=?;", (lemma_id, lang))
+
+    now = time.strftime("%Y-%m-%d %H:%M:%S")
+    for hdr_idx, hdr_txt, mapped in raw_rows:
+        cur.execute("""              INSERT OR REPLACE INTO LEMMA_POS_HEADER_RAW
+          (lemma_id, lang, header_idx, header_txt, mapped_tag, source, fetched_at)
+          VALUES (?,?,?,?,?,?,?)
+        """, (lemma_id, lang, hdr_idx, hdr_txt, mapped, source, now))
+
+    for i, tag in enumerate(order):
+        cur.execute("""              INSERT OR REPLACE INTO LEMMA_POS_ORDER
+          (lemma_id, lang, pos_tag, rank, source, fetched_at)
+          VALUES (?,?,?,?,?,?)
+        """, (lemma_id, lang, tag, i*10, source, now))
+
+    conn.commit()
+
+def build_pos_orders_for_all_lemmas(db_path: str, sleep_s: float = 0.0, limit: int | None = None):
+    conn = db_connect(db_path)
+    try:
+        words = [r[0] for r in conn.execute(
+            "SELECT lemma FROM LEMMA ORDER BY lemma COLLATE NOCASE" + (f" LIMIT {int(limit)}" if limit else "")
+        ).fetchall()]
+    finally:
+        conn.close()
+
+    conn = db_connect(db_path)
+    try:
+        for i, w in enumerate(words, 1):
+            try:
+                eng = fetch_english_fragment(w, DEFAULT_RAWDIR)  # your existing helper
+                raw_rows, order = extract_pos_header_order_from_english(eng)
+                upsert_lemma_pos_order(conn, w, raw_rows, order)
+                print(f"[POS-ORDER] {w}: {' '.join(order) if order else '(none)'}  ({i}/{len(words)})")
+            except Exception as e:
+                print(f"[POS-ORDER FAIL] {w}: {e}")
+            if sleep_s and i < len(words):
+                time.sleep(sleep_s)
+    finally:
+        conn.close()
 
 # ---------- text helpers ----------
 def norm_space(s: str) -> str:
@@ -856,10 +959,11 @@ def run(words: List[str], outdir: Path, sleep_s: float, overwrite: bool,
         if sleep_s and i < total:
             time.sleep(sleep_s)
 
+
 def main():
     global DBG, POS_DUMP, INCLUDE_EXAMPLES
     ap = argparse.ArgumentParser(description="Wiktionary (English) scraper → JSON/SQLite")
-    ag = ap.add_mutually_exclusive_group(required=True)
+    ag = ap.add_mutually_exclusive_group(required=False)
     ag.add_argument("--word", help="Single word to scrape")
     ag.add_argument("--list", help="Path to file with words (one per line)")
     ap.add_argument("--outdir", default=str(Path("./scraped")), help="Output directory for lemma JSON files")
@@ -874,12 +978,25 @@ def main():
 
     ap.add_argument("--db", help="Write scraped lemmas into this SQLite DB (l0 schema)")
     ap.add_argument("--no-files", action="store_true", help="Skip writing per-lemma JSON files")
+    ap.add_argument("--build-pos-order", action="store_true",
+                help="Scrape only headings to build lemma POS order (English).")
 
     args = ap.parse_args()
 
     DBG = bool(args.debug or os.environ.get("WIKT_DEBUG"))
     POS_DUMP = bool(args.pos_dump)
     INCLUDE_EXAMPLES = not bool(args.no_examples)
+
+    # Fast path: build per-lemma POS order for ALL lemmas in DB; no --word/--list required
+    if args.build_pos_order:
+        if not args.db:
+            ap.error("--build-pos-order requires --db")
+        build_pos_orders_for_all_lemmas(args.db, sleep_s=args.sleep)
+        return
+
+    # Otherwise, require a word or a file list
+    if not (args.word or args.list):
+        ap.error("one of the arguments --word --list is required (unless --build-pos-order is used)")
 
     outdir = Path(args.outdir)
     rawdir = Path(args.rawdir)
