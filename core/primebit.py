@@ -123,7 +123,7 @@ class PrimeBit:
         """Logical implication: self → other."""
         if self.is_compound or other.is_compound:
             raise ValueError("Cannot IMPLY with compound references")
-        return PrimeBit((~self.value) | other.value) & PRIME_MASK
+        return PrimeBit(((~self.value) & PRIME_MASK) | other.value)
     
     # Comparison operators
     
