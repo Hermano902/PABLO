@@ -1,0 +1,38 @@
+name: OpenTimestamps
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  timestamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install OpenTimestamps
+        run: pip install opentimestamps-client
+
+      - name: Create snapshot excluding gitignored files
+        run: |
+          zip -r snapshot.zip . \
+            --exclude="*.git*" \
+            --exclude="data/*" \
+            --exclude="storage/*" \
+            --exclude="__pycache__/*" \
+            --exclude="*.pyc" \
+            --exclude="venv/*" \
+            --exclude=".env*" \
+            --exclude="node_modules/*" \
+            --exclude="*.log"
+
+      - name: Timestamp snapshot
+        run: ots stamp snapshot.zip
+
+      - name: Upload proof
+        uses: actions/upload-artifact@v3
+        with:
+          name: ots-proof-${{ github.sha }}
+          path: snapshot.zip.ots
+          retention-days: 365
