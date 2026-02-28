@@ -1,0 +1,625 @@
+[
+    {
+        "id": 100,
+        "text": "IF",
+        "token_variants": [
+            "if",
+            "IF",
+            "If",
+            "then",
+            "implies"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "condition",
+            "action"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "implication",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 101,
+        "text": "AND",
+        "token_variants": [
+            "and",
+            "AND",
+            "And",
+            "&",
+            "∧"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "conjunction",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "text": "OR",
+        "token_variants": [
+            "or",
+            "OR",
+            "Or",
+            "|",
+            "∨"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "disjunction",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 103,
+        "text": "NOT",
+        "token_variants": [
+            "not",
+            "NOT",
+            "Not",
+            "!",
+            "~",
+            "¬"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 1,
+        "slot_names": [
+            "operand"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "negation",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true
+                    ],
+                    "output": false
+                }
+            ]
+        }
+    },
+    {
+        "id": 104,
+        "text": "XOR",
+        "token_variants": [
+            "xor",
+            "XOR",
+            "Xor",
+            "^",
+            "⊕"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "exclusive_disjunction",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": false
+                }
+            ]
+        }
+    },
+    {
+        "id": 105,
+        "text": "NAND",
+        "token_variants": [
+            "nand",
+            "NAND",
+            "Nand"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "negated_conjunction",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": false
+                }
+            ]
+        }
+    },
+    {
+        "id": 106,
+        "text": "NOR",
+        "token_variants": [
+            "nor",
+            "NOR",
+            "Nor"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "negated_disjunction",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": false
+                }
+            ]
+        }
+    },
+    {
+        "id": 107,
+        "text": "XNOR",
+        "token_variants": [
+            "xnor",
+            "XNOR",
+            "Xnor",
+            "iff",
+            "IFF",
+            "↔"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 2,
+        "slot_names": [
+            "operand_a",
+            "operand_b"
+        ],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "equivalence",
+            "truth_table": [
+                {
+                    "inputs": [
+                        false,
+                        false
+                    ],
+                    "output": true
+                },
+                {
+                    "inputs": [
+                        false,
+                        true
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        false
+                    ],
+                    "output": false
+                },
+                {
+                    "inputs": [
+                        true,
+                        true
+                    ],
+                    "output": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "text": "TRUE",
+        "token_variants": [
+            "true",
+            "TRUE",
+            "True",
+            "yes",
+            "YES",
+            "1",
+            "on",
+            "ON"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 0,
+        "slot_names": [],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "constant_true",
+            "truth_table": [
+                {
+                    "inputs": [],
+                    "output": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 109,
+        "text": "FALSE",
+        "token_variants": [
+            "false",
+            "FALSE",
+            "False",
+            "no",
+            "NO",
+            "0",
+            "off",
+            "OFF"
+        ],
+        "primes": [],
+        "prime_mask": 0,
+        "primebit_value": 0,
+        "compound_type": "logic",
+        "grounded": true,
+        "relations": [],
+        "children": [],
+        "version": 1,
+        "operation_arity": 0,
+        "slot_names": [],
+        "provenance": {
+            "observation_id": "SYSTEM_LOGIC_OPERATOR",
+            "source": "system_core",
+            "provenance": [
+                "SYSTEM_DEFINED"
+            ],
+            "created_at": 0
+        },
+        "refinement": {
+            "usage_count": 0,
+            "success_rate": 1.0
+        },
+        "operation_spec": {
+            "type": "constant_false",
+            "truth_table": [
+                {
+                    "inputs": [],
+                    "output": false
+                }
+            ]
+        }
+    }
+]
