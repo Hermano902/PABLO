@@ -5,7 +5,7 @@ It is phase-separated: Phase 1 is the complete implementable target. Phase 2+
 sections are preserved for future reference and must not be implemented until
 the relevant phase begins.
 
-See `CONCEPT.md` for the conceptual contract. Implement against both.
+See `COMPOUND_CONCEPT.md` for the conceptual contract. Implement against both.
 
 ---
 
@@ -16,9 +16,9 @@ See `CONCEPT.md` for the conceptual contract. Implement against both.
 ### 1. Scope & Purpose
 
 Compound is a shared data structure — not a prime, not a cognitive component.
-It is the universal unit of representation that all primes read and write.
-No prime subclasses Compound. No prime reaches into another prime's Compound
-internals — they pass Compounds as opaque outputs and receive them as opaque inputs.
+It is the universal unit of meaning that all primes read and write. A Compound
+represents what a concept universally IS — not a specific occurrence of it.
+Occurrences live in Narratives.
 
 `core/compound.py` has one external dependency: `core.primebit.PrimeBit`.
 It must have no imports from any prime module.
@@ -42,23 +42,34 @@ No other module should store or pass raw int primebits — always wrap in `Prime
 
 #### Relation
 
+A Relation expresses how this compound connects to another compound or prime.
+The predicate is always a prime name — the prime that governs the relationship.
+
 ```python
 @dataclass
 class Relation:
-    role:       str      # "subject" | "verb" | "object" | "modifier" | "part" | "kind"
-    target_id:  int      # permanent compound ID this relation points to
-    primebit:   PrimeBit # which prime encodes this relation (e.g. PART, KIND, WITH)
+    predicate:  str   # prime name governing this link ("BE", "KIND", "HAS", "CAN",
+                      # "PART", "WITH", "FEEL", "WANT", etc.)
+                      # For negation: wrap with logic compound — NOT(HAS) expressed
+                      # as predicate="NOT_HAS" referencing logic compound for NOT(HAS)
+    target_id:  int   # permanent compound ID this relation points to
 ```
 
 `target_id` must always be a permanent ID (200+) by the time a Compound is
 stored in KNOW. Temp IDs must never appear in stored Relations — see Section 7.
+
+Relations live in the Definition Narrative, not directly on the Compound core
+record. The Compound holds a `definition_narrative_id` pointer. Relations are
+loaded on demand via `KNOW.get_definition(compound_id)`. For Phase 1, relations
+are stored directly on the Compound for simplicity — the Definition Narrative
+split is a Phase 2 concern (see D1).
 
 #### Slot (Phase 1 definition only — not used until Layer 3)
 
 ```python
 @dataclass
 class Slot:
-    name:       str       # "agent" | "target" | "direction" | etc.
+    name:       str         # "agent" | "target" | "direction" | etc.
     required:   bool
     prime_type: str | None  # expected prime family ("ENTITY", "MOVE", etc.)
     filled_by:  int | None  # compound ID filling this slot when instantiated
@@ -85,8 +96,9 @@ A Step is a plain dict with a `type` discriminator field. Three valid shapes:
 ```
 
 `execution_path` is a `list[dict]` where each dict matches one of the above shapes.
-An empty list `[]` is valid for a compound that has been defined but not yet populated.
-Steps are not validated at construction time — validation happens at execution time in THINK.
+An empty list `[]` is valid for a compound defined but not yet populated.
+Steps are not validated at construction time — validation happens at execution
+time in THINK.
 
 ---
 
@@ -106,78 +118,97 @@ class Compound:
     # ── Identity ──────────────────────────────────────────────────────────────
     id:                 int           # permanent ID assigned by KNOW (200+)
                                       # negative = temp, assigned by DATA before storage
-    text:               str           # human-readable label only; meaning lives in primebit
-
-    # ── Layer classification ──────────────────────────────────────────────────
-    compound_type:      str           # see TYPE_TO_LAYER below
-    layer:              int | None    # derived from compound_type on construction
+    symbol:             str           # human-language handle — the pointer, not the meaning
+                                      # ("cat", "read", "fast", "NOT", "AND")
 
     # ── Semantic content ──────────────────────────────────────────────────────
-    primebit:           PrimeBit      # 64-bit prime mask — machine-readable meaning
+    primebit:           PrimeBit      # fast prime index — which primes are present
+                                      # used for routing and filtering; not the full definition
 
-    # ── Structure ─────────────────────────────────────────────────────────────
-    children:           list[int]     # ordered permanent IDs of child compounds (Layer 1+)
-    relations:          list[Relation]# typed links to other compounds
+    # ── Compound graph structure ───────────────────────────────────────────────
+    nested:             list[int]     # child compound IDs whose meanings compose this concept
+                                      # empty = prime-terminal (bottom of reverse pyramid)
+                                      # non-empty = load definition for full meaning
+    relations:          list[Relation]# predicate → target links forming the definition
+                                      # Phase 1: stored here directly
+                                      # Phase 2: moved to Definition Narrative in KNOW
 
-    # ── Executability (Layer 3–4 only — see Phase 2) ──────────────────────────
-    executable:         bool              # False for Layers 0–2
-    execution_path:     list[dict] | None # ordered Steps — Phase 2 only; None for Layers 0–2
-    trigger_condition:  PrimeBit | None   # primebit pattern for auto-activation — Phase 2
-    arity:              int               # number of required slots (0 for Layers 0–2)
-    slots:              list[Slot]        # named argument slots — Phase 2 only
+    # ── Definition Narrative pointer ──────────────────────────────────────────
+    definition_narrative_id: int | None  # ID of this compound's Definition Narrative in KNOW
+                                          # None until KNOW assigns it on first storage
+                                          # load via KNOW.get_definition(compound_id)
 
     # ── Grounding state ───────────────────────────────────────────────────────
-    grounded:           bool          # True = primebit confirmed by SYMBOL
-                                      # False = placeholder, awaiting grounding
+    grounded:           bool          # True = full resolution terminates at primes
+                                      # False = placeholder, awaiting enrichment
 
-    # ── Version ───────────────────────────────────────────────────────────────
-    version:            int           # incremented on meaningful update (starts at 0)
-
-    # ── Refinement signals ────────────────────────────────────────────────────
-    usage_count:        int           # times this compound has been used
-    success_rate:       float         # fraction of uses with successful outcomes (0.0–1.0)
-    query_count:        int           # times retrieved by KNOW
-    confidence_score:   float         # SYMBOL's grounding confidence (0.0–1.0)
-    candidate_interpretations: list[dict]  # alternative primebits considered during grounding
+    # ── Refinement ────────────────────────────────────────────────────────────
+    version:            int           # incremented each time the definition refines
+    confidence:         float         # certainty of current primebit encoding (0.0–1.0)
+    candidate_interpretations: list[dict]  # alternative primebits considered by SYMBOL
 
     # ── Logic compound fields (logic type only) ───────────────────────────────
     operation_arity:    int | None    # for logic compounds: number of operands; None otherwise
     slot_names:         list[str]     # for logic compounds: operand slot names; [] otherwise
 
-    # ── Provenance ────────────────────────────────────────────────────────────
-    provenance:         dict          # source, observation_id, confidence, model, etc.
+    # ── Executability (Layer 3–4 only — Phase 2) ──────────────────────────────
+    executable:         bool              # False for Layers 0–2
+    execution_path:     list[dict] | None # ordered Steps — None for Layers 0–2
+    trigger_condition:  PrimeBit | None   # primebit pattern for auto-activation
+    arity:              int               # number of required slots (0 for Layers 0–2)
+    slots:              list[Slot]        # named argument slots
 
     # ── Timestamp ─────────────────────────────────────────────────────────────
     created_at:         float         # unix timestamp
 ```
 
+**Fields deliberately absent:**
+
+- `text` — replaced by `symbol`. Same data, clearer semantics.
+- `compound_type` / `layer` — derived from structure, not stored. See TYPE_TO_LAYER.
+- `children` — replaced by `nested`. Clearer: nested compounds compose meaning.
+- `provenance` — observation context belongs in Instance Narratives, not compounds.
+- `usage_count`, `success_rate`, `query_count` — belong in KNOW's refinement
+  tracking sub-record. KNOW updates these automatically on every access.
+
 #### TYPE_TO_LAYER mapping
 
 ```python
 TYPE_TO_LAYER: dict[str, int | None] = {
-    "data":       0,
-    "aggregate":  1,
-    "definition": 2,
-    "action":     3,
-    "macro":      4,
-    "logic":      None,    # logic compounds are layer-agnostic
-    "internal":   None,
+    "concept":    0,    # Layer 0 — canonical concept definition, one per unique symbol
+    "utterance":  1,    # Layer 1 — aggregate of ordered concept compounds
+    "intent":     2,    # Layer 2 — THINK's interpretation of an utterance
+    "action":     3,    # Layer 3 — executable compound derived by THINK
+    "macro":      4,    # Layer 4 — self-created reusable compound
+    "logic":      None, # layer-agnostic — structural operators
+    "internal":   None, # system-use compounds
 }
 ```
 
-`layer` is set on construction by looking up `compound_type` in `TYPE_TO_LAYER`.
-If `compound_type` is not in the map, raise `ValueError` immediately.
+`layer` is derived from `compound_type` via `TYPE_TO_LAYER` on construction.
+It is not stored — always recomputed. If `compound_type` is not in the map,
+raise `ValueError` immediately on construction.
 
 #### Valid compound_type values
 
 ```
-"data"        Layer 0 — token compound, one per input token
-"aggregate"   Layer 1 — utterance compound, groups ordered tokens
-"definition"  Layer 2 — intent compound, THINK's interpretation
-"action"      Layer 3 — executable compound, derived by THINK (Phase 2)
-"macro"       Layer 4 — self-created reusable compound (Phase 2)
-"logic"       Logic operators, loaded from core/logic_compounds.json at startup
-"internal"    System-use compounds not from external observations
+"concept"     Layer 0 — canonical definition of a symbol's meaning.
+              One per unique concept in KNOW — not one per observation.
+              DATA checks KNOW first; only creates new compound if symbol unknown.
+
+"utterance"   Layer 1 — ordered aggregate of concept compounds from one observation.
+
+"intent"      Layer 2 — THINK's interpretation of an utterance.
+
+"action"      Layer 3 — executable compound derived by THINK (Phase 2).
+
+"macro"       Layer 4 — self-created reusable compound (Phase 2).
+
+"logic"       Pre-defined structural operators (AND, OR, NOT, IF, THEN, etc.)
+              Loaded from core/logic_compounds.json. IDs 100–199. Read-only.
+              Used as predicate wrappers in relations (NOT wrapping HAS).
+
+"internal"    System-use compounds not from external observations.
 ```
 
 ---
@@ -187,98 +218,91 @@ If `compound_type` is not in the map, raise `ValueError` immediately.
 ```
 0–99      Reserved for system bootstrapping
 100–199   Logic compounds (fixed at startup, loaded from core/logic_compounds.json)
-200+      All runtime compounds — data, aggregate, definition, action, macro, internal
+200+      All runtime compounds — concept, utterance, intent, action, macro, internal
           Assigned sequentially by KNOW
 negative  Temp IDs assigned by DATA during batch construction (never stored)
 ```
+
+Narrative IDs use a separate counter and do not share this space.
 
 ---
 
 ### 6. Construction Helpers
 
-Convenience constructors for each layer. All set `created_at` to `time.time()`
-and `layer` from `TYPE_TO_LAYER`. All assign temp IDs — permanent IDs are
-assigned by KNOW at storage time.
+Convenience constructors for each layer. All set `created_at` to `time.time()`.
+All assign temp IDs — permanent IDs are assigned by KNOW at storage time.
 
 ```python
 @classmethod
-def token(
+def concept(
     cls,
     temp_id:    int,
-    text:       str,
+    symbol:     str,
     primebit:   PrimeBit,
-    provenance: dict,
+    confidence: float = 0.0,
     grounded:   bool = False,
+    candidate_interpretations: list[dict] | None = None,
 ) -> "Compound":
-    """Create a Layer 0 token Compound with a temp ID.
+    """Create a Layer 0 concept Compound with a temp ID.
 
     grounded=False by default — SYMBOL confirms grounding before storage.
-    grounded=True only when the prime assignment is certain (e.g. logic tokens).
+    grounded=True only when prime assignment is certain (e.g. logic tokens).
+    No provenance on the compound — observation context goes to Instance Narrative.
     """
     return cls(
         id=temp_id,
-        text=text,
-        compound_type="data",
-        layer=0,
+        symbol=symbol,
         primebit=primebit,
-        children=[],
+        nested=[],
         relations=[],
+        definition_narrative_id=None,
+        grounded=grounded,
+        version=0,
+        confidence=confidence,
+        candidate_interpretations=candidate_interpretations or [],
+        operation_arity=None,
+        slot_names=[],
         executable=False,
         execution_path=None,
         trigger_condition=None,
         arity=0,
         slots=[],
-        grounded=grounded,
-        version=0,
-        usage_count=0,
-        success_rate=0.0,
-        query_count=0,
-        confidence_score=provenance.get("confidence", 0.0),
-        candidate_interpretations=[],
-        operation_arity=None,
-        slot_names=[],
-        provenance=provenance,
         created_at=time.time(),
     )
 
 @classmethod
 def utterance(
     cls,
-    temp_id:    int,
-    text:       str,
-    children:   list[int],
-    primebit:   PrimeBit,
-    provenance: dict,
+    temp_id:  int,
+    symbol:   str,
+    nested:   list[int],
+    primebit: PrimeBit,
 ) -> "Compound":
     """Create a Layer 1 utterance Compound.
 
-    children is an ordered list of temp IDs at construction time.
+    nested is an ordered list of concept compound IDs (temp at construction time).
     DATA resolves these to permanent IDs before handing the batch to KNOW.
-    primebit is the union of all constituent token primebits.
+    primebit is the union of all constituent concept primebits.
+    relations encode structural roles — subject, verb, object, modifier.
     """
     return cls(
         id=temp_id,
-        text=text,
-        compound_type="aggregate",
-        layer=1,
+        symbol=symbol,
         primebit=primebit,
-        children=children,
+        nested=nested,
         relations=[],
+        definition_narrative_id=None,
+        grounded=True,
+        version=0,
+        confidence=1.0,
+        candidate_interpretations=[],
+        operation_arity=None,
+        slot_names=[],
         executable=False,
         execution_path=None,
         trigger_condition=None,
         arity=0,
         slots=[],
-        grounded=True,
-        version=0,
-        usage_count=0,
-        success_rate=0.0,
-        query_count=0,
-        confidence_score=1.0,
-        candidate_interpretations=[],
-        operation_arity=None,
-        slot_names=[],
-        provenance=provenance,
         created_at=time.time(),
     )
 
@@ -286,10 +310,9 @@ def utterance(
 def intent(
     cls,
     temp_id:      int,
-    text:         str,
+    symbol:       str,
     primebit:     PrimeBit,
     utterance_id: int,
-    provenance:   dict,
 ) -> "Compound":
     """Create a Layer 2 intent Compound.
 
@@ -298,31 +321,25 @@ def intent(
     """
     return cls(
         id=temp_id,
-        text=text,
-        compound_type="definition",
-        layer=2,
+        symbol=symbol,
         primebit=primebit,
-        children=[],
+        nested=[],
         relations=[Relation(
-            role="source",
+            predicate="FROM",
             target_id=utterance_id,
-            primebit=PrimeBit.from_prime_names({"FROM"}),
         )],
+        definition_narrative_id=None,
+        grounded=True,
+        version=0,
+        confidence=1.0,
+        candidate_interpretations=[],
+        operation_arity=None,
+        slot_names=[],
         executable=False,
         execution_path=None,
         trigger_condition=None,
         arity=0,
         slots=[],
-        grounded=True,
-        version=0,
-        usage_count=0,
-        success_rate=0.0,
-        query_count=0,
-        confidence_score=1.0,
-        candidate_interpretations=[],
-        operation_arity=None,
-        slot_names=[],
-        provenance=provenance,
         created_at=time.time(),
     )
 ```
@@ -331,7 +348,7 @@ def intent(
 
 ### 7. Temp ID Contract & Batch Resolution
 
-DATA assigns temp IDs using a descending counter scoped to one observation:
+DATA assigns temp IDs using a descending counter scoped to one observation batch:
 
 ```python
 # Inside DATA
@@ -344,7 +361,7 @@ def _next_temp_id(self) -> int:
 
 The counter resets to 0 at the start of each observation batch.
 
-**Within a batch, temp IDs may appear in `children` and `relations.target_id`
+**Within a batch, temp IDs may appear in `nested` and `relations.target_id`
 of sibling compounds.** Before handing the batch to KNOW, DATA must resolve
 all internal temp ID references to the correct siblings.
 
@@ -352,31 +369,25 @@ Resolution algorithm:
 
 ```python
 def _resolve_batch(self, compounds: list[Compound]) -> list[Compound]:
-    """Replace all intra-batch temp ID references with correct positions.
+    """Replace all intra-batch temp ID references with correct sibling IDs.
 
-    After resolution, no temp ID should appear in any children list or
+    After resolution, no temp ID should appear in any nested list or
     relation target_id within the batch. The compounds' own .id fields
-    remain negative — KNOW replaces those.
+    remain negative — KNOW replaces those during store_batch.
     """
-    temp_to_index = {c.id: i for c in compounds for i in [compounds.index(c)]}
+    temp_to_compound = {c.id: c for c in compounds}
 
     for compound in compounds:
-        compound.children = [
-            compounds[temp_to_index[cid]].id if cid < 0 else cid
-            for cid in compound.children
+        compound.nested = [
+            temp_to_compound[nid].id if nid < 0 and nid in temp_to_compound else nid
+            for nid in compound.nested
         ]
         for relation in compound.relations:
-            if relation.target_id < 0:
-                relation.target_id = compounds[temp_to_index[relation.target_id]].id
+            if relation.target_id < 0 and relation.target_id in temp_to_compound:
+                relation.target_id = temp_to_compound[relation.target_id].id
 
     return compounds
 ```
-
-Note: after `_resolve_batch`, internal references still point to negative temp IDs
-(the siblings' own `.id` fields are still negative). KNOW receives the batch,
-assigns permanent IDs sequentially, and returns a `{temp_id: permanent_id}` map.
-DATA uses this map to do a final pass if needed, but since DATA discards the batch
-after storage, the map is primarily for logging/debugging in Phase 1.
 
 **KNOW's batch store contract:**
 
@@ -384,16 +395,15 @@ after storage, the map is primarily for logging/debugging in Phase 1.
 KNOW.store_batch(compounds: list[Compound]) -> dict[int, int]
 # Assigns permanent IDs (200+) in batch order.
 # Updates all .id fields in place.
-# Returns {temp_id: permanent_id} for the caller's reference.
-# All children and relation target_ids pointing to temp IDs in the batch
-# are also updated to permanent IDs before storage.
+# Updates all nested and relation target_ids from temp to permanent.
+# Creates a Definition Narrative for each new concept compound and
+# sets definition_narrative_id on the compound before persisting.
+# Returns {temp_id: permanent_id} for caller reference.
 ```
 
-KNOW handles the final temp→permanent ID swap for all fields because it is the
-only component that knows the permanent IDs at assignment time. DATA's
-`_resolve_batch` ensures all intra-batch references are structurally consistent
-before KNOW touches them — KNOW only needs to do a single sweep replacing
-negative IDs with their assigned permanent counterparts.
+KNOW handles the final temp→permanent ID swap because it is the only component
+that knows permanent IDs at assignment time. KNOW also creates the Definition
+Narrative for each new concept compound during store_batch.
 
 ---
 
@@ -406,34 +416,28 @@ Compounds serialise to/from dict for persistence (used by KNOW's autosave).
 def to_dict(self) -> dict:
     return {
         "id":                          self.id,
-        "text":                        self.text,
-        "compound_type":               self.compound_type,
-        "layer":                       self.layer,
+        "symbol":                      self.symbol,
         "primebit":                    self.primebit.value,
-        "children":                    self.children,
+        "nested":                      self.nested,
         "relations":                   [
             {
-                "role":      r.role,
+                "predicate": r.predicate,
                 "target_id": r.target_id,
-                "primebit":  r.primebit.value,
             }
             for r in self.relations
         ],
+        "definition_narrative_id":     self.definition_narrative_id,
+        "grounded":                    self.grounded,
+        "version":                     self.version,
+        "confidence":                  self.confidence,
+        "candidate_interpretations":   self.candidate_interpretations,
+        "operation_arity":             self.operation_arity,
+        "slot_names":                  self.slot_names,
         "executable":                  self.executable,
         "execution_path":              self.execution_path,
         "trigger_condition":           self.trigger_condition.value if self.trigger_condition else None,
         "arity":                       self.arity,
         "slots":                       [s.__dict__ for s in self.slots],
-        "grounded":                    self.grounded,
-        "version":                     self.version,
-        "usage_count":                 self.usage_count,
-        "success_rate":                self.success_rate,
-        "query_count":                 self.query_count,
-        "confidence_score":            self.confidence_score,
-        "candidate_interpretations":   self.candidate_interpretations,
-        "operation_arity":             self.operation_arity,
-        "slot_names":                  self.slot_names,
-        "provenance":                  self.provenance,
         "created_at":                  self.created_at,
     }
 
@@ -442,114 +446,125 @@ def from_dict(cls, d: dict) -> "Compound":
     tc = d.get("trigger_condition")
     return cls(
         id=                          d["id"],
-        text=                        d["text"],
-        compound_type=               d["compound_type"],
-        layer=                       d.get("layer", TYPE_TO_LAYER.get(d["compound_type"])),
+        symbol=                      d["symbol"],
         primebit=                    PrimeBit(d["primebit"]),
-        children=                    d.get("children", []),
+        nested=                      d.get("nested", []),
         relations=                   [
             Relation(
-                role=      r["role"],
-                target_id= r["target_id"],
-                primebit=  PrimeBit(r["primebit"]),
+                predicate=  r["predicate"],
+                target_id=  r["target_id"],
             )
             for r in d.get("relations", [])
         ],
+        definition_narrative_id=     d.get("definition_narrative_id"),
+        grounded=                    d.get("grounded", False),
+        version=                     d.get("version", 0),
+        confidence=                  d.get("confidence", 0.0),
+        candidate_interpretations=   d.get("candidate_interpretations", []),
+        operation_arity=             d.get("operation_arity"),
+        slot_names=                  d.get("slot_names", []),
         executable=                  d.get("executable", False),
         execution_path=              d.get("execution_path"),
         trigger_condition=           PrimeBit(tc) if tc is not None else None,
         arity=                       d.get("arity", 0),
         slots=                       [Slot(**s) for s in d.get("slots", [])],
-        grounded=                    d.get("grounded", False),
-        version=                     d.get("version", 0),
-        usage_count=                 d.get("usage_count", 0),
-        success_rate=                d.get("success_rate", 0.0),
-        query_count=                 d.get("query_count", 0),
-        confidence_score=            d.get("confidence_score", 0.0),
-        candidate_interpretations=   d.get("candidate_interpretations", []),
-        operation_arity=             d.get("operation_arity"),
-        slot_names=                  d.get("slot_names", []),
-        provenance=                  d.get("provenance", {}),
         created_at=                  d.get("created_at", time.time()),
     )
 ```
 
 ---
 
-### 9. Immutability Contract
+### 9. Identity vs Definition Contract
 
-Once a Compound has a permanent ID (≥ 200), it is treated as immutable.
-No prime may modify `primebit`, `text`, or `compound_type` after storage.
+A Compound's **identity** is stable once stored: `id`, `symbol`, `created_at`
+never change after permanent ID assignment.
 
-The only permitted post-storage mutation is the temp→permanent ID swap
-performed by KNOW during `store_batch` (Section 7).
+A Compound's **definition** is living: `primebit`, `nested`, `relations`,
+`confidence`, `version` evolve as SYMBOL enriches the concept over time.
+Each update increments `version` and is recorded in the Definition Narrative thread.
 
-If a concept evolves, a new Compound is created. The old one persists unchanged.
+Permitted post-storage mutations (via KNOW.refine_definition only):
+- `primebit` update — SYMBOL enrichment
+- `nested` update — new child compounds discovered
+- `relations` update — new definition relations confirmed
+- `grounded` flip False → True — SYMBOL confirmation, once only
+- `version` increment — automatic on any definition update
+- `confidence` update — SYMBOL enrichment
+- `definition_narrative_id` set — KNOW sets once on first storage
 
-Phase 1: immutability is enforced by convention, not by runtime guard.
-Phase 2: add a `__setattr__` guard that raises once a permanent ID is assigned.
+No prime may modify these fields directly. All definition updates go through
+`KNOW.refine_definition(compound_id, ...)` which enforces audit trail and versioning.
+
+Phase 2: add `__setattr__` guard raising `CompoundIdentityViolationError` if
+`id`, `symbol`, or `created_at` are modified after permanent ID assignment.
 
 ---
 
 ### 10. Logic Compounds
 
-Logic Compounds occupy IDs 100–199. They are defined in `core/logic_compounds.json`
-and loaded by KNOW at startup. They are never created by DATA or THINK at runtime.
+Logic Compounds occupy IDs 100–199. Defined in `core/logic_compounds.json`
+and loaded by KNOW at startup. Never created by DATA or THINK at runtime.
 
-They follow the same Compound schema and serialise identically. They are excluded
-from KNOW's autosave — always re-loaded from the JSON on startup.
+They follow the same Compound schema and serialise identically. Excluded from
+KNOW's autosave — always re-loaded from the JSON on startup.
 
 Their `compound_type` is `"logic"` and `layer` is `None`.
+
+Logic compounds serve two roles:
+1. Structural operators for reasoning (AND, OR, NOT, IF, THEN, IMPLIES)
+2. Predicate wrappers in relations — NOT(HAS) expressed as a relation whose
+   predicate references the NOT logic compound wrapping the HAS prime.
 
 ---
 
 ### 11. Known Risks & Phase 2 Notes
 
-**Runtime immutability:**
-Phase 1 relies on convention. Phase 2 must add a `__setattr__` guard on
-Compound that raises `ImmutableCompoundError` once `id >= 200`.
+**Definition Narrative split:**
+Phase 1 stores relations directly on the Compound for simplicity. Phase 2 must
+move relations into the Definition Narrative in KNOW, replacing them with only
+a `definition_narrative_id` pointer. This keeps the compound core record lean
+and cacheable while definitions grow arbitrarily.
+
+**Runtime identity guard:**
+Phase 1 relies on convention. Phase 2 must add a `__setattr__` guard raising
+`CompoundIdentityViolationError` if identity fields are modified after storage.
 
 ---
 
 ### 12. Tests — Phase 1
 
 **Construction helpers:**
-- `Compound.token()` produces `compound_type="data"`, `layer=0`, `executable=False`,
-  `grounded=False` by default.
-- `Compound.utterance()` produces `compound_type="aggregate"`, `layer=1`,
-  `children` in correct order.
-- `Compound.intent()` produces `compound_type="definition"`, `layer=2`,
-  relation pointing to utterance_id with role `"source"`.
+- `Compound.concept()` produces `grounded=False` by default, `executable=False`,
+  `nested=[]`, `relations=[]`, `definition_narrative_id=None`.
+- `Compound.utterance()` produces `grounded=True`, `nested` in correct order,
+  `primebit` is union of constituent concept primebits.
+- `Compound.intent()` produces `grounded=True`, one relation with
+  `predicate="FROM"` pointing to utterance_id.
 
 **TYPE_TO_LAYER:**
 - All seven compound_type values map correctly.
 - Unknown `compound_type` raises `ValueError` on construction.
+- `layer` is not present in `to_dict()` output — it is not stored.
 
 **Serialisation round-trip:**
 - `Compound.from_dict(c.to_dict()) == c` for Layer 0, 1, and 2 compounds.
 - PrimeBit fields survive round-trip correctly (int → PrimeBit → int).
-- `trigger_condition=None` serialises as `None` and deserialises as `None`.
-- `execution_path=None` serialises as `None`; `execution_path=[]` serialises as `[]`.
-- All refinement fields (`version`, `usage_count`, `success_rate`, `query_count`,
-  `confidence_score`, `candidate_interpretations`) survive round-trip.
-- `operation_arity=None` and `slot_names=[]` survive round-trip for non-logic compounds.
+- `trigger_condition=None` and `execution_path=None` survive round-trip.
+- `nested=[]`, `relations=[]`, `definition_narrative_id=None` survive round-trip.
 
-**New field defaults:**
-- All construction helpers produce `version=0`, `usage_count=0`, `success_rate=0.0`,
-  `query_count=0`, `candidate_interpretations=[]`, `operation_arity=None`, `slot_names=[]`.
-- `confidence_score` on token compounds is read from `provenance.get("confidence", 0.0)`.
-- `confidence_score` on utterance and intent compounds defaults to `1.0`.
+**Field absence:**
+- `to_dict()` must NOT contain: `text`, `children`, `compound_type`, `layer`,
+  `provenance`, `usage_count`, `success_rate`, `query_count`.
+- `from_dict()` must not raise if these keys are absent.
 
 **Temp ID batch resolution:**
-- A batch of one utterance + two tokens: after `_resolve_batch`, utterance
-  children list contains the token temp IDs (consistent within batch).
-- After `KNOW.store_batch`, all IDs are ≥ 200 and all internal references
-  are updated to permanent IDs.
-- No temp ID (negative value) appears anywhere in stored compounds.
+- Batch of one utterance + two concept compounds: after `_resolve_batch`,
+  utterance nested list references are consistent within batch.
+- After `KNOW.store_batch`, all IDs ≥ 200, all internal references permanent.
+- No negative ID appears anywhere in stored compounds.
 
 **Relation integrity:**
-- Relations with `target_id < 0` after `_resolve_batch` indicate a bug —
-  add an assertion that raises if any relation still has a temp target_id
+- Assertion raises if any relation has `target_id < 0` after `_resolve_batch`
   pointing outside the current batch.
 
 ---
@@ -558,11 +573,14 @@ Compound that raises `ImmutableCompoundError` once `id >= 200`.
 
 ---
 
-### D1. Runtime Immutability Enforcement
+### D1. Definition Narrative Split
 
-Add `__setattr__` guard on Compound. Once `self.id >= 200`, any attempt to
-set `primebit`, `text`, or `compound_type` raises `ImmutableCompoundError`.
-Permitted mutations after permanent ID assignment: none in normal operation.
+Move `relations` out of the Compound core record into the Definition Narrative
+stored separately in KNOW. Compound holds only `definition_narrative_id`.
+Relations loaded on demand via `KNOW.get_definition(compound_id)`.
+
+Key benefit: compound core record stays ~100 bytes and always cacheable.
+Definitions grow arbitrarily without bloating the hot cache.
 
 ---
 
@@ -570,44 +588,39 @@ Permitted mutations after permanent ID assignment: none in normal operation.
 
 ```python
 @classmethod
-def action(cls, text, primebit, execution_path, trigger_condition, arity, slots) -> Compound: ...
+def action(cls, symbol, primebit, execution_path, trigger_condition, arity, slots) -> Compound: ...
 
 @classmethod
-def macro(cls, text, primebit, execution_path, trigger_condition, arity, slots) -> Compound: ...
+def macro(cls, symbol, primebit, execution_path, trigger_condition, arity, slots) -> Compound: ...
 ```
 
-These are deferred until THINK is implemented (Phase 6 in the roadmap).
+Deferred until THINK is implemented.
 
 ---
 
-### D3. resolved_prime_mask
+### D3. Resolved Prime Mask
 
-For compounds with children, the effective prime set is the union of the
+For compounds with nested children, the effective prime set is the union of the
 compound's own primebit and all descendants' primebits recursively.
 
-Future: add optional `resolved_prime_mask: int | None` field to Compound.
-Cache in KNOW metadata. Invalidate when children change. Compute lazily
-in background. Presence signalled via `HAS_RESOLVED_MASK` in `rel_flags`.
+Add optional `resolved_prime_mask: int | None` field. Cache in KNOW. Invalidate
+when nested or relations change. Compute lazily in background.
 
 See PRIMEBIT_ARCHITECTURE.md Phase 2+ section D1 for full spec.
 
 ---
 
-### D5. Partitioned Storage API
+### D4. Runtime Identity Guard
 
-For large-scale storage, split Compound data into three partitions:
-- `main` — identity, primebit, type, layer, rel_flags (cheap, always loaded)
-- `relations` — children and relation entries (moderate cost, load on demand)
-- `context` — provenance, usage signals, large blobs (cold path)
-
-API: `get_compound_main(id)`, `get_compound_relations(id)`,
-`get_compound_context(id)`. Defined in KNOW's architecture, not here.
+Add `__setattr__` guard. Once `self.id >= 200`, modifying `id`, `symbol`, or
+`created_at` raises `CompoundIdentityViolationError`. Definition fields remain
+mutable via KNOW's refine_definition API only.
 
 ---
 
-### D6. Slot Filling & Execution Instantiation
+### D5. Slot Filling & Execution Instantiation
 
 When THINK executes an Action or Macro compound, it binds argument compounds
 to slots. The filled Compound is an instantiated copy — the original stored
-Compound is never modified. Define the instantiation contract and copy
-semantics when Layer 3 is implemented.
+Compound is never modified. Define instantiation contract when Layer 3 is
+implemented.

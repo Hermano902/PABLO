@@ -2,16 +2,16 @@ Narratives – Concept and Design
 
 
 Overview
-A Narrative is PABLO's unit of long-term contextual memory. Where compounds are universal and
-context-free, Narratives are specific and lived-in. A Narrative takes compounds as its building
-blocks and binds them to instances that exist only within the frame of that Narrative — with
-their own properties, their own history, and their own constraints.
+A Narrative is PABLO's unit of contextual memory. Where compounds are universal and
+context-free, Narratives are specific and lived-in. A Narrative takes compounds as its
+building blocks and binds them to instances that exist only within the frame of that
+Narrative — with their own properties, their own history, and their own constraints.
 
 This is the structural difference:
 
-  Compound:   BALL          — "a ball, in general"
+  Compound:   BALL          — "a ball, in general" — universal meaning, stable definition
   Narrative binding: THIS_BALL
-              base:     → BALL
+              base:     → BALL compound
               state:    red, dirty, slightly deflated
               owner:    → THIS_ALICE
               history:  [was clean, became dirty at T+3 when Alice threw it]
@@ -19,11 +19,21 @@ This is the structural difference:
 The compound BALL is untouched. THIS_BALL is what PABLO consciously reasons about
 within this frame. When the Narrative ends or is archived, BALL is still clean.
 
+Note: Compounds themselves carry a living definition Narrative — a permanent record
+of how the concept's universal meaning has been built and refined over time. That is
+a different kind of Narrative from the ones described in this document. Definition
+Narratives are universal and never closed. The Narratives described here are
+contextual — episodic or relational — and are specific to instances, events, and
+relationships. See COMPOUND_CONCEPT.md for definition Narrative details.
+
 
 Why Narratives Are Not a Compound Layer
 
-Compounds are structured up to Layer 4 (Token → Utterance → Intent → Action → Macro).
-They are semantic building blocks: universal, reusable, immutable after creation.
+Compounds are structured up to Layer 4 (Concept → Utterance → Intent → Action → Macro).
+They are semantic building blocks: universal, reusable, with stable prime-grounded
+identities. A compound's primebit and nested structure represent its universal meaning.
+That meaning refines over time through its definition Narrative — but it remains
+universal and context-free.
 
 Narratives are not a Layer 5. They are a different kind of structure entirely:
 
@@ -84,10 +94,10 @@ Snap {
 }
 ```
 
-**The base compound is never modified.** The Binding's `current` dict carries all
-narrative-specific properties (color, condition, ownership, role). When a property
-changes, a new Snap is appended to `history` before `current` is updated. The full
-causal chain is always preserved.
+**The base compound is never modified by Narrative operations.** The Binding's
+`current` dict carries all narrative-specific properties (color, condition, ownership,
+role). When a property changes, a new Snap is appended to `history` before `current`
+is updated. The full causal chain is always preserved.
 
 
 Constraints
@@ -211,15 +221,17 @@ compounds.json), loaded into memory on startup for any that are open.
 
 Read-Only Guarantee on Base Compounds
 
-This is an inviolable rule:
+This is an inviolable rule for Narrative operations:
 
-  A Narrative binding NEVER modifies its base compound.
+  A Narrative binding NEVER modifies its base compound as a side effect.
 
 If THINK learns something new about Alice within a Narrative (she moved to Paris),
 that fact lives in THIS_ALICE.current["location"]. It does not update compound #42.
-If that fact is later confirmed to be universally true (not just narrative-local),
-THINK may separately request KNOW to update the compound — but this is an explicit
-deliberate act, not a side effect of narrative reasoning.
+
+If that fact is later confirmed to be universally true — not just narrative-local —
+THINK may separately request KNOW to update the compound's definition Narrative. But
+this is an explicit, deliberate act with its own audit trail. It is never a silent
+side effect of instance reasoning.
 
 This rule keeps compounds clean, universal, and trustworthy as building blocks across
 all reasoning contexts.
@@ -227,22 +239,27 @@ all reasoning contexts.
 
 Narratives and the Full Cognitive Stack
 
-  Primes          — atomic capabilities and descriptors (63, fixed)
-  Compounds       — structured meaning in prime-space (universal, reusable, immutable)
-  Narratives      — contextual instances in instance-space (specific, lived-in, temporal)
+  Primes                — atomic capabilities and descriptors (63, fixed)
+  Compounds             — structured meaning in prime-space (universal, stable identity)
+  Definition Narratives — living definitions embedded in each compound (universal,
+                          never closed, refined over time by SYMBOL and THINK)
+  Instance Narratives   — contextual memory in instance-space (specific, lived-in,
+                          episodic or relational, owned by THINK)
   ─────────────────────────────────────────────────────────────────────────
   Primes build Compounds.
-  Compounds are the building blocks of Narratives.
-  Narratives are what PABLO consciously operates on.
+  Compounds carry Definition Narratives that express their universal meaning.
+  Instance Narratives use Compounds as building blocks for contextual reasoning.
+  THINK consciously operates on Instance Narratives.
 
-This three-layer stack is complete. Any concept PABLO can perceive, structure, or reason
-about can be represented within it: primes ground meaning, compounds express it universally,
-narratives contextualise it specifically.
+This four-layer stack is complete. Any concept PABLO can perceive, structure, or reason
+about can be represented within it: primes ground meaning, compounds express it
+universally, definition narratives grow it over time, instance narratives
+contextualise it specifically.
 
 
 Narrative Types
 
-Not all Narratives are the same kind of frame. There are two fundamental types:
+Not all instance Narratives are the same kind of frame. There are two fundamental types:
 
   Episodic Narrative
     A single conversation, task, or event. Has a clear start and end.
@@ -322,7 +339,6 @@ Relational Narrative Lifecycle
                     Narrative is closed and archived — not deleted. History is permanent.
 
 
-
   ✅ Narrative, Binding, Snap, Constraint, NarrativeEvent data structures defined
   ✅ KNOW storage contract (store/get/open/close/archive)
   ✅ THINK: identify narrative context (new vs resume)
@@ -335,7 +351,7 @@ Relational Narrative Lifecycle
   ❌ History traversal reasoning ("has it always been red?") (Phase 2)
   ❌ Narrative archiving + compression (Phase 2)
   ❌ Cross-narrative entity resolution (Phase 3)
-  ❌ Compound promotion (narrative fact → universal compound update) (Phase 3)
+  ❌ Compound promotion (narrative fact → universal compound definition update) (Phase 3)
 
 Phase 1 establishes the full structure and ensures THINK reasons in instance-space
 from the first conversation cycle. Constraint enforcement and deep history reasoning

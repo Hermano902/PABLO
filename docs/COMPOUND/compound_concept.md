@@ -2,14 +2,15 @@ Compound – Concept
 
 
 Overview
-A Compound is the universal unit of representation in PABLO. Everything PABLO perceives,
-understands, remembers, plans, and executes is a Compound. A raw word, a complete utterance,
-a detected intent, a task request, an execution plan, a self-created capability — all of
-these are Compounds. They differ in layer and type, not in kind.
+A Compound is the universal unit of meaning in PABLO. Everything PABLO understands,
+remembers, plans, and executes is a Compound. A concept, a detected intent, a task
+request, an execution plan, a self-created capability — all of these are Compounds.
+They differ in layer and complexity, not in kind.
 
-A Compound is not a passive data record. It is prime-grounded: its meaning derives from
-which primes are encoded in its PrimeBit. The text field exists for human readability only.
-Semantic content lives in the PrimeBit and in the Compound's relations to other Compounds.
+A Compound is not a passive data record. It is the actual meaning of something —
+expressed entirely in the 63 primes and in relations to other Compounds. The symbol
+field is only the human-language handle that points to this meaning. The symbol is
+not the compound. The compound IS the meaning the symbol refers to.
 
 Crucially, Compounds are not limited to describing things. Higher-layer Compounds are
 executable — they carry an execution path and can be run by THINK directly. This means
@@ -17,12 +18,131 @@ PABLO can create new capabilities at runtime, store them as Compounds, and execu
 later without any change to the prime layer. Behaviour is emergent from Compound composition.
 
 
+Symbols and Compounds
+In PABLO, human language words are symbols — pointers to meaning, not meaning itself.
+"cat" is a symbol. The Compound it points to is the actual meaning: a living entity
+with a body that can move and be felt. "read" is a symbol. The Compound it points to
+is the execution of the act of reading — which ultimately maps to the READ prime.
+
+SYMBOL's job is to resolve symbols into Compounds. Once resolved, PABLO never reasons
+about the symbol — it reasons about the Compound. The symbol is discarded after grounding.
+Only the meaning persists.
+
+This separation is fundamental. It means:
+- The same Compound can be referenced by multiple symbols across languages.
+- A Compound's meaning can evolve without changing the symbol.
+- PABLO reasons in prime-space, not in human language space.
+
+
+The Reverse Pyramid
+Every Compound, no matter how complex, resolves to the 63 primes when fully expanded.
+This is the reverse pyramid: a directed graph that always terminates at primes.
+
+  "philosophical_debate"
+          ↓
+  "argument" + "ideas" + "people"
+          ↓
+  "conversation" + "conflict" + "concept"
+          ↓
+  SAY, HEAR, OTHER, WANT, THINK, FEEL, BAD
+          ↓
+      63 PRIMES  ← every path terminates here
+
+Simple concepts hit primes immediately. Complex concepts walk through layers of nested
+Compounds. But every single path, no matter how deep, terminates at primes. A Compound
+that cannot be fully resolved to primes is not grounded — it is flagged and queued for
+enrichment.
+
+Three natural complexity levels emerge:
+
+  Prime-terminal    primebit only, no nested Compounds
+                    "fast", "left", "now" — one step to primes
+
+  Shallow-nested    primebit + nested Compounds
+                    "cat" → cat_body → primes — two steps
+
+  Deep-nested       nested Compounds only, no direct primes
+                    "philosophical_debate" → ... → primes — N steps, always terminates
+
+
+The Definition Narrative
+Every Compound carries a living definition — a permanent, never-closed Narrative
+embedded within the Compound's record in KNOW. This definition Narrative is not an
+instance of something that happened. It is a growing description of what the concept
+universally means.
+
+The definition Narrative contains:
+  relations   predicate → target links that form the actual definition
+  thread      ordered history of how the meaning was built and refined over time
+  constraints rules that must hold for this definition ("cat ALWAYS HAS body")
+
+"cat" definition Narrative:
+  relations:
+      BE       → ENTITY
+      KIND     → LIFE
+      HAS      → cat_body_compound
+      CAN      → MOVE
+      FEEL     → GOOD
+      NOT(HAS) → wing_compound
+
+  thread:
+      "BE→ENTITY added on first observation"
+      "HAS→cat_body added after 12 observations with body detail"
+      "NOT(HAS)→wing added after encountering flying cats incorrectly"
+
+The definition deepens over time as PABLO encounters the concept in more contexts.
+It starts minimal — just enough to distinguish this concept from others — and accretes
+detail through experience. No complete definition is required upfront.
+
+Because definitions are stored separately in KNOW and loaded on demand, Compounds
+themselves stay lean. The primebit provides a fast index. The definition Narrative
+provides the full meaning when deep reasoning is needed. Most operations never
+load the definition at all.
+
+
+Relations — Predicate → Target
+Relations in a definition use prime predicates to express how concepts connect.
+The predicate is always one of the 63 primes (or a logic compound wrapping a prime).
+The target is always a Compound ID or prime.
+
+  predicate   which prime governs this link
+  target_id   compound this relation points to
+
+Examples:
+  BE   → ENTITY       # cat is an entity
+  KIND → LIFE         # cat is a kind of living thing
+  HAS  → cat_body     # cat has a body
+  CAN  → MOVE         # cat can move
+
+Negation wraps the predicate, never the target:
+  NOT(HAS) → WING     # cat does not have wings — correct
+  HAS → NOT(WING)     # wrong — "has a not-wing" is nonsensical
+
+NOT is a logic compound (IDs 100–199). Wrapping a predicate in NOT is a valid
+relation — it means the predicate relationship does not hold. The target remains
+a clean compound or prime reference.
+
+Complexity in definitions is expressed through nested Compounds, not through
+richer relation schemas. When "cat has 4 legs, a tail, and fur" needs encoding:
+
+  cat_body Compound:
+      PART → leg_compound  (×4)
+      PART → tail_compound
+      PART → fur_compound
+
+  cat Compound:
+      HAS → cat_body      # one relation, full detail available on demand
+
+The relation schema stays simple — predicate → target — forever. Depth lives
+in the Compound graph, not in the relation structure.
+
+
 The Layer Model
 Compounds exist in five conceptual layers. Each layer builds on the one below it.
 The layers are not stored separately — they are all Compounds in KNOW — but they have
-different types, different fields populated, and different roles in the pipeline.
+different roles in the pipeline.
 
-Layer 0 — Token
+Layer 0 — Concept (formerly Token)
 Layer 1 — Utterance
 Layer 2 — Intent
 Layer 3 — Action
@@ -30,36 +150,43 @@ Layer 4 — Macro
 
 ────────────────────────────────────────────────────────────────────────────────────────────
 
-Layer 0: Token Compound
-The smallest meaningful unit.
+Layer 0: Concept Compound
+The canonical definition of a symbol's meaning. One per unique concept, not one per
+observation. When PABLO encounters "cat" for the thousandth time, it does not create
+a new Compound — it finds the existing "cat" Compound and records the instance in a
+Narrative.
 
-Created by:  DATA, one per word/token in a READ observation.
-PrimeBit:    Set by SYMBOL. Encodes which primes best represent this token's meaning.
-             "cat"     → {SEE, FEEL, MOVE}     (perceived animate mover)
-             "left"    → {MOVE, SPACE}
-             "fast"    → {MOVE, MORE, TIME, LESS}
-compound_type: "data"
+Created by:  DATA on first encounter. Updated by SYMBOL as meaning refines.
+PrimeBit:    Set by SYMBOL. Fast index of which primes are present in this concept.
+             "cat"   → {LIFE, ENTITY, MOVE, FEEL}
+             "left"  → {LEFT, MOVE}
+             "fast"  → {MOVE, MORE, TIME, LESS}
+nested:      Child Compound IDs whose meanings compose this concept's full definition.
+definition:  The living definition Narrative — loaded on demand from KNOW.
 executable:  False
-Lifecycle:   Created ungrounded → SYMBOL grounds it → KNOW stores it.
+Lifecycle:   Created ungrounded → SYMBOL grounds it → definition deepens over time.
 
-Token Compounds are descriptors. They represent what something IS, not what to do about it.
+Concept Compounds are universal and context-free. They represent what something IS
+across all contexts. Contextual instances — when and how a concept appeared — live
+in Narratives, not in the Compound.
 
 ────────────────────────────────────────────────────────────────────────────────────────────
 
 Layer 1: Utterance Compound
-A complete unit of input — one full message from the user, structured as an aggregate.
+A complete unit of input — one full message, structured as an ordered aggregate of
+concept Compounds.
 
-Created by:  DATA, after processing all tokens in a single READ observation.
-PrimeBit:    Union of all constituent token primebits — the "flavour" of the whole utterance.
-compound_type: "aggregate"
-children:    Ordered list of the token Compound IDs that make up the utterance.
-relations:   Structural roles — subject, verb, object, modifier — linking children.
+Created by:  DATA, after resolving all tokens in a single READ observation to their
+             canonical concept Compounds.
+PrimeBit:    Union of all constituent concept primebits — the "flavour" of the utterance.
+nested:      Ordered list of the concept Compound IDs that make up the utterance.
+relations:   Structural roles linking nested concepts — subject, verb, object, modifier.
 executable:  False
-Lifecycle:   Assembled after all tokens are grounded.
+Lifecycle:   Assembled after all tokens are resolved to concept Compounds.
 
 An Utterance Compound is still a descriptor. It represents what was said, preserving
-the full structure. THINK reads Utterance Compounds to understand the complete context
-of what arrived before deciding what — if anything — needs to happen.
+the full structure. The specific instance — who said it, when, in what context — is
+recorded in the active Narrative, not in the Utterance Compound itself.
 
 ────────────────────────────────────────────────────────────────────────────────────────────
 
@@ -122,7 +249,7 @@ When THINK executes an Action Compound:
 3. Each prime step: call that prime with the current context.
 4. Each compound step: execute that Compound recursively (it must be executable).
 5. Collect results.
-6. Record success/failure in the Action Compound's refinement.success_rate.
+6. Record success/failure via KNOW's refinement tracking for this Compound.
 
 ────────────────────────────────────────────────────────────────────────────────────────────
 
@@ -161,7 +288,7 @@ The evolutionary progression:
   Stage 4 — Self-optimising graph
     PABLO observes that two Macros share sub-paths.
     It factors out the common sub-path into a new shared Macro.
-    refinement.success_rate and refinement.usage_count drive retirement of weak paths.
+    KNOW's refinement tracking drives retirement of weak paths.
     The Compound graph compresses and specialises over time without external instruction.
 
 ────────────────────────────────────────────────────────────────────────────────────────────
@@ -181,60 +308,67 @@ The prime system was always carrying this signal. No separate intent parser is n
 The vocabulary of what something IS is the same as the vocabulary of what to DO about it.
 
 
+This rule applies to context-specific compounds too, but note that whether to act
+is ultimately determined by the Narrative context and SELF's salience scoring —
+not by the Compound alone. A Compound containing WANT does not automatically trigger
+execution. SELF decides whether THINK is woken for it.
+
+
 Full Field Reference
 
-Field               Type              Layers    Description
-id                  int               all       Permanent unique ID. Assigned by KNOW.
-text                str               all       Human-readable label. Semantic content lives in primebit.
-primebit            PrimeBit          all       Prime encoding of this compound's meaning.
-compound_type       str               all       See types below.
-grounded            bool              all       True once SYMBOL has confirmed the primebit.
-version             int               all       Incremented on meaningful update.
-relations           [(role, id)]      all       Directed role-labelled links to other compounds.
-children            [int]             1,2,3,4   Ordered child compound IDs (members of this aggregate).
-executable          bool              3,4       True = this compound has an execution path.
-execution_path      [Step]            3,4       Ordered execution steps. See Layer 3 above.
-trigger_condition   PrimeBit|None     3,4       Primebit pattern that auto-activates this compound.
-arity               int               3,4       Number of argument slots.
-slots               [str]             3,4       Named argument slots matching arity.
-operation_arity     int               logic     For logic compounds: how many operands.
-slot_names          [str]             logic     Operand slot names for logic compounds.
+Field                        Type              Layers    Description
+id                           int               all       Permanent unique ID. Assigned by KNOW.
+symbol                       str               all       Human-language handle. Not the meaning —
+                                                         a pointer to it. ("cat", "read", "fast")
+primebit                     PrimeBit          all       Fast prime index — which primes are present.
+                                                         Used for routing and filtering. Not the
+                                                         full definition — that lives in definition.
+nested                       [int]             all       Child Compound IDs whose meanings compose
+                                                         this concept. Empty for prime-terminal
+                                                         concepts. Together with primebit, these
+                                                         define the reverse pyramid structure.
+definition_id                int               all       ID of this Compound's definition Narrative
+                                                         in KNOW. Loaded on demand. Contains the
+                                                         full relations, thread, and constraints.
+grounded                     bool              all       True when full resolution terminates at
+                                                         primes. False = still being enriched.
+version                      int               all       Incremented each time the definition refines.
+confidence                   float             all       Certainty of current primebit encoding (0–1).
+candidate_interpretations    [dict]            all       Alternative primebits considered by SYMBOL
+                                                         during grounding. Retained for refinement.
+executable                   bool              3,4       True = this compound has an execution path.
+execution_path               [Step]            3,4       Ordered execution steps. See Layer 3 above.
+trigger_condition            PrimeBit|None     3,4       Primebit pattern that auto-activates this.
+arity                        int               3,4       Number of argument slots.
+slots                        [str]             3,4       Named argument slots matching arity.
+operation_arity              int               logic     For logic compounds: number of operands.
+slot_names                   [str]             logic     Operand slot names for logic compounds.
 
-Data Buckets (present on all layers):
-
-core
-  token, token_lower     The original token string (Layer 0).
-  prime_name             Primary prime name, if single-prime.
-  is_known               Whether this compound matched an existing KNOW entry.
-
-provenance
-  created_at             ISO timestamp.
-  provenance             Ordered list of processing steps.
-  source                 Origin: "keyboard", "file", "screen", "think", "macro", etc.
-  observation_id         Source READ observation ID.
-  raw_observation        Original input string.
-  observation_tokens     All tokens from the originating observation.
-  sibling_tokens         Co-occurring tokens (context).
-  position               Token index in original observation.
-
-refinement
-  usage_count            Times this compound has been used.
-  success_rate           Fraction of uses with successful outcomes.
-  query_count            Times retrieved by KNOW.
-  candidate_interpretations   Alternative primebits considered during grounding.
-  confidence_score       SYMBOL's grounding confidence (0.0–1.0).
+Fields removed from previous versions:
+  text              — replaced by symbol (same purpose, clearer name)
+  compound_type     — derived from executable + nested structure, not a stored field
+  layer             — derived from compound_type, not a stored field
+  children          — replaced by nested (same purpose, clearer semantics)
+  relations         — moved into definition Narrative; accessed via definition_id
+  provenance bucket — observation context belongs in Narratives, not Compounds
+  refinement bucket — usage_count, success_rate, query_count belong in KNOW's
+                      refinement tracking layer, not in the Compound definition
 
 
 Compound Types
 
 logic      Pre-defined structural operators (AND, OR, NOT, IF, THEN, etc.).
            Loaded from core/logic_compounds.json. IDs 100–199. Read-only.
+           Used as predicate wrappers in relations (e.g. NOT(HAS) → WING).
 
-data       Layer 0 token compound. One per token, from READ observations. IDs 200+.
+concept    Layer 0. Canonical definition of a symbol's meaning. One per unique concept.
+           Replaces the old "data" type — a concept is not raw data, it is meaning.
 
-aggregate  Layer 1 utterance compound. Groups ordered token Compounds.
+utterance  Layer 1. Aggregate of ordered concept Compounds from one READ observation.
+           Replaces the old "aggregate" type.
 
-definition Layer 2 intent compound. THINK's interpretation of an utterance.
+intent     Layer 2. THINK's interpretation of an utterance.
+           Replaces the old "definition" type.
 
 action     Layer 3 executable compound. Derived by THINK. Has execution_path.
 
@@ -249,16 +383,43 @@ ID Ranges
 Range       Purpose
 0–99        Reserved for system bootstrapping.
 100–199     Logic compounds (fixed at startup).
-200+        All runtime compounds — data, aggregate, definition, action, macro, internal.
+200+        All runtime compounds — concept, utterance, intent, action, macro, internal.
             Assigned sequentially by KNOW.
+
+
+Compounds and Narratives — The Boundary
+Compounds are universal and context-free. They represent what something means
+across all contexts, all times, all observations.
+
+Narratives are contextual and temporal. They represent what happened — when a
+concept appeared, alongside what, behaving how, in what relationship.
+
+When PABLO processes "the cat moved left":
+  KNOW holds (universal):
+      Compound "cat"   — definition deepens over time
+      Compound "moved" — maps to MOVE prime
+      Compound "left"  — maps to LEFT prime
+
+  Narrative holds (instance):
+      THIS_CAT appeared at position 1
+      THIS_CAT performed MOVE in direction LEFT
+      Timestamp, context, relationship to other entities in this episode
+
+A Compound is never modified to record an instance. An instance is always recorded
+in a Narrative. This separation keeps Compounds clean as universal building blocks
+and Narratives rich as contextual memory.
+
+
+This rule keeps compounds clean, universal, and trustworthy as building blocks across
+all reasoning contexts.
 
 
 The Full Pipeline
 
   READ detects input
     → observation_queue
-      → SYMBOL interprets observation → near-compound candidates
-        → DATA validates candidates → Layer 0 token Compounds + Layer 1 utterance Compound
+      → SYMBOL interprets observation → resolves symbols to concept Compounds
+        → DATA assembles → Layer 0 concept Compounds + Layer 1 utterance Compound
           → KNOW stores → permanent IDs assigned
             → THINK reads Utterance Compound
               → builds Intent Compound (Layer 2)
@@ -270,9 +431,10 @@ The Full Pipeline
                                  → SAY result
 
 
-See core/compound.py for the current implementation (Layers 0–1 implemented; 2–4 planned).
+See core/compound.py for the implementation.
 See docs/PRIMEBIT/CONCEPT.md for PrimeBit encoding.
 See docs/PRIMES/DATA/CONCEPT.md for Layer 0 compound creation.
-See docs/PRIMES/SYMBOL/CONCEPT.md for grounding.
-See docs/PRIMES/KNOW/CONCEPT.md for storage and retrieval.
-See docs/PRIMES/THINK/CONCEPT.md for Intent, Action, and Macro compound creation (planned).
+See docs/PRIMES/SYMBOL/CONCEPT.md for symbol resolution and grounding.
+See docs/PRIMES/KNOW/CONCEPT.md for storage, definition narratives, and refinement tracking.
+See docs/PRIMES/NARRATIVES/CONCEPT.md for instance-space reasoning.
+See docs/PRIMES/THINK/CONCEPT.md for Intent, Action, and Macro compound creation.
