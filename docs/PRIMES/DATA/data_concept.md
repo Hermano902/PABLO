@@ -61,20 +61,32 @@ What DATA Does with a Near-Compound Candidate
    This ID is passed to KNOW for recording in the active Instance Narrative.
    It does not live on the Compound itself.
 
-4. Resolve or create Layer 0 concept Compounds (one per unique token)
+4. Resolve or create Layer 0 concept Compounds (one per unique surface form)
 
    For each token in the observation:
 
-   a. Check KNOW for an existing concept Compound matching this symbol.
+   a. Check KNOW for an existing concept Compound matching this exact surface form.
+      KNOW.by_symbol(token_text) performs an exact string match.
       If found → use the existing Compound. No new Compound is created.
+      This works for both root compounds and family members — "ran" is found
+      directly by its surface form, not by looking up "run" first.
       The concept's definition is already in KNOW — DATA just references it.
 
-   b. If not found → create a new concept Compound:
+   b. If not found → SYMBOL has already handled family member derivation (see
+      SYMBOL_CONCEPT.md "Lemmatization and Family Member Resolution"). By the time
+      DATA receives the candidate, it is either:
+        - A root compound candidate (no family relation)
+        - A family member candidate (KIND relation to root already set by SYMBOL)
+      DATA treats both identically — validate and commit.
+
+   c. If creating a new concept Compound:
       - id:          temporary negative ID — KNOW assigns permanent IDs
-      - symbol:      token string
+      - symbol:      exact surface form string (e.g. "ran", not "run")
       - grounded:    True if prime was confirmed above threshold; False if placeholder
       - primebit:    set from candidate_primes if confident; minimal estimate if placeholder
-      - nested:      empty at creation — SYMBOL populates via enrichment path
+                     For family members: root primebit ∪ grammatical primes (set by SYMBOL)
+      - nested:      empty for root compounds; [root_id] for family members
+      - relations:   empty for root compounds; [KIND→root_id] for family members
       - confidence:  from candidate confidence score
       - candidate_interpretations: alternative primebits considered, from candidate
 

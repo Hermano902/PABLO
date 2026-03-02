@@ -1,505 +1,719 @@
 """
-KNOW Prime - Knowledge storage and retrieval with persistence.
+KNOW — Knowledge Management Prime
+
+Central storage and retrieval for all compounds, definition narratives,
+instance narratives, and refinement tracking.
+
+Pipeline position: DATA → KNOW (storage)  |  THINK → KNOW (intent storage)
+Other primes query KNOW to access stored compounds.
+
+Authoritative doc: docs/PRIMES/KNOW/KNOW_ARCHITECTURE.md
 """
 
-import time
-import threading
-import queue
+from __future__ import annotations
+
 import json
 import os
-from typing import Dict, Any, Optional, List
-from core.prime_base import Prime, PrimeError
-from core.compound import Compound
-from core.primebit import PrimeBit
-from core.queues import observation_queue, prime_registry
-from core.persistence import persistence
+import queue
+import threading
+import time
+from collections import OrderedDict
+from dataclasses import dataclass
+from typing import Any, Callable, Dict, List, Optional
 
+from core.prime_base import Prime, PrimeError
+from core.compound import Compound, Relation
+from core.narrative import DefinitionNarrative, Narrative
+from core.primebit import PrimeBit
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# RefinementRecord
+# ══════════════════════════════════════════════════════════════════════════════
+
+@dataclass
+class RefinementRecord:
+    """Usage / outcome tracking for a single compound."""
+    compound_id:  int
+    usage_count:  int   = 0
+    success_rate: float = 0.0
+    query_count:  int   = 0
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# KNOW Prime
+# ══════════════════════════════════════════════════════════════════════════════
 
 class KNOW(Prime):
-    """KNOW prime for knowledge storage and retrieval."""
-    
+    """
+    Knowledge storage and retrieval prime.
+
+    Four in-memory stores with separate locks:
+      _compounds    — all Compound objects (logic + runtime)
+      _definitions  — DefinitionNarrative per concept compound
+      _narratives   — Instance Narratives (episodic / relational)
+      _refinement   — RefinementRecord per compound
+
+    Hot LRU cache over compound records (OrderedDict, configurable max).
+
+    Singleton: ``know = KNOW()`` exported at module level.
+    """
+
     def __init__(self, enable_persistence: bool = True):
-        super().__init__("KNOW")
-        self._store = {}  # ID -> Compound
-        self._next_id = 200  # Start after system compounds (0-99) and logic compounds (100-199)
-        self._lock = threading.RLock()
-        self._load_logic_compounds()  # Load system logic operators
-        self._input_thread = None
-        self._running = False
-        self._stats = {
-            "compounds_stored": 0,
-            "compounds_retrieved": 0,
-            "queries_processed": 0,
-            "errors": 0,
-            "loads_from_disk": 0,
-            "saves_to_disk": 0
-        }
+        super().__init__("KNOW", metadata={
+            "role":        "storage",
+            "description": "Central compound storage and retrieval",
+        })
+
+        # ── Compound store ────────────────────────────────────────────────
+        self._compounds:   Dict[int, Compound] = {}
+        # NOTE: self._lock is already created by Prime.__init__ (RLock)
+        self._next_id:     int = 200   # 0-99 reserved, 100-199 logic, 200+ runtime
+
+        # ── Definition Narrative store ────────────────────────────────────
+        self._definitions: Dict[int, DefinitionNarrative] = {}
+        self._def_lock     = threading.RLock()
+        self._next_def_id: int = 1
+
+        # ── Instance Narrative store ──────────────────────────────────────
+        self._narratives:  Dict[int, Narrative] = {}
+        self._nar_lock     = threading.RLock()
+        self._next_nar_id: int = 1
+
+        # ── Refinement tracking ───────────────────────────────────────────
+        self._refinement:  Dict[int, RefinementRecord] = {}
+        self._ref_lock     = threading.RLock()
+
+        # ── Hot cache (LRU) ───────────────────────────────────────────────
+        self._cache: OrderedDict[int, Compound] = OrderedDict()
+        self._cache_max_size: int = 1000
+
+        # ── Layer 1 commit listeners ──────────────────────────────────────
+        self._layer1_listeners: List[Callable] = []
+
+        # ── Maintenance / enrichment ──────────────────────────────────────
+        self._enrichment_queue: queue.Queue = queue.Queue()
+
+        # ── Persistence ───────────────────────────────────────────────────
         self._enable_persistence = enable_persistence
-        self._autosave_interval = 30  # seconds
-        self._last_autosave = 0
-        self._autosave_thread = None
-    
+        self._autosave_interval  = 30   # seconds
+
+        # ── Threading bookkeeping ─────────────────────────────────────────
+        self._running = False
+        self._threads: List[threading.Thread] = []
+
+        # ── Statistics ────────────────────────────────────────────────────
+        self.stats: Dict[str, int] = {
+            "compounds_stored":    0,
+            "compounds_retrieved": 0,
+            "definitions_loaded":  0,
+            "narratives_stored":   0,
+            "queries_processed":   0,
+            "cache_hits":          0,
+            "enrichment_queued":   0,
+            "errors":              0,
+            "loads_from_disk":     0,
+            "saves_to_disk":       0,
+        }
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Initialization / Shutdown
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _on_initialize(self) -> None:
+        self._running = True
+        self._load_logic_compounds()
+        self._load_from_disk()
+        self._bootstrap_relational_narrative()
+        self._start_autosave_thread()
+        self._start_maintenance_thread()
+        print(f"KNOW: Initialized with {len(self._compounds)} compounds")
+
+    def _on_shutdown(self) -> None:
+        self._running = False
+        if self._enable_persistence:
+            self._save_to_disk()
+        for t in self._threads:
+            t.join(timeout=2.0)
+        print("KNOW: Shutdown complete")
+
+    # ── Logic compound loading ────────────────────────────────────────────
+
     def _load_logic_compounds(self) -> None:
-        """Load pre-defined logic compounds from JSON file."""
+        """Load IDs 100-199 from core/logic_compounds.json and pre-cache."""
         try:
-            # Get path to logic_compounds.json
-            current_dir = os.path.dirname(os.path.abspath(__file__))
-            logic_compounds_path = os.path.join(current_dir, "..", "core", "logic_compounds.json")
-            
-            if not os.path.exists(logic_compounds_path):
-                print(f"KNOW: Warning - logic_compounds.json not found at {logic_compounds_path}")
-                return
-            
-            with open(logic_compounds_path, 'r') as f:
-                compounds_list = json.load(f)
-            
-            with self._lock:
-                for compound_dict in compounds_list:
-                    try:
-                        # Create Compound from dict
-                        compound = Compound.from_dict(compound_dict)
-                        compound_id = compound_dict["id"]
-                        self._store[compound_id] = compound
-                        
-                        # Update _next_id if needed (should be 200 already)
-                        if compound_id >= self._next_id:
-                            self._next_id = compound_id + 1
-                    except Exception as e:
-                        print(f"KNOW: Error loading logic compound {compound_dict.get('id')}: {e}")
-                
-                print(f"KNOW: Loaded {len([c for c in compounds_list])} logic compounds (IDs 100-109)")
-        
+            json_path = os.path.join(
+                os.path.dirname(os.path.dirname(__file__)),
+                "core", "logic_compounds.json",
+            )
+            with open(json_path, "r") as f:
+                entries = json.load(f)
+            for entry in entries:
+                c = Compound.from_dict(entry)
+                self._compounds[c.id] = c
+                self._cache_put(c)
+                self._refinement[c.id] = RefinementRecord(compound_id=c.id)
+            print(f"KNOW: Loaded {len(entries)} logic compounds (100-{99 + len(entries)})")
+        except FileNotFoundError:
+            print("KNOW: Warning — logic_compounds.json not found")
         except Exception as e:
             print(f"KNOW: Error loading logic compounds: {e}")
-        
-    def initialize(self) -> None:
-        """Start the input processing thread and load from persistence."""
-        super().initialize()
-        
-        # Load from persistence if enabled
-        if self._enable_persistence:
-            self._load_from_persistence()
-        
-        self._running = True
-        self._input_thread = threading.Thread(target=self._input_loop, daemon=True)
-        self._input_thread.start()
-        
-        # Start autosave thread if persistence enabled
-        if self._enable_persistence:
-            self._autosave_thread = threading.Thread(target=self._autosave_loop, daemon=True)
-            self._autosave_thread.start()
-        
-        storage_info = persistence.get_storage_info()
-        print(f"KNOW initialized - {len(self._store)} compounds loaded, persistence: {self._enable_persistence}")
-        if self._enable_persistence and storage_info["data_file_exists"]:
-            print(f"  Storage: {storage_info['data_file']} ({storage_info.get('data_file_size', 0)} bytes)")
-    
-    def shutdown(self) -> None:
-        """Stop the input thread and save to persistence."""
-        self._running = False
-        
-        if self._input_thread:
-            self._input_thread.join(timeout=2.0)
-        
-        if self._autosave_thread:
-            self._autosave_thread.join(timeout=1.0)
-        
-        # Save to persistence if enabled
-        if self._enable_persistence:
-            self._save_to_persistence()
-        
-        # Print summary
-        print(f"\nKNOW Shutdown Summary:")
-        print(f"  Total compounds stored: {self._stats['compounds_stored']}")
-        print(f"  Current store size: {len(self._store)}")
-        if self._enable_persistence:
-            print(f"  Saved to disk: {self._stats['saves_to_disk']} times")
-            print(f"  Loaded from disk: {self._stats['loads_from_disk']} times")
-        
-        super().shutdown()
-    
-    def _load_from_persistence(self) -> None:
-        """Load compounds and state from persistence."""
-        try:
-            # Load state first (next_id and stats)
-            next_id, saved_stats = persistence.load_state()
-            self._next_id = next_id
-            
-            # Update stats with saved values
-            for key, value in saved_stats.items():
-                if key in self._stats:
-                    self._stats[key] = value
-            
-            # Load compounds
-            compounds_data = persistence.load_compounds()
-            
-            with self._lock:
-                for compound_id, compound_dict in compounds_data.items():
-                    try:
-                        # Recreate compound from dict
-                        compound = Compound.from_dict(compound_dict)
-                        self._store[compound_id] = compound
-                    except Exception as e:
-                        print(f"KNOW: Error loading compound {compound_id}: {e}")
-                
-                self._stats["loads_from_disk"] += 1
-                print(f"KNOW: Loaded {len(compounds_data)} compounds from persistence")
-                
-        except Exception as e:
-            print(f"KNOW: Error loading from persistence: {e}")
-    
-    def _save_to_persistence(self) -> None:
-        """Save compounds and state to persistence."""
-        try:
-            with self._lock:
-                # Convert compounds to dict
-                compounds_dict = {}
-                for compound_id, compound in self._store.items():
-                    compounds_dict[compound_id] = compound.to_dict()
-                
-                # Save compounds
-                if persistence.save_compounds(compounds_dict):
-                    self._stats["saves_to_disk"] += 1
-                
-                # Save state
-                persistence.save_state(self._next_id, self._stats)
-                
-        except Exception as e:
-            print(f"KNOW: Error saving to persistence: {e}")
-    
-    def _autosave_loop(self) -> None:
-        """Periodically autosave to disk."""
-        print("KNOW: Autosave thread started")
-        
-        while self._running:
-            try:
-                time.sleep(1)  # Check every second
-                
-                current_time = time.time()
-                if current_time - self._last_autosave >= self._autosave_interval:
-                    with self._lock:
-                        if self._store:  # Only save if we have data
-                            print(f"KNOW: Autosaving {len(self._store)} compounds...")
-                            self._save_to_persistence()
-                            self._last_autosave = current_time
-                    
-            except Exception as e:
-                print(f"KNOW autosave error: {e}")
-                time.sleep(5)  # Wait longer on error
-    
+
+    # ── Relational narrative bootstrap ────────────────────────────────────
+
+    def _bootstrap_relational_narrative(self) -> None:
+        """Create the primary user relational narrative on first run.
+
+        Per NARRATIVES_ARCHITECTURE §7 — creates THIS_USER binding backed
+        by the pre-seeded USER compound (ID 110) with default social state.
+        Only runs if no relational narrative named 'relationship_user_primary'
+        already exists (e.g. loaded from disk).
+        """
+        with self._nar_lock:
+            for n in self._narratives.values():
+                if (n.narrative_type == "relational"
+                        and n.name == "relationship_user_primary"):
+                    return  # already exists
+
+        USER_COMPOUND_ID = 110  # pre-seeded in logic_compounds.json
+        n = Narrative(
+            name="relationship_user_primary",
+            narrative_type="relational",
+            status="open",
+        )
+        n.bind("THIS_USER", USER_COMPOUND_ID, initial_state={
+            "relationship_quality": 0.0,
+            "trust":                0.0,
+            "curiosity":            0.2,
+            "emotional_register":   "neutral",
+            "last_tone":            "unknown",
+            "interaction_count":    0,
+            "notable_traits":       [],
+        })
+        self.store_narrative(n)
+        print("KNOW: Bootstrapped relational narrative for THIS_USER")
+
+    # ── Background threads ────────────────────────────────────────────────
+
+    def _start_autosave_thread(self) -> None:
+        if not self._enable_persistence:
+            return
+        t = threading.Thread(target=self._autosave_loop, daemon=True, name="KNOW-autosave")
+        t.start()
+        self._threads.append(t)
+
+    def _start_maintenance_thread(self) -> None:
+        t = threading.Thread(target=self._maintenance_loop, daemon=True, name="KNOW-maintenance")
+        t.start()
+        self._threads.append(t)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Hot Cache (LRU)
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _cache_get(self, cid: int) -> Optional[Compound]:
+        if cid in self._cache:
+            self._cache.move_to_end(cid)
+            self.stats["cache_hits"] += 1
+            return self._cache[cid]
+        return None
+
+    def _cache_put(self, compound: Compound) -> None:
+        self._cache[compound.id] = compound
+        self._cache.move_to_end(compound.id)
+        if len(self._cache) > self._cache_max_size:
+            # Never evict logic compounds (100-199)
+            evicted_id, _ = self._cache.popitem(last=False)
+            if 100 <= evicted_id <= 199:
+                # Put it back and try again (skip it)
+                self._cache[evicted_id] = self._compounds[evicted_id]
+                self._cache.move_to_end(evicted_id, last=False)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # __call__  (Prime ABC requirement — thin dispatcher)
+    # ══════════════════════════════════════════════════════════════════════
+
     def __call__(self, context: Dict[str, Any]) -> Any:
         """
-        KNOW prime interface.
-        
-        Retrieve compound:
-        {
-            "id": compound_id,
-            "query": "get"
-        }
-        
-        Store compound:
-        {
-            "structured_data": data_dict,
-            "mode": "store"
-        }
-        
-        Query compounds:
-        {
-            "query": "find",
-            "filter": {"type": "internal", "has_prime": "READ"}
-        }
-        
-        Get stats:
-        {
-            "query": "stats"
-        }
-        
-        Save command:
-        {
-            "query": "save"
-        }
+        Dispatch context-based calls.  Named methods (store_batch, by_id, …)
+        are the preferred interface.  __call__ exists for backward compat and
+        the generic Prime calling convention.
         """
-        self._stats["queries_processed"] += 1
-        
+        self.stats["queries_processed"] += 1
         try:
-            # Route based on context
             if "id" in context:
-                return self._retrieve_compound(context["id"])
-            elif "structured_data" in context:
-                return self._store_structured(context["structured_data"])
-            elif "query" in context:
+                return self.by_id(context["id"])
+            if "compounds" in context:
+                return self.store_batch(context["compounds"])
+            if "compound" in context:
+                return self.store(context["compound"])
+            if "query" in context:
                 return self._handle_query(context)
-            else:
-                raise PrimeError("KNOW: Invalid context - need id, structured_data, or query")
+            raise PrimeError("KNOW: Invalid context — need id, compounds, compound, or query")
         except Exception as e:
-            self._stats["errors"] += 1
+            self.stats["errors"] += 1
             raise
-    
-    def _retrieve_compound(self, compound_id: Any) -> Optional[Compound]:
-        """Retrieve a compound by ID."""
-        try:
-            # Handle string IDs (like placeholder IDs)
-            if isinstance(compound_id, str) and compound_id.startswith("ph_"):
-                # This is a placeholder reference
-                # For now, return None - placeholders aren't stored as full compounds
-                return None
-            
-            # Convert to int
-            id_int = int(compound_id)
-            
-            with self._lock:
-                compound = self._store.get(id_int)
-                if compound:
-                    compound.increment_usage()
-                    self._stats["compounds_retrieved"] += 1
-                return compound
-        except (ValueError, TypeError):
-            return None
-    
-    def _store_structured(self, structured_data: Dict[str, Any]) -> Compound:
-        """
-        Store structured data from DATA.
-        
-        Now structured_data contains a list of tokens from DATA.
-        Create a separate compound for each token and link them.
-        Also store observation context in each compound.
-        """
-        with self._lock:
-            tokens = structured_data.get("tokens", [])
-            observation_id = structured_data.get("observation_id", "unknown")
-            raw_input = structured_data.get("raw_input", "")
-            all_tokens = structured_data.get("all_tokens", [])
-            
-            if not tokens:
-                # Empty observation
-                return None
-            
-            compound_ids = []  # Track IDs of created compounds
-            
-            # Create a compound for each token
-            for token_item in tokens:
-                # Assign ID atomically
-                compound_id = self._next_id
-                self._next_id += 1
-                compound_ids.append(compound_id)
-                
-                # Build primebit
-                if token_item["is_known"] and token_item["prime_idx"] is not None:
-                    primebit = PrimeBit.from_primes({token_item["prime_idx"]})
-                    compound_type = "internal"
-                else:
-                    # Unknown token - placeholder
-                    primebit = PrimeBit(0)
-                    compound_type = "data"
-                
-                # Create categorized data structures
-                core_data = {
-                    "token": token_item["token"],
-                    "token_lower": token_item["token_lower"],
-                    "position": token_item["position"],
-                    "is_known": token_item["is_known"],
-                    "prime_name": token_item["prime_name"]
-                }
-                
-                provenance_data = {
-                    "provenance": ["DATA_token", f"KNOW_store_{compound_id}"],
-                    "created_at": time.time(),
-                    "source": structured_data.get("metadata", {}).get("source", "unknown"),
-                    "observation_id": observation_id,
-                    "raw_observation": raw_input,
-                    "observation_tokens": all_tokens,
-                    "sibling_tokens": [t for t in all_tokens if t != token_item["token"]]
-                }
-                
-                refinement_data = {
-                    "usage_count": 0,
-                    "success_rate": 0.0
-                }
-                
-                # Create compound for this token
-                compound = Compound(
-                    id=compound_id,
-                    primebit=primebit,
-                    relations=[],  # Will add syntactic relationships below
-                    children=[],
-                    compound_type=compound_type
-                )
-                
-                # Populate categorized data
-                compound.update_core(core_data)
-                compound.update_provenance(provenance_data)
-                compound.update_refinement(refinement_data)
-                
-                # Store
-                self._store[compound_id] = compound
-                self._stats["compounds_stored"] += 1
-            
-            # Now link compounds with syntactic relationships
-            # Adjacent tokens have AFTER/BEFORE relationships
-            for i in range(len(compound_ids) - 1):
-                current_id = compound_ids[i]
-                next_id = compound_ids[i + 1]
-                
-                # Current token is BEFORE next token (relationship type 6)
-                self._store[current_id].relations.append(("BEFORE", next_id))
-                # Next token is AFTER current token (relationship type 0)
-                self._store[next_id].relations.append(("AFTER", current_id))
-            
-            # Print summary
-            if len(compound_ids) > 0:
-                known_count = sum(1 for c in self._store.values() if c.core.get("is_known"))
-                unknown_count = len(self._store) - known_count
-                print(f"KNOW: Stored {len(compound_ids)} token compounds (IDs: {compound_ids[0]}-{compound_ids[-1]})")
-                print(f"KNOW:   Observation: {observation_id}")
-                print(f"KNOW:   Raw: {raw_input}")
-                if any(self._store[cid].core.get("is_known") for cid in compound_ids):
-                    known_tokens = [self._store[cid].core["token"] 
-                                   for cid in compound_ids 
-                                   if self._store[cid].core.get("is_known")]
-                    print(f"KNOW:   Known tokens: {known_tokens}")
-                unknown_tokens = [self._store[cid].core["token"] 
-                                 for cid in compound_ids 
-                                 if not self._store[cid].core.get("is_known")]
-                if unknown_tokens:
-                    print(f"KNOW:   Unknown tokens: {unknown_tokens}")
-            
-            # Return first compound (or None if empty)
-            if compound_ids:
-                return self._store[compound_ids[0]]
-            return None
-    
+
     def _handle_query(self, context: Dict[str, Any]) -> Any:
-        """Handle various queries."""
-        query = context.get("query", "")
-        
-        if query == "stats":
-            return {
-                "store_stats": {
-                    "total_compounds": len(self._store),
-                    "next_id": self._next_id,
-                    "by_type": self._count_by_type(),
-                    "persistence_enabled": self._enable_persistence
-                },
-                "operation_stats": self._stats.copy()
-            }
-        elif query == "list":
-            limit = context.get("limit", 10)
-            offset = context.get("offset", 0)
-            return self._list_compounds(limit, offset)
-        elif query == "find":
-            filter_dict = context.get("filter", {})
-            return self._find_compounds(filter_dict)
-        elif query == "count":
-            return {"count": len(self._store)}
-        elif query == "save" and self._enable_persistence:
-            # Manual save command
-            self._save_to_persistence()
-            return {"status": "saved", "compound_count": len(self._store)}
-        elif query == "storage_info" and self._enable_persistence:
-            # Get storage information
-            return persistence.get_storage_info()
-        else:
-            return {"error": f"Unknown query: {query}"}
-    
-    def _count_by_type(self) -> Dict[str, int]:
-        """Count compounds by type."""
-        counts = {"logic": 0, "data": 0, "aggregate": 0, "definition": 0, "internal": 0}
+        q = context.get("query", "")
+        if q == "stats":
+            return self._get_stats()
+        if q == "save" and self._enable_persistence:
+            self._save_to_disk()
+            return {"status": "saved", "compound_count": len(self._compounds)}
+        if q == "find":
+            return self.search(context.get("filter", {}))
+        return {"error": f"Unknown query: {q}"}
+
+    def _get_stats(self) -> Dict[str, Any]:
+        return {
+            "store_stats": {
+                "total_compounds":    len(self._compounds),
+                "total_definitions":  len(self._definitions),
+                "total_narratives":   len(self._narratives),
+                "next_id":            self._next_id,
+                "next_def_id":        self._next_def_id,
+                "next_nar_id":        self._next_nar_id,
+                "cache_size":         len(self._cache),
+                "persistence_enabled": self._enable_persistence,
+            },
+            "operation_stats": dict(self.stats),
+        }
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 6. Compound Store API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def store_batch(self, compounds: List[Compound]) -> Dict[int, int]:
+        """
+        Primary write path — called by DATA.
+
+        1. Assign permanent IDs to all compounds in batch order.
+        2. Sweep all nested / relation target_ids from temp → permanent.
+        3. Create a DefinitionNarrative for each new concept compound.
+        4. Emit Layer 1 commit event for any utterance compound.
+        5. Enqueue ungrounded compounds for enrichment.
+        6. Return {temp_id: permanent_id} map.
+        """
+        id_map: Dict[int, int] = {}
+
         with self._lock:
-            for compound in self._store.values():
-                counts[compound.compound_type] = counts.get(compound.compound_type, 0) + 1
-        return counts
-    
-    def _list_compounds(self, limit: int = 10, offset: int = 0) -> List[Dict]:
-        """List compounds with pagination."""
-        result = []
+            # assign permanent IDs
+            for compound in compounds:
+                temp_id = compound.id
+                compound.id = self._next_id
+                self._next_id += 1
+                id_map[temp_id] = compound.id
+
+            # sweep temp references
+            for compound in compounds:
+                compound.nested = [
+                    id_map.get(nid, nid) for nid in compound.nested
+                ]
+                for relation in compound.relations:
+                    if relation.target_id in id_map:
+                        relation.target_id = id_map[relation.target_id]
+
+            # persist into store + cache + refinement
+            for compound in compounds:
+                self._compounds[compound.id] = compound
+                self._cache_put(compound)
+                self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
+                self.stats["compounds_stored"] += 1
+
+        # create definition narratives (outside compound lock)
+        for compound in compounds:
+            if compound.compound_type == "concept":
+                def_id = self._create_definition_narrative(compound.id, compound.symbol)
+                with self._lock:
+                    self._compounds[compound.id].definition_narrative_id = def_id
+
+        # emit Layer 1 commit event
+        for compound in compounds:
+            if compound.compound_type == "utterance":
+                src = (compound.provenance_data or {}).get("source", "unknown")
+                self._emit_layer1_event(compound.id, src)
+
+        # enqueue ungrounded for enrichment
+        for compound in compounds:
+            if not compound.grounded:
+                self.enqueue_enrichment(compound.id)
+
+        return id_map
+
+    def store(self, compound: Compound) -> int:
+        """
+        Store a single compound (used by THINK for intent / action / macro).
+        Assigns a permanent ID, stores, returns the assigned ID.
+        """
         with self._lock:
-            ids = sorted(self._store.keys())[offset:offset + limit]
-            for id in ids:
-                compound = self._store[id]
-                result.append({
-                    "id": id,
-                    "text": compound.text,
-                    "compound_type": compound.compound_type,
-                    "primes": list(compound.primebit.get_prime_names()),
-                    "usage": compound.refinement.get("usage_count", 0),
-                    "created_at": compound.provenance.get("created_at", "unknown")
+            compound.id = self._next_id
+            self._next_id += 1
+            self._compounds[compound.id] = compound
+            self._cache_put(compound)
+            self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
+            self.stats["compounds_stored"] += 1
+        if compound.compound_type == "utterance":
+            src = (compound.provenance_data or {}).get("source", "unknown")
+            self._emit_layer1_event(compound.id, src)
+        return compound.id
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 7. Compound Retrieval API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def by_id(self, cid: int) -> Optional[Compound]:
+        cached = self._cache_get(cid)
+        if cached is not None:
+            self._increment_query_count(cid)
+            self.stats["compounds_retrieved"] += 1
+            return cached
+        with self._lock:
+            compound = self._compounds.get(cid)
+            if compound is not None:
+                self._cache_put(compound)
+                self._increment_query_count(cid)
+                self.stats["compounds_retrieved"] += 1
+            return compound
+
+    def by_ids(self, ids: List[int]) -> List[Compound]:
+        return [c for c in (self.by_id(i) for i in ids) if c is not None]
+
+    def by_symbol(self, symbol: str) -> Optional[Compound]:
+        """Find concept compound by symbol.  Phase 1: linear scan."""
+        with self._lock:
+            for compound in self._compounds.values():
+                if compound.symbol == symbol:
+                    self._increment_query_count(compound.id)
+                    return compound
+        return None
+
+    def by_prime(self, prime_name: str) -> List[Compound]:
+        """Return all compounds whose primebit includes *prime_name*."""
+        with self._lock:
+            return [c for c in self._compounds.values()
+                    if c.primebit.has_prime(prime_name)]
+
+    def by_type(self, compound_type: str) -> List[Compound]:
+        with self._lock:
+            return [c for c in self._compounds.values()
+                    if c.compound_type == compound_type]
+
+    def by_trigger(self, primebit: PrimeBit) -> List[Compound]:
+        """Return action/macro compounds whose trigger_condition matches."""
+        with self._lock:
+            return [
+                c for c in self._compounds.values()
+                if c.executable
+                and c.trigger_condition is not None
+                and (c.trigger_condition & primebit) == c.trigger_condition
+            ]
+
+    def search(self, query: dict) -> List[Compound]:
+        """Return compounds matching all field conditions in *query* dict."""
+        with self._lock:
+            results = list(self._compounds.values())
+            for field_name, value in query.items():
+                results = [c for c in results if getattr(c, field_name, None) == value]
+            return results
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 8. Definition Narrative API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _create_definition_narrative(self, compound_id: int, symbol: str) -> int:
+        """Create an empty DefinitionNarrative for a new concept compound."""
+        with self._def_lock:
+            def_id = self._next_def_id
+            self._next_def_id += 1
+            self._definitions[def_id] = DefinitionNarrative(
+                id=def_id,
+                compound_id=compound_id,
+                symbol=symbol,
+                relations=[],
+                thread=[],
+                constraints=[],
+                created_at=time.time(),
+            )
+            self.stats["definitions_loaded"] += 1
+        return def_id
+
+    def get_definition(self, compound_id: int) -> Optional[DefinitionNarrative]:
+        """Load DefinitionNarrative for a compound (on-demand, not cached)."""
+        compound = self.by_id(compound_id)
+        if compound is None or compound.definition_narrative_id is None:
+            return None
+        with self._def_lock:
+            return self._definitions.get(compound.definition_narrative_id)
+
+    def refine_definition(
+        self,
+        compound_id:      int,
+        new_relations:    Optional[List[Relation]] = None,
+        updated_primebit: Optional[PrimeBit] = None,
+        confidence:       Optional[float] = None,
+        provenance:       Optional[dict] = None,
+    ) -> bool:
+        """
+        Update a compound's definition.  Called by SYMBOL after enrichment.
+        Increments compound version, appends to DefinitionNarrative thread.
+        This is the ONLY permitted path for modifying primebit, relations,
+        or confidence on a stored compound.
+        """
+        compound = self.by_id(compound_id)
+        if compound is None:
+            return False
+
+        with self._lock:
+            if updated_primebit is not None:
+                compound.primebit = updated_primebit
+            if confidence is not None:
+                compound.confidence = confidence
+            if new_relations:
+                compound.relations.extend(new_relations)
+            compound.version += 1
+
+        definition = self.get_definition(compound_id)
+        if definition is not None:
+            with self._def_lock:
+                definition.thread.append({
+                    "timestamp":  time.time(),
+                    "type":       "refinement",
+                    "provenance": provenance or {},
+                    "primebit":   updated_primebit.value if updated_primebit else None,
+                    "relations":  [
+                        {"predicate": r.predicate, "target_id": r.target_id}
+                        for r in (new_relations or [])
+                    ],
+                    "confidence": confidence,
+                    "version":    compound.version,
                 })
-        return result
-    
-    def _find_compounds(self, filter_dict: Dict[str, Any]) -> List[Dict]:
-        """Find compounds matching filter criteria."""
-        # Simple filtering for Phase 1C
-        results = []
-        
-        with self._lock:
-            for id, compound in self._store.items():
-                matches = True
-                
-                # Filter by compound_type
-                if "compound_type" in filter_dict and compound.compound_type != filter_dict["compound_type"]:
-                    matches = False
-                
-                # Filter by prime presence
-                if "has_prime" in filter_dict:
-                    prime_name = filter_dict["has_prime"]
-                    if not compound.primebit.has_prime_name(prime_name):
-                        matches = False
-                
-                if matches:
-                    results.append({
-                        "id": id,
-                        "text": compound.text,
-                        "compound_type": compound.compound_type,
-                        "primes": list(compound.primebit.get_prime_names()),
-                        "usage": compound.refinement.get("usage_count", 0)
-                    })
-        
-        return results
-    
-    def _input_loop(self) -> None:
-        """Process observations from queue (autonomous mode)."""
-        print("KNOW: Input thread started - processing observation queue")
-        
-        empty_count = 0
-        
+        return True
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 9. Instance Narrative API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def store_narrative(self, narrative: Narrative) -> int:
+        with self._nar_lock:
+            narrative.id = self._next_nar_id
+            self._next_nar_id += 1
+            self._narratives[narrative.id] = narrative
+            self.stats["narratives_stored"] += 1
+        return narrative.id
+
+    def get_narrative(self, nid: int) -> Optional[Narrative]:
+        with self._nar_lock:
+            return self._narratives.get(nid)
+
+    def open_narratives(self) -> List[Narrative]:
+        with self._nar_lock:
+            return [n for n in self._narratives.values() if n.status == "open"]
+
+    def narrative_by_source(self, source: str) -> Optional[Narrative]:
+        with self._nar_lock:
+            for n in self._narratives.values():
+                if n.status == "open" and n.name.endswith(source):
+                    return n
+        return None
+
+    def close_narrative(self, nid: int) -> None:
+        with self._nar_lock:
+            n = self._narratives.get(nid)
+            if n:
+                n.status = "closed"
+                n.closed_at = time.time()
+
+    def archive_narrative(self, nid: int) -> None:
+        with self._nar_lock:
+            n = self._narratives.get(nid)
+            if n:
+                n.status = "archived"
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 10. Refinement Tracking API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _increment_query_count(self, compound_id: int) -> None:
+        with self._ref_lock:
+            rec = self._refinement.get(compound_id)
+            if rec:
+                rec.query_count += 1
+
+    def record_usage(self, compound_id: int) -> None:
+        """Called by THINK when a compound is used in reasoning."""
+        with self._ref_lock:
+            rec = self._refinement.get(compound_id)
+            if rec:
+                rec.usage_count += 1
+
+    def record_outcome(self, compound_id: int, success: bool) -> None:
+        """Called by THINK after execution outcome is known."""
+        with self._ref_lock:
+            rec = self._refinement.get(compound_id)
+            if rec and rec.usage_count > 0:
+                rec.success_rate = (
+                    (rec.success_rate * (rec.usage_count - 1) + (1.0 if success else 0.0))
+                    / rec.usage_count
+                )
+
+    def get_refinement(self, compound_id: int) -> Optional[RefinementRecord]:
+        with self._ref_lock:
+            return self._refinement.get(compound_id)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 11. Layer 1 Commit Event
+    # ══════════════════════════════════════════════════════════════════════
+
+    def register_layer1_listener(self, callback: Callable) -> None:
+        self._layer1_listeners.append(callback)
+
+    def _emit_layer1_event(self, compound_id: int, source: str) -> None:
+        for cb in self._layer1_listeners:
+            try:
+                cb(compound_id, source)
+            except Exception:
+                self.stats["errors"] += 1
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 12. Maintenance Thread
+    # ══════════════════════════════════════════════════════════════════════
+
+    def enqueue_enrichment(self, compound_id: int) -> None:
+        """Called by store_batch for any compound stored with grounded=False."""
+        self._enrichment_queue.put(compound_id)
+
+    def _maintenance_loop(self) -> None:
         while self._running:
             try:
-                # Pull from observation queue with timeout
-                raw_obs = observation_queue.get(timeout=1.0)
-                
-                # Reset empty count
-                empty_count = 0
-                
-                # Process through DATA
-                data_prime = prime_registry.get_prime("DATA")
-                
-                structured = data_prime({
-                    "observation": raw_obs,
-                    "mode": "autonomous"
-                })
-                
-                # Store in KNOW
-                compound = self._store_structured(structured)
-                
-                # Print summary every 20 compounds
-                if compound.id % 20 == 0:
-                    print(f"KNOW: Processed {compound.id + 1} total compounds")
-                
+                compound_id = self._enrichment_queue.get(timeout=1.0)
+                self._request_enrichment(compound_id)
             except queue.Empty:
-                # No observations yet
-                empty_count += 1
-                if empty_count % 60 == 0:  # Every minute of emptiness
-                    print(f"KNOW: Queue empty for {empty_count} seconds")
                 continue
-            except Exception as e:
-                print(f"KNOW input loop error: {e}")
-                time.sleep(0.5)
-    
-    def get_store_size(self) -> int:
-        """Get current store size."""
+
+    def _request_enrichment(self, compound_id: int) -> None:
+        """Signal SYMBOL to enrich.  Phase 1: log only."""
+        compound = self.by_id(compound_id)
+        if compound and not compound.grounded:
+            self.stats["enrichment_queued"] += 1
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 13. Persistence
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _autosave_loop(self) -> None:
+        while self._running:
+            time.sleep(self._autosave_interval)
+            if self._running:
+                self._save_to_disk()
+
+    def _save_to_disk(self) -> None:
+        """Snapshot under locks, write outside locks."""
         with self._lock:
-            return len(self._store)
+            compounds_snapshot = {
+                str(k): v.to_dict()
+                for k, v in self._compounds.items()
+                if v.id >= 200   # skip logic compounds
+            }
+        with self._def_lock:
+            definitions_snapshot = {
+                str(k): v.to_dict() for k, v in self._definitions.items()
+            }
+        with self._nar_lock:
+            narratives_snapshot = {
+                str(k): v.to_dict()
+                for k, v in self._narratives.items()
+                if v.status != "archived"
+            }
+        with self._ref_lock:
+            refinement_snapshot = {
+                str(k): v.__dict__ for k, v in self._refinement.items()
+            }
+        meta = {
+            "next_id":     self._next_id,
+            "next_def_id": self._next_def_id,
+            "next_nar_id": self._next_nar_id,
+            "saved_at":    time.time(),
+        }
+
+        os.makedirs("storage", exist_ok=True)
+        try:
+            with open("storage/compounds.json",   "w") as f: json.dump(compounds_snapshot,   f, indent=2, default=str)
+            with open("storage/definitions.json", "w") as f: json.dump(definitions_snapshot, f, indent=2, default=str)
+            with open("storage/narratives.json",  "w") as f: json.dump(narratives_snapshot,  f, indent=2, default=str)
+            with open("storage/refinement.json",  "w") as f: json.dump(refinement_snapshot,  f, indent=2, default=str)
+            with open("storage/metadata.json",    "w") as f: json.dump(meta,                 f, indent=2, default=str)
+            self.stats["saves_to_disk"] += 1
+        except Exception as e:
+            print(f"KNOW: Error saving to disk: {e}")
+            self.stats["errors"] += 1
+
+    def _load_from_disk(self) -> None:
+        """Restore all four stores + metadata from storage/ directory."""
+        if not self._enable_persistence:
+            return
+
+        try:
+            # metadata first — restores ID counters
+            if os.path.exists("storage/metadata.json"):
+                with open("storage/metadata.json") as f:
+                    meta = json.load(f)
+                self._next_id     = meta.get("next_id",     200)
+                self._next_def_id = meta.get("next_def_id", 1)
+                self._next_nar_id = meta.get("next_nar_id", 1)
+
+            # compounds
+            if os.path.exists("storage/compounds.json"):
+                with open("storage/compounds.json") as f:
+                    data = json.load(f)
+                for raw in data.values():
+                    c = Compound.from_dict(raw)
+                    self._compounds[c.id] = c
+                    self._cache_put(c)
+                    # ensure refinement record exists
+                    if c.id not in self._refinement:
+                        self._refinement[c.id] = RefinementRecord(compound_id=c.id)
+
+            # definitions
+            if os.path.exists("storage/definitions.json"):
+                with open("storage/definitions.json") as f:
+                    data = json.load(f)
+                for raw in data.values():
+                    d = DefinitionNarrative.from_dict(raw)
+                    self._definitions[d.id] = d
+
+            # narratives
+            if os.path.exists("storage/narratives.json"):
+                with open("storage/narratives.json") as f:
+                    data = json.load(f)
+                for raw in data.values():
+                    n = Narrative.from_dict(raw)
+                    self._narratives[n.id] = n
+
+            # refinement
+            if os.path.exists("storage/refinement.json"):
+                with open("storage/refinement.json") as f:
+                    data = json.load(f)
+                for k, v in data.items():
+                    self._refinement[int(k)] = RefinementRecord(**v)
+
+            self.stats["loads_from_disk"] += 1
+
+        except Exception as e:
+            print(f"KNOW: Error loading from disk: {e}")
+            self.stats["errors"] += 1
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Convenience helpers
+    # ══════════════════════════════════════════════════════════════════════
+
+    def get_store_size(self) -> int:
+        with self._lock:
+            return len(self._compounds)
 
 
-# Singleton instance
+# ══════════════════════════════════════════════════════════════════════════════
+# Singleton
+# ══════════════════════════════════════════════════════════════════════════════
+
 know = KNOW(enable_persistence=True)

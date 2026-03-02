@@ -175,7 +175,7 @@ class Compound:
 
 ```python
 TYPE_TO_LAYER: dict[str, int | None] = {
-    "concept":    0,    # Layer 0 — canonical concept definition, one per unique symbol
+    "concept":    0,    # Layer 0 — canonical concept definition, one per unique surface form
     "utterance":  1,    # Layer 1 — aggregate of ordered concept compounds
     "intent":     2,    # Layer 2 — THINK's interpretation of an utterance
     "action":     3,    # Layer 3 — executable compound derived by THINK
@@ -193,7 +193,8 @@ raise `ValueError` immediately on construction.
 
 ```
 "concept"     Layer 0 — canonical definition of a symbol's meaning.
-              One per unique concept in KNOW — not one per observation.
+              One per unique surface form — including inflected forms.
+              "run", "ran", "running", "runs" are four distinct compounds.
               DATA checks KNOW first; only creates new compound if symbol unknown.
 
 "utterance"   Layer 1 — ordered aggregate of concept compounds from one observation.
@@ -242,19 +243,26 @@ def concept(
     confidence: float = 0.0,
     grounded:   bool = False,
     candidate_interpretations: list[dict] | None = None,
+    nested:     list[int] | None = None,
+    relations:  list | None = None,
 ) -> "Compound":
     """Create a Layer 0 concept Compound with a temp ID.
 
     grounded=False by default — SYMBOL confirms grounding before storage.
     grounded=True only when prime assignment is certain (e.g. logic tokens).
     No provenance on the compound — observation context goes to Instance Narrative.
+
+    For family members (inflected forms), pass:
+      nested=[root_compound_id]  — the KIND chain to the root
+      relations=[Relation(predicate="KIND", target_id=root_id)]
+    Root compounds have nested=[] and no KIND relation.
     """
     return cls(
         id=temp_id,
         symbol=symbol,
         primebit=primebit,
-        nested=[],
-        relations=[],
+        nested=nested or [],
+        relations=relations or [],
         definition_narrative_id=None,
         grounded=grounded,
         version=0,
@@ -269,7 +277,59 @@ def concept(
         slots=[],
         created_at=time.time(),
     )
+```
 
+#### Compound Families Implementation Contract
+
+Family members are concept Compounds linked to a root concept by a KIND relation.
+The construction pattern for a family member:
+
+```python
+# Creating "ran" as a family member of "run"
+ran = Compound.concept(
+    temp_id=temp_id,
+    symbol="ran",
+    primebit=run_compound.primebit | PrimeBit.from_prime("BEFORE"),  # root primes + past tense
+    confidence=run_compound.confidence,
+    grounded=run_compound.grounded,
+    nested=[run_compound.id],                                        # KIND chain to root
+    relations=[Relation(predicate="KIND", target_id=run_compound.id)],
+)
+```
+
+**Invariants for family members:**
+- `nested` contains exactly one entry: the root compound ID
+- `relations` contains exactly one KIND relation pointing to the root
+- `primebit` is always a superset of the root's primebit (root primes ∪ grammatical primes)
+- `symbol` is the exact surface form (never the root's symbol)
+- The root compound itself has no KIND relation and does not reference family members
+  — family membership is expressed only on the member, pointing up to the root
+
+**Grammatical prime additions by inflection type:**
+- Past tense:       `| PrimeBit.from_prime("BEFORE")`
+- Present/progressive: `| PrimeBit.from_prime("NOW")`
+- Future:           `| PrimeBit.from_prime("AFTER")`
+- Perfect:          `| PrimeBit.from_prime("LAST")`
+- Plural:           `| PrimeBit.from_prime("MANY")`
+- Comparative:      `| PrimeBit.from_prime("MORE")`
+- Superlative:      `| PrimeBit.from_prime("MORE") | PrimeBit.from_prime("ALL")`
+- 3rd person sing:  `| PrimeBit.from_prime("OTHER") | PrimeBit.from_prime("ONE")`
+
+**Definition Narrative for family members:**
+The family member's Definition Narrative records a WITH→grammatical_prime relation
+to encode which grammatical transformation this form represents:
+```
+  WITH → BEFORE   (this form carries past tense)
+  WITH → NOW      (this form carries progressive aspect)
+  WITH → MANY     (this form carries plural number)
+```
+
+**Root discovery from family member:**
+Given any family member compound, the root is always `nested[0]` or the target
+of the KIND relation. KNOW can traverse KIND chains to find all family members
+of a root, or to find the root of any member.
+
+```python
 @classmethod
 def utterance(
     cls,

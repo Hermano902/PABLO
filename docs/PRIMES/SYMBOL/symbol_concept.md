@@ -28,11 +28,14 @@ SYMBOL never writes to KNOW directly. It proposes. DATA and KNOW are the gatekee
 Given a raw observation or a placeholder compound, SYMBOL:
 
 1. Identifies the symbols (tokens) present
-2. For each symbol, checks if a grounded compound already exists in KNOW
+2. For each symbol, checks if a compound with that exact surface form already exists
+   in KNOW (via by_symbol — exact string match, not fuzzy)
 3. If found: returns the existing compound — no new grounding needed
-4. If not found: proposes a prime assignment for the new concept
-5. Constructs a near-compound candidate encoding the proposed meaning
-6. Passes the candidate to DATA for validation and storage
+   (this works for both root compounds and family members — "ran" is found directly)
+4. If not found: attempts family member derivation (see Lemmatization below)
+5. If family derivation fails: proposes a prime assignment for a new root concept
+6. Constructs a near-compound candidate encoding the proposed meaning
+7. Passes the candidate to DATA for validation and storage
 
 Over time, as PABLO encounters symbols in more contexts, SYMBOL also:
 
@@ -69,6 +72,11 @@ As KNOW's compound graph grows richer, new symbols can often be interpreted by
 finding the nearest existing compound cluster — no LLM needed. "feline" clusters
 near "cat". "sprint" clusters near "run" and "MOVE". The graph itself becomes the
 dictionary.
+
+Compound Families accelerate this convergence: once a root like "run" is fully
+grounded, all its inflected forms ("ran", "running", "runs") can be derived via
+morphological analysis + KIND relation, without any LLM call. The family structure
+means a single well-grounded root unlocks automatic grounding of every inflection.
 
 LLMs remain available for genuinely novel concepts with no close neighbors in the
 graph, but they become the exception rather than the rule.
@@ -147,6 +155,56 @@ Compound header from KNOW
 ```
 
 Does not block the ingestion path. Runs at low priority in KNOW's task pool.
+
+
+## Lemmatization and Family Member Resolution
+
+When SYMBOL encounters a token not found in KNOW by exact surface form, it attempts
+family member derivation before falling back to LLM grounding. This is a cheap
+morphological step that avoids model calls for inflected forms of known roots.
+
+**Resolution order (per token):**
+
+```
+1. Exact lookup:    KNOW.by_symbol("ran")  →  found?  →  use it
+2. Lemmatize:       "ran" → candidate root "run"
+3. Root lookup:     KNOW.by_symbol("run")  →  found?
+4. Create member:   new compound "ran" with:
+                      primebit  = run.primebit | BEFORE
+                      nested    = [run.id]
+                      relations = [KIND → run.id]
+                      grounded  = run.grounded
+5. LLM fallback:    if no root found, invoke specialist for new root creation
+```
+
+**Lemmatization rules (Phase 1 — heuristic):**
+- Strip common suffixes: -ing, -ed, -s, -es, -er, -est, -ly
+- Check known irregular forms from dictionary INFLECTIONS tables
+- Return candidate root(s) ordered by likelihood
+
+**Grammatical prime selection:**
+When creating a family member, SYMBOL determines which grammatical primes to add
+based on the inflection type derived during lemmatization:
+
+  -ed, irregular past     → BEFORE (past tense)
+  -ing                    → NOW (progressive)
+  -s, -es (noun)          → MANY (plural)
+  -s (verb, 3rd person)   → OTHER + ONE (3rd person singular)
+  -er (comparative)       → MORE
+  -est (superlative)      → MORE + ALL
+  will + verb             → AFTER (future)
+  has/had + past part     → LAST (perfect)
+
+**Irregular forms:**
+Irregular inflections (went→go, better→good, mice→mouse) are resolved using the
+dictionary INFLECTIONS tables loaded at startup. "went" is looked up, found as the
+past tense of "go", and created as a family member of "go" with BEFORE — structurally
+identical to regular forms. Irregularity is purely a surface-form lookup problem.
+
+**Family member creation is idempotent:**
+If SYMBOL creates "ran" as a family member of "run", subsequent encounters of "ran"
+hit the exact lookup in step 1 and return immediately. No duplicate family members
+are ever created.
 
 
 ## Near-Compound Candidate Shape

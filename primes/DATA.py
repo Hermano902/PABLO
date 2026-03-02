@@ -1,301 +1,396 @@
 """
-DATA Prime - Data structuring and processing.
+DATA — Compound Construction and Validation Prime
+
+Contract enforcer between SYMBOL's probabilistic proposals and KNOW's
+authoritative store.  Takes near-compound candidates from candidate_queue,
+validates prime assignments, detects logic operators, resolves or creates
+Layer 0 concept Compounds, assembles a Layer 1 utterance Compound, and
+pushes the batch to KNOW via store_batch.
+
+Pipeline position: SYMBOL → candidate_queue → DATA → KNOW.store_batch
+Authoritative docs: docs/PRIMES/DATA/data_architecture.md
+                    docs/PRIMES/DATA/data_concept.md
 """
 
-import time
+from __future__ import annotations
+
 import json
 import os
-from typing import Dict, Any, List, Tuple, Set
-from core.prime_base import Prime, PrimeError
-from core.compound import Compound
-from core.primebit import PrimeBit
-from core.constants import PRIME_TO_INDEX, INDEX_TO_PRIME
+import queue
+import threading
+import time
+from typing import Any, Dict, List, Optional, Set
 
+from core.compound import Compound, Relation
+from core.prime_base import Prime, PrimeError
+from core.primebit import PrimeBit, PRIME_INDEX
+from core.queues import candidate_queue
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Constants
+# ══════════════════════════════════════════════════════════════════════════════
+
+GROUND_THRESHOLD = 0.6   # minimum confidence to accept a prime assignment
+PRIME_SET: Set[str] = set(PRIME_INDEX)   # all 63 valid prime names
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# DATA Prime
+# ══════════════════════════════════════════════════════════════════════════════
 
 class DATA(Prime):
-    """DATA prime for structuring observations."""
-    
+    """
+    Compound construction and validation prime.
+
+    Daemon thread drains candidate_queue.  Each candidate is validated,
+    resolved against KNOW, and committed as a batch of real Compounds.
+
+    Also supports consultation mode (synchronous via __call__).
+    """
+
     def __init__(self):
-        super().__init__("DATA")
-        # Symbol to prime mapping (starts with prime names themselves)
-        self._symbol_map = self._initialize_symbol_map()
-        # Logic token to compound ID mapping
-        self._logic_token_map = self._load_logic_tokens()
-        # Placeholder compounds awaiting resolution
-        self._placeholder_registry = {}
-        # Next placeholder ID
-        self._next_placeholder_id = 0
+        super().__init__("DATA", metadata={
+            "role":        "structuring",
+            "description": "Near-compound → real Compound validation and storage",
+        })
+        self._thread: Optional[threading.Thread] = None
+        self._running = False
+
+        # Temp ID counter (negative, decrements)
+        self._temp_counter = 0
+
+        # Logic token map: lowercase token → logic compound ID (100-199)
+        self._logic_map: Dict[str, int] = {}
+
         # Statistics
-        self._stats = {
+        self.stats: Dict[str, int] = {
             "observations_processed": 0,
-            "tokens_processed": 0,
-            "primes_found": 0,
-            "placeholders_created": 0,
-            "logic_operators_found": 0
+            "concepts_found":         0,
+            "concepts_created":       0,
+            "utterances_assembled":   0,
+            "grounded_directly":      0,
+            "placeholders_created":   0,
+            "logic_operators_found":  0,
+            "validation_failures":    0,
         }
-    
-    def _load_logic_tokens(self) -> Dict[str, int]:
-        """Load logic token mappings from logic_compounds.json."""
-        logic_token_map = {}
-        
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Lifecycle
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _on_initialize(self) -> None:
+        self._running = True
+        self._load_logic_map()
+        self._thread = threading.Thread(
+            target=self._candidate_loop,
+            daemon=True,
+            name="DATA-process",
+        )
+        self._thread.start()
+        print(f"DATA: Initialized — {len(self._logic_map)} logic token mappings loaded")
+
+    def _on_shutdown(self) -> None:
+        self._running = False
+        if self._thread:
+            self._thread.join(timeout=2.0)
+        print("DATA: Shutdown complete")
+
+    def _load_logic_map(self) -> None:
+        """Load core/logic_compounds.json → {lowercase_token: compound_id}."""
         try:
-            # Get path to logic_compounds.json
-            current_dir = os.path.dirname(os.path.abspath(__file__))
-            logic_compounds_path = os.path.join(current_dir, "..", "core", "logic_compounds.json")
-            
-            if not os.path.exists(logic_compounds_path):
-                print(f"DATA: Warning - logic_compounds.json not found")
-                return logic_token_map
-            
-            with open(logic_compounds_path, 'r') as f:
-                compounds_list = json.load(f)
-            
-            # Build token -> ID mapping
-            for compound_dict in compounds_list:
-                compound_id = compound_dict["id"]
-                # Map each token variant (case-insensitive)
-                for token in compound_dict.get("token_variants", []):
-                    logic_token_map[token.lower()] = compound_id
-            
-            print(f"DATA: Loaded {len(logic_token_map)} logic token mappings")
-            return logic_token_map
-        
+            json_path = os.path.join(
+                os.path.dirname(os.path.dirname(__file__)),
+                "core", "logic_compounds.json",
+            )
+            with open(json_path, "r") as f:
+                entries = json.load(f)
+            for entry in entries:
+                cid = entry["id"]
+                for token in entry.get("token_variants", []):
+                    self._logic_map[token.lower()] = cid
         except Exception as e:
-            print(f"DATA: Error loading logic tokens: {e}")
-            return logic_token_map
-        
-    def _initialize_symbol_map(self) -> Dict[str, int]:
-        """Initialize symbol map with prime names and common variations."""
-        symbol_map = {}
-        
-        # Map prime names (lowercase) to their indices
-        for prime_name, idx in PRIME_TO_INDEX.items():
-            symbol_map[prime_name.lower()] = idx
-        
-        # Add common variations/aliases
-        variations = {
-            "moving": PRIME_TO_INDEX["MOVE"],
-            "movement": PRIME_TO_INDEX["MOVE"],
-            "reads": PRIME_TO_INDEX["READ"],
-            "reading": PRIME_TO_INDEX["READ"],
-            "thinks": PRIME_TO_INDEX["THINK"],
-            "thinking": PRIME_TO_INDEX["THINK"],
-            "knows": PRIME_TO_INDEX["KNOW"],
-            "knowledge": PRIME_TO_INDEX["KNOW"],
-            "feels": PRIME_TO_INDEX["FEEL"],
-            "feeling": PRIME_TO_INDEX["FEEL"],
-            "wants": PRIME_TO_INDEX["WANT"],
-            "wanting": PRIME_TO_INDEX["WANT"],
-            "needs": PRIME_TO_INDEX["NEED"],
-            "needing": PRIME_TO_INDEX["NEED"],
-            "sees": PRIME_TO_INDEX["SEE"],
-            "seeing": PRIME_TO_INDEX["SEE"],
-            "hears": PRIME_TO_INDEX["HEAR"],
-            "hearing": PRIME_TO_INDEX["HEAR"],
-            "says": PRIME_TO_INDEX["SAY"],
-            "saying": PRIME_TO_INDEX["SAY"],
-            "writes": PRIME_TO_INDEX["WRITE"],
-            "writing": PRIME_TO_INDEX["WRITE"],
-        }
-        
-        symbol_map.update(variations)
-        return symbol_map
-    
+            print(f"DATA: Error loading logic map: {e}")
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Temp ID generator
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _next_temp_id(self) -> int:
+        self._temp_counter -= 1
+        return self._temp_counter
+
+    # ══════════════════════════════════════════════════════════════════════
+    # __call__ — consultation mode
+    # ══════════════════════════════════════════════════════════════════════
+
     def __call__(self, context: Dict[str, Any]) -> Any:
         """
-        Process data based on context.
-        
-        Autonomous mode (from queue):
-        {
-            "observation": raw_observation_dict,
-            "mode": "autonomous"
-        }
-        
-        Consultation mode (on-demand):
-        {
-            "input": raw_input_text,
-            "mode": "consultation"
-        }
-        
-        Or for structured data:
-        {
-            "data": structured_dict,
-            "mode": "process"
-        }
+        Consultation mode — bypass candidate_queue.
+        THINK calls this with {"candidate": dict} or {"symbol": str}.
+        Returns the utterance Compound.
         """
-        mode = context.get("mode", "autonomous")
-        
-        if mode == "autonomous" and "observation" in context:
-            return self._structure_observation(context["observation"])
-        elif mode == "consultation" and "input" in context:
-            return self._consultation_mode(context)
-        elif "query" in context:
-            return self._handle_query(context)
-        else:
-            raise PrimeError("DATA: Invalid context - need observation, input, or query")
-    
-    def _structure_observation(self, raw_obs: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        Structure a raw observation into individual tokens.
-        
-        Returns a dict with tokens list - each token is independent
-        but preserves observation context (raw text, sibling tokens).
-        """
-        self._stats["observations_processed"] += 1
-        
-        # Generate unique observation ID
-        observation_id = f"obs_{int(time.time() * 1000)}"
-        
-        # Extract tokens
-        tokens = raw_obs.get("preliminary_tokens", [])
-        if not tokens and "raw_input" in raw_obs:
-            tokens = self._tokenize(raw_obs["raw_input"])
-        
-        raw_input_text = raw_obs.get("raw_input", " ".join(tokens))
-        
-        self._stats["tokens_processed"] += len(tokens)
-        
-        # Process each token independently
-        token_items = []
-        
-        for i, token in enumerate(tokens):
-            token_lower = token.lower()
-            
-            # Check if token maps to a logic operator first
-            logic_compound_id = None
-            prime_idx = None
-            is_known = False
-            token_type = "data"  # "logic" or "data"
-            
-            if token_lower in self._logic_token_map:
-                # Token is a logic operator (e.g., "if", "and", "or")
-                logic_compound_id = self._logic_token_map[token_lower]
-                is_known = True
-                token_type = "logic"
-                self._stats["logic_operators_found"] += 1
-            elif token_lower in self._symbol_map:
-                # Token maps to a known prime
-                prime_idx = self._symbol_map[token_lower]
-                is_known = True
-                self._stats["primes_found"] += 1
+        candidate = context.get("candidate")
+        if candidate is None and "symbol" in context:
+            candidate = self._text_to_candidate(context["symbol"])
+        if candidate is None:
+            raise PrimeError("DATA consultation: need 'candidate' or 'symbol'")
+        result = self._process_candidate(candidate)
+        if result is None:
+            raise PrimeError("DATA consultation: candidate validation failed")
+        return result.get("utterance")
+
+    def _text_to_candidate(self, text: str) -> Dict[str, Any]:
+        """Build a minimal heuristic candidate from raw text."""
+        tokens = text.split()
+        candidate_primes = []
+        for i, tok in enumerate(tokens):
+            lower = tok.lower()
+            if lower in {p.lower() for p in PRIME_SET}:
+                canonical = next(p for p in PRIME_SET if p.lower() == lower)
+                candidate_primes.append({
+                    "token": tok, "prime": canonical, "score": 0.8, "position": i,
+                })
             else:
-                self._stats["placeholders_created"] += 1
-            
-            # Create token item - each will become its own compound
-            token_item = {
-                "token": token,
-                "token_lower": token_lower,
-                "position": i,
-                "is_known": is_known,
-                "token_type": token_type,  # "logic" or "data"
-                "logic_compound_id": logic_compound_id,  # ID 100-109 if logic operator
-                "prime_idx": prime_idx,
-                "prime_name": INDEX_TO_PRIME[prime_idx] if prime_idx is not None else None
-            }
-            
-            token_items.append(token_item)
-        
-        # Return structured observation with token list + context
-        structured = {
-            "observation_id": observation_id,
-            "tokens": token_items,  # List of individual token items
-            "raw_input": raw_input_text,
-            "all_tokens": tokens,  # Complete list of all tokens in observation
-            "metadata": {
-                "source": raw_obs.get("metadata", {}).get("source", "unknown"),
-                "mode": "autonomous",
-                "processed_at": time.time(),
-                "token_count": len(tokens),
-                "raw_observation": raw_obs
-            }
+                candidate_primes.append({
+                    "token": tok, "prime": None, "score": 0.0, "position": i,
+                })
+        return {
+            "candidate_primes": candidate_primes,
+            "roles":            [],
+            "rule_template":    None,
+            "confidence":       0.5,
+            "provenance":       {"model": "heuristic", "adapter": None},
+            "raw_input":        text,
+            "observation_id":   f"obs_{int(time.time() * 1000)}",
+            "source":           "consultation",
         }
-        
-        print(f"DATA: Structured observation {observation_id}: {len(token_items)} tokens")
-        known_tokens = [t["token"] for t in token_items if t["is_known"]]
-        if known_tokens:
-            print(f"DATA: Known primes: {known_tokens}")
-        
-        return structured
-    
-    def _consultation_mode(self, context: Dict[str, Any]) -> Compound:
-        """Handle on-demand consultation."""
-        input_text = context.get("input", "")
-        
-        # Tokenize
-        tokens = self._tokenize(input_text)
-        
-        # Process similar to autonomous mode but return Compound
-        primes = []
-        for token in tokens:
-            token_lower = token.lower()
-            if token_lower in self._symbol_map:
-                primes.append(self._symbol_map[token_lower])
-        
-        # Create compound with new canonical schema
-        primebit = PrimeBit.from_primes(set(primes)) if primes else PrimeBit.from_prime_names({"DATA"})
-        
-        compound = Compound(
-            id=-1,  # Temporary
-            text=input_text,
-            primebit=primebit,
-            compound_type="data",
-            provenance_data={
-                "provenance": ["DATA_consultation"],
-                "raw_observation": input_text,
-                "observation_tokens": tokens,
-                "source": "consultation"
-            },
-            refinement_data={
-                "usage_count": 0,
-                "success_rate": 0.0
-            }
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Candidate loop (daemon thread)
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _candidate_loop(self) -> None:
+        """Drain candidate_queue; process each candidate."""
+        while self._running:
+            try:
+                candidate = candidate_queue.get(timeout=0.5)
+                self._process_candidate(candidate)
+            except queue.Empty:
+                continue
+            except Exception as e:
+                self._log_error(e)
+
+    def _log_error(self, e: Exception) -> None:
+        self.stats["validation_failures"] += 1
+        print(f"DATA: Error processing candidate: {e}")
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Processing pipeline (per candidate)
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _process_candidate(self, candidate: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+        """
+        Full processing pipeline per data_architecture.md §3:
+          1. validate_primes
+          2. detect_logic_operators
+          3. assign_observation_id
+          4. resolve_or_create_concept_compounds
+          5. build_utterance_compound
+          6. push_to_know
+        Returns {"utterance": Compound, "concepts": list[Compound], "id_map": dict}
+        or None on validation failure.
+        """
+        self.stats["observations_processed"] += 1
+
+        # Lazy import to avoid circular dependency at module load
+        from primes.KNOW import know
+
+        tokens = candidate.get("candidate_primes", [])
+        raw_input = candidate.get("raw_input", "")
+
+        if not tokens:
+            self.stats["validation_failures"] += 1
+            return None
+
+        # 1. Validate primes
+        tokens = self._validate_primes(tokens)
+
+        # 2. Detect logic operators
+        tokens = self._detect_logic_operators(tokens)
+
+        # 3. Observation ID
+        obs_id = candidate.get("observation_id") or f"obs_{int(time.time() * 1000)}"
+
+        # 4. Resolve or create concept Compounds
+        concept_compounds: List[Compound] = []
+        existing_ids: List[int] = []       # permanent IDs of existing concepts
+        new_compounds: List[Compound] = []  # new concepts to push to KNOW
+        batch_symbols: Dict[str, Compound] = {}  # within-utterance dedup
+
+        for tok in tokens:
+            token_text = tok["token"]
+            logic_id = tok.get("logic_compound_id")
+
+            # Logic operators reference pre-existing compounds
+            if logic_id is not None:
+                existing_ids.append(logic_id)
+                concept_compounds.append(know.by_id(logic_id))
+                continue
+
+            # Prefer lemma as symbol when the router provides it
+            symbol = tok.get("lemma") or token_text
+
+            # Check within-utterance dedup (same symbol already created this batch)
+            if symbol in batch_symbols:
+                dup = batch_symbols[symbol]
+                concept_compounds.append(dup)
+                self.stats["concepts_found"] += 1
+                continue
+
+            # Check KNOW for existing concept (by lemma first, then surface)
+            existing = know.by_symbol(symbol)
+            if existing is None and symbol != token_text:
+                existing = know.by_symbol(token_text)
+            if existing is not None:
+                existing_ids.append(existing.id)
+                concept_compounds.append(existing)
+                batch_symbols[symbol] = existing
+                self.stats["concepts_found"] += 1
+                continue
+
+            # Create new concept compound
+            prime_name = tok.get("prime")
+            score = tok.get("score", 0.0)
+            grounded = prime_name is not None and score >= GROUND_THRESHOLD
+
+            # Build primebit: primary prime OR grammatical primes from spaCy
+            gram_primes = tok.get("grammatical_primes", [])
+            if grounded and prime_name is not None:
+                prime_names = [prime_name]
+                # Also include grammatical primes alongside the grounded prime
+                for gp in gram_primes:
+                    if gp in PRIME_SET and gp != prime_name:
+                        prime_names.append(gp)
+                pb = PrimeBit.from_prime_names(prime_names)
+                self.stats["grounded_directly"] += 1
+            elif gram_primes:
+                # Not grounded to a semantic prime, but spaCy gave us
+                # grammatical primes — use them for partial grounding
+                valid_gp = [gp for gp in gram_primes if gp in PRIME_SET]
+                if valid_gp:
+                    pb = PrimeBit.from_prime_names(valid_gp)
+                    score = max(score, 0.1)  # partial: low but non-zero
+                else:
+                    pb = PrimeBit(0)
+                self.stats["placeholders_created"] += 1
+            else:
+                pb = PrimeBit(0)
+                self.stats["placeholders_created"] += 1
+
+            # Build rich candidate_interpretations from router metadata
+            interp: List[Dict[str, Any]] = []
+            if prime_name:
+                interp.append({"prime": prime_name, "score": score})
+            if gram_primes:
+                interp.append({"grammatical_primes": list(gram_primes)})
+            if tok.get("pos"):
+                interp.append({"pos": tok["pos"]})
+            if tok.get("method"):
+                interp.append({"method": tok["method"]})
+            if tok.get("lemma") and tok["lemma"] != token_text:
+                interp.append({"surface_form": token_text, "lemma": tok["lemma"]})
+
+            new_concept = Compound.concept(
+                temp_id=self._next_temp_id(),
+                symbol=symbol,
+                primebit=pb,
+                confidence=score,
+                grounded=grounded,
+                candidate_interpretations=interp,
+            )
+            new_compounds.append(new_concept)
+            concept_compounds.append(new_concept)
+            batch_symbols[symbol] = new_concept
+            self.stats["concepts_created"] += 1
+
+        # 5. Build utterance compound
+        # nested = ordered list of concept IDs (temp for new, permanent for existing)
+        nested_ids: List[int] = []
+        for c in concept_compounds:
+            if c is not None:
+                nested_ids.append(c.id)
+
+        # Primebit union of all concepts
+        union_pb = PrimeBit(0)
+        for c in concept_compounds:
+            if c is not None:
+                union_pb = union_pb | c.primebit
+
+        utterance = Compound.utterance(
+            temp_id=self._next_temp_id(),
+            symbol=raw_input,
+            nested=nested_ids,
+            primebit=union_pb,
         )
-        
-        return compound
-    
-    def _handle_query(self, context: Dict[str, Any]) -> Dict[str, Any]:
-        """Handle queries about DATA state."""
-        query = context.get("query", "")
-        
-        if query == "stats":
-            return {
-                "stats": self._stats,
-                "symbol_map_size": len(self._symbol_map),
-                "placeholder_registry_size": len(self._placeholder_registry)
-            }
-        elif query == "symbols":
-            # Return symbol mapping (limited)
-            limited_map = {}
-            for symbol, idx in list(self._symbol_map.items())[:20]:  # First 20
-                limited_map[symbol] = INDEX_TO_PRIME[idx]
-            return {"symbols": limited_map}
-        else:
-            return {"error": f"Unknown query: {query}"}
-    
-    def _tokenize(self, text: str) -> List[str]:
-        """Simple tokenization."""
-        # Basic tokenization - split on whitespace and punctuation
-        import re
-        # Split on whitespace and common punctuation
-        tokens = re.findall(r'\b\w+\b', text.lower())
+        utterance.provenance_data = {
+            "source": candidate.get("source", "unknown"),
+            "observation_id": candidate.get("observation_id"),
+        }
+        self.stats["utterances_assembled"] += 1
+
+        # 6. Push to KNOW (only NEW concepts + utterance)
+        batch = new_compounds + [utterance]
+        id_map = know.store_batch(batch)
+
+        print(
+            f"DATA: Processed '{raw_input[:40]}' — "
+            f"{len(new_compounds)} new concepts, "
+            f"{len(existing_ids)} existing, "
+            f"utterance ID {utterance.id}"
+        )
+
+        return {
+            "utterance": utterance,
+            "concepts":  concept_compounds,
+            "id_map":    id_map,
+        }
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Step helpers
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _validate_primes(self, tokens: List[Dict]) -> List[Dict]:
+        """Check each token's proposed prime against PRIME_SET."""
+        for tok in tokens:
+            prime = tok.get("prime")
+            if prime is not None and prime not in PRIME_SET:
+                tok["prime"] = None
+                tok["score"] = 0.0
+            if tok.get("score", 0.0) < GROUND_THRESHOLD:
+                tok["prime"] = None
+                tok["score"] = 0.0
         return tokens
-    
-    def _create_placeholder_id(self) -> str:
-        """Generate a unique placeholder ID."""
-        placeholder_id = f"ph_{self._next_placeholder_id}"
-        self._next_placeholder_id += 1
-        return placeholder_id
-    
-    def add_symbol_mapping(self, symbol: str, prime_name: str) -> None:
-        """Add a symbol to prime mapping."""
-        if prime_name in PRIME_TO_INDEX:
-            self._symbol_map[symbol.lower()] = PRIME_TO_INDEX[prime_name]
-            print(f"DATA: Added mapping: '{symbol}' -> {prime_name}")
-    
-    def get_stats(self) -> Dict[str, Any]:
-        """Get DATA statistics."""
-        return self._stats.copy()
+
+    def _detect_logic_operators(self, tokens: List[Dict]) -> List[Dict]:
+        """Substitute logic compound IDs for matching tokens."""
+        for tok in tokens:
+            lower = tok["token"].lower()
+            logic_id = self._logic_map.get(lower)
+            if logic_id is not None:
+                tok["logic_compound_id"] = logic_id
+                tok["prime"] = None  # skip SYMBOL grounding
+                tok["score"] = 1.0
+                self.stats["logic_operators_found"] += 1
+        return tokens
+
+    def _detect_logic(self, token_text: str) -> Optional[int]:
+        """Single token logic lookup (convenience)."""
+        return self._logic_map.get(token_text.lower())
 
 
-# Singleton instance
+# ══════════════════════════════════════════════════════════════════════════════
+# Singleton
+# ══════════════════════════════════════════════════════════════════════════════
+
 data = DATA()

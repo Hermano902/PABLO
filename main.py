@@ -1,125 +1,95 @@
 """
-PABLO Main Entry Point - Phase 1C Implementation with Persistence.
+PABLO Main Entry Point — Console mode.
+
+Initialises all primes in the correct order, then runs an interactive
+stdin loop (READ monitors stdin as a source).
+
+For the GUI mode, run ``python main_gui.py`` instead.
 """
 
 import time
 import sys
-from core.queues import prime_registry, observation_queue
-from core.persistence import persistence
+
+from core.queues import prime_registry, response_queue
 
 
-def initialize_primes():
-    """Initialize all prime instances."""
-    print("="*60)
-    print("PABLO Phase 1C - Prime Scaffolds with Persistence")
-    print("="*60)
-    
-    # Show storage info
-    storage_info = persistence.get_storage_info()
-    if storage_info["data_file_exists"]:
-        print(f"Found existing storage: {storage_info['data_file']}")
-        if 'data_file_size' in storage_info:
-            print(f"Storage size: {storage_info['data_file_size']} bytes")
-    
-    print("\nInitializing primes...")
-    
-    # List of core primes to initialize
-    core_primes = ["READ", "SEE", "HEAR", "DATA", "KNOW", "THINK"]
-    
-    for prime_name in core_primes:
+# Initialisation order must match dependency graph:
+#   KNOW first (others store into it)
+#   READ (starts observation loop — feeds observation_queue)
+#   SYMBOL (drains observation_queue → candidate_queue)
+#   DATA (drains candidate_queue → KNOW)
+#   SELF (taps observation_queue + KNOW Layer 1 listener → think_queue)
+#   THINK (drains think_queue → response_queue)
+INIT_ORDER = ["KNOW", "READ", "SYMBOL", "DATA", "SELF", "THINK"]
+
+
+def initialize_primes() -> None:
+    print("=" * 60)
+    print("PABLO — Console Mode")
+    print("=" * 60)
+    print("\nInitialising primes...")
+
+    for name in INIT_ORDER:
         try:
-            prime = prime_registry.get_prime(prime_name)
+            prime = prime_registry.get_prime(name)
             prime.initialize()
-            print(f"  [OK] {prime_name:10} - initialized")
-            time.sleep(0.1)  # Small delay for orderly startup
+            print(f"  [OK] {name:10} — initialised")
+            time.sleep(0.1)
         except Exception as e:
-            print(f"  [!!] {prime_name:10} - failed: {e}")
-    
-    print("\n" + "="*60)
-    print("PABLO is now running!")
-    print("\nSystem Status:")
-    print("  * READ   - Monitoring stdin and simulation")
-    print("  * DATA   - Structuring observations")
-    print("  * KNOW   - Storing compounds with disk persistence")
-    print("  * THINK  - Available for consultation")
-    print("\nLogic Operators Recognized:")
-    print("  * IF, AND, OR, NOT, XOR, NAND, NOR, XNOR")
-    print("  * TRUE, FALSE (constants)")
-    print("\nStorage: Compounds auto-save every 30 seconds")
-    print("         Stored in: ./storage/compounds.json")
-    print("\nExample observations with logic operators:")
-    print('  "if the dog barks then alert"')
-    print('  "the light is on and the door is open"')
-    print('  "either sun is bright or it is night"')
-    print('  "not the water is cold"')
-    print("\nTo interact:")
-    print("  1. Type directly (PABLO reads stdin)")
-    print("  2. Run: python test_interactive.py")
-    print("  3. Run: python inspect_storage.py --info")
-    print("  4. Press Ctrl+C to shutdown")
-    print("="*60 + "\n")
-    
-    # Queue initial test observations with logic operators
-    print("Sending initial observations with logic operators...")
-    initial_tests = [
-        "if the dog barks then alert",
-        "the cat is here and the dog is here",
-        "either night or day time",
-        "not the water is cold"
-    ]
-    
-    for text in initial_tests:
-        observation = {
-            "timestamp": time.time(),
-            "raw_input": text,
-            "preliminary_tokens": text.split(),
-            "metadata": {
-                "source": "bootstrap",
-                "mode": "initialization"
-            }
-        }
-        observation_queue.put(observation)
-        time.sleep(0.2)
-    
-    print(f"Queued {len(initial_tests)} bootstrap observations\n")
+            print(f"  [!!] {name:10} — failed: {e}")
+
+    # Unsuspend SELF once all primes are running
+    try:
+        self_prime = prime_registry.get_prime("SELF")
+        self_prime.suspended = False
+        print("  [OK] SELF       — unsuspended")
+    except Exception:
+        pass
+
+    print("\n" + "=" * 60)
+    print("PABLO is running.  Type text and press Enter.")
+    print("Press Ctrl+C to shutdown.")
+    print("=" * 60 + "\n")
 
 
-def shutdown_primes():
-    """Shutdown all prime instances."""
-    print("\n" + "="*60)
+def shutdown_primes() -> None:
+    print("\n" + "=" * 60)
     print("Shutting down PABLO...")
-    
-    # We need to get all primes that were loaded
-    primes_to_shutdown = ["READ", "SEE", "HEAR", "DATA", "KNOW", "THINK"]
-    
-    for prime_name in primes_to_shutdown:
+
+    for name in reversed(INIT_ORDER):
         try:
-            prime = prime_registry.get_prime(prime_name)
+            prime = prime_registry.get_prime(name)
             prime.shutdown()
-            print(f"  ✓ {prime_name:10} - shutdown complete")
+            print(f"  OK  {name}")
         except Exception as e:
-            print(f"  ✗ {prime_name:10} - shutdown failed: {e}")
-    
-    # Final storage info
-    storage_info = persistence.get_storage_info()
-    if storage_info["data_file_exists"] and 'data_file_size' in storage_info:
-        print(f"\nFinal storage size: {storage_info['data_file_size']} bytes")
-    
-    print("="*60)
+            print(f"  ERR {name}: {e}")
+
+    print("=" * 60)
     print("PABLO shutdown complete.")
-    print("="*60)
 
 
-def main():
-    """Main execution loop."""
+def drain_responses() -> None:
+    """Print any pending responses from THINK."""
+    while not response_queue.empty():
+        try:
+            resp = response_queue.get_nowait()
+            text = resp.get("text", "")
+            if text:
+                print(f"  PABLO> {text}")
+        except Exception:
+            break
+
+
+def main() -> None:
     try:
         initialize_primes()
-        
-        # Keep main thread alive
-        print("Main thread running. Press Ctrl+C to shutdown.")
+
+        # READ's stdin source will pick up lines from sys.stdin
+        # We also drain response_queue to show THINK's output
         while True:
-            time.sleep(1.0)
-            
+            drain_responses()
+            time.sleep(0.5)
+
     except KeyboardInterrupt:
         print("\nReceived shutdown signal...")
     finally:

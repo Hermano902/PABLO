@@ -1,88 +1,63 @@
 """
-HEAR Prime - Auditory perception scaffold.
+HEAR — Auditory perception prime (DORMANT).
+
+HEAR is structurally complete but **not started** in Phase 1.
+Its thread is never launched; ``active`` is always ``False``.
+
+When implemented (Phase 2+), HEAR will:
+  - Detect sound events via amplitude threshold or classifier
+  - Emit one observation per onset event (not continuously)
+  - Use put_observation() to write to observation_queue + SELF tap
+
+See docs/PRIMES/PERCEPTORS/ for concept and architecture.
 """
 
-import time
+from __future__ import annotations
+
+import logging
 import threading
-import random
-from typing import Dict, Any
-from core.prime_base import Prime
-from core.queues import observation_queue
+import time
+from typing import Any, Dict
+
 from core.compound import Compound
+from core.prime_base import Prime
 from core.primebit import PrimeBit
+
+log = logging.getLogger(__name__)
 
 
 class HEAR(Prime):
-    """HEAR prime for auditory perception."""
-    
-    def __init__(self):
-        super().__init__("HEAR")
+    """Auditory perception prime.  Dormant in Phase 1."""
+
+    def __init__(self) -> None:
+        super().__init__(name="HEAR")
+        self.active: bool = False
         self._thread = None
+        self._running: bool = False
+        self._drop_count: int = 0
+
+    def _on_initialize(self) -> None:
+        """Phase 1: do NOT start the observation thread."""
+        log.info("HEAR: Initialized (dormant — thread not started)")
+
+    def _on_shutdown(self) -> None:
         self._running = False
-        self._last_observation_time = 0
-        
-    def initialize(self) -> None:
-        super().initialize()
-        self._running = True
-        self._thread = threading.Thread(target=self._observation_loop, daemon=True)
-        self._thread.start()
-    
-    def shutdown(self) -> None:
-        self._running = False
-        if self._thread:
+        if self._thread and self._thread.is_alive():
             self._thread.join(timeout=2.0)
-        super().shutdown()
-    
+        log.info("HEAR: Shutdown complete")
+
     def __call__(self, context: Dict[str, Any]) -> Any:
-        """HEAR prime interface."""
+        """Consultation mode — returns a placeholder Compound.
+
+        Future: will return a snapshot of the current audio state.
+        """
         primebit = PrimeBit.from_prime_names({"HEAR"})
-        return Compound(
-            id=-1,
-            text="listen",
+        return Compound.concept(
+            temp_id=-1,
+            symbol="audio_placeholder",
             primebit=primebit,
-            compound_type="data",
-            provenance_data={"mode": "consultation"}
         )
-    
-    def _observation_loop(self) -> None:
-        """Auditory observation loop."""
-        audio_observations = [
-            "dog barking sound",
-            "bell ringing",
-            "music playing",
-            "footsteps heard",
-            "voice detected",
-        ]
-        
-        while self._running:
-            try:
-                current_time = time.time()
-                
-                # Generate observation every 3 seconds
-                if current_time - self._last_observation_time >= 3.0:
-                    if not observation_queue.full():
-                        observation_text = random.choice(audio_observations)
-                        observation = {
-                            "timestamp": current_time,
-                            "raw_input": observation_text,
-                            "preliminary_tokens": observation_text.split(),
-                            "metadata": {
-                                "source": "audio_simulation",
-                                "mode": "autonomous",
-                                "prime": "HEAR"
-                            }
-                        }
-                        
-                        observation_queue.put(observation)
-                        print(f"[HEAR] Generated observation: {observation_text}")
-                        self._last_observation_time = current_time
-                    
-                time.sleep(0.2)
-                    
-            except Exception as e:
-                print(f"HEAR observation error: {e}")
-                time.sleep(1.0)
 
 
-# Singleton instance
+# ── Singleton ─────────────────────────────────────────────────────────────
 hear = HEAR()

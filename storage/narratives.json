@@ -1,0 +1,343 @@
+{
+  "1": {
+    "id": 1,
+    "name": "relationship_user_primary",
+    "narrative_type": "relational",
+    "status": "open",
+    "created_at": 1772468604.5597794,
+    "closed_at": null,
+    "bindings": {
+      "THIS_USER": {
+        "local_name": "THIS_USER",
+        "compound_id": 110,
+        "current": {
+          "relationship_quality": 0.0,
+          "trust": 0.005,
+          "curiosity": 0.21000000000000002,
+          "emotional_register": "neutral",
+          "last_tone": "neutral",
+          "interaction_count": 1,
+          "notable_traits": [],
+          "last_interaction": 1772468703.4511724,
+          "last_source": "keyboard",
+          "last_utterance": "Can you read this?"
+        },
+        "history": [
+          {
+            "timestamp": 1772468703.4511745,
+            "state": {
+              "relationship_quality": 0.0,
+              "trust": 0.0,
+              "curiosity": 0.2,
+              "emotional_register": "neutral",
+              "last_tone": "unknown",
+              "interaction_count": 0,
+              "notable_traits": []
+            },
+            "cause": "User said: 'Can you read this?' via keyboard",
+            "event_ref": null
+          }
+        ]
+      }
+    },
+    "constraints": [],
+    "thread": [
+      {
+        "id": 0,
+        "timestamp": 1772468703.451183,
+        "type": "utterance",
+        "compound_id": 205,
+        "binding_ref": "THIS_USER",
+        "text": "User interaction #1: 'Can you read this?' (tone=neutral)"
+      }
+    ],
+    "_next_event_id": 1,
+    "_next_constraint_id": 0
+  },
+  "2": {
+    "id": 2,
+    "name": "session_keyboard",
+    "narrative_type": "episodic",
+    "status": "open",
+    "created_at": 1772468703.4508207,
+    "closed_at": null,
+    "bindings": {
+      "THE_CAN": {
+        "local_name": "THE_CAN",
+        "compound_id": 200,
+        "current": {
+          "role": "structural",
+          "frame_position": "object",
+          "first_seen": 1772468703.451002,
+          "last_seen": 1772468703.451002,
+          "source": "keyboard",
+          "utterance_count": 1,
+          "grounded": true,
+          "confidence": 1.0,
+          "primes": [
+            "CAN"
+          ],
+          "co_occurred_with": [
+            "THIS_USER",
+            "ACT_READ",
+            "THIS_THIS",
+            "THE_C204"
+          ],
+          "co_occurrence_history": [
+            [
+              "THIS_USER",
+              "ACT_READ",
+              "THIS_THIS",
+              "THE_C204"
+            ]
+          ],
+          "frame_roles": [
+            {
+              "frame_pos": "object",
+              "utterance_id": 205,
+              "utterance": "Can you read this?",
+              "timestamp": 1772468703.451002
+            }
+          ],
+          "relationships": {
+            "ACT_READ": {
+              "type": "object_of",
+              "count": 1,
+              "first_linked": 1772468703.451104,
+              "last_linked": 1772468703.451104
+            },
+            "THIS_USER": {
+              "type": "co_occurs",
+              "count": 1,
+              "first_linked": 1772468703.4511065,
+              "last_linked": 1772468703.4511065
+            }
+          }
+        },
+        "history": []
+      },
+      "THIS_USER": {
+        "local_name": "THIS_USER",
+        "compound_id": 201,
+        "current": {
+          "role": "agent",
+          "frame_position": "subject",
+          "first_seen": 1772468703.451002,
+          "last_seen": 1772468703.451002,
+          "source": "keyboard",
+          "utterance_count": 1,
+          "grounded": true,
+          "confidence": 1.0,
+          "primes": [
+            "YOU"
+          ],
+          "co_occurred_with": [
+            "THE_CAN",
+            "ACT_READ",
+            "THIS_THIS",
+            "THE_C204"
+          ],
+          "co_occurrence_history": [
+            [
+              "THE_CAN",
+              "ACT_READ",
+              "THIS_THIS",
+              "THE_C204"
+            ]
+          ],
+          "frame_roles": [
+            {
+              "frame_pos": "subject",
+              "utterance_id": 205,
+              "utterance": "Can you read this?",
+              "timestamp": 1772468703.451002
+            }
+          ],
+          "relationships": {
+            "ACT_READ": {
+              "type": "subject_of",
+              "count": 1,
+              "first_linked": 1772468703.4510999,
+              "last_linked": 1772468703.4510999
+            },
+            "THE_CAN": {
+              "type": "co_occurs",
+              "count": 1,
+              "first_linked": 1772468703.4511065,
+              "last_linked": 1772468703.4511065
+            }
+          }
+        },
+        "history": []
+      },
+      "ACT_READ": {
+        "local_name": "ACT_READ",
+        "compound_id": 202,
+        "current": {
+          "role": "cognitive",
+          "frame_position": "predicate",
+          "first_seen": 1772468703.451002,
+          "last_seen": 1772468703.451002,
+          "source": "keyboard",
+          "utterance_count": 1,
+          "grounded": true,
+          "confidence": 1.0,
+          "primes": [
+            "READ"
+          ],
+          "co_occurred_with": [
+            "THE_CAN",
+            "THIS_USER",
+            "THIS_THIS",
+            "THE_C204"
+          ],
+          "co_occurrence_history": [
+            [
+              "THE_CAN",
+              "THIS_USER",
+              "THIS_THIS",
+              "THE_C204"
+            ]
+          ],
+          "frame_roles": [
+            {
+              "frame_pos": "predicate",
+              "utterance_id": 205,
+              "utterance": "Can you read this?",
+              "timestamp": 1772468703.451002
+            }
+          ],
+          "relationships": {
+            "THIS_USER": {
+              "type": "performed_by",
+              "count": 1,
+              "first_linked": 1772468703.4510999,
+              "last_linked": 1772468703.4510999
+            },
+            "THE_CAN": {
+              "type": "acts_on",
+              "count": 1,
+              "first_linked": 1772468703.451104,
+              "last_linked": 1772468703.451104
+            },
+            "THIS_THIS": {
+              "type": "modified_by",
+              "count": 1,
+              "first_linked": 1772468703.4511094,
+              "last_linked": 1772468703.4511094
+            }
+          }
+        },
+        "history": []
+      },
+      "THIS_THIS": {
+        "local_name": "THIS_THIS",
+        "compound_id": 203,
+        "current": {
+          "role": "agent",
+          "frame_position": "modifier",
+          "first_seen": 1772468703.451002,
+          "last_seen": 1772468703.451002,
+          "source": "keyboard",
+          "utterance_count": 1,
+          "grounded": true,
+          "confidence": 1.0,
+          "primes": [
+            "THIS"
+          ],
+          "co_occurred_with": [
+            "THE_CAN",
+            "THIS_USER",
+            "ACT_READ",
+            "THE_C204"
+          ],
+          "co_occurrence_history": [
+            [
+              "THE_CAN",
+              "THIS_USER",
+              "ACT_READ",
+              "THE_C204"
+            ]
+          ],
+          "frame_roles": [
+            {
+              "frame_pos": "modifier",
+              "utterance_id": 205,
+              "utterance": "Can you read this?",
+              "timestamp": 1772468703.451002
+            }
+          ],
+          "relationships": {
+            "ACT_READ": {
+              "type": "modifies",
+              "count": 1,
+              "first_linked": 1772468703.4511094,
+              "last_linked": 1772468703.4511094
+            }
+          }
+        },
+        "history": []
+      },
+      "THE_C204": {
+        "local_name": "THE_C204",
+        "compound_id": 204,
+        "current": {
+          "role": "unknown",
+          "frame_position": "unresolved",
+          "first_seen": 1772468703.451002,
+          "last_seen": 1772468703.451002,
+          "source": "keyboard",
+          "utterance_count": 1,
+          "grounded": false,
+          "confidence": 0.0,
+          "primes": [],
+          "co_occurred_with": [
+            "THE_CAN",
+            "THIS_USER",
+            "ACT_READ",
+            "THIS_THIS"
+          ],
+          "co_occurrence_history": [
+            [
+              "THE_CAN",
+              "THIS_USER",
+              "ACT_READ",
+              "THIS_THIS"
+            ]
+          ],
+          "frame_roles": [
+            {
+              "frame_pos": "unresolved",
+              "utterance_id": 205,
+              "utterance": "Can you read this?",
+              "timestamp": 1772468703.451002
+            }
+          ],
+          "relationships": {}
+        },
+        "history": []
+      }
+    },
+    "constraints": [],
+    "thread": [
+      {
+        "id": 0,
+        "timestamp": 1772468703.451137,
+        "type": "utterance",
+        "compound_id": 205,
+        "binding_ref": null,
+        "text": "Received: 'Can you read this?' | frame: {\"subject\": \"THIS_USER\", \"predicate\": \"ACT_READ\", \"object\": \"THE_CAN\", \"modifiers\": [\"THIS_THIS\"], \"unresolved\": [\"THE_C204\"]}"
+      },
+      {
+        "id": 1,
+        "timestamp": 1772468703.4513211,
+        "type": "response",
+        "compound_id": 206,
+        "binding_ref": null,
+        "text": "Intent created: mode=reflective_acknowledgement | frame: {\"subject\": \"THIS_USER\", \"predicate\": \"ACT_READ\", \"object\": \"THE_CAN\", \"modifiers\": [\"THIS_THIS\"], \"unresolved\": [\"THE_C204\"]}"
+      }
+    ],
+    "_next_event_id": 2,
+    "_next_constraint_id": 0
+  }
+}

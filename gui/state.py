@@ -8,10 +8,10 @@ Rules:
 """
 
 import time
-from core.queues import observation_queue, candidate_queue, response_queue
+from core.queues import observation_queue, candidate_queue, think_queue, response_queue
 
-# Prime names that this PABLO session manages.
-MANAGED_PRIMES = ["READ", "DATA", "KNOW", "THINK"]
+# Prime names that this PABLO session manages — initialised in this order.
+MANAGED_PRIMES = ["KNOW", "READ", "SYMBOL", "DATA", "SELF", "THINK"]
 
 # Rolling event log — appended to by other modules, read by state.py.
 _event_log: list[str] = []
@@ -51,6 +51,7 @@ def get_state(prime_registry) -> dict:
         "queues": {
             "observation": {"size": observation_queue.qsize(), "maxsize": 10000},
             "candidate":   {"size": candidate_queue.qsize(),   "maxsize": 10000},
+            "think":       {"size": think_queue.qsize(),       "maxsize": 1000},
             "response":    {"size": response_queue.qsize(),    "maxsize": 1000},
         },
         "events": list(_event_log[-50:]),

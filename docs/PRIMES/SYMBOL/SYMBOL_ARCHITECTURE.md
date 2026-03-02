@@ -1,3 +1,13 @@
+# SYMBOL — Architecture & Implementation
+
+This document describes the implementation detail of SYMBOL's multi-LLM layer:
+router, model serving, symbolicifier contract, rule store, lifecycle, governance,
+and metrics. The conceptual contract — what SYMBOL is, symbol resolution lifecycle,
+the two-phase bootstrapping process, and how SYMBOL refines Definition Narratives —
+lives in SYMBOL_CONCEPT.md. Implement SYMBOL according to both.
+
+---
+
 # Multi-LLM Architecture and Implementation
 
 This file contains the architecture- and implementation-focused sections for the multi-LLM strategy: router, model serving, symbolicifier, rule store, indexing, lifecycle, background enrichment, governance, metrics and the prioritized roadmap.
@@ -19,7 +29,11 @@ Enrichment path (asynchronous)
 - Triggered by KNOW's idle background loop for already-stored compounds.
 - Input: compound ID + header `{primebit, rel_flags, resolved_prime_mask}`.
 - Specialists propose: additional prime assignments, role labels, rule templates, placeholder resolutions.
-- Output stored as `rule` compounds; activated only after validation and governance checks.
+- Prime and relation proposals are applied via `KNOW.refine_definition()` — the only permitted
+  path for updating a stored compound's primebit or relations. Each update is recorded in the
+  compound's Definition Narrative thread with full provenance.
+- Structural rule templates are stored as `rule` compounds (compound_type="internal", sub-type="rule")
+  in KNOW; activated only after validation and governance checks.
 - Does not block the ingestion path; bounded queue with drop-on-full and metrics.
 
 ---
@@ -38,7 +52,16 @@ Enrichment path (asynchronous)
 
 ### Heuristics
 - In ingestion mode the router receives a raw observation dict; dispatch is based on `modality` and `event_type` fields first, then token-level heuristics on the data payload.
-- In enrichment mode the router receives a compound header; dispatch uses prime-mask hints and `rel_flags`.
+- **Surface-form-exact lookup (first check):** before any heuristic or model dispatch,
+  the router calls `KNOW.by_symbol(token)` for each token. If the exact surface form
+  already exists in KNOW (whether root or family member), the token is resolved
+  immediately. No specialist invocation needed. This is the cheapest possible path.
+- **Lemmatization pre-router step:** if the exact lookup misses, strip common inflection
+  suffixes (-ed, -ing, -s, -es, -er, -est) and check known irregular forms. If a root
+  compound is found in KNOW, create a family member compound (KIND relation to root,
+  root primebit ∪ grammatical primes) and return it directly. No model call needed.
+  See SYMBOL_CONCEPT.md "Lemmatization and Family Member Resolution" for full algorithm.
+- In enrichment mode the router receives a compound header `{id, symbol, primebit, rel_flags}`; dispatch uses prime-mask hints and `rel_flags`.
 - Token n‑grams and anchored tokens (e.g., "if", "call", punctuation patterns).
 - Prime-mask hints: cheap bit tests on `prime_mask` or known prime presence.
 - `rel_flags` from `PrimeBit` payload (HAS_CHILDREN, HAS_RESOLVED_MASK, IS_NAMED).
@@ -84,7 +107,7 @@ Ingestion mode (raw → near-compound)
 - DATA treats this as a proposal: validates primes against the canonical 63, creates placeholder compounds for unknowns, records provenance.
 
 Enrichment mode (compound → rule proposal)
-- Input: compound header `{id, primebit, rel_flags, text, resolved_prime_mask}`.
+- Input: compound header `{id, primebit, rel_flags, symbol, resolved_prime_mask}`.
 - Specialists produce constrained structured output (JSON-like). The symbolicifier parses and validates this into rule candidates.
 - Minimal output schema (same shape as above, with compound_id added to provenance).
 
@@ -97,7 +120,9 @@ Shared validation rules (both modes)
 
 ## Rule Representation, Storage & Indexing
 
-- Store rules as compounds (`compound_type = "rule"`) in `KNOW` with provenance, versioning and metrics.
+- Store rules as compounds (`compound_type="internal"`, `sub_type="rule"`) in KNOW with
+  provenance, versioning and metrics. The `"rule"` sub-type is not in TYPE_TO_LAYER —
+  rule compounds are internal system records, not semantic concept compounds.
 - Minimal rule fields: id, pattern, preconditions (prime_mask_mask, rel_flags_mask), action, priority, base_confidence, success_rate, validation metrics, provenance, version, last_validated.
 
 ### Indexing
@@ -159,8 +184,9 @@ active_confidence = base_confidence * (0.5)^(days_since_last_success / half_life
 
 ## Background Enrichment & DATA–KNOW Integration
 
-- `KNOW` idle loop enqueues observation IDs to `background_tasks` with priority and TTL.
-- `DATA` workers consume batches, run specialists, propose rules, and persist proposals to `KNOW`.
+- KNOW's maintenance thread enqueues compound IDs (grounded=False or flagged for enrichment)
+  to `background_tasks` with priority and TTL. SYMBOL workers consume batches, run specialists,
+  propose refinements via `KNOW.refine_definition()`, and persist rule proposals to KNOW.
 
 ### Queue constraints
 - Bounded queue: when full, apply backpressure or drop lowest-priority tasks and increment drop counters.
@@ -180,6 +206,34 @@ active_confidence = base_confidence * (0.5)^(days_since_last_success / half_life
 - Expose `rule_conflict_rate`, `rule_freshness_seconds`, `specialist_latency_gpu_p99`, `specialist_latency_cpu_p99`, `rule_churn_per_day`.
 
 ## Risks & Mitigations
+
+(See below for full risk table)
+
+---
+
+## Family Member Enrichment Cascade
+
+When a root compound's definition is enriched (new primes, updated confidence, added
+relations), all family members must be refreshed to maintain the superset invariant.
+
+**Cascade trigger:** `KNOW.refine_definition(root_id, updated_primebit=...)` detects
+that the target compound has family members (compounds with KIND → root_id relations).
+
+**Cascade steps:**
+1. KNOW queries all compounds with `Relation(predicate="KIND", target_id=root_id)`
+2. For each family member: recompute `member.primebit = new_root_primebit | member_grammatical_primes`
+3. Update each member via `refine_definition()` with provenance `{"source": "family_cascade", "root_id": root_id}`
+4. Member version is incremented; the cascade is recorded in the member's Definition Narrative thread
+
+**Grammatical prime preservation:** the cascade must not strip the member's grammatical
+primes. The member's grammatical primes are determined by its WITH→prime relations in
+its Definition Narrative. During cascade, these are read and re-OR'd with the new root
+primebit.
+
+**Phase 1:** cascade is logged but not auto-executed (requires KNOW family index).
+**Phase 2:** automated cascade via KNOW's maintenance thread at priority 20.
+
+---
 
 - Cold start: bootstrap with hand-crafted rules.
 - Rule explosion: quotas, pruning, consolidation jobs.
@@ -226,7 +280,9 @@ Appendix B — Example `rule` compound
 ```json
 {
   "id":10001,
-  "compound_type":"rule",
+  "compound_type":"internal",
+  "sub_type":"rule",
+  "symbol":"rule_if_then_pattern",
   "pattern":"<if> .* <then>",
   "preconditions":{"prime_mask_mask":255,"rel_flags_mask":3},
   "action":{"create_template":"IF(condition,action)"},

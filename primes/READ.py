@@ -1,223 +1,308 @@
 """
-READ Prime - Perception of text/input.
+READ — Linguistic Perceptor Prime
+
+PABLO's ability to encounter written language.  Monitors registered text
+sources, detects changes, and pushes raw observation dicts to
+observation_queue.  READ does NOT interpret meaning — that is SYMBOL's job.
+
+Pipeline position: READ → observation_queue → SYMBOL
+Authoritative doc: docs/PRIMES/PERCEPTORS/READ/READ_ARCHITECTURE.md
 """
+
+from __future__ import annotations
 
 import time
 import threading
-import sys
-import select
-from typing import Dict, Any, Optional
+from typing import Any, Dict, List, Optional
+
 from core.prime_base import Prime, PrimeError
-from core.queues import observation_queue
+from core.queues import observation_queue, put_observation
 from core.compound import Compound
 from core.primebit import PrimeBit
+from gui.input_source import gui_input_source
 
+
+# ══════════════════════════════════════════════════════════════════════════════
+# ReadSource protocol (duck-typed)
+# ══════════════════════════════════════════════════════════════════════════════
+# Every source must expose:
+#   name:   str
+#   active: bool
+#   acquire()       -> str | None
+#   has_changed(s)  -> bool
+#   update_state(s) -> None
+#   event_type(s)   -> str
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Dormant source stubs (registered but active=False)
+# ══════════════════════════════════════════════════════════════════════════════
+
+class ScreenSource:
+    """Dormant — activate in Phase 2."""
+    name   = "screen"
+    active = False
+
+    def acquire(self) -> Optional[str]:
+        return None
+
+    def has_changed(self, sample: str) -> bool:
+        return False
+
+    def update_state(self, sample: str) -> None:
+        pass
+
+    def event_type(self, sample: str) -> str:
+        return "text_appeared"
+
+
+class FileSource:
+    """Dormant — activate in Phase 2."""
+    name   = "file"
+    active = False
+
+    def acquire(self) -> Optional[str]:
+        return None
+
+    def has_changed(self, sample: str) -> bool:
+        return False
+
+    def update_state(self, sample: str) -> None:
+        pass
+
+    def event_type(self, sample: str) -> str:
+        return "file_appended"
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# READ Prime
+# ══════════════════════════════════════════════════════════════════════════════
 
 class READ(Prime):
-    """READ prime for text/input perception."""
-    
-    def __init__(self):
+    """
+    Linguistic perceptor.  Detects text changes across registered sources
+    and pushes canonical observation dicts to observation_queue.
+
+    Phase 1: only KeyboardSource (GUIInputSource) is active.
+    """
+
+    def __init__(self, simulate: bool = False):
         super().__init__("READ")
-        self._recent_sent = set()  # Track hashes of recent observations
-        self._send_cooldown = 0.1  # Seconds between same observation
-        self._last_sent_time = {}
-        self._thread = None
+        self._simulate = simulate
+        self._sources = self._build_sources()
+        self._thread: Optional[threading.Thread] = None
         self._running = False
-        self._input_sources = ["stdin"]  # Can be extended: ["stdin", "file", "socket"]
-        self._input_buffer = []
-        
-    def initialize(self) -> None:
-        """Start the autonomous observation thread."""
-        super().initialize()
+
+        # Deduplication / flood protection
+        self._recent_hashes: set[int]          = set()
+        self._last_sent_time: Dict[int, float] = {}
+        self._send_cooldown  = 0.1     # seconds between identical observations
+        self._cache_max_age  = 300.0   # seconds before cache entry eviction
+        self._cache_max_size = 1000
+        self._drop_count     = 0
+
+        # Timing
+        self._sample_interval = 0.01   # 10ms between loop iterations
+
+        # Simulation
+        self._sim_index = 0
+        self._sim_inputs = [
+            "the cat moved left",
+            "hello world",
+            "what is your name",
+            "how are you today",
+            "tell me something",
+        ]
+
+    def _build_sources(self) -> list:
+        """Register all sources.  Phase 1: only keyboard is active."""
+        return [
+            gui_input_source,   # active
+            ScreenSource(),     # dormant
+            FileSource(),       # dormant
+        ]
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Lifecycle
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _on_initialize(self) -> None:
         self._running = True
-        self._thread = threading.Thread(target=self._observation_loop, daemon=True)
+        self._thread = threading.Thread(
+            target=self._observation_loop,
+            daemon=True,
+            name="READ-observe",
+        )
         self._thread.start()
-        print(f"READ initialized - monitoring: {self._input_sources}")
-    
-    def shutdown(self) -> None:
-        """Stop the observation thread."""
+        active = [s.name for s in self._sources if s.active]
+        print(f"READ: Initialized — active sources: {active}")
+
+    def _on_shutdown(self) -> None:
         self._running = False
         if self._thread:
             self._thread.join(timeout=2.0)
-        super().shutdown()
-    
+        print("READ: Shutdown complete")
+
+    # ══════════════════════════════════════════════════════════════════════
+    # __call__ — consultation mode
+    # ══════════════════════════════════════════════════════════════════════
+
     def __call__(self, context: Dict[str, Any]) -> Any:
         """
-        Execute READ prime.
-        
-        Consultation mode (on-demand):
-        {
-            "input": "text to read",
-            "mode": "consultation"
-        }
-        
-        Or:
-        {
-            "query": "read this",
-            "text": "actual text"
-        }
-        
-        Returns: Compound with READ prime
+        Consultation mode — called by THINK (or another prime) directly.
+        Returns a Compound; change detection and queue are bypassed.
         """
-        # Determine mode
-        if "mode" in context and context["mode"] == "consultation":
-            return self._consultation_mode(context)
-        elif "input" in context or "query" in context:
-            # Implicit consultation mode
-            return self._consultation_mode(context)
-        
-        # Autonomous mode - called internally by thread
-        return None
-    
-    def _consultation_mode(self, context: Dict[str, Any]) -> Compound:
-        """Handle on-demand consultation."""
-        # Extract input text
-        input_text = ""
-        if "input" in context:
-            input_text = context["input"]
-        elif "query" in context:
-            input_text = context["query"]
-        elif "text" in context:
-            input_text = context["text"]
-        else:
-            raise PrimeError("READ consultation: No input text provided")
-        
-        # Create observation
-        observation = self._create_observation(input_text, mode="consultation")
-        
-        # Create compound
-        primebit = PrimeBit.from_prime_names({"READ"})
-        
-        compound = Compound(
-            id=-1,  # Temporary ID - will be assigned by KNOW if stored
-            text=input_text,
-            primebit=primebit,
-            compound_type="data",
-            provenance_data={
-                "provenance": ["READ_consultation"],
-                "raw_input": input_text,
-                "tokens": input_text.split(),
-                "mode": "consultation",
-                "timestamp": time.time()
-            }
+        text = (
+            context.get("input")
+            or context.get("query")
+            or context.get("text")
+            or ""
         )
-        
-        return compound
-    
+        if not text:
+            raise PrimeError("READ consultation: No input text provided")
+
+        # Still build the observation internally (for tracing)
+        obs = self._build_observation_dict(text, source="consultation", mode="consultation")
+
+        # Return a minimal Compound (ephemeral, id=-1)
+        primebit = PrimeBit.from_prime_names(["READ"])
+        return Compound(
+            id=-1,
+            symbol=text,
+            primebit=primebit,
+            nested=[],
+            relations=[],
+            definition_narrative_id=None,
+            grounded=True,
+            version=0,
+            confidence=1.0,
+            candidate_interpretations=[],
+            operation_arity=None,
+            slot_names=[],
+            executable=False,
+            execution_path=None,
+            trigger_condition=None,
+            arity=0,
+            slots=[],
+            created_at=time.time(),
+            compound_type="internal",
+        )
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Autonomous observation loop
+    # ══════════════════════════════════════════════════════════════════════
+
     def _observation_loop(self) -> None:
-        """Autonomous observation loop (runs in background thread)."""
-        print("READ: Starting autonomous observation loop")
-        
+        """Iterate registered sources; emit one observation per change."""
         while self._running:
             try:
-                # Check each input source
-                if "stdin" in self._input_sources:
-                    self._check_stdin()
-                
-                # Check simulation for testing
-                self._check_simulation()
-                
-                # Brief sleep to prevent CPU spinning
-                time.sleep(0.01)
-                    
+                for source in self._sources:
+                    if not source.active:
+                        continue
+                    sample = source.acquire()
+                    if sample is None:
+                        continue
+                    if not source.has_changed(sample):
+                        continue
+                    # Deduplication
+                    if self._is_duplicate(sample):
+                        continue
+                    # Build and queue
+                    obs = self._build_observation_dict(
+                        sample,
+                        source=source.name,
+                        event_type=source.event_type(sample),
+                    )
+                    if not observation_queue.full():
+                        put_observation(obs)
+                    else:
+                        self._drop_count += 1
+                    source.update_state(sample)
+                    self._record_sent(sample)
+
+                # Simulation path (test only, gated behind flag)
+                if self._simulate:
+                    self._run_simulation_step()
+
             except Exception as e:
-                print(f"READ observation error: {e}")
-                time.sleep(1.0)
-    
-    def _check_stdin(self) -> None:
-        """Check stdin for new input (non-blocking)."""
-        if select.select([sys.stdin], [], [], 0)[0]:
-            try:
-                line = sys.stdin.readline().strip()
-                if line:  # Non-empty line
-                    print(f"READ: Received input: {line}")
-                    self._process_input(line, source="stdin")
-            except (IOError, EOFError):
-                pass  # Handle stdin issues gracefully
-    
-    def _check_simulation(self) -> None:
-        """Simulate occasional observations for testing."""
-        # Reduced frequency for testing
-        if time.time() % 10 < 0.05:  # Every ~10 seconds
-            test_inputs = [
-                "the cat moved left",
-                "hello world",
-                "what is your name",
-                "how are you today",
-                "tell me something",
-                "the dog barked loudly",
-                "sun rises in the east",
-                "water is wet",
-                "time passes slowly",
-                "learning is fun"
-            ]
-            
-            import random
-            if random.random() < 0.3:  # 30% chance
-                raw_input = random.choice(test_inputs)
-                self._process_input(raw_input, source="simulation")
-    
-    def _process_input(self, text: str, source: str = "unknown") -> None:
-        """Process input text and create observation."""
-        # Simple deduplication
-        text_hash = hash(text)
-        current_time = time.time()
-        
-        if (text_hash in self._recent_sent and 
-            current_time - self._last_sent_time.get(text_hash, 0) < self._send_cooldown):
-            return  # Skip duplicate
-        
-        # Create observation
-        observation = self._create_observation(text, source)
-        
-        # Check queue capacity
-        if observation_queue.full():
-            print(f"READ: Queue full, dropping observation: {text[:50]}...")
-            return
-        
-        # Send observation
-        observation_queue.put(observation)
-        self._recent_sent.add(text_hash)
-        self._last_sent_time[text_hash] = current_time
-        
-        print(f"READ: Queued observation from {source}: {text[:50]}...")
-        
-        # Clean old entries periodically
-        if len(self._recent_sent) > 1000:
-            self._clean_old_entries()
-    
-    def _create_observation(self, text: str, source: str, mode: str = "autonomous") -> Dict[str, Any]:
-        """Create a structured observation dictionary."""
-        # Basic tokenization
+                print(f"READ: Observation loop error: {e}")
+
+            time.sleep(self._sample_interval)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Observation dict builder
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _build_observation_dict(
+        self,
+        text: str,
+        source: str = "keyboard",
+        event_type: str = "line_entered",
+        mode: str = "autonomous",
+    ) -> Dict[str, Any]:
+        """Canonical observation format per READ_ARCHITECTURE.md §4."""
         tokens = text.split()
-        
         return {
             "timestamp": time.time(),
-            "raw_input": text,
-            "preliminary_tokens": tokens,
-            "token_count": len(tokens),
+            "modality":  "READ",
+            "event_type": event_type,
+            "data": {
+                "text":               text,
+                "preliminary_tokens": tokens,
+                "token_count":        len(tokens),
+            },
             "metadata": {
                 "source": source,
-                "mode": mode,
-                "prime": "READ",
-                "tokenized_at": time.time()
-            }
+                "prime":  "READ",
+                "mode":   mode,
+            },
         }
-    
-    def _clean_old_entries(self) -> None:
-        """Clean old entries from recent_sent to prevent memory growth."""
-        current_time = time.time()
-        max_age = 300.0  # Keep entries for 5 minutes
-        
-        to_remove = []
-        for obs_hash, sent_time in self._last_sent_time.items():
-            if current_time - sent_time > max_age:
-                to_remove.append(obs_hash)
-        
-        for obs_hash in to_remove:
-            self._recent_sent.discard(obs_hash)
-            self._last_sent_time.pop(obs_hash, None)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Deduplication / flood protection
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _is_duplicate(self, text: str) -> bool:
+        h = hash(text)
+        now = time.time()
+        if h in self._recent_hashes:
+            if now - self._last_sent_time.get(h, 0) < self._send_cooldown:
+                return True
+        return False
+
+    def _record_sent(self, text: str) -> None:
+        h = hash(text)
+        self._recent_hashes.add(h)
+        self._last_sent_time[h] = time.time()
+        if len(self._recent_hashes) > self._cache_max_size:
+            self._evict_old_entries()
+
+    def _evict_old_entries(self) -> None:
+        now = time.time()
+        to_remove = [
+            h for h, t in self._last_sent_time.items()
+            if now - t > self._cache_max_age
+        ]
+        for h in to_remove:
+            self._recent_hashes.discard(h)
+            self._last_sent_time.pop(h, None)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Simulation (test harness only)
+    # ══════════════════════════════════════════════════════════════════════
+
+    def _run_simulation_step(self) -> None:
+        """Inject one test string per call (only if simulate=True)."""
+        if self._sim_index < len(self._sim_inputs):
+            text = self._sim_inputs[self._sim_index]
+            self._sim_index += 1
+            obs = self._build_observation_dict(text, source="simulation")
+            if not observation_queue.full():
+                put_observation(obs)
 
 
-# Singleton instance exported at module level
+# ══════════════════════════════════════════════════════════════════════════════
+# Singleton — production instance.  simulate=False always.
+# ══════════════════════════════════════════════════════════════════════════════
+
 read = READ()

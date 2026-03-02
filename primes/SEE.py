@@ -1,88 +1,63 @@
 """
-SEE Prime - Visual perception scaffold.
+SEE — Visual perception prime (DORMANT).
+
+SEE is structurally complete but **not started** in Phase 1.
+Its thread is never launched; ``active`` is always ``False``.
+
+When implemented (Phase 2+), SEE will:
+  - Track objects via centroid tracking per frame
+  - Emit one observation per event (appearance, disappearance, state change)
+  - Use put_observation() to write to observation_queue + SELF tap
+
+See docs/PRIMES/PERCEPTORS/ for concept and architecture.
 """
 
-import time
+from __future__ import annotations
+
+import logging
 import threading
-import random
-from typing import Dict, Any
-from core.prime_base import Prime
-from core.queues import observation_queue
+import time
+from typing import Any, Dict
+
 from core.compound import Compound
+from core.prime_base import Prime
 from core.primebit import PrimeBit
+
+log = logging.getLogger(__name__)
 
 
 class SEE(Prime):
-    """SEE prime for visual perception."""
-    
-    def __init__(self):
-        super().__init__("SEE")
+    """Visual perception prime.  Dormant in Phase 1."""
+
+    def __init__(self) -> None:
+        super().__init__(name="SEE")
+        self.active: bool = False
         self._thread = None
+        self._running: bool = False
+        self._drop_count: int = 0
+
+    def _on_initialize(self) -> None:
+        """Phase 1: do NOT start the observation thread."""
+        log.info("SEE: Initialized (dormant — thread not started)")
+
+    def _on_shutdown(self) -> None:
         self._running = False
-        self._last_observation_time = 0
-        
-    def initialize(self) -> None:
-        super().initialize()
-        self._running = True
-        self._thread = threading.Thread(target=self._observation_loop, daemon=True)
-        self._thread.start()
-    
-    def shutdown(self) -> None:
-        self._running = False
-        if self._thread:
+        if self._thread and self._thread.is_alive():
             self._thread.join(timeout=2.0)
-        super().shutdown()
-    
+        log.info("SEE: Shutdown complete")
+
     def __call__(self, context: Dict[str, Any]) -> Any:
-        """SEE prime interface."""
+        """Consultation mode — returns a placeholder Compound.
+
+        Future: will return a snapshot of the current visual state.
+        """
         primebit = PrimeBit.from_prime_names({"SEE"})
-        return Compound(
-            id=-1,
-            text="observe",
+        return Compound.concept(
+            temp_id=-1,
+            symbol="visual_placeholder",
             primebit=primebit,
-            compound_type="data",
-            provenance_data={"mode": "consultation"}
         )
-    
-    def _observation_loop(self) -> None:
-        """Visual observation loop."""
-        visual_observations = [
-            "red square detected",
-            "blue circle moving",
-            "object at location 5 3",
-            "color change observed",
-            "shape identified",
-        ]
-        
-        while self._running:
-            try:
-                current_time = time.time()
-                
-                # Generate observation every 5 seconds
-                if current_time - self._last_observation_time >= 5.0:
-                    if not observation_queue.full():
-                        observation_text = random.choice(visual_observations)
-                        observation = {
-                            "timestamp": current_time,
-                            "raw_input": observation_text,
-                            "preliminary_tokens": observation_text.split(),
-                            "metadata": {
-                                "source": "visual_simulation",
-                                "mode": "autonomous",
-                                "prime": "SEE"
-                            }
-                        }
-                        
-                        observation_queue.put(observation)
-                        print(f"[SEE] Generated observation: {observation_text}")
-                        self._last_observation_time = current_time
-                    
-                time.sleep(0.2)
-                    
-            except Exception as e:
-                print(f"SEE observation error: {e}")
-                time.sleep(1.0)
 
 
-# Singleton instance
+# ── Singleton ─────────────────────────────────────────────────────────────
 see = SEE()

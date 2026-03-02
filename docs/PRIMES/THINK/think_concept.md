@@ -111,6 +111,16 @@ Step 3 – Resolve utterance compounds to Narrative bindings
   New entity (first appearance) → create new binding, add to Narrative.
   All subsequent reasoning uses binding local_names, not raw compound IDs.
 
+  **Family member resolution (KIND chain walking):**
+  When a token compound is a family member (has a KIND relation), THINK:
+  1. Follows the KIND relation to the root compound
+  2. Binds to the root concept (e.g. "ran" → binding for "run")
+  3. Records the grammatical primes (BEFORE, NOW, etc.) from the family member's
+     primebit in the NarrativeEvent — preserving tense/number/degree context
+  This means THINK reasons at the root concept level — "the cat ran" and "the cat
+  is running" both resolve to the same CAT and RUN bindings — while the temporal
+  context is captured in the event thread for precise response generation.
+
 Step 4 – Fetch the tokens
   KNOW.by_ids(token_ids)
   → Layer 0 (data) compounds, each with a populated primebit.

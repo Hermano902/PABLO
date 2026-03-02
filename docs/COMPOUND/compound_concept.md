@@ -151,17 +151,22 @@ Layer 4 — Macro
 ────────────────────────────────────────────────────────────────────────────────────────────
 
 Layer 0: Concept Compound
-The canonical definition of a symbol's meaning. One per unique concept, not one per
-observation. When PABLO encounters "cat" for the thousandth time, it does not create
-a new Compound — it finds the existing "cat" Compound and records the instance in a
-Narrative.
+The canonical definition of a symbol's meaning. One per unique surface form — including
+inflected forms. "run", "ran", "running", and "runs" are four distinct Compounds, each
+with its own permanent ID and primebit. They are linked by KIND relations into a
+Compound Family (see below). When PABLO encounters "cat" for the thousandth time, it
+does not create a new Compound — it finds the existing "cat" Compound and records the
+instance in a Narrative.
 
 Created by:  DATA on first encounter. Updated by SYMBOL as meaning refines.
 PrimeBit:    Set by SYMBOL. Fast index of which primes are present in this concept.
-             "cat"   → {LIFE, ENTITY, MOVE, FEEL}
-             "left"  → {LEFT, MOVE}
-             "fast"  → {MOVE, MORE, TIME, LESS}
+             "cat"     → {LIFE, ENTITY, MOVE, FEEL}
+             "left"    → {LEFT, MOVE}
+             "fast"    → {MOVE, MORE, TIME, LESS}
+             "ran"     → root primes of "run" + BEFORE (past tense)
+             "running" → root primes of "run" + NOW (progressive)
 nested:      Child Compound IDs whose meanings compose this concept's full definition.
+             For family members: [root_compound_id] — the KIND chain.
 definition:  The living definition Narrative — loaded on demand from KNOW.
 executable:  False
 Lifecycle:   Created ungrounded → SYMBOL grounds it → definition deepens over time.
@@ -361,8 +366,9 @@ logic      Pre-defined structural operators (AND, OR, NOT, IF, THEN, etc.).
            Loaded from core/logic_compounds.json. IDs 100–199. Read-only.
            Used as predicate wrappers in relations (e.g. NOT(HAS) → WING).
 
-concept    Layer 0. Canonical definition of a symbol's meaning. One per unique concept.
-           Replaces the old "data" type — a concept is not raw data, it is meaning.
+concept    Layer 0. Canonical definition of a symbol's meaning. One per unique surface
+           form — including inflected forms. "run", "ran", "running", "runs" are four
+           distinct concept Compounds. Replaces the old "data" type.
 
 utterance  Layer 1. Aggregate of ordered concept Compounds from one READ observation.
            Replaces the old "aggregate" type.
@@ -376,6 +382,101 @@ macro      Layer 4 self-created compound. Stored by THINK after successful execu
            Permanently available to all future THINK calls via KNOW.
 
 internal   System-use compounds not from external observations.
+
+
+Compound Families and Inflections
+
+Inflected forms are distinct Compounds. "run", "ran", "running", and "runs" each get
+their own permanent ID, symbol, and primebit. They are not aliases — they are four
+separate concept Compounds linked into a Compound Family by KIND relations.
+
+Family Structure:
+
+  Root Compound:     "run"
+  Family Members:    "ran", "running", "runs"
+
+  "ran"     → KIND relation → target_id: "run" compound
+  "running" → KIND relation → target_id: "run" compound
+  "runs"    → KIND relation → target_id: "run" compound
+
+A family member's primebit is always a superset of its root's primebit. The root
+contributes its semantic primes; the member adds grammatical primes that encode the
+inflection. "ran" = run's primes ∪ {BEFORE}. "running" = run's primes ∪ {NOW}.
+
+Irregular forms (went→go, better→good, mice→mouse) follow the same model. Irregularity
+is purely a surface-form problem that SYMBOL solves during lookup. Once grounded, "went"
+is simply a family member of "go" with a KIND relation and BEFORE in its primebit —
+structurally identical to any regular past tense form.
+
+
+Grammatical Prime Mappings
+
+The 63 primes include all the grammatical markers needed to encode inflection:
+
+  Tense / Aspect:
+    BEFORE  (bit 6)   — past tense:         "ran", "walked", "was"
+    NOW     (bit 39)  — present/progressive: "running", "walking", "is"
+    AFTER   (bit 0)   — future tense:        "will run", "will walk"
+    LAST    (bit 27)  — perfect aspect:       "has run", "had walked"
+
+  Number:
+    ONE     (bit 40)  — singular:            "cat", "runs" (3rd-person singular verb)
+    MANY    (bit 33)  — plural:              "cats", "mice"
+
+  Degree (adjectives/adverbs):
+    MORE    (bit 34)  — comparative:         "faster", "better"
+    MORE+ALL          — superlative:         "fastest", "best"
+
+  Person (verb conjugation):
+    SELF    (bit 48)  — 1st person:          "am", "have" (1st-person forms)
+    YOU     (bit 62)  — 2nd person:          "are" (2nd-person forms)
+    OTHER   (bit 42)  — 3rd person:          "is", "has" (3rd-person forms)
+
+The WITH prime is used as a relational wrapper for grammatical primes in the
+Definition Narrative. WITH→BEFORE on a family member means "this form carries
+past tense." This keeps grammatical primes in the same relation schema as all
+other definition links — predicate → target, using primes.
+
+
+Dictionary Inflection Tables as Family Blueprints
+
+The dictionary data (data/out/) contains INFLECTIONS tables for each headword.
+These serve as blueprints for family construction during bootstrap:
+
+  HEADWORD "run" (verb)
+    INFLECTIONS:
+      3rd person singular: "runs"
+      present participle:  "running"
+      past tense:          "ran"
+      past participle:     "run"
+
+During dictionary bootstrap, the parser:
+  1. Creates the root compound for "run" from the headword definition
+  2. Reads the INFLECTIONS table
+  3. Creates family member compounds for each inflected form
+  4. Links each member to the root via KIND relation
+  5. Adds the appropriate grammatical primes to each member's primebit
+
+Family members created from INFLECTIONS inherit the root's semantic primebit
+and add only the grammatical markers. No LLM call is needed — the dictionary
+provides the family structure directly.
+
+
+SYMBOL's Role with Families
+
+When SYMBOL encounters a token:
+  1. Exact surface form lookup — search KNOW by_symbol(token)
+  2. If found: use the existing compound (root or family member)
+  3. If not found: attempt family member derivation
+     a. Lemmatise the token to find a potential root
+     b. If root exists in KNOW, create a family member compound
+        linked by KIND with appropriate grammatical primes
+  4. If no root found: create a new root compound (LLM fallback if needed)
+
+This resolution order means SYMBOL tries the cheapest path first (cached lookup),
+then morphological derivation (no LLM), and only falls back to LLM for genuinely
+novel roots. Family members are created on-demand as new inflected forms are
+encountered.
 
 
 ID Ranges

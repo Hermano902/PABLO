@@ -140,7 +140,9 @@ def make_blob_script(size: int = 300, blob_id: str = "main") -> str:
 
 
 # Three.js CDN — added once to <head> in app.py via ui.add_head_html.
+# 'async' prevents render-blocking: the blob script retries via setTimeout
+# until THREE is defined, so load order doesn't matter.
 THREE_JS_HEAD = (
-    '<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js">'
+    '<script async src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js">'
     '</script>'
 )

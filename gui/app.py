@@ -234,6 +234,14 @@ async def index():
                 log_event(f'ERROR {prime_name}: {exc}')
             await asyncio.sleep(0.45)
 
+        # Unsuspend SELF now that all primes are running
+        try:
+            self_prime = prime_registry.get_prime("SELF")
+            self_prime.suspended = False
+            log_event("SELF unsuspended — attention routing active.")
+        except Exception:
+            pass
+
         status_label.set_text('Ready.')
         await ui.run_javascript("if(window.pablo?.blob?.boot) pablo.blob.boot.pulse()")
         await asyncio.sleep(1.3)

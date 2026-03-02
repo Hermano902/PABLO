@@ -38,7 +38,9 @@ What KNOW Stores
 
 KNOW holds four distinct record types, each in its own sharded store:
 
-  Compounds           The canonical concept definitions. One per unique concept.
+  Compounds           The canonical concept definitions. One per unique surface form
+                      (including inflected forms — "run", "ran", "running" are three
+                      distinct compounds linked by KIND relations into a family).
                       Lean records — identity, primebit, nested IDs, grounding state,
                       version, confidence. The fast-access core of the memory.
 
@@ -167,10 +169,16 @@ KNOW answers queries through the priority task queue. All retrieval respects the
 caller's priority — THINK's queries are served before background enrichment jobs.
 
   by_id(id)                   Returns compound core sub-record by ID.
-  by_symbol(symbol)           Returns the compound whose symbol matches. Used by
-                               DATA and SYMBOL to find existing concept compounds.
+  by_symbol(symbol)           Returns the compound whose symbol matches exactly.
+                               Exact surface form match — "ran" finds "ran", not "run".
+                               Used by DATA and SYMBOL to find existing concept compounds.
   by_prime(prime_name)        Returns all compounds that include that prime in primebit.
   by_type(compound_type)      Returns all compounds of a given type.
+  by_relation(predicate, target_id)
+                              Returns all compounds that have a relation with the given
+                              predicate pointing to target_id. Used to find family members:
+                              by_relation("KIND", root_id) returns all inflected forms
+                              of a root compound. Also used for any predicate traversal.
   by_trigger(primebit)        Returns action/macro compounds whose trigger_condition
                                matches. Used by THINK to find existing macros.
   search(query_dict)          Returns compounds matching a set of field conditions.
@@ -261,6 +269,12 @@ that maintain memory health over time:
 
   Integrity Check   Verifies all relation targets exist, detects cycles in nested
                     compound graphs, logs anomalies for review.
+
+  Family Index      Maintains an inverted index from root compound IDs to their
+  Maintenance       family members (compounds with KIND→root relations). Used by
+                    SYMBOL's family enrichment cascade to propagate root primebit
+                    updates to all inflected forms. Phase 1: linear scan via
+                    by_relation(). Phase 2: dedicated index for O(1) family lookup.
 
 These threads use the same task queue as all other primes, at the lowest priority.
 They never interfere with real-time requests.

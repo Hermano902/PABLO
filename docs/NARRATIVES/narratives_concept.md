@@ -176,6 +176,15 @@ On each reasoning cycle (triggered via think_queue by SELF):
      Known entity (e.g. ALICE mentioned before) → resolve to existing THIS_ALICE binding.
      New entity (e.g. BALL mentioned for first time) → create new binding THE_BALL.
 
+     Family member resolution: when THINK encounters a family member compound (e.g.
+     "ran" — a member of the "run" family), it resolves the binding to the root concept
+     ("run") but records the grammatical context from the family member's primebit:
+       "ran" → binding uses root compound "run", but Narrative event records BEFORE (past)
+       "running" → binding uses "run", event records NOW (progressive)
+     This means Narrative reasoning works at the root concept level — "the cat ran" and
+     "the cat is running" both operate on the same CAT and RUN bindings — while preserving
+     the temporal/grammatical distinctions in the event thread.
+
   3. Check constraints
      Before reasoning, load all active Constraints from the Narrative.
      Any reasoning step that would violate a constraint is blocked; THINK revises.

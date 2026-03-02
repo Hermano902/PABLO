@@ -69,6 +69,15 @@ Step 3  — Resolve utterance tokens to Narrative bindings
           for each token: match text to existing binding or create new binding
           all further reasoning uses binding local_names, not raw compound IDs
 
+          **KIND chain walking for family members:**
+          for each token compound:
+            if token has KIND relation → follow to root compound
+            bind to root concept (e.g. "ran" → binding for "run")
+            extract grammatical primes (BEFORE, NOW, MANY, etc.) from token's primebit
+            store grammatical context on the NarrativeEvent for this utterance
+          this ensures PrimeBit analysis in Step 5 works at the root concept level
+          while tense/number/degree distinctions are preserved in event metadata
+
 Step 4  — Check active Constraints
           load narrative.constraints where active=True
           if any constraint is violated by the current intent → revise before proceeding

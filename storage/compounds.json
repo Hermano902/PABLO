@@ -1,0 +1,220 @@
+{
+  "200": {
+    "id": 200,
+    "symbol": "can",
+    "primebit": 512,
+    "nested": [],
+    "relations": [],
+    "definition_narrative_id": 1,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [
+      {
+        "prime": "CAN",
+        "score": 1.0
+      },
+      {
+        "pos": "AUX"
+      },
+      {
+        "method": "heuristic"
+      },
+      {
+        "surface_form": "Can",
+        "lemma": "can"
+      }
+    ],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4505112,
+    "compound_type": "concept"
+  },
+  "201": {
+    "id": 201,
+    "symbol": "you",
+    "primebit": 4611686018427387904,
+    "nested": [],
+    "relations": [],
+    "definition_narrative_id": 2,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [
+      {
+        "prime": "YOU",
+        "score": 1.0
+      },
+      {
+        "grammatical_primes": [
+          "YOU"
+        ]
+      },
+      {
+        "pos": "PRON"
+      },
+      {
+        "method": "heuristic"
+      }
+    ],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4505424,
+    "compound_type": "concept"
+  },
+  "202": {
+    "id": 202,
+    "symbol": "read",
+    "primebit": 17592186044416,
+    "nested": [],
+    "relations": [],
+    "definition_narrative_id": 3,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [
+      {
+        "prime": "READ",
+        "score": 1.0
+      },
+      {
+        "pos": "VERB"
+      },
+      {
+        "method": "heuristic"
+      }
+    ],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4505575,
+    "compound_type": "concept"
+  },
+  "203": {
+    "id": 203,
+    "symbol": "this",
+    "primebit": 9007199254740992,
+    "nested": [],
+    "relations": [],
+    "definition_narrative_id": 4,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [
+      {
+        "prime": "THIS",
+        "score": 1.0
+      },
+      {
+        "pos": "PRON"
+      },
+      {
+        "method": "heuristic"
+      }
+    ],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4505706,
+    "compound_type": "concept"
+  },
+  "204": {
+    "id": 204,
+    "symbol": "?",
+    "primebit": 0,
+    "nested": [],
+    "relations": [],
+    "definition_narrative_id": 5,
+    "grounded": false,
+    "version": 0,
+    "confidence": 0.0,
+    "candidate_interpretations": [
+      {
+        "pos": "PUNCT"
+      },
+      {
+        "method": "unresolved"
+      }
+    ],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.450581,
+    "compound_type": "concept"
+  },
+  "205": {
+    "id": 205,
+    "symbol": "Can you read this?",
+    "primebit": 4620710809868173824,
+    "nested": [
+      200,
+      201,
+      202,
+      203,
+      204
+    ],
+    "relations": [],
+    "definition_narrative_id": null,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4506054,
+    "compound_type": "utterance"
+  },
+  "206": {
+    "id": 206,
+    "symbol": "[reflective_acknowledgement] Can you read this? (CAN+YOU+READ)",
+    "primebit": 4625214409495544320,
+    "nested": [],
+    "relations": [
+      {
+        "predicate": "FROM",
+        "target_id": 205
+      }
+    ],
+    "definition_narrative_id": null,
+    "grounded": true,
+    "version": 0,
+    "confidence": 1.0,
+    "candidate_interpretations": [],
+    "operation_arity": null,
+    "slot_names": [],
+    "executable": false,
+    "execution_path": null,
+    "trigger_condition": null,
+    "arity": 0,
+    "slots": [],
+    "created_at": 1772468703.4512973,
+    "compound_type": "intent"
+  }
+}

@@ -253,8 +253,10 @@ def by_ids(self, ids: list[int]) -> list[Compound]:
     return [c for c in (self.by_id(i) for i in ids) if c is not None]
 
 def by_symbol(self, symbol: str) -> Compound | None:
-    """Find existing concept compound by symbol string.
-    Used by DATA to check if a symbol is already known before creating new compound.
+    """Find existing concept compound by exact surface form string.
+    Exact match — "ran" finds "ran", not "run".
+    Used by DATA to check if a surface form is already known before creating new compound.
+    Used by SYMBOL for exact lookup before attempting lemmatization.
     Phase 1: linear scan. Phase 2: symbol index.
     """
     with self._lock:
@@ -263,6 +265,18 @@ def by_symbol(self, symbol: str) -> Compound | None:
                 self._increment_query_count(compound.id)
                 return compound
     return None
+
+def by_relation(self, predicate: str, target_id: int) -> list[Compound]:
+    """Return all compounds that have a relation with the given predicate
+    pointing to target_id. Used to find compound family members:
+      by_relation("KIND", root_id) → all inflected forms of root.
+    Also used for any relation-based graph traversal.
+    Phase 1: linear scan over all compounds. Phase 2: relation index.
+    """
+    with self._lock:
+        return [c for c in self._compounds.values()
+                for r in c.relations
+                if r.predicate == predicate and r.target_id == target_id]
 
 def by_prime(self, prime_name: str) -> list[Compound]:
     """Return all compounds that include prime_name in their primebit."""
@@ -643,7 +657,7 @@ self.stats = {
 ✅ store_batch — ID assignment, temp→permanent sweep, definition narrative creation
 ✅ store — single compound write for THINK
 ✅ Layer 1 commit event → SELF listener registration
-✅ Retrieval: by_id, by_ids, by_symbol, by_prime, by_type, by_trigger, search
+✅ Retrieval: by_id, by_ids, by_symbol, by_prime, by_type, by_trigger, by_relation, search
 ✅ Definition Narrative API: get_definition, refine_definition
 ✅ Instance Narrative API: store/get/open/close/archive/by_source
 ✅ Refinement tracking: record_usage, record_outcome, get_refinement
@@ -724,6 +738,11 @@ Add in-memory indexes for fast retrieval without linear scan:
 - `_prime_index: dict[str, set[int]]` — prime_name → set of compound_ids
 - `_type_index: dict[str, set[int]]` — compound_type → set of compound_ids
 - `_trigger_index: list[tuple[PrimeBit, int]]` — sorted trigger_condition → compound_id
+- `_family_index: dict[int, set[int]]` — root_compound_id → set of family member compound_ids
+  Built from KIND relations. Updated on store_batch and refine_definition.
+  Used by SYMBOL's family enrichment cascade and by THINK for KIND chain traversal.
+- `_relation_index: dict[tuple[str, int], set[int]]` — (predicate, target_id) → set of compound_ids
+  Generalised relation index backing the by_relation() API.
 
 Indexes rebuilt by maintenance thread on startup and after bulk writes.
 

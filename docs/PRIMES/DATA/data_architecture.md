@@ -67,24 +67,37 @@ def _candidate_loop(self):
 
 3. assign_observation_id(candidate)
    → obs_id = f"obs_{int(time.time() * 1000)}"
-   → stamped on all Compounds from this observation
+   → passed to KNOW for recording in the active Instance Narrative
+   → NOT stamped on Compounds — observation context is instance-specific,
+     compounds are universal
 
-4. build_token_compounds(candidate)
-   → one Layer 0 Compound per token
-   → grounded tokens: compound_type="data", primebit set from candidate_primes
-   → placeholder tokens: compound_type="data", grounded=False, primebit empty
-   → all tokens: relations set from candidate["roles"] if present
+4. resolve_or_create_concept_compounds(candidate)
+   → one Layer 0 Compound per unique surface form — but only if not already in KNOW
+   → for each token:
+       existing = know.by_symbol(token_text)   # exact surface form match
+       if existing: use existing compound — no new compound created
+         (works for both roots and family members — "ran" found directly)
+       if not found:
+           # SYMBOL has already resolved family membership in the candidate
+           grounded tokens:   Compound.concept(symbol=token, primebit=..., grounded=True,
+                                               nested=kind_chain, relations=kind_relations)
+           placeholder tokens: Compound.concept(symbol=token, grounded=False, primebit=empty)
+   → family member candidates arrive with nested=[root_id] and relations=[KIND→root_id]
+     already set by SYMBOL — DATA validates but does not derive family structure
+   → no provenance on the compound — observation context goes to Instance Narrative
+   → relations from candidate["roles"] deferred to Phase 2
 
-5. build_utterance_compound(token_compounds)
+5. build_utterance_compound(concept_compounds)
    → one Layer 1 Compound for the full observation
-   → compound_type="aggregate"
-   → children = ordered list of token compound temp IDs
-   → text = candidate["raw_input"]
-   → primebit = union of all token primebits
+   → compound_type="utterance"
+   → nested = ordered list of concept compound IDs (temp for new, permanent for existing)
+   → symbol = candidate["raw_input"]
+   → primebit = union of all concept compound primebits
 
-6. push_to_know(token_compounds + utterance_compound)
-   → all Compounds pushed via KNOW's input interface
-   → KNOW assigns permanent IDs and emits Layer 1 commit event
+6. push_to_know(new_concept_compounds + utterance_compound)
+   → only NEW concept compounds pushed (existing ones already in KNOW)
+   → KNOW.store_batch assigns permanent IDs, creates Definition Narratives for new concepts
+   → KNOW emits Layer 1 commit event on utterance compound storage
 ```
 
 
@@ -126,7 +139,7 @@ a raw text string. The candidate_queue is bypassed entirely:
 
 ```python
 def __call__(self, context: dict) -> Compound:
-    candidate = context.get("candidate") or self._text_to_candidate(context["text"])
+    candidate = context.get("candidate") or self._text_to_candidate(context["symbol"])
     compounds = self._process_candidate(candidate)
     return compounds["utterance"]   # return utterance Compound to caller
 ```
@@ -155,7 +168,8 @@ DATA maintains thread-safe counters updated in `_process_candidate()`:
 ```python
 self.stats = {
     "observations_processed":  0,
-    "tokens_processed":        0,
+    "concepts_found":          0,   # tokens resolved to existing KNOW compounds
+    "concepts_created":        0,   # new concept Compounds created for unknown symbols
     "utterances_assembled":    0,
     "grounded_directly":       0,
     "placeholders_created":    0,
@@ -182,10 +196,12 @@ LOGIC_TOKEN_MAP = { ... }   # Loaded from core/logic_compounds.json at startup
   ✅ Daemon thread draining candidate_queue
   ✅ Prime validation against PRIME_SET
   ✅ Logic operator detection and substitution
-  ✅ Layer 0 token Compound creation (grounded + placeholder)
-  ✅ Layer 1 utterance Compound assembly
-  ✅ Temporary ID assignment; KNOW assigns permanent IDs
+  ✅ KNOW-first lookup — resolve existing concept compounds before creating new ones
+  ✅ Layer 0 concept Compound creation (grounded + placeholder) for unknown symbols only
+  ✅ Layer 1 utterance Compound assembly (nested, symbol, primebit union)
+  ✅ Temporary ID assignment; KNOW.store_batch assigns permanent IDs
+  ✅ Observation ID passed to KNOW for Instance Narrative — not stored on Compounds
   ✅ Consultation mode (__call__)
-  ✅ Statistics counters
-  ❌ Role-based relation population (Phase 2 — candidate["roles"] parsed but not fully mapped)
-  ❌ Background enrichment queue for placeholder tokens (Phase 2)
+  ✅ Statistics counters (concepts_found, concepts_created)
+  ❌ Role-based relation population (Phase 2 — candidate["roles"] parsed but not mapped)
+  ❌ Background enrichment queue for placeholder tokens (Phase 2 — KNOW maintenance thread)
