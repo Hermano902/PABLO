@@ -214,38 +214,65 @@ class TextGrounder(Specialist):
     def _build_prompt(self, word: str, token_data: Dict[str, Any]) -> List[Dict[str, str]]:
         lemma = token_data.get("lemma", word)
         pos = token_data.get("pos", "UNKNOWN")
+        gram_primes = token_data.get("grammatical_primes", [])
         activation_context = token_data.get("activation_cloud", "")
 
-        system_prompt = f"""You are a semantic decomposition engine for an AI system called PABLO.
-Your task: given an English word, identify which of PABLO's 63 primitive concepts (primes) best describe its core meaning.
+        gram_hint = ""
+        if gram_primes:
+            gram_hint = (
+                f"\nGrammatical primes already assigned by morphology: {', '.join(gram_primes)}."
+                f"\nFocus on SEMANTIC primes — what the word MEANS, not its grammar."
+            )
+
+        system_prompt = f"""You are a semantic decomposition engine for PABLO, a neurosymbolic AI.
+
+PABLO has exactly 63 primitive concepts (primes). Every word's meaning MUST be
+expressed as a combination of these primes — nothing else exists in the system.
 
 {PRIME_LIST}
 
-Rules:
-1. Choose 1-5 primes that capture the CORE meaning of the word.
-2. The first prime should be the MOST relevant (highest score).
-3. Score each prime 0.0-1.0 based on how central it is to the word's meaning.
-4. Think about what the word fundamentally IS or DOES, not surface associations.
-5. Respond with ONLY valid JSON — no explanation text.
+Your task: given an English word with its POS tag, output 1-5 primes that capture
+the word's CORE MEANING. Think about what the word fundamentally IS or DOES.
 
-Response format (strict JSON):
-{{"primes": [{{"prime": "PRIME_NAME", "score": 0.95}}, ...], "reasoning": "brief"}}
+Output contract (the downstream system parses this JSON mechanically):
+- "primes": array of objects, each with "prime" (UPPERCASE string from the list above)
+  and "score" (float 0.0-1.0, how central this prime is to the meaning).
+- First entry = the single most relevant prime (highest score).
+- ONLY use prime names from the list above. Any other name causes a validation failure.
+- "reasoning": one short sentence explaining your decomposition.
+
+Exact JSON schema — respond with ONLY this, no other text:
+{{{{
+  "primes": [
+    {{{{"prime": "PRIME_NAME", "score": 0.95}}}},
+    {{{{"prime": "PRIME_NAME", "score": 0.80}}}}
+  ],
+  "reasoning": "brief explanation"
+}}}}
 
 Examples:
-- "cat" → {{"primes": [{{"prime": "BODY", "score": 0.9}}, {{"prime": "LIFE", "score": 0.85}}, {{"prime": "FEEL", "score": 0.7}}, {{"prime": "MOVE", "score": 0.65}}], "reasoning": "living body that moves and feels"}}
-- "table" → {{"primes": [{{"prime": "ENTITY", "score": 0.9}}, {{"prime": "MAKE", "score": 0.7}}, {{"prime": "HAVE", "score": 0.6}}], "reasoning": "a made entity that has/holds things"}}
-- "quickly" → {{"primes": [{{"prime": "MOVE", "score": 0.8}}, {{"prime": "TIME", "score": 0.7}}, {{"prime": "LESS", "score": 0.6}}], "reasoning": "moving in less time"}}"""
+Word: "cat" (NOUN)
+{{{{"primes": [{{{{"prime": "LIFE", "score": 0.9}}}}, {{{{"prime": "BODY", "score": 0.85}}}}, {{{{"prime": "FEEL", "score": 0.7}}}}, {{{{"prime": "MOVE", "score": 0.6}}}}], "reasoning": "a living body that moves and feels"}}}}
+
+Word: "table" (NOUN)
+{{{{"primes": [{{{{"prime": "ENTITY", "score": 0.9}}}}, {{{{"prime": "MAKE", "score": 0.75}}}}, {{{{"prime": "HAVE", "score": 0.6}}}}], "reasoning": "a made entity that holds things"}}}}
+
+Word: "quickly" (ADV)
+{{{{"primes": [{{{{"prime": "TIME", "score": 0.85}}}}, {{{{"prime": "LESS", "score": 0.75}}}}, {{{{"prime": "MOVE", "score": 0.6}}}}], "reasoning": "less time, often about movement"}}}}
+
+Word: "destroy" (VERB)
+{{{{"primes": [{{{{"prime": "CAUSE", "score": 0.9}}}}, {{{{"prime": "BAD", "score": 0.85}}}}, {{{{"prime": "CHANGE", "score": 0.7}}}}], "reasoning": "causing a bad change"}}}}"""
 
         if activation_context:
             user_prompt = (
                 f"Activation context from PABLO's memory:\n"
                 f"{activation_context}\n"
                 f"Given this context, assign primes to the word:\n"
-                f'Word: "{word}" (lemma: "{lemma}", POS: {pos})\n'
+                f'Word: "{word}" (lemma: "{lemma}", POS: {pos}){gram_hint}\n'
                 f"Decompose into primes:"
             )
         else:
-            user_prompt = f'Word: "{word}" (lemma: "{lemma}", POS: {pos})\nDecompose into primes:'
+            user_prompt = f'Word: "{word}" (lemma: "{lemma}", POS: {pos}){gram_hint}\nDecompose into primes:'
 
         return [
             {"role": "system", "content": system_prompt},
@@ -253,15 +280,22 @@ Examples:
         ]
 
     def _parse_response(self, raw: str, word: str) -> Optional[Dict[str, Any]]:
-        """Parse JSON response from LLM into structured result."""
+        """Parse JSON response from LLM into structured result.
+
+        Robust extraction: handles markdown fences, leading text before JSON,
+        and trailing commentary after JSON. Validates every prime name against
+        the canonical 63-prime set.
+
+        Returns shape consumed by Router._resolve_token (step 4):
+            prime:            str   — top prime name
+            score:            float — top prime confidence
+            candidate_primes: list  — all prime assignments
+            reasoning:        str   — LLM's brief explanation
+        """
         try:
-            # Handle markdown code fences
-            text = raw.strip()
-            if text.startswith("```"):
-                # Strip ```json ... ```
-                lines = text.split("\n")
-                lines = [l for l in lines if not l.strip().startswith("```")]
-                text = "\n".join(lines).strip()
+            text = self._extract_json(raw)
+            if text is None:
+                return None
 
             data = json.loads(text)
             primes_list = data.get("primes", [])
@@ -284,6 +318,7 @@ Examples:
                     })
 
             if not candidate_primes:
+                log.warning(f"TextGrounder: no valid primes in response for '{word}'")
                 return None
 
             # Top prime is the primary grounding
@@ -297,8 +332,48 @@ Examples:
             }
 
         except (json.JSONDecodeError, KeyError, TypeError, ValueError) as e:
-            log.warning(f"TextGrounder: JSON parse failed for '{word}': {e}")
+            log.warning(f"TextGrounder: JSON parse failed for '{word}': {e} | raw={raw[:200]}")
             return None
+
+    @staticmethod
+    def _extract_json(raw: str) -> Optional[str]:
+        """Robustly extract the first JSON object from LLM output.
+
+        Handles:
+          - Clean JSON
+          - ```json ... ``` fences
+          - Leading/trailing prose around a JSON block
+        """
+        text = raw.strip()
+
+        # Strip markdown code fences
+        if "```" in text:
+            lines = text.split("\n")
+            inside = False
+            json_lines: list[str] = []
+            for line in lines:
+                stripped = line.strip()
+                if stripped.startswith("```"):
+                    inside = not inside
+                    continue
+                if inside:
+                    json_lines.append(line)
+            if json_lines:
+                text = "\n".join(json_lines).strip()
+
+        # Find the first { ... } block if there's leading/trailing text
+        start = text.find("{")
+        if start == -1:
+            return None
+        depth = 0
+        for i in range(start, len(text)):
+            if text[i] == "{":
+                depth += 1
+            elif text[i] == "}":
+                depth -= 1
+                if depth == 0:
+                    return text[start:i + 1]
+        return None
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -329,22 +404,54 @@ class ObservationGrounder(Specialist):
             for t in tokens_info
         )
 
-        system_prompt = f"""You are a semantic analyzer for PABLO, an AI system with 63 primitive concepts.
+        system_prompt = f"""You are a semantic analyzer for PABLO, a neurosymbolic AI with 63 primitives.
 
 {PRIME_LIST}
 
-Your task: analyze the full observation text and produce a structured compound candidate.
-For each content word (not function words like "the", "a", "is"), assign 1-3 primes.
-Identify semantic roles: agent (who does), patient (what is done to), action, modifier.
+Your task: decompose each content word in the observation into 1-3 primes from the
+list above, and assign a semantic role to every word.
 
-Respond with ONLY valid JSON:
-{{
+Roles:
+  "agent"    — who/what performs the action
+  "patient"  — who/what is acted upon
+  "action"   — the verb / event
+  "modifier" — adjective, adverb, or prepositional modifier
+  "function" — grammar words with no semantic content (the, a, is, to, ...)
+
+Output contract (parsed mechanically — no prose, ONLY this JSON):
+{{{{
   "tokens": [
-    {{"token": "word", "primes": [{{"prime": "NAME", "score": 0.9}}], "role": "agent|patient|action|modifier|function"}}
+    {{{{
+      "token": "word",
+      "primes": [{{{{"prime": "PRIME_NAME", "score": 0.9}}}}],
+      "role": "agent"
+    }}}}
   ],
   "overall_confidence": 0.85,
-  "structure": "brief description of semantic structure"
-}}"""
+  "structure": "brief description"
+}}}}
+
+Rules:
+1. Every word in the observation MUST appear in "tokens" — in order.
+2. "prime" values MUST be from the 63-prime list. No other names.
+3. Function words get "primes": [] and "role": "function".
+4. Scores 0.0-1.0 — how central the prime is to the word's meaning.
+5. "overall_confidence" = your confidence in the full analysis (0.0-1.0).
+
+Example:
+Observation: "the cat sat on a mat"
+{{{{
+  "tokens": [
+    {{{{"token": "the",  "primes": [],                                          "role": "function"}}}},
+    {{{{"token": "cat",  "primes": [{{{{"prime": "LIFE", "score": 0.9}}}}, {{{{"prime": "BODY", "score": 0.8}}}}], "role": "agent"}}}},
+    {{{{"token": "sat",  "primes": [{{{{"prime": "AT", "score": 0.85}}}}, {{{{"prime": "DOWN", "score": 0.7}}}}],   "role": "action"}}}},
+    {{{{"token": "on",   "primes": [],                                          "role": "function"}}}},
+    {{{{"token": "a",    "primes": [],                                          "role": "function"}}}},
+    {{{{"token": "mat",  "primes": [{{{{"prime": "ENTITY", "score": 0.9}}}}],              "role": "patient"}}}}
+  ],
+  "overall_confidence": 0.9,
+  "structure": "agent sits-on patient"
+}}}}"""
 
         user_prompt = f'Observation: "{text}"\n\nspaCy analysis:\n{tokens_desc}\n\nDecompose:'
 
@@ -354,13 +461,20 @@ Respond with ONLY valid JSON:
         ]
 
     def _parse_response(self, raw: str, text: str) -> Optional[Dict[str, Any]]:
-        """Parse observation-level grounding response."""
+        """Parse observation-level grounding response.
+
+        Returns shape that DATA._process_candidate() consumes:
+            candidate_primes: list of per-token dicts with prime/score/position
+            roles:            list of {span, role, score}
+            confidence:       overall confidence float
+            prime:            top prime from first content token
+            score:            top score from first content token
+        """
         try:
-            clean = raw.strip()
-            if clean.startswith("```"):
-                lines = clean.split("\n")
-                lines = [l for l in lines if not l.strip().startswith("```")]
-                clean = "\n".join(lines).strip()
+            clean = TextGrounder._extract_json(raw)
+            if clean is None:
+                log.warning(f"ObservationGrounder: no JSON found in response")
+                return None
 
             data = json.loads(clean)
             tokens = data.get("tokens", [])
@@ -378,7 +492,7 @@ Respond with ONLY valid JSON:
                 primes = tok_entry.get("primes", [])
                 role = tok_entry.get("role", "function")
 
-                # Validate primes
+                # Validate primes against the canonical 63
                 valid = []
                 for p in primes:
                     name = p.get("prime", "").upper()
@@ -413,7 +527,7 @@ Respond with ONLY valid JSON:
             }
 
         except (json.JSONDecodeError, KeyError, TypeError, ValueError) as e:
-            log.warning(f"ObservationGrounder: JSON parse failed: {e}")
+            log.warning(f"ObservationGrounder: JSON parse failed: {e} | raw={raw[:200]}")
             return None
 
 
