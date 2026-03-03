@@ -17,17 +17,19 @@ from gui.panels.system import SystemPanel
 from gui.panels.inspect import InspectPanel
 from gui.panels.statistics import StatisticsPanel
 from gui.panels.settings import SettingsPanel
+from gui.panels.development import DevelopmentPanel
 from core.queues import prime_registry, response_queue
 
 
 # Module-level panel refs so the timer can reach them across calls.
 _conversation: ConversationPanel | None = None
 _system: SystemPanel | None = None
+_dev: DevelopmentPanel | None = None
 
 
 @ui.page('/')
 async def index():
-    global _conversation, _system
+    global _conversation, _system, _dev
 
     # ── Global styles + Three.js ────────────────────────────────────────
     ui.add_head_html(THREE_JS_HEAD)
@@ -112,7 +114,7 @@ async def index():
         ) as tabs:
             for label, active in [
                 ('Talk', True), ('Inspect', False),
-                ('Statistics', False), ('Settings', False)
+                ('Statistics', False), ('Dev', False), ('Settings', False)
             ]:
                 colour = '#00c8c8' if active else '#2a2a2a'
                 ui.tab(label).style(
@@ -193,6 +195,11 @@ async def index():
                 # ── Statistics ─────────────────────────────────────────
                 with ui.tab_panel('Statistics').style('padding:0; height:100%;'):
                     StatisticsPanel().build(ui.column().classes('w-full h-full'))
+
+                # ── Dev ────────────────────────────────────────────────
+                with ui.tab_panel('Dev').style('padding:0; height:100%;'):
+                    _dev = DevelopmentPanel()
+                    _dev.build(ui.column().classes('w-full h-full'))
 
                 # ── Settings ───────────────────────────────────────────
                 with ui.tab_panel('Settings').style('padding:0; height:100%;'):
@@ -289,11 +296,14 @@ async def index():
         if responses and _conversation:
             _conversation.refresh({'_responses': responses})
 
-        # Refresh system sidebar
-        if _system:
+        # Refresh system sidebar + dev panel
+        if _system or _dev:
             try:
                 state = get_state(prime_registry)
-                _system.refresh(state)
+                if _system:
+                    _system.refresh(state)
+                if _dev:
+                    _dev.refresh(state)
             except Exception:
                 pass
 
