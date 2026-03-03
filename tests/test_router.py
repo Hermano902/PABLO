@@ -138,7 +138,7 @@ class TestRouterStats:
         d = s.to_dict()
         assert d["know_exact_hits"] == 5
         assert d["total_tokens"] == 10
-        assert len(d) == 8  # all 8 fields
+        assert len(d) == 9  # all 9 fields
 
 
 # ══════════════════════════════════════════════════════════════════════════════
