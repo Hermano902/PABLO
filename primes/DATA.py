@@ -227,6 +227,7 @@ class DATA(Prime):
         existing_ids: List[int] = []       # permanent IDs of existing concepts
         new_compounds: List[Compound] = []  # new concepts to push to KNOW
         batch_symbols: Dict[str, Compound] = {}  # within-utterance dedup
+        concepts_with_interp: List[tuple] = []   # (concept, interp) for refine_definition
 
         for tok in tokens:
             token_text = tok["token"]
@@ -288,7 +289,7 @@ class DATA(Prime):
                 pb = PrimeBit(0)
                 self.stats["placeholders_created"] += 1
 
-            # Build rich candidate_interpretations from router metadata
+            # Build router provenance for DefinitionNarrative (stored after batch commit)
             interp: List[Dict[str, Any]] = []
             if prime_name:
                 interp.append({"prime": prime_name, "score": score})
@@ -307,10 +308,10 @@ class DATA(Prime):
                 primebit=pb,
                 confidence=score,
                 grounded=grounded,
-                candidate_interpretations=interp,
             )
             new_compounds.append(new_concept)
             concept_compounds.append(new_concept)
+            concepts_with_interp.append((new_concept, interp))
             batch_symbols[symbol] = new_concept
             self.stats["concepts_created"] += 1
 
@@ -332,16 +333,18 @@ class DATA(Prime):
             symbol=raw_input,
             nested=nested_ids,
             primebit=union_pb,
+            source=candidate.get("source", ""),
         )
-        utterance.provenance_data = {
-            "source": candidate.get("source", "unknown"),
-            "observation_id": candidate.get("observation_id"),
-        }
         self.stats["utterances_assembled"] += 1
 
         # 6. Push to KNOW (only NEW concepts + utterance)
         batch = new_compounds + [utterance]
         id_map = know.store_batch(batch)
+
+        # 7. Record initial grounding provenance in each new concept's DefinitionNarrative
+        for concept, interp in concepts_with_interp:
+            if interp:
+                know.refine_definition(concept.id, provenance={"initial_grounding": interp})
 
         print(
             f"DATA: Processed '{raw_input[:40]}' — "

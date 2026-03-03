@@ -516,21 +516,19 @@ class TestFullPipeline:
         )
 
     def test_candidate_interpretations_enriched(self):
-        """Concept compounds should store router metadata in candidate_interpretations."""
+        """Router metadata for new concepts is stored in DefinitionNarrative thread."""
         p = run_pipeline("big cat")
         concepts = p["result"]["concepts"]
+        from primes.KNOW import know
         for c in concepts:
             if c is not None and c.compound_type == "concept":
-                interps = c.candidate_interpretations
-                # Should have at least some metadata from the router
-                if not c.grounded:
-                    # Ungrounded concepts should still have gram primes, pos, method
-                    keys_found = set()
-                    for entry in interps:
-                        keys_found.update(entry.keys())
-                    assert len(keys_found) > 0, (
-                        f"Concept '{c.symbol}' should have enriched "
-                        f"candidate_interpretations, got {interps}"
+                dn = know.get_definition(c.id)
+                if dn is not None and dn.thread:
+                    first = dn.thread[0]
+                    prov = first.get("provenance", {})
+                    assert "initial_grounding" in prov, (
+                        f"Concept '{c.symbol}' DefinitionNarrative missing "
+                        f"initial_grounding in first thread entry: {first}"
                     )
 
     def test_within_utterance_dedup(self):

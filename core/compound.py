@@ -27,6 +27,8 @@ class Relation:
 
     The predicate is always a prime name governing the relationship.
     target_id must be a permanent ID (200+) by the time the compound is stored.
+
+    Phase 1 bridge — will migrate to the triple store in Phase 2.
     """
     predicate:  str   # prime name: "BE", "KIND", "HAS", "CAN", "PART", etc.
     target_id:  int   # permanent compound ID this relation points to
@@ -34,9 +36,10 @@ class Relation:
 
 @dataclass
 class Slot:
-    """Named argument slot for Layer 3-4 compounds (Phase 2).
+    """Named argument slot for action/macro compounds (Phase 2).
 
-    Defined here for schema completeness — not populated until Layer 3.
+    Defined here for schema completeness — not populated until Phase 2.
+    Kept on Compound to support actionable propositions and narratives.
     """
     name:       str
     required:   bool
@@ -67,12 +70,20 @@ TYPE_TO_LAYER: dict[str, int | None] = {
 class Compound:
     """Universal unit of meaning.  All primes read and write Compounds.
 
-    Fields deliberately absent (see architecture doc):
-      text         — replaced by symbol
-      compound_type / layer stored — layer is derived via TYPE_TO_LAYER
-      children     — replaced by nested
-      provenance   — belongs in Instance Narratives
-      usage_count, success_rate, query_count — belong in KNOW refinement tracking
+    Thin anchor design: Compound holds identity, semantic index, and the
+    execution stub (for actionable propositions/narratives). All relational
+    structure, provenance history, and grounding detail lives in Narratives
+    and the Triple store.
+
+    Fields deliberately absent (moved to Narrative/Triple layer):
+      candidate_interpretations — initial grounding provenance → DefinitionNarrative thread
+      operation_arity           — merged into arity; was always None
+      slot_names                — redundant with slots[].name; was always []
+      execution_path            — Phase 2 execution lives in action Narrative
+      provenance_data (dict)    — replaced by source: str for Layer 1 commit events;
+                                  full provenance context lives in Narratives
+      text                      — replaced by symbol
+      usage_count / success_rate / query_count — belong in KNOW refinement tracking
     """
 
     # ── Identity ──────────────────────────────────────────────────────────
@@ -82,37 +93,38 @@ class Compound:
     # ── Semantic content ──────────────────────────────────────────────────
     primebit:                   PrimeBit       # fast prime index
 
-    # ── Compound graph structure ──────────────────────────────────────────
+    # ── Compound graph structure (Phase 1 bridges → triples Phase 2) ─────
     nested:                     list[int]      # child compound IDs composing this concept
     relations:                  list[Relation]  # predicate -> target links
 
-    # ── Definition Narrative pointer ──────────────────────────────────────
-    definition_narrative_id:    int | None     # set by KNOW on first storage
+    # ── Narrative pointer ─────────────────────────────────────────────────
+    narrative_id:               int | None     # associated Narrative in KNOW
+    #   concept   → DefinitionNarrative (set by KNOW on first storage)
+    #   utterance → episodic Narrative (Phase 2)
+    #   intent    → intent Narrative (Phase 2)
 
     # ── Grounding state ───────────────────────────────────────────────────
     grounded:                   bool           # True = fully resolved to primes
-
-    # ── Refinement ────────────────────────────────────────────────────────
     version:                    int            # incremented on each definition update
     confidence:                 float          # 0.0-1.0 certainty of primebit encoding
-    candidate_interpretations:  list[dict]     # alternatives considered by SYMBOL
 
-    # ── Logic compound fields ─────────────────────────────────────────────
-    operation_arity:            int | None     # for logic compounds only; None otherwise
-    slot_names:                 list[str]      # for logic compounds: operand names; [] otherwise
-
-    # ── Executability (Layer 3-4 — Phase 2) ───────────────────────────────
+    # ── Execution (action/macro — Phase 2+) ───────────────────────────────
     executable:                 bool
-    execution_path:             list[dict] | None
     trigger_condition:          PrimeBit | None
-    arity:                      int
-    slots:                      list[Slot]
+    arity:                      int            # argument count (logic + action compounds)
+    slots:                      list[Slot]     # named argument slots (action/macro)
 
-    # ── Timestamp ─────────────────────────────────────────────────────────
-    created_at:                 float
+    # ── Source tracking ───────────────────────────────────────────────────
+    source:                     str = ""       # where this compound came from
+    #   utterance: "keyboard" | "gui" | "stdin" | "screen" | "file"
+    #   intent:    "THINK"
+    #   concept:   "" (unknown / derived)
 
     # ── compound_type (stored for serialisation, drives layer derivation) ─
     compound_type:              str = "concept"
+
+    # ── Timestamp ─────────────────────────────────────────────────────────
+    created_at:                 float = field(default_factory=time.time)
 
     def __post_init__(self) -> None:
         """Validate compound_type against TYPE_TO_LAYER."""
@@ -139,7 +151,6 @@ class Compound:
         primebit:   PrimeBit,
         confidence: float = 0.0,
         grounded:   bool = False,
-        candidate_interpretations: list[dict] | None = None,
     ) -> Compound:
         """Create a Layer 0 concept Compound with a temp ID."""
         return cls(
@@ -148,18 +159,15 @@ class Compound:
             primebit=primebit,
             nested=[],
             relations=[],
-            definition_narrative_id=None,
+            narrative_id=None,
             grounded=grounded,
             version=0,
             confidence=confidence,
-            candidate_interpretations=candidate_interpretations or [],
-            operation_arity=None,
-            slot_names=[],
             executable=False,
-            execution_path=None,
             trigger_condition=None,
             arity=0,
             slots=[],
+            source="",
             created_at=time.time(),
             compound_type="concept",
         )
@@ -171,6 +179,7 @@ class Compound:
         symbol:   str,
         nested:   list[int],
         primebit: PrimeBit,
+        source:   str = "",
     ) -> Compound:
         """Create a Layer 1 utterance Compound."""
         return cls(
@@ -179,18 +188,15 @@ class Compound:
             primebit=primebit,
             nested=nested,
             relations=[],
-            definition_narrative_id=None,
+            narrative_id=None,
             grounded=True,
             version=0,
             confidence=1.0,
-            candidate_interpretations=[],
-            operation_arity=None,
-            slot_names=[],
             executable=False,
-            execution_path=None,
             trigger_condition=None,
             arity=0,
             slots=[],
+            source=source,
             created_at=time.time(),
             compound_type="utterance",
         )
@@ -210,18 +216,15 @@ class Compound:
             primebit=primebit,
             nested=[],
             relations=[Relation(predicate="FROM", target_id=utterance_id)],
-            definition_narrative_id=None,
+            narrative_id=None,
             grounded=True,
             version=0,
             confidence=1.0,
-            candidate_interpretations=[],
-            operation_arity=None,
-            slot_names=[],
             executable=False,
-            execution_path=None,
             trigger_condition=None,
             arity=0,
             slots=[],
+            source="THINK",
             created_at=time.time(),
             compound_type="intent",
         )
@@ -231,58 +234,57 @@ class Compound:
     def to_dict(self) -> dict:
         """Serialise to dict.  PrimeBit fields become raw ints."""
         return {
-            "id":                        self.id,
-            "symbol":                    self.symbol,
-            "primebit":                  self.primebit.value,
-            "nested":                    self.nested,
-            "relations":                 [
+            "id":               self.id,
+            "symbol":           self.symbol,
+            "primebit":         self.primebit.value,
+            "nested":           self.nested,
+            "relations":        [
                 {"predicate": r.predicate, "target_id": r.target_id}
                 for r in self.relations
             ],
-            "definition_narrative_id":   self.definition_narrative_id,
-            "grounded":                  self.grounded,
-            "version":                   self.version,
-            "confidence":                self.confidence,
-            "candidate_interpretations": self.candidate_interpretations,
-            "operation_arity":           self.operation_arity,
-            "slot_names":                self.slot_names,
-            "executable":                self.executable,
-            "execution_path":            self.execution_path,
-            "trigger_condition":         self.trigger_condition.value if self.trigger_condition else None,
-            "arity":                     self.arity,
-            "slots":                     [s.__dict__ for s in self.slots],
-            "created_at":                self.created_at,
-            "compound_type":             self.compound_type,
+            "narrative_id":     self.narrative_id,
+            "grounded":         self.grounded,
+            "version":          self.version,
+            "confidence":       self.confidence,
+            "executable":       self.executable,
+            "trigger_condition": self.trigger_condition.value if self.trigger_condition else None,
+            "arity":            self.arity,
+            "slots":            [s.__dict__ for s in self.slots],
+            "source":           self.source,
+            "compound_type":    self.compound_type,
+            "created_at":       self.created_at,
         }
 
     @classmethod
     def from_dict(cls, d: dict) -> Compound:
-        """Reconstruct from dict.  Handles missing keys gracefully."""
+        """Reconstruct from dict.  Handles missing keys gracefully.
+
+        Accepts both 'narrative_id' (new) and 'definition_narrative_id' (legacy)
+        so that compounds saved before the refactor can still be loaded.
+        """
         tc = d.get("trigger_condition")
+        narrative_id = d.get("narrative_id") or d.get("definition_narrative_id")
         return cls(
-            id=                        d["id"],
-            symbol=                    d.get("symbol", d.get("text", "")),
-            primebit=                  PrimeBit(d.get("primebit", d.get("primebit_value", 0))),
-            nested=                    d.get("nested", d.get("children", [])),
-            relations=                 [
+            id=                 d["id"],
+            symbol=             d.get("symbol", d.get("text", "")),
+            primebit=           PrimeBit(d.get("primebit", d.get("primebit_value", 0))),
+            nested=             d.get("nested", d.get("children", [])),
+            relations=          [
                 Relation(predicate=r["predicate"], target_id=r["target_id"])
                 for r in d.get("relations", [])
                 if isinstance(r, dict)
             ],
-            definition_narrative_id=   d.get("definition_narrative_id"),
-            grounded=                  d.get("grounded", False),
-            version=                   d.get("version", 0),
-            confidence=                d.get("confidence", 0.0),
-            candidate_interpretations= d.get("candidate_interpretations", []),
-            operation_arity=           d.get("operation_arity"),
-            slot_names=                d.get("slot_names", []),
-            executable=                d.get("executable", False),
-            execution_path=            d.get("execution_path"),
-            trigger_condition=         PrimeBit(tc) if tc is not None else None,
-            arity=                     d.get("arity", 0),
-            slots=                     [Slot(**s) for s in d.get("slots", [])],
-            created_at=                d.get("created_at", time.time()),
-            compound_type=             d.get("compound_type", "concept"),
+            narrative_id=       narrative_id,
+            grounded=           d.get("grounded", False),
+            version=            d.get("version", 0),
+            confidence=         d.get("confidence", 0.0),
+            executable=         d.get("executable", False),
+            trigger_condition=  PrimeBit(tc) if tc is not None else None,
+            arity=              d.get("arity", d.get("operation_arity", 0) or 0),
+            slots=              [Slot(**s) for s in d.get("slots", [])],
+            source=             d.get("source", ""),
+            compound_type=      d.get("compound_type", "concept"),
+            created_at=         d.get("created_at", time.time()),
         )
 
     # ── Display ───────────────────────────────────────────────────────────

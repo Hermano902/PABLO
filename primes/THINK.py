@@ -723,15 +723,6 @@ class THINK(Prime):
             primebit=intent_primebit,
             utterance_id=utterance.id,
         )
-        intent.provenance_data = {
-            "method":       "primebit_analysis",
-            "source":       "THINK",
-            "routing_mode": mode,
-            "frame":        clean_frame,
-            "salience":     item.get("salience"),
-            "want_context": item.get("want_context"),
-            "feel_state":   item.get("feel_state"),
-        }
 
         intent_id = know.store(intent)
         self.stats["intents_created"] += 1

@@ -340,12 +340,12 @@ class KNOW(Prime):
             if compound.compound_type == "concept":
                 def_id = self._create_definition_narrative(compound.id, compound.symbol)
                 with self._lock:
-                    self._compounds[compound.id].definition_narrative_id = def_id
+                    self._compounds[compound.id].narrative_id = def_id
 
         # emit Layer 1 commit event
         for compound in compounds:
             if compound.compound_type == "utterance":
-                src = (compound.provenance_data or {}).get("source", "unknown")
+                src = compound.source or "unknown"
                 self._emit_layer1_event(compound.id, src)
 
         # enqueue ungrounded for enrichment
@@ -369,7 +369,7 @@ class KNOW(Prime):
             self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
             self.stats["compounds_stored"] += 1
         if compound.compound_type == "utterance":
-            src = (compound.provenance_data or {}).get("source", "unknown")
+            src = compound.source or "unknown"
             self._emit_layer1_event(compound.id, src)
         return compound.id
 
@@ -553,10 +553,10 @@ class KNOW(Prime):
     def get_definition(self, compound_id: int) -> Optional[DefinitionNarrative]:
         """Load DefinitionNarrative for a compound (on-demand, not cached)."""
         compound = self.by_id(compound_id)
-        if compound is None or compound.definition_narrative_id is None:
+        if compound is None or compound.narrative_id is None:
             return None
         with self._def_lock:
-            return self._definitions.get(compound.definition_narrative_id)
+            return self._definitions.get(compound.narrative_id)
 
     def refine_definition(
         self,
