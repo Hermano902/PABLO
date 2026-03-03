@@ -296,7 +296,7 @@ Appendix B — Example `rule` compound
 
 ---
 
-## DeepSeek Triple Extractor — Spec (Phase 1.5)
+## DeepSeek Triple Extractor — Spec (Phase 2.5)
 
 Replaces the `TextGrounder` prime-bag prompt with structured triple extraction.
 Introduced when the activation cloud is available to feed as context.
@@ -337,7 +337,7 @@ PRIME is always one of PABLO's 63 primes, acting as the relation predicate.
 The 63 primes are:
 AFTER, ALL, AT, BECAUSE, BEFORE, BETWEEN, BODY, CAN, CAUSE, CHANGE, DATA, DO,
 DOWN, ENTITY, FAR, FEEL, FROM, GOOD, BAD, HAVE, HEAR, HEAT, HERE, IN, KIND,
-KNOW, LAST, LEFT, LESS, LIFE, LIGHT, MAKE, MANY, MOVE, NEAR, NEED, NONE, NOW,
+KNOW, LAST, LEFT, LESS, LIFE, LIGHT, MAKE, MANY, MORE, MOVE, NEAR, NEED, NONE, NOW,
 ONE, OPEN, OTHER, PART, READ, RIGHT, SAY, SEE, SELF, SIDE, SOME, SYMBOL, THINK,
 THIS, TIME, TO, TOUCH, UP, USE, WANT, WITH, WRITE, YOU, BE
 
@@ -391,7 +391,7 @@ When SYMBOL produces triple output (vs prime-bag output), DATA:
 3. Calls `know.store_triple()` for each resolved triple
 4. Falls back to prime-bag validation if triples are absent or malformed
 
-DATA accepts BOTH formats in Phase 1.5 — old heuristic candidates produce
+DATA accepts BOTH formats in Phase 2.5 — old heuristic candidates produce
 prime bags; new DeepSeek extractor produces triples. No breaking change.
 
 ---
@@ -411,7 +411,7 @@ When the activation cloud is available (Phase 2), the Router cascade changes:
 6. Placeholder
 ```
 
-### Updated cascade (Phase 1.5+)
+### Updated cascade (Phase 2.5+)
 
 ```
 0. Build activation cloud for this token (CloudBuilder.build())

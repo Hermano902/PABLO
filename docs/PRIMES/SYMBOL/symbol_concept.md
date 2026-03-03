@@ -341,7 +341,7 @@ The internal mechanics of the cloud include everything SYMBOL and DATA do today.
 }
 ```
 
-### Phase 1.5 (DeepSeek extractor) — triple output
+### Phase 2.5 (DeepSeek extractor) — triple output
 
 ```json
 {

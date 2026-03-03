@@ -166,9 +166,9 @@ proposition referenced by a triple in the outer proposition.
     Inner proposition (what was asked):
       (THIS_H,  DO,    put)
       (put,     WITH,  name)
-      (name,    OF,    THIS_H)
+      (name,    PART,  THIS_H)         ← Harry's name (name is part of Harry)
       (put,     TO,    goblet)
-      (goblet,  OF,    fire)
+      (goblet,  WITH,  fire)           ← goblet of fire (associated with fire)
 
 The inner proposition is stored as its own Proposition record in KNOW and
 referenced by ID as the target of the outer triple (ask, WITH, inner_id).
@@ -205,7 +205,7 @@ The proposition: the accepted set of triples above confidence threshold.
   ✅ Proposition as coherent set of triples with shared anchor
   ✅ WH question completeness mapping
   ✅ Definition propositions (stored as Definition Narrative triple sets)
-  ✅ Utterance propositions (triples extracted from sentence — Phase 1.5)
+  ✅ Utterance propositions (triples extracted from sentence — Phase 2.5)
   ✅ Nested proposition references (inner proposition as WITH target)
 
   ❌ Proposition data structure as a named record in KNOW — Phase 2

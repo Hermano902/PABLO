@@ -224,7 +224,7 @@ Not a separate LLM — it IS the pattern recognition, not a consumer of it.
   ❌ Prediction pre-activation — Phase 3+
 
 
-See docs/ACTIVATION/activation_cloud_architecture.md for implementation contract.
+See docs/ACTIVATION_CLOUD/activation_cloud_architecture.md for implementation contract.
 See docs/TRIPLES/triple_concept.md for the triple format the cloud produces.
 See docs/PRIMES/SYMBOL/symbol_concept.md for SYMBOL's retirement roadmap.
 See docs/PRIMES/KNOW/know_concept.md for the memory sources the cloud draws from.

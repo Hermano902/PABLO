@@ -18,7 +18,7 @@ raw material. Propositions become explicit named records in Phase 2.
 What Phase 1 establishes:
 - Triple storage (see triple_architecture.md)
 - Definition propositions embedded in Definition Narratives (set of triples per compound)
-- Utterance propositions: when SYMBOL outputs triples (Phase 1.5), DATA stores them as triples grouped by observation_id
+- Utterance propositions: when SYMBOL outputs triples (Phase 2.5), DATA stores them as triples grouped by observation_id
 
 What Phase 2 adds:
 - Proposition data structure as a named record in KNOW

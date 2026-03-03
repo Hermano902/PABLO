@@ -29,18 +29,22 @@ class Triple:
                                 # exactly one of target_id / target_prime is used
     confidence:   float = 1.0   # 0.0–1.0; 1.0 for definition triples, lower for inferred
     source:       str  = ""     # "definition" | "utterance" | "inferred" | "specialist"
+    observation_id: str | None = None   # Phase 1 grouping key — set by DATA when triple
+                                        # is stored from an utterance observation.
+                                        # Replaced by prop_id in Phase 2.
     created_at:   float = field(default_factory=time.time)
 
     def to_dict(self) -> dict:
         return {
-            "id":           self.id,
-            "source_id":    self.source_id,
-            "predicate":    self.predicate,
-            "target_id":    self.target_id,
-            "target_prime": self.target_prime,
-            "confidence":   self.confidence,
-            "source":       self.source,
-            "created_at":   self.created_at,
+            "id":             self.id,
+            "source_id":      self.source_id,
+            "predicate":      self.predicate,
+            "target_id":      self.target_id,
+            "target_prime":   self.target_prime,
+            "confidence":     self.confidence,
+            "source":         self.source,
+            "observation_id": self.observation_id,
+            "created_at":     self.created_at,
         }
 
     @classmethod
@@ -136,6 +140,13 @@ def get_triple(self, triple_id: int) -> Triple | None:
 def get_triples_by_predicate(self, source_id: int, predicate: str) -> list[Triple]:
     """Filter outgoing triples by predicate. Used in activation cloud."""
     return [t for t in self.get_triples(source_id) if t.predicate == predicate]
+
+def get_triples_by_observation(self, observation_id: str) -> list[Triple]:
+    """Return all triples from one observation. Phase 1 grouping — O(n) linear scan.
+    Replaced by proposition store in Phase 2."""
+    with self._tri_lock:
+        return [t for t in self._triples.values()
+                if t.observation_id == observation_id]
 ```
 
 ---
@@ -191,10 +202,10 @@ relational triples extracted from the utterance (once triple extraction from SYM
 is implemented). Until then, utterance triples are deferred.
 
 **Phase 1 current behavior:** utterance compounds store ordered `nested` concept IDs
-(flat list, no relational structure). Triple extraction from utterances is Phase 1.5
+(flat list, no relational structure). Triple extraction from utterances is Phase 2.5
 — requires the DeepSeek triple extractor (see specialists.py).
 
-**Phase 1.5 behavior (after DeepSeek extractor):**
+**Phase 2.5 behavior (after DeepSeek extractor):**
 
 ```python
 # DATA creates utterance compound, then:
@@ -327,7 +338,7 @@ self.stats["triples_retrieved"] = 0
 ✅ Load from disk on startup
 ✅ next_triple_id persisted in metadata.json
 
-❌ Utterance triple extraction (Phase 1.5 — requires DeepSeek extractor in specialists.py)
+❌ Utterance triple extraction (Phase 2.5 — requires DeepSeek extractor in specialists.py)
 ❌ Proposition grouping (Phase 2 — see proposition_architecture.md)
 ❌ Narrative anchoring triples (THIS + TIME + SPACE) (Phase 2)
 ❌ Triple-based constraint encoding (Phase 2)

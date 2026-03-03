@@ -214,6 +214,7 @@ class TextGrounder(Specialist):
     def _build_prompt(self, word: str, token_data: Dict[str, Any]) -> List[Dict[str, str]]:
         lemma = token_data.get("lemma", word)
         pos = token_data.get("pos", "UNKNOWN")
+        activation_context = token_data.get("activation_cloud", "")
 
         system_prompt = f"""You are a semantic decomposition engine for an AI system called PABLO.
 Your task: given an English word, identify which of PABLO's 63 primitive concepts (primes) best describe its core meaning.
@@ -235,7 +236,16 @@ Examples:
 - "table" → {{"primes": [{{"prime": "ENTITY", "score": 0.9}}, {{"prime": "MAKE", "score": 0.7}}, {{"prime": "HAVE", "score": 0.6}}], "reasoning": "a made entity that has/holds things"}}
 - "quickly" → {{"primes": [{{"prime": "MOVE", "score": 0.8}}, {{"prime": "TIME", "score": 0.7}}, {{"prime": "LESS", "score": 0.6}}], "reasoning": "moving in less time"}}"""
 
-        user_prompt = f'Word: "{word}" (lemma: "{lemma}", POS: {pos})\nDecompose into primes:'
+        if activation_context:
+            user_prompt = (
+                f"Activation context from PABLO's memory:\n"
+                f"{activation_context}\n"
+                f"Given this context, assign primes to the word:\n"
+                f'Word: "{word}" (lemma: "{lemma}", POS: {pos})\n'
+                f"Decompose into primes:"
+            )
+        else:
+            user_prompt = f'Word: "{word}" (lemma: "{lemma}", POS: {pos})\nDecompose into primes:'
 
         return [
             {"role": "system", "content": system_prompt},

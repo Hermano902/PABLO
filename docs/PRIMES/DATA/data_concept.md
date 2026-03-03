@@ -21,7 +21,9 @@ DATA receives those candidates, validates them, and resolves or creates Layer 0 
 Compounds and one Layer 1 utterance Compound per observation.
 KNOW receives the validated Compounds and assigns permanent IDs.
 
-DATA never calls KNOW directly for validation. DATA never calls SYMBOL directly.
+DATA does not query KNOW for validation decisions. DATA does call KNOW.by_symbol()
+for compound lookup and KNOW.store_batch() / KNOW.store_triple() for writes.
+DATA never calls SYMBOL directly.
 The outputs of DATA are handed off via the candidate_queue (see core/queues.py).
 
 
@@ -130,7 +132,7 @@ What DATA Does NOT Do
 DATA does not interpret raw text.
 DATA does not choose prime groundings — SYMBOL proposes, DATA enforces.
 DATA does not assign confidence scores — it reads them from the candidate.
-DATA does not talk to KNOW or SYMBOL directly.
+DATA does not query KNOW for validation decisions — it calls KNOW.by_symbol(), KNOW.store_batch(), and KNOW.store_triple() only.
 DATA does not filter observations based on content.
 DATA does not store observation context on Compounds — that belongs in Instance Narratives.
 DATA does not create a new Compound when an existing one already covers the symbol —
@@ -151,7 +153,7 @@ DATA tracks internal counters for system monitoring:
   validation_failures         Candidates rejected for contract violations
 
 
-## Triple Validation (Phase 1.5)
+## Triple Validation (Phase 2.5)
 
 When SYMBOL produces triple output (rather than a prime bag), DATA validates
 triples instead of prime candidates. The processing pipeline is identical in
@@ -161,7 +163,7 @@ structure — DATA still enforces the Compound contract — but the inputs chang
 - Check each `candidate_prime` against the 63-prime set
 - Create concept Compound with primebit union of valid primes
 
-**Triple validation (Phase 1.5 — after DeepSeek extractor):**
+**Triple validation (Phase 2.5 — after DeepSeek extractor):**
 - Check each triple's `predicate` against the 63-prime set
 - Resolve `source` and `target_compound` surface forms to KNOW compound IDs via `by_symbol()`
 - Call `know.store_triple()` for each validated triple
@@ -204,5 +206,5 @@ See docs/PRIMES/PERCEPTORS/READ/CONCEPT.md for what READ emits.
 See docs/PRIMES/SYMBOL/CONCEPT.md for how SYMBOL produces near-compound candidates.
 See docs/PRIMES/KNOW/CONCEPT.md for how Compounds are stored after DATA validates them.
 See docs/PRIMES/NARRATIVES/CONCEPT.md for where observation context is recorded.
-See docs/TRIPLES/triple_concept.md for the triple format DATA validates in Phase 1.5.
+See docs/TRIPLES/triple_concept.md for the triple format DATA validates in Phase 2.5.
 See docs/ACTIVATION_CLOUD/activation_cloud_concept.md for Phase 4 DATA absorption.

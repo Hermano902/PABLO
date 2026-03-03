@@ -315,6 +315,22 @@ def search(self, query: dict) -> list[Compound]:
             results = [c for c in results if getattr(c, field, None) == value]
         return results
 
+def recent_compounds(self, n: int = 5) -> list[Compound]:
+    """
+    Return the last n concept/utterance compounds stored (by ID, descending).
+
+    Phase 1 proxy for narrative context used by the activation cloud.
+    Returns only concept and utterance compounds (not logic or internal).
+    Returns empty list if fewer than n runtime compounds exist.
+    Phase 2+: replaced by narrative-thread-aware retrieval.
+    """
+    with self._lock:
+        runtime = [
+            c for cid, c in sorted(self._compounds.items(), reverse=True)
+            if cid >= 200 and c.compound_type in ("concept", "utterance")
+        ]
+    return runtime[:n]
+
 def _compound_type(self, compound: Compound) -> str:
     """Derive compound_type from compound structure since it is not stored."""
     if compound.executable:
@@ -366,11 +382,17 @@ def refine_definition(
     updated_primebit: PrimeBit | None = None,
     confidence:       float | None = None,
     provenance:       dict | None = None,
+    triples:          list[dict] | None = None,
 ) -> bool:
     """
     Update a compound's definition. Called by SYMBOL after enrichment.
     Increments compound version. Appends to Definition Narrative thread.
     Returns True on success, False if compound not found.
+
+    `triples`: optional list of triple dicts to store alongside the refinement.
+    Each dict: {"predicate": str, "target_id": int | None, "target_prime": str | None,
+                "confidence": float, "source": str}.
+    Stored via KNOW.store_triple() after compound update.
 
     This is the ONLY permitted path for modifying primebit, relations,
     or confidence on a stored compound. No prime may modify these directly.

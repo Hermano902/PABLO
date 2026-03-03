@@ -97,6 +97,7 @@ class RouterStats:
     heuristic_hits:      int = 0    # prime-name exact match
     unresolved:          int = 0    # could not resolve at all (placeholder)
     total_tokens:        int = 0    # total tokens processed
+    fast_path_skips:     int = 0    # cloud.fast_path=True → specialist skipped
 
     def to_dict(self) -> Dict[str, int]:
         return {
@@ -108,6 +109,7 @@ class RouterStats:
             "heuristic_hits":         self.heuristic_hits,
             "unresolved":             self.unresolved,
             "total_tokens":           self.total_tokens,
+            "fast_path_skips":        self.fast_path_skips,
         }
 
 
@@ -152,6 +154,10 @@ class Router:
         self._specialist_fn = specialist_fn
         self._enable_specialist = enable_specialist
         self.stats = RouterStats()
+
+        # Utterance compound tracking — cleared at start of each resolve_observation()
+        # Used to build activation cloud utterance context for subsequent tokens.
+        self._current_utterance_compounds: List = []
 
         # Lazy-loaded spaCy model and lemmatizer
         self._nlp = None
@@ -214,9 +220,17 @@ class Router:
 
         # Resolve each spaCy token through the cascade
         resolutions: List[TokenResolution] = []
+        self._current_utterance_compounds = []   # reset per utterance
+        know = self._get_know()
+
         for tok_analysis in spacy_tokens:
             resolution = self._resolve_token(tok_analysis)
             resolutions.append(resolution)
+            # Track resolved compounds for activation cloud utterance context
+            if resolution.compound_id is not None:
+                compound = know.by_id(resolution.compound_id)
+                if compound is not None:
+                    self._current_utterance_compounds.append(compound)
 
         return resolutions
 
@@ -309,15 +323,40 @@ class Router:
                         is_family_member=True, family_root_id=root_compound.id,
                     )
 
-        # ── Step 4: LLM specialist ────────────────────────────────────
+        # ── Step 4: LLM specialist (with activation cloud context) ───────
         if self._enable_specialist and self._specialist_fn is not None:
             try:
+                # Build activation cloud for rich context to the specialist
+                try:
+                    from core.activation_cloud import build_activation_cloud, serialise_cloud
+                    cloud = build_activation_cloud(
+                        token=surface,
+                        position=idx,
+                        lemma=lemma,
+                        pos=pos,
+                        utterance_so_far=list(self._current_utterance_compounds),
+                        active_narrative=self._get_narrative_context(),
+                    )
+                    if cloud.fast_path:
+                        # Compound found with high confidence — skip specialist
+                        self.stats.fast_path_skips += 1
+                        self.stats.know_exact_hits += 1
+                        return TokenResolution(
+                            token=surface, prime=None, score=1.0, position=idx,
+                            method="know_exact", compound_id=cloud.exact_match.id,
+                            lemma=lemma, pos=pos, grammatical_primes=gram_primes,
+                        )
+                    cloud_context = serialise_cloud(cloud)
+                except Exception:
+                    cloud_context = ""
+
                 self.stats.specialist_calls += 1
                 specialist_result = self._specialist_fn(surface, {
                     "lemma": lemma,
                     "pos": pos,
                     "grammatical_primes": list(gram_primes),
                     "context": "ingestion",
+                    "activation_cloud": cloud_context,
                 })
                 if specialist_result and specialist_result.get("prime"):
                     return TokenResolution(
@@ -354,6 +393,18 @@ class Router:
             method="unresolved", compound_id=None,
             lemma=lemma, pos=pos, grammatical_primes=gram_primes,
         )
+
+    def _get_narrative_context(self, n: int = 5) -> List:
+        """Return recent compounds from KNOW for narrative context.
+
+        Phase 1 proxy using recent_compounds(). Phase 2+: replaced by
+        narrative-thread-aware retrieval.
+        """
+        try:
+            know = self._get_know()
+            return know.recent_compounds(n)
+        except Exception:
+            return []
 
     def _resolve_single_fallback(self, token_text: str, position: int) -> TokenResolution:
         """Fallback when spaCy is unavailable — just prime-name heuristic + KNOW."""

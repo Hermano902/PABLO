@@ -70,13 +70,13 @@ class ActivationCloud:
     pos:         str | None     # spaCy POS tag
 
     # ── Cognitive layer (Phase 1 — active) ────────────────────────────
-    sense_matches:        list[Compound]     = field(default_factory=list)
-    # ALL compounds in KNOW with this symbol — supports multi-sense.
-    # Single-sense words: list of one. Polysemous words: list of N.
-    # Empty list: token not yet known to PABLO.
-    best_sense:           Compound | None    = None
-    # After scoring senses against context, the best match (or None if
-    # no sense scores above threshold — specialist must create new sense).
+    exact_match:          Compound | None    = None
+    # The existing compound for this exact surface form, if in KNOW.
+    # None: token not yet known to PABLO → specialist must create it.
+    # Polysemy is not PABLO's concern. PABLO reasons in prime-space.
+    # Two senses of "bank" are TWO compounds with different primebits.
+    # The activation cloud's prime_candidates + narrative context
+    # naturally selects the correct compound without explicit disambiguation.
     family_root:          Compound | None    = None
     definition_compounds: list[Compound]     = field(default_factory=list)
     utterance_context:    list[Compound]     = field(default_factory=list)
@@ -84,6 +84,9 @@ class ActivationCloud:
     prime_candidates:     dict[str, float]   = field(default_factory=dict)
     # prime_candidates maps prime_name → activation weight (0.0–1.0)
     # Aggregated from all compounds in the cloud
+    fast_path:            bool               = False
+    # True if exact_match.confidence >= FAST_PATH_EXACT_THRESHOLD.
+    # When True: router skips LLM specialist call for this token.
 
     # ── Affective layer (Phase 2 — dormant) ───────────────────────────
     affective_valence:   float | None = None   # FEEL: -1.0 bad ↔ 1.0 good
@@ -106,15 +109,21 @@ class ActivationCloud:
 - `compound_id` — the cloud does not commit to a single compound. Resolution
   follows after the cloud is consumed.
 
-**sense_matches as list:**
+**exact_match vs None:**
 
-`sense_matches` is a `list[Compound]` rather than a single `Compound | None`
-because PABLO supports multiple compounds per symbol — one per distinct sense.
-"bank" (financial) and "bank" (geographic) are two compounds with the same
-symbol but different primebits, linked by SENSE relations. The cloud gathers
-ALL senses and scores each against the current context to select `best_sense`.
-If no sense scores above threshold, `best_sense` is None and the specialist
-creates a new sense compound.
+`exact_match` is either the single existing compound for this symbol or None.
+There is no multi-sense list. If two English words share a surface form but have
+different meanings (e.g. "bank" financial vs geographic), they are stored as two
+separate compounds in KNOW with distinct symbols — e.g. `"bank_fin"` and `"bank_geo"`,
+or simply distinguished by the compound that arrives first and the second being encoded
+differently. Either way, prime-space reasoning naturally selects the right compound
+from context. PABLO does not need explicit disambiguation machinery.
+
+**fast_path flag:**
+
+`fast_path = True` when `exact_match.confidence >= FAST_PATH_EXACT_THRESHOLD`.
+When the router sees `cloud.fast_path == True`, it skips the LLM specialist call
+and resolves directly from `exact_match`. This is the compound deduplication path.
 
 **prime_candidates as weighted dict:**
 
@@ -130,73 +139,17 @@ multiple sources, the maximum weight is kept.
 
 ```python
 # Weights for different activation sources when building prime_candidates
-WEIGHT_EXACT_MATCH     = 1.0    # the token already exists in KNOW
-WEIGHT_FAMILY_ROOT     = 0.9    # root compound of an inflected form
-WEIGHT_DEFINITION      = 0.6    # primes from dictionary definition compounds
-WEIGHT_UTTERANCE       = 0.5    # primes from already-resolved sibling tokens
-WEIGHT_NARRATIVE       = 0.3    # primes from recent narrative context
-SENSE_MATCH_THRESHOLD  = 0.3    # minimum context overlap to reuse an existing sense
+WEIGHT_EXACT_MATCH         = 1.0    # the token already exists in KNOW
+WEIGHT_FAMILY_ROOT         = 0.9    # root compound of an inflected form
+WEIGHT_DEFINITION          = 0.6    # primes from dictionary definition compounds
+WEIGHT_UTTERANCE           = 0.5    # primes from already-resolved sibling tokens
+WEIGHT_NARRATIVE           = 0.3    # primes from recent narrative context
+FAST_PATH_EXACT_THRESHOLD  = 0.8    # exact_match.confidence >= this → skip LLM call
 ```
 
 These weights are not confidence scores. They represent how strongly a prime
 should "light up" in the activation field based on its source. The LLM sees
 the weighted primes and uses the pattern to guide its decision.
-
----
-
-### 3a. Sense Scoring
-
-When multiple senses exist for a symbol, the cloud scores each against the
-current context to find the best match. This replaces LLM calls for known
-polysemous words — disambiguation is done by prime overlap, not by the model.
-
-```python
-def _score_senses(
-    senses:           list[Compound],
-    utterance_so_far: list[Compound],
-    narrative_context: list[Compound] | None,
-) -> Compound | None:
-    """
-    Score each sense compound against current context using prime overlap.
-
-    Computes the proportion of each sense's primes that appear in the
-    context (utterance + narrative). Returns the sense with the highest
-    score if it exceeds SENSE_MATCH_THRESHOLD, else None.
-
-    Returns None when:
-    - No context is available (utterance empty and no narrative)
-    - No sense exceeds the threshold (new sense needed)
-    """
-    # Gather context primes
-    context_primes: set[str] = set()
-    for c in utterance_so_far:
-        context_primes.update(c.primebit.get_prime_names())
-    if narrative_context:
-        for c in narrative_context:
-            context_primes.update(c.primebit.get_prime_names())
-
-    if not context_primes:
-        return senses[0] if len(senses) == 1 else None
-
-    best_sense = None
-    best_score = 0.0
-
-    for sense in senses:
-        sense_primes = set(sense.primebit.get_prime_names())
-        if not sense_primes:
-            continue
-        overlap = len(sense_primes & context_primes) / len(sense_primes)
-        if overlap > best_score:
-            best_score = overlap
-            best_sense = sense
-
-    if best_score >= SENSE_MATCH_THRESHOLD:
-        return best_sense
-    return None
-```
-
-Sense scoring is O(N × P) where N is the number of senses and P is the average
-prime count per sense — negligible for typical polysemy (2–5 senses).
 
 ---
 
@@ -243,31 +196,25 @@ def build_activation_cloud(
         pos=pos,
     )
 
-    # ── 1. Sense matches (all compounds with this symbol) ──────
-    senses = know.by_symbol_all(token)
-    if not senses and token != token.lower():
-        senses = know.by_symbol_all(token.lower())
-    cloud.sense_matches = senses
+    # ── 1. Exact match (single compound for this symbol) ───────
+    cloud.exact_match = know.by_symbol(token)
+    if cloud.exact_match is None and token != token.lower():
+        cloud.exact_match = know.by_symbol(token.lower())
 
-    # ── 1b. Score senses against context to pick best match ─────
-    if len(senses) == 1:
-        cloud.best_sense = senses[0]   # single sense — use it directly
-    elif len(senses) > 1:
-        cloud.best_sense = _score_senses(
-            senses, utterance_so_far, active_narrative
-        )
-        # best_sense may be None if no sense exceeds SENSE_MATCH_THRESHOLD
+    # ── 1b. Fast path check ──────────────────────────────────────
+    if (cloud.exact_match is not None
+            and cloud.exact_match.confidence >= FAST_PATH_EXACT_THRESHOLD):
+        cloud.fast_path = True
 
     # ── 2. Family root (if inflected) ────────────────────────────────
     if lemma and lemma != token.lower():
-        roots = know.by_symbol_all(lemma)
-        cloud.family_root = roots[0] if roots else None
+        cloud.family_root = know.by_symbol(lemma)
 
     # ── 3. Definition compounds ──────────────────────────────────────
-    # Use best_sense (or first sense) to find definition compounds.
-    lookup_compound = cloud.best_sense or (senses[0] if senses else None)
+    # Use exact_match (or family_root) to find definition compounds.
+    lookup_compound = cloud.exact_match or cloud.family_root
     if lookup_compound is not None and lookup_compound.nested:
-        for nested_id in def_compound.nested[:10]:  # cap at 10
+        for nested_id in lookup_compound.nested[:10]:  # cap at 10
             nested = know.by_id(nested_id)
             if nested is not None:
                 cloud.definition_compounds.append(nested)
@@ -306,12 +253,8 @@ def _aggregate_primes(cloud: ActivationCloud) -> dict[str, float]:
             if name not in activations or activations[name] < weight:
                 activations[name] = weight
 
-    # Sense matches — strongest signal from best sense, moderate from alternatives
-    if cloud.best_sense:
-        _add(cloud.best_sense, WEIGHT_EXACT_MATCH)
-    for sense in cloud.sense_matches:
-        if sense is not cloud.best_sense:
-            _add(sense, WEIGHT_DEFINITION)  # non-best senses at definition weight
+    # Exact match — strongest signal
+    _add(cloud.exact_match, WEIGHT_EXACT_MATCH)
 
     # Family root
     _add(cloud.family_root, WEIGHT_FAMILY_ROOT)
@@ -362,20 +305,13 @@ def serialise_cloud(cloud: ActivationCloud) -> str:
         lines.append(f"POS: {cloud.pos}")
     lines.append("")
 
-    # ── Sense matches ──────────────────────────────────────────
-    if cloud.sense_matches:
-        if len(cloud.sense_matches) == 1:
-            primes = cloud.sense_matches[0].primebit.get_prime_names()
-            lines.append(f"Already known in PABLO:")
-            lines.append(f"  {cloud.sense_matches[0].symbol} → {', '.join(primes) or 'ungrounded'}")
-            lines.append(f"  confidence: {cloud.sense_matches[0].confidence}")
-        else:
-            lines.append(f"Known senses of \"{cloud.token}\" in PABLO ({len(cloud.sense_matches)} senses):")
-            for i, sense in enumerate(cloud.sense_matches):
-                primes = sense.primebit.get_prime_names()
-                marker = " ← best match" if sense is cloud.best_sense else ""
-                lines.append(f"  sense {i+1}: {', '.join(primes) or 'ungrounded'} "
-                             f"(confidence: {sense.confidence}){marker}")
+    # ── Exact match ────────────────────────────────────────────
+    if cloud.exact_match:
+        primes = cloud.exact_match.primebit.get_prime_names()
+        lines.append(f"Already known in PABLO:")
+        lines.append(f"  {cloud.exact_match.symbol} → {', '.join(primes) or 'ungrounded'}")
+        lines.append(f"  confidence: {cloud.exact_match.confidence}"
+                     + (" [FAST PATH]" if cloud.fast_path else ""))
         lines.append("")
     else:
         lines.append("Already known in PABLO: None")
@@ -629,13 +565,10 @@ def recent_compounds(self, n: int = 5) -> list[Compound]:
 Test file: `tests/test_activation.py`
 
 #### Unit tests for ActivationCloud:
-- `test_cloud_default_fields` — dormant layers are None by default
-- `test_cloud_with_single_sense` — sense_matches=[one], best_sense set, primes aggregated
-- `test_cloud_with_multiple_senses` — sense_matches=[N], best_sense scored against context
-- `test_cloud_sense_scoring_financial_context` — "bank" with financial utterance → financial sense
-- `test_cloud_sense_scoring_geographic_context` — "bank" with geographic utterance → geographic sense
-- `test_cloud_sense_scoring_no_context` — no context → best_sense is None (specialist creates new)
-- `test_cloud_sense_scoring_below_threshold` — no sense above threshold → None
+- `test_cloud_default_fields` — dormant layers are None by default, fast_path=False
+- `test_cloud_with_exact_match` — exact_match set, primes aggregated at WEIGHT_EXACT_MATCH
+- `test_cloud_exact_match_high_confidence` — confidence >= 0.8 → fast_path=True
+- `test_cloud_exact_match_low_confidence` — confidence < 0.8 → fast_path=False
 - `test_cloud_with_family_root` — family_root contributes to prime_candidates
 - `test_cloud_with_definition_compounds` — nested definition compounds contribute
 - `test_cloud_with_utterance_context` — preceding tokens contribute at correct weight
@@ -660,12 +593,12 @@ Test file: `tests/test_activation.py`
 
 ### 13. Phase 1 Scope Summary
 
-✅ `core/activation.py` — ActivationCloud dataclass (sense_matches, best_sense, scoring), build, serialise
-✅ `core/activation.py` — `_score_senses()` for multi-sense disambiguation via prime overlap
-✅ `core/router.py` — utterance tracking, cloud assembly before specialist call, sense-aware resolution
-✅ `core/specialists.py` — TextGrounder prompt includes activation cloud context with all senses
-✅ `primes/KNOW.py` — `by_symbol_all()` returns list[Compound]; `recent_compounds()`
-✅ `tests/test_activation.py` — full unit + integration test suite including multi-sense tests
+✅ `core/activation.py` — ActivationCloud dataclass (exact_match, fast_path, family_root, definition_compounds, utterance_context, narrative_context, prime_candidates), build, serialise
+✅ `core/activation.py` — `FAST_PATH_EXACT_THRESHOLD` constant; fast_path set when exact_match.confidence >= threshold
+✅ `core/router.py` — utterance tracking, cloud assembly before specialist call, fast_path routing
+✅ `core/specialists.py` — TextGrounder prompt includes activation cloud context
+✅ `primes/KNOW.py` — `by_symbol()` O(1) via `_symbol_index`; `recent_compounds()`
+✅ `tests/test_activation.py` — unit + integration test suite
 
 ❌ Not Phase 1: FEEL integration (affective layer)
 ❌ Not Phase 1: WANT/NEED integration (motivational layer)
@@ -800,11 +733,3 @@ Utterance and narrative context would still be updated on each call — only the
 KNOW lookups and definition compounds would be cached. This is a performance
 optimisation, not a semantic change.
 
----
-
-### D7. ~~Multi-Sense Activation~~ (Promoted to Phase 1)
-
-Multi-sense support is now a Phase 1 core feature, not deferred. The cloud's
-`sense_matches` field, `best_sense` scoring, `by_symbol_all()` API, SENSE
-relations, and sense compound creation are all implemented in Phase 1.
-See sections 2, 3a, 4, 6, and 7 above.

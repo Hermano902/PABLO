@@ -24,7 +24,8 @@ from typing import Any, Callable, Dict, List, Optional
 from core.prime_base import Prime, PrimeError
 from core.compound import Compound, Relation
 from core.narrative import DefinitionNarrative, Narrative
-from core.primebit import PrimeBit
+from core.primebit import PrimeBit, PRIME_INDEX
+from core.triple import Triple
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -67,6 +68,7 @@ class KNOW(Prime):
 
         # ── Compound store ────────────────────────────────────────────────
         self._compounds:   Dict[int, Compound] = {}
+        self._symbol_index: Dict[str, int] = {}   # symbol → compound_id (O(1) lookup)
         # NOTE: self._lock is already created by Prime.__init__ (RLock)
         self._next_id:     int = 200   # 0-99 reserved, 100-199 logic, 200+ runtime
 
@@ -83,6 +85,12 @@ class KNOW(Prime):
         # ── Refinement tracking ───────────────────────────────────────────
         self._refinement:  Dict[int, RefinementRecord] = {}
         self._ref_lock     = threading.RLock()
+
+        # ── Triple store ──────────────────────────────────────────────────
+        self._triples:        Dict[int, Triple]      = {}   # triple_id → Triple
+        self._triple_index:   Dict[int, List[int]]   = {}   # source_id → [triple_id, ...]
+        self._tri_lock        = threading.RLock()
+        self._next_triple_id: int = 1
 
         # ── Hot cache (LRU) ───────────────────────────────────────────────
         self._cache: OrderedDict[int, Compound] = OrderedDict()
@@ -108,6 +116,8 @@ class KNOW(Prime):
             "compounds_retrieved": 0,
             "definitions_loaded":  0,
             "narratives_stored":   0,
+            "triples_stored":      0,
+            "triples_retrieved":   0,
             "queries_processed":   0,
             "cache_hits":          0,
             "enrichment_queued":   0,
@@ -151,6 +161,7 @@ class KNOW(Prime):
             for entry in entries:
                 c = Compound.from_dict(entry)
                 self._compounds[c.id] = c
+                self._symbol_index[c.symbol] = c.id
                 self._cache_put(c)
                 self._refinement[c.id] = RefinementRecord(compound_id=c.id)
             print(f"KNOW: Loaded {len(entries)} logic compounds (100-{99 + len(entries)})")
@@ -271,9 +282,11 @@ class KNOW(Prime):
                 "total_compounds":    len(self._compounds),
                 "total_definitions":  len(self._definitions),
                 "total_narratives":   len(self._narratives),
+                "total_triples":      len(self._triples),
                 "next_id":            self._next_id,
                 "next_def_id":        self._next_def_id,
                 "next_nar_id":        self._next_nar_id,
+                "next_triple_id":     self._next_triple_id,
                 "cache_size":         len(self._cache),
                 "persistence_enabled": self._enable_persistence,
             },
@@ -317,6 +330,7 @@ class KNOW(Prime):
             # persist into store + cache + refinement
             for compound in compounds:
                 self._compounds[compound.id] = compound
+                self._symbol_index[compound.symbol] = compound.id   # O(1) index
                 self._cache_put(compound)
                 self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
                 self.stats["compounds_stored"] += 1
@@ -350,6 +364,7 @@ class KNOW(Prime):
             compound.id = self._next_id
             self._next_id += 1
             self._compounds[compound.id] = compound
+            self._symbol_index[compound.symbol] = compound.id
             self._cache_put(compound)
             self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
             self.stats["compounds_stored"] += 1
@@ -380,13 +395,22 @@ class KNOW(Prime):
         return [c for c in (self.by_id(i) for i in ids) if c is not None]
 
     def by_symbol(self, symbol: str) -> Optional[Compound]:
-        """Find concept compound by symbol.  Phase 1: linear scan."""
+        """Find compound by exact surface form string.
+
+        O(1) lookup via _symbol_index.  "ran" finds "ran", not "run".
+        Used by DATA to check for existing compounds before creating new ones.
+        Used by SYMBOL for exact lookup before lemmatization.
+        Used by the activation cloud for exact_match assembly.
+        """
         with self._lock:
-            for compound in self._compounds.values():
-                if compound.symbol == symbol:
-                    self._increment_query_count(compound.id)
-                    return compound
-        return None
+            cid = self._symbol_index.get(symbol)
+            if cid is None:
+                return None
+            compound = self._compounds.get(cid)
+            if compound is not None:
+                self._increment_query_count(cid)
+                self.stats["compounds_retrieved"] += 1
+            return compound
 
     def by_prime(self, prime_name: str) -> List[Compound]:
         """Return all compounds whose primebit includes *prime_name*."""
@@ -416,6 +440,94 @@ class KNOW(Prime):
             for field_name, value in query.items():
                 results = [c for c in results if getattr(c, field_name, None) == value]
             return results
+
+    def recent_compounds(self, n: int = 5) -> List[Compound]:
+        """Return the last n concept/utterance compounds stored (by ID, descending).
+
+        Phase 1 proxy for narrative context used by the activation cloud.
+        Returns only concept and utterance compounds (not logic or internal).
+        Phase 2+: replaced by narrative-thread-aware retrieval.
+        """
+        with self._lock:
+            runtime = [
+                c for cid, c in sorted(self._compounds.items(), reverse=True)
+                if cid >= 200 and c.compound_type in ("concept", "utterance")
+            ]
+        return runtime[:n]
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 16. Triple Store API
+    # ══════════════════════════════════════════════════════════════════════
+
+    def store_triple(
+        self,
+        source_id:    int,
+        predicate:    str,
+        target_id:    Optional[int] = None,
+        target_prime: Optional[str] = None,
+        confidence:   float = 1.0,
+        source:       str = "definition",
+        observation_id: Optional[str] = None,
+    ) -> int:
+        """Store one triple. Validates predicate in PRIME_INDEX.
+
+        Exactly one of target_id or target_prime should be set.
+        Returns the assigned triple_id.
+        Raises ValueError if predicate is not a known prime.
+        """
+        _valid_predicates = set(PRIME_INDEX)
+        # Also allow logic compound names (IF, AND, OR, NOT, etc.)
+        _logic_predicates = {"IF", "AND", "OR", "NOT", "XOR", "NAND", "NOR", "XNOR", "TRUE", "FALSE"}
+        if predicate not in _valid_predicates and predicate not in _logic_predicates:
+            raise ValueError(f"Invalid predicate '{predicate}' — not in 63-prime set or logic set")
+
+        with self._tri_lock:
+            triple = Triple(
+                id=self._next_triple_id,
+                source_id=source_id,
+                predicate=predicate,
+                target_id=target_id,
+                target_prime=target_prime,
+                confidence=confidence,
+                source=source,
+                observation_id=observation_id,
+                created_at=time.time(),
+            )
+            self._next_triple_id += 1
+            self._triples[triple.id] = triple
+            self._triple_index.setdefault(source_id, []).append(triple.id)
+            self.stats["triples_stored"] += 1
+        return triple.id
+
+    def get_triple(self, triple_id: int) -> Optional[Triple]:
+        """Return a single triple by ID."""
+        with self._tri_lock:
+            t = self._triples.get(triple_id)
+            if t is not None:
+                self.stats["triples_retrieved"] += 1
+            return t
+
+    def get_triples(self, source_id: int) -> List[Triple]:
+        """Return all outgoing triples for a compound. O(1) index lookup."""
+        with self._tri_lock:
+            ids = self._triple_index.get(source_id, [])
+            result = [self._triples[tid] for tid in ids if tid in self._triples]
+            self.stats["triples_retrieved"] += len(result)
+            return result
+
+    def get_triples_by_predicate(self, source_id: int, predicate: str) -> List[Triple]:
+        """Return outgoing triples filtered by predicate."""
+        return [t for t in self.get_triples(source_id) if t.predicate == predicate]
+
+    def get_triples_by_observation(self, observation_id: str) -> List[Triple]:
+        """Return all triples from one observation (Phase 1 grouping key).
+
+        O(n) linear scan — used only by THINK once per reasoning cycle,
+        not in the hot path. Replaced by proposition store in Phase 2.
+        """
+        with self._tri_lock:
+            return [t for t in self._triples.values()
+                    if t.observation_id == observation_id]
 
     # ══════════════════════════════════════════════════════════════════════
     # 8. Definition Narrative API
@@ -453,10 +565,17 @@ class KNOW(Prime):
         updated_primebit: Optional[PrimeBit] = None,
         confidence:       Optional[float] = None,
         provenance:       Optional[dict] = None,
+        triples:          Optional[List[dict]] = None,
     ) -> bool:
         """
         Update a compound's definition.  Called by SYMBOL after enrichment.
         Increments compound version, appends to DefinitionNarrative thread.
+
+        triples: optional list of triple dicts to store alongside the refinement.
+        Each dict: {"predicate": str, "target_id": int|None, "target_prime": str|None,
+                    "confidence": float, "source": str}.
+        Stored via store_triple() after compound update.
+
         This is the ONLY permitted path for modifying primebit, relations,
         or confidence on a stored compound.
         """
@@ -488,6 +607,22 @@ class KNOW(Prime):
                     "confidence": confidence,
                     "version":    compound.version,
                 })
+
+        # Store triples from this refinement
+        if triples:
+            for t in triples:
+                try:
+                    self.store_triple(
+                        source_id=compound_id,
+                        predicate=t["predicate"],
+                        target_id=t.get("target_id"),
+                        target_prime=t.get("target_prime"),
+                        confidence=t.get("confidence", 1.0),
+                        source=t.get("source", "definition"),
+                    )
+                except (ValueError, KeyError):
+                    pass   # skip invalid triples silently
+
         return True
 
     # ══════════════════════════════════════════════════════════════════════
@@ -629,11 +764,16 @@ class KNOW(Prime):
             refinement_snapshot = {
                 str(k): v.__dict__ for k, v in self._refinement.items()
             }
+        with self._tri_lock:
+            triples_snapshot = {
+                str(k): v.to_dict() for k, v in self._triples.items()
+            }
         meta = {
-            "next_id":     self._next_id,
-            "next_def_id": self._next_def_id,
-            "next_nar_id": self._next_nar_id,
-            "saved_at":    time.time(),
+            "next_id":        self._next_id,
+            "next_def_id":    self._next_def_id,
+            "next_nar_id":    self._next_nar_id,
+            "next_triple_id": self._next_triple_id,
+            "saved_at":       time.time(),
         }
 
         os.makedirs("storage", exist_ok=True)
@@ -642,6 +782,7 @@ class KNOW(Prime):
             with open("storage/definitions.json", "w") as f: json.dump(definitions_snapshot, f, indent=2, default=str)
             with open("storage/narratives.json",  "w") as f: json.dump(narratives_snapshot,  f, indent=2, default=str)
             with open("storage/refinement.json",  "w") as f: json.dump(refinement_snapshot,  f, indent=2, default=str)
+            with open("storage/triples.json",     "w") as f: json.dump(triples_snapshot,     f, indent=2, default=str)
             with open("storage/metadata.json",    "w") as f: json.dump(meta,                 f, indent=2, default=str)
             self.stats["saves_to_disk"] += 1
         except Exception as e:
@@ -658,17 +799,19 @@ class KNOW(Prime):
             if os.path.exists("storage/metadata.json"):
                 with open("storage/metadata.json") as f:
                     meta = json.load(f)
-                self._next_id     = meta.get("next_id",     200)
-                self._next_def_id = meta.get("next_def_id", 1)
-                self._next_nar_id = meta.get("next_nar_id", 1)
+                self._next_id        = meta.get("next_id",        200)
+                self._next_def_id    = meta.get("next_def_id",    1)
+                self._next_nar_id    = meta.get("next_nar_id",    1)
+                self._next_triple_id = meta.get("next_triple_id", 1)
 
-            # compounds
+            # compounds — rebuild _symbol_index
             if os.path.exists("storage/compounds.json"):
                 with open("storage/compounds.json") as f:
                     data = json.load(f)
                 for raw in data.values():
                     c = Compound.from_dict(raw)
                     self._compounds[c.id] = c
+                    self._symbol_index[c.symbol] = c.id   # rebuild O(1) index
                     self._cache_put(c)
                     # ensure refinement record exists
                     if c.id not in self._refinement:
@@ -696,6 +839,16 @@ class KNOW(Prime):
                     data = json.load(f)
                 for k, v in data.items():
                     self._refinement[int(k)] = RefinementRecord(**v)
+
+            # triples — rebuild _triple_index
+            if os.path.exists("storage/triples.json"):
+                with open("storage/triples.json") as f:
+                    data = json.load(f)
+                with self._tri_lock:
+                    for raw in data.values():
+                        t = Triple.from_dict(raw)
+                        self._triples[t.id] = t
+                        self._triple_index.setdefault(t.source_id, []).append(t.id)
 
             self.stats["loads_from_disk"] += 1
 

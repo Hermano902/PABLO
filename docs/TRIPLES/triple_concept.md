@@ -134,7 +134,7 @@ A compound's definition IS a proposition. The triples that define what
       ("run",  KIND,  "move")         run is a kind of movement
       ("run",  MORE,  "walk")         more than walking
       ("run",  USE,   "legs")         using legs
-      ("run",  WITH,  FAST)           quickly
+      ("run",  WITH,  "fast")         quickly (compound, not prime)
       ("run",  FROM,  ENTITY)         done by an entity
 
 This is stored as the compound's Definition Narrative in KNOW. The same
@@ -223,9 +223,9 @@ A full narrative is multiple propositions linked in time and space:
     Inner narrative (the question — nested inside ask's WITH relation):
       ("THIS_H",   DO,    "put")                  ← "you" = Harry, cross-reference
       ("put",      WITH,  name_compound)
-      (name_compound, OF, "THIS_H")               ← Harry's name
+      (name_compound, PART, "THIS_H")             ← Harry's name (part of Harry)
       ("put",      TO,    goblet_compound)
-      (goblet_compound, OF, fire_compound)
+      (goblet_compound, WITH, fire_compound)      ← goblet of fire (associated with fire)
 
 The cross-reference between outer and inner narrative (THIS_H appears in both)
 IS the meaning. Without it "you" is unresolved.
