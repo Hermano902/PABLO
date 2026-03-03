@@ -272,8 +272,101 @@ a non-blocking dependency for early development — PABLO can run and learn with
 pure heuristic grounding from day one.
 
 
+## SYMBOL as Scaffolding — Retirement Roadmap
+
+SYMBOL's sequential resolution cascade is a temporary construction. Each step
+in the cascade IS an activation cloud assembly step performed manually and
+sequentially. As the activation cloud matures, SYMBOL's steps dissolve into
+cloud assembly one by one until SYMBOL is no longer needed.
+
+### What SYMBOL does manually today
+
+```
+1. KNOW exact lookup       → cloud exact_match layer
+2. Lemmatize + root lookup → cloud family_root layer
+3. Family member creation  → cloud family_root layer
+4. LLM specialist call     → cloud fast_path (if cloud not confident enough)
+5. Prime-name heuristic    → cloud prime_candidates layer
+6. Placeholder             → cloud unresolved → placeholder compound
+```
+
+Every step SYMBOL performs today is a future activation cloud capability.
+
+### Retirement phases
+
+```
+Phase 1   SYMBOL does full cascade; activation cloud is built but advisory only.
+          Cloud provides context to the LLM specialist (activation cloud as input).
+          Cloud does NOT yet decide — SYMBOL decides.
+
+Phase 2   Cloud handles all tokens already in KNOW (exact + family).
+          SYMBOL only handles tokens not found in cloud — unknown/ambiguous.
+          LLM specialist receives full activation cloud as context (not just token).
+          Rule: if cloud fast_path = True → skip SYMBOL entirely for that token.
+
+Phase 3   Cloud handles almost everything. SYMBOL = thin edge-case handler.
+          Unknown tokens rare — KNOW graph large enough for most symbols.
+          LLM specialist only called when cloud confidence < 0.4.
+
+Phase 4   SYMBOL retired. All cascade logic absorbed into cloud assembly.
+          Final pipeline: READ → activation cloud → THINK.
+          DATA and KNOW do not disappear — they become internal mechanics of
+          cloud assembly, not separate pipeline stages visible from outside.
+```
+
+### SYMBOL and DATA absorption
+
+DATA does not disappear in Phase 4. Its validation contract — "every proposal must
+meet the Compound contract before entering KNOW" — becomes an internal validation step
+inside cloud assembly. SYMBOL and DATA are absorbed, not removed.
+
+The pipeline simplifies externally:
+```
+Today:   READ → SYMBOL → DATA → KNOW → SELF → THINK
+Phase 4: READ → activation cloud → THINK
+```
+The internal mechanics of the cloud include everything SYMBOL and DATA do today.
+
+
+## Output Format Evolution
+
+### Phase 1 (current) — candidate_primes bag
+
+```json
+{
+  "candidate_primes": [{"prime": "MOVE", "score": 0.91}],
+  "roles":            [{"span": [0, 3], "role": "agent", "score": 0.87}],
+  "confidence":       0.89,
+  "provenance":       {"model": "text-grounder-v1"}
+}
+```
+
+### Phase 1.5 (DeepSeek extractor) — triple output
+
+```json
+{
+  "triples": [
+    {"source": "bite", "predicate": "FROM", "target_compound": "dog",   "confidence": 0.95},
+    {"source": "bite", "predicate": "TO",   "target_compound": "man",   "confidence": 0.92},
+    {"source": "bite", "predicate": "WITH", "target_prime": "BEFORE",   "confidence": 0.98}
+  ],
+  "activation_cloud_used": true,
+  "confidence":       0.95,
+  "provenance":       {"model": "deepseek-r1", "adapter": null}
+}
+```
+
+The shift from prime bags to triples is the shift from "what primes are present"
+to "what is the relationship between the compounds". Triples carry structure;
+prime bags carry only a flat set.
+
+DATA validates both formats. Triple output is preferred when available.
+
+
 See SYMBOL_ARCHITECTURE.md for router internals, model-serving, symbolicifier contract,
 rule schema, lifecycle, governance, and metrics.
+See docs/TRIPLES/triple_concept.md for the triple concept and the predicate prime table.
+See docs/ACTIVATION_CLOUD/activation_cloud_concept.md for the activation cloud.
 See docs/PRIMES/COMPOUND/CONCEPT.md for what a Compound is and the reverse pyramid.
 See docs/PRIMES/KNOW/CONCEPT.md for Definition Narrative storage and refinement API.
 See docs/PRIMES/DATA/CONCEPT.md for how near-compound candidates become real Compounds.

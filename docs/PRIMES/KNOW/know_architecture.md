@@ -42,6 +42,7 @@ without changing any caller code.
 ```python
 # core compound records
 self._compounds:    dict[int, Compound]         = {}
+self._symbol_index: dict[str, int]              = {}   # symbol → compound_id, O(1) lookup
 self._lock          = threading.RLock()
 self._next_id:      int = 200
 
@@ -58,6 +59,12 @@ self._next_nar_id:  int = 1
 # refinement tracking — usage signals per compound
 self._refinement:   dict[int, RefinementRecord] = {}
 self._ref_lock      = threading.RLock()
+
+# triple store — all relational triples (definition + utterance)
+self._triples:        dict[int, Triple]          = {}   # triple_id → Triple
+self._triple_index:   dict[int, list[int]]        = {}   # source_id → [triple_id, ...]
+self._tri_lock        = threading.RLock()
+self._next_triple_id: int = 1
 ```
 
 #### RefinementRecord
@@ -194,6 +201,7 @@ def store_batch(self, compounds: list[Compound]) -> dict[int, int]:
 
         for compound in compounds:
             self._compounds[compound.id] = compound
+            self._symbol_index[compound.symbol] = compound.id   # O(1) index
             self._cache_put(compound)
             self._refinement[compound.id] = RefinementRecord(compound_id=compound.id)
 
@@ -257,14 +265,16 @@ def by_symbol(self, symbol: str) -> Compound | None:
     Exact match — "ran" finds "ran", not "run".
     Used by DATA to check if a surface form is already known before creating new compound.
     Used by SYMBOL for exact lookup before attempting lemmatization.
-    Phase 1: linear scan. Phase 2: symbol index.
+    O(1) index lookup — symbol_index maintained by store_batch and _load_from_disk.
     """
     with self._lock:
-        for compound in self._compounds.values():
-            if compound.symbol == symbol:
-                self._increment_query_count(compound.id)
-                return compound
-    return None
+        compound_id = self._symbol_index.get(symbol)
+        if compound_id is None:
+            return None
+        compound = self._compounds.get(compound_id)
+        if compound:
+            self._increment_query_count(compound_id)
+        return compound
 
 def by_relation(self, predicate: str, target_id: int) -> list[Compound]:
     """Return all compounds that have a relation with the given predicate
@@ -595,6 +605,7 @@ def _load_from_disk(self) -> None:
         for raw in data.values():
             c = Compound.from_dict(raw)
             self._compounds[c.id] = c
+            self._symbol_index[c.symbol] = c.id   # rebuild O(1) index
             self._cache_put(c)
 
     if os.path.exists("storage/definitions.json"):
@@ -651,13 +662,16 @@ self.stats = {
 
 ```
 ✅ Four in-memory stores (compounds, definitions, narratives, refinement)
+✅ Symbol index (_symbol_index: dict[str, int]) — O(1) by_symbol() lookup
 ✅ Simple LRU cache (OrderedDict, configurable max size)
 ✅ Sequential ID assignment per store, loaded from metadata on startup
 ✅ Logic compound loading (100–199), pre-cached at startup, never evicted
 ✅ store_batch — ID assignment, temp→permanent sweep, definition narrative creation
 ✅ store — single compound write for THINK
 ✅ Layer 1 commit event → SELF listener registration
-✅ Retrieval: by_id, by_ids, by_symbol, by_prime, by_type, by_trigger, by_relation, search
+✅ Retrieval: by_id, by_ids, by_symbol (O(1)), by_prime, by_type, by_trigger, by_relation, search
+✅ Triple store (_triples + _triple_index) — see Section 16 below
+✅ Triple API: store_triple, get_triples(source_id), get_triples_by_predicate
 ✅ Definition Narrative API: get_definition, refine_definition
 ✅ Instance Narrative API: store/get/open/close/archive/by_source
 ✅ Refinement tracking: record_usage, record_outcome, get_refinement
@@ -667,8 +681,7 @@ self.stats = {
 ✅ Statistics counters
 ✅ enable_persistence=False for testing
 
-❌ by_symbol index (Phase 1: linear scan — acceptable for small compound stores)
-❌ by_prime index (Phase 1: linear scan)
+❌ by_prime index (Phase 2 — currently linear scan)
 ❌ Priority thread pool (Phase 2 — see D3)
 ❌ Sharded sub-record stores (Phase 2 — see D1)
 ❌ Full LRU eviction policy (Phase 2 — see D2)
@@ -677,6 +690,29 @@ self.stats = {
 ❌ SYMBOL enrichment integration in maintenance thread (Phase 2)
 ❌ SQLite persistence backend (Phase 2)
 ```
+
+---
+
+### 16. Triple Store API (Phase 1)
+
+Full API spec in docs/TRIPLES/triple_architecture.md. Summary:
+
+```python
+def store_triple(self, source_id, predicate, target_id, target_prime,
+                 confidence=1.0, source="definition") -> int:
+    """Store one triple. Validates predicate in PRIME_SET.
+    Adds to _triples dict and _triple_index[source_id] list.
+    Returns assigned triple_id."""
+
+def get_triples(self, source_id: int) -> list[Triple]:
+    """Return all outgoing triples for a compound. O(1) index lookup."""
+
+def get_triples_by_predicate(self, source_id: int, predicate: str) -> list[Triple]:
+    """Filter outgoing triples by predicate."""
+```
+
+Triple persistence: saved to `storage/triples.json` by autosave thread.
+`next_triple_id` added to `storage/metadata.json`.
 
 ---
 
@@ -733,7 +769,10 @@ Fixed global lock order prevents deadlock.
 
 ### D4. Indexes
 
-Add in-memory indexes for fast retrieval without linear scan:
+**Note: `_symbol_index` has been moved to Phase 1 (see Section 2 and 7).**
+It is already implemented — O(1) `by_symbol()` lookup via `dict[str, int]`.
+
+Add remaining in-memory indexes for fast retrieval without linear scan:
 - `_symbol_index: dict[str, int]` — symbol → compound_id
 - `_prime_index: dict[str, set[int]]` — prime_name → set of compound_ids
 - `_type_index: dict[str, set[int]]` — compound_type → set of compound_ids

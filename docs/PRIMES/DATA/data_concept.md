@@ -151,9 +151,58 @@ DATA tracks internal counters for system monitoring:
   validation_failures         Candidates rejected for contract violations
 
 
+## Triple Validation (Phase 1.5)
+
+When SYMBOL produces triple output (rather than a prime bag), DATA validates
+triples instead of prime candidates. The processing pipeline is identical in
+structure — DATA still enforces the Compound contract — but the inputs change:
+
+**Prime-bag validation (Phase 1 — current):**
+- Check each `candidate_prime` against the 63-prime set
+- Create concept Compound with primebit union of valid primes
+
+**Triple validation (Phase 1.5 — after DeepSeek extractor):**
+- Check each triple's `predicate` against the 63-prime set
+- Resolve `source` and `target_compound` surface forms to KNOW compound IDs via `by_symbol()`
+- Call `know.store_triple()` for each validated triple
+- Create concept Compound with primebit = union of all predicates in the triple set
+
+DATA accepts both formats. If `triples` key is present in the candidate, triple
+validation is used. Otherwise, prime-bag validation is used. No breaking change.
+
+Both formats can appear in the same batch — heuristic-grounded tokens produce
+prime bags; DeepSeek-grounded tokens produce triples.
+
+
+## DATA's Long-Term Role — Phase 4 Absorption
+
+DATA is scaffolding, not a permanent pipeline stage.
+
+In Phase 4, when the activation cloud matures, DATA's validation contract becomes
+an internal validation step inside cloud assembly. The cloud assembles triples
+directly from its pattern activation — the weighted prime candidates already imply
+the relational structure. DATA's explicit validation step dissolves into the cloud.
+
+The cloud calls KNOW.store_batch() directly. DATA's logic — prime validation,
+logic operator detection, temp ID resolution, utterance compound assembly — is
+replicated inside the cloud's commit phase.
+
+DATA does not disappear. It becomes internal mechanics of the cloud assembly step,
+not a separate pipeline stage visible from outside:
+
+```
+Phase 1:  READ → SYMBOL → DATA → KNOW → SELF → THINK
+Phase 4:  READ → activation cloud (contains DATA logic) → THINK
+```
+
+Until Phase 4, DATA continues exactly as it does today. No premature changes.
+
+
 See primes/DATA.py for the implementation.
 See docs/PRIMES/COMPOUND/CONCEPT.md for what a Compound is and what layers mean.
 See docs/PRIMES/PERCEPTORS/READ/CONCEPT.md for what READ emits.
 See docs/PRIMES/SYMBOL/CONCEPT.md for how SYMBOL produces near-compound candidates.
 See docs/PRIMES/KNOW/CONCEPT.md for how Compounds are stored after DATA validates them.
 See docs/PRIMES/NARRATIVES/CONCEPT.md for where observation context is recorded.
+See docs/TRIPLES/triple_concept.md for the triple format DATA validates in Phase 1.5.
+See docs/ACTIVATION_CLOUD/activation_cloud_concept.md for Phase 4 DATA absorption.

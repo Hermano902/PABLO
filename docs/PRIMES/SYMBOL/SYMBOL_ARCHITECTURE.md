@@ -293,3 +293,163 @@ Appendix B — Example `rule` compound
   "version":1
 }
 ```
+
+---
+
+## DeepSeek Triple Extractor — Spec (Phase 1.5)
+
+Replaces the `TextGrounder` prime-bag prompt with structured triple extraction.
+Introduced when the activation cloud is available to feed as context.
+
+### Input to specialist
+
+```json
+{
+  "sentence": "the dog bit the man",
+  "activation_cloud": {
+    "exact_match":            {"dog": 205, "bite": 208, "man": 212},
+    "family_root":            {},
+    "definition_compounds":   [205, 207, 208, 210],
+    "utterance_context":      [],
+    "prime_candidates":       {"FROM": 0.88, "TO": 0.82, "BEFORE": 0.91},
+    "fast_path":              false
+  }
+}
+```
+
+The activation cloud tells the model:
+- What compounds are already known for each token
+- What primes are already activated from definitions and context
+- Whether the cloud is confident enough to skip the specialist (`fast_path = True`)
+
+If `fast_path = True`: specialist is NOT called. Cloud output is used directly.
+
+### System prompt (DeepSeek triple extractor)
+
+```
+You are PABLO's semantic triple extractor. PABLO uses 63 atomic primes to
+express all meaning. Your job is to read a sentence and output the relationships
+between the compounds in it as triples.
+
+A triple is: (source_compound, PRIME, target_compound_or_prime)
+
+PRIME is always one of PABLO's 63 primes, acting as the relation predicate.
+The 63 primes are:
+AFTER, ALL, AT, BECAUSE, BEFORE, BETWEEN, BODY, CAN, CAUSE, CHANGE, DATA, DO,
+DOWN, ENTITY, FAR, FEEL, FROM, GOOD, BAD, HAVE, HEAR, HEAT, HERE, IN, KIND,
+KNOW, LAST, LEFT, LESS, LIFE, LIGHT, MAKE, MANY, MOVE, NEAR, NEED, NONE, NOW,
+ONE, OPEN, OTHER, PART, READ, RIGHT, SAY, SEE, SELF, SIDE, SOME, SYMBOL, THINK,
+THIS, TIME, TO, TOUCH, UP, USE, WANT, WITH, WRITE, YOU, BE
+
+Rules:
+- source and target are compound surface forms from the sentence
+- target may also be a prime name used as terminal value (e.g. BEFORE, NOW, MANY)
+- IGNORE English grammar (subject/verb/object, passive/active voice, tense markers)
+- Extract only the underlying prime relationships
+- "The man was bitten by the dog" and "The dog bit the man" produce identical output
+
+Output JSON only. No prose. No explanation.
+```
+
+### Expected output
+
+```json
+{
+  "triples": [
+    {
+      "source":          "bite",
+      "predicate":       "FROM",
+      "target_compound": "dog",
+      "target_prime":    null,
+      "confidence":      0.95
+    },
+    {
+      "source":          "bite",
+      "predicate":       "TO",
+      "target_compound": "man",
+      "target_prime":    null,
+      "confidence":      0.92
+    },
+    {
+      "source":          "bite",
+      "predicate":       "WITH",
+      "target_compound": null,
+      "target_prime":    "BEFORE",
+      "confidence":      0.98
+    }
+  ],
+  "confidence": 0.95,
+  "provenance": {"model": "deepseek-r1", "adapter": null}
+}
+```
+
+### DATA handling of triple output
+
+When SYMBOL produces triple output (vs prime-bag output), DATA:
+1. Validates predicates against PRIME_SET
+2. Resolves `target_compound` surface forms to KNOW compound IDs via `by_symbol()`
+3. Calls `know.store_triple()` for each resolved triple
+4. Falls back to prime-bag validation if triples are absent or malformed
+
+DATA accepts BOTH formats in Phase 1.5 — old heuristic candidates produce
+prime bags; new DeepSeek extractor produces triples. No breaking change.
+
+---
+
+## Activation Cloud Integration in Router
+
+When the activation cloud is available (Phase 2), the Router cascade changes:
+
+### Current cascade (Phase 1)
+
+```
+1. KNOW exact lookup
+2. Lemmatize + root lookup
+3. Family member creation
+4. LLM specialist (prime bag)
+5. Prime-name heuristic
+6. Placeholder
+```
+
+### Updated cascade (Phase 1.5+)
+
+```
+0. Build activation cloud for this token (CloudBuilder.build())
+   - If cloud.fast_path = True → return cloud result directly, skip all below
+1. KNOW exact lookup   [same as before]
+2. Lemmatize + root    [same as before]
+3. Family member       [same as before]
+4. DeepSeek triple extractor — receives token + full activation cloud as context
+5. Prime-name heuristic   [same as before, fallback]
+6. Placeholder            [same as before, last resort]
+```
+
+Step 0 is the only new step. It runs before every cascade and short-circuits
+if the cloud is confident. Everything else is identical — no regression risk.
+
+### Router utterance context tracking
+
+The Router tracks resolved tokens within the current utterance to feed the
+`utterance_context` layer of the activation cloud:
+
+```python
+class Router:
+    def __init__(self, ...):
+        ...
+        self._utterance_context: dict[str, int] = {}   # surface_form → compound_id
+                                                        # cleared per-observation
+
+    def resolve_observation(self, observation: dict) -> list[TokenResolution]:
+        self._utterance_context = {}   # fresh per observation
+        results = []
+        for token in tokens:
+            resolution = self._resolve_token(token)
+            if resolution.compound_id:
+                self._utterance_context[token.text] = resolution.compound_id
+            results.append(resolution)
+        return results
+```
+
+The `_utterance_context` is passed to `CloudBuilder.build()` as the
+`utterance_context` layer — so that when resolving "man" in "the dog bit the man",
+"dog" and "bite" are already in the activation context.

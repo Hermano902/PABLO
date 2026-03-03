@@ -348,6 +348,64 @@ Relational Narrative Lifecycle
                     Narrative is closed and archived — not deleted. History is permanent.
 
 
+## Narrative as Anchored Proposition
+
+Narratives are not a fundamentally different structure from meaning. They are
+propositions anchored by three specific elements that make them real — instances
+rather than universals:
+
+    TIME    — WITH → BEFORE / NOW / AFTER (when the event occurred)
+    SPACE   — AT → location_compound (where the event occurred)
+    AGENT   — THIS → specific_entity (which entity, not the general compound)
+
+The THIS prime is the distinguishing element. Without THIS, a proposition
+describes a universal truth. With THIS, it describes a specific instance in
+a specific narrative.
+
+### Universal vs Instance (triple view)
+
+    Universal proposition (compound definition):
+      (doctor,  DO,    run)          — doctors run, as a general truth
+    No THIS, no AT, no temporal WITH — this is not an event, it is a definition.
+
+    Instance proposition (narrative event):
+      (THIS,    BE,    doctor)        — THIS specific entity is a doctor
+      (THIS,    DO,    run)           — THIS entity ran
+      (THIS,    AT,    hospital)      — at the hospital
+      (THIS,    WITH,  BEFORE)        — in the past
+
+    The difference between definition and narrative event is NOT the compounds —
+    it is the THIS anchor. Add THIS and you create an instance.
+
+### Bindings as THIS References
+
+Every Binding in a Narrative IS a THIS reference. When THINK creates a Binding:
+  `THIS_ALICE → compound #42 (ALICE)`
+
+All instance proposition triples for THIS_ALICE reference the Binding's compound ID.
+The Binding's `current` state dict carries narrative-local properties that would
+be expressed as additional triples in the full triple structure (Phase 2).
+
+### NarrativeEvent as Proposition
+
+Each NarrativeEvent in the thread represents one instance proposition — a set
+of triples that occurred at that moment in the narrative. Phase 2 will store
+NarrativeEvents as Proposition records (see docs/PROPOSITIONS/proposition_concept.md).
+
+In Phase 1, NarrativeEvents are stored as the existing dict-based thread entries.
+The triple structure is implicit in the Binding relationships that THINK tracks.
+
+### Nested Narratives
+
+When narratives reference other narratives (Dumbledore→Harry→question), the inner
+narrative's anchor proposition is the `WITH` target of an outer triple. The cross-
+reference between THIS_H in the outer and inner narrative IS the meaning.
+
+This is the same nested proposition structure described in triple_concept.md —
+applied to the instance (narrative) layer rather than the definition layer.
+
+---
+
   ✅ Narrative, Binding, Snap, Constraint, NarrativeEvent data structures defined
   ✅ KNOW storage contract (store/get/open/close/archive)
   ✅ THINK: identify narrative context (new vs resume)
