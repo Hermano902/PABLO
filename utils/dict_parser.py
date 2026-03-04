@@ -54,8 +54,9 @@ from typing import Any
 # CONFIG
 # ══════════════════════════════════════════════════════════════════════════════
 
-DICT_DIR    = r"G:\AI\PABLO V0002\data\out"
-STORAGE_DIR = r"G:\AI\PABLO V0002\storage"
+_ROOT       = Path(__file__).resolve().parent.parent
+DICT_DIR    = str(_ROOT / "data" / "out")
+STORAGE_DIR = str(_ROOT / "storage")
 
 MAX_LAPS = 20
 

@@ -461,8 +461,9 @@ class DictionaryGrounder:
 if __name__ == "__main__":
     import sys
 
-    dict_dir = r"G:\AI\PABLO V0002\data\out"
-    out_path = r"G:\AI\PABLO V0002\storage\grounding_index.json"
+    _root    = Path(__file__).resolve().parent.parent
+    dict_dir = str(_root / "data" / "out")
+    out_path = str(_root / "storage" / "grounding_index.json")
 
     if len(sys.argv) > 1:
         dict_dir = sys.argv[1]
