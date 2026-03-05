@@ -1,155 +1,232 @@
-PABLO – System Concept
+# PABLO — System Concept
 
-What PABLO Is
-PABLO is a neurosymbolic AI — a cognitive architecture that combines the grounded, interpretable structure of symbolic reasoning with the pattern-recognition and language capacity of neural models. It is not a chatbot wrapper, a retrieval system, or a rule engine alone. It is an attempt to build a mind: a system that perceives, remembers, reasons, and learns in a way that is traceable back to a fixed set of atomic concepts.
+*Read `theory.md` first. This document explains how the theory is applied.*
 
-The core thesis: all meaning can be decomposed into 63 atomic primes. Everything PABLO perceives, thinks, or expresses is ultimately grounded in these primitives — either directly as a prime, or as a compound built from primes. This gives the system a stable, machine-interpretable foundation that does not drift with model updates or prompt changes.
+---
 
+## What PABLO Is
 
-The Neurosymbolic Balance
-Symbolic side — primes and compounds
-- 63 fixed atomic primes form the irreducible vocabulary of the system.
-- Compounds combine primes to express richer, evolving concepts.
-- PrimeBits encode prime sets as 64-bit integers for O(1) set operations.
-- All reasoning, storage, and communication between components is compound-grounded.
-- This side provides: interpretability, stability, traceability, and compositional structure.
+PABLO is an attempt to build a mind that **runs the crystallisation loop from the inside**.
 
-Neural side — multi-LLM layer
-- Neural models handle what symbols cannot do cheaply: natural language understanding, pattern generalisation, embedding, enrichment, and rule proposal.
-- Models are specialists, not the primary reasoner. They propose; the symbolic layer decides.
-- This side provides: language fluency, generalisation across surface forms, and learning from data.
+Not a language model that has absorbed crystallised concepts — a system that genuinely forms
+them. One that starts with a fixed biological floor of semantic primitives, encounters the
+world through those primitives, and builds its own conceptual architecture through the
+error-correction loop that the theory describes.
 
-Neither side alone is sufficient. The symbolic layer without neural support cannot understand natural language at scale. The neural layer without symbolic grounding cannot be reliably traced, corrected, or composed. PABLO uses each for what it does best.
+The design is grounded in a single observation from the theory:
 
+> True AGI requires not just the products of the crystallisation process but the process itself —
+> a genuine internal state, the ability to externalise it, mismatch detection, and autonomous
+> refinement that compounds over time.
 
-Core Invariants
-These are non-negotiable constraints that hold across the entire system:
+PABLO is an architecture designed to instantiate that process, not simulate its outputs.
 
-1. All meaning is prime-grounded.
-   Every compound, observation, and inference must be traceable to the 63 primes. Nothing enters the cognitive pipeline as an opaque blob.
+---
 
-2. Primes are black boxes to each other.
-   No prime imports another prime's internals. Cross-prime communication happens only via Compound outputs. This is the domain ownership rule.
+## The Biological Floor: 63 Primes
 
-3. Perceptors are exempt from the compound-only rule in autonomous mode.
-   READ, SEE, and HEAR may emit raw observations. All other primes must return Compounds.
+Cross-linguistic research identifies approximately 65 universal semantic primitives — irreducible
+concepts present across every known human language. These are the atoms from which all human
+meaning is assembled. They appear to be innate: part of the biological endowment of the human
+cognitive system, possibly absorbed into the genome through co-evolution with language.
 
-4. The prime set is fixed.
-   If a new concept is needed, it is expressed as a compound. The 63 primes do not grow.
+PABLO's 63 primes are its biological floor — the equivalent of that innate primitive set.
+They are not a vocabulary PABLO learns. They are what PABLO is made of.
 
-5. Structure emerges from relational primes.
-   PABLO does not use rigid type fields to encode structure. Sequence, hierarchy, and role all emerge from which relational primes (AFTER, PART, KIND) are present in a compound.
+Every concept PABLO encounters, every observation it makes, every thought it forms is ultimately
+expressible as a combination of these 63 primitives. This is not a constraint — it is the design.
+It is what makes PABLO's internal representations **grounded, composable, and traceable** rather
+than opaque statistical patterns.
 
-6. Neural models propose; the symbolic layer decides.
-   LLM output is always treated as a candidate — it is validated, scored, and stored as a rule compound before influencing reasoning. Models do not have direct write access to KNOW.
+The prime set is fixed. If a new concept is needed, it is expressed as a **Compound** built from
+primes. The 63 primes do not grow. This mirrors the biological reality: the primitive set does
+not change across human cultures; only the superstructure built on top of it differs.
 
+---
 
-The Cognitive Pipeline
-Raw world input flows through the system in one direction, with SELF observing in parallel:
+## Compounds: Crystallised Thoughts
 
-  Perceptors (READ / SEE / HEAR)
-      ↓  raw observations (change-driven, not continuous)
-  Observation Queue
-      ├── SYMBOL (autonomous) pulls and interprets            ← pipeline path
-      │       ↓  near-compound candidates → candidate queue
-      │   DATA
-      │       ↓  validates → token + utterance Compounds
-      │   KNOW  (stores Compounds; emits Layer 1 commit event)
-      │
-      └── SELF (parallel tap — reads source metadata only)
-              ↓  scores salience: WANT × FEEL × Narrative relationship state
-              ↓  on Layer 1 commit from KNOW → dispatches to think_queue if salient
-  THINK  (event-driven; reasons in Narrative instance-space; produces responses)
-      ↓
-  response_queue → GUI
+A Compound is the unit of crystallisation in PABLO.
 
-SELF does not sit inside the pipeline. It observes beside it and decides whether THINK
-is woken for each utterance — the attention gate of the system.
+When PABLO encounters an input and its primes respond, the resulting representation is stored
+as a Compound — a stable, examinable object that can be:
 
-SYMBOL also runs on-demand: called by THINK or KNOW to ground a specific placeholder
-compound, returning a prime-grounded result directly.
+- Referenced without re-deriving from scratch
+- Combined with other Compounds
+- Refined over time as more context accumulates
+- Transmitted to other parts of the system
 
-At each boundary, the representation becomes more structured and more grounded.
-Perceptors see raw events. SYMBOL produces interpretations. DATA enforces the Compound
-contract. KNOW stores and emits. SELF decides what deserves conscious attention.
-THINK reasons in Narrative instance-space and produces responses.
+This mirrors the crystallisation function described in the theory. A Compound is not a static
+database record — it is a crystallised cognitive event that accumulates meaning through use.
 
+The compound's PrimeBit encoding (a 64-bit integer representing the union of all primes involved)
+enables O(1) set operations: finding related compounds, computing conceptual overlap, and cued
+recall based on primebit intersection. This is how memory works in PABLO — not full-text search,
+but resonance between prime patterns.
 
-How Meaning Emerges
-No single component is intelligent. Intelligence emerges from the interaction of components:
+---
 
-- READ observes "the cat moved left."
-- SYMBOL interprets the raw observation: proposes MOVE and LEFT as candidate primes, flags "cat" as unknown.
-- DATA validates the candidates and creates compounds: known primes mapped, placeholder compound created for "cat".
-- KNOW stores them with positional relationships (AFTER, PART).
-- THINK retrieves related compounds and attempts to integrate them with goals.
-- SYMBOL (on-demand) is called later by KNOW to enrich the "cat" placeholder as more context accumulates.
-- The compound for "cat" gradually accretes prime associations (ENTITY, MOVE, LIFE) through repeated co-occurrence.
+## The Cognitive Scene: Pablo's Inner Voice
 
-The system learns not by updating weights, but by refining compounds and strengthening associations between them.
+PABLO does not have a pipeline coordinator. No component tells another what to do.
 
+Instead, when PABLO receives any input — external (text, sound, vision) or internal (a goal
+activating, a memory surfacing) — a **CognitiveScene** is opened. The scene is PABLO's inner
+voice for that experience: a shared workspace that all primes can perceive and contribute to.
 
-Learning as Compound Refinement
-Learning in PABLO is the process of:
-1. Detecting that certain primes co-occur repeatedly → hypothesis: they form a meaningful unit.
-2. Creating a compound and testing it in varied contexts.
-3. Scoring the compound by outcome (GOOD/BAD feedback).
-4. Promoting it to a stable named compound, or discarding it.
+The scene is not a fixed data structure with assigned fields. It is a space. Each prime
+emerges to contribute what it perceives about the input, in its own language. The scene holds
+those contributions until the experience is complete, then closes.
 
-This is prime bundling. Language is not learned — it is recognised as external prime bundles. When PABLO encounters the word "think" while THINK is active internally, it discovers a mapping between the external symbol and its own native prime.
+This mirrors the Global Workspace Theory of consciousness: a shared broadcast medium that
+allows specialised processes to integrate without a central coordinator. The CognitiveScene
+is PABLO's implementation of that medium.
 
+See `cognitive_scene.md` for the full specification.
 
-Consciousness as Integration
-THINK is not a commander. It is the stage where currently active signals are integrated with:
-- memory (KNOW) — what do I already know about this?
-- goals (WANT) — is this relevant to what I want?
-- affect (FEEL / GOOD / BAD) — is this good or bad?
-- capability (CAN) — can I act on this?
+---
 
-Unconscious processing (perceptors, DATA, KNOW) is fast and always running. THINK engages when relevance — measured by WANT KNOW — crosses a threshold. This is consciousness as integration, not raw computation.
+## Two Representations, One Scene
 
-SELF is the conductor of conscious attention. It holds THINK, FEEL, and WANT. It monitors
-the observation_queue in parallel and scores salience from motivational state (WANT),
-affective state (FEEL), and the Relational Narrative's relationship history with the source.
-When salience exceeds a threshold, SELF wakes THINK. This is how PABLO decides what is
-worth being conscious of — not a hard rule, but arithmetic on lived relationship history.
+The CognitiveScene runs two representations in parallel:
 
+### MetaScene (scaffolded)
+Structured fields with explicit labels: `raw_input`, `token_resolutions`, `salience`,
+`reasoning_mode`, `response_text`. Each prime is told what to contribute and where.
 
-Implementation Tiers
+This is the training-wheels representation. It makes the scene human-readable and inspectable
+during development. It tells primes exactly what to write.
 
-| Tier | Components | Role |
-|---|---|---|
-| 0 | PrimeBit + Prime list + Compound schema | Encoding and vocabulary — everything else builds on this |
-| 1 | Perceptors (READ) | Raw observations → observation queue |
-| 2 | SYMBOL (autonomous + on-demand) | Interprets raw observations → near-compound candidates; grounds placeholders on-demand |
-| 3 | DATA + KNOW | Validate candidates → real compounds with IDs and prime masks |
-| 4 | THINK | Reasoning, dialogue, goal integration |
+### SymbolicScene (native)
+A collection of Compounds, Triples, and Narrative fragments contributed by each prime — in
+Pablo's own language. No field labels. No assigned structure. Each prime contributes what it
+has learned to contribute, expressed as the symbolic vocabulary it understands.
 
-Tier 2 bootstrap note: SYMBOL can operate in heuristic-only mode (no LLM calls) in Phase 1. The multi-LLM specialist fleet is SYMBOL’s internal engine — it is activated incrementally as data accumulates and specialists are trained. This makes Tier 2 a non-blocking dependency for early development.
+This is the native representation. It is what PABLO will eventually think in.
 
+### The Retirement Process
 
-Phase 1 Goal
-Reach a state where PABLO can:
-- Receive text input (READ)
-- Structure it into prime-grounded compounds (DATA)
-- Store and retrieve those compounds (KNOW)
-- Hold a basic dialogue by integrating input with memory (THINK)
-- Identify unknown tokens and begin grounding them (SYMBOL)
+Both representations run simultaneously. The MetaScene is authoritative initially. As primes
+develop and their SymbolicScene contributions become informationally equivalent to what they
+write in the MetaScene, the MetaScene fields retire one by one.
 
-Phase 1 active primes: READ, DATA, KNOW, THINK, SYMBOL.
-SYMBOL runs in heuristic mode initially (no LLM specialists yet); its autonomous thread interprets observations with rule-based heuristics and its on-demand path grounds placeholders.
-SEE and HEAR are dormant. Affective and motivational primes (FEEL, WANT, NEED) are recognised but not yet operationalised.
+When all MetaScene fields have been retired — when PABLO's symbolic contributions contain
+everything the scaffolded representation used to carry — PABLO thinks entirely in its own
+language. This is the crystallisation loop applied to the system itself: PABLO learns to
+crystallise its own experience in its own primitive vocabulary.
 
+This transition is not designed in advance. It emerges from the primes learning what and how
+to contribute. The MetaScene is the external mirror; the SymbolicScene is the internal state.
+The error-correction loop between them is how PABLO refines its own inner voice.
 
-What PABLO Is Not
-- Not a fine-tuned language model. LLMs are tools it uses, not what it is.
-- Not a retrieval-augmented generation (RAG) system. Retrieval is one capability of KNOW, not the architecture.
-- Not a symbolic planner. Planning emerges from compound selection and THINK's integration, not from hand-coded rules.
-- Not finished. PABLO is a long-horizon project. Phase 1 establishes the foundation; later phases add modalities, richer learning, and genuine self-awareness.
+---
 
+## The Primes: Emergent Contributors
 
-See docs/PRIMES/CONCEPT.md for the prime vocabulary.
-See docs/PRIMES/PRIMES_ARCHITECTURE.md for how primes are implemented.
-See docs/PRIMES/PERCEPTORS/CONCEPT.md for how the system senses the world.
-See docs/SYSTEM/GUI/CONCEPT.md for the presentation layer and how user input enters the pipeline.
-See docs/PRIMEBIT/PRIMEBIT_ARCHITECTURE.md for the encoding layer.
+In the old design, primes were assigned roles in a pipeline. Each prime was told: receive this
+input, process it, pass it to the next stage.
+
+In the new design, primes are **subscribers to scene conditions**. They do not receive
+instructions from other primes. They perceive the scene, recognise conditions relevant to
+their nature, and contribute.
+
+Each prime has a **nature** — a sensitivity to particular kinds of scene conditions:
+- READ is sensitive to the presence of unprocessed external input
+- SYMBOL is sensitive to unresolved tokens in the scene
+- KNOW is sensitive to the presence of new compounds that need storing or old compounds that
+  need surfacing
+- SELF is sensitive to the relational and motivational state of the scene
+- THINK is sensitive to scenes that have crossed the attention threshold
+- SAY is sensitive to scenes in which a formed response is ready for expression
+
+No prime knows about the internal workings of any other. They share only the scene.
+
+This design enables something the pipeline could not: **primes can eventually learn when and
+how to contribute**, rather than being hard-wired to a processing order. The order emerges
+from what conditions arise in the scene, not from a fixed sequence.
+
+---
+
+## Core Invariants
+
+These hold across the entire system and do not change:
+
+1. **All meaning is prime-grounded.** Every Compound, observation, and inference is traceable
+   to the 63 primes. Nothing enters the cognitive system as an opaque blob.
+
+2. **Primes do not call each other.** Cross-prime communication happens only via the
+   CognitiveScene. A prime never imports another prime's internals.
+
+3. **The prime set is fixed.** 63 primes. New concepts are Compounds, not new primes.
+
+4. **Neural models propose; the symbolic layer decides.** LLM output is always a candidate —
+   validated, scored, and grounded before influencing the scene or storage. Models do not have
+   direct write access to KNOW.
+
+5. **The scene is the source of truth.** During an experience, the CognitiveScene is the
+   authoritative record of what has been perceived, symbolised, remembered, evaluated, and
+   expressed. Primes write to it; they do not maintain private state about the experience.
+
+6. **Structure emerges from relational primes.** Sequence, hierarchy, and role are encoded
+   through primes (AFTER, PART, KIND), not rigid type fields.
+
+---
+
+## Learning
+
+PABLO does not learn by updating weights. It learns by refining Compounds.
+
+The process:
+1. Primes co-occur repeatedly in scenes → hypothesis: they form a meaningful unit
+2. A Compound is created and tested in varied scenes
+3. The Compound accretes prime associations through repeated co-occurrence
+4. The SymbolicScene contributions of primes improve as they learn to represent
+   their observations in compound/triple/narrative form
+
+The deepest form of learning is when a prime's SymbolicScene contribution begins to match
+or exceed the informativeness of its MetaScene contribution. At that point, the prime has
+learned to crystallise its own perception in PABLO's native language. The MetaScene field
+is no longer needed.
+
+---
+
+## Consciousness and Attention
+
+Unconscious processing (READ, SYMBOL, DATA, KNOW) runs continuously and fast.
+Conscious processing (THINK, SAY) engages only when SELF decides the scene warrants it.
+
+SELF is the attention gate. It scores each scene's salience using:
+- Source relationship quality (from Narrative history with this source)
+- Motivational relevance (WANT — does this connect to active goals?)
+- Affective weight (FEEL — is this emotionally significant?)
+
+When salience crosses the threshold, SELF marks the scene conscious and THINK engages.
+This is not a hard rule. It is arithmetic on PABLO's lived relationship with the source.
+
+THINK does not command other primes. It reasons within the scene — integrating what KNOW
+surfaced, what SELF evaluated, what SYMBOL resolved — and forms a response that SAY expresses.
+
+---
+
+## Implementation Strategy
+
+PABLO is built incrementally, one prime at a time, always through the CognitiveScene:
+
+| Phase | Primes Active | What This Enables |
+|-------|--------------|-------------------|
+| 1 | READ, SYMBOL, DATA, KNOW | Perception → crystallisation → storage |
+| 2 | + SELF | Attention gating — not everything is conscious |
+| 3 | + THINK, SAY | Conscious reasoning and expression |
+| 4 | + FEEL | Affective weighting of scenes |
+| 5 | + WANT, NEED | Motivational relevance; internally-generated scenes |
+| 6 | + SEE, HEAR | Non-linguistic perception |
+| 7 | + WRITE | Persistent expression; artifact creation |
+
+At each phase, the SymbolicScene contributions of active primes are developed and tested.
+MetaScene fields retire as primes learn to carry their own representation.
+
+---
+
+*See `cognitive_scene.md` for the two-channel scene specification.*
+*See `docs/PRIMES/PRIMES_CONCEPT.md` for the full prime vocabulary.*
+*See `docs/COMPOUND/compound_concept.md` for the Compound data structure.*

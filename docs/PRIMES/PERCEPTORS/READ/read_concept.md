@@ -1,70 +1,117 @@
-READ – Concept and Design
+# READ — Concept
 
+*PABLO's linguistic perceptor. The first prime to touch the world.*
 
-Overview
-READ is PABLO's linguistic perceptor. It is the system's ability to encounter written language in the world — text the user types, text visible on screen, and text stored in files. READ does not interpret what language means; it detects that language has appeared or changed and delivers that raw event downstream for SYMBOL to interpret.
+---
 
-READ is the first and currently only active perceptor. Everything that enters PABLO's cognitive pipeline as text arrives through READ.
+## Nature
 
+READ is sensitive to **unprocessed external input**. When text appears in PABLO's
+environment — typed by a user, spoken aloud, visible on screen, present in a file —
+READ is the first prime to respond.
 
-What READ Senses
-READ monitors a set of text sources. Each source corresponds to a different way text exists in the world:
+READ does not interpret what language means. It detects that language has appeared,
+brings it into the system, and opens the CognitiveScene where all other primes will
+contribute their perception of it.
 
-KEYBOARD — text typed by the user in real time (NiceGUI input bar).
-The user types a line and presses Send (or Enter) in the GUI. The NiceGUI Send callback calls GUIInputSource.inject(text), which queues the text for READ's autonomous loop to pick up via acquire(). This is the only active source in Phase 1.
+READ is the threshold between world and mind.
 
-The concrete implementation is GUIInputSource (gui/input_source.py). It replaces stdin entirely. For headless or test runs, a StdinSource can be substituted — the loop is unchanged.
+---
 
-SCREEN — text visible on the screen (screen reader / OCR region).
-READ monitors one or more screen regions for text content. When the content changes — new text appears, existing text changes, or text is cleared — READ emits an observation. Dormant until implemented.
+## What READ Does
 
-FILE — text inside a watched file or set of files.
-READ monitors file contents for appended or modified text, similar to tail -f. Useful for log files, shared memory files, or any text file written to by external processes. Dormant until implemented.
+When input arrives, READ:
 
-All three sources share the same output contract: a raw observation dict pushed to observation_queue. Sources that are not yet implemented are registered as dormant placeholders so they can be activated without changing any downstream code.
+1. **Opens a CognitiveScene** — the shared workspace for this experience
+2. **Writes the perception layer** of the scene:
+   - `raw_input` — the unprocessed text, exactly as received
+   - `modality` — how it arrived (`"text"`, `"voice"`, `"image"`)
+   - `preliminary_tokens` — surface tokenisation (split on whitespace/punctuation)
+   - `source` — where it came from (`"keyboard"`, `"gui"`, `"file"`, `"voice"`)
+3. **Advances the scene stage** to `"symbol"` — signalling SYMBOL to contribute
+4. **Contributes to the SymbolicScene** — a single Compound representing the raw
+   experience before any interpretation. Type: `observation`. No PrimeBit assigned yet.
 
+READ then steps back. The scene is now SYMBOL's to perceive.
 
-Change Detection
-READ is not a line-by-line reader — it is a change detector. For each source, "sensing" means detecting a meaningful transition in text state:
+---
 
-KEYBOARD: a new non-empty line is a change. An empty Enter press is not. Repeated identical lines within the cooldown window are suppressed.
+## What READ Senses
 
-SCREEN: a change in the text content of a monitored region is a change. A static screen generates no observations. The comparison is text-level (hash of the visible text), not pixel-level.
+**KEYBOARD / GUI** — text typed by the user and submitted via the interface.
+This is the only active source in Phase 1.
 
-FILE: new bytes appended beyond the last-known file position is a change. Each new logical line (or configurable chunk) produces one observation.
+**VOICE** — spoken input, transcribed to text before READ receives it. Phase 6.
 
-Nothing reaches the queue unless a change has occurred. A perceptor observing a static world produces zero output.
+**SCREEN** — text visible in a monitored screen region. Dormant until Phase 6.
 
+**FILE** — new content appended to a watched file. Dormant until Phase 6.
 
-Relationship to SYMBOL
-READ's output is the primary input to SYMBOL's autonomous thread. SYMBOL pulls from observation_queue and interprets READ observations first because text is PABLO's primary modality in Phase 1.
+All sources share the same scene contribution: READ writes the same perception layer
+fields regardless of modality. Downstream primes do not need to know where input came from —
+they read the scene.
 
-What SYMBOL needs from READ:
-- event_type — so the right specialist is invoked (keyboard input needs different handling than file content).
-- data.text — the raw string to interpret.
-- metadata.source — for provenance tracking in the resulting compound.
+---
 
-READ does not care what SYMBOL does with its output. The observation dict is READ's complete contract. Any change to that contract requires updating both READ and SYMBOL together.
+## Change Detection
 
+READ is a **change detector**, not a line reader. It emits a scene only when something
+meaningfully new has appeared:
 
-Consultation Mode
-READ can be called on-demand by THINK (or any other prime) to fetch current text synchronously. In consultation mode:
-- Change detection is bypassed — READ returns whatever is currently available.
-- The queue is not used — the result is returned directly to the caller as a Compound.
-- This lets THINK ask "what is being typed right now?" without waiting for the autonomous loop.
+- KEYBOARD: a new non-empty submission. Empty presses and duplicate submissions within
+  the cooldown window are suppressed.
+- VOICE: a complete utterance (silence-delimited). Background noise does not trigger.
+- FILE: new bytes appended beyond the last-known position.
 
+A static world produces zero scenes. READ is silent when nothing changes.
 
-Source Taxonomy Summary
-Source        Status    Phase 1    Concrete class          What triggers an observation
-KEYBOARD      active    yes        GUIInputSource          New non-empty line submitted via the GUI input bar
-SCREEN        dormant   no         ScreenSource (stub)     Text region content changes
-FILE          dormant   no         FileSource (stub)       New content appended to a watched file
+---
 
+## The Scene READ Opens
 
-Simulation
-READ includes a simulation facility for testing. It feeds pre-defined strings into the pipeline as if they had arrived from the KEYBOARD source. This is strictly a test tool — it is gated behind an explicit flag and removed before production use. It has no effect on the production loop.
+```
+scene.raw_input          = "the cat moved left"
+scene.modality           = "text"
+scene.preliminary_tokens = ["the", "cat", "moved", "left"]
+scene.source             = "keyboard"
+scene.stage              = "symbol"
 
+scene.symbolic.contributions += SceneContribution(
+    prime    = "READ",
+    compounds = [Compound(type="observation", symbol="the cat moved left")],
+    triples   = [],
+    fragment  = None
+)
+```
 
-See READ_ARCHITECTURE.md for implementation details.
-See PERCEPTORS/CONCEPT.md for the general perceptor contract.
-See PRIMES/SYMBOL/CONCEPT.md for how SYMBOL consumes READ's output.
+This is all READ writes. It does not interpret tokens. It does not know what primes
+are in the input. It does not know SYMBOL exists.
+
+---
+
+## What READ Does NOT Do
+
+READ does not interpret meaning. That is SYMBOL.
+READ does not create concept Compounds. That is DATA.
+READ does not store anything in KNOW.
+READ does not know whether THINK will be activated. That is SELF's decision.
+READ does not know what other primes will do with the scene it opened.
+
+READ's contract is simple: when the world speaks, READ listens and opens the door.
+
+---
+
+## Phase Scope
+
+| Phase | Capability |
+|-------|-----------|
+| 1 | KEYBOARD / GUI text input → scene perception layer |
+| 6 | VOICE, SCREEN, FILE sources |
+
+Phase 1 READ is minimal and correct: it handles the one active source, opens the scene,
+writes the perception layer, and yields to SYMBOL.
+
+---
+
+*See `docs/SYSTEM/cognitive_scene.md` for the scene READ opens.*
+*See `docs/PRIMES/SYMBOL/symbol_concept.md` for what SYMBOL does next.*
