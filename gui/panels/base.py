@@ -16,10 +16,10 @@ class GUIPanel(ABC):
         """Mount all NiceGUI elements into container. Called once at startup."""
         ...
 
-    @abstractmethod
     def refresh(self, state: dict) -> None:
         """
-        Called on every timer tick with the latest system_state snapshot.
-        Must never block. Must never call queue.get() — read only from state dict.
+        Called on every timer tick with the latest system state snapshot.
+        Override only if the panel uses imperative (non-refreshable) updates.
+        Must never block.
         """
-        ...
+        pass

@@ -1,275 +1,309 @@
-# CognitiveScene — Specification
+# CognitiveScene
 
-*PABLO's inner voice. The shared workspace of experience.*
-
----
-
-## What a CognitiveScene Is
-
-When PABLO encounters any input — external (text, voice, image) or internal (a goal activating,
-a memory surfacing) — a CognitiveScene is opened.
-
-The scene is PABLO's representation of that experience as it unfolds. It is not a log or a
-record after the fact. It is the live workspace where primes contribute their perception of
-the input, where meaning is assembled, where attention is decided, and where response is formed.
-
-Think of it as PABLO's inner voice for a single experience: the continuous, integrating
-representation that bridges raw sensation and formed thought. When the experience is complete
-— when SAY has expressed what THINK formed, or when SELF has decided the scene does not
-warrant conscious attention — the scene closes and is preserved in the SceneStore.
-
-A scene maps to one utterance or one internal event. It is the atomic unit of experience.
+*PABLO's thinking threads. The shared workspace of experience.*
 
 ---
 
-## Two Channels
+## Concept
 
-Each CognitiveScene runs two representations simultaneously:
+When PABLO encounters any input — external (text, voice, image) or internal (a goal
+activating, a memory surfacing) — a CognitiveScene is opened.
+
+The scene is not a log or a pipeline step. It is a **live thinking thread**: a shared
+workspace where any prime can contribute whenever its conditions are met, independently
+of every other prime. No prime calls another. No prime waits for a gate.
+
+Primes watch the SceneStore continuously. When a scene's content satisfies a prime's
+entry condition, the prime acts and writes its contribution back to the scene. The order
+that emerges is natural — driven by data dependencies, not by imposed sequence.
 
 ---
 
-### Channel 1: MetaScene (Scaffolded)
+### The scene as transformer analogue
 
-Structured fields with explicit human-readable labels. Each prime is assigned a section.
-The MetaScene makes the scene inspectable, debuggable, and comparable during development.
+A transformer processes input through layers of attention and produces a weighted
+representation across all token positions. The CognitiveScene processes input through
+layers of prime attention and produces a weighted representation across all prime
+dimensions.
+
+Where a transformer's internal state is a dense matrix of floats opaque to inspection,
+the CognitiveScene is a structured symbolic representation: human-readable, traceable
+to individual primes, and refinable through the error-correction loop.
+
+---
+
+## Two thread classes
+
+Every scene belongs to one of two thread classes, each with its own lifecycle.
+
+---
+
+### Unconscious threads
+
+Always running. Low cost, high volume. READ, SYMBOL, DATA, and KNOW all operate
+primarily here. Unconscious threads process every scene in parallel with no serialisation
+constraint.
+
+An unconscious thread ends in one of three ways:
+
+| Outcome | Triggered by | Meaning |
+|---------|-------------|---------|
+| `promoted` | SELF | Salience threshold crossed — scene enters the conscious layer |
+| `archived` | SELF | Processed, nothing notable, kept for session memory |
+| `suppressed` | SELF | Competing with a higher-salience thread, parked |
+
+Suppressed scenes are not deleted. If the foreground conscious thread stalls, SELF may
+resurface a suppressed scene.
+
+---
+
+### Conscious threads
+
+Expensive. Serialised into a priority queue managed by SELF. THINK and SAY operate here.
+
+The conscious layer has three slots:
+
+| Slot | Description |
+|------|-------------|
+| **Foreground** | One scene. THINK's full attention. |
+| **Background** | Up to 2 scenes. THINK's partial attention — occasional cycles. |
+| **Stagnation queue** | Scenes with no recent progress. Heartbeat-checked periodically. |
+
+SELF manages promotions and demotions between slots. If the foreground scene resolves
+quickly, a warm background scene is promoted immediately — no cold start.
+
+A conscious thread ends in one of three ways:
+
+| Outcome | Triggered by | Meaning |
+|---------|-------------|---------|
+| `archived` | SAY | Response emitted. Scene preserved with full contribution record. |
+| `failed` | SELF / THINK | Dead end. Scene marked failed. SELF decides: retry, drop, or escalate. |
+| `archived` (stagnation) | SELF | No progress after timeout. Scene demoted or archived as low-priority. |
+
+---
+
+## Stagnation detection
+
+Two mechanisms, both always present:
+
+```python
+stagnation_timeout:    float        # wall-clock threshold — always active
+stagnation_max_cycles: int | None   # THINK sets this for content-based control
+last_progress_at:      float        # updated on every prime contribution
+think_cycles:          int          # incremented by THINK on each loop
+```
+
+Stagnation triggers when **either** condition is met first. THINK can tighten its own
+leash by setting `stagnation_max_cycles`. Over time PABLO learns to set this dynamically
+based on scene type and past performance.
+
+Default: `stagnation_timeout = 5.0` seconds, `stagnation_max_cycles = None`.
+
+---
+
+## Prime entry conditions
+
+Primes do not wait for a stage gate. Each prime watches the SceneStore and acts when the
+scene's content satisfies its entry condition:
+
+| Prime | Entry condition | Writes |
+|-------|----------------|--------|
+| READ | external signal crosses threshold | opens scene, `raw_input`, `preliminary_tokens` |
+| SYMBOL | scene has `raw_input`, no `script` yet | `script`, `language_hint`, `preliminary_tokens` (refined), `modality` |
+| KNOW | scene has `script` + `preliminary_tokens`, no `token_resolutions` yet | `token_resolutions`, `prime_field`, `prime_field_bits`, `utterance_id`, `concept_ids`, `known_symbols`, `new_symbols` |
+| KNOW | scene has `prime_field_bits > 0`, no `active_narratives` yet | `active_narratives` (cued recall) |
+| DATA | scene has `concept_ids`, no `validation_flags` yet | `validation_flags` (graph integrity, advisory) |
+| SELF | scene has `concept_ids` | `salience`, `attention_decision`, promotes or archives |
+| THINK | scene promoted to conscious foreground | `reasoning_mode`, `intent_id`, `response_text` |
+| SAY | scene has `response_text` | `closed_at`, emits response |
+
+These are the Phase 1 defaults. Any prime may define its own entry condition — an actor
+steps on when the stage holds what they need, not before. No prime is blocked from
+acting on any part of the scene.
+
+---
+
+## Two channels
+
+Each CognitiveScene runs two representations simultaneously.
+
+---
+
+### Channel 1: MetaScene (scaffolded)
+
+Structured fields with explicit human-readable labels. Each prime has an assigned
+section. The MetaScene makes the scene inspectable, debuggable, and comparable during
+development.
 
 ```
 IDENTITY
-    scene_id        str         uuid4
-    opened_at       float       unix timestamp
-    source          str         "keyboard" | "gui" | "internal" | "voice"
-    stage           str         current pipeline stage
+    scene_id               str          uuid4
+    opened_at              float        unix timestamp
+    source                 str          "keyboard" | "gui" | "internal" | "voice"
+    thread_type            str          "unconscious" | "conscious"
+    status                 str          "active" | "promoted" | "archived" | "suppressed" | "failed"
+    salience               float        SELF updates continuously
+    last_progress_at       float        updated on every contribution
+    stagnation_timeout     float        default 5.0s
+    stagnation_max_cycles  int | None   set by THINK; None = disabled
+    think_cycles           int          THINK loop counter
 
-PERCEPTION          [READ writes here]
-    raw_input       str         unprocessed input text
-    modality        str         "text" | "voice" | "image"
+PERCEPTION              [READ writes here]
+    raw_input           str         unprocessed input signal
+    modality            str         "text" | "voice" | "image" | "audio"
     preliminary_tokens  list[str]   surface tokens before interpretation
 
-SYMBOL              [SYMBOL writes here]
-    token_resolutions   list[dict]  per-token: {token, lemma, prime, score, method, pos}
-    prime_field         dict        {prime_name: max_score} across all tokens
-    prime_field_bits    int         union PrimeBit value
-    unresolved_tokens   list[str]   tokens with no prime match
+SYMBOL                  [SYMBOL writes here]
+    script              str         dominant Unicode block: "latin" | "cyrillic" | "cjk" | ...
+    language_hint       dict        {ISO-639 code: confidence}  e.g. {"en": 0.92, "de": 0.05}
+    modality            str         confirmed: "text" | "image" | "audio"
 
-MEMORY              [DATA + KNOW write here]
+MEMORY                  [KNOW writes here — resolution pass]
+    token_resolutions   list[dict]  per-token: {token, compound_id, symbol, score, method}
+    prime_field         dict        {prime_name: max_score} across all resolved Compounds
+    prime_field_bits    int         union PrimeBit of all resolved Compounds
+    unresolved_tokens   list[str]   tokens with no Compound match
+
+MEMORY                  [DATA + KNOW write here]
     utterance_id        int | None  permanent ID of the utterance Compound
     concept_ids         list[int]   IDs of all concept Compounds in this scene
-    known_symbols       list[str]   symbols found in KNOW (existing)
-    new_symbols         list[str]   symbols created new in this scene
-    active_narratives   list[int]   narrative IDs surfaced from KNOW
+    known_symbols       list[str]   symbols retrieved from KNOW (recognised)
+    new_symbols         list[str]   symbols crystallised new in this scene
+    active_narratives   list[int]   narrative IDs surfaced by KNOW
+    validation_flags    dict        {compound_id: {valid: bool, orphan_primes: list}}
 
-AFFECTIVE           [FEEL writes here — Phase 4]
-    valence         float       -1.0 to +1.0
-    intensity       float       0.0 to 1.0
-    emotional_tag   str         dominant emotional quality
+AFFECTIVE               [FEEL writes here — Phase 4]
+    valence             float       -1.0 to +1.0
+    intensity           float       0.0 to 1.0
+    emotional_tag       str         dominant emotional quality
 
-MOTIVATIONAL        [WANT / NEED write here — Phase 5]
-    goal_relevance  float       0.0 to 1.0
-    need_pressure   float       0.0 to 1.0
-    active_goal     str         current dominant goal label
+MOTIVATIONAL            [WANT / NEED write here — Phase 5]
+    goal_relevance      float       0.0 to 1.0
+    need_pressure       float       0.0 to 1.0
+    active_goal         str         current dominant goal label
 
-RELATIONAL          [SELF writes here]
-    salience            float       computed attention score
-    attention_decision  str         "conscious" | "archived" | "pending"
-    relationship_quality str        "neutral" | "familiar" | "trusted" | "strained"
+RELATIONAL              [SELF writes here]
+    attention_decision  str         "conscious" | "archived"
+    relationship_quality float      -1.0 → +1.0 from Instance Narrative
 
-EXECUTION           [THINK + SAY write here]
-    reasoning_mode  str         routing mode selected by THINK
-    intent_id       int | None  ID of the intent Compound created by THINK
-    response_text   str         final text to be expressed by SAY
+EXECUTION               [THINK + SAY write here]
+    reasoning_mode      str         routing mode selected by THINK
+    intent_id           int | None  ID of the Intent Compound created by THINK
+    response_text       str         final text to be expressed by SAY
 
 CLOSE
-    closed_at       float | None    unix timestamp when SAY closes the scene
+    closed_at           float | None    unix timestamp when scene is archived or failed
 ```
 
-The MetaScene is **authoritative during Phase 1**. Primes write to it directly. It is the
-source of truth for the GUI Scene panel and for evaluating SymbolicScene quality.
+The MetaScene is **authoritative in Phase 1**. It is the source of truth for the GUI
+Scene panel and for evaluating SymbolicScene quality.
 
 ---
 
-### Channel 2: SymbolicScene (Native)
+### Channel 2: SymbolicScene (native)
 
-An unstructured collection of Compounds, Triples, and Narrative fragments contributed by
-each prime — expressed in PABLO's own language.
+An unstructured collection of PLanguage contributions from each prime — Compounds,
+Triples, and Narrative fragments in PABLO's own language.
 
 No field labels. No assigned structure. Each prime contributes what it has learned to
-contribute, and nothing more. The SymbolicScene is how PABLO will eventually think.
+contribute. The SymbolicScene is what PABLO will eventually think in.
 
 ```python
 @dataclass
 class SceneContribution:
-    prime:              str             # which prime contributed this
-    compounds:          list[Compound]  # crystallised observations
-    triples:            list[Triple]    # relational assertions
-    narrative_fragment: str | None      # a fragment of inner voice, if formed
+    prime:              str
+    compounds:          list[Compound]
+    triples:            list[Triple]
+    narrative_fragment: str | None
 
 @dataclass
 class SymbolicScene:
     contributions:      list[SceneContribution]
-    narrative_thread:   list[int]       # ordered Compound IDs forming the scene's story
+    narrative_thread:   list[int]       # ordered Compound IDs — the scene's story
 ```
 
-Initially, primes write nothing (or very little) to the SymbolicScene. Over time, as they
-learn what is meaningful to contribute, the SymbolicScene grows richer.
+Initially, primes write little or nothing to the SymbolicScene. Over time, as they learn
+what is meaningful to contribute, the SymbolicScene grows richer.
 
 ---
 
-## The Retirement Process
+### The retirement process
 
-The MetaScene and SymbolicScene are compared continuously. For each MetaScene field, the
-question is: *does the SymbolicScene contain enough information to reconstruct this?*
+The MetaScene and SymbolicScene are compared continuously. For each MetaScene field:
+*does the SymbolicScene contain enough information to reconstruct this?*
 
-When the answer is yes for a given field, that MetaScene field is **retired**:
-- The field remains in the dataclass (for backward compat) but is no longer written
-- The SymbolicScene contribution is treated as authoritative
-- The GUI Scene panel shows the symbolic contribution instead
+When yes, that MetaScene field is **retired**:
+- Still present in the dataclass but no longer written to
+- SymbolicScene contribution becomes authoritative
+- GUI Scene panel shows the symbolic form instead
 
-When all MetaScene fields have been retired, PABLO thinks entirely in its own language.
+When all MetaScene fields have retired, PABLO thinks entirely in PLanguage. The
+MetaScene becomes a debug window rather than the substance of thought.
 
-This process is not designed. It emerges from the primes learning what to contribute and
-from explicit evaluation sessions where the two channels are compared.
-
-The comparison metric (Phase 1: visual inspection in GUI):
-- Coverage: does the SymbolicScene contain representations of all MetaScene fields?
-- Fidelity: do the symbolic representations match the MetaScene values?
-- Expressiveness: does the SymbolicScene contain information not in MetaScene?
+Phase 1 comparison metric: visual inspection in GUI (coverage, fidelity, expressiveness).
 
 ---
 
-## Scene Lifecycle
+## Architecture
 
-```
-INPUT ARRIVES
-    ↓
-READ opens scene → writes PERCEPTION layer
-    ↓
-SYMBOL contributes → writes SYMBOL layer
-    ↓
-DATA + KNOW contribute → write MEMORY layer
-    ↓
-SELF contributes → writes RELATIONAL layer
-    ├── attention_decision = "archived" → scene closes (SceneStore preserves it)
-    └── attention_decision = "conscious"
-            ↓
-        [FEEL contributes → AFFECTIVE layer]     ← Phase 4
-        [WANT contributes → MOTIVATIONAL layer]  ← Phase 5
-            ↓
-        THINK contributes → writes EXECUTION layer
-            ↓
-        SAY contributes → writes response_text, closes scene
-            ↓
-        response emitted to GUI / output
-```
-
-The brackets indicate future phases. In Phase 1-3, the scene goes directly from MEMORY
-to RELATIONAL to EXECUTION.
-
----
-
-## Stage Labels
-
-The `stage` field tracks where the scene currently is:
-
-| Stage | Set by | Meaning |
-|-------|--------|---------|
-| `perception` | READ | raw input received, tokens extracted |
-| `symbol` | SYMBOL | token interpretation complete |
-| `memory` | DATA/KNOW | compounds stored, memory surfaced |
-| `attention` | SELF | salience evaluated |
-| `archived` | SELF | below threshold, scene closed without THINK |
-| `execution` | THINK | reasoning and response formation |
-| `output` | SAY | response ready for expression |
-| `closed` | SAY | scene complete |
-
----
-
-## Prime Contributions: What Each Prime Writes
-
-### READ
-**MetaScene:** `raw_input`, `modality`, `preliminary_tokens`, `stage → "symbol"`
-**SymbolicScene:** A single Compound representing the raw experience (the utterance before
-any interpretation). Compound type: `observation`. No primebit yet assigned.
-
-### SYMBOL
-**MetaScene:** `token_resolutions`, `prime_field`, `prime_field_bits`, `unresolved_tokens`,
-`stage → "memory"`
-**SymbolicScene:** One Compound per resolved token (prime-grounded). Triples linking
-tokens to primes: `(token) -[SYMBOL]→ (prime)`. Unresolved tokens become placeholder
-Compounds with no primebit.
-
-### DATA + KNOW
-**MetaScene:** `utterance_id`, `concept_ids`, `known_symbols`, `new_symbols`,
-`active_narratives`, `stage → "attention"`
-**SymbolicScene:** The assembled Compound set (concepts + utterance). Triples encoding
-positional relationships (AFTER, PART). Narrative fragments from surfaced memories.
-
-### SELF
-**MetaScene:** `salience`, `attention_decision`, `relationship_quality`,
-`stage → "execution"` or `"archived"`
-**SymbolicScene:** A Compound expressing the relational evaluation. For example:
-a triple `(source) -[SELF/FEEL]→ (salience_compound)` where the salience compound
-encodes the weight. Eventually SELF will express the entire attention decision in
-compounds without the MetaScene scaffold.
-
-### THINK
-**MetaScene:** `reasoning_mode`, `intent_id`, `response_text`, `stage → "output"`
-**SymbolicScene:** A chain of Triples representing the reasoning path. An intent Compound.
-A Narrative fragment representing the formed response in compound space — PABLO's
-native-language version of what it is about to say.
-
-### SAY
-**MetaScene:** closes `closed_at`, `stage → "closed"`
-**SymbolicScene:** The final Narrative fragment — the expressed response as a Compound
-sequence, preserved in KNOW as a new Narrative entry. This is PABLO's memory of what
-it said, in its own language.
-
----
-
-## SceneStore
-
-The SceneStore holds scenes in memory across the session.
+### SceneStore
 
 ```python
 class SceneStore:
-    MAX_SCENES = 100    # keep last 100 scenes in memory
+    MAX_SCENES = 200    # last 200 scenes kept in memory
 
-    def open(self, source: str, **kwargs) -> CognitiveScene
-    def close(self, scene: CognitiveScene) -> None
-    def write(self, scene_id: str, **kwargs) -> None   # atomic field update
+    def open(self, source: str, thread_type: str = "unconscious", **kwargs) -> CognitiveScene
     def get(self, scene_id: str) -> CognitiveScene | None
-    def recent(self, n: int = 5) -> list[CognitiveScene]   # newest first
-    def by_stage(self, stage: str) -> list[CognitiveScene]
+    def recent(self, n: int = 5) -> list[CognitiveScene]
+    def by_status(self, status: str) -> list[CognitiveScene]
+    def active_unconscious(self) -> list[CognitiveScene]
+    def conscious_queue(self) -> list[CognitiveScene]   # foreground first
 
 scene_store = SceneStore()   # module-level singleton
 ```
 
-Closed scenes are preserved in the SceneStore for session inspection. They are not persisted
-to disk (scenes are ephemeral; Compounds and Narratives are what persist).
+Scenes are never deleted during a session. They move from `active` to `archived` or
+`failed`. Closed scenes are preserved for session inspection. They are not persisted to
+disk — scenes are ephemeral. Compounds and Narratives are what persist.
 
 ---
 
-## The Scene as Transformer Analogue
+### What each prime writes
 
-A useful analogy: if a transformer processes input through layers of attention and produces
-a weighted representation across all positions, the CognitiveScene processes input through
-layers of prime attention and produces a weighted representation across all prime dimensions.
+#### READ
+**MetaScene:** `raw_input`, `preliminary_tokens` (naive whitespace split)
+**SymbolicScene:** One observation Compound (the raw experience, no primebit yet).
 
-But where a transformer's internal representation is a dense matrix of floating-point weights
-opaque to inspection, PABLO's CognitiveScene is a structured symbolic representation:
-human-readable, traceable to individual primes, and refinable through the error-correction
-loop.
+#### SYMBOL
+**MetaScene:** `script`, `language_hint`, `modality`, `preliminary_tokens` (refined segmentation)
+**SymbolicScene:** One signal-classification Compound encoding script + dominant language.
 
-The MetaScene is the inspectable form. The SymbolicScene is the native form. The goal is for
-the two to converge — for the SymbolicScene to carry everything the MetaScene does, expressed
-in PABLO's own language rather than in human-assigned field labels.
+#### KNOW
+**MetaScene (resolution):** `token_resolutions`, `prime_field`, `prime_field_bits`,
+`unresolved_tokens`, `utterance_id`, `concept_ids`, `known_symbols`, `new_symbols`
+**MetaScene (cued recall):** `active_narratives`
+**SymbolicScene:** Resolved Compounds per token; Narrative fragments from surfaced memories.
 
-When that convergence happens, PABLO is no longer translating its experience into a format
-designed for human inspection. It is thinking in its own language, with the MetaScene reduced
-to a viewing window for debugging rather than the substance of thought.
+#### DATA
+**MetaScene:** `validation_flags` (orphan prime flags, advisory only)
+**SymbolicScene:** Positional Triples between concepts (AFTER relations encoding word order).
+
+#### SELF
+**MetaScene:** `salience`, `attention_decision`, `relationship_quality`; promotes or archives scene
+**SymbolicScene:** `(source) -[SELF]→ (salience_compound)`.
+
+#### THINK
+**MetaScene:** `reasoning_mode`, `intent_id`, `response_text`; increments `think_cycles`
+**SymbolicScene:** Reasoning Triple chain; Intent Compound; Narrative fragment.
+
+#### SAY
+**MetaScene:** `closed_at`; sets `status → "archived"`
+**SymbolicScene:** Final Narrative fragment — the expressed response as a Compound
+sequence, written to KNOW as a new Narrative entry.
 
 ---
 
-*See `system_concept.md` for context.*
-*See `docs/PRIMES/PRIMES_CONCEPT.md` for what each prime is.*
-*See `docs/COMPOUND/compound_concept.md` for the Compound structure.*
-*See `docs/NARRATIVES/narratives_concept.md` for how Narratives form from scene contributions.*
+*See [system.md](system.md) for the theoretical context.*
+*See [primes.md](../PRIMES/primes.md) for what each prime is.*
+*See [planguage.md](../PLANGUAGE/planguage.md) for the PLanguage units that fill the SymbolicScene.*
+*See [narratives.md](../PLANGUAGE/narratives.md) for how scenes accumulate into Narrative threads.*

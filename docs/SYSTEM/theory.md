@@ -193,4 +193,4 @@ Without these, language remains a library to be consulted rather than a tool to 
 
 ---
 
-*This theory is the foundation for PABLO's design. See `system_concept.md` for how it is applied.*
+*This theory is the foundation for PABLO's design. See [system.md](system.md) for how it is applied.*

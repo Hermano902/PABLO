@@ -91,7 +91,8 @@ class Compound:
     symbol:                     str            # human-language handle ("cat", "read", "NOT")
 
     # ── Semantic content ──────────────────────────────────────────────────
-    primebit:                   PrimeBit       # fast prime index
+    primebit:                   PrimeBit       # fast prime index; derived from relations whose predicate is a prime
+    definition:                 str            # plain-language definition string (display + THINK context)
 
     # ── Compound graph structure (Phase 1 bridges → triples Phase 2) ─────
     nested:                     list[int]      # child compound IDs composing this concept
@@ -151,12 +152,14 @@ class Compound:
         primebit:   PrimeBit,
         confidence: float = 0.0,
         grounded:   bool = False,
+        definition: str = "",
     ) -> Compound:
         """Create a Layer 0 concept Compound with a temp ID."""
         return cls(
             id=temp_id,
             symbol=symbol,
             primebit=primebit,
+            definition=definition,
             nested=[],
             relations=[],
             narrative_id=None,
@@ -186,6 +189,7 @@ class Compound:
             id=temp_id,
             symbol=symbol,
             primebit=primebit,
+            definition="",
             nested=nested,
             relations=[],
             narrative_id=None,
@@ -214,6 +218,7 @@ class Compound:
             id=temp_id,
             symbol=symbol,
             primebit=primebit,
+            definition="",
             nested=[],
             relations=[Relation(predicate="FROM", target_id=utterance_id)],
             narrative_id=None,
@@ -237,6 +242,7 @@ class Compound:
             "id":               self.id,
             "symbol":           self.symbol,
             "primebit":         self.primebit.value,
+            "definition":       self.definition,
             "nested":           self.nested,
             "relations":        [
                 {"predicate": r.predicate, "target_id": r.target_id}
@@ -268,6 +274,7 @@ class Compound:
             id=                 d["id"],
             symbol=             d.get("symbol", d.get("text", "")),
             primebit=           PrimeBit(d.get("primebit", d.get("primebit_value", 0))),
+            definition=         d.get("definition", ""),
             nested=             d.get("nested", d.get("children", [])),
             relations=          [
                 Relation(predicate=r["predicate"], target_id=r["target_id"])

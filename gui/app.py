@@ -14,22 +14,23 @@ from gui.input_source import gui_input_source
 from gui.state import get_state, log_event, MANAGED_PRIMES
 from gui.panels.conversation import ConversationPanel
 from gui.panels.system import SystemPanel
+from gui.panels.scene import ScenePanel
 from gui.panels.inspect import InspectPanel
 from gui.panels.statistics import StatisticsPanel
 from gui.panels.settings import SettingsPanel
 from gui.panels.development import DevelopmentPanel
-from core.queues import prime_registry, response_queue
 
 
 # Module-level panel refs so the timer can reach them across calls.
 _conversation: ConversationPanel | None = None
 _system: SystemPanel | None = None
+_scene: ScenePanel | None = None
 _dev: DevelopmentPanel | None = None
 
 
 @ui.page('/')
 async def index():
-    global _conversation, _system, _dev
+    global _conversation, _system, _scene, _dev
 
     # ── Global styles + Three.js ────────────────────────────────────────
     ui.add_head_html(THREE_JS_HEAD)
@@ -113,7 +114,7 @@ async def index():
             'min-height:38px; height:38px; flex-shrink:0; padding:0 12px;'
         ) as tabs:
             for label, active in [
-                ('Talk', True), ('Inspect', False),
+                ('Talk', True), ('Scene', False), ('Inspect', False),
                 ('Statistics', False), ('Dev', False), ('Settings', False)
             ]:
                 colour = '#00c8c8' if active else '#2a2a2a'
@@ -122,9 +123,6 @@ async def index():
                     f'letter-spacing:0.1em; color:{colour};'
                     f'min-height:38px; padding:0 16px;'
                 )
-            tab_talk, tab_ins, tab_stats, tab_set = (
-                tabs._props.get('modelValue'), None, None, None
-            )
 
         # ── Tab panels ─────────────────────────────────────────────────
         content_area = ui.element('div').style(
@@ -185,8 +183,13 @@ async def index():
                         'display:flex; flex-direction:column;'
                         'padding:12px 10px;'
                     )
-                    _system = SystemPanel(MANAGED_PRIMES)
+                    _system = SystemPanel()
                     _system.build(sys_col)
+
+                # ── Scene ──────────────────────────────────────────────
+                with ui.tab_panel('Scene').style('padding:0; height:100%;'):
+                    _scene = ScenePanel()
+                    _scene.build(ui.column().classes('w-full h-full'))
 
                 # ── Inspect ────────────────────────────────────────────
                 with ui.tab_panel('Inspect').style('padding:0; height:100%;'):
@@ -223,31 +226,50 @@ async def index():
     settings_panel._on_shutdown = do_shutdown
 
     # ════════════════════════════════════════════════════════════════════
+    # Prime init helpers  (called from do_init, one per prime)
+    # ════════════════════════════════════════════════════════════════════
+    def _init_know():
+        from primes.KNOW import know
+        know.initialize()
+
+    def _init_read():
+        from primes.READ import read
+        read.register_source(gui_input_source)
+        read.initialize()
+
+    def _init_symbol():
+        from primes.SYMBOL import symbol
+        symbol.initialize()
+
+    def _init_data():
+        from primes.DATA import data
+        data.initialize()
+
+    # ════════════════════════════════════════════════════════════════════
     # Initialisation handler
     # ════════════════════════════════════════════════════════════════════
     async def do_init():
         init_btn.set_visibility(False)
         await ui.run_javascript("if(window.pablo?.blob?.boot) pablo.blob.boot.setSpeed(3.0)")
 
-        for prime_name in MANAGED_PRIMES:
+        # Prime initialisation — order matters: KNOW before DATA, READ last
+        _prime_inits = [
+            ("KNOW",   lambda: _init_know()),
+            ("READ",   lambda: _init_read()),
+            ("SYMBOL", lambda: _init_symbol()),
+            ("DATA",   lambda: _init_data()),
+        ]
+
+        for prime_name, init_fn in _prime_inits:
             try:
                 status_label.set_text(f'{prime_name} initialising...')
-                prime = prime_registry.get_prime(prime_name)
-                prime.initialize()
+                init_fn()
                 status_label.set_text(f'{prime_name} online.')
                 log_event(f'{prime_name} online.')
             except Exception as exc:
                 status_label.set_text(f'{prime_name} failed.')
                 log_event(f'ERROR {prime_name}: {exc}')
             await asyncio.sleep(0.45)
-
-        # Unsuspend SELF now that all primes are running
-        try:
-            self_prime = prime_registry.get_prime("SELF")
-            self_prime.suspended = False
-            log_event("SELF unsuspended — attention routing active.")
-        except Exception:
-            pass
 
         status_label.set_text('Ready.')
         await ui.run_javascript("if(window.pablo?.blob?.boot) pablo.blob.boot.pulse()")
@@ -283,28 +305,19 @@ async def index():
     input_box.on('keydown.enter', handle_send)
 
     # ════════════════════════════════════════════════════════════════════
-    # Timer  (100 ms — drains response_queue, refreshes system panel)
+    # Timer  (100 ms — refreshes all stateful panels)
     # ════════════════════════════════════════════════════════════════════
     def on_tick():
-        # Drain response queue → conversation
-        responses = []
-        while not response_queue.empty():
-            try:
-                responses.append(response_queue.get_nowait())
-            except Exception:
-                break
-        if responses and _conversation:
-            _conversation.refresh({'_responses': responses})
+        try:
+            state = get_state()
+        except Exception:
+            return
 
-        # Refresh system sidebar + dev panel
-        if _system or _dev:
-            try:
-                state = get_state(prime_registry)
-                if _system:
-                    _system.refresh(state)
-                if _dev:
-                    _dev.refresh(state)
-            except Exception:
-                pass
+        if _system:
+            _system.refresh(state)
+        if _scene:
+            _scene.refresh(state)
+        if _dev:
+            _dev.refresh(state)
 
     ui.timer(0.1, on_tick)

@@ -23,6 +23,7 @@ from typing import Any, Callable, Dict, List, Optional
 
 from core.prime_base import Prime, PrimeError
 from core.compound import Compound, Relation
+from core.cognitive_scene import CognitiveScene, SceneContribution, scene_store
 from core.narrative import DefinitionNarrative, Narrative
 from core.primebit import PrimeBit, PRIME_INDEX
 from core.triple import Triple
@@ -106,6 +107,11 @@ class KNOW(Prime):
         self._enable_persistence = enable_persistence
         self._autosave_interval  = 30   # seconds
 
+        # ── Scene participation (cued recall only) ────────────────────────
+        self._scene_recall_processed: set[str] = set()
+        self._scene_recall_lock = threading.Lock()
+        self._scene_poll_interval = 0.02   # 20 ms
+
         # ── Threading bookkeeping ─────────────────────────────────────────
         self._running = False
         self._threads: List[threading.Thread] = []
@@ -137,6 +143,7 @@ class KNOW(Prime):
         self._bootstrap_relational_narrative()
         self._start_autosave_thread()
         self._start_maintenance_thread()
+        self._start_scene_poll_thread()
         print(f"KNOW: Initialized with {len(self._compounds)} compounds")
 
     def _on_shutdown(self) -> None:
@@ -215,6 +222,11 @@ class KNOW(Prime):
 
     def _start_maintenance_thread(self) -> None:
         t = threading.Thread(target=self._maintenance_loop, daemon=True, name="KNOW-maintenance")
+        t.start()
+        self._threads.append(t)
+
+    def _start_scene_poll_thread(self) -> None:
+        t = threading.Thread(target=self._scene_poll_loop, daemon=True, name="KNOW-scene-poll")
         t.start()
         self._threads.append(t)
 
@@ -863,6 +875,61 @@ class KNOW(Prime):
     def get_store_size(self) -> int:
         with self._lock:
             return len(self._compounds)
+
+    # ══════════════════════════════════════════════════════════════════════
+    # Scene participation — autonomous poll loop
+    # ══════════════════════════════════════════════════════════════════════
+
+    def by_primebit_intersection(self, bits: int, top_k: int = 10) -> List[Compound]:
+        """
+        Return Compounds whose primebit has the most overlap with *bits*
+        (popcount of scene_bits & compound_bits). Used for cued recall.
+        """
+        if not bits:
+            return []
+        with self._lock:
+            scored = []
+            for c in self._compounds.values():
+                overlap = bin(c.primebit.value & bits).count("1")
+                if overlap:
+                    scored.append((overlap, c))
+        scored.sort(key=lambda x: -x[0])
+        return [c for _, c in scored[:top_k]]
+
+    def _scene_poll_loop(self) -> None:
+        """Autonomous scene watcher — cued recall only."""
+        while self._running:
+            try:
+                for scene in scene_store.active_unconscious():
+                    self._maybe_recall(scene)
+            except Exception:
+                pass
+            time.sleep(self._scene_poll_interval)
+
+    def _maybe_recall(self, scene: CognitiveScene) -> None:
+        """
+        Entry condition: prime_field_bits > 0 AND active_narratives empty.
+        Surface Narratives whose content resonates with scene's prime field.
+        """
+        if not scene.prime_field_bits:
+            return
+        if scene.active_narratives:
+            return
+        with self._scene_recall_lock:
+            if scene.scene_id in self._scene_recall_processed:
+                return
+            self._scene_recall_processed.add(scene.scene_id)
+
+        resonant = self.by_primebit_intersection(scene.prime_field_bits, top_k=10)
+        nar_ids: list[int] = []
+        seen: set[int] = set()
+        for c in resonant:
+            if c.narrative_id is not None and c.narrative_id not in seen:
+                nar_ids.append(c.narrative_id)
+                seen.add(c.narrative_id)
+
+        if nar_ids:
+            scene.write(active_narratives=nar_ids)
 
 
 # ══════════════════════════════════════════════════════════════════════════════

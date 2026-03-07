@@ -2,7 +2,7 @@
 main_gui.py — PABLO with NiceGUI interface.
 
 Normal:  python main_gui.py          → native standalone window
-Dev:     python main_gui.py --dev    → browser at http://localhost:8080, hot-reload on every file save
+Dev:     python main_gui.py --dev    → browser at http://localhost:8080, no auto-reload
 """
 
 import sys
@@ -19,7 +19,7 @@ if __name__ in {'__main__', '__mp_main__'}:
             port=8080,
             title='PABLO [dev]',
             dark=True,
-            reload=True,   # watches all .py files — browser refreshes on save
+            reload=False,
             show=True,
             favicon='🧠',
         )
