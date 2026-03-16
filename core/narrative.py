@@ -15,8 +15,6 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 import time
 
-from core.scene_template import SceneTemplate
-
 
 # ══════════════════════════════════════════════════════════════════════════════
 # DefinitionNarrative
@@ -30,16 +28,13 @@ class DefinitionNarrative:
     Updated only via KNOW.refine_definition() — never directly by any other prime.
     """
 
-    id:             int               # assigned by KNOW (separate counter from compounds)
-    compound_id:    int               # compound this definition belongs to
-    symbol:         str               # human-language handle (readability only)
-    relations:      list[dict]        # predicate -> target links forming the definition
-    thread:         list[dict]        # ordered history of how meaning was built
-    constraints:    list[dict]        # definitional rules that must hold universally
-    created_at:     float = field(default_factory=time.time)
-    # Primes have NO scene_template (they are axiomatic, single-execution).
-    # Compound concepts carry a SceneTemplate: ordered prime steps + causal/temporal links.
-    scene_template: SceneTemplate | None = None
+    id:           int               # assigned by KNOW (separate counter from compounds)
+    compound_id:  int               # compound this definition belongs to
+    symbol:       str               # human-language handle (readability only)
+    relations:    list[dict]        # predicate -> target links forming the definition
+    thread:       list[dict]        # ordered history of how meaning was built
+    constraints:  list[dict]        # definitional rules that must hold universally
+    created_at:   float = field(default_factory=time.time)
 
     # ── Mutation methods ──────────────────────────────────────────────────
 
@@ -95,28 +90,25 @@ class DefinitionNarrative:
 
     def to_dict(self) -> dict:
         return {
-            "id":             self.id,
-            "compound_id":    self.compound_id,
-            "symbol":         self.symbol,
-            "relations":      self.relations,
-            "thread":         self.thread,
-            "constraints":    self.constraints,
-            "created_at":     self.created_at,
-            "scene_template": self.scene_template.to_dict() if self.scene_template else None,
+            "id":          self.id,
+            "compound_id": self.compound_id,
+            "symbol":      self.symbol,
+            "relations":   self.relations,
+            "thread":      self.thread,
+            "constraints": self.constraints,
+            "created_at":  self.created_at,
         }
 
     @classmethod
     def from_dict(cls, d: dict) -> DefinitionNarrative:
-        raw_st = d.get("scene_template")
         return cls(
-            id=             d["id"],
-            compound_id=    d["compound_id"],
-            symbol=         d["symbol"],
-            relations=      d.get("relations", []),
-            thread=         d.get("thread", []),
-            constraints=    d.get("constraints", []),
-            created_at=     d.get("created_at", time.time()),
-            scene_template= SceneTemplate.from_dict(raw_st) if raw_st else None,
+            id=          d["id"],
+            compound_id= d["compound_id"],
+            symbol=      d["symbol"],
+            relations=   d.get("relations", []),
+            thread=      d.get("thread", []),
+            constraints= d.get("constraints", []),
+            created_at=  d.get("created_at", time.time()),
         )
 
 

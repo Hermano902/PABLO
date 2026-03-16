@@ -120,125 +120,6 @@ def primebit_to_names(primebit_value: int) -> list[str]:
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# SceneTemplate builder (dict-only — no core/ imports needed)
-# ══════════════════════════════════════════════════════════════════════════════
-
-# Tokens that signal a causal or temporal link between steps.
-# Detected inline while scanning definition tokens for primes.
-_BECAUSE_TOKENS: frozenset[str] = frozenset({
-    "because", "therefore", "thus", "hence", "so", "enabling",
-})
-_BEFORE_TOKENS: frozenset[str] = frozenset({
-    "before", "first", "initially", "then", "subsequently",
-})
-_AFTER_TOKENS: frozenset[str] = frozenset({
-    "after", "once", "when", "following",
-})
-_WITH_TOKENS: frozenset[str] = frozenset({
-    "with", "while", "alongside", "simultaneously",
-})
-
-# Advisory role hints for primes (mirrors core/scene_template.py, kept in sync manually)
-_PRIME_TO_ROLE: dict[str, str] = {
-    "SEE":    "percept",    "HEAR":   "percept",   "FEEL":   "percept",
-    "TOUCH":  "percept",    "READ":   "decode",    "WRITE":  "encode",
-    "KNOW":   "content",    "THINK":  "cognition", "SAY":    "expression",
-    "DO":     "action",     "MAKE":   "produce",   "MOVE":   "motion",
-    "CAUSE":  "cause",      "WANT":   "intention", "NEED":   "necessity",
-    "HAVE":   "possession", "BE":     "state",     "CHANGE": "transition",
-    "USE":    "instrument",
-}
-
-_SYMBOL_PRIMES: frozenset[str] = frozenset({"READ", "WRITE", "SYMBOL", "SAY"})
-
-
-def _build_scene_template(compound_id: int, texts: list[str]) -> dict | None:
-    """Build a SceneTemplate dict from raw definition texts.
-
-    Scans tokens for prime names (the scene steps) and connector words
-    (the causal/temporal links).  Requires at least 2 distinct primes.
-
-    Returns a plain dict (SceneTemplate.to_dict() format) so dict_parser
-    stays core/-import-free.  Returns None if fewer than 2 primes found.
-    """
-    seen_primes: list[str] = []   # ordered, de-duplicated
-    seen_set:    set[str]  = set()
-    explicit_links: list[dict] = []
-
-    for text in texts:
-        tokens      = tokenise(text)
-        last_prime  = None   # most recently seen prime name
-        pending     = None   # pending link_type from a connector token
-
-        for token in tokens:
-            if token in PRIME_SET_LOWER:
-                prime = LOWER_TO_PRIME[token]
-                if prime not in seen_set:
-                    seen_primes.append(prime)
-                    seen_set.add(prime)
-                idx = seen_primes.index(prime)
-
-                if pending is not None and last_prime is not None:
-                    from_idx = seen_primes.index(last_prime)
-                    if from_idx != idx:
-                        explicit_links.append({
-                            "from_step": from_idx,
-                            "to_step":   idx,
-                            "link_type": pending,
-                        })
-                    pending = None
-
-                last_prime = prime
-
-            elif token in _BECAUSE_TOKENS:
-                pending = "BECAUSE"
-            elif token in _BEFORE_TOKENS:
-                pending = "BEFORE"
-            elif token in _AFTER_TOKENS:
-                pending = "AFTER"
-            elif token in _WITH_TOKENS:
-                pending = "WITH"
-
-    if len(seen_primes) < 2:
-        return None
-
-    # Build steps
-    steps: list[dict] = []
-    open_slots: dict[str, object] = {}
-    for i, prime in enumerate(seen_primes):
-        slot_name = f"{prime.lower()}_{i}"
-        slot_type = "SYMBOL" if prime in _SYMBOL_PRIMES else None
-        steps.append({
-            "index":     i,
-            "prime":     prime,
-            "role":      _PRIME_TO_ROLE.get(prime, "operand"),
-            "slot_name": slot_name,
-            "slot_type": slot_type,
-        })
-        open_slots[slot_name] = slot_type
-
-    # Fill gaps with implicit BEFORE links where no explicit link exists
-    linked_pairs: set[tuple[int, int]] = {
-        (lk["from_step"], lk["to_step"]) for lk in explicit_links
-    }
-    implicit_links: list[dict] = []
-    for i in range(len(steps) - 1):
-        if (i, i + 1) not in linked_pairs:
-            implicit_links.append({
-                "from_step": i,
-                "to_step":   i + 1,
-                "link_type": "BEFORE",
-            })
-
-    return {
-        "compound_id": compound_id,
-        "steps":       steps,
-        "links":       explicit_links + implicit_links,
-        "open_slots":  open_slots,
-    }
-
-
-# ══════════════════════════════════════════════════════════════════════════════
 # Dictionary loader
 # ══════════════════════════════════════════════════════════════════════════════
 
@@ -447,8 +328,6 @@ def write_grounded(
 
             existing_id = sense.get("compound_id")
 
-            texts = sense.get("_texts", [])
-
             if existing_id is not None and str(existing_id) in compounds:
                 # ── Update existing compound ────────────────────────────
                 c = compounds[str(existing_id)]
@@ -460,26 +339,18 @@ def write_grounded(
 
                 def_id = c.get("narrative_id")
                 if def_id and str(def_id) in definitions:
-                    defn = definitions[str(def_id)]
-                    defn["thread"].append({
+                    definitions[str(def_id)]["thread"].append({
                         "timestamp":  time.time(),
                         "type":       "lap_refinement",
                         "nested_ids": nested_ids,
                         "primebit":   primebit,
                         "confidence": confidence,
                     })
-                    # Rebuild scene_template if texts improved
-                    if texts and defn.get("scene_template") is None:
-                        st = _build_scene_template(existing_id, texts)
-                        if st:
-                            defn["scene_template"] = st
 
             else:
                 # ── Create new compound for this sense ──────────────────
                 cid      = next_id
                 next_id += 1
-
-                scene_template = _build_scene_template(cid, texts) if texts else None
 
                 compounds[str(cid)] = {
                     "id":           cid,
@@ -522,9 +393,8 @@ def write_grounded(
                         "primebit":   primebit,
                         "confidence": confidence,
                     }],
-                    "constraints":   [],
-                    "scene_template": scene_template,
-                    "created_at":    time.time(),
+                    "constraints": [],
+                    "created_at":  time.time(),
                 }
 
                 refinement[str(cid)] = {
@@ -701,7 +571,6 @@ def run_laps(dict_dir: str, storage_dir: str) -> None:
                             "sense_key":   sk,
                             "pos":         pos,
                             "_resolved":   result["resolved"],
-                            "_texts":      sense_info["texts"],
                         }],
                     }
                     already = grounded[key]
@@ -727,7 +596,6 @@ def run_laps(dict_dir: str, storage_dir: str) -> None:
                             "sense_key":   sk,
                             "pos":         pos,
                             "_resolved":   result["resolved"],
-                            "_texts":      sense_info["texts"],
                         })
                         new_senses += 1
                     elif (result["resolved"] > existing_sense.get("_resolved", 0)
@@ -736,7 +604,6 @@ def run_laps(dict_dir: str, storage_dir: str) -> None:
                         existing_sense["nested_ids"] = result["nested_ids"]
                         existing_sense["confidence"] = result["confidence"]
                         existing_sense["_resolved"]  = result["resolved"]
-                        existing_sense["_texts"]     = sense_info["texts"]
                         updated_senses += 1
 
         print(f"   New words: {new_words}  |  New senses: {new_senses}  "
